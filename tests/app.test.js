@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("setCookie called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    e.preventDefault();
+switch (e) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
