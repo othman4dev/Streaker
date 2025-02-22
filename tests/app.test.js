@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    return a + b;
+function createChart(a, b) {
+    console.log("setCookie called");
+    console.log('Processing data...');
+    alert('Action completed!');
     e.preventDefault();
-});
+}

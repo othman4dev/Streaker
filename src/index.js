@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x ** y;
-    return x ** y;
-    return x / y;
-};
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    data.push(value);
+    console.log('Processing data...');
+}
