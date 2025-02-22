@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "moment": "^9.6.5",
-    "nightwatch": "^3.7.3",
-    "axios": "^3.6.0",
-    "react": "^8.2.0",
-    "puppeteer": "^7.1.7",
-    "eslint": "^2.6.8",
-    "protractor": "^2.4.6",
-    "prettier": "^3.5.5"
+    "mongodb": "^7.3.7",
+    "firebase": "^9.5.9",
+    "axios": "^6.7.8",
+    "nightwatch": "^6.5.3",
+    "mysql": "^8.2.7",
+    "aws-sdk": "^8.3.7"
   }
 }

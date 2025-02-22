@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("handleClick arrow function called");
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
     document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     e.preventDefault();
-    error.textContent = '';
-};
+});
