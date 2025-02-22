@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    e.preventDefault();
-});
+switch (el) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
