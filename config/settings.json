@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^5.9.9",
-    "jasmine": "^7.5.2",
-    "typescript": "^9.1.4",
-    "nightwatch": "^3.0.2",
-    "jest": "^5.7.3",
-    "graphql": "^7.8.1",
-    "protractor": "^0.4.3"
+    "protractor": "^8.8.1",
+    "cypress": "^2.8.5",
+    "prettier": "^0.2.5",
+    "mongodb": "^8.5.4",
+    "karma": "^6.0.8",
+    "angular": "^3.0.7",
+    "jest": "^6.0.6"
   }
 }
