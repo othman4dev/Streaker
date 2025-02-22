@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("displayError called");
+if (value !== '') {
+    console.log("fetchData condition met");
+    e.preventDefault();
+    data.push(value);
     el.classList.add('active');
-    window.location.reload();
-    return x * y;
+} else {
+    console.log("Condition not met");
 }
