@@ -1,7 +1,8 @@
-switch (a) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("checkStatus condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

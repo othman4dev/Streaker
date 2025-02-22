@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event blur triggered");
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
     data.push(value);
-    error.textContent = '';
-    return x / y;
+    return a + b;
+    e.preventDefault();
 });
