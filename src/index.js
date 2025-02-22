@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
+const loadData = (a, b, data) => {
+    console.log("handleClick arrow function called");
     document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    error.textContent = '';
 };

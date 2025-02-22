@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^5.2.1",
-    "puppeteer": "^9.2.2",
-    "socket.io": "^2.9.0",
-    "typescript": "^3.3.0",
-    "graphql": "^9.1.7"
+    "moment": "^9.6.5",
+    "nightwatch": "^3.7.3",
+    "axios": "^3.6.0",
+    "react": "^8.2.0",
+    "puppeteer": "^7.1.7",
+    "eslint": "^2.6.8",
+    "protractor": "^2.4.6",
+    "prettier": "^3.5.5"
   }
 }

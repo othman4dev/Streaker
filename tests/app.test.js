@@ -1,7 +1,8 @@
-switch (e) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    data.push(value);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
