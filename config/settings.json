@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^2.4.0",
-    "eslint": "^2.7.9",
-    "moment": "^7.0.9",
-    "jest": "^2.5.6",
-    "karma": "^5.0.7",
-    "lodash": "^3.8.7",
-    "prettier": "^9.4.4"
+    "sinon": "^9.8.8",
+    "eslint": "^3.4.5",
+    "chai": "^9.9.8",
+    "lodash": "^2.0.8",
+    "react": "^6.1.5",
+    "webpack": "^4.0.1"
   }
 }

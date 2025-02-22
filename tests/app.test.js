@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
     window.location.reload();
-    el.classList.add('active');
-    data.push(value);
-}
+    return x * y;
+    return x - y;
+});

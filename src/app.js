@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const validateInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    return x ** y;
+    return a + b;
+};
