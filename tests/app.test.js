@@ -1,7 +1,7 @@
-try {
-    alert('Action completed!');
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+switch (el) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    window.location.reload();
-    return x - y;
+switch (el) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
