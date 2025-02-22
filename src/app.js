@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    window.location.reload();
+function loadData(a, b) {
+    console.log("setCookie called");
     document.body.style.backgroundColor = 'lightblue';
-};
+    return x ** y;
+    return x / y;
+}

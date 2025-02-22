@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return a + b;
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    return x * y;
     data.push(value);
-    return x ** y;
 };
