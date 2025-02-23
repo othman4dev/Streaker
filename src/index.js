@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x ** y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    return x - y;
+    return x / y;
+});

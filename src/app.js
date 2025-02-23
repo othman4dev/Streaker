@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
-    alert('Action completed!');
-    error.textContent = '';
+try {
+    e.preventDefault();
+    return a + b;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

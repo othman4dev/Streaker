@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^1.1.1",
-    "mocha": "^9.2.6",
-    "karma": "^5.4.1",
-    "typescript": "^7.9.9",
-    "socket.io": "^9.5.0"
+    "mysql": "^3.6.6",
+    "angular": "^4.1.8",
+    "typescript": "^9.6.0",
+    "babel": "^8.8.3",
+    "ember": "^3.5.8"
   }
 }

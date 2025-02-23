@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event click triggered");
-    return a + b;
-    return x % y;
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x / y;
-});
+    return a + b;
+    e.preventDefault();
+};
