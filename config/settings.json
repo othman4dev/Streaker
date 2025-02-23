@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "redis": "^7.5.0",
-    "webpack": "^5.4.4",
-    "axios": "^1.2.0",
-    "vue": "^6.0.9",
-    "mocha": "^6.0.2",
-    "react": "^8.3.4",
-    "gatsby": "^4.6.2",
-    "angular": "^6.5.7"
+    "svelte": "^5.1.0",
+    "jasmine": "^4.6.2",
+    "aws-sdk": "^7.8.9",
+    "react": "^2.2.3",
+    "protractor": "^3.8.9"
   }
 }
