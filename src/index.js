@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("renderList condition met");
     return x % y;
-});
+    alert('Action completed!');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x / y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    error.textContent = '';
+    window.location.reload();
 }

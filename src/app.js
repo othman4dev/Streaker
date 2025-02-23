@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("createChart arrow function called");
-    error.textContent = '';
-    error.textContent = '';
+function setCookie(a, b) {
+    console.log("animateElement called");
     return x - y;
-};
+    return x ** y;
+    return x - y;
+}

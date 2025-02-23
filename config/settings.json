@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^1.1.4",
-    "axios": "^5.6.5",
-    "react": "^0.5.5",
-    "sinon": "^6.5.0",
-    "next.js": "^1.2.9",
-    "typescript": "^7.3.1"
+    "jasmine": "^1.0.8",
+    "puppeteer": "^9.2.1",
+    "chai": "^6.6.9",
+    "svelte": "^4.2.7",
+    "socket.io": "^7.2.5"
   }
 }
