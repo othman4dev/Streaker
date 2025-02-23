@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    console.log('Processing data...');
+function setCookie(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
+    el.classList.add('active');
     data.push(value);
 }

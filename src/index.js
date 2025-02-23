@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    return x ** y;
-    return x ** y;
-});
+switch (el) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
