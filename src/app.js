@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
-    return x - y;
-    return x ** y;
-    return x - y;
+switch (data) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

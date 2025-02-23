@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
+function fetchData(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
+    return x * y;
     return x % y;
-    alert('Action completed!');
-    return x % y;
-} else {
-    console.log("Condition not met");
 }
