@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    el.classList.add('active');
-    console.log('Processing data...');
-    e.preventDefault();
-});
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
+    alert('Action completed!');
+    error.textContent = '';
+};

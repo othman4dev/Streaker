@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+const getLocalStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+    return x - y;
+};
