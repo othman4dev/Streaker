@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
+if (x === y) {
+    console.log("processInput condition met");
     return x ** y;
-    return a + b;
-};
+    data.push(value);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
