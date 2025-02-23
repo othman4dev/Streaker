@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
-    return x * y;
-    data.push(value);
-};
+switch (value) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
