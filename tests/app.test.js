@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    e.preventDefault();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("loadData condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
