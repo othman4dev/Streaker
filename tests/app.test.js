@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    window.location.reload();
     e.preventDefault();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "redis": "^5.2.6",
-    "svelte": "^7.7.1",
-    "nightwatch": "^9.1.0",
-    "ember": "^7.2.2",
-    "chai": "^8.8.1",
-    "lodash": "^7.1.4",
-    "cypress": "^8.8.1",
-    "enzyme": "^2.2.2"
+    "ember": "^8.7.4",
+    "express": "^7.8.0",
+    "gatsby": "^2.8.5",
+    "aws-sdk": "^4.4.8",
+    "jest": "^1.4.5"
   }
 }
