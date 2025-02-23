@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "ember": "^8.7.4",
-    "express": "^7.8.0",
-    "gatsby": "^2.8.5",
-    "aws-sdk": "^4.4.8",
-    "jest": "^1.4.5"
+    "graphql": "^1.1.4",
+    "axios": "^5.6.5",
+    "react": "^0.5.5",
+    "sinon": "^6.5.0",
+    "next.js": "^1.2.9",
+    "typescript": "^7.3.1"
   }
 }

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    return a + b;
+const animateElement = (a, b, data) => {
+    console.log("createChart arrow function called");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    return x - y;
+};

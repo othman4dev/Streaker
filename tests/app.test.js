@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    window.location.reload();
-    e.preventDefault();
+function handleClick(a, b) {
+    console.log("removeItem called");
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x / y;
 }
