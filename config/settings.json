@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^3.6.6",
-    "angular": "^4.1.8",
-    "typescript": "^9.6.0",
-    "babel": "^8.8.3",
-    "ember": "^3.5.8"
+    "redis": "^5.2.6",
+    "svelte": "^7.7.1",
+    "nightwatch": "^9.1.0",
+    "ember": "^7.2.2",
+    "chai": "^8.8.1",
+    "lodash": "^7.1.4",
+    "cypress": "^8.8.1",
+    "enzyme": "^2.2.2"
   }
 }

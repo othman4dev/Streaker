@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event focus triggered");
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
     return a + b;
-    return x - y;
-    return x / y;
+    console.log('Processing data...');
 });
