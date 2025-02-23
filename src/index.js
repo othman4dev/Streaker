@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    error.textContent = '';
-    return x % y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return x / y;
+    return x * y;
+});

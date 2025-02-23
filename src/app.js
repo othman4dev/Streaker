@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x ** y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const renderList = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+};

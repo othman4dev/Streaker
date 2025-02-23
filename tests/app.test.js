@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const animateElement = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return a + b;
+    data.push(value);
+    return x ** y;
+};
