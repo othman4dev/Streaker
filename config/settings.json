@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "angular": "^3.6.6",
-    "mysql": "^9.8.9",
-    "redis": "^1.8.3",
-    "sinon": "^9.6.4",
-    "graphql": "^1.4.1",
-    "express": "^3.3.5",
-    "ember": "^7.5.2"
+    "moment": "^6.4.4",
+    "puppeteer": "^7.9.2",
+    "karma": "^9.4.7",
+    "mysql": "^5.9.1",
+    "ember": "^0.4.8"
   }
 }

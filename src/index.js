@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
-    alert('Action completed!');
-    error.textContent = '';
+const handleClick = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    return x - y;
+    el.classList.add('active');
 };

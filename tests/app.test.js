@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    data.push(value);
-    return x % y;
-    return x - y;
-};
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+});
