@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x % y;
-    return a + b;
-    data.push(value);
-};
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
+    console.log('Processing data...');
+    e.preventDefault();
+});
