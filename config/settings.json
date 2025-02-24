@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "axios": "^5.2.5",
-    "chai": "^3.6.0",
-    "nightwatch": "^6.1.7",
-    "socket.io": "^8.9.3",
-    "mysql": "^8.9.3",
-    "gatsby": "^7.3.0",
-    "aws-sdk": "^7.9.2",
-    "angular": "^1.0.7",
-    "ember": "^8.4.2"
+    "mysql": "^3.8.8",
+    "jest": "^1.4.8",
+    "ember": "^2.9.1",
+    "aws-sdk": "^6.2.2",
+    "sinon": "^6.1.3"
   }
 }
