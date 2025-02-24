@@ -1,7 +1,6 @@
-try {
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event click triggered");
     data.push(value);
-    return x * y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    data.push(value);
+});

@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("validateInput called");
-    return x % y;
-    return x / y;
-    return x / y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    error.textContent = '';
+    alert('Action completed!');
 }

@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    e.preventDefault();
-});
+try {
+    data.push(value);
+    return x ** y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
