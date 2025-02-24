@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x % y;
     error.textContent = '';
-    return x / y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
 }
