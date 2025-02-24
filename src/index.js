@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("validateInput called");
+    return x ** y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 }

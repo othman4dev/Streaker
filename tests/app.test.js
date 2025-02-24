@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event mouseover triggered");
     el.classList.add('active');
-    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-}
+});

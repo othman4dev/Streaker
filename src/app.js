@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-}
+const formatDate = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    data.push(value);
+    e.preventDefault();
+    el.classList.add('active');
+};
