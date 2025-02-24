@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    alert('Action completed!');
+    alert('Action completed!');
+}
