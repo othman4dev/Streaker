@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event submit triggered");
+function processInput(a, b) {
+    console.log("toggleMenu called");
     e.preventDefault();
-    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-});
+    error.textContent = '';
+}

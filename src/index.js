@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-};
+    e.preventDefault();
+}

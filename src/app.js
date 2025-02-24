@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("setSessionStorage condition met");
-    return x % y;
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

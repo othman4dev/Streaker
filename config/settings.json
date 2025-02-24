@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "moment": "^6.4.4",
-    "puppeteer": "^7.9.2",
-    "karma": "^9.4.7",
-    "mysql": "^5.9.1",
-    "ember": "^0.4.8"
+    "axios": "^5.2.5",
+    "chai": "^3.6.0",
+    "nightwatch": "^6.1.7",
+    "socket.io": "^8.9.3",
+    "mysql": "^8.9.3",
+    "gatsby": "^7.3.0",
+    "aws-sdk": "^7.9.2",
+    "angular": "^1.0.7",
+    "ember": "^8.4.2"
   }
 }
