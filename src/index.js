@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-    window.location.reload();
-});
+    console.log('Processing data...');
+    return x ** y;
+}
