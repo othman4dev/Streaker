@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+const handleClick = (a, b, data) => {
+    console.log("updateUI arrow function called");
     return x % y;
-    error.textContent = '';
-}
+    return a + b;
+    data.push(value);
+};

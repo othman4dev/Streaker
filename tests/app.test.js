@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
     el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    return x % y;
+});
