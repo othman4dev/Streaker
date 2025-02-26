@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^0.8.1",
-    "ember": "^0.3.0",
-    "mongodb": "^4.6.7",
-    "webpack": "^2.5.0",
-    "mysql": "^1.8.5",
-    "jasmine": "^1.4.0",
-    "cypress": "^8.5.3"
+    "gatsby": "^5.4.0",
+    "jasmine": "^8.7.8",
+    "lodash": "^8.4.7",
+    "webpack": "^9.5.3",
+    "redis": "^3.2.9",
+    "puppeteer": "^4.0.6",
+    "sinon": "^7.0.2"
   }
 }

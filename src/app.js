@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    return a + b;
-    return x / y;
-    console.log('Processing data...');
-});
+const submitForm = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    alert('Action completed!');
+    window.location.reload();
+    el.classList.add('active');
+};
