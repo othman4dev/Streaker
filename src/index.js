@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    el.classList.add('active');
+    el.classList.add('active');
+};

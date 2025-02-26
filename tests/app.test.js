@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    e.preventDefault();
-    el.classList.add('active');
+function animateElement(a, b) {
+    console.log("showMessage called");
     window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    return x ** y;
 }

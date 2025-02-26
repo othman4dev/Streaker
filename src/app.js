@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return a + b;
+    return x / y;
+    console.log('Processing data...');
+});
