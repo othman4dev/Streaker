@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
-    window.location.reload();
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
     e.preventDefault();
+    el.classList.add('active');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^5.5.8",
-    "nodemon": "^2.0.7",
-    "mocha": "^6.6.2",
-    "eslint": "^5.4.4",
-    "jest": "^8.6.9"
+    "babel": "^4.9.8",
+    "redis": "^4.2.5",
+    "cypress": "^1.6.7",
+    "mongodb": "^3.2.4",
+    "next.js": "^5.4.4",
+    "karma": "^4.9.4",
+    "enzyme": "^1.2.7"
   }
 }
