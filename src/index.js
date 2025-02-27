@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    return x * y;
-    return x / y;
-});
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    el.classList.add('active');
+};

@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    return x * y;
     el.classList.add('active');
-}
+});

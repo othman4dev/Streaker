@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    return x - y;
-    return a + b;
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+});
