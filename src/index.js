@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("checkStatus called");
-    e.preventDefault();
-    return x ** y;
-    e.preventDefault();
+switch (b) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

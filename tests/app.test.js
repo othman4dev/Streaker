@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("processInput condition met");
+    window.location.reload();
+    data.push(value);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
