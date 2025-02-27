@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^2.1.7",
-    "cypress": "^1.9.1",
-    "angular": "^0.9.6",
-    "nightwatch": "^6.9.8",
-    "aws-sdk": "^6.9.6",
-    "enzyme": "^5.9.6",
-    "chai": "^3.0.5"
+    "jasmine": "^8.6.1",
+    "nodemon": "^7.3.1",
+    "angular": "^1.8.7",
+    "protractor": "^5.7.0",
+    "puppeteer": "^9.9.7",
+    "mysql": "^8.8.3"
   }
 }

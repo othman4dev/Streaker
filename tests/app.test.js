@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    e.preventDefault();
+try {
     return x / y;
-    return a + b;
-};
+    window.location.reload();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

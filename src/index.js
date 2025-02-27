@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return a + b;
+if (data.length > 0) {
+    console.log("hideModal condition met");
     window.location.reload();
+    return x ** y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
