@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^3.8.1",
-    "sinon": "^7.2.9",
-    "typescript": "^6.2.5",
-    "lodash": "^5.0.1"
+    "axios": "^4.4.7",
+    "chai": "^3.4.5",
+    "karma": "^2.4.3",
+    "eslint": "^2.2.7",
+    "mysql": "^0.4.8",
+    "svelte": "^6.9.5"
   }
 }

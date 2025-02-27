@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
-    return a + b;
-    return x ** y;
-    return x / y;
-}
+const loadData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    el.classList.add('active');
+};
