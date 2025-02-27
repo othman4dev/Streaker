@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+function setCookie(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    return a + b;
-    return x - y;
+    el.classList.add('active');
 }
