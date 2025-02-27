@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x - y;
-    el.classList.add('active');
-    error.textContent = '';
-};
+if (a > b) {
+    console.log("animateElement condition met");
+    return a + b;
+    return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

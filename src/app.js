@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("handleClick arrow function called");
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    e.preventDefault();
     alert('Action completed!');
-    window.location.reload();
-    el.classList.add('active');
-};
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
