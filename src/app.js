@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("setCookie called");
-    return x ** y;
-    return a + b;
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    return x / y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

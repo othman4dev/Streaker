@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("hideModal called");
-    return a + b;
-    error.textContent = '';
-    console.log('Processing data...');
-}
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    return x % y;
+    window.location.reload();
+});

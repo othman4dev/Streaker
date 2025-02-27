@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^9.4.9",
-    "lodash": "^0.7.8",
-    "puppeteer": "^6.8.4",
-    "prettier": "^9.0.2",
-    "nightwatch": "^7.9.6",
-    "graphql": "^2.0.1"
+    "karma": "^4.8.3",
+    "enzyme": "^6.7.4",
+    "puppeteer": "^6.2.8",
+    "lodash": "^3.5.2"
   }
 }

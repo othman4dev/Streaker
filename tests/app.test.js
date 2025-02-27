@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    el.classList.add('active');
-    data.push(value);
-});
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
+    window.location.reload();
+    error.textContent = '';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
