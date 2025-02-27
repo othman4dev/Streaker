@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    el.classList.add('active');
-};
+try {
+    return x * y;
+    e.preventDefault();
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

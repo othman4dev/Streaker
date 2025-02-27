@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    el.classList.add('active');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    return x * y;
+    return x ** y;
+};
