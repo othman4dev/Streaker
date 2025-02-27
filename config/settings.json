@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "jest": "^4.9.0",
-    "puppeteer": "^0.2.3",
-    "redis": "^2.1.1",
-    "react": "^5.4.6",
-    "next.js": "^5.6.1"
+    "gatsby": "^3.8.1",
+    "sinon": "^7.2.9",
+    "typescript": "^6.2.5",
+    "lodash": "^5.0.1"
   }
 }
