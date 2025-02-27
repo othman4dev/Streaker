@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+function fetchData(a, b) {
+    console.log("setCookie called");
     return x ** y;
-    return x % y;
     return a + b;
+    error.textContent = '';
 }

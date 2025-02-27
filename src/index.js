@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    error.textContent = '';
+    console.log('Processing data...');
 }
