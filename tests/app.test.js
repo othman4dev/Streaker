@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    window.location.reload();
-    error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    e.preventDefault();
+    return x / y;
+    return a + b;
+};

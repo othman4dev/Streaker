@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "karma": "^4.8.3",
-    "enzyme": "^6.7.4",
-    "puppeteer": "^6.2.8",
-    "lodash": "^3.5.2"
+    "jest": "^2.1.7",
+    "cypress": "^1.9.1",
+    "angular": "^0.9.6",
+    "nightwatch": "^6.9.8",
+    "aws-sdk": "^6.9.6",
+    "enzyme": "^5.9.6",
+    "chai": "^3.0.5"
   }
 }

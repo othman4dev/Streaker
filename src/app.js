@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    e.preventDefault();
-    return x / y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
