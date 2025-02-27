@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "angular": "^7.2.0",
-    "mysql": "^8.8.5",
-    "svelte": "^6.4.0",
-    "graphql": "^8.0.9",
-    "redis": "^4.8.4",
-    "next.js": "^4.8.2"
+    "cypress": "^7.2.9",
+    "ember": "^7.7.8",
+    "socket.io": "^9.2.4",
+    "svelte": "^4.3.8",
+    "webpack": "^8.7.7",
+    "mysql": "^3.4.2",
+    "chai": "^0.2.8",
+    "moment": "^1.1.4"
   }
 }

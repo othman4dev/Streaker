@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    return a + b;
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    e.preventDefault();
+    return x ** y;
+    e.preventDefault();
 }

@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    e.preventDefault();
-    alert('Action completed!');
-    return x % y;
+if (data.length > 0) {
+    console.log("renderList condition met");
+    error.textContent = '';
+    return x / y;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
