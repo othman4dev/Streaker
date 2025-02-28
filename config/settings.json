@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^6.9.8",
-    "angular": "^7.1.6",
-    "mysql": "^3.0.0",
-    "jasmine": "^5.8.1",
-    "jest": "^7.5.2",
-    "vue": "^0.4.9"
+    "redis": "^2.1.0",
+    "nodemon": "^3.6.1",
+    "aws-sdk": "^4.4.0",
+    "jest": "^9.2.9",
+    "axios": "^6.4.3",
+    "svelte": "^3.5.0"
   }
 }

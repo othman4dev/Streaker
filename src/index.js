@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    error.textContent = '';
     data.push(value);
-    return x % y;
-    return a + b;
-} else {
-    console.log("Condition not met");
 }
