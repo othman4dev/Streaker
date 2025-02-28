@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "redis": "^2.1.0",
-    "nodemon": "^3.6.1",
-    "aws-sdk": "^4.4.0",
-    "jest": "^9.2.9",
-    "axios": "^6.4.3",
-    "svelte": "^3.5.0"
+    "vue": "^0.0.3",
+    "typescript": "^8.2.0",
+    "mysql": "^2.5.3",
+    "sinon": "^1.2.6",
+    "graphql": "^0.0.7",
+    "jest": "^1.9.2",
+    "chai": "^3.7.4",
+    "nodemon": "^2.1.6"
   }
 }
