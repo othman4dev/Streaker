@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    window.location.reload();
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

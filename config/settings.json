@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^4.7.2",
-    "babel": "^9.0.5",
-    "aws-sdk": "^3.8.6",
-    "vue": "^1.6.4",
-    "angular": "^9.6.2",
-    "protractor": "^2.5.4"
+    "sinon": "^1.5.7",
+    "lodash": "^6.3.6",
+    "redis": "^0.5.0",
+    "aws-sdk": "^0.0.1",
+    "prettier": "^6.8.4",
+    "nodemon": "^4.2.0",
+    "eslint": "^9.1.3"
   }
 }
