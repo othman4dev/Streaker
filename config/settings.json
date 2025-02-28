@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^2.5.7",
-    "express": "^3.2.9",
-    "moment": "^3.4.7",
-    "puppeteer": "^8.8.0",
-    "vue": "^3.3.0",
-    "nightwatch": "^9.9.6",
-    "angular": "^6.3.5",
-    "jest": "^3.1.6"
+    "webpack": "^4.7.2",
+    "babel": "^9.0.5",
+    "aws-sdk": "^3.8.6",
+    "vue": "^1.6.4",
+    "angular": "^9.6.2",
+    "protractor": "^2.5.4"
   }
 }

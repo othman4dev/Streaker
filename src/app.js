@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
-    el.classList.add('active');
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
