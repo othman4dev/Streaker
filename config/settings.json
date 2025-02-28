@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "vue": "^0.0.3",
-    "typescript": "^8.2.0",
-    "mysql": "^2.5.3",
-    "sinon": "^1.2.6",
-    "graphql": "^0.0.7",
-    "jest": "^1.9.2",
-    "chai": "^3.7.4",
-    "nodemon": "^2.1.6"
+    "firebase": "^2.5.7",
+    "express": "^3.2.9",
+    "moment": "^3.4.7",
+    "puppeteer": "^8.8.0",
+    "vue": "^3.3.0",
+    "nightwatch": "^9.9.6",
+    "angular": "^6.3.5",
+    "jest": "^3.1.6"
   }
 }

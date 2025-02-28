@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("displayError called");
+try {
+    el.classList.add('active');
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

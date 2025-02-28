@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
-    error.textContent = '';
-    console.log('Processing data...');
-});
+if (window.innerWidth > 500) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
