@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    alert('Action completed!');
-};
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return x - y;
+});

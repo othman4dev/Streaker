@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    data.push(value);
-    window.location.reload();
-}
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x / y;
+};

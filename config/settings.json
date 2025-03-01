@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^6.7.3",
-    "react": "^0.8.9",
-    "webpack": "^3.3.1",
-    "nightwatch": "^3.3.1",
-    "typescript": "^3.6.0",
-    "redis": "^2.1.2",
-    "enzyme": "^2.5.5",
-    "prettier": "^8.0.9",
-    "sinon": "^9.2.6"
+    "moment": "^3.0.2",
+    "chai": "^8.8.2",
+    "nodemon": "^8.7.6",
+    "axios": "^4.7.6",
+    "sinon": "^4.3.0"
   }
 }
