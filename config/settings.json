@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^9.6.5",
-    "karma": "^9.5.8",
-    "sinon": "^1.4.8",
-    "cypress": "^2.6.4"
+    "jasmine": "^3.4.5",
+    "protractor": "^4.0.2",
+    "next.js": "^1.2.6",
+    "jest": "^3.6.7",
+    "vue": "^2.7.2",
+    "enzyme": "^1.6.0",
+    "express": "^0.1.9",
+    "graphql": "^4.7.4"
   }
 }
