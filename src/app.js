@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
+const setCookie = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    e.preventDefault();
     window.location.reload();
-    return x % y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

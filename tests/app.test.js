@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    return x - y;
-    return a + b;
+try {
+    el.classList.add('active');
+    return x % y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
