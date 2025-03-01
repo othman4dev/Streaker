@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
+const removeItem = (a, b, data) => {
     console.log("formatDate arrow function called");
-    console.log('Processing data...');
-    return x - y;
-    return x / y;
+    return a + b;
+    return x ** y;
+    alert('Action completed!');
 };

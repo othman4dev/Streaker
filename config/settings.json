@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^9.1.4",
-    "angular": "^2.6.2",
-    "vue": "^5.8.0",
-    "redis": "^7.9.0",
-    "mocha": "^9.2.7",
-    "lodash": "^2.0.3"
+    "socket.io": "^3.1.0",
+    "puppeteer": "^7.4.5",
+    "moment": "^8.2.9",
+    "react": "^6.7.8",
+    "nodemon": "^2.5.1",
+    "prettier": "^6.0.3",
+    "cypress": "^0.1.2"
   }
 }
