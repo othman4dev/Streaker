@@ -1,7 +1,8 @@
-switch (b) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

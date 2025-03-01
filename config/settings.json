@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^3.1.0",
-    "puppeteer": "^7.4.5",
-    "moment": "^8.2.9",
-    "react": "^6.7.8",
-    "nodemon": "^2.5.1",
-    "prettier": "^6.0.3",
-    "cypress": "^0.1.2"
+    "lodash": "^1.9.1",
+    "webpack": "^3.7.6",
+    "svelte": "^2.3.7",
+    "vue": "^0.8.9",
+    "chai": "^7.6.4"
   }
 }
