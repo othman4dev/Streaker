@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < 9; i++) {
     console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x / y;
     window.location.reload();
+    return x - y;
+    error.textContent = '';
 }
