@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^1.9.1",
-    "webpack": "^3.7.6",
-    "svelte": "^2.3.7",
-    "vue": "^0.8.9",
-    "chai": "^7.6.4"
+    "cypress": "^2.0.1",
+    "protractor": "^1.1.8",
+    "chai": "^6.0.1",
+    "jest": "^2.3.8",
+    "webpack": "^4.3.2",
+    "mongodb": "^0.1.2"
   }
 }

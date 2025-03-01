@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x / y;
+    e.preventDefault();
+    return a + b;
+};

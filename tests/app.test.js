@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("setCookie called");
-    return x * y;
-    console.log('Processing data...');
-    return x * y;
+if (x !== y) {
+    console.log("createChart condition met");
+    return a + b;
+    alert('Action completed!');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
