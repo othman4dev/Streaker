@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x % y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    return x ** y;
+    return a + b;
 }

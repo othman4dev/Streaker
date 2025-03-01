@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^7.5.2",
-    "axios": "^3.6.5",
-    "webpack": "^0.9.4",
-    "karma": "^6.2.0",
-    "react": "^7.0.4",
-    "express": "^0.4.9",
-    "nodemon": "^3.3.5"
+    "gatsby": "^8.0.1",
+    "react": "^6.2.1",
+    "aws-sdk": "^7.3.9",
+    "jest": "^9.2.8",
+    "express": "^6.7.5",
+    "nightwatch": "^1.1.0",
+    "webpack": "^6.6.6",
+    "eslint": "^7.1.7"
   }
 }

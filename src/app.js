@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    data.push(value);
 };
