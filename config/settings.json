@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^8.0.1",
-    "react": "^6.2.1",
-    "aws-sdk": "^7.3.9",
-    "jest": "^9.2.8",
-    "express": "^6.7.5",
-    "nightwatch": "^1.1.0",
-    "webpack": "^6.6.6",
-    "eslint": "^7.1.7"
+    "svelte": "^0.4.8",
+    "mocha": "^8.7.6",
+    "mongodb": "^6.0.5",
+    "aws-sdk": "^7.8.0",
+    "axios": "^6.6.0",
+    "express": "^9.5.6"
   }
 }
