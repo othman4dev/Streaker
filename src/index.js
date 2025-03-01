@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x / y;
+try {
+    el.classList.add('active');
     return a + b;
-    return x * y;
-};
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

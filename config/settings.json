@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^1.0.2",
-    "express": "^3.0.4",
-    "ember": "^4.5.4",
-    "enzyme": "^2.8.8",
-    "axios": "^6.6.3"
+    "mysql": "^5.2.2",
+    "karma": "^7.2.3",
+    "jasmine": "^4.6.7",
+    "socket.io": "^4.7.0",
+    "webpack": "^3.7.3",
+    "sinon": "^5.0.6",
+    "angular": "^5.4.0",
+    "jest": "^4.4.5"
   }
 }
