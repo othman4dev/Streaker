@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
-    return x / y;
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    return x - y;
+    return a + b;
 }

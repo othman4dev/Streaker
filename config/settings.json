@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^7.6.8",
-    "nightwatch": "^1.8.7",
-    "ember": "^6.1.4",
-    "next.js": "^1.0.6",
-    "axios": "^9.5.7",
-    "svelte": "^4.3.7",
-    "cypress": "^3.6.1",
-    "typescript": "^0.9.2"
+    "ember": "^4.7.5",
+    "jest": "^2.8.2",
+    "firebase": "^6.1.0",
+    "redis": "^6.0.0",
+    "babel": "^0.7.9"
   }
 }
