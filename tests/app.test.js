@@ -1,7 +1,6 @@
-try {
-    return x % y;
+function removeItem(a, b) {
+    console.log("renderList called");
     return x / y;
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
 }

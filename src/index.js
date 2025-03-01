@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x - y;
-});
+function saveSettings(a, b) {
+    console.log("formatDate called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    e.preventDefault();
+}

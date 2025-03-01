@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x / y;
-};
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    window.location.reload();
+    return x - y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
