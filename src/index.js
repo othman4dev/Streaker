@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x * y;
+    alert('Action completed!');
+    console.log('Processing data...');
+};
