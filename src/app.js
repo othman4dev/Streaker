@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    window.location.reload();
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    console.log('Processing data...');
     return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+};
