@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x - y;
-};
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});

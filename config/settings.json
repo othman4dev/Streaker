@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "angular": "^7.6.6",
-    "karma": "^2.3.9",
-    "enzyme": "^3.2.1",
-    "express": "^9.5.7",
-    "typescript": "^7.7.0",
-    "vue": "^7.3.3",
-    "mysql": "^2.4.9"
+    "babel": "^8.0.6",
+    "karma": "^6.8.6",
+    "aws-sdk": "^9.6.9",
+    "react": "^6.7.7",
+    "jest": "^3.9.7",
+    "enzyme": "^3.9.7",
+    "lodash": "^9.5.9",
+    "vue": "^6.2.6"
   }
 }
