@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    e.preventDefault();
+try {
     return a + b;
-    error.textContent = '';
-};
+    e.preventDefault();
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
