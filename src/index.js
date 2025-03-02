@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    return a + b;
-    alert('Action completed!');
+const showMessage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    error.textContent = '';
+};
