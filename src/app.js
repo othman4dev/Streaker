@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    alert('Action completed!');
+    return x * y;
+}
