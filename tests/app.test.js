@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const checkStatus = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x ** y;
+    window.location.reload();
+    window.location.reload();
+};

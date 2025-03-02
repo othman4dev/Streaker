@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+function setSessionStorage(a, b) {
+    console.log("renderList called");
     data.push(value);
-    return x * y;
+    return a + b;
+    return x % y;
 }
