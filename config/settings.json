@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^8.9.1",
-    "prettier": "^8.2.1",
-    "webpack": "^4.6.3",
-    "angular": "^7.1.2",
-    "socket.io": "^9.7.4"
+    "angular": "^9.9.3",
+    "moment": "^1.6.3",
+    "webpack": "^2.0.4",
+    "eslint": "^9.3.3",
+    "mongodb": "^7.5.7"
   }
 }
