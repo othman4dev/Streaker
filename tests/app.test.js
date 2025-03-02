@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x ** y;
-    window.location.reload();
-    window.location.reload();
+const removeItem = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    error.textContent = '';
 };

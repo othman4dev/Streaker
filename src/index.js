@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("renderList called");
-    data.push(value);
+if (x === y) {
+    console.log("displayError condition met");
     return a + b;
-    return x % y;
+    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

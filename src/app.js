@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    e.preventDefault();
+    return x / y;
+});
