@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    el.classList.add('active');
-    return a + b;
+const validateInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x - y;
+};

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    return x ** y;
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("createChart called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }
