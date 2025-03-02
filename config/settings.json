@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "chai": "^7.7.4",
-    "karma": "^5.0.8",
-    "protractor": "^6.9.4",
-    "enzyme": "^6.4.3",
-    "cypress": "^0.3.8"
+    "mysql": "^8.9.1",
+    "prettier": "^8.2.1",
+    "webpack": "^4.6.3",
+    "angular": "^7.1.2",
+    "socket.io": "^9.7.4"
   }
 }

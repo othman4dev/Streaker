@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("displayError called");
+    return x - y;
+    data.push(value);
+    return x / y;
 }

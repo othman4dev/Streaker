@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    return x ** y;
-    return x * y;
-});
+const createChart = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
+    return x % y;
+    return x / y;
+};
