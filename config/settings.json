@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "babel": "^0.1.8",
-    "nightwatch": "^4.4.5",
-    "jest": "^2.8.3",
-    "gatsby": "^3.9.6",
-    "nodemon": "^1.2.4",
-    "typescript": "^1.5.7",
-    "eslint": "^2.9.1",
-    "moment": "^4.9.4",
-    "ember": "^0.5.2"
+    "puppeteer": "^0.9.8",
+    "next.js": "^3.7.3",
+    "aws-sdk": "^9.0.2",
+    "lodash": "^2.7.0",
+    "eslint": "^8.5.7",
+    "prettier": "^5.5.3",
+    "mocha": "^2.4.7"
   }
 }

@@ -1,7 +1,8 @@
-switch (error) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("loadData condition met");
+    el.classList.add('active');
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

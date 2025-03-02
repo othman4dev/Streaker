@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
     return x - y;
-    error.textContent = '';
-}
+    return x / y;
+});

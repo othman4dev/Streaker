@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    return x ** y;
+    console.log('Processing data...');
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
