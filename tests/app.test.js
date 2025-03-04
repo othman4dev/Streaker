@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    e.preventDefault();
     return a + b;
-};
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("setCookie arrow function called");
+if (x === y) {
+    console.log("removeItem condition met");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
