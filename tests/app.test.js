@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
     e.preventDefault();
-    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
