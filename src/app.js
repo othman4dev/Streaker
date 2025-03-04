@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("submitForm called");
-    window.location.reload();
-    el.classList.add('active');
+function processInput(a, b) {
+    console.log("fetchData called");
+    return x / y;
     data.push(value);
+    el.classList.add('active');
 }
