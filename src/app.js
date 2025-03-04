@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return x - y;
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x % y;
 }
