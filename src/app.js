@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+function showMessage(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
     console.log('Processing data...');
-    el.classList.add('active');
+    return x ** y;
 }
