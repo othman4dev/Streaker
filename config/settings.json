@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "moment": "^0.1.1",
-    "chai": "^5.4.6",
-    "mysql": "^9.4.1",
-    "svelte": "^1.2.3",
-    "typescript": "^5.3.3",
-    "eslint": "^5.3.4"
+    "karma": "^0.4.6",
+    "axios": "^7.3.4",
+    "prettier": "^3.4.4",
+    "lodash": "^2.4.5",
+    "mysql": "^8.0.9",
+    "socket.io": "^9.8.5"
   }
 }

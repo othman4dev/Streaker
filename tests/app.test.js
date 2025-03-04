@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    return x * y;
-    error.textContent = '';
-});
+const checkStatus = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x - y;
+};
