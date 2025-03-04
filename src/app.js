@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x - y;
+    console.log('Processing data...');
+}

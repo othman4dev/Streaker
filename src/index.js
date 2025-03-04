@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    return x / y;
-    return a + b;
-});
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
+    e.preventDefault();
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

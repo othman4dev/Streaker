@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^1.0.7",
-    "socket.io": "^4.2.5",
-    "nodemon": "^1.6.1",
-    "protractor": "^6.3.3",
-    "jasmine": "^6.4.1",
-    "sinon": "^2.3.9",
-    "svelte": "^2.0.6",
-    "babel": "^3.9.2",
-    "aws-sdk": "^4.7.6"
+    "moment": "^2.3.9",
+    "nodemon": "^2.0.6",
+    "cypress": "^2.0.8",
+    "puppeteer": "^5.3.2",
+    "jest": "^3.6.8"
   }
 }
