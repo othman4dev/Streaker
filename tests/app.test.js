@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    el.classList.add('active');
-    e.preventDefault();
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

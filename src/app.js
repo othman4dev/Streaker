@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
+function loadData(a, b) {
+    console.log("submitForm called");
+    window.location.reload();
+    el.classList.add('active');
     data.push(value);
-    return x * y;
-    return x % y;
-} else {
-    console.log("Condition not met");
 }

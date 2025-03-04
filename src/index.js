@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
