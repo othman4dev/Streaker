@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    data.push(value);
-    el.classList.add('active');
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+});

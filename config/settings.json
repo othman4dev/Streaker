@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "babel": "^8.2.0",
-    "nightwatch": "^7.9.0",
-    "graphql": "^3.4.4",
-    "mongodb": "^5.4.0",
-    "jest": "^7.5.3",
-    "enzyme": "^1.7.4",
-    "mysql": "^1.5.8",
-    "lodash": "^4.4.3"
+    "mysql": "^1.0.7",
+    "socket.io": "^4.2.5",
+    "nodemon": "^1.6.1",
+    "protractor": "^6.3.3",
+    "jasmine": "^6.4.1",
+    "sinon": "^2.3.9",
+    "svelte": "^2.0.6",
+    "babel": "^3.9.2",
+    "aws-sdk": "^4.7.6"
   }
 }

@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    return x % y;
+    return x / y;
+    return a + b;
+});

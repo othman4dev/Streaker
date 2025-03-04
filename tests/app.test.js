@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x - y;
+    error.textContent = '';
     return x % y;
-    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
