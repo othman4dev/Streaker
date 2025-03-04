@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.0.1",
-    "angular": "^2.6.7",
-    "chai": "^7.8.9",
-    "socket.io": "^0.6.1",
-    "eslint": "^6.2.2",
-    "webpack": "^6.5.7",
-    "babel": "^2.8.4"
+    "puppeteer": "^4.8.8",
+    "jasmine": "^3.4.7",
+    "gatsby": "^7.3.6",
+    "chai": "^9.7.1"
   }
 }

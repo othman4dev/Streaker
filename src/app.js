@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
-    data.push(value);
-    el.classList.add('active');
-};
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+}
