@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    return x * y;
     data.push(value);
-    e.preventDefault();
-    return x / y;
-});
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    return a + b;
-    alert('Action completed!');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};
