@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    console.log('Processing data...');
-    return a + b;
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event change triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 });

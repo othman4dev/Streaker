@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^9.6.6",
-    "lodash": "^4.9.6",
-    "socket.io": "^3.2.8",
-    "typescript": "^7.1.0",
-    "redis": "^4.9.4",
-    "mongodb": "^1.1.4",
-    "express": "^9.3.5",
-    "next.js": "^0.3.0"
+    "puppeteer": "^5.1.5",
+    "firebase": "^5.4.9",
+    "babel": "^7.5.9",
+    "enzyme": "^0.2.3",
+    "axios": "^3.8.0"
   }
 }

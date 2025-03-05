@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 });
