@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^1.8.5",
-    "nightwatch": "^9.1.9",
-    "angular": "^4.6.6",
-    "mysql": "^0.6.7",
-    "jest": "^8.4.3",
-    "babel": "^7.6.5",
-    "jasmine": "^4.1.0"
+    "protractor": "^3.2.0",
+    "firebase": "^1.6.2",
+    "mocha": "^1.4.4",
+    "babel": "^9.4.1",
+    "svelte": "^3.5.2",
+    "vue": "^6.3.3",
+    "axios": "^8.1.9",
+    "webpack": "^6.8.6"
   }
 }
