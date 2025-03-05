@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
-    return x % y;
+if (a > b) {
+    console.log("formatDate condition met");
+    return x - y;
     data.push(value);
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
