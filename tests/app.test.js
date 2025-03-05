@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+function createChart(a, b) {
+    console.log("checkStatus called");
     return x - y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x * y;
 }

@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^7.4.8",
-    "protractor": "^2.0.2",
-    "cypress": "^4.8.7",
-    "nightwatch": "^8.7.7",
-    "webpack": "^8.6.8",
-    "gatsby": "^3.3.0",
-    "graphql": "^8.1.4",
-    "prettier": "^7.2.2",
-    "vue": "^0.4.2"
+    "redis": "^4.1.6",
+    "nightwatch": "^0.6.9",
+    "next.js": "^8.3.5",
+    "jest": "^1.9.5",
+    "sinon": "^9.0.4"
   }
 }

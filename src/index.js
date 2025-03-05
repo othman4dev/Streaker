@@ -1,7 +1,6 @@
-try {
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event resize triggered");
     e.preventDefault();
-    return a + b;
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+});
