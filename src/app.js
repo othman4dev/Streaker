@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    window.location.reload();
-    e.preventDefault();
-    error.textContent = '';
-};
+switch (value) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
