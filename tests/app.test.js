@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    return x % y;
-    alert('Action completed!');
-};
+function displayError(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
+    return x / y;
+    return x / y;
+}
