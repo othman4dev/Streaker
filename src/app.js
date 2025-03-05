@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    return x * y;
-    window.location.reload();
-});
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    return a + b;
+    console.log('Processing data...');
+}

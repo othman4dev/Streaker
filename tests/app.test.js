@@ -1,7 +1,6 @@
-try {
+const saveSettings = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x % y;
+    return x % y;
     alert('Action completed!');
-    alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
