@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x - y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("removeItem called");
+    data.push(value);
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

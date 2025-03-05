@@ -1,7 +1,6 @@
-try {
+const loadData = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    data.push(value);
     error.textContent = '';
-    alert('Action completed!');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};
