@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    return x - y;
-    data.push(value);
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x / y;
+    el.classList.add('active');
+    return x ** y;
+};
