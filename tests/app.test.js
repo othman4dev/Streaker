@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x - y;
+const toggleMenu = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
+    window.location.reload();
 };

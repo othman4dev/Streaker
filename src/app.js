@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+});

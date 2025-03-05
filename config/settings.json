@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "karma": "^0.4.6",
-    "axios": "^7.3.4",
-    "prettier": "^3.4.4",
-    "lodash": "^2.4.5",
-    "mysql": "^8.0.9",
-    "socket.io": "^9.8.5"
+    "eslint": "^0.1.2",
+    "chai": "^7.5.0",
+    "mysql": "^9.5.1",
+    "puppeteer": "^4.4.4",
+    "next.js": "^5.4.9",
+    "protractor": "^6.7.5",
+    "moment": "^7.9.2",
+    "typescript": "^9.6.5",
+    "express": "^0.8.1"
   }
 }
