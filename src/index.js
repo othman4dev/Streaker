@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x * y;
-}
+    console.log('Processing data...');
+});
