@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event change triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+const setCookie = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    error.textContent = '';
+};
