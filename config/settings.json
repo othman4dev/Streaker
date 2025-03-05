@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^4.7.6",
-    "express": "^6.7.4",
-    "puppeteer": "^5.7.5",
-    "svelte": "^6.6.0",
-    "webpack": "^4.9.4"
+    "graphql": "^4.1.5",
+    "lodash": "^4.2.7",
+    "mocha": "^4.5.1",
+    "next.js": "^7.6.6",
+    "ember": "^8.3.8"
   }
 }

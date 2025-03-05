@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("formatDate called");
-    return x ** y;
-    return x * y;
-    return x ** y;
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    error.textContent = '';
+    e.preventDefault();
+});
