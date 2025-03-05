@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("handleClick called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    console.log('Processing data...');
+});

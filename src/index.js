@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    return a + b;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    return x / y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

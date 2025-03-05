@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    return x ** y;
+    console.log('Processing data...');
+    return a + b;
+});

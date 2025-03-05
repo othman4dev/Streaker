@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^4.2.2",
-    "eslint": "^7.8.7",
-    "socket.io": "^0.2.8",
-    "jasmine": "^5.3.5",
-    "protractor": "^9.3.6",
-    "puppeteer": "^0.6.2",
-    "mocha": "^3.9.8",
-    "react": "^3.1.6"
+    "mocha": "^9.6.6",
+    "lodash": "^4.9.6",
+    "socket.io": "^3.2.8",
+    "typescript": "^7.1.0",
+    "redis": "^4.9.4",
+    "mongodb": "^1.1.4",
+    "express": "^9.3.5",
+    "next.js": "^0.3.0"
   }
 }
