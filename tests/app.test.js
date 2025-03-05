@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("checkStatus called");
-    return x - y;
-    return a + b;
-    return x * y;
+try {
+    return x ** y;
+    e.preventDefault();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
