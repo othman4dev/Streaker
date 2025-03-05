@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    data.push(value);
-    error.textContent = '';
-    window.location.reload();
-};
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x * y;
+}

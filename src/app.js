@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-});
+try {
+    data.push(value);
+    data.push(value);
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

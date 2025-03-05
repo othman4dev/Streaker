@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    console.log('Processing data...');
+try {
     document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
