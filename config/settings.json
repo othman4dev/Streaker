@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^4.1.5",
-    "lodash": "^4.2.7",
-    "mocha": "^4.5.1",
-    "next.js": "^7.6.6",
-    "ember": "^8.3.8"
+    "protractor": "^1.4.8",
+    "aws-sdk": "^5.6.4",
+    "redis": "^5.4.8",
+    "graphql": "^6.5.7",
+    "mocha": "^0.9.5",
+    "chai": "^7.6.8",
+    "nodemon": "^2.2.7"
   }
 }
