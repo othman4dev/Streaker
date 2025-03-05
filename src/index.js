@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x / y;
-    el.classList.add('active');
-    return x ** y;
-};
+try {
+    e.preventDefault();
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
