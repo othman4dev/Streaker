@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return a + b;
+    return a + b;
 }

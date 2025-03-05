@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event keydown triggered");
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
     el.classList.add('active');
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    window.location.reload();
 });
