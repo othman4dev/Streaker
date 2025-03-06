@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    data.push(value);
 }

@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    return x * y;
-    return x / y;
-});
+function getLocalStorage(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    alert('Action completed!');
+    data.push(value);
+}
