@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("animateElement called");
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    return x * y;
     return x / y;
-    error.textContent = '';
-    return a + b;
-}
+});
