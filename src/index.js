@@ -1,6 +1,6 @@
 try {
-    error.textContent = '';
-    error.textContent = '';
+    alert('Action completed!');
+    return x - y;
     e.preventDefault();
 } catch (error) {
     console.error("Error:", error);

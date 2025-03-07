@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event blur triggered");
     return x / y;
-    return x - y;
-}
+    return a + b;
+    return x * y;
+});
