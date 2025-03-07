@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    e.preventDefault();
-    e.preventDefault();
+function submitForm(a, b) {
+    console.log("hideModal called");
+    el.classList.add('active');
     return x / y;
-} else {
-    console.log("Condition not met");
+    return x - y;
 }
