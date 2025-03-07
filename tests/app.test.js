@@ -1,7 +1,8 @@
-switch (y) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    console.log('Processing data...');
+    return x % y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
