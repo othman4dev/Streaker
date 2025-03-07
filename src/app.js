@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    data.push(value);
-    return a + b;
-}
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    return x % y;
+    return x ** y;
+});
