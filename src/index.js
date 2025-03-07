@@ -1,8 +1,8 @@
 if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    return x / y;
+    console.log("removeItem condition met");
+    return a + b;
+    return x * y;
     return x - y;
-    return x % y;
 } else {
     console.log("Condition not met");
 }

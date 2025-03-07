@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^4.7.7",
-    "nightwatch": "^8.3.3",
-    "react": "^1.8.9",
-    "mocha": "^7.8.5",
-    "jasmine": "^2.9.6",
-    "angular": "^6.3.0",
-    "gatsby": "^4.4.8"
+    "eslint": "^5.7.4",
+    "jasmine": "^2.2.1",
+    "axios": "^9.7.0",
+    "nightwatch": "^7.9.2",
+    "mysql": "^0.9.1",
+    "sinon": "^8.4.2"
   }
 }

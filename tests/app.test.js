@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    return x * y;
     data.push(value);
-}
+    return x ** y;
+});
