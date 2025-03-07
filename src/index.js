@@ -1,7 +1,8 @@
-try {
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    console.log('Processing data...');
     return a + b;
-    window.location.reload();
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

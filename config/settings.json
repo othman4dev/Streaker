@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^5.3.3",
-    "socket.io": "^8.2.5",
-    "mysql": "^0.6.3",
-    "vue": "^4.9.8",
-    "eslint": "^3.3.9",
-    "lodash": "^7.1.1",
-    "webpack": "^7.7.2"
+    "next.js": "^8.1.0",
+    "redis": "^8.6.9",
+    "moment": "^6.7.6",
+    "babel": "^6.9.8",
+    "cypress": "^4.0.0",
+    "chai": "^9.7.0"
   }
 }

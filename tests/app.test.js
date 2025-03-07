@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("displayError called");
-    return x % y;
-    return x * y;
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    return x / y;
+    window.location.reload();
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

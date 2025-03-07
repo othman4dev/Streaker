@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("updateUI arrow function called");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    console.log('Processing data...');
+    data.push(value);
     return a + b;
-};
+}
