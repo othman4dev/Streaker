@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "ember": "^7.5.0",
-    "karma": "^0.2.7",
-    "moment": "^5.7.5",
-    "express": "^7.5.0",
-    "gatsby": "^7.8.6",
-    "angular": "^5.4.3",
-    "nightwatch": "^2.8.1"
+    "sinon": "^5.3.3",
+    "socket.io": "^8.2.5",
+    "mysql": "^0.6.3",
+    "vue": "^4.9.8",
+    "eslint": "^3.3.9",
+    "lodash": "^7.1.1",
+    "webpack": "^7.7.2"
   }
 }

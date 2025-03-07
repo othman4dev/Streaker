@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    return a + b;
+function loadData(a, b) {
+    console.log("displayError called");
+    return x % y;
     return x * y;
-});
+    error.textContent = '';
+}
