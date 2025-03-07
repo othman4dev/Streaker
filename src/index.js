@@ -1,6 +1,7 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+try {
     return x / y;
-    e.preventDefault();
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
