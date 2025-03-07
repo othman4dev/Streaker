@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^5.7.4",
-    "jasmine": "^2.2.1",
-    "axios": "^9.7.0",
-    "nightwatch": "^7.9.2",
-    "mysql": "^0.9.1",
-    "sinon": "^8.4.2"
+    "angular": "^4.7.4",
+    "enzyme": "^2.1.7",
+    "react": "^5.8.9",
+    "gatsby": "^3.6.8",
+    "sinon": "^7.1.0",
+    "vue": "^6.3.6",
+    "jasmine": "^1.6.0"
   }
 }

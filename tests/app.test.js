@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    data.push(value);
-    return x ** y;
-});
+if (x !== y) {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    e.preventDefault();
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
