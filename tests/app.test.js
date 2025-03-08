@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x / y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    return a + b;
+});

@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^6.0.0",
-    "nightwatch": "^9.0.2",
-    "angular": "^8.9.6",
-    "gatsby": "^0.5.6",
-    "moment": "^1.9.3",
-    "typescript": "^5.7.7",
-    "svelte": "^2.7.9",
-    "firebase": "^6.8.1"
+    "next.js": "^5.2.4",
+    "axios": "^9.5.3",
+    "gatsby": "^0.1.5",
+    "karma": "^9.4.3",
+    "mocha": "^1.8.1",
+    "babel": "^8.4.8",
+    "svelte": "^6.2.6",
+    "express": "^1.4.8"
   }
 }

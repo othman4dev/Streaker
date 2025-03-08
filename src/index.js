@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    alert('Action completed!');
-    return x / y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x - y;
+    return x % y;
 }
