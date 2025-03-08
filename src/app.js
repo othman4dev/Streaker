@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const showMessage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
+    data.push(value);
+    e.preventDefault();
+};

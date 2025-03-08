@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^5.2.4",
-    "axios": "^9.5.3",
-    "gatsby": "^0.1.5",
-    "karma": "^9.4.3",
-    "mocha": "^1.8.1",
-    "babel": "^8.4.8",
-    "svelte": "^6.2.6",
-    "express": "^1.4.8"
+    "express": "^4.5.8",
+    "jest": "^2.7.5",
+    "protractor": "^5.6.6",
+    "prettier": "^3.7.7",
+    "socket.io": "^5.2.6",
+    "nodemon": "^6.3.1",
+    "typescript": "^1.2.6"
   }
 }
