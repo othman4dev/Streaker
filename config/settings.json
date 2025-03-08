@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^8.5.3",
-    "jest": "^8.9.1",
-    "socket.io": "^8.1.8",
-    "cypress": "^0.3.1",
-    "typescript": "^5.3.7"
+    "firebase": "^4.3.5",
+    "webpack": "^3.1.1",
+    "ember": "^5.1.4",
+    "angular": "^3.9.8",
+    "moment": "^6.6.6",
+    "nodemon": "^5.3.5"
   }
 }

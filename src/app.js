@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
     error.textContent = '';
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

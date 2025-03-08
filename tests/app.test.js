@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    return x % y;
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
