@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^5.3.8",
-    "chai": "^7.1.9",
-    "moment": "^2.4.0",
-    "jest": "^4.6.2",
-    "mocha": "^5.4.8",
-    "ember": "^2.4.0",
-    "enzyme": "^9.2.3",
-    "eslint": "^6.3.5"
+    "cypress": "^6.0.0",
+    "nightwatch": "^9.0.2",
+    "angular": "^8.9.6",
+    "gatsby": "^0.5.6",
+    "moment": "^1.9.3",
+    "typescript": "^5.7.7",
+    "svelte": "^2.7.9",
+    "firebase": "^6.8.1"
   }
 }
