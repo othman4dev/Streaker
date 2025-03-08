@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("handleClick arrow function called");
+function fetchData(a, b) {
+    console.log("setCookie called");
     return a + b;
-    data.push(value);
-    e.preventDefault();
-};
+    return x - y;
+    return x * y;
+}

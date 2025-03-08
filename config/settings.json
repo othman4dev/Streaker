@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "express": "^4.5.8",
-    "jest": "^2.7.5",
-    "protractor": "^5.6.6",
-    "prettier": "^3.7.7",
-    "socket.io": "^5.2.6",
-    "nodemon": "^6.3.1",
-    "typescript": "^1.2.6"
+    "graphql": "^7.4.0",
+    "typescript": "^8.3.4",
+    "redis": "^1.9.3",
+    "jasmine": "^0.3.8",
+    "vue": "^1.1.8",
+    "puppeteer": "^1.5.8",
+    "sinon": "^9.0.7"
   }
 }

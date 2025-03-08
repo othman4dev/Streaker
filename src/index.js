@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    error.textContent = '';
-    e.preventDefault();
-}
+const checkStatus = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    window.location.reload();
+};

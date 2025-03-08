@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event click triggered");
+function removeItem(a, b) {
+    console.log("renderList called");
+    return x % y;
+    e.preventDefault();
     return x / y;
-    return x * y;
-    data.push(value);
-});
+}
