@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
+    return x - y;
+    return x ** y;
     return x / y;
-});
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "karma": "^1.5.9",
-    "socket.io": "^4.8.2",
-    "protractor": "^6.3.1",
-    "jasmine": "^6.2.4",
-    "nodemon": "^1.4.4"
+    "mongodb": "^5.3.8",
+    "chai": "^7.1.9",
+    "moment": "^2.4.0",
+    "jest": "^4.6.2",
+    "mocha": "^5.4.8",
+    "ember": "^2.4.0",
+    "enzyme": "^9.2.3",
+    "eslint": "^6.3.5"
   }
 }

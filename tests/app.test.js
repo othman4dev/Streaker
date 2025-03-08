@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x / y;
-    return x % y;
+function submitForm(a, b) {
+    console.log("formatDate called");
+    e.preventDefault();
+    alert('Action completed!');
+    data.push(value);
 }
