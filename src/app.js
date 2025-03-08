@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    error.textContent = '';
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }

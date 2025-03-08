@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^4.3.5",
-    "webpack": "^3.1.1",
-    "ember": "^5.1.4",
-    "angular": "^3.9.8",
-    "moment": "^6.6.6",
-    "nodemon": "^5.3.5"
+    "karma": "^1.5.9",
+    "socket.io": "^4.8.2",
+    "protractor": "^6.3.1",
+    "jasmine": "^6.2.4",
+    "nodemon": "^1.4.4"
   }
 }
