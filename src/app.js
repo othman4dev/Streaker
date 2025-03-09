@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    return x ** y;
-    return x / y;
+if (x === y) {
+    console.log("processInput condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

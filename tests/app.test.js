@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    console.log('Processing data...');
+function displayError(a, b) {
+    console.log("setCookie called");
+    el.classList.add('active');
+    return x % y;
     return x / y;
-    return a + b;
-};
+}
