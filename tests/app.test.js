@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("setCookie called");
-    data.push(value);
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 }

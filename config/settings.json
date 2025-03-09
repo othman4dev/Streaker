@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "express": "^4.8.3",
-    "prettier": "^6.3.0",
-    "jest": "^9.9.1",
-    "next.js": "^9.4.9",
-    "gatsby": "^5.5.9",
-    "lodash": "^7.3.0",
-    "chai": "^9.4.3",
-    "vue": "^9.2.4",
-    "redis": "^9.3.8"
+    "nightwatch": "^2.9.0",
+    "lodash": "^5.1.9",
+    "angular": "^2.3.6",
+    "chai": "^9.4.2",
+    "puppeteer": "^6.0.4",
+    "mongodb": "^2.3.1"
   }
 }

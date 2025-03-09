@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    return x ** y;
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }
