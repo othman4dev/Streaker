@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    return a + b;
+    el.classList.add('active');
 }
