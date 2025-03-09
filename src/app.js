@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+function checkStatus(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
+    return x ** y;
     return x / y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
 }
