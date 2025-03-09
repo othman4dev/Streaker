@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    return x % y;
-    return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    console.log('Processing data...');
+    return x ** y;
+    window.location.reload();
+};

@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("removeItem called");
-    data.push(value);
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event change triggered");
     return x ** y;
-    return x % y;
-}
+    error.textContent = '';
+    return x ** y;
+});

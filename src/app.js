@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("showMessage called");
-    return x - y;
-    el.classList.add('active');
-    data.push(value);
+try {
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
