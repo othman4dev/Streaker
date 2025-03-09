@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^7.4.0",
-    "typescript": "^8.3.4",
-    "redis": "^1.9.3",
-    "jasmine": "^0.3.8",
-    "vue": "^1.1.8",
-    "puppeteer": "^1.5.8",
-    "sinon": "^9.0.7"
+    "nodemon": "^2.2.9",
+    "firebase": "^7.4.7",
+    "webpack": "^5.5.4",
+    "enzyme": "^8.1.2",
+    "moment": "^2.1.9",
+    "protractor": "^4.6.5",
+    "sinon": "^1.5.2",
+    "puppeteer": "^3.7.7"
   }
 }

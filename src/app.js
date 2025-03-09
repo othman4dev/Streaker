@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("setCookie called");
-    return a + b;
-    return x - y;
-    return x * y;
+switch (a) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
