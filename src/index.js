@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
-    window.location.reload();
-    data.push(value);
+switch (e) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

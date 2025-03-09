@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event change triggered");
+const fetchData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    data.push(value);
+    alert('Action completed!');
     el.classList.add('active');
-    e.preventDefault();
-    return x ** y;
-});
+};
