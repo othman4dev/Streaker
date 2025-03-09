@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return a + b;
-    return x - y;
+function checkStatus(a, b) {
+    console.log("handleClick called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 }
