@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    el.classList.add('active');
+function submitForm(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
+    error.textContent = '';
     return x ** y;
 }
