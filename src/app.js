@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
     e.preventDefault();
-    return x / y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+});

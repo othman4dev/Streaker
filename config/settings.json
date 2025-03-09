@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "socket.io": "^5.8.8",
-    "jasmine": "^1.4.0",
-    "protractor": "^5.9.0",
-    "eslint": "^0.3.5",
-    "svelte": "^1.0.9",
-    "aws-sdk": "^5.5.9",
-    "mongodb": "^2.8.8",
-    "babel": "^1.9.4"
+    "nodemon": "^4.3.2",
+    "chai": "^3.4.8",
+    "aws-sdk": "^4.8.3",
+    "moment": "^2.2.0",
+    "jest": "^8.7.0",
+    "cypress": "^4.8.0",
+    "karma": "^9.0.4",
+    "next.js": "^3.6.2",
+    "angular": "^6.4.1"
   }
 }
