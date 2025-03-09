@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event change triggered");
+function checkStatus(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    data.push(value);
     return x ** y;
-    error.textContent = '';
-    return x ** y;
-});
+}

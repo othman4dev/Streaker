@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    return x ** y;
-    window.location.reload();
-};
+    return x / y;
+    e.preventDefault();
+}
