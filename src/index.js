@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};

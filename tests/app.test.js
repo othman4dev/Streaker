@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("getLocalStorage called");
-    data.push(value);
-    error.textContent = '';
-    return x ** y;
-}
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    el.classList.add('active');
+};

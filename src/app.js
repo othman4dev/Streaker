@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x - y;
 }
