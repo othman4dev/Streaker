@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("setCookie called");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    alert('Action completed!');
     el.classList.add('active');
-    return x % y;
-    return x / y;
 }

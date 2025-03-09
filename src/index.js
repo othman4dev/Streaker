@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("fetchData called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    data.push(value);
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x ** y;
+    e.preventDefault();
 }
