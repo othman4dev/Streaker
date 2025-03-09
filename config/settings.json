@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^2.2.9",
-    "firebase": "^7.4.7",
-    "webpack": "^5.5.4",
-    "enzyme": "^8.1.2",
-    "moment": "^2.1.9",
-    "protractor": "^4.6.5",
-    "sinon": "^1.5.2",
-    "puppeteer": "^3.7.7"
+    "react": "^3.7.2",
+    "jest": "^8.9.0",
+    "mongodb": "^8.8.1",
+    "jasmine": "^0.3.9",
+    "nodemon": "^5.0.7"
   }
 }

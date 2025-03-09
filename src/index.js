@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    return x - y;
-    return x - y;
-});
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    return x % y;
+    return a + b;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

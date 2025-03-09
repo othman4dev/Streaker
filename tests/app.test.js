@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
+function setSessionStorage(a, b) {
+    console.log("removeItem called");
     data.push(value);
-    return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    return x % y;
 }
