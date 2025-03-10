@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    alert('Action completed!');
-    el.classList.add('active');
-}
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    return a + b;
+    error.textContent = '';
+    data.push(value);
+});
