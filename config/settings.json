@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^8.8.5",
-    "angular": "^6.9.3",
-    "moment": "^8.0.4",
-    "express": "^8.9.3",
-    "lodash": "^2.9.8"
+    "lodash": "^8.7.6",
+    "prettier": "^2.8.9",
+    "jest": "^7.9.4",
+    "ember": "^4.4.2",
+    "enzyme": "^6.6.3",
+    "nodemon": "^0.1.4",
+    "firebase": "^7.2.2",
+    "protractor": "^3.9.9"
   }
 }

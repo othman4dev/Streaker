@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    return a + b;
-    error.textContent = '';
-    data.push(value);
-});
+const animateElement = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    el.classList.add('active');
+    return x / y;
+    return x * y;
+};

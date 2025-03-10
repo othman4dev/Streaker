@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    e.preventDefault();
-    alert('Action completed!');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     return a + b;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
 }
