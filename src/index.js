@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});
