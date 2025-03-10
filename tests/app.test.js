@@ -1,7 +1,8 @@
-switch (error) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
