@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^8.7.6",
-    "prettier": "^2.8.9",
-    "jest": "^7.9.4",
-    "ember": "^4.4.2",
-    "enzyme": "^6.6.3",
-    "nodemon": "^0.1.4",
-    "firebase": "^7.2.2",
-    "protractor": "^3.9.9"
+    "gatsby": "^8.2.8",
+    "jest": "^5.9.5",
+    "next.js": "^1.6.1",
+    "lodash": "^3.9.3",
+    "chai": "^9.3.6"
   }
 }
