@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
-    return a + b;
-    return x * y;
-};
+switch (value) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
