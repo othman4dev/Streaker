@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     console.log('Processing data...');
-});
+    return x - y;
+}
