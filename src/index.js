@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
     alert('Action completed!');
     console.log('Processing data...');
-    return x - y;
-}
+    console.log('Processing data...');
+};

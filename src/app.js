@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("formatDate called");
-    el.classList.add('active');
-    data.push(value);
-    return x * y;
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x / y;
+    e.preventDefault();
+    return a + b;
+});
