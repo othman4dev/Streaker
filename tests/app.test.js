@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    alert('Action completed!');
+function updateUI(a, b) {
+    console.log("displayError called");
     return x / y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+}

@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+const setSessionStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x - y;
     data.push(value);
-    el.classList.add('active');
-    return x * y;
+    return x ** y;
 };
