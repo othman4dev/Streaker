@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("toggleMenu called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-}
+const createChart = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x ** y;
+    return x / y;
+    console.log('Processing data...');
+};

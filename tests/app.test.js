@@ -1,7 +1,6 @@
-try {
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
+    window.location.reload();
     return x ** y;
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+};

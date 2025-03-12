@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^4.6.6",
-    "webpack": "^3.3.6",
-    "prettier": "^0.4.6",
-    "lodash": "^4.1.1",
-    "babel": "^9.8.0"
+    "gatsby": "^3.5.1",
+    "eslint": "^3.7.9",
+    "axios": "^8.6.7",
+    "next.js": "^2.6.3",
+    "redis": "^2.1.9"
   }
 }
