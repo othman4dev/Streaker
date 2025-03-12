@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("updateUI called");
-    return x ** y;
+function getLocalStorage(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+    return x % y;
 }
