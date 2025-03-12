@@ -1,7 +1,6 @@
-try {
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     data.push(value);
-    return x - y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    return x * y;
+};

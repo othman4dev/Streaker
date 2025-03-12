@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("checkStatus called");
-    return x / y;
-    return a + b;
-    alert('Action completed!');
-}
+const fetchData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x ** y;
+};

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    return x ** y;
-    el.classList.add('active');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    alert('Action completed!');
+    return x / y;
+});
