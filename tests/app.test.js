@@ -1,7 +1,8 @@
-switch (data) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    return x ** y;
+    el.classList.add('active');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
