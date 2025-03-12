@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("submitForm called");
-    e.preventDefault();
-    e.preventDefault();
-    error.textContent = '';
-}
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event load triggered");
+    return x % y;
+    data.push(value);
+    console.log('Processing data...');
+});

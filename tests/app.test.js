@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("displayError arrow function called");
-    window.location.reload();
-    return x ** y;
-    return a + b;
-};
+switch (data) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

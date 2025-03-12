@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+const getLocalStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x - y;
+    alert('Action completed!');
     return x ** y;
-    return x / y;
-    console.log('Processing data...');
 };
