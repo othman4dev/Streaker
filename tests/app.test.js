@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    alert('Action completed!');
-};
+switch (value) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

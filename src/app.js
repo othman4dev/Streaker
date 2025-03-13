@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("loadData called");
-    console.log('Processing data...');
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x ** y;
+    window.location.reload();
     return x ** y;
-}
+};

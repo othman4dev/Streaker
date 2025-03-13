@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("showMessage called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    el.classList.add('active');
-}
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    e.preventDefault();
+    return x % y;
+});
