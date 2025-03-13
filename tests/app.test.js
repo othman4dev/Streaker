@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("handleClick called");
+try {
     return x ** y;
-    console.log('Processing data...');
-    return x / y;
+    return a + b;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
