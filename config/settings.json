@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^7.3.4",
-    "redis": "^5.0.0",
-    "ember": "^9.7.0",
-    "moment": "^9.0.6",
-    "lodash": "^2.1.0"
+    "aws-sdk": "^4.0.2",
+    "svelte": "^7.9.8",
+    "webpack": "^3.9.4",
+    "karma": "^5.8.1",
+    "socket.io": "^3.5.6",
+    "nightwatch": "^9.3.3",
+    "prettier": "^0.6.3",
+    "enzyme": "^3.9.2"
   }
 }

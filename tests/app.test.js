@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    alert('Action completed!');
+};

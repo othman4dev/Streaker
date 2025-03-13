@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    alert('Action completed!');
-    window.location.reload();
+function hideModal(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    el.classList.add('active');
 }

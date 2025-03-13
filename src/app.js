@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    data.push(value);
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("loadData called");
+    console.log('Processing data...');
+    return x ** y;
+    return x ** y;
 }
