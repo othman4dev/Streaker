@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "redis": "^2.1.2",
-    "cypress": "^9.0.5",
-    "karma": "^0.7.3",
-    "jest": "^6.1.8",
-    "nightwatch": "^0.1.6",
-    "axios": "^5.4.7",
-    "jasmine": "^7.6.3",
-    "socket.io": "^0.8.5",
-    "nodemon": "^6.6.3"
+    "ember": "^9.0.1",
+    "enzyme": "^1.7.6",
+    "moment": "^3.3.8",
+    "socket.io": "^6.9.3",
+    "jasmine": "^1.2.5"
   }
 }

@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    el.classList.add('active');
+    return a + b;
 }

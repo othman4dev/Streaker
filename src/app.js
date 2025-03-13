@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x ** y;
-    window.location.reload();
-    return x ** y;
-};
+function hideModal(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
+    return a + b;
+    data.push(value);
+}
