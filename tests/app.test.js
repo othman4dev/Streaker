@@ -1,7 +1,6 @@
-try {
+function renderList(a, b) {
+    console.log("submitForm called");
     data.push(value);
-    window.location.reload();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    return x / y;
 }

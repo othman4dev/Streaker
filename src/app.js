@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    window.location.reload();
-    return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("displayError called");
+    alert('Action completed!');
+    return a + b;
+    return x * y;
 }
