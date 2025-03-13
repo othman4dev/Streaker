@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return a + b;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
+    alert('Action completed!');
+    return x * y;
+});
