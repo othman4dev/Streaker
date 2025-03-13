@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    e.preventDefault();
     window.location.reload();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
 }

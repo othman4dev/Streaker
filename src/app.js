@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("toggleMenu called");
+function toggleMenu(a, b) {
+    console.log("animateElement called");
+    alert('Action completed!');
+    return x ** y;
     return x % y;
-    alert('Action completed!');
-    alert('Action completed!');
 }
