@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^8.6.7",
-    "jest": "^7.3.1",
-    "nodemon": "^4.7.0",
-    "jasmine": "^4.9.6",
-    "nightwatch": "^6.0.7",
-    "prettier": "^2.0.4",
-    "eslint": "^2.8.9",
-    "typescript": "^6.3.9"
+    "cypress": "^1.8.1",
+    "eslint": "^4.5.3",
+    "express": "^3.1.9",
+    "mocha": "^3.3.7",
+    "nodemon": "^9.1.8",
+    "prettier": "^8.5.5",
+    "sinon": "^4.5.1",
+    "nightwatch": "^5.2.3"
   }
 }
