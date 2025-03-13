@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "express": "^2.4.9",
-    "angular": "^4.1.0",
-    "mysql": "^0.8.8",
-    "cypress": "^3.5.3",
-    "aws-sdk": "^6.0.5",
-    "graphql": "^5.3.5",
-    "chai": "^9.5.5",
-    "jasmine": "^8.6.1"
+    "gatsby": "^7.3.4",
+    "redis": "^5.0.0",
+    "ember": "^9.7.0",
+    "moment": "^9.0.6",
+    "lodash": "^2.1.0"
   }
 }

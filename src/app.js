@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
+try {
+    el.classList.add('active');
     data.push(value);
-    return x ** y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

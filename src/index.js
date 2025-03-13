@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("createChart called");
+    data.push(value);
+    alert('Action completed!');
+    window.location.reload();
 }
