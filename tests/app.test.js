@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    alert('Action completed!');
-    return x * y;
-});
+try {
+    data.push(value);
+    window.location.reload();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
