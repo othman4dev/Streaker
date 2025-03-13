@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x - y;
-    data.push(value);
-    return x ** y;
-};
+function handleClick(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+}

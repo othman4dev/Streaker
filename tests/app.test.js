@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+try {
+    data.push(value);
+    console.log('Processing data...');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
