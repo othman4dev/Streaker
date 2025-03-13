@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    alert('Action completed!');
-    return x * y;
-};
+    console.log('Processing data...');
+    return x - y;
+}

@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("createChart arrow function called");
-    el.classList.add('active');
-    return x - y;
-    el.classList.add('active');
-};
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    data.push(value);
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

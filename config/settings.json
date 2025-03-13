@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^9.6.8",
-    "mocha": "^4.2.9",
-    "babel": "^0.4.3",
-    "webpack": "^1.5.9",
-    "ember": "^4.3.4",
-    "redis": "^3.3.7",
-    "firebase": "^6.5.7",
-    "moment": "^4.5.6",
-    "next.js": "^2.4.2"
+    "express": "^2.4.9",
+    "angular": "^4.1.0",
+    "mysql": "^0.8.8",
+    "cypress": "^3.5.3",
+    "aws-sdk": "^6.0.5",
+    "graphql": "^5.3.5",
+    "chai": "^9.5.5",
+    "jasmine": "^8.6.1"
   }
 }
