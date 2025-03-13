@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "babel": "^2.7.2",
-    "jest": "^2.5.4",
-    "enzyme": "^5.0.5",
-    "redis": "^3.9.7",
-    "chai": "^4.0.9",
-    "karma": "^3.4.9"
+    "nodemon": "^9.6.8",
+    "mocha": "^4.2.9",
+    "babel": "^0.4.3",
+    "webpack": "^1.5.9",
+    "ember": "^4.3.4",
+    "redis": "^3.3.7",
+    "firebase": "^6.5.7",
+    "moment": "^4.5.6",
+    "next.js": "^2.4.2"
   }
 }

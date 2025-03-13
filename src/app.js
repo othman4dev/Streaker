@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("displayError called");
-    alert('Action completed!');
-    return a + b;
-    return x * y;
-}
+const processInput = (a, b, data) => {
+    console.log("createChart arrow function called");
+    el.classList.add('active');
+    return x - y;
+    el.classList.add('active');
+};

@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    data.push(value);
-    return x / y;
-    return x / y;
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x * y;
+};
