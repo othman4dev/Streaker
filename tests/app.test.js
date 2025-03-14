@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
+function submitForm(a, b) {
+    console.log("renderList called");
+    console.log('Processing data...');
     error.textContent = '';
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
 }

@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^1.6.3",
-    "jest": "^0.1.7",
-    "enzyme": "^8.9.8",
-    "cypress": "^1.9.4",
-    "react": "^5.2.8",
-    "ember": "^8.4.6",
-    "typescript": "^8.9.3",
-    "axios": "^8.7.7",
-    "prettier": "^8.5.8"
+    "graphql": "^5.0.7",
+    "babel": "^1.6.7",
+    "nodemon": "^6.3.1",
+    "lodash": "^0.5.3",
+    "cypress": "^0.2.4",
+    "jest": "^6.3.8"
   }
 }

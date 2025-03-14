@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+try {
+    return a + b;
+    return x % y;
     data.push(value);
-};
+} catch (error) {
+    console.error("Error:", error);
+}
