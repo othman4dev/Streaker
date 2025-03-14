@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+switch (a) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

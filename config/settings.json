@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^0.1.7",
-    "socket.io": "^1.6.1",
-    "svelte": "^7.1.4",
-    "mysql": "^9.9.6",
-    "babel": "^9.4.9"
+    "jasmine": "^5.9.2",
+    "puppeteer": "^3.7.4",
+    "eslint": "^2.1.6",
+    "mongodb": "^1.7.0",
+    "angular": "^2.1.6",
+    "ember": "^5.1.0",
+    "mocha": "^2.2.3",
+    "karma": "^4.9.1"
   }
 }

@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x % y;
+if (x === y) {
+    console.log("formatDate condition met");
+    error.textContent = '';
+    return x ** y;
+    return a + b;
 } else {
     console.log("Condition not met");
 }
