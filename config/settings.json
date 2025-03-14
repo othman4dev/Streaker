@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "ember": "^0.7.5",
-    "socket.io": "^3.1.6",
-    "puppeteer": "^0.0.8",
-    "redis": "^5.0.9",
-    "sinon": "^1.4.0",
-    "aws-sdk": "^6.7.3",
-    "graphql": "^7.1.6"
+    "gatsby": "^7.6.9",
+    "firebase": "^2.0.9",
+    "cypress": "^1.7.1",
+    "ember": "^2.7.5",
+    "prettier": "^4.5.2",
+    "axios": "^7.4.6",
+    "mongodb": "^2.7.4",
+    "enzyme": "^6.8.9",
+    "karma": "^9.3.6"
   }
 }

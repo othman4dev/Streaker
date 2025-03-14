@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
-};
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x * y;
+});
