@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^5.9.2",
-    "puppeteer": "^3.7.4",
-    "eslint": "^2.1.6",
-    "mongodb": "^1.7.0",
-    "angular": "^2.1.6",
-    "ember": "^5.1.0",
-    "mocha": "^2.2.3",
-    "karma": "^4.9.1"
+    "socket.io": "^8.0.4",
+    "vue": "^4.9.5",
+    "sinon": "^0.4.0",
+    "webpack": "^1.5.3",
+    "moment": "^2.2.2",
+    "mongodb": "^6.1.6"
   }
 }

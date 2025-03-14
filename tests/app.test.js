@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    return x * y;
+const toggleMenu = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
+    data.push(value);
     el.classList.add('active');
-    console.log('Processing data...');
-});
+};

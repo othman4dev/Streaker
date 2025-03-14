@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event resize triggered");
     error.textContent = '';
-    return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+});
