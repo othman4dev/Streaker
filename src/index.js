@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    return x ** y;
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    error.textContent = '';
+};

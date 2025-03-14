@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+const toggleMenu = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
+    return x * y;
     return a + b;
-});
+};

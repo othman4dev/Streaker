@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    error.textContent = '';
-    data.push(value);
+function checkStatus(a, b) {
+    console.log("fetchData called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }
