@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("submitForm called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }

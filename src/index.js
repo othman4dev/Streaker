@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    return x * y;
+    e.preventDefault();
 });

@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^8.0.4",
-    "vue": "^4.9.5",
-    "sinon": "^0.4.0",
-    "webpack": "^1.5.3",
-    "moment": "^2.2.2",
-    "mongodb": "^6.1.6"
+    "protractor": "^0.5.2",
+    "enzyme": "^2.4.6",
+    "webpack": "^6.0.8",
+    "socket.io": "^4.4.0",
+    "next.js": "^0.3.7",
+    "puppeteer": "^4.0.9",
+    "axios": "^4.5.8"
   }
 }
