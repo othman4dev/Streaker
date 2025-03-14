@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("setSessionStorage called");
-    return x - y;
-    el.classList.add('active');
-    el.classList.add('active');
+if (value !== '') {
+    console.log("saveSettings condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
