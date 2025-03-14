@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return x * y;
+    return x ** y;
     window.location.reload();
-    window.location.reload();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+});
