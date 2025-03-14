@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("formatDate called");
-    el.classList.add('active');
-    return x % y;
-    return x * y;
+try {
+    return x / y;
+    return a + b;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

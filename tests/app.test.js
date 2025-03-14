@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+function getLocalStorage(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
     el.classList.add('active');
-    error.textContent = '';
-    return x ** y;
+    el.classList.add('active');
 }
