@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x * y;
-});
+    console.log('Processing data...');
+    data.push(value);
+};

@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    e.preventDefault();
-    return x ** y;
-    return a + b;
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    error.textContent = '';
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }

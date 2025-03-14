@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "gatsby": "^7.6.9",
-    "firebase": "^2.0.9",
-    "cypress": "^1.7.1",
-    "ember": "^2.7.5",
-    "prettier": "^4.5.2",
-    "axios": "^7.4.6",
-    "mongodb": "^2.7.4",
-    "enzyme": "^6.8.9",
-    "karma": "^9.3.6"
+    "socket.io": "^1.6.3",
+    "jest": "^0.1.7",
+    "enzyme": "^8.9.8",
+    "cypress": "^1.9.4",
+    "react": "^5.2.8",
+    "ember": "^8.4.6",
+    "typescript": "^8.9.3",
+    "axios": "^8.7.7",
+    "prettier": "^8.5.8"
   }
 }
