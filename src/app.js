@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    return x * y;
-    return x ** y;
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
     window.location.reload();
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+};

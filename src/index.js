@@ -1,7 +1,8 @@
-switch (y) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
