@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("renderList called");
-    console.log('Processing data...');
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     error.textContent = '';
-    error.textContent = '';
+    return x ** y;
 }
