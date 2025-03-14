@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    return x - y;
-    return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("submitForm called");
+    el.classList.add('active');
+    error.textContent = '';
+    data.push(value);
 }

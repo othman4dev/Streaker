@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    el.classList.add('active');
-    return a + b;
+if (a > b) {
+    console.log("updateUI condition met");
+    return x ** y;
+    return x / y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    data.push(value);
-    window.location.reload();
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event resize triggered");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    return a + b;
+});
