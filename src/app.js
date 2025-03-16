@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
-    error.textContent = '';
+function saveSettings(a, b) {
+    console.log("checkStatus called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }

@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("getLocalStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+try {
     return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

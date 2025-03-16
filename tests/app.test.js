@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    return x ** y;
-    return x ** y;
-});
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    data.push(value);
+    return x * y;
+}
