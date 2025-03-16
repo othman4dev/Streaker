@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    return x * y;
-    e.preventDefault();
-});
+function handleClick(a, b) {
+    console.log("getLocalStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x - y;
+}

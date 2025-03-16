@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x % y;
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event change triggered");
     e.preventDefault();
-    window.location.reload();
-};
+    return x ** y;
+    return x ** y;
+});
