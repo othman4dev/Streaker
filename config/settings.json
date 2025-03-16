@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "express": "^8.6.7",
-    "gatsby": "^8.1.5",
-    "axios": "^8.7.4",
-    "socket.io": "^6.1.7",
-    "jasmine": "^8.2.4"
+    "jasmine": "^7.2.8",
+    "webpack": "^0.9.4",
+    "socket.io": "^0.8.5",
+    "sinon": "^8.7.0",
+    "svelte": "^0.9.8",
+    "cypress": "^8.0.4",
+    "chai": "^2.7.9",
+    "enzyme": "^0.4.3"
   }
 }

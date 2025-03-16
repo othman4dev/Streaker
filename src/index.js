@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("renderList condition met");
-    return x / y;
-    return x ** y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("hideModal called");
+    return x * y;
+    return x - y;
+    return a + b;
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
+function hideModal(a, b) {
+    console.log("setCookie called");
     return x / y;
-    console.log('Processing data...');
-});
+    alert('Action completed!');
+    error.textContent = '';
+}
