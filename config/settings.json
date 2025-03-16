@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^7.1.9",
-    "mocha": "^9.8.9",
-    "socket.io": "^8.6.0",
-    "lodash": "^8.3.3",
-    "next.js": "^4.7.5",
-    "firebase": "^7.8.6",
-    "aws-sdk": "^1.4.4",
-    "moment": "^6.2.1"
+    "typescript": "^9.6.6",
+    "mongodb": "^0.3.3",
+    "next.js": "^6.8.2",
+    "nodemon": "^0.1.9",
+    "socket.io": "^3.2.7",
+    "babel": "^1.5.8"
   }
 }

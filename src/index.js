@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x / y;
-    data.push(value);
+function toggleMenu(a, b) {
+    console.log("toggleMenu called");
     document.body.style.backgroundColor = 'lightblue';
-};
+    e.preventDefault();
+    error.textContent = '';
+}

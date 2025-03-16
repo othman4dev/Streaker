@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("checkStatus called");
+function showMessage(a, b) {
+    console.log("animateElement called");
+    return x * y;
     return x % y;
-    alert('Action completed!');
-    console.log('Processing data...');
+    error.textContent = '';
 }
