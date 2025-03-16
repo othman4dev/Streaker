@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
-    e.preventDefault();
-    return a + b;
-});
+const setCookie = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x / y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+};

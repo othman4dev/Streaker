@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("checkStatus called");
+    return x % y;
+    alert('Action completed!');
+    console.log('Processing data...');
 }

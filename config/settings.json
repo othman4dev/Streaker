@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^0.1.8",
-    "protractor": "^3.0.7",
-    "express": "^4.3.7",
-    "firebase": "^2.7.6",
-    "enzyme": "^3.7.8",
-    "eslint": "^6.9.5",
-    "mocha": "^0.8.8"
+    "typescript": "^7.1.9",
+    "mocha": "^9.8.9",
+    "socket.io": "^8.6.0",
+    "lodash": "^8.3.3",
+    "next.js": "^4.7.5",
+    "firebase": "^7.8.6",
+    "aws-sdk": "^1.4.4",
+    "moment": "^6.2.1"
   }
 }
