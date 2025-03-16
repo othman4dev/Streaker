@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("hideModal called");
-    return x * y;
-    return x - y;
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    e.preventDefault();
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

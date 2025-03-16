@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("setCookie called");
-    return x / y;
-    alert('Action completed!');
-    error.textContent = '';
+try {
+    el.classList.add('active');
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
