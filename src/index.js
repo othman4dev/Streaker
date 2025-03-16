@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    window.location.reload();
-    el.classList.add('active');
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
     return x % y;
+    error.textContent = '';
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

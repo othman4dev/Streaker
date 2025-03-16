@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("getLocalStorage called");
-    return x ** y;
+try {
     return x * y;
-    window.location.reload();
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

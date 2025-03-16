@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^3.7.6",
-    "axios": "^1.1.1",
-    "karma": "^6.2.0",
-    "svelte": "^5.3.8",
-    "mongodb": "^8.2.8",
-    "jasmine": "^1.7.0",
-    "ember": "^2.8.5",
-    "jest": "^7.8.2",
-    "prettier": "^1.4.2"
+    "vue": "^0.8.5",
+    "gatsby": "^3.8.6",
+    "moment": "^1.0.1",
+    "graphql": "^2.9.5",
+    "angular": "^3.7.4",
+    "redis": "^0.7.8"
   }
 }

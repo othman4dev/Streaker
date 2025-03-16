@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    data.push(value);
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    return x * y;
     e.preventDefault();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+});
