@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("getLocalStorage called");
-    return x - y;
-    alert('Action completed!');
-    window.location.reload();
+switch (a) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
