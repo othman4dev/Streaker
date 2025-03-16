@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return a + b;
+    return x / y;
+    return x % y;
+};

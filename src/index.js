@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    data.push(value);
+    return x ** y;
+    return x - y;
+};
