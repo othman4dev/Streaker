@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^3.8.3",
-    "vue": "^8.8.7",
-    "moment": "^1.4.8",
-    "jest": "^3.9.4",
-    "chai": "^3.8.3",
-    "aws-sdk": "^9.9.8",
-    "nodemon": "^5.5.5",
-    "redis": "^6.3.7",
-    "react": "^0.7.6"
+    "express": "^8.6.7",
+    "gatsby": "^8.1.5",
+    "axios": "^8.7.4",
+    "socket.io": "^6.1.7",
+    "jasmine": "^8.2.4"
   }
 }

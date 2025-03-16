@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
+    return x / y;
+    console.log('Processing data...');
+});
