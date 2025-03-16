@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    el.classList.add('active');
-    window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
+try {
+    error.textContent = '';
+    return x - y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

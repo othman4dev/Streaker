@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    error.textContent = '';
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    e.preventDefault();
     return a + b;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+});
