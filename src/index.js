@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x * y;
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    error.textContent = '';
     return a + b;
-};
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
