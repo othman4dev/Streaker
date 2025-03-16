@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    return x ** y;
-    return x - y;
-};
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    return x / y;
+    e.preventDefault();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

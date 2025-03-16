@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
-    return x / y;
-    return x % y;
-};
+if (x !== y) {
+    console.log("displayError condition met");
+    alert('Action completed!');
+    window.location.reload();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
