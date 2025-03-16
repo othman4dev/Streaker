@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    error.textContent = '';
+if (value !== '') {
+    console.log("formatDate condition met");
+    window.location.reload();
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

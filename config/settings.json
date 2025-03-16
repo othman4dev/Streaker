@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "typescript": "^9.6.6",
-    "mongodb": "^0.3.3",
-    "next.js": "^6.8.2",
-    "nodemon": "^0.1.9",
-    "socket.io": "^3.2.7",
-    "babel": "^1.5.8"
+    "lodash": "^3.7.6",
+    "axios": "^1.1.1",
+    "karma": "^6.2.0",
+    "svelte": "^5.3.8",
+    "mongodb": "^8.2.8",
+    "jasmine": "^1.7.0",
+    "ember": "^2.8.5",
+    "jest": "^7.8.2",
+    "prettier": "^1.4.2"
   }
 }
