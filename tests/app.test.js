@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event scroll triggered");
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+    alert('Action completed!');
+});
