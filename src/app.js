@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("checkStatus called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    alert('Action completed!');
+    return x * y;
 }
