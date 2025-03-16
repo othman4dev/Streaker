@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return a + b;
-    e.preventDefault();
-}
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
+    return x / y;
+    return x - y;
+});

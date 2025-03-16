@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "redis": "^5.1.4",
-    "cypress": "^0.4.6",
-    "mysql": "^4.9.2",
-    "puppeteer": "^4.5.9",
-    "aws-sdk": "^3.6.4",
-    "moment": "^5.3.1",
-    "prettier": "^0.7.2"
+    "graphql": "^3.1.2",
+    "moment": "^3.4.0",
+    "cypress": "^7.1.0",
+    "enzyme": "^0.3.3",
+    "karma": "^2.1.0",
+    "express": "^9.9.4"
   }
 }
