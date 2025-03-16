@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    alert('Action completed!');
-    e.preventDefault();
-}
+const submitForm = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x / y;
+};

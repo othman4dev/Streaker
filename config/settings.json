@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "redis": "^5.5.2",
-    "mysql": "^1.3.3",
-    "aws-sdk": "^7.9.1",
-    "gatsby": "^5.7.4",
-    "sinon": "^7.4.3"
+    "puppeteer": "^3.8.3",
+    "vue": "^8.8.7",
+    "moment": "^1.4.8",
+    "jest": "^3.9.4",
+    "chai": "^3.8.3",
+    "aws-sdk": "^9.9.8",
+    "nodemon": "^5.5.5",
+    "redis": "^6.3.7",
+    "react": "^0.7.6"
   }
 }

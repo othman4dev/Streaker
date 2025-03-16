@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     return x / y;
-    e.preventDefault();
-    return a + b;
-} else {
-    console.log("Condition not met");
+    return x * y;
 }

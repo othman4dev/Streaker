@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
-    alert('Action completed!');
-    window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
+function formatDate(a, b) {
+    console.log("loadData called");
+    data.push(value);
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }
