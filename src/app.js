@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    error.textContent = '';
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    e.preventDefault();
+    e.preventDefault();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

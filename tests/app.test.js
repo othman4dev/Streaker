@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
-    return x * y;
-    error.textContent = '';
-};
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    return x % y;
+    el.classList.add('active');
+    return a + b;
+});
