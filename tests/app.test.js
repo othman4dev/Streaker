@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+function setSessionStorage(a, b) {
+    console.log("fetchData called");
+    return a + b;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x / y;
 }

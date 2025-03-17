@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
+    return x % y;
+    data.push(value);
+};
