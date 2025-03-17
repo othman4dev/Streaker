@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    e.preventDefault();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("removeItem called");
+    return x % y;
+    return a + b;
+    return x / y;
 }

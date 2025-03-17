@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    el.classList.add('active');
+const updateUI = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return a + b;
-});
+    error.textContent = '';
+    return x * y;
+};
