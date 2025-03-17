@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "graphql": "^1.9.0",
-    "mysql": "^8.0.2",
-    "jest": "^3.5.4",
-    "aws-sdk": "^0.7.3",
-    "cypress": "^0.8.1",
-    "redis": "^6.7.4",
-    "nodemon": "^8.3.4",
-    "sinon": "^4.2.9"
+    "aws-sdk": "^5.9.5",
+    "nodemon": "^6.9.3",
+    "axios": "^7.9.3",
+    "jest": "^2.3.2",
+    "mocha": "^3.4.4",
+    "typescript": "^0.8.5",
+    "enzyme": "^2.0.8",
+    "express": "^9.6.5",
+    "svelte": "^9.0.8"
   }
 }
