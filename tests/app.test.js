@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    error.textContent = '';
-    return x / y;
-}
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});

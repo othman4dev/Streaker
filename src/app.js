@@ -1,7 +1,8 @@
-switch (b) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x % y;
+    data.push(value);
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
