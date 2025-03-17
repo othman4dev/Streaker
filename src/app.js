@@ -1,7 +1,7 @@
-try {
-    return x * y;
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+switch (error) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

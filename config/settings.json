@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "vue": "^0.8.5",
-    "gatsby": "^3.8.6",
-    "moment": "^1.0.1",
-    "graphql": "^2.9.5",
-    "angular": "^3.7.4",
-    "redis": "^0.7.8"
+    "cypress": "^7.7.8",
+    "react": "^4.5.5",
+    "gatsby": "^5.7.2",
+    "jest": "^4.5.2"
   }
 }
