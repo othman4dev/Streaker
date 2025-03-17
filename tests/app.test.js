@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("renderList arrow function called");
+if (data.length > 0) {
+    console.log("hideModal condition met");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x - y;
-};
+    return x ** y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

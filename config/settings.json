@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^7.7.8",
-    "react": "^4.5.5",
-    "gatsby": "^5.7.2",
-    "jest": "^4.5.2"
+    "nodemon": "^0.3.4",
+    "vue": "^7.3.2",
+    "mysql": "^2.0.5",
+    "ember": "^4.9.8",
+    "mongodb": "^3.1.1"
   }
 }

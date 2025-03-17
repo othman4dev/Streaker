@@ -1,7 +1,7 @@
-try {
-    window.location.reload();
-    return x / y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+switch (e) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
