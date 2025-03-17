@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
+function removeItem(a, b) {
+    console.log("setSessionStorage called");
+    el.classList.add('active');
     return x - y;
     error.textContent = '';
-    return a + b;
-};
+}
