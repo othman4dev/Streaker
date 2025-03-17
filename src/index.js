@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    alert('Action completed!');
     return x - y;
-    error.textContent = '';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

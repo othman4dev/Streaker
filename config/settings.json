@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "ember": "^7.6.7",
-    "cypress": "^9.2.2",
-    "typescript": "^9.6.1",
-    "jest": "^0.7.0"
+    "graphql": "^1.9.0",
+    "mysql": "^8.0.2",
+    "jest": "^3.5.4",
+    "aws-sdk": "^0.7.3",
+    "cypress": "^0.8.1",
+    "redis": "^6.7.4",
+    "nodemon": "^8.3.4",
+    "sinon": "^4.2.9"
   }
 }
