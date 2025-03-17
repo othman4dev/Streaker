@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    data.push(value);
+    return x % y;
+};

@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
     return x * y;
-    return x / y;
-});
+    error.textContent = '';
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

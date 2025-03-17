@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.9.5",
-    "nodemon": "^6.9.3",
-    "axios": "^7.9.3",
-    "jest": "^2.3.2",
-    "mocha": "^3.4.4",
-    "typescript": "^0.8.5",
-    "enzyme": "^2.0.8",
-    "express": "^9.6.5",
-    "svelte": "^9.0.8"
+    "jasmine": "^0.4.0",
+    "socket.io": "^3.7.8",
+    "lodash": "^0.9.8",
+    "prettier": "^6.2.6",
+    "jest": "^5.0.9",
+    "graphql": "^5.5.9",
+    "angular": "^3.0.7",
+    "react": "^4.9.3"
   }
 }

@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("formatDate called");
+const showMessage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-}
+    error.textContent = '';
+    return x - y;
+};
