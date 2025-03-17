@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^1.2.3",
-    "sinon": "^0.1.6",
-    "graphql": "^7.1.2",
-    "nodemon": "^7.5.0",
-    "webpack": "^9.5.0",
-    "aws-sdk": "^6.6.4"
+    "nightwatch": "^8.8.1",
+    "axios": "^4.9.3",
+    "chai": "^8.0.6",
+    "sinon": "^9.3.0",
+    "ember": "^1.1.7",
+    "express": "^4.8.3",
+    "babel": "^5.0.7"
   }
 }

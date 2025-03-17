@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return x ** y;
-    return x * y;
-    return x / y;
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    error.textContent = '';
+    return x - y;
+    return x - y;
 } else {
     console.log("Condition not met");
 }
