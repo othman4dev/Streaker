@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x % y;
 }

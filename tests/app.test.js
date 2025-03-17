@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
+try {
     error.textContent = '';
-    return x * y;
-};
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
