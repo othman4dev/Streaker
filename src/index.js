@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("updateUI called");
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
     window.location.reload();
-    data.push(value);
-    window.location.reload();
-}
+    console.log('Processing data...');
+    el.classList.add('active');
+});

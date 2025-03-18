@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^5.2.1",
-    "cypress": "^5.1.7",
-    "nodemon": "^8.7.8",
-    "ember": "^3.5.7",
-    "aws-sdk": "^8.0.2"
+    "enzyme": "^0.0.5",
+    "ember": "^9.2.9",
+    "next.js": "^9.9.1",
+    "mocha": "^6.9.5",
+    "svelte": "^4.5.7",
+    "axios": "^2.8.8",
+    "aws-sdk": "^2.1.3"
   }
 }

@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
     return x ** y;
-    return x / y;
-    alert('Action completed!');
-};
+    e.preventDefault();
+    error.textContent = '';
+});
