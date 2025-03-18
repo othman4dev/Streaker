@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    alert('Action completed!');
+const processInput = (a, b, data) => {
+    console.log("hideModal arrow function called");
     data.push(value);
-});
+    console.log('Processing data...');
+    el.classList.add('active');
+};
