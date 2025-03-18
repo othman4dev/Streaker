@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^5.4.5",
-    "nodemon": "^8.3.1",
-    "socket.io": "^6.3.9",
-    "jasmine": "^7.7.5",
-    "react": "^7.7.9",
-    "chai": "^0.1.7"
+    "graphql": "^4.7.0",
+    "karma": "^1.1.4",
+    "protractor": "^6.8.7",
+    "vue": "^1.9.2",
+    "firebase": "^5.1.8"
   }
 }
