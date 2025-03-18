@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    data.push(value);
-    console.log('Processing data...');
-    el.classList.add('active');
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x - y;
+}
