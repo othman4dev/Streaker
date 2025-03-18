@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^6.1.4",
-    "vue": "^4.9.6",
-    "sinon": "^5.7.4",
-    "lodash": "^0.3.1",
-    "enzyme": "^2.6.0",
-    "angular": "^4.8.2",
-    "jasmine": "^6.2.8"
+    "jest": "^3.6.7",
+    "gatsby": "^6.5.1",
+    "mocha": "^1.2.9",
+    "react": "^7.1.0",
+    "cypress": "^4.1.6"
   }
 }

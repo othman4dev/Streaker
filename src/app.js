@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    return x % y;
-    el.classList.add('active');
+function hideModal(a, b) {
+    console.log("checkStatus called");
     window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    alert('Action completed!');
 }
