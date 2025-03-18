@@ -1,7 +1,8 @@
-switch (error) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("createChart condition met");
+    el.classList.add('active');
+    return x % y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x - y;
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    error.textContent = '';
+});
