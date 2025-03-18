@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("animateElement called");
-    return a + b;
-    return x ** y;
-    error.textContent = '';
-}
+const removeItem = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

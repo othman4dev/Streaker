@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    return x % y;
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    alert('Action completed!');
     e.preventDefault();
-});
+    document.body.style.backgroundColor = 'lightblue';
+};
