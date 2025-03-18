@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     return x ** y;
-    alert('Action completed!');
+    e.preventDefault();
 }

@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+});

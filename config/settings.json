@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^3.6.7",
-    "gatsby": "^6.5.1",
-    "mocha": "^1.2.9",
-    "react": "^7.1.0",
-    "cypress": "^4.1.6"
+    "gatsby": "^6.0.8",
+    "enzyme": "^7.6.3",
+    "moment": "^3.7.8",
+    "react": "^8.1.5",
+    "angular": "^6.7.8",
+    "webpack": "^3.4.0"
   }
 }
