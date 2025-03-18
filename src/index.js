@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x * y;
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-}
+});

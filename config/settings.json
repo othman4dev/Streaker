@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^0.3.6",
-    "jasmine": "^3.8.7",
-    "puppeteer": "^8.1.4",
-    "aws-sdk": "^4.8.6",
-    "eslint": "^2.2.2",
-    "jest": "^1.2.3",
-    "sinon": "^4.5.1",
-    "cypress": "^9.1.6"
+    "enzyme": "^4.0.4",
+    "redis": "^1.5.2",
+    "cypress": "^9.9.9",
+    "karma": "^4.2.4",
+    "webpack": "^8.9.8",
+    "aws-sdk": "^3.6.8",
+    "mocha": "^0.1.8",
+    "angular": "^1.9.7"
   }
 }
