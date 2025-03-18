@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^2.2.3",
-    "typescript": "^1.2.0",
-    "moment": "^8.8.8",
-    "jest": "^1.8.5",
-    "react": "^1.1.5"
+    "jasmine": "^8.8.0",
+    "mysql": "^2.8.9",
+    "socket.io": "^6.1.0",
+    "next.js": "^4.6.0",
+    "angular": "^6.3.1"
   }
 }

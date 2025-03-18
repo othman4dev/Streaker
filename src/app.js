@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x - y;
-}
+const submitForm = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    alert('Action completed!');
+    return a + b;
+    window.location.reload();
+};
