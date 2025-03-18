@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^9.3.3",
-    "ember": "^4.7.0",
-    "axios": "^0.8.7",
-    "chai": "^7.3.5",
-    "karma": "^1.6.5",
-    "angular": "^5.6.6",
-    "mysql": "^1.4.7",
-    "firebase": "^4.6.0",
-    "mongodb": "^1.2.1"
+    "mongodb": "^4.1.6",
+    "svelte": "^6.0.2",
+    "aws-sdk": "^0.4.3",
+    "enzyme": "^5.5.5",
+    "protractor": "^6.6.4",
+    "webpack": "^4.3.4"
   }
 }
