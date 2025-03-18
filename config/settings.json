@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^4.1.6",
-    "svelte": "^6.0.2",
-    "aws-sdk": "^0.4.3",
-    "enzyme": "^5.5.5",
-    "protractor": "^6.6.4",
-    "webpack": "^4.3.4"
+    "firebase": "^2.4.9",
+    "moment": "^8.0.5",
+    "ember": "^0.1.5",
+    "express": "^7.9.5"
   }
 }
