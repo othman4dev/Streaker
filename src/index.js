@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    el.classList.add('active');
-});
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+}

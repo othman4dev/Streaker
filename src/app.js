@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    error.textContent = '';
+try {
+    return x / y;
+    return x * y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
