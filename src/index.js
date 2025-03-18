@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function createChart(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    data.push(value);
+    window.location.reload();
+}

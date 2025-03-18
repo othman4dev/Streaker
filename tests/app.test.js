@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    e.preventDefault();
-    e.preventDefault();
-});
+const checkStatus = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x ** y;
+    return x / y;
+    alert('Action completed!');
+};

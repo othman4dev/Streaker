@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "vue": "^5.7.8",
-    "eslint": "^8.9.5",
-    "redis": "^8.6.8",
-    "mocha": "^7.9.3",
-    "chai": "^5.4.0",
-    "babel": "^9.5.5",
-    "ember": "^0.8.4"
+    "enzyme": "^5.2.1",
+    "cypress": "^5.1.7",
+    "nodemon": "^8.7.8",
+    "ember": "^3.5.7",
+    "aws-sdk": "^8.0.2"
   }
 }
