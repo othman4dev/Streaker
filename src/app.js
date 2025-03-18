@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    return x % y;
     return x - y;
-}
+    return x * y;
+});

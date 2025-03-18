@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    e.preventDefault();
+    e.preventDefault();
+});
