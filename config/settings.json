@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.7.0",
-    "karma": "^1.1.4",
-    "protractor": "^6.8.7",
-    "vue": "^1.9.2",
-    "firebase": "^5.1.8"
+    "enzyme": "^7.1.1",
+    "lodash": "^1.8.3",
+    "moment": "^1.6.2",
+    "nodemon": "^6.3.9",
+    "jest": "^6.5.0",
+    "redis": "^4.2.0"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event focus triggered");
     error.textContent = '';
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x % y;
+    e.preventDefault();
+});

@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    return x ** y;
+    error.textContent = '';
 }
