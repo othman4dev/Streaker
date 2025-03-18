@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+const showMessage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x * y;
+    error.textContent = '';
+    el.classList.add('active');
+};

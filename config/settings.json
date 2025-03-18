@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^4.0.4",
-    "redis": "^1.5.2",
-    "cypress": "^9.9.9",
-    "karma": "^4.2.4",
-    "webpack": "^8.9.8",
-    "aws-sdk": "^3.6.8",
-    "mocha": "^0.1.8",
-    "angular": "^1.9.7"
+    "express": "^5.9.7",
+    "vue": "^1.7.8",
+    "webpack": "^4.7.7",
+    "next.js": "^0.1.6",
+    "nodemon": "^8.5.7",
+    "eslint": "^7.3.2",
+    "babel": "^1.1.1"
   }
 }
