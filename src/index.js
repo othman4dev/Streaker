@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("showMessage called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x - y;
     return x % y;
-}
+    return x - y;
+};

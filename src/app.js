@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    return x - y;
-    error.textContent = '';
+if (a > b) {
+    console.log("formatDate condition met");
+    return x % y;
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
