@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    e.preventDefault();
-});
+function processInput(a, b) {
+    console.log("validateInput called");
+    return x % y;
+    alert('Action completed!');
+    return x - y;
+}

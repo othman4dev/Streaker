@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event change triggered");
+    return x - y;
     e.preventDefault();
-    return x / y;
-    console.log('Processing data...');
-};
+    return a + b;
+});
