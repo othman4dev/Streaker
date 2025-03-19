@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    alert('Action completed!');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+});

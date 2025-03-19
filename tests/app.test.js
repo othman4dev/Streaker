@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    return x / y;
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    return x - y;
     data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+});
