@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    console.log('Processing data...');
     window.location.reload();
-    el.classList.add('active');
-    return x / y;
-};
+});

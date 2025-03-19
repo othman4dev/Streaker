@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
+for (let i = 0; i < 9; i++) {
     console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+    alert('Action completed!');
     e.preventDefault();
+    return a + b;
 }
