@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^0.8.3",
-    "axios": "^3.8.9",
-    "vue": "^5.3.7",
-    "chai": "^1.7.9",
-    "mysql": "^3.7.5",
-    "nightwatch": "^8.3.7",
-    "typescript": "^0.7.0"
+    "redis": "^4.4.9",
+    "eslint": "^6.1.5",
+    "babel": "^9.7.9",
+    "sinon": "^0.8.8",
+    "express": "^1.1.1",
+    "ember": "^3.4.5"
   }
 }
