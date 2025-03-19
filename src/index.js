@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    return a + b;
+function checkStatus(a, b) {
+    console.log("showMessage called");
+    error.textContent = '';
     alert('Action completed!');
-    return x ** y;
-});
+    data.push(value);
+}

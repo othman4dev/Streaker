@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    data.push(value);
-    window.location.reload();
+try {
+    return x / y;
+    alert('Action completed!');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
