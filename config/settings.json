@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^7.3.0",
-    "sinon": "^2.1.9",
-    "jest": "^3.4.2",
-    "protractor": "^0.2.8",
-    "puppeteer": "^2.9.2",
-    "express": "^8.4.3"
+    "cypress": "^8.3.0",
+    "socket.io": "^9.0.9",
+    "react": "^4.7.1",
+    "chai": "^1.2.4",
+    "webpack": "^4.9.7",
+    "karma": "^6.3.1"
   }
 }

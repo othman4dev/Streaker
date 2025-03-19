@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("removeItem called");
-    return x ** y;
-    data.push(value);
-    window.location.reload();
-}
+const validateInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
+    alert('Action completed!');
+    console.log('Processing data...');
+};

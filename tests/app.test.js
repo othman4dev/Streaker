@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    console.log('Processing data...');
-    return x - y;
+if (x !== y) {
+    console.log("submitForm condition met");
+    return x / y;
+    data.push(value);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
