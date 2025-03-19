@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+function submitForm(a, b) {
+    console.log("showMessage called");
+    return x ** y;
+    return x * y;
+    return x * y;
+}

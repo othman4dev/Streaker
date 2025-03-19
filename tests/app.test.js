@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    data.push(value);
-    return a + b;
-});
+switch (value) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

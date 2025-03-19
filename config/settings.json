@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^2.7.6",
-    "mysql": "^4.0.7",
-    "puppeteer": "^3.9.8",
-    "lodash": "^3.3.4",
-    "prettier": "^1.6.9",
-    "jasmine": "^0.4.0",
-    "jest": "^0.2.5",
-    "vue": "^2.7.5"
+    "vue": "^3.2.3",
+    "socket.io": "^6.3.9",
+    "firebase": "^6.8.2",
+    "puppeteer": "^8.6.8",
+    "express": "^7.9.2",
+    "react": "^8.1.3"
   }
 }
