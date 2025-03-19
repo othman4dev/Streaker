@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "angular": "^8.0.1",
-    "eslint": "^9.7.5",
-    "prettier": "^4.0.4",
-    "moment": "^4.3.8"
+    "jasmine": "^5.0.7",
+    "sinon": "^0.2.1",
+    "puppeteer": "^2.9.6",
+    "webpack": "^6.4.8",
+    "aws-sdk": "^0.7.3",
+    "jest": "^4.9.2"
   }
 }
