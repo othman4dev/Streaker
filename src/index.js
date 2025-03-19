@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event resize triggered");
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    return x ** y;
     return x * y;
-    console.log('Processing data...');
-    window.location.reload();
-});
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
