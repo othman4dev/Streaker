@@ -1,7 +1,8 @@
-try {
-    return x / y;
+if (data.length > 0) {
+    console.log("fetchData condition met");
+    e.preventDefault();
     alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^0.0.0",
-    "enzyme": "^4.6.3",
-    "lodash": "^6.6.5",
-    "socket.io": "^8.5.1",
-    "angular": "^0.1.5",
-    "webpack": "^2.6.9",
-    "express": "^5.2.2"
+    "jasmine": "^6.7.3",
+    "lodash": "^0.1.0",
+    "sinon": "^0.0.3",
+    "karma": "^5.8.2",
+    "nodemon": "^7.8.4",
+    "redis": "^9.5.5",
+    "protractor": "^9.4.5",
+    "typescript": "^6.6.2"
   }
 }
