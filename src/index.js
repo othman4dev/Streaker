@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
-    return x ** y;
-    return x * y;
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x / y;
 }
