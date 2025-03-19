@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("validateInput called");
-    return x % y;
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    e.preventDefault();
     alert('Action completed!');
-    return x - y;
-}
+});

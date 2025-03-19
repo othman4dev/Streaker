@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event change triggered");
-    return x - y;
+try {
+    return x % y;
+    el.classList.add('active');
     e.preventDefault();
-    return a + b;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

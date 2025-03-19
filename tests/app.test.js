@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    return a + b;
-    data.push(value);
-    return x - y;
+if (x !== y) {
+    console.log("fetchData condition met");
+    error.textContent = '';
+    console.log('Processing data...');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
