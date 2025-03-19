@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x % y;
+if (a > b) {
+    console.log("setCookie condition met");
+    return x ** y;
     alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
