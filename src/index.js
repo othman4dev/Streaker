@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    alert('Action completed!');
-    return x / y;
+function createChart(a, b) {
+    console.log("removeItem called");
+    return x ** y;
+    data.push(value);
+    window.location.reload();
 }

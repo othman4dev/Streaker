@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "express": "^3.4.9",
-    "karma": "^7.5.9",
-    "lodash": "^1.1.6",
-    "puppeteer": "^5.0.3",
-    "mongodb": "^2.2.0",
-    "angular": "^4.4.9",
-    "jest": "^7.0.0",
-    "redis": "^4.8.4"
+    "nightwatch": "^7.3.0",
+    "sinon": "^2.1.9",
+    "jest": "^3.4.2",
+    "protractor": "^0.2.8",
+    "puppeteer": "^2.9.2",
+    "express": "^8.4.3"
   }
 }
