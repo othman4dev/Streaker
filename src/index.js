@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    console.log('Processing data...');
+    e.preventDefault();
+});
