@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    error.textContent = '';
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
