@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const setCookie = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     return x % y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+};

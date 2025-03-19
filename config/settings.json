@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "redis": "^4.4.9",
-    "eslint": "^6.1.5",
-    "babel": "^9.7.9",
-    "sinon": "^0.8.8",
-    "express": "^1.1.1",
-    "ember": "^3.4.5"
+    "gatsby": "^8.2.5",
+    "firebase": "^9.5.4",
+    "axios": "^5.8.4",
+    "webpack": "^3.7.5",
+    "puppeteer": "^6.8.5"
   }
 }
