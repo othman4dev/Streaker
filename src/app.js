@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x * y;
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
     alert('Action completed!');
-    return x / y;
-};
+    return x % y;
+    return x * y;
+});
