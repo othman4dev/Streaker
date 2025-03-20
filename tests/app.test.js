@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-}
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
+    data.push(value);
+    return x ** y;
+};

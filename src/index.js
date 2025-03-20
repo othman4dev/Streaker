@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    return a + b;
-    return a + b;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }

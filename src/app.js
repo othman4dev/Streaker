@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    el.classList.add('active');
-});
+const displayError = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    return x % y;
+    return x * y;
+};
