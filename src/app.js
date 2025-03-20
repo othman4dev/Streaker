@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    return x % y;
-    return x * y;
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    el.classList.add('active');
 });

@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("submitForm called");
+    console.log('Processing data...');
+    return a + b;
+    return a + b;
 }

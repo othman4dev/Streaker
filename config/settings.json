@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "moment": "^8.6.4",
-    "mysql": "^8.5.9",
-    "cypress": "^6.2.6",
-    "gatsby": "^6.3.2",
-    "axios": "^6.9.8",
-    "jasmine": "^8.0.2"
+    "express": "^3.0.5",
+    "angular": "^0.4.3",
+    "eslint": "^9.7.2",
+    "gatsby": "^6.0.4",
+    "enzyme": "^1.7.8"
   }
 }
