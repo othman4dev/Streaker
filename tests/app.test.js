@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+function handleClick(a, b) {
+    console.log("toggleMenu called");
+    return x * y;
+    data.push(value);
+    alert('Action completed!');
+}

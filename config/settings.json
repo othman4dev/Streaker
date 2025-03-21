@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "moment": "^4.4.6",
-    "eslint": "^1.5.8",
-    "webpack": "^2.7.1",
-    "next.js": "^4.8.1",
-    "jasmine": "^2.9.8",
-    "puppeteer": "^4.0.9",
-    "aws-sdk": "^2.1.8"
+    "firebase": "^4.6.1",
+    "axios": "^4.0.9",
+    "cypress": "^4.2.9",
+    "karma": "^8.7.5",
+    "puppeteer": "^3.9.6",
+    "aws-sdk": "^3.8.7",
+    "mysql": "^9.2.9",
+    "enzyme": "^9.2.5"
   }
 }
