@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x * y;
-    return x ** y;
-}
+const loadData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    return x / y;
+};

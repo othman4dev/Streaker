@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^7.1.0",
-    "mocha": "^0.4.6",
-    "nightwatch": "^1.0.2",
-    "svelte": "^5.5.1",
-    "jasmine": "^3.0.8",
-    "firebase": "^7.3.0",
-    "express": "^6.9.7",
-    "babel": "^0.2.6"
+    "gatsby": "^7.2.9",
+    "enzyme": "^6.9.9",
+    "webpack": "^0.4.8",
+    "eslint": "^1.0.5",
+    "aws-sdk": "^8.3.0",
+    "mocha": "^6.2.5",
+    "jasmine": "^5.0.6",
+    "babel": "^5.4.7"
   }
 }

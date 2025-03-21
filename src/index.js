@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    return x ** y;
+try {
     data.push(value);
+    e.preventDefault();
     data.push(value);
-});
+} catch (error) {
+    console.error("Error:", error);
+}
