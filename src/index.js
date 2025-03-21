@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return x ** y;
+    data.push(value);
+    data.push(value);
+});
