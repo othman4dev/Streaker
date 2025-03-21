@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
-    el.classList.add('active');
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-};
+    e.preventDefault();
+});

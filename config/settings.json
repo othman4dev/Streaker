@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^9.8.2",
-    "nightwatch": "^0.8.6",
-    "redis": "^9.5.9",
-    "angular": "^4.8.9",
-    "jest": "^4.5.8",
-    "cypress": "^8.5.7",
-    "chai": "^2.3.3"
+    "nightwatch": "^8.6.3",
+    "nodemon": "^5.5.0",
+    "graphql": "^8.8.7",
+    "puppeteer": "^3.0.5",
+    "jest": "^6.8.5",
+    "next.js": "^4.0.8"
   }
 }
