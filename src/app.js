@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
-    return x - y;
-    error.textContent = '';
-});
+try {
+    return x * y;
+    console.log('Processing data...');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    error.textContent = '';
-    console.log('Processing data...');
-    error.textContent = '';
+if (value !== '') {
+    console.log("processInput condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
