@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    e.preventDefault();
-};
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    return x - y;
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

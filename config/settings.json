@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^2.5.2",
-    "graphql": "^3.3.1",
-    "babel": "^1.8.6",
-    "svelte": "^3.6.3",
-    "enzyme": "^4.8.7",
-    "jasmine": "^5.2.1",
-    "axios": "^3.3.7",
-    "ember": "^5.8.2"
+    "moment": "^4.4.6",
+    "eslint": "^1.5.8",
+    "webpack": "^2.7.1",
+    "next.js": "^4.8.1",
+    "jasmine": "^2.9.8",
+    "puppeteer": "^4.0.9",
+    "aws-sdk": "^2.1.8"
   }
 }
