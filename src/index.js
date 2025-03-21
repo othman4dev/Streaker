@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    e.preventDefault();
+};

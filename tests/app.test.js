@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("loadData called");
-    return a + b;
-    return x ** y;
-    return x - y;
+function saveSettings(a, b) {
+    console.log("renderList called");
+    error.textContent = '';
+    el.classList.add('active');
+    e.preventDefault();
 }
