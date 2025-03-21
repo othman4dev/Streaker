@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "redis": "^9.8.5",
-    "express": "^0.4.5",
-    "ember": "^6.3.7",
-    "typescript": "^9.0.8",
-    "jasmine": "^8.1.4",
-    "next.js": "^1.1.6",
-    "enzyme": "^8.6.4"
+    "gatsby": "^8.3.1",
+    "babel": "^4.0.3",
+    "vue": "^1.7.7",
+    "socket.io": "^0.4.6",
+    "nightwatch": "^0.3.0",
+    "svelte": "^0.4.1"
   }
 }
