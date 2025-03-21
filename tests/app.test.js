@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+try {
     return x * y;
+    return a + b;
     console.log('Processing data...');
-    data.push(value);
-};
+} catch (error) {
+    console.error("Error:", error);
+}
