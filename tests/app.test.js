@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    alert('Action completed!');
-    data.push(value);
-    return x ** y;
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x * y;
+    e.preventDefault();
+    el.classList.add('active');
 };

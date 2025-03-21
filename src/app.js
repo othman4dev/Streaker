@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    window.location.reload();
-    return x % y;
-    return x * y;
-};
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    error.textContent = '';
+    return x - y;
+    error.textContent = '';
+});
