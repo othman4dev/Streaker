@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^7.2.0",
-    "enzyme": "^5.9.9",
-    "firebase": "^5.6.2",
-    "next.js": "^8.5.0"
+    "mysql": "^9.8.2",
+    "nightwatch": "^0.8.6",
+    "redis": "^9.5.9",
+    "angular": "^4.8.9",
+    "jest": "^4.5.8",
+    "cypress": "^8.5.7",
+    "chai": "^2.3.3"
   }
 }

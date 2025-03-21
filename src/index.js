@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    return x / y;
 } else {
     console.log("Condition not met");
 }
