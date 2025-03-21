@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("toggleMenu called");
+try {
     window.location.reload();
-    console.log('Processing data...');
+    return x / y;
     return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
