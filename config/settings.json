@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^8.6.3",
-    "nodemon": "^5.5.0",
-    "graphql": "^8.8.7",
-    "puppeteer": "^3.0.5",
-    "jest": "^6.8.5",
-    "next.js": "^4.0.8"
+    "graphql": "^1.2.5",
+    "aws-sdk": "^3.1.4",
+    "express": "^1.0.3",
+    "jasmine": "^2.6.5",
+    "react": "^0.1.8",
+    "sinon": "^2.7.9"
   }
 }

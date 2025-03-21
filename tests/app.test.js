@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
+const updateUI = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     return x * y;
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    data.push(value);
+};

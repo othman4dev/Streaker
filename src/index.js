@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    data.push(value);
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return x - y;
+    error.textContent = '';
+    alert('Action completed!');
+});
