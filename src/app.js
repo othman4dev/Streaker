@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+const submitForm = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    return x * y;
+    return x * y;
+};
