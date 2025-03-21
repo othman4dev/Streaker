@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("loadData arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    console.log('Processing data...');
+};
