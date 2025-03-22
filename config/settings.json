@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^4.6.1",
-    "axios": "^4.0.9",
-    "cypress": "^4.2.9",
-    "karma": "^8.7.5",
-    "puppeteer": "^3.9.6",
-    "aws-sdk": "^3.8.7",
-    "mysql": "^9.2.9",
-    "enzyme": "^9.2.5"
+    "next.js": "^1.0.7",
+    "gatsby": "^9.3.6",
+    "babel": "^1.8.3",
+    "chai": "^3.3.6",
+    "jasmine": "^2.6.5",
+    "jest": "^5.5.0"
   }
 }
