@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    return x % y;
+    return a + b;
+});

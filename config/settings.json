@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^1.0.7",
-    "gatsby": "^9.3.6",
-    "babel": "^1.8.3",
-    "chai": "^3.3.6",
-    "jasmine": "^2.6.5",
-    "jest": "^5.5.0"
+    "puppeteer": "^4.2.5",
+    "gatsby": "^1.0.1",
+    "ember": "^8.3.7",
+    "chai": "^0.0.7",
+    "firebase": "^8.2.8",
+    "angular": "^0.1.1",
+    "svelte": "^5.2.1"
   }
 }
