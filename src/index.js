@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    return x % y;
-    return x % y;
-    return a + b;
-});
+const validateInput = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    console.log('Processing data...');
+    return x ** y;
+    alert('Action completed!');
+};
