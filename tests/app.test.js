@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("showMessage called");
-    return x * y;
-    return x / y;
-    console.log('Processing data...');
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    window.location.reload();
+    data.push(value);
+    alert('Action completed!');
+});
