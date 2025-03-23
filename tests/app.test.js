@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("createChart condition met");
-    return x % y;
+if (value !== '') {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    data.push(value);
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
