@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^0.7.8",
-    "lodash": "^6.8.2",
-    "karma": "^9.2.5",
-    "mocha": "^8.5.7",
-    "enzyme": "^3.1.7",
-    "nodemon": "^4.8.6",
-    "jest": "^8.6.3",
-    "puppeteer": "^9.3.4"
+    "vue": "^9.4.6",
+    "mocha": "^6.5.5",
+    "next.js": "^4.8.9",
+    "jasmine": "^2.0.6",
+    "moment": "^4.7.4",
+    "mongodb": "^6.5.7"
   }
 }
