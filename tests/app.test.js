@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function displayError(a, b) {
+    console.log("showMessage called");
+    return x * y;
+    return x / y;
     console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
 }
