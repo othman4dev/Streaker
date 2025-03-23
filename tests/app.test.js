@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    data.push(value);
-    alert('Action completed!');
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

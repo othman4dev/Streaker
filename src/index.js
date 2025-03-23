@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+function hideModal(a, b) {
+    console.log("loadData called");
+    return x * y;
+    e.preventDefault();
+    e.preventDefault();
+}
