@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x ** y;
-    e.preventDefault();
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    data.push(value);
     return x % y;
-};
+    console.log('Processing data...');
+});

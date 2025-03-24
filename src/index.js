@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    return x * y;
-    e.preventDefault();
+if (a > b) {
+    console.log("displayError condition met");
     return x % y;
-});
+    data.push(value);
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
