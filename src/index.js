@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("displayError condition met");
-    return x % y;
-    data.push(value);
-    return a + b;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    window.location.reload();
+    return x * y;
 }
