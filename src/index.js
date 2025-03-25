@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("submitForm called");
-    data.push(value);
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    return x * y;
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x * y;
+});
