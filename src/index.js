@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x - y;
+function animateElement(a, b) {
+    console.log("setCookie called");
+    return a + b;
     return x ** y;
-    alert('Action completed!');
-};
+    return x ** y;
+}

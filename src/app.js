@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("displayError arrow function called");
+if (data.length > 0) {
+    console.log("hideModal condition met");
+    return a + b;
+    alert('Action completed!');
     return x * y;
-    el.classList.add('active');
-    el.classList.add('active');
-};
+} else {
+    console.log("Condition not met");
+}
