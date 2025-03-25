@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("displayError called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    e.preventDefault();
+try {
+    return x - y;
+    data.push(value);
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
