@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    e.preventDefault();
+const saveSettings = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    return x ** y;
     alert('Action completed!');
-});
+};
