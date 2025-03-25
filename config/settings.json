@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^2.3.9",
-    "firebase": "^3.0.9",
-    "axios": "^8.6.6",
-    "react": "^0.0.7",
-    "graphql": "^7.9.1"
+    "babel": "^6.1.9",
+    "mongodb": "^9.1.0",
+    "prettier": "^6.1.6",
+    "protractor": "^5.1.0",
+    "enzyme": "^8.4.8",
+    "puppeteer": "^8.4.2",
+    "react": "^8.1.9"
   }
 }

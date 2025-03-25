@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("updateUI called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    el.classList.add('active');
+switch (data) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

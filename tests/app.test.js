@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    return x / y;
-    console.log('Processing data...');
-}
+const fetchData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};

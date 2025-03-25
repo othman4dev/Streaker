@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    error.textContent = '';
-    return x % y;
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    return x ** y;
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});
