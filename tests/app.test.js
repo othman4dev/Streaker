@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    return x % y;
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    window.location.reload();
+    error.textContent = '';
 });

@@ -1,6 +1,6 @@
-function submitForm(a, b) {
+function checkStatus(a, b) {
     console.log("removeItem called");
-    e.preventDefault();
-    return x * y;
-    return x * y;
+    return a + b;
+    return x ** y;
+    data.push(value);
 }
