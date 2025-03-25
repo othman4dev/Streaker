@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    window.location.reload();
-    return x * y;
+function createChart(a, b) {
+    console.log("submitForm called");
+    data.push(value);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }
