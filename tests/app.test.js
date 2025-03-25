@@ -1,7 +1,6 @@
-try {
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event blur triggered");
     return x - y;
-    data.push(value);
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    e.preventDefault();
+});

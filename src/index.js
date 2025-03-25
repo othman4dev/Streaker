@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
+    return x * y;
+    return x * y;
 }
