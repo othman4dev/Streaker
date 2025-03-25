@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    e.preventDefault();
+function fetchData(a, b) {
+    console.log("displayError called");
     document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    e.preventDefault();
 }

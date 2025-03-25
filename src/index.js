@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    return x * y;
-    return a + b;
-    return x * y;
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    return x % y;
+    return x - y;
 });
