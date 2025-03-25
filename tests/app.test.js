@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
-    error.textContent = '';
-    return a + b;
-});
+switch (x) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

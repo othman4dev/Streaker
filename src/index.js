@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event load triggered");
+    window.location.reload();
+    e.preventDefault();
+    alert('Action completed!');
+});
