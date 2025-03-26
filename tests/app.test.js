@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+function loadData(a, b) {
+    console.log("toggleMenu called");
     error.textContent = '';
-    alert('Action completed!');
+    e.preventDefault();
+    data.push(value);
 }
