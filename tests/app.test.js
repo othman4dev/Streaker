@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+function checkStatus(a, b) {
+    console.log("showMessage called");
     console.log('Processing data...');
-    data.push(value);
-    return x % y;
+    return x - y;
+    return x - y;
 }
