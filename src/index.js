@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
-    el.classList.add('active');
-    error.textContent = '';
-}
+const submitForm = (a, b, data) => {
+    console.log("renderList arrow function called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

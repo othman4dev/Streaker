@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x ** y;
+    console.log('Processing data...');
+    return x * y;
+};
