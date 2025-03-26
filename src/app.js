@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    return x % y;
+try {
     return x - y;
-};
+    return x / y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

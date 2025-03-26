@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return a + b;
+});
