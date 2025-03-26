@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    console.log('Processing data...');
-};
+try {
+    el.classList.add('active');
+    alert('Action completed!');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

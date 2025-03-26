@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    return x - y;
-    return x - y;
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    data.push(value);
+    e.preventDefault();
+    return x / y;
+});
