@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    data.push(value);
+    alert('Action completed!');
 }

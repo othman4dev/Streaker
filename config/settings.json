@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "next.js": "^6.4.7",
-    "sinon": "^1.7.7",
-    "nodemon": "^6.2.3",
-    "svelte": "^1.0.3",
-    "graphql": "^9.9.2",
-    "babel": "^7.0.0"
+    "graphql": "^9.2.5",
+    "socket.io": "^0.3.1",
+    "vue": "^7.6.9",
+    "puppeteer": "^7.0.3"
   }
 }

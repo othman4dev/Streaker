@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    el.classList.add('active');
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
