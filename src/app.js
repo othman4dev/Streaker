@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    e.preventDefault();
+const loadData = (a, b, data) => {
+    console.log("submitForm arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-});
+    data.push(value);
+    error.textContent = '';
+};

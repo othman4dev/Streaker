@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("animateElement called");
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    e.preventDefault();
-    data.push(value);
-}
+    return x * y;
+};
