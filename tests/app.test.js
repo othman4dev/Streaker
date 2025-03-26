@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
     document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     return x ** y;
-    return a + b;
-});
+} else {
+    console.log("Condition not met");
+}
