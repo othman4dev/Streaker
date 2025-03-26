@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+try {
     error.textContent = '';
-};
+    console.log('Processing data...');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

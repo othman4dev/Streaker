@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "jasmine": "^1.0.5",
-    "webpack": "^4.4.1",
-    "next.js": "^6.8.8",
-    "prettier": "^7.1.2",
-    "mongodb": "^3.4.5",
-    "protractor": "^5.0.9",
-    "sinon": "^2.6.8",
-    "react": "^2.3.2",
-    "mocha": "^7.1.4"
+    "prettier": "^8.9.2",
+    "jest": "^3.4.3",
+    "socket.io": "^0.8.8",
+    "sinon": "^7.5.9"
   }
 }
