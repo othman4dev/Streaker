@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^1.6.5",
-    "mocha": "^3.8.2",
-    "webpack": "^1.1.4",
-    "moment": "^5.8.0",
-    "react": "^1.8.8"
+    "eslint": "^7.5.3",
+    "nightwatch": "^6.4.5",
+    "mocha": "^6.7.9",
+    "redis": "^8.9.4",
+    "cypress": "^0.0.4"
   }
 }
