@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^0.2.1",
-    "enzyme": "^8.1.2",
-    "ember": "^3.6.0",
-    "axios": "^3.6.9",
-    "redis": "^2.5.9"
+    "puppeteer": "^1.6.5",
+    "mocha": "^3.8.2",
+    "webpack": "^1.1.4",
+    "moment": "^5.8.0",
+    "react": "^1.8.8"
   }
 }

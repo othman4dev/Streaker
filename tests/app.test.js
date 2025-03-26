@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
+    window.location.reload();
+    window.location.reload();
+};

@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x % y;
-};
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    return x * y;
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

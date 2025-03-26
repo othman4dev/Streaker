@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    return a + b;
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
