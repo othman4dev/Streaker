@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("toggleMenu called");
-    error.textContent = '';
-    e.preventDefault();
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     data.push(value);
+    window.location.reload();
 }

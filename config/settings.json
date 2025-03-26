@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^9.8.9",
-    "redis": "^3.7.7",
-    "karma": "^1.6.9",
-    "typescript": "^6.6.6",
-    "moment": "^4.0.8",
-    "nightwatch": "^5.2.9",
-    "webpack": "^5.4.0"
+    "mongodb": "^0.5.3",
+    "babel": "^4.7.1",
+    "karma": "^3.1.0",
+    "enzyme": "^8.8.4",
+    "express": "^2.9.6",
+    "vue": "^6.3.2",
+    "graphql": "^9.8.6",
+    "mocha": "^0.4.2"
   }
 }
