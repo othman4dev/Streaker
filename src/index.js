@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    alert('Action completed!');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("fetchData called");
+    return x % y;
+    return x * y;
+    return x * y;
 }

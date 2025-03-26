@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    e.preventDefault();
-    return x / y;
-});
+switch (a) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
