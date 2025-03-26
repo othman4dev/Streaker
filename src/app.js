@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    return x * y;
-};
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    return a + b;
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

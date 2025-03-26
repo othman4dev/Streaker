@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    console.log('Processing data...');
-    data.push(value);
-    return x % y;
-};
+switch (a) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

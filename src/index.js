@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("renderList arrow function called");
+const updateUI = (a, b, data) => {
+    console.log("updateUI arrow function called");
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+    console.log('Processing data...');
+    return x % y;
 };

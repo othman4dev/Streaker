@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^1.7.1",
-    "vue": "^2.5.8",
-    "ember": "^9.5.6",
-    "babel": "^0.0.2",
-    "mongodb": "^3.9.4",
-    "graphql": "^4.2.4"
+    "jest": "^0.2.1",
+    "enzyme": "^8.1.2",
+    "ember": "^3.6.0",
+    "axios": "^3.6.9",
+    "redis": "^2.5.9"
   }
 }
