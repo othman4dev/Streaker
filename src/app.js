@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    return x ** y;
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
     return x * y;
-    data.push(value);
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 });

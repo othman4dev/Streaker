@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x % y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function renderList(a, b) {
+    console.log("animateElement called");
+    return x ** y;
+    e.preventDefault();
+    data.push(value);
+}
