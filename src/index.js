@@ -1,7 +1,8 @@
-try {
+if (value !== '') {
+    console.log("displayError condition met");
+    return x ** y;
     return x - y;
-    window.location.reload();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

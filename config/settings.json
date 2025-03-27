@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^9.2.5",
-    "socket.io": "^0.3.1",
-    "vue": "^7.6.9",
-    "puppeteer": "^7.0.3"
+    "axios": "^7.2.9",
+    "nodemon": "^5.8.7",
+    "mysql": "^1.4.5",
+    "chai": "^6.4.2",
+    "cypress": "^6.2.3",
+    "enzyme": "^8.7.1",
+    "sinon": "^8.8.6",
+    "gatsby": "^2.6.0"
   }
 }
