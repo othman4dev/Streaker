@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    window.location.reload();
-    data.push(value);
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+});
