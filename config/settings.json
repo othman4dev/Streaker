@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "axios": "^7.2.9",
-    "nodemon": "^5.8.7",
-    "mysql": "^1.4.5",
-    "chai": "^6.4.2",
-    "cypress": "^6.2.3",
-    "enzyme": "^8.7.1",
-    "sinon": "^8.8.6",
-    "gatsby": "^2.6.0"
+    "socket.io": "^9.4.7",
+    "aws-sdk": "^6.9.7",
+    "svelte": "^7.0.8",
+    "nightwatch": "^4.8.2",
+    "lodash": "^6.2.0",
+    "karma": "^6.5.4",
+    "express": "^3.2.5",
+    "protractor": "^5.8.2",
+    "enzyme": "^0.4.0"
   }
 }

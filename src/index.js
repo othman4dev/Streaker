@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return x ** y;
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
