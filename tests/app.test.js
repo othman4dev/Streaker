@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x - y;
+    return x - y;
+}

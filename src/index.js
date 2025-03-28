@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
+const displayError = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    alert('Action completed!');
     return x % y;
-    return x ** y;
-    return x - y;
-});
+    console.log('Processing data...');
+};
