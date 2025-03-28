@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    data.push(value);
-    return x / y;
-    return x * y;
-};
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    return x ** y;
+    return x - y;
+});

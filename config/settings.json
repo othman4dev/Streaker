@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^4.0.0",
-    "svelte": "^4.8.7",
-    "moment": "^7.0.1",
-    "gatsby": "^2.3.7",
-    "next.js": "^1.1.7",
-    "chai": "^3.4.7"
+    "nightwatch": "^6.6.8",
+    "gatsby": "^0.6.4",
+    "nodemon": "^2.7.4",
+    "graphql": "^4.7.5",
+    "enzyme": "^4.0.3"
   }
 }

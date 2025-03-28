@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
+const getLocalStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
     console.log('Processing data...');
-    return x % y;
-    return x * y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+};

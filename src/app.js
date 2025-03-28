@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    return x % y;
-    window.location.reload();
-});
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
