@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    return x % y;
-    return x / y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     alert('Action completed!');
+    return x * y;
 }

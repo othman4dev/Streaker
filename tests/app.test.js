@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("displayError called");
     return x - y;
-});
+    e.preventDefault();
+    alert('Action completed!');
+}

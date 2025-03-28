@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    error.textContent = '';
-});
+function processInput(a, b) {
+    console.log("fetchData called");
+    e.preventDefault();
+    alert('Action completed!');
+    window.location.reload();
+}
