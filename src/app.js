@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("removeItem called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    e.preventDefault();
 }

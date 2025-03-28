@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "karma": "^7.2.5",
-    "webpack": "^8.2.2",
-    "lodash": "^1.5.5",
-    "babel": "^8.7.5",
-    "express": "^2.1.9"
+    "protractor": "^6.1.9",
+    "axios": "^9.6.9",
+    "chai": "^4.9.3",
+    "jasmine": "^4.8.8",
+    "cypress": "^3.6.2"
   }
 }
