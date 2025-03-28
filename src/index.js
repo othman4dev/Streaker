@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    el.classList.add('active');
+const checkStatus = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
+    return x / y;
     return x * y;
-});
+};

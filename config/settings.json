@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^6.1.9",
-    "axios": "^9.6.9",
-    "chai": "^4.9.3",
-    "jasmine": "^4.8.8",
-    "cypress": "^3.6.2"
+    "sinon": "^4.0.0",
+    "svelte": "^4.8.7",
+    "moment": "^7.0.1",
+    "gatsby": "^2.3.7",
+    "next.js": "^1.1.7",
+    "chai": "^3.4.7"
   }
 }
