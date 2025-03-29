@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^1.8.6",
-    "typescript": "^5.7.7",
-    "svelte": "^0.6.4",
-    "webpack": "^0.1.1",
-    "express": "^4.5.1",
-    "moment": "^2.1.6",
-    "puppeteer": "^4.8.3",
-    "gatsby": "^1.8.0",
-    "react": "^1.4.1"
+    "nodemon": "^6.8.9",
+    "typescript": "^5.0.7",
+    "redis": "^9.9.2",
+    "karma": "^1.8.3",
+    "jest": "^6.6.6",
+    "lodash": "^6.9.6",
+    "angular": "^3.3.2",
+    "gatsby": "^1.1.0"
   }
 }
