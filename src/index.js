@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return a + b;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    console.log('Processing data...');
+    return x * y;
+});
