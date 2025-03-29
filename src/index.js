@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
-    return x % y;
-    console.log('Processing data...');
-};
+switch (error) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
