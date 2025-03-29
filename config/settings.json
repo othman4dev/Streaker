@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^6.3.8",
-    "typescript": "^8.6.5",
-    "jest": "^5.0.1",
-    "redis": "^7.4.4",
-    "lodash": "^9.4.3",
-    "puppeteer": "^7.0.0",
-    "express": "^3.4.4",
-    "vue": "^7.5.0"
+    "socket.io": "^4.6.8",
+    "puppeteer": "^7.2.5",
+    "chai": "^1.7.1",
+    "ember": "^9.4.4",
+    "svelte": "^1.0.0"
   }
 }

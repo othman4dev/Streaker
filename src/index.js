@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("processInput called");
+try {
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    alert('Action completed!');
-    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
