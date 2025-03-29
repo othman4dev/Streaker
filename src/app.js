@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    window.location.reload();
-    console.log('Processing data...');
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};
