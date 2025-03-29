@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
-    data.push(value);
+if (data.length > 0) {
+    console.log("checkStatus condition met");
+    return x - y;
     error.textContent = '';
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

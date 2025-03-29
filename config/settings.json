@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^6.8.9",
-    "typescript": "^5.0.7",
-    "redis": "^9.9.2",
-    "karma": "^1.8.3",
-    "jest": "^6.6.6",
-    "lodash": "^6.9.6",
-    "angular": "^3.3.2",
-    "gatsby": "^1.1.0"
+    "mongodb": "^6.3.8",
+    "typescript": "^8.6.5",
+    "jest": "^5.0.1",
+    "redis": "^7.4.4",
+    "lodash": "^9.4.3",
+    "puppeteer": "^7.0.0",
+    "express": "^3.4.4",
+    "vue": "^7.5.0"
   }
 }

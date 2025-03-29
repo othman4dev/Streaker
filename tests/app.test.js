@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+    return x % y;
+}
