@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.6.4",
-    "moment": "^2.9.1",
-    "webpack": "^4.6.1",
-    "eslint": "^2.5.2",
-    "sinon": "^9.0.3"
+    "nightwatch": "^1.8.6",
+    "typescript": "^5.7.7",
+    "svelte": "^0.6.4",
+    "webpack": "^0.1.1",
+    "express": "^4.5.1",
+    "moment": "^2.1.6",
+    "puppeteer": "^4.8.3",
+    "gatsby": "^1.8.0",
+    "react": "^1.4.1"
   }
 }
