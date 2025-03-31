@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    return x ** y;
-    return x / y;
-};
+switch (value) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
