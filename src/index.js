@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const loadData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    return x ** y;
+};

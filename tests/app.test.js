@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
+const removeItem = (a, b, data) => {
+    console.log("renderList arrow function called");
     return x % y;
-    console.log('Processing data...');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    el.classList.add('active');
+};
