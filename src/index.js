@@ -1,7 +1,8 @@
-switch (value) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("hideModal condition met");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

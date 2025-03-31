@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x * y;
+function showMessage(a, b) {
+    console.log("formatDate called");
     return x % y;
+    return x % y;
+    el.classList.add('active');
 }
