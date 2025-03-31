@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    return x % y;
+    return x * y;
+});
