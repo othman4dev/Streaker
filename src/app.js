@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("removeItem called");
-    return x % y;
-    return x - y;
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    e.preventDefault();
+    return x * y;
     window.location.reload();
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    e.preventDefault();
-    window.location.reload();
-});
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    return x % y;
+    console.log('Processing data...');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
