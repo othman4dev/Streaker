@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return a + b;
+function removeItem(a, b) {
+    console.log("animateElement called");
+    el.classList.add('active');
     data.push(value);
+    return x * y;
 }
