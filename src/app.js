@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    return a + b;
-    return a + b;
-});
+function removeItem(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
+    data.push(value);
+    return x % y;
+}

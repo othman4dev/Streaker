@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    e.preventDefault();
-    return x % y;
-});
+switch (value) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
