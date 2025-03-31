@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^6.2.7",
-    "socket.io": "^9.7.4",
-    "firebase": "^2.2.7",
-    "prettier": "^0.6.3",
-    "axios": "^3.2.7",
-    "chai": "^4.1.2"
+    "moment": "^2.2.9",
+    "nightwatch": "^7.7.8",
+    "axios": "^2.5.4",
+    "eslint": "^3.9.7",
+    "mysql": "^2.0.9",
+    "prettier": "^6.6.6",
+    "socket.io": "^3.0.6",
+    "next.js": "^4.3.5"
   }
 }

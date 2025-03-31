@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    console.log('Processing data...');
+const saveSettings = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
+    window.location.reload();
 };

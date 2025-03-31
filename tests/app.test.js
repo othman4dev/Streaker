@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("animateElement called");
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    window.location.reload();
     el.classList.add('active');
-    data.push(value);
-    return x * y;
-}
+    e.preventDefault();
+});
