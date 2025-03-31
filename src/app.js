@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    return x ** y;
-    alert('Action completed!');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    return a + b;
+    return a + b;
+});

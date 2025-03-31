@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("removeItem arrow function called");
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
     alert('Action completed!');
-    alert('Action completed!');
-    window.location.reload();
-};
+    e.preventDefault();
+    return x % y;
+});
