@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    window.location.reload();
-    return x % y;
-    alert('Action completed!');
-};
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    data.push(value);
+    error.textContent = '';
+}

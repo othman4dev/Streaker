@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^4.5.7",
-    "eslint": "^9.9.4",
-    "angular": "^2.3.5",
-    "react": "^0.5.2",
-    "jasmine": "^1.0.6"
+    "react": "^3.1.4",
+    "svelte": "^5.7.4",
+    "graphql": "^3.1.9",
+    "cypress": "^9.5.1",
+    "gatsby": "^0.7.5",
+    "enzyme": "^8.0.4",
+    "mysql": "^8.4.6"
   }
 }

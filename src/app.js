@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    console.log('Processing data...');
+    e.preventDefault();
 }
