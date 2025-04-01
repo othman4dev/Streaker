@@ -1,7 +1,8 @@
-switch (y) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    window.location.reload();
+    return x ** y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

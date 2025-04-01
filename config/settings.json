@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^7.7.1",
-    "enzyme": "^0.5.0",
-    "moment": "^3.9.7",
-    "prettier": "^1.9.1",
-    "puppeteer": "^9.8.5"
+    "babel": "^8.9.8",
+    "cypress": "^5.0.4",
+    "chai": "^0.8.1",
+    "moment": "^4.5.9",
+    "ember": "^6.1.2",
+    "graphql": "^3.8.8",
+    "puppeteer": "^0.8.3"
   }
 }
