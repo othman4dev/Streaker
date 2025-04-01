@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    return x % y;
+if (x !== y) {
+    console.log("setSessionStorage condition met");
     e.preventDefault();
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
