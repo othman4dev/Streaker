@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    data.push(value);
-    return a + b;
-    window.location.reload();
-};
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    return x - y;
+    return x % y;
+    return x - y;
+});

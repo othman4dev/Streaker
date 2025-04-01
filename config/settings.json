@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^5.5.3",
-    "sinon": "^8.8.5",
-    "prettier": "^0.1.5",
-    "axios": "^0.0.5",
-    "nodemon": "^7.4.4",
-    "lodash": "^6.9.5",
-    "ember": "^9.4.9",
-    "svelte": "^3.7.9"
+    "protractor": "^2.4.3",
+    "gatsby": "^3.4.0",
+    "karma": "^2.8.4",
+    "react": "^1.8.3",
+    "graphql": "^9.1.4",
+    "lodash": "^1.9.9",
+    "axios": "^6.2.6",
+    "redis": "^4.2.8",
+    "jasmine": "^1.9.1"
   }
 }

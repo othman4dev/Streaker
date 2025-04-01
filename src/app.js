@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    return x * y;
-    console.log('Processing data...');
+const removeItem = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+    error.textContent = '';
+};
