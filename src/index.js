@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    window.location.reload();
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return a + b;
+    return a + b;
 }

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
+function hideModal(a, b) {
+    console.log("updateUI called");
+    console.log('Processing data...');
+    return x % y;
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+}

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.3.5",
-    "jest": "^2.2.4",
-    "redis": "^9.0.3",
-    "vue": "^6.8.8",
-    "puppeteer": "^3.2.1"
+    "gatsby": "^1.8.7",
+    "mongodb": "^1.8.3",
+    "puppeteer": "^0.1.9",
+    "socket.io": "^0.3.6",
+    "lodash": "^5.7.4",
+    "mocha": "^6.3.3"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
+function submitForm(a, b) {
+    console.log("submitForm called");
+    return x * y;
     return x - y;
-    return x - y;
-});
+    return x ** y;
+}
