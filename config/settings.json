@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^2.4.3",
-    "gatsby": "^3.4.0",
-    "karma": "^2.8.4",
-    "react": "^1.8.3",
-    "graphql": "^9.1.4",
-    "lodash": "^1.9.9",
-    "axios": "^6.2.6",
-    "redis": "^4.2.8",
-    "jasmine": "^1.9.1"
+    "lodash": "^5.2.1",
+    "typescript": "^2.9.0",
+    "webpack": "^3.5.2",
+    "sinon": "^7.6.9",
+    "socket.io": "^5.3.4",
+    "nightwatch": "^8.9.2",
+    "redis": "^9.7.7"
   }
 }

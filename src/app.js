@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
-    return x % y;
+function updateUI(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
     error.textContent = '';
-};
+    data.push(value);
+}
