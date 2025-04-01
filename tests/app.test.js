@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    window.location.reload();
-    return x ** y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    return x / y;
+};

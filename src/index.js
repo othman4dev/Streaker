@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    data.push(value);
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
