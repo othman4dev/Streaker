@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    console.log('Processing data...');
-    e.preventDefault();
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    return x - y;
+    return x - y;
+});
