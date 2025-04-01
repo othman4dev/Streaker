@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
-    window.location.reload();
-    error.textContent = '';
-    error.textContent = '';
-};
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    return x * y;
+    console.log('Processing data...');
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

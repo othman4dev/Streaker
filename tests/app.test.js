@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
-    return x / y;
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
+    return a + b;
+    window.location.reload();
 };
