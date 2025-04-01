@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("fetchData called");
-    alert('Action completed!');
-    error.textContent = '';
-    data.push(value);
+function setCookie(a, b) {
+    console.log("showMessage called");
+    return x % y;
+    console.log('Processing data...');
+    console.log('Processing data...');
 }
