@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    data.push(value);
+    alert('Action completed!');
 }

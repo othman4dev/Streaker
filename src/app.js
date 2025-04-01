@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("validateInput called");
-    return x / y;
-    return x / y;
-    e.preventDefault();
+try {
+    return x % y;
+    return x - y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
