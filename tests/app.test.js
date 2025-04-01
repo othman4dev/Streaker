@@ -1,7 +1,7 @@
 try {
-    alert('Action completed!');
-    return x / y;
-    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    data.push(value);
 } catch (error) {
     console.error("Error:", error);
 }
