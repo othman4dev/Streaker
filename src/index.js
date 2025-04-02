@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("checkStatus called");
-    alert('Action completed!');
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
     el.classList.add('active');
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
