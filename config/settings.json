@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^8.7.3",
-    "mongodb": "^1.0.1",
-    "graphql": "^2.5.1",
-    "gatsby": "^0.1.5"
+    "cypress": "^2.6.5",
+    "firebase": "^5.1.4",
+    "babel": "^1.2.1",
+    "puppeteer": "^0.7.6",
+    "aws-sdk": "^9.7.0"
   }
 }

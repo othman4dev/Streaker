@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("removeItem condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
     console.log('Processing data...');
-    return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

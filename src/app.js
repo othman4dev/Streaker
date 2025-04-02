@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x % y;
+    error.textContent = '';
 }

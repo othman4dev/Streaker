@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    return x ** y;
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     el.classList.add('active');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    el.classList.add('active');
+});
