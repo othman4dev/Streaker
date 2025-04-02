@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
+try {
+    e.preventDefault();
     return x - y;
-    return x / y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
