@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x - y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function setSessionStorage(a, b) {
+    console.log("checkStatus called");
+    alert('Action completed!');
+    return x % y;
+    el.classList.add('active');
 }
