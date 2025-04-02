@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^7.9.6",
-    "mocha": "^1.8.6",
-    "moment": "^8.2.3",
-    "eslint": "^7.8.8",
-    "chai": "^5.9.7"
+    "sinon": "^1.4.3",
+    "firebase": "^8.9.4",
+    "redis": "^2.4.9",
+    "express": "^3.4.2",
+    "react": "^0.4.2",
+    "protractor": "^8.3.9",
+    "aws-sdk": "^3.3.5",
+    "next.js": "^7.8.1"
   }
 }

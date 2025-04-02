@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("toggleMenu called");
-    data.push(value);
-    data.push(value);
-    alert('Action completed!');
+function handleClick(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    return x - y;
+    return x / y;
 }

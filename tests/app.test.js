@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    alert('Action completed!');
+    return x * y;
+    return x * y;
+};
