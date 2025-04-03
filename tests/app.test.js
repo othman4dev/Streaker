@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
-    return x - y;
-    error.textContent = '';
-});
+const formatDate = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};
