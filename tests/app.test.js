@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
-    data.push(value);
-    return x / y;
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    return a + b;
+    return x * y;
+    e.preventDefault();
 }

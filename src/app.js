@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    return x - y;
-    return x / y;
-});
+switch (b) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

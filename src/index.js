@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("setSessionStorage called");
-    return x - y;
+function createChart(a, b) {
+    console.log("processInput called");
     return x * y;
-    console.log('Processing data...');
+    e.preventDefault();
+    window.location.reload();
 }
