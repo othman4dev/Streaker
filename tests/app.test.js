@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("loadData called");
+if (value !== '') {
+    console.log("renderList condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    error.textContent = '';
-    e.preventDefault();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

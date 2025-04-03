@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "angular": "^9.9.9",
-    "jest": "^8.0.0",
-    "next.js": "^9.3.3",
-    "moment": "^2.4.8",
-    "jasmine": "^7.8.2"
+    "jest": "^9.2.7",
+    "ember": "^5.1.4",
+    "webpack": "^5.5.4",
+    "typescript": "^3.9.8",
+    "graphql": "^4.6.4"
   }
 }
