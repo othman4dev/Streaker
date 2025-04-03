@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    el.classList.add('active');
-});
+switch (error) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
