@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x - y;
-    return x - y;
-});
+try {
+    return x / y;
+    data.push(value);
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

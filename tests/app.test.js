@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    el.classList.add('active');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
+    window.location.reload();
+    window.location.reload();
 }
