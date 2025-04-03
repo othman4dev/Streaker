@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    el.classList.add('active');
-    window.location.reload();
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
+    data.push(value);
+    return x * y;
+});

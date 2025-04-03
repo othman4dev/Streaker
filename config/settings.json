@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.8.6",
-    "socket.io": "^8.5.3",
-    "firebase": "^6.7.5",
-    "redis": "^1.7.5",
-    "angular": "^6.7.9",
-    "puppeteer": "^1.9.4"
+    "angular": "^9.9.1",
+    "nightwatch": "^2.9.0",
+    "eslint": "^4.6.9",
+    "sinon": "^6.4.8",
+    "vue": "^5.3.3",
+    "jasmine": "^3.9.3"
   }
 }
