@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    return x % y;
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-});
+}
