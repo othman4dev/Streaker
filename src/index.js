@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    return x - y;
-    data.push(value);
-});
+const updateUI = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x / y;
+};

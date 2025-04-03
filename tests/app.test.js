@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x % y;
-    e.preventDefault();
+function submitForm(a, b) {
+    console.log("toggleMenu called");
+    return a + b;
+    el.classList.add('active');
+    window.location.reload();
 }
