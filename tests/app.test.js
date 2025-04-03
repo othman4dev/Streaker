@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("processInput called");
+function setCookie(a, b) {
+    console.log("loadData called");
+    return a + b;
     error.textContent = '';
-    error.textContent = '';
-    window.location.reload();
+    e.preventDefault();
 }
