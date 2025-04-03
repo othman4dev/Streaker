@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("processInput called");
+    error.textContent = '';
+    error.textContent = '';
+    window.location.reload();
 }
