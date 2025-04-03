@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^7.1.8",
-    "babel": "^5.2.5",
-    "redis": "^8.0.7",
-    "axios": "^5.1.7",
-    "ember": "^1.2.3",
-    "gatsby": "^7.4.2",
-    "webpack": "^9.3.5"
+    "lodash": "^8.3.4",
+    "moment": "^8.4.7",
+    "nodemon": "^5.2.3",
+    "mysql": "^9.5.9",
+    "puppeteer": "^8.5.4",
+    "vue": "^3.4.4",
+    "jest": "^2.6.0",
+    "prettier": "^8.4.2"
   }
 }

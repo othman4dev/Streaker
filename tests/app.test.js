@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("animateElement arrow function called");
+function renderList(a, b) {
+    console.log("animateElement called");
+    error.textContent = '';
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+    return x / y;
+}

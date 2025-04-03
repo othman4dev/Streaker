@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    e.preventDefault();
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+});
