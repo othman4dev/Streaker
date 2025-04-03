@@ -1,11 +1,7 @@
 {
   "dependencies": {
-    "ember": "^2.5.4",
-    "react": "^6.2.4",
-    "cypress": "^8.8.2",
-    "jest": "^7.0.0",
-    "mocha": "^0.4.2",
-    "puppeteer": "^1.7.7",
-    "mongodb": "^0.5.3"
+    "protractor": "^4.0.9",
+    "sinon": "^8.7.8",
+    "typescript": "^8.1.5"
   }
 }

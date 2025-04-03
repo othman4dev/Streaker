@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    alert('Action completed!');
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x % y;
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});

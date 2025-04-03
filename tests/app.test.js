@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("getLocalStorage called");
-    data.push(value);
-    window.location.reload();
-    window.location.reload();
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});

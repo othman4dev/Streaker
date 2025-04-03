@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    data.push(value);
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("setCookie called");
+    return x * y;
+    return x % y;
+    alert('Action completed!');
 }
