@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    error.textContent = '';
-    return x * y;
-    window.location.reload();
-};
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x % y;
+    data.push(value);
+}
