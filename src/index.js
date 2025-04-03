@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("processInput called");
-    return x * y;
-    e.preventDefault();
-    window.location.reload();
+if (value !== '') {
+    console.log("createChart condition met");
+    return x ** y;
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
