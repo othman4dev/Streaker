@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x / y;
+const renderList = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
+    return x * y;
+    return x * y;
 };
