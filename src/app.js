@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("createChart arrow function called");
-    error.textContent = '';
-    window.location.reload();
+const processInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
     el.classList.add('active');
+    data.push(value);
+    return a + b;
 };

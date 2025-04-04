@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
-    window.location.reload();
-};
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    console.log('Processing data...');
+    return x * y;
+});
