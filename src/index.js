@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x * y;
-});
+const checkStatus = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
+    window.location.reload();
+};

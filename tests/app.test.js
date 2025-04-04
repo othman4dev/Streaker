@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x * y;
-    e.preventDefault();
-    return x - y;
+const toggleMenu = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    window.location.reload();
+    el.classList.add('active');
+    return x % y;
 };
