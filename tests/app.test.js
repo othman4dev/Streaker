@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+const validateInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
+    return x / y;
+    alert('Action completed!');
+};

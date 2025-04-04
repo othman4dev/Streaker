@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-    return x * y;
-    return a + b;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
