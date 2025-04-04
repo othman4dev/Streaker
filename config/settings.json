@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "angular": "^9.9.1",
-    "nightwatch": "^2.9.0",
-    "eslint": "^4.6.9",
-    "sinon": "^6.4.8",
-    "vue": "^5.3.3",
-    "jasmine": "^3.9.3"
+    "cypress": "^6.6.8",
+    "chai": "^2.5.9",
+    "enzyme": "^6.8.0",
+    "lodash": "^5.9.2",
+    "mongodb": "^2.2.3",
+    "graphql": "^7.2.2"
   }
 }

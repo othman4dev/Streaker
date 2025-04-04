@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    data.push(value);
-    return x * y;
-});
+try {
+    e.preventDefault();
+    console.log('Processing data...');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
