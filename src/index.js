@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x % y;
-});
+const hideModal = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
+    e.preventDefault();
+    return x / y;
+};

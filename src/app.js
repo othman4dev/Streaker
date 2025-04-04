@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    e.preventDefault();
-    return a + b;
-}
+const setCookie = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x / y;
+    return x / y;
+    return x ** y;
+};
