@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
-    window.location.reload();
-    e.preventDefault();
+switch (data) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
