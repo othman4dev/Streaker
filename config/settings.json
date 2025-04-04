@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^6.5.8",
-    "lodash": "^8.3.1",
-    "protractor": "^3.2.9",
-    "mysql": "^9.0.5",
-    "graphql": "^6.9.4"
+    "sinon": "^0.5.0",
+    "express": "^9.5.7",
+    "next.js": "^3.5.2",
+    "nodemon": "^0.8.7",
+    "enzyme": "^2.8.8",
+    "puppeteer": "^6.1.8",
+    "axios": "^0.3.8"
   }
 }

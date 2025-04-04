@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    return x * y;
+    return a + b;
+};

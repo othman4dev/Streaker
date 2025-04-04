@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("setSessionStorage called");
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
     window.location.reload();
-    error.textContent = '';
-    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }
