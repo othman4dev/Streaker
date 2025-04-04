@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
+try {
+    window.location.reload();
     return x % y;
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
