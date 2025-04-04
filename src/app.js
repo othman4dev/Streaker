@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    return x % y;
+if (value !== '') {
+    console.log("loadData condition met");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

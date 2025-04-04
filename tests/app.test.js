@@ -1,7 +1,7 @@
 try {
-    return x % y;
-    return x ** y;
-    return x ** y;
+    e.preventDefault();
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 } catch (error) {
     console.error("Error:", error);
 }
