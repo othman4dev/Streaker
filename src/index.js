@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return a + b;
-    console.log('Processing data...');
-    return x * y;
-});
+try {
+    e.preventDefault();
+    el.classList.add('active');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

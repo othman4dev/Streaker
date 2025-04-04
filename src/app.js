@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    el.classList.add('active');
-    data.push(value);
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    return x - y;
     return a + b;
-};
+});
