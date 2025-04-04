@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return a + b;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
+    return x * y;
+    return x / y;
 }
