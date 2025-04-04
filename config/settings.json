@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^8.9.4",
-    "eslint": "^6.8.4",
-    "karma": "^3.4.4",
-    "svelte": "^0.9.4",
-    "gatsby": "^4.2.7",
-    "prettier": "^8.1.0",
-    "jest": "^7.2.2",
-    "enzyme": "^0.1.8"
+    "eslint": "^8.7.8",
+    "jest": "^2.2.5",
+    "firebase": "^1.2.6",
+    "mocha": "^6.2.0",
+    "socket.io": "^5.7.1"
   }
 }

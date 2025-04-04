@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    return x - y;
+function displayError(a, b) {
+    console.log("fetchData called");
     return a + b;
-});
+    e.preventDefault();
+    return a + b;
+}
