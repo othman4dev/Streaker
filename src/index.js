@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    data.push(value);
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+});

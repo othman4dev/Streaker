@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
-    return x / y;
-    alert('Action completed!');
-};
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    return x - y;
+    console.log('Processing data...');
+});
