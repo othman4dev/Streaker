@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    data.push(value);
-    el.classList.add('active');
-});
+try {
+    return a + b;
+    return x / y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
