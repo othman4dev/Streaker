@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x * y;
+if (a > b) {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
     e.preventDefault();
-    return x / y;
-};
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^9.4.8",
-    "webpack": "^3.8.2",
-    "eslint": "^4.7.3",
-    "jest": "^3.4.9",
-    "firebase": "^9.7.9"
+    "gatsby": "^6.5.8",
+    "lodash": "^8.3.1",
+    "protractor": "^3.2.9",
+    "mysql": "^9.0.5",
+    "graphql": "^6.9.4"
   }
 }

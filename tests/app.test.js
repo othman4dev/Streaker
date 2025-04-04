@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    return x % y;
-    return x / y;
+function handleClick(a, b) {
+    console.log("setSessionStorage called");
+    window.location.reload();
+    error.textContent = '';
     e.preventDefault();
-});
+}
