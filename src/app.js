@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("removeItem called");
-    return x % y;
-    return x - y;
-    el.classList.add('active');
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^3.9.0",
-    "jasmine": "^7.3.3",
-    "chai": "^0.4.7",
-    "angular": "^7.9.0"
+    "sinon": "^6.6.6",
+    "webpack": "^3.9.8",
+    "jest": "^6.6.4",
+    "gatsby": "^5.9.4",
+    "moment": "^0.1.9"
   }
 }
