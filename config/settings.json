@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^3.7.2",
-    "aws-sdk": "^6.0.0",
-    "vue": "^9.7.9",
-    "next.js": "^6.7.5",
-    "jest": "^7.5.5"
+    "lodash": "^9.6.9",
+    "svelte": "^3.0.6",
+    "graphql": "^6.4.2",
+    "aws-sdk": "^3.9.9",
+    "enzyme": "^8.3.6",
+    "redis": "^3.0.6",
+    "chai": "^9.4.2",
+    "sinon": "^4.5.4"
   }
 }
