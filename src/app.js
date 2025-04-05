@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    return x - y;
-    return x / y;
+const setSessionStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x % y;
+    window.location.reload();
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+};

@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event focus triggered");
     return x ** y;
     alert('Action completed!');
-    data.push(value);
-}
+    return a + b;
+});
