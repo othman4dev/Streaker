@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^4.6.0",
-    "redis": "^3.8.4",
-    "typescript": "^5.6.3",
-    "gatsby": "^0.3.5",
-    "lodash": "^2.7.4",
-    "chai": "^6.2.8",
-    "babel": "^5.1.1",
-    "mongodb": "^0.1.6"
+    "mocha": "^4.5.1",
+    "puppeteer": "^2.5.9",
+    "eslint": "^2.2.3",
+    "graphql": "^9.2.3",
+    "lodash": "^6.9.3",
+    "nightwatch": "^2.7.4"
   }
 }

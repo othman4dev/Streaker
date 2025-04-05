@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    window.location.reload();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+const processInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    data.push(value);
 };
