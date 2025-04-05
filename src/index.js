@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    alert('Action completed!');
-    return a + b;
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+};

@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("removeItem called");
+    return x / y;
+    window.location.reload();
+    alert('Action completed!');
 }
