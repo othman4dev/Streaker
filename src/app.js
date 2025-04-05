@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
+if (x !== y) {
+    console.log("submitForm condition met");
+    return x ** y;
+    console.log('Processing data...');
     return x % y;
-    window.location.reload();
-    error.textContent = '';
-};
+} else {
+    console.log("Condition not met");
+}
