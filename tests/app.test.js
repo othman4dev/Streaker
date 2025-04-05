@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x ** y;
-    console.log('Processing data...');
-}
+const toggleMenu = (a, b, data) => {
+    console.log("processInput arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+};

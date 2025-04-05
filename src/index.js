@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    return x ** y;
+    data.push(value);
     return x % y;
+} else {
+    console.log("Condition not met");
 }

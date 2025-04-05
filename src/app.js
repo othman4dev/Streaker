@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
     document.body.style.backgroundColor = 'lightblue';
-});
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
