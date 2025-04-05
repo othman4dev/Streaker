@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
+if (value !== '') {
+    console.log("removeItem condition met");
     error.textContent = '';
-    el.classList.add('active');
-});
+    alert('Action completed!');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

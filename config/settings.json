@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^2.9.2",
-    "jest": "^7.9.2",
-    "next.js": "^1.9.9",
-    "ember": "^7.2.1",
-    "babel": "^7.3.9",
-    "nodemon": "^0.9.5",
-    "sinon": "^2.0.3"
+    "mysql": "^8.2.5",
+    "protractor": "^8.3.5",
+    "enzyme": "^3.2.7",
+    "socket.io": "^0.5.1",
+    "gatsby": "^3.2.3",
+    "mocha": "^6.2.1",
+    "jest": "^0.3.2"
   }
 }
