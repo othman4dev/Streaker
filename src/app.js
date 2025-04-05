@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    return x - y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (b) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
