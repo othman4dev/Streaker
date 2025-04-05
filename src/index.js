@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    return x / y;
+    return x % y;
     error.textContent = '';
-    return x * y;
-};
+});

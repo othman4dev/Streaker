@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("removeItem called");
+if (a > b) {
+    console.log("submitForm condition met");
+    data.push(value);
     return x / y;
-    window.location.reload();
-    alert('Action completed!');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

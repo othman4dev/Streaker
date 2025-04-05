@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^1.7.9",
-    "aws-sdk": "^6.1.5",
-    "svelte": "^2.9.6",
-    "sinon": "^8.3.2",
-    "mysql": "^2.6.7"
+    "typescript": "^3.9.0",
+    "jasmine": "^7.3.3",
+    "chai": "^0.4.7",
+    "angular": "^7.9.0"
   }
 }

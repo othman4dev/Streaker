@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    console.log('Processing data...');
+function submitForm(a, b) {
+    console.log("removeItem called");
     return x % y;
-    return x / y;
-};
+    return x - y;
+    el.classList.add('active');
+}
