@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jest": "^5.8.4",
-    "vue": "^7.8.0",
-    "socket.io": "^8.1.2",
-    "aws-sdk": "^5.8.7",
-    "graphql": "^0.3.7",
-    "svelte": "^4.1.0",
-    "redis": "^3.9.4",
-    "jasmine": "^5.2.7"
+    "axios": "^0.4.9",
+    "prettier": "^5.4.2",
+    "vue": "^7.4.8",
+    "moment": "^3.5.5",
+    "jest": "^7.8.8"
   }
 }

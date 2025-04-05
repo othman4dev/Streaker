@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("displayError called");
-    return x - y;
-    return x % y;
-    data.push(value);
+try {
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

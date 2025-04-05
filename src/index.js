@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
-    e.preventDefault();
-    el.classList.add('active');
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    alert('Action completed!');
+    return a + b;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
