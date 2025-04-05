@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^4.5.1",
-    "puppeteer": "^2.5.9",
-    "eslint": "^2.2.3",
-    "graphql": "^9.2.3",
-    "lodash": "^6.9.3",
-    "nightwatch": "^2.7.4"
+    "jest": "^5.8.4",
+    "vue": "^7.8.0",
+    "socket.io": "^8.1.2",
+    "aws-sdk": "^5.8.7",
+    "graphql": "^0.3.7",
+    "svelte": "^4.1.0",
+    "redis": "^3.9.4",
+    "jasmine": "^5.2.7"
   }
 }

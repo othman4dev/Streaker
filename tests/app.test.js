@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    return a + b;
+const getLocalStorage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
 };

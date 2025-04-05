@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("showMessage called");
+    window.location.reload();
+    e.preventDefault();
+    el.classList.add('active');
 }
