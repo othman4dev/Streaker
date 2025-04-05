@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});

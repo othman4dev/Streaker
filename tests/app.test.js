@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    return x ** y;
-    error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
