@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    console.log('Processing data...');
-    return x / y;
+try {
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x * y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

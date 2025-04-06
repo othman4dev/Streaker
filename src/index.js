@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    return x % y;
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    error.textContent = '';
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});
