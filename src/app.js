@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
+if (a > b) {
+    console.log("fetchData condition met");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-    console.log('Processing data...');
-    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

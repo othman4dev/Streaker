@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
     el.classList.add('active');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
