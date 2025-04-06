@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^7.8.6",
-    "enzyme": "^0.0.7",
-    "chai": "^3.7.2",
-    "axios": "^6.5.3",
-    "express": "^6.9.7",
-    "nightwatch": "^2.0.5",
-    "prettier": "^3.3.3"
+    "lodash": "^7.5.4",
+    "webpack": "^4.9.2",
+    "eslint": "^0.4.6",
+    "gatsby": "^8.6.3",
+    "express": "^3.1.9"
   }
 }
