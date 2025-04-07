@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "vue": "^8.9.1",
-    "jasmine": "^2.0.0",
-    "firebase": "^7.5.7",
-    "prettier": "^6.7.6"
+    "graphql": "^8.4.4",
+    "enzyme": "^1.4.5",
+    "angular": "^2.4.7",
+    "nodemon": "^0.5.1",
+    "mysql": "^2.9.7",
+    "karma": "^4.4.7",
+    "jest": "^8.1.8",
+    "svelte": "^5.4.7",
+    "aws-sdk": "^9.1.5"
   }
 }
