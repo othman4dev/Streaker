@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "redis": "^7.5.7",
-    "nightwatch": "^4.8.0",
-    "eslint": "^3.5.3",
-    "jasmine": "^5.9.4",
-    "svelte": "^2.5.2"
+    "react": "^8.1.5",
+    "nodemon": "^8.1.9",
+    "mocha": "^1.8.1",
+    "moment": "^1.6.9",
+    "redis": "^5.3.5",
+    "angular": "^8.8.3",
+    "prettier": "^5.9.3",
+    "svelte": "^6.7.0"
   }
 }

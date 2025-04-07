@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("updateUI condition met");
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event click triggered");
     console.log('Processing data...');
-    alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});
