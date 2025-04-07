@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^0.2.7",
-    "typescript": "^0.1.7",
-    "prettier": "^4.6.7",
-    "jasmine": "^6.4.9",
-    "jest": "^9.9.8"
+    "mocha": "^6.6.1",
+    "typescript": "^6.4.6",
+    "svelte": "^7.7.5",
+    "nodemon": "^5.1.7",
+    "axios": "^7.3.8",
+    "express": "^2.8.3"
   }
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    error.textContent = '';
-    el.classList.add('active');
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    return x / y;
+    return x - y;
+});
