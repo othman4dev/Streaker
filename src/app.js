@@ -1,7 +1,8 @@
-try {
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    error.textContent = '';
+    return x - y;
     data.push(value);
-    return x / y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

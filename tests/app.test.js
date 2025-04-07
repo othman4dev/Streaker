@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+const hideModal = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x % y;
+    return x / y;
+    return a + b;
+};
