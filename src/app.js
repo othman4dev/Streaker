@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("animateElement called");
-    return x - y;
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-}
+    el.classList.add('active');
+});

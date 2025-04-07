@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x * y;
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event click triggered");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    return x % y;
+});

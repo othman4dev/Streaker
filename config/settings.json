@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.3.2",
-    "ember": "^6.0.8",
-    "next.js": "^1.8.8",
-    "cypress": "^7.2.0",
-    "redis": "^7.7.0",
-    "mongodb": "^6.7.8"
+    "redis": "^7.5.7",
+    "nightwatch": "^4.8.0",
+    "eslint": "^3.5.3",
+    "jasmine": "^5.9.4",
+    "svelte": "^2.5.2"
   }
 }

@@ -1,7 +1,8 @@
-switch (data) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("updateUI condition met");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
