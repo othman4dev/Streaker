@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    return x % y;
-    return x / y;
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
+    error.textContent = '';
+    el.classList.add('active');
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

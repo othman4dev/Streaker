@@ -1,7 +1,8 @@
-switch (e) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

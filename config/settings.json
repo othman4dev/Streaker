@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^8.4.4",
-    "enzyme": "^1.4.5",
-    "angular": "^2.4.7",
-    "nodemon": "^0.5.1",
-    "mysql": "^2.9.7",
-    "karma": "^4.4.7",
-    "jest": "^8.1.8",
-    "svelte": "^5.4.7",
-    "aws-sdk": "^9.1.5"
+    "mongodb": "^0.2.7",
+    "typescript": "^0.1.7",
+    "prettier": "^4.6.7",
+    "jasmine": "^6.4.9",
+    "jest": "^9.9.8"
   }
 }
