@@ -1,7 +1,8 @@
-switch (y) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("checkStatus condition met");
+    error.textContent = '';
+    return a + b;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
