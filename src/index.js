@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("loadData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return a + b;
-    return x % y;
+    e.preventDefault();
+    return x ** y;
 };

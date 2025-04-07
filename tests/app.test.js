@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x % y;
-    return x / y;
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    console.log('Processing data...');
     return a + b;
 };
