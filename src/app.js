@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event input triggered");
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    return a + b;
     return x / y;
-    return x - y;
-});
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

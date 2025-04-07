@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
-    window.location.reload();
-    return x % y;
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    error.textContent = '';
 });
