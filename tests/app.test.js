@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x * y;
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    return x / y;
 }

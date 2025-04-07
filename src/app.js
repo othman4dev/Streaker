@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    return x % y;
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
