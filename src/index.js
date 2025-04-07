@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+try {
+    return a + b;
+    return x * y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
