@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    window.location.reload();
+    error.textContent = '';
+});

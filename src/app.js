@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    return x / y;
-    window.location.reload();
-});
+function handleClick(a, b) {
+    console.log("displayError called");
+    console.log('Processing data...');
+    return x % y;
+    return x - y;
+}
