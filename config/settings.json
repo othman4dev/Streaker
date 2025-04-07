@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^3.1.8",
-    "chai": "^9.8.3",
-    "moment": "^7.6.7",
-    "babel": "^6.2.7",
-    "nightwatch": "^5.5.8",
-    "gatsby": "^9.8.9",
-    "firebase": "^4.7.1",
-    "webpack": "^9.8.8"
+    "vue": "^6.8.6",
+    "react": "^4.8.4",
+    "jasmine": "^6.0.0",
+    "socket.io": "^7.6.0",
+    "cypress": "^6.0.4",
+    "moment": "^0.8.3",
+    "ember": "^6.2.2"
   }
 }

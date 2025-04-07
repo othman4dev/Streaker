@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("handleClick called");
-    return x ** y;
-    alert('Action completed!');
-    return x - y;
+switch (el) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

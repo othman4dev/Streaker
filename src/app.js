@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    return a + b;
-    return x / y;
+function processInput(a, b) {
+    console.log("setCookie called");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    return a + b;
 }
