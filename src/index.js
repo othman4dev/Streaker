@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return a + b;
-    e.preventDefault();
-    return x ** y;
-};
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    return x - y;
+    error.textContent = '';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^0.7.7",
-    "next.js": "^4.7.0",
-    "socket.io": "^7.3.7",
-    "lodash": "^5.6.5",
-    "mocha": "^5.5.4",
-    "express": "^2.2.7"
+    "chai": "^4.9.6",
+    "jasmine": "^6.4.3",
+    "mocha": "^5.8.7",
+    "mysql": "^1.4.3",
+    "prettier": "^2.0.4",
+    "eslint": "^4.7.3",
+    "nightwatch": "^2.6.3",
+    "protractor": "^6.2.4",
+    "angular": "^2.4.3"
   }
 }
