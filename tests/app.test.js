@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x % y;
+if (x === y) {
+    console.log("processInput condition met");
+    data.push(value);
+    e.preventDefault();
     error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
