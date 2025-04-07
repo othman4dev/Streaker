@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    return a + b;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    return x % y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

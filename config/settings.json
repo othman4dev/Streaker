@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^3.6.1",
-    "nodemon": "^1.1.2",
-    "gatsby": "^1.2.3",
-    "mongodb": "^7.4.8",
-    "lodash": "^9.7.5",
-    "typescript": "^7.1.0",
-    "aws-sdk": "^3.6.3"
+    "vue": "^8.9.1",
+    "jasmine": "^2.0.0",
+    "firebase": "^7.5.7",
+    "prettier": "^6.7.6"
   }
 }
