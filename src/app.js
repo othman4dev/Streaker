@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    alert('Action completed!');
-    alert('Action completed!');
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
+    return x / y;
+    window.location.reload();
+});

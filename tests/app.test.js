@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("processInput condition met");
-    data.push(value);
-    e.preventDefault();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

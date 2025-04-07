@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "express": "^9.2.5",
-    "aws-sdk": "^8.1.0",
-    "chai": "^8.9.8",
-    "angular": "^2.8.8",
-    "mocha": "^7.6.0",
-    "socket.io": "^0.6.0"
+    "angular": "^3.3.4",
+    "nightwatch": "^4.9.3",
+    "typescript": "^3.7.1",
+    "mocha": "^4.9.3",
+    "jasmine": "^0.9.4"
   }
 }
