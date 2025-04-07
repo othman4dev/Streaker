@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
+function showMessage(a, b) {
+    console.log("toggleMenu called");
     return x % y;
-    return x - y;
+    data.push(value);
+    window.location.reload();
 }

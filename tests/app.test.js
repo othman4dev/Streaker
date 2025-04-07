@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
+function processInput(a, b) {
+    console.log("hideModal called");
+    return x - y;
+    return x ** y;
     return a + b;
-    window.location.reload();
-    error.textContent = '';
-});
+}

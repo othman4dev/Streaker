@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    alert('Action completed!');
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    window.location.reload();
+    return x / y;
+}
