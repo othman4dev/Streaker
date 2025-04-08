@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event input triggered");
-    return a + b;
+function setSessionStorage(a, b) {
+    console.log("toggleMenu called");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+    return x * y;
+}

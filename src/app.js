@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("processInput called");
-    return x ** y;
-    e.preventDefault();
+const renderList = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return a + b;
-}
+    return x / y;
+    return a + b;
+};
