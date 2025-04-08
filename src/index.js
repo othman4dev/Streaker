@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    data.push(value);
-    e.preventDefault();
-    el.classList.add('active');
-};
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x / y;
+    return x ** y;
+    error.textContent = '';
+});

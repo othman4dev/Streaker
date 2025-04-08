@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
+function setCookie(a, b) {
+    console.log("processInput called");
     return x ** y;
+    e.preventDefault();
     return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
 }

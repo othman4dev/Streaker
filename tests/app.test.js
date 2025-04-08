@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    alert('Action completed!');
-    return x % y;
-    window.location.reload();
-};
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event input triggered");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});
