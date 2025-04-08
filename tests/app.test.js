@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    return x * y;
+const getLocalStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    data.push(value);
     error.textContent = '';
+    return x * y;
 };
