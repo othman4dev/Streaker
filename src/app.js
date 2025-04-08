@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    e.preventDefault();
-    return x ** y;
-}
+const toggleMenu = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x * y;
+    error.textContent = '';
+    alert('Action completed!');
+};

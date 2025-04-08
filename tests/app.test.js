@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+};
