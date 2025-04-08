@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    data.push(value);
-    data.push(value);
-});
+function animateElement(a, b) {
+    console.log("handleClick called");
+    return x * y;
+    alert('Action completed!');
+    el.classList.add('active');
+}

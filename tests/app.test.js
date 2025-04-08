@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
+    console.log('Processing data...');
+    console.log('Processing data...');
+});
