@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x - y;
+if (value !== '') {
+    console.log("handleClick condition met");
     return x ** y;
+    return a + b;
     error.textContent = '';
-};
+} else {
+    console.log("Condition not met");
+}

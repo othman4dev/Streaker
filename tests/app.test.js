@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-});
+const checkStatus = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    alert('Action completed!');
+    return x % y;
+    window.location.reload();
+};

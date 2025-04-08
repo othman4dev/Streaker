@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+const removeItem = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    data.push(value);
+    e.preventDefault();
     el.classList.add('active');
-    return a + b;
-}
+};

@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "karma": "^4.3.3",
-    "nodemon": "^4.6.5",
-    "angular": "^9.8.1",
-    "webpack": "^5.8.2",
-    "graphql": "^7.8.9",
-    "jest": "^2.6.8"
+    "redis": "^8.9.1",
+    "mongodb": "^4.9.3",
+    "nodemon": "^4.7.6",
+    "lodash": "^0.8.5",
+    "chai": "^7.4.0",
+    "axios": "^3.1.1"
   }
 }
