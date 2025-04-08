@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^6.0.8",
-    "jest": "^7.7.6",
-    "mocha": "^2.7.7",
-    "ember": "^6.6.2",
-    "svelte": "^1.2.4",
-    "jasmine": "^1.9.5",
-    "sinon": "^2.0.8"
+    "typescript": "^0.8.0",
+    "axios": "^8.6.0",
+    "graphql": "^9.2.1",
+    "moment": "^3.8.6",
+    "mongodb": "^7.5.4",
+    "svelte": "^2.4.3",
+    "angular": "^1.4.3",
+    "babel": "^3.6.4"
   }
 }
