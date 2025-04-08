@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("displayError called");
-    data.push(value);
+function handleClick(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
     return x % y;
-    error.textContent = '';
+    return x / y;
 }

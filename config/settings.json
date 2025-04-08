@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "axios": "^2.7.9",
-    "prettier": "^7.4.0",
-    "firebase": "^7.9.3",
-    "protractor": "^2.0.3",
-    "socket.io": "^9.2.9",
-    "graphql": "^8.1.0"
+    "axios": "^6.5.7",
+    "sinon": "^2.8.7",
+    "firebase": "^3.8.0",
+    "svelte": "^3.5.9",
+    "karma": "^6.9.4",
+    "redis": "^8.9.7"
   }
 }
