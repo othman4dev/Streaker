@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("fetchData called");
-    console.log('Processing data...');
+const submitForm = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return x - y;
-    window.location.reload();
-}
+    return x ** y;
+    error.textContent = '';
+};

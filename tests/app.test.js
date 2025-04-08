@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x / y;
-    window.location.reload();
-    return x * y;
-};
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});
