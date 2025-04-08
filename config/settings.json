@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^0.0.0",
-    "socket.io": "^5.2.7",
-    "babel": "^3.8.4",
-    "axios": "^1.1.4",
-    "lodash": "^2.1.0",
-    "ember": "^4.5.7",
-    "vue": "^8.6.9"
+    "axios": "^2.7.9",
+    "prettier": "^7.4.0",
+    "firebase": "^7.9.3",
+    "protractor": "^2.0.3",
+    "socket.io": "^9.2.9",
+    "graphql": "^8.1.0"
   }
 }

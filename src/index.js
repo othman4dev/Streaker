@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("toggleMenu called");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    console.log('Processing data...');
 }

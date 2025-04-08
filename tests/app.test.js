@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("handleClick called");
-    return x % y;
+function showMessage(a, b) {
+    console.log("displayError called");
     data.push(value);
-    alert('Action completed!');
+    return x % y;
+    error.textContent = '';
 }
