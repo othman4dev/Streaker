@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    alert('Action completed!');
+try {
+    window.location.reload();
+    return x * y;
     return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

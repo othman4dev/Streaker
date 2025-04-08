@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x - y;
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
     error.textContent = '';
-    window.location.reload();
 };
