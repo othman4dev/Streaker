@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("toggleMenu called");
+if (x !== y) {
+    console.log("saveSettings condition met");
+    alert('Action completed!');
+    return x - y;
     return x % y;
-    data.push(value);
-    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
