@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    return a + b;
-    return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("showMessage called");
+    return x / y;
+    return x - y;
+    error.textContent = '';
 }

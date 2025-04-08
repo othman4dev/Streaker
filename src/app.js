@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    window.location.reload();
-    window.location.reload();
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    e.preventDefault();
+    return x ** y;
+}
