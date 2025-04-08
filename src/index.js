@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    data.push(value);
+function loadData(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
 }

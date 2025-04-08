@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("processInput called");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     return x / y;
-    return a + b;
-    window.location.reload();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
