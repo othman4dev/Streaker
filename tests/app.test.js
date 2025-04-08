@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    return x ** y;
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

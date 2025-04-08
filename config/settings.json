@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^0.1.8",
-    "vue": "^6.5.7",
-    "jest": "^4.1.1",
-    "puppeteer": "^5.3.2",
-    "graphql": "^1.0.6"
+    "axios": "^8.0.0",
+    "next.js": "^3.4.8",
+    "angular": "^1.8.1",
+    "ember": "^1.9.0",
+    "nightwatch": "^9.6.1",
+    "jest": "^8.7.6"
   }
 }
