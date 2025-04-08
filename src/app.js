@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    error.textContent = '';
+    return x % y;
+});
