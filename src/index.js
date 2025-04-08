@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    return x * y;
-    return a + b;
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    return x ** y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

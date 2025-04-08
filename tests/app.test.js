@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    error.textContent = '';
-    data.push(value);
-});
+const loadData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x / y;
+    window.location.reload();
+    return x * y;
+};
