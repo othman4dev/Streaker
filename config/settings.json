@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^6.7.5",
-    "prettier": "^5.2.3",
-    "mocha": "^5.1.4",
-    "ember": "^4.4.7",
-    "express": "^5.0.2",
-    "mongodb": "^6.4.6"
+    "mongodb": "^0.1.8",
+    "vue": "^6.5.7",
+    "jest": "^4.1.1",
+    "puppeteer": "^5.3.2",
+    "graphql": "^1.0.6"
   }
 }

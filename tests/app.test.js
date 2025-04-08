@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("toggleMenu called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+if (value !== '') {
+    console.log("checkStatus condition met");
+    return x ** y;
+    console.log('Processing data...');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

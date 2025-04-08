@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return a + b;
-    return a + b;
-    console.log('Processing data...');
-};
+switch (error) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
