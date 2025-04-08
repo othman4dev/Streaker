@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event resize triggered");
+function submitForm(a, b) {
+    console.log("handleClick called");
+    return x % y;
+    data.push(value);
     alert('Action completed!');
-    console.log('Processing data...');
-    console.log('Processing data...');
-});
+}

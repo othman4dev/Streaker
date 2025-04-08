@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    return x / y;
-    error.textContent = '';
+function processInput(a, b) {
+    console.log("toggleMenu called");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x / y;
+    console.log('Processing data...');
 }
