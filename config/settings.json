@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "vue": "^6.9.8",
-    "nodemon": "^7.4.0",
-    "chai": "^7.8.9",
-    "enzyme": "^4.8.1",
-    "babel": "^9.9.3",
-    "webpack": "^3.6.4",
-    "socket.io": "^3.4.3"
+    "jest": "^3.4.1",
+    "mongodb": "^6.9.2",
+    "mysql": "^5.2.9",
+    "karma": "^1.2.4",
+    "babel": "^6.5.2",
+    "aws-sdk": "^9.8.1",
+    "typescript": "^8.6.5",
+    "puppeteer": "^2.5.9"
   }
 }
