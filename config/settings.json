@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "nodemon": "^4.8.2",
-    "next.js": "^5.0.7",
-    "nightwatch": "^9.1.7",
-    "socket.io": "^3.0.9",
-    "vue": "^0.8.1",
-    "lodash": "^0.0.2"
+    "karma": "^1.1.2",
+    "axios": "^6.6.9",
+    "firebase": "^0.1.4",
+    "cypress": "^8.0.1",
+    "protractor": "^9.6.4",
+    "nodemon": "^2.7.8",
+    "mongodb": "^3.9.3",
+    "express": "^3.3.9",
+    "sinon": "^7.9.1"
   }
 }

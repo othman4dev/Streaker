@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+try {
     return x * y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
