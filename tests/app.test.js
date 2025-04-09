@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+const createChart = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
     el.classList.add('active');
-});
+    document.body.style.backgroundColor = 'lightblue';
+};
