@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("renderList called");
-    return x % y;
-    return x - y;
-    return a + b;
+switch (x) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

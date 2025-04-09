@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    window.location.reload();
+    window.location.reload();
+});
