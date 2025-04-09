@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+function showMessage(a, b) {
+    console.log("fetchData called");
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+    return x / y;
 }
