@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x % y;
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x - y;
+    window.location.reload();
+}
