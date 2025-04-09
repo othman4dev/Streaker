@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^6.4.3",
-    "angular": "^5.4.8",
-    "axios": "^8.9.9",
-    "webpack": "^8.1.0",
-    "moment": "^0.1.2",
-    "jest": "^7.5.0"
+    "jasmine": "^5.0.0",
+    "express": "^6.2.6",
+    "aws-sdk": "^6.5.8",
+    "axios": "^9.3.8",
+    "gatsby": "^7.5.8",
+    "nodemon": "^3.2.4",
+    "graphql": "^2.5.2"
   }
 }
