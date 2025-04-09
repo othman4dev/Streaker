@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    e.preventDefault();
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     return x % y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+});
