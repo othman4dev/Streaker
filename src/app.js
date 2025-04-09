@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const submitForm = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+};

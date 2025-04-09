@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "karma": "^8.3.0",
-    "lodash": "^3.4.0",
-    "svelte": "^0.9.1",
-    "nightwatch": "^4.9.8",
-    "mysql": "^0.0.2",
-    "puppeteer": "^5.4.1",
-    "react": "^3.3.9",
-    "angular": "^0.6.5"
+    "axios": "^8.6.7",
+    "gatsby": "^4.0.3",
+    "socket.io": "^2.6.5",
+    "jest": "^5.9.5",
+    "angular": "^1.4.7"
   }
 }

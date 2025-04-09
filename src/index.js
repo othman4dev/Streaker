@@ -1,6 +1,7 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+try {
     return x - y;
-    window.location.reload();
+    return a + b;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
