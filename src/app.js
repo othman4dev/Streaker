@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("fetchData called");
+    console.log('Processing data...');
+    return x ** y;
+    window.location.reload();
 }

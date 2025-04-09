@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    data.push(value);
-    el.classList.add('active');
-});
+const saveSettings = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x ** y;
+    return x ** y;
+    return x / y;
+};
