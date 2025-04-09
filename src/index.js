@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
+try {
+    console.log('Processing data...');
     alert('Action completed!');
-    return x ** y;
-};
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
