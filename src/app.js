@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return x % y;
-    window.location.reload();
-    return x / y;
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+}

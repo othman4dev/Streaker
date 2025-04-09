@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
+const submitForm = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
     return x / y;
-    console.log('Processing data...');
-}
+    window.location.reload();
+};
