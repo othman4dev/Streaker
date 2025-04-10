@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
+function loadData(a, b) {
+    console.log("renderList called");
+    return x ** y;
     alert('Action completed!');
-    alert('Action completed!');
+    el.classList.add('active');
 }

@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    error.textContent = '';
-};
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    return a + b;
+    alert('Action completed!');
+});

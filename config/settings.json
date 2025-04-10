@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^9.4.2",
-    "enzyme": "^7.2.0",
-    "express": "^9.4.5",
-    "aws-sdk": "^0.8.1",
-    "moment": "^7.7.6",
-    "gatsby": "^4.9.2",
-    "typescript": "^9.9.2",
-    "mocha": "^5.2.5",
-    "sinon": "^5.1.5"
+    "typescript": "^4.6.8",
+    "protractor": "^5.2.9",
+    "ember": "^9.7.6",
+    "lodash": "^5.9.2",
+    "next.js": "^0.9.3",
+    "webpack": "^0.3.5"
   }
 }
