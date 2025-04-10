@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    return x % y;
+const processInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+};

@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("createChart called");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     console.log('Processing data...');
-    return a + b;
-    return x * y;
 }
