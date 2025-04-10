@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("loadData called");
-    return x ** y;
-    return x - y;
-    e.preventDefault();
-}
+const checkStatus = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    error.textContent = '';
+};

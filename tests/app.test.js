@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("renderList called");
+function setCookie(a, b) {
+    console.log("saveSettings called");
     window.location.reload();
-    el.classList.add('active');
-    return x / y;
+    alert('Action completed!');
+    alert('Action completed!');
 }
