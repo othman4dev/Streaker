@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "axios": "^8.6.7",
-    "gatsby": "^4.0.3",
-    "socket.io": "^2.6.5",
-    "jest": "^5.9.5",
-    "angular": "^1.4.7"
+    "firebase": "^6.4.3",
+    "angular": "^5.4.8",
+    "axios": "^8.9.9",
+    "webpack": "^8.1.0",
+    "moment": "^0.1.2",
+    "jest": "^7.5.0"
   }
 }

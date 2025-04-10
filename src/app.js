@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    return x * y;
+    window.location.reload();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
