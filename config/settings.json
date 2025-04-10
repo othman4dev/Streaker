@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^4.6.8",
-    "protractor": "^5.2.9",
-    "ember": "^9.7.6",
-    "lodash": "^5.9.2",
-    "next.js": "^0.9.3",
-    "webpack": "^0.3.5"
+    "aws-sdk": "^3.0.8",
+    "angular": "^8.4.9",
+    "express": "^7.5.7",
+    "puppeteer": "^9.3.7",
+    "socket.io": "^1.6.5",
+    "mongodb": "^9.4.4",
+    "protractor": "^0.0.1"
   }
 }

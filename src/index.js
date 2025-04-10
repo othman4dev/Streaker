@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    data.push(value);
+function validateInput(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
     return a + b;
-    alert('Action completed!');
-});
+    return x * y;
+}
