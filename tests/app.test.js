@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    window.location.reload();
-};
+function displayError(a, b) {
+    console.log("saveSettings called");
+    e.preventDefault();
+    data.push(value);
+    data.push(value);
+}
