@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event load triggered");
+if (data.length > 0) {
+    console.log("updateUI condition met");
     return x - y;
-    return x - y;
-    console.log('Processing data...');
-});
+    return x * y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

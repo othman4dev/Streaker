@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
+const loadData = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return a + b;
-    console.log('Processing data...');
-}
+    return x * y;
+    return a + b;
+};
