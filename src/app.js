@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("getLocalStorage called");
-    window.location.reload();
-    return x / y;
-    alert('Action completed!');
+switch (b) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

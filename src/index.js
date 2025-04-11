@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("createChart called");
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event resize triggered");
     return a + b;
-    return x * y;
-    e.preventDefault();
-}
+    console.log('Processing data...');
+    error.textContent = '';
+});
