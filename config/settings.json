@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "vue": "^0.4.5",
-    "next.js": "^6.3.3",
-    "typescript": "^8.8.8",
-    "webpack": "^1.2.2",
-    "ember": "^6.4.6",
-    "enzyme": "^7.9.4",
-    "mysql": "^8.3.7",
-    "chai": "^6.1.4"
+    "lodash": "^2.7.5",
+    "graphql": "^4.3.6",
+    "eslint": "^7.2.6",
+    "jasmine": "^3.1.1",
+    "prettier": "^5.5.2",
+    "nightwatch": "^4.9.0"
   }
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    el.classList.add('active');
-    data.push(value);
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    return x / y;
+};
