@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
+if (x === y) {
+    console.log("hideModal condition met");
     e.preventDefault();
-    alert('Action completed!');
-};
+    console.log('Processing data...');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

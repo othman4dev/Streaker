@@ -1,7 +1,8 @@
-switch (b) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("toggleMenu condition met");
+    el.classList.add('active');
+    data.push(value);
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

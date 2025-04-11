@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    data.push(value);
-    e.preventDefault();
-    return x - y;
+const renderList = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
+    return a + b;
+    window.location.reload();
 };
