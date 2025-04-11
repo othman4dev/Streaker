@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    window.location.reload();
-    alert('Action completed!');
-    return x ** y;
-};
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event load triggered");
+    return x % y;
+    return x * y;
+    return x - y;
+});

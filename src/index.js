@@ -1,7 +1,8 @@
-try {
+if (a > b) {
+    console.log("formatDate condition met");
+    window.location.reload();
+    return x * y;
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
