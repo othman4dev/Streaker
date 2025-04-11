@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x * y;
-    alert('Action completed!');
+try {
     e.preventDefault();
-};
+    data.push(value);
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

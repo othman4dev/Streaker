@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("displayError called");
+    return x % y;
+    el.classList.add('active');
+    alert('Action completed!');
 }

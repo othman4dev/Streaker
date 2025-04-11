@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^2.3.5",
-    "prettier": "^2.7.8",
-    "mongodb": "^1.7.8",
-    "aws-sdk": "^4.5.9",
-    "babel": "^8.5.7"
+    "svelte": "^1.9.7",
+    "next.js": "^0.2.5",
+    "express": "^8.5.8",
+    "typescript": "^6.0.0",
+    "moment": "^6.2.6"
   }
 }
