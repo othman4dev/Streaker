@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    window.location.reload();
+    return x % y;
     return x * y;
-    data.push(value);
 } else {
     console.log("Condition not met");
 }

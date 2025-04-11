@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return a + b;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-    return a + b;
-};
+}

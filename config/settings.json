@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^1.3.0",
-    "firebase": "^7.1.4",
-    "graphql": "^8.4.3",
-    "karma": "^8.7.3",
-    "jest": "^7.8.5",
-    "chai": "^8.6.9",
-    "vue": "^4.3.5",
-    "nodemon": "^3.8.9"
+    "angular": "^2.9.8",
+    "next.js": "^9.1.9",
+    "prettier": "^7.4.0",
+    "typescript": "^0.2.3",
+    "firebase": "^9.8.4",
+    "moment": "^3.0.5",
+    "svelte": "^0.2.3",
+    "redis": "^4.2.9"
   }
 }
