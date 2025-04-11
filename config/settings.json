@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^1.9.4",
-    "cypress": "^5.9.9",
-    "enzyme": "^7.2.8",
-    "express": "^9.0.3",
-    "graphql": "^7.9.9",
-    "vue": "^8.4.3",
-    "next.js": "^3.3.5"
+    "socket.io": "^2.3.5",
+    "prettier": "^2.7.8",
+    "mongodb": "^1.7.8",
+    "aws-sdk": "^4.5.9",
+    "babel": "^8.5.7"
   }
 }

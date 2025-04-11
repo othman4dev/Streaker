@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("getLocalStorage called");
-    console.log('Processing data...');
+const displayError = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x * y;
+    alert('Action completed!');
     e.preventDefault();
-    return x ** y;
-}
+};
