@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return x - y;
+    console.log('Processing data...');
+});
