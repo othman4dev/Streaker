@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+function checkStatus(a, b) {
+    console.log("getLocalStorage called");
+    console.log('Processing data...');
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x ** y;
 }

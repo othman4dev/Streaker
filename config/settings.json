@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "react": "^5.8.5",
-    "ember": "^5.4.8",
-    "cypress": "^8.6.1",
-    "aws-sdk": "^3.9.8"
+    "gatsby": "^1.9.4",
+    "cypress": "^5.9.9",
+    "enzyme": "^7.2.8",
+    "express": "^9.0.3",
+    "graphql": "^7.9.9",
+    "vue": "^8.4.3",
+    "next.js": "^3.3.5"
   }
 }
