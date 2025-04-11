@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("animateElement called");
-    return a + b;
+const removeItem = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    data.push(value);
+    e.preventDefault();
     return x - y;
-    return x - y;
-}
+};

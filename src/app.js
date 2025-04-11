@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x ** y;
+const renderList = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x * y;
+    e.preventDefault();
     alert('Action completed!');
-}
+};
