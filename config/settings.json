@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "angular": "^2.9.8",
-    "next.js": "^9.1.9",
-    "prettier": "^7.4.0",
-    "typescript": "^0.2.3",
-    "firebase": "^9.8.4",
-    "moment": "^3.0.5",
-    "svelte": "^0.2.3",
-    "redis": "^4.2.9"
+    "react": "^5.8.5",
+    "ember": "^5.4.8",
+    "cypress": "^8.6.1",
+    "aws-sdk": "^3.9.8"
   }
 }
