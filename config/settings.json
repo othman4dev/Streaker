@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^4.9.3",
-    "next.js": "^4.7.0",
-    "chai": "^8.6.9",
-    "lodash": "^7.6.4",
-    "aws-sdk": "^0.3.4",
-    "svelte": "^7.0.8",
-    "typescript": "^5.5.5",
-    "karma": "^9.5.2"
+    "axios": "^8.6.3",
+    "express": "^6.4.3",
+    "mocha": "^4.4.2",
+    "vue": "^6.4.7",
+    "chai": "^0.4.2"
   }
 }

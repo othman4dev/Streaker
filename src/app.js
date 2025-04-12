@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    return x % y;
+    return a + b;
 });
