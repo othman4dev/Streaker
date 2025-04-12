@@ -1,7 +1,8 @@
-switch (el) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    return x - y;
+    alert('Action completed!');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

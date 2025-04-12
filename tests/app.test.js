@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
-    alert('Action completed!');
-    error.textContent = '';
-    return x / y;
-};
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});

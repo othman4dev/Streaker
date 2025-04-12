@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^2.7.5",
-    "graphql": "^4.3.6",
-    "eslint": "^7.2.6",
-    "jasmine": "^3.1.1",
-    "prettier": "^5.5.2",
-    "nightwatch": "^4.9.0"
+    "protractor": "^7.8.3",
+    "ember": "^2.5.4",
+    "express": "^5.3.7",
+    "cypress": "^5.9.5",
+    "graphql": "^2.7.4",
+    "mongodb": "^4.7.7"
   }
 }

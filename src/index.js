@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("formatDate called");
-    e.preventDefault();
-    alert('Action completed!');
-    error.textContent = '';
+try {
+    return a + b;
+    return x - y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
