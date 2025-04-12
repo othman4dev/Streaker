@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "axios": "^0.2.1",
-    "svelte": "^1.9.7",
-    "gatsby": "^5.4.8",
-    "babel": "^4.4.4",
-    "nightwatch": "^9.0.4",
-    "aws-sdk": "^3.2.8",
-    "vue": "^8.5.0"
+    "puppeteer": "^4.9.3",
+    "next.js": "^4.7.0",
+    "chai": "^8.6.9",
+    "lodash": "^7.6.4",
+    "aws-sdk": "^0.3.4",
+    "svelte": "^7.0.8",
+    "typescript": "^5.5.5",
+    "karma": "^9.5.2"
   }
 }

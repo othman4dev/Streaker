@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     return x * y;
-    return x * y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

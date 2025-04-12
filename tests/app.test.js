@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    e.preventDefault();
-    return x * y;
-}
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    return x ** y;
+    return x - y;
+});
