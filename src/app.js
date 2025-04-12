@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x % y;
-};
+if (x === y) {
+    console.log("setCookie condition met");
+    alert('Action completed!');
+    return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

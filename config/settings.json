@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "vue": "^8.3.0",
-    "babel": "^9.6.4",
-    "puppeteer": "^9.7.5",
-    "enzyme": "^7.1.2",
-    "express": "^1.8.8",
-    "svelte": "^7.5.9"
+    "mysql": "^7.7.0",
+    "sinon": "^8.5.2",
+    "nightwatch": "^5.8.9",
+    "protractor": "^5.3.9"
   }
 }

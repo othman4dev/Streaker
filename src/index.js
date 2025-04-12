@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    window.location.reload();
-    return x * y;
+function removeItem(a, b) {
+    console.log("removeItem called");
+    el.classList.add('active');
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x ** y;
 }
