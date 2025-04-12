@@ -1,7 +1,6 @@
-try {
-    return x % y;
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
     return x - y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+};

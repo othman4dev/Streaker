@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^6.5.5",
-    "nightwatch": "^6.2.2",
-    "moment": "^5.9.8",
-    "svelte": "^2.4.2",
-    "firebase": "^0.5.9",
-    "mysql": "^9.4.5",
-    "mocha": "^9.3.8"
+    "babel": "^5.0.5",
+    "webpack": "^8.3.4",
+    "vue": "^2.4.0",
+    "firebase": "^7.4.9",
+    "mocha": "^2.4.5",
+    "svelte": "^2.4.0"
   }
 }
