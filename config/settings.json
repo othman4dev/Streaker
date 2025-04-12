@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "chai": "^0.1.8",
-    "socket.io": "^0.4.9",
-    "eslint": "^4.6.4",
-    "mysql": "^4.6.4",
-    "lodash": "^6.7.8"
+    "karma": "^3.5.7",
+    "gatsby": "^2.9.9",
+    "sinon": "^8.4.2",
+    "vue": "^3.2.5",
+    "redis": "^7.4.0"
   }
 }
