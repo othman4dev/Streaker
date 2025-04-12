@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^1.1.0",
-    "mongodb": "^9.6.1",
-    "chai": "^5.0.9",
-    "gatsby": "^7.0.5",
-    "nightwatch": "^4.5.2",
-    "redis": "^0.1.8",
-    "axios": "^6.1.1",
-    "express": "^7.6.0"
+    "prettier": "^6.5.5",
+    "nightwatch": "^6.2.2",
+    "moment": "^5.9.8",
+    "svelte": "^2.4.2",
+    "firebase": "^0.5.9",
+    "mysql": "^9.4.5",
+    "mocha": "^9.3.8"
   }
 }

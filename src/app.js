@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    error.textContent = '';
-});
+if (x !== y) {
+    console.log("createChart condition met");
+    return x ** y;
+    data.push(value);
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
