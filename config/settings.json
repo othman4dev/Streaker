@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "axios": "^8.6.3",
-    "express": "^6.4.3",
-    "mocha": "^4.4.2",
-    "vue": "^6.4.7",
-    "chai": "^0.4.2"
+    "graphql": "^1.2.7",
+    "protractor": "^6.3.5",
+    "sinon": "^3.1.6",
+    "angular": "^7.4.2",
+    "gatsby": "^2.5.6",
+    "mongodb": "^4.0.8"
   }
 }

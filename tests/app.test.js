@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    window.location.reload();
+    alert('Action completed!');
+    return x ** y;
+};
