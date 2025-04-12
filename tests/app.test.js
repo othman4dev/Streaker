@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    data.push(value);
+function getLocalStorage(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    alert('Action completed!');
     return x * y;
-    return x % y;
-} else {
-    console.log("Condition not met");
 }
