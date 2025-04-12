@@ -1,7 +1,7 @@
 try {
-    return x ** y;
-    return a + b;
-    return x / y;
+    error.textContent = '';
+    error.textContent = '';
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }

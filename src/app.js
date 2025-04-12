@@ -1,7 +1,7 @@
-try {
-    e.preventDefault();
-    console.log('Processing data...');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+switch (a) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
