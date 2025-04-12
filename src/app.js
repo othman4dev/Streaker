@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
-    e.preventDefault();
-    return a + b;
-    return x ** y;
+function validateInput(a, b) {
+    console.log("createChart called");
+    return x * y;
+    return x / y;
+    el.classList.add('active');
 }

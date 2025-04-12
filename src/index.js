@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
+try {
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
