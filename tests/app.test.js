@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    console.log('Processing data...');
-    e.preventDefault();
-}
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
+    data.push(value);
+    return x * y;
+});

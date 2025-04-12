@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "karma": "^3.5.7",
-    "gatsby": "^2.9.9",
-    "sinon": "^8.4.2",
-    "vue": "^3.2.5",
-    "redis": "^7.4.0"
+    "aws-sdk": "^5.9.9",
+    "mocha": "^3.0.5",
+    "vue": "^3.3.4",
+    "protractor": "^7.3.1",
+    "moment": "^1.9.7"
   }
 }
