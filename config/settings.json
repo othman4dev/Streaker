@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.9.9",
-    "mocha": "^3.0.5",
-    "vue": "^3.3.4",
-    "protractor": "^7.3.1",
-    "moment": "^1.9.7"
+    "next.js": "^1.1.0",
+    "mongodb": "^9.6.1",
+    "chai": "^5.0.9",
+    "gatsby": "^7.0.5",
+    "nightwatch": "^4.5.2",
+    "redis": "^0.1.8",
+    "axios": "^6.1.1",
+    "express": "^7.6.0"
   }
 }

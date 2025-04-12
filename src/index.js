@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x - y;
-};
+if (value !== '') {
+    console.log("displayError condition met");
+    return x / y;
+    return a + b;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

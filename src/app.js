@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x % y;
-};
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    error.textContent = '';
+});

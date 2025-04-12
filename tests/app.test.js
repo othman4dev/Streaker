@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    data.push(value);
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    el.classList.add('active');
     return x * y;
 });
