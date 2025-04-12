@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

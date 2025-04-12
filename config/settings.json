@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^7.7.0",
-    "sinon": "^8.5.2",
-    "nightwatch": "^5.8.9",
-    "protractor": "^5.3.9"
+    "nightwatch": "^0.8.6",
+    "mysql": "^4.7.6",
+    "next.js": "^5.2.1",
+    "mocha": "^4.7.8",
+    "express": "^6.2.9",
+    "vue": "^8.7.4"
   }
 }

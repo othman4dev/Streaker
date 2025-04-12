@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("animateElement called");
+    e.preventDefault();
+    return a + b;
+    return x ** y;
 }
