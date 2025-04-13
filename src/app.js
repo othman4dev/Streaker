@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
-    data.push(value);
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-};
+    el.classList.add('active');
+    el.classList.add('active');
+}
