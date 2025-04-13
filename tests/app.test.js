@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x * y;
+switch (data) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
