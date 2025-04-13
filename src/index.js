@@ -1,7 +1,6 @@
-try {
-    return a + b;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
     return x / y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    return x * y;
 }

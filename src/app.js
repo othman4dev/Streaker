@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("animateElement called");
-    document.body.style.backgroundColor = 'lightblue';
+const checkStatus = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
     data.push(value);
     e.preventDefault();
-}
+};
