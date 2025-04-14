@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-}
+const validateInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    return x * y;
+    window.location.reload();
+};

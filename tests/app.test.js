@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    alert('Action completed!');
-    window.location.reload();
-    data.push(value);
-};
+switch (a) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
