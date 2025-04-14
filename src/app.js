@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    data.push(value);
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
     return x / y;
-    error.textContent = '';
-};
+    console.log('Processing data...');
+});

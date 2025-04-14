@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    data.push(value);
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("animateElement condition met");
+    return x / y;
+    console.log('Processing data...');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

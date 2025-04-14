@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "react": "^1.4.2",
-    "ember": "^0.5.9",
-    "redis": "^5.8.2",
-    "firebase": "^4.6.6",
-    "karma": "^4.5.9",
-    "nodemon": "^9.9.3"
+    "express": "^6.2.8",
+    "jest": "^8.1.2",
+    "protractor": "^2.1.7",
+    "redis": "^9.0.8",
+    "typescript": "^1.6.1",
+    "karma": "^6.6.8",
+    "vue": "^5.1.7",
+    "nodemon": "^2.3.1"
   }
 }

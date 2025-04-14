@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
+    return x * y;
+    el.classList.add('active');
+};
