@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("renderList arrow function called");
-    error.textContent = '';
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    data.push(value);
     return x / y;
-    return x - y;
-};
+    window.location.reload();
+});
