@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    console.log('Processing data...');
-    return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    return x * y;
+    alert('Action completed!');
+});

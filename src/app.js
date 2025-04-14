@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+const hideModal = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     data.push(value);
+    return a + b;
+    return x % y;
 };
