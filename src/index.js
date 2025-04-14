@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("createChart called");
+    alert('Action completed!');
+    data.push(value);
+    data.push(value);
 }
