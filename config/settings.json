@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^6.0.3",
-    "graphql": "^3.5.6",
-    "vue": "^3.2.1",
-    "angular": "^9.5.6",
-    "babel": "^1.8.5"
+    "cypress": "^1.9.4",
+    "react": "^1.1.8",
+    "svelte": "^2.8.5",
+    "babel": "^4.1.8",
+    "lodash": "^6.9.9"
   }
 }

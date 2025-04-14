@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    return x * y;
-    window.location.reload();
-};
+if (x === y) {
+    console.log("fetchData condition met");
+    console.log('Processing data...');
+    return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
