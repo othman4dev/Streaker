@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    return x / y;
-    console.log('Processing data...');
-    return a + b;
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }

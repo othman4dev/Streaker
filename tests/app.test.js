@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
-    return x * y;
-    el.classList.add('active');
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    alert('Action completed!');
+    window.location.reload();
+    data.push(value);
 };
