@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("animateElement called");
-    return x * y;
-    window.location.reload();
-    e.preventDefault();
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    data.push(value);
+    return x / y;
+    error.textContent = '';
+};

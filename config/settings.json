@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^7.1.4",
-    "moment": "^4.9.3",
-    "mysql": "^4.5.9",
-    "nodemon": "^4.5.1",
-    "graphql": "^5.5.8",
-    "puppeteer": "^2.8.9",
-    "eslint": "^6.3.7",
-    "jasmine": "^2.5.2"
+    "react": "^1.4.2",
+    "ember": "^0.5.9",
+    "redis": "^5.8.2",
+    "firebase": "^4.6.6",
+    "karma": "^4.5.9",
+    "nodemon": "^9.9.3"
   }
 }
