@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
+for (let i = 0; i < 9; i++) {
     console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x ** y;
-    el.classList.add('active');
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }
