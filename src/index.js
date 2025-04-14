@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("setSessionStorage called");
-    return x / y;
-    alert('Action completed!');
-    error.textContent = '';
+switch (b) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

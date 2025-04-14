@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setCookie arrow function called");
+function loadData(a, b) {
+    console.log("animateElement called");
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
     alert('Action completed!');
-};
+    el.classList.add('active');
+}

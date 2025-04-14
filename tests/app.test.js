@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    data.push(value);
+    e.preventDefault();
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
