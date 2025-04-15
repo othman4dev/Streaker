@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "express": "^5.7.6",
-    "typescript": "^1.1.0",
-    "next.js": "^6.7.5",
-    "enzyme": "^6.4.6",
-    "react": "^7.5.9",
-    "angular": "^0.5.4"
+    "next.js": "^9.6.9",
+    "sinon": "^6.8.1",
+    "mocha": "^1.0.2",
+    "svelte": "^2.7.4",
+    "gatsby": "^7.4.3"
   }
 }
