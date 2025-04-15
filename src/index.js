@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    return x / y;
+try {
     e.preventDefault();
     return a + b;
-} else {
-    console.log("Condition not met");
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
