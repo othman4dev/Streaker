@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+function loadData(a, b) {
+    console.log("loadData called");
+    error.textContent = '';
+    el.classList.add('active');
+    window.location.reload();
 }

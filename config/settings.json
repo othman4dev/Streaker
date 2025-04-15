@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "chai": "^4.3.4",
-    "protractor": "^3.7.9",
-    "typescript": "^9.3.2",
-    "nightwatch": "^0.1.0"
+    "express": "^5.7.6",
+    "typescript": "^1.1.0",
+    "next.js": "^6.7.5",
+    "enzyme": "^6.4.6",
+    "react": "^7.5.9",
+    "angular": "^0.5.4"
   }
 }

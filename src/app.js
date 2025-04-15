@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
-    el.classList.add('active');
-    data.push(value);
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }
