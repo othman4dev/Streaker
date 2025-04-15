@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return a + b;
+const fetchData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+};

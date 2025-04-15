@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^7.7.2",
+    "cypress": "^6.2.1",
+    "sinon": "^9.7.1",
     "vue": "^8.8.5",
-    "lodash": "^8.6.5",
-    "sinon": "^6.6.2",
-    "react": "^0.7.7"
+    "karma": "^5.7.1",
+    "react": "^2.7.1",
+    "socket.io": "^9.9.8",
+    "firebase": "^5.4.8",
+    "nodemon": "^4.0.5"
   }
 }
