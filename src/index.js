@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
-    return x % y;
-    return x * y;
-});
+function formatDate(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    el.classList.add('active');
+    window.location.reload();
+}

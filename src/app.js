@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+function hideModal(a, b) {
+    console.log("updateUI called");
     console.log('Processing data...');
+    el.classList.add('active');
     data.push(value);
-    e.preventDefault();
 }
