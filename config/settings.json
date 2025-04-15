@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^1.9.7",
-    "svelte": "^0.8.8",
-    "nodemon": "^8.4.2",
-    "lodash": "^1.5.2",
-    "react": "^0.3.4",
-    "mongodb": "^9.0.4"
+    "svelte": "^2.3.8",
+    "redis": "^1.2.8",
+    "enzyme": "^7.6.6",
+    "sinon": "^5.0.6",
+    "typescript": "^5.4.8"
   }
 }
