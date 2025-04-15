@@ -1,6 +1,6 @@
 function hideModal(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    data.push(value);
+    console.log("setCookie called");
+    alert('Action completed!');
+    error.textContent = '';
+    return x % y;
 }

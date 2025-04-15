@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
-    el.classList.add('active');
-    window.location.reload();
+function validateInput(a, b) {
+    console.log("fetchData called");
+    return x / y;
+    return x - y;
+    console.log('Processing data...');
 }

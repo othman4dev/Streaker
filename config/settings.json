@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^9.7.8",
-    "protractor": "^0.3.2",
-    "mysql": "^9.3.7",
-    "svelte": "^4.9.8",
-    "eslint": "^6.6.3"
+    "moment": "^2.8.6",
+    "ember": "^1.1.4",
+    "puppeteer": "^8.8.0",
+    "angular": "^9.3.6",
+    "mocha": "^3.9.1"
   }
 }
