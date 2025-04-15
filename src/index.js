@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    error.textContent = '';
-    return x * y;
-    return x % y;
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    return x / y;
+    e.preventDefault();
+    return a + b;
 } else {
     console.log("Condition not met");
 }
