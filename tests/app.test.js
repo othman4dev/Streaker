@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("animateElement called");
+    return x * y;
+    return x - y;
+    return x % y;
 }
