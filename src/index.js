@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    return x / y;
-    el.classList.add('active');
-};
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    alert('Action completed!');
+    window.location.reload();
+});

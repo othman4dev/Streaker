@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "react": "^3.0.8",
-    "prettier": "^8.8.1",
-    "karma": "^2.6.5",
-    "vue": "^3.2.5",
-    "socket.io": "^8.0.5",
-    "jest": "^7.7.7",
-    "nightwatch": "^9.7.3"
+    "chai": "^4.3.4",
+    "protractor": "^3.7.9",
+    "typescript": "^9.3.2",
+    "nightwatch": "^0.1.0"
   }
 }

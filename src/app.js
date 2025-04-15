@@ -1,7 +1,8 @@
-try {
-    return x * y;
+if (x === y) {
+    console.log("createChart condition met");
+    el.classList.add('active');
     data.push(value);
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
