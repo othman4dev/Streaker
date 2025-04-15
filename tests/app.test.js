@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
-    return x ** y;
-    window.location.reload();
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    data.push(value);
+    console.log('Processing data...');
+}

@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+function getLocalStorage(a, b) {
+    console.log("animateElement called");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    return x / y;
 }
