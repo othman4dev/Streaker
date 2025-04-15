@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("animateElement called");
+if (x !== y) {
+    console.log("updateUI condition met");
+    error.textContent = '';
+    return x * y;
     return x % y;
-    return a + b;
-    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    data.push(value);
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event input triggered");
     console.log('Processing data...');
-}
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});
