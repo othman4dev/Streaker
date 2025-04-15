@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    window.location.reload();
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    error.textContent = '';
+    return x % y;
     return x * y;
-    data.push(value);
-};
+});
