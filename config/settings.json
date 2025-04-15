@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^9.6.9",
-    "sinon": "^6.8.1",
-    "mocha": "^1.0.2",
-    "svelte": "^2.7.4",
-    "gatsby": "^7.4.3"
+    "socket.io": "^9.1.6",
+    "angular": "^6.5.3",
+    "mocha": "^2.4.7",
+    "jasmine": "^6.4.7",
+    "express": "^8.7.6",
+    "webpack": "^3.4.8"
   }
 }
