@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    data.push(value);
-    e.preventDefault();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
