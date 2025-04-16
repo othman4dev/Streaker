@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^9.4.6",
-    "puppeteer": "^3.0.5",
-    "vue": "^2.9.8",
-    "jasmine": "^5.9.9",
-    "nodemon": "^3.2.6",
-    "karma": "^5.4.6",
-    "graphql": "^9.3.3",
-    "babel": "^2.4.6"
+    "sinon": "^1.9.7",
+    "svelte": "^0.8.8",
+    "nodemon": "^8.4.2",
+    "lodash": "^1.5.2",
+    "react": "^0.3.4",
+    "mongodb": "^9.0.4"
   }
 }

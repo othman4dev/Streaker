@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    return x / y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
+    error.textContent = '';
     return a + b;
-} else {
-    console.log("Condition not met");
 }
