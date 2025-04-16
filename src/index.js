@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    return x - y;
-    console.log('Processing data...');
-}
+const formatDate = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return a + b;
+    e.preventDefault();
+    return x ** y;
+};
