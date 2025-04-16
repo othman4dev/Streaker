@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event load triggered");
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event click triggered");
     return x * y;
-    return a + b;
-    return x - y;
+    return x * y;
+    error.textContent = '';
 });

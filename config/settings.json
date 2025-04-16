@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^1.6.4",
-    "mongodb": "^9.6.1",
-    "express": "^5.9.3",
-    "socket.io": "^9.7.9",
-    "next.js": "^9.9.5",
-    "webpack": "^3.6.5",
-    "ember": "^1.7.3"
+    "react": "^9.7.5",
+    "redis": "^8.8.9",
+    "puppeteer": "^6.7.6",
+    "jest": "^9.1.4",
+    "protractor": "^5.2.3"
   }
 }

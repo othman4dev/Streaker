@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    console.log('Processing data...');
-    window.location.reload();
-});
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    return x * y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
