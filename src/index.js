@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("processInput arrow function called");
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return x * y;
     return a + b;
-    e.preventDefault();
-    return x ** y;
-};
+    return x - y;
+});

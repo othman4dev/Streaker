@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^7.0.1",
-    "vue": "^5.2.9",
-    "angular": "^5.3.7",
-    "moment": "^9.9.8"
+    "lodash": "^1.6.4",
+    "mongodb": "^9.6.1",
+    "express": "^5.9.3",
+    "socket.io": "^9.7.9",
+    "next.js": "^9.9.5",
+    "webpack": "^3.6.5",
+    "ember": "^1.7.3"
   }
 }
