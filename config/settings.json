@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^2.3.8",
-    "redis": "^1.2.8",
-    "enzyme": "^7.6.6",
-    "sinon": "^5.0.6",
-    "typescript": "^5.4.8"
+    "gatsby": "^6.9.5",
+    "ember": "^2.7.9",
+    "vue": "^0.6.5",
+    "karma": "^5.2.5",
+    "mysql": "^4.5.1",
+    "mocha": "^8.6.3",
+    "lodash": "^5.8.6"
   }
 }
