@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "react": "^9.7.5",
-    "redis": "^8.8.9",
-    "puppeteer": "^6.7.6",
-    "jest": "^9.1.4",
-    "protractor": "^5.2.3"
+    "lodash": "^9.4.6",
+    "puppeteer": "^3.0.5",
+    "vue": "^2.9.8",
+    "jasmine": "^5.9.9",
+    "nodemon": "^3.2.6",
+    "karma": "^5.4.6",
+    "graphql": "^9.3.3",
+    "babel": "^2.4.6"
   }
 }

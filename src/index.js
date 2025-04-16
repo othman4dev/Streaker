@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    return x * y;
-    return x * y;
-    error.textContent = '';
-});
+if (x === y) {
+    console.log("removeItem condition met");
+    return x / y;
+    window.location.reload();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
