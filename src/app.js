@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    error.textContent = '';
+});

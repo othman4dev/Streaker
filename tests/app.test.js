@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("updateUI called");
-    return x / y;
-    return a + b;
-    e.preventDefault();
-}
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    data.push(value);
+    window.location.reload();
+});

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^6.9.5",
-    "ember": "^2.7.9",
-    "vue": "^0.6.5",
-    "karma": "^5.2.5",
-    "mysql": "^4.5.1",
-    "mocha": "^8.6.3",
-    "lodash": "^5.8.6"
+    "aws-sdk": "^8.4.1",
+    "angular": "^7.9.2",
+    "enzyme": "^1.4.4",
+    "lodash": "^1.4.3",
+    "graphql": "^8.9.5",
+    "mocha": "^6.2.2",
+    "gatsby": "^1.7.4",
+    "puppeteer": "^4.7.3"
   }
 }
