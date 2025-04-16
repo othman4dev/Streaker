@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event change triggered");
     data.push(value);
-    window.location.reload();
+    error.textContent = '';
+    return a + b;
 });
