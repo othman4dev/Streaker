@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    return x * y;
-    return a + b;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    window.location.reload();
+};

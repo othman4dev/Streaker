@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^0.0.2",
-    "sinon": "^6.8.4",
-    "karma": "^3.7.5",
-    "prettier": "^7.3.3",
-    "babel": "^2.1.9",
-    "mongodb": "^2.0.9",
-    "ember": "^6.5.4",
-    "nightwatch": "^9.7.9"
+    "mocha": "^8.1.7",
+    "redis": "^7.9.6",
+    "jest": "^0.5.7",
+    "lodash": "^8.7.8",
+    "svelte": "^0.8.5"
   }
 }
