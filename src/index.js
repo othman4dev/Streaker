@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
+    error.textContent = '';
+    return a + b;
+    return x - y;
+};

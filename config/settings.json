@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "angular": "^2.8.4",
-    "svelte": "^9.1.0",
-    "graphql": "^4.4.6",
-    "moment": "^7.6.0",
-    "jest": "^4.3.2"
+    "jest": "^5.3.3",
+    "babel": "^1.8.8",
+    "angular": "^9.4.8",
+    "redis": "^6.3.5",
+    "ember": "^7.5.4",
+    "prettier": "^5.1.8"
   }
 }
