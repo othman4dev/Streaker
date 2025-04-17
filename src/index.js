@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x - y;
-    e.preventDefault();
-    error.textContent = '';
+const validateInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    el.classList.add('active');
+    window.location.reload();
 };
