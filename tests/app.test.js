@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    window.location.reload();
-    return x * y;
-});
+function setSessionStorage(a, b) {
+    console.log("toggleMenu called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+}
