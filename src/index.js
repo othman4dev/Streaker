@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
+    return x / y;
     return x % y;
-    return a + b;
-    return x % y;
-});
+};

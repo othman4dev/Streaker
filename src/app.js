@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return x - y;
-    window.location.reload();
-    return x - y;
-});
+function saveSettings(a, b) {
+    console.log("fetchData called");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x * y;
+}
