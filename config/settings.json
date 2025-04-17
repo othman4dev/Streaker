@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "axios": "^5.8.8",
-    "nodemon": "^2.4.8",
-    "eslint": "^2.8.2",
-    "next.js": "^6.6.0",
-    "nightwatch": "^3.9.5",
-    "firebase": "^5.3.5"
+    "svelte": "^0.6.7",
+    "angular": "^0.6.5",
+    "nodemon": "^5.8.3",
+    "vue": "^5.8.4",
+    "protractor": "^6.1.8"
   }
 }
