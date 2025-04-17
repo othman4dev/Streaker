@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^0.0.2",
-    "enzyme": "^8.9.4",
-    "ember": "^3.6.5",
-    "socket.io": "^4.6.1",
-    "angular": "^9.8.0",
-    "nightwatch": "^3.0.9"
+    "cypress": "^6.3.7",
+    "vue": "^9.0.8",
+    "axios": "^4.1.4",
+    "graphql": "^1.0.1",
+    "puppeteer": "^4.6.3"
   }
 }
