@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
-    error.textContent = '';
-    return a + b;
-    return x - y;
+const checkStatus = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 };

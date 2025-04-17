@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    console.log('Processing data...');
+    return x ** y;
 }
