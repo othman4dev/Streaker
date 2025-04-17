@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    el.classList.add('active');
-    window.location.reload();
-};
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    return a + b;
+    return x % y;
+});

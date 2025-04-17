@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+};

@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     return x - y;
-    alert('Action completed!');
-    return x ** y;
-};
+    window.location.reload();
+    return x - y;
+});
