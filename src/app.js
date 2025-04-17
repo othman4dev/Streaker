@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("fetchData called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x * y;
+try {
+    data.push(value);
+    return x - y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

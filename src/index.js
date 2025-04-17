@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     return x / y;
-    return x % y;
-};
+    alert('Action completed!');
+}
