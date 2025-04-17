@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return a + b;
     error.textContent = '';
-};
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
