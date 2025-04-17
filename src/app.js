@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+};

@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
-    return x / y;
+function removeItem(a, b) {
+    console.log("saveSettings called");
     document.body.style.backgroundColor = 'lightblue';
-});
+    el.classList.add('active');
+    return x / y;
+}
