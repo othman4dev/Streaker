@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    error.textContent = '';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+};

@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    el.classList.add('active');
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    error.textContent = '';
+    return x / y;
+}

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^0.6.2",
-    "sinon": "^5.8.4",
-    "typescript": "^7.7.9",
-    "angular": "^9.6.5",
-    "mocha": "^7.1.7",
-    "aws-sdk": "^8.1.4"
+    "angular": "^2.8.4",
+    "svelte": "^9.1.0",
+    "graphql": "^4.4.6",
+    "moment": "^7.6.0",
+    "jest": "^4.3.2"
   }
 }
