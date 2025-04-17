@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    alert('Action completed!');
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event input triggered");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+    el.classList.add('active');
+    return x * y;
+});
