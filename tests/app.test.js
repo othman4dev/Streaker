@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
-    data.push(value);
-    return a + b;
-};
+if (x !== y) {
+    console.log("formatDate condition met");
+    error.textContent = '';
+    return x / y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

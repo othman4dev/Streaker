@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("showMessage condition met");
+    return x * y;
+    return a + b;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

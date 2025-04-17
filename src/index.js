@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event load triggered");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    return a + b;
+});

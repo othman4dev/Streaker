@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^0.5.5",
-    "karma": "^1.5.8",
-    "eslint": "^5.1.4",
-    "next.js": "^6.7.1",
-    "puppeteer": "^0.1.1",
-    "moment": "^5.0.6",
-    "graphql": "^0.2.3",
-    "socket.io": "^4.8.2",
-    "axios": "^2.3.1"
+    "next.js": "^0.0.2",
+    "sinon": "^6.8.4",
+    "karma": "^3.7.5",
+    "prettier": "^7.3.3",
+    "babel": "^2.1.9",
+    "mongodb": "^2.0.9",
+    "ember": "^6.5.4",
+    "nightwatch": "^9.7.9"
   }
 }
