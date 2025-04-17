@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event submit triggered");
     return x ** y;
-    return x ** y;
-    return x % y;
-}
+    return x / y;
+    error.textContent = '';
+});

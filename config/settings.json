@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^0.6.7",
-    "angular": "^0.6.5",
-    "nodemon": "^5.8.3",
-    "vue": "^5.8.4",
-    "protractor": "^6.1.8"
+    "protractor": "^5.8.3",
+    "next.js": "^0.7.3",
+    "express": "^4.2.4",
+    "gatsby": "^8.0.8",
+    "mongodb": "^7.9.2"
   }
 }
