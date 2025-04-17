@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x - y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x ** y;
+});
