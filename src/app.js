@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event resize triggered");
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
     return x * y;
-    return x * y;
-    alert('Action completed!');
+    console.log('Processing data...');
+    window.location.reload();
 });
