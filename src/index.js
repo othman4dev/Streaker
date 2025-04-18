@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    error.textContent = '';
-    return a + b;
+function formatDate(a, b) {
+    console.log("formatDate called");
+    e.preventDefault();
+    return x % y;
+    window.location.reload();
 }

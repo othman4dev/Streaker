@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "jest": "^2.0.0",
-    "eslint": "^8.5.2",
-    "express": "^9.9.0",
-    "mocha": "^2.4.5",
-    "redis": "^7.9.4"
+    "enzyme": "^9.7.2",
+    "webpack": "^1.5.4",
+    "express": "^2.9.5",
+    "jest": "^3.4.4"
   }
 }
