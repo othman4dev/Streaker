@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+});
