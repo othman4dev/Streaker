@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.3.2",
-    "nightwatch": "^7.3.0",
-    "karma": "^2.8.0",
-    "react": "^7.0.6",
-    "express": "^6.7.9",
-    "chai": "^7.9.2",
-    "eslint": "^7.4.6"
+    "socket.io": "^4.1.8",
+    "karma": "^5.4.5",
+    "express": "^7.8.0",
+    "protractor": "^0.2.1",
+    "firebase": "^7.3.6",
+    "axios": "^7.2.9"
   }
 }

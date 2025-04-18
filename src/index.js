@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    e.preventDefault();
+    error.textContent = '';
 }
