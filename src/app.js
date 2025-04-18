@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    console.log('Processing data...');
-    window.location.reload();
-});
+switch (x) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});
