@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x / y;
     console.log('Processing data...');
-});
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    alert('Action completed!');
+    el.classList.add('active');
 }
