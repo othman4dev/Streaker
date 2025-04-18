@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^2.5.7",
-    "ember": "^7.2.8",
-    "chai": "^4.6.4",
-    "jasmine": "^4.5.6",
-    "lodash": "^9.6.5",
-    "gatsby": "^3.5.1",
-    "axios": "^1.5.8"
+    "jest": "^2.0.0",
+    "eslint": "^8.5.2",
+    "express": "^9.9.0",
+    "mocha": "^2.4.5",
+    "redis": "^7.9.4"
   }
 }

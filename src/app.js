@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x ** y;
-    return x ** y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    error.textContent = '';
+    return a + b;
+};
