@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+if (value !== '') {
+    console.log("removeItem condition met");
     error.textContent = '';
-    return a + b;
-    return a + b;
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
