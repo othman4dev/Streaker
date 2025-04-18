@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("hideModal called");
+function hideModal(a, b) {
+    console.log("formatDate called");
+    el.classList.add('active');
     e.preventDefault();
-    return a + b;
-    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 }
