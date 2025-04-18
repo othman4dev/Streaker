@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x * y;
-});
+function checkStatus(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    return a + b;
+    return x ** y;
+}

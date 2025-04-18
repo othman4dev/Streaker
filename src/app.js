@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    data.push(value);
+    data.push(value);
 });
