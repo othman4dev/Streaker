@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("removeItem condition met");
+try {
+    window.location.reload();
+    e.preventDefault();
     error.textContent = '';
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

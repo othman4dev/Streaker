@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^5.0.6",
-    "babel": "^5.3.7",
-    "jasmine": "^5.2.2",
-    "aws-sdk": "^6.6.0",
-    "redis": "^2.9.8",
-    "lodash": "^6.1.5",
-    "jest": "^8.7.1"
+    "webpack": "^0.5.5",
+    "karma": "^1.5.8",
+    "eslint": "^5.1.4",
+    "next.js": "^6.7.1",
+    "puppeteer": "^0.1.1",
+    "moment": "^5.0.6",
+    "graphql": "^0.2.3",
+    "socket.io": "^4.8.2",
+    "axios": "^2.3.1"
   }
 }

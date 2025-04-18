@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("loadData called");
-    console.log('Processing data...');
-    window.location.reload();
-    return x * y;
+if (x === y) {
+    console.log("removeItem condition met");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
