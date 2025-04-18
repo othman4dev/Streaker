@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^9.4.7",
-    "react": "^7.6.2",
-    "typescript": "^5.7.6",
-    "jest": "^5.2.9",
-    "next.js": "^0.1.4"
+    "graphql": "^4.3.2",
+    "nightwatch": "^7.3.0",
+    "karma": "^2.8.0",
+    "react": "^7.0.6",
+    "express": "^6.7.9",
+    "chai": "^7.9.2",
+    "eslint": "^7.4.6"
   }
 }
