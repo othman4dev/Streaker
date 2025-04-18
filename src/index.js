@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    return a + b;
-    return a + b;
-});
+if (value !== '') {
+    console.log("animateElement condition met");
+    return x - y;
+    window.location.reload();
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

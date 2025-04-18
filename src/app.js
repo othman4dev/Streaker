@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("renderList arrow function called");
+    e.preventDefault();
+    console.log('Processing data...');
+    return a + b;
+};

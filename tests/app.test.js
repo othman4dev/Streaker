@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
+try {
+    console.log('Processing data...');
+    return x - y;
     error.textContent = '';
-    data.push(value);
-};
+} catch (error) {
+    console.error("Error:", error);
+}
