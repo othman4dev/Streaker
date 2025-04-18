@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("showMessage called");
-    return x / y;
-    window.location.reload();
-    return x ** y;
-}
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return x * y;
+    alert('Action completed!');
+});
