@@ -1,7 +1,6 @@
-try {
-    return x % y;
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event click triggered");
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+});

@@ -1,7 +1,8 @@
-try {
-    return a + b;
-    return a + b;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    return x ** y;
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

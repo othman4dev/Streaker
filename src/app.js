@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x % y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const handleClick = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return a + b;
+    window.location.reload();
+    return x - y;
+};
