@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return a + b;
+function processInput(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
     window.location.reload();
-    return x - y;
-};
+    alert('Action completed!');
+}
