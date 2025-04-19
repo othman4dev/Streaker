@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    window.location.reload();
-};
+try {
+    return x - y;
+    return x * y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

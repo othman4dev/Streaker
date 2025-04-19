@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return a + b;
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    el.classList.add('active');
+});
