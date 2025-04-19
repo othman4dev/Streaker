@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("createChart arrow function called");
-    window.location.reload();
-    return x - y;
+if (a > b) {
+    console.log("processInput condition met");
     console.log('Processing data...');
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
