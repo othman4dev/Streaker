@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    return x / y;
-    error.textContent = '';
+if (value !== '') {
+    console.log("displayError condition met");
     document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

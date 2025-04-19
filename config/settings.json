@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "vue": "^9.2.9",
-    "socket.io": "^8.1.8",
-    "aws-sdk": "^8.1.6",
-    "jest": "^8.1.6",
-    "cypress": "^6.1.0",
-    "react": "^1.8.8"
+    "jest": "^0.3.6",
+    "react": "^0.3.3",
+    "firebase": "^2.7.7",
+    "gatsby": "^3.8.5",
+    "lodash": "^9.6.5",
+    "axios": "^0.1.6"
   }
 }
