@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    return a + b;
+try {
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-});
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

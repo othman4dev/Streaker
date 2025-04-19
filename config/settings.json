@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^6.7.1",
-    "chai": "^7.6.1",
-    "typescript": "^9.2.6",
-    "jest": "^2.5.4",
-    "jasmine": "^9.2.8",
-    "eslint": "^3.9.3",
-    "vue": "^0.1.7"
+    "svelte": "^9.0.2",
+    "enzyme": "^4.2.1",
+    "mysql": "^7.2.8",
+    "gatsby": "^4.8.1",
+    "sinon": "^3.9.9",
+    "chai": "^9.2.7"
   }
 }

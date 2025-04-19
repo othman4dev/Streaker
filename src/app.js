@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
+try {
+    return x / y;
+    return x % y;
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+} catch (error) {
+    console.error("Error:", error);
+}

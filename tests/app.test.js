@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return a + b;
+    return a + b;
     data.push(value);
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
