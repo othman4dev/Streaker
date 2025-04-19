@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("renderList arrow function called");
+try {
+    return x ** y;
     e.preventDefault();
-    console.log('Processing data...');
-    return a + b;
-};
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

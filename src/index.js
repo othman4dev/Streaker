@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    return x - y;
-    window.location.reload();
-    return x % y;
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return x / y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }

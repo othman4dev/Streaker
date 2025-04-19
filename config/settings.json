@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^3.8.8",
-    "next.js": "^9.6.1",
-    "mocha": "^2.6.2",
-    "nightwatch": "^3.6.6",
-    "gatsby": "^1.0.2"
+    "vue": "^9.2.9",
+    "socket.io": "^8.1.8",
+    "aws-sdk": "^8.1.6",
+    "jest": "^8.1.6",
+    "cypress": "^6.1.0",
+    "react": "^1.8.8"
   }
 }
