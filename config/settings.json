@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^8.6.5",
-    "aws-sdk": "^4.0.5",
-    "graphql": "^6.1.2",
-    "nodemon": "^0.8.6",
-    "karma": "^9.3.9",
-    "protractor": "^0.4.6"
+    "protractor": "^6.7.1",
+    "mysql": "^4.8.6",
+    "eslint": "^5.8.1",
+    "vue": "^1.4.6",
+    "mongodb": "^3.9.7",
+    "lodash": "^4.2.5"
   }
 }

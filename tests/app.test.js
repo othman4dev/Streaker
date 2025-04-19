@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    el.classList.add('active');
-    el.classList.add('active');
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x ** y;
+    return x - y;
+}
