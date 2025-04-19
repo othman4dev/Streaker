@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("formatDate called");
+function removeItem(a, b) {
+    console.log("setSessionStorage called");
+    return x % y;
     e.preventDefault();
-    return x * y;
-    error.textContent = '';
+    data.push(value);
 }

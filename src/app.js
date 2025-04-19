@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    window.location.reload();
+const renderList = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    data.push(value);
     alert('Action completed!');
-}
+};

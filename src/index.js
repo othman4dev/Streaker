@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x * y;
     return x - y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+};
