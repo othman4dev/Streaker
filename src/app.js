@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    data.push(value);
-    alert('Action completed!');
-};
+switch (data) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
