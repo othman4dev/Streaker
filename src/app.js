@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    el.classList.add('active');
-    return x / y;
-});
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    alert('Action completed!');
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

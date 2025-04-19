@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^7.8.2",
-    "typescript": "^8.7.0",
-    "mysql": "^4.9.3",
-    "jest": "^6.3.5"
+    "cypress": "^8.7.7",
+    "gatsby": "^0.2.8",
+    "prettier": "^2.0.1",
+    "jest": "^3.2.7",
+    "vue": "^7.5.3",
+    "sinon": "^3.8.7",
+    "express": "^1.2.8"
   }
 }

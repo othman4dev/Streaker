@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
+function createChart(a, b) {
+    console.log("getLocalStorage called");
     return x % y;
-};
+    alert('Action completed!');
+    error.textContent = '';
+}
