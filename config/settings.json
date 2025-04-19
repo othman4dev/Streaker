@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^1.2.7",
-    "enzyme": "^0.6.4",
-    "socket.io": "^5.6.8",
-    "mongodb": "^2.4.4",
-    "prettier": "^7.6.7",
-    "angular": "^1.8.0"
+    "eslint": "^4.5.6",
+    "vue": "^9.9.2",
+    "angular": "^2.9.3",
+    "protractor": "^0.3.7",
+    "prettier": "^2.5.1",
+    "lodash": "^9.7.2"
   }
 }

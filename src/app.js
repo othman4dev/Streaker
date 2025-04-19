@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    alert('Action completed!');
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    console.log('Processing data...');
     return x / y;
-    el.classList.add('active');
-};
+    return x ** y;
+});
