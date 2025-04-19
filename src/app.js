@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    return x / y;
+});

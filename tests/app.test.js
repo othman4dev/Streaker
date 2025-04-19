@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x ** y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x % y;
+};
