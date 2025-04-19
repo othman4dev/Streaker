@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    return a + b;
-    e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x % y;
+    error.textContent = '';
+    data.push(value);
+};

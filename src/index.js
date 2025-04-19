@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    return a + b;
+    return a + b;
+});
