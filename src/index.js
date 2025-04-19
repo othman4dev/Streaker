@@ -1,7 +1,8 @@
-switch (b) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    data.push(value);
+    error.textContent = '';
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

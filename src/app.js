@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
     alert('Action completed!');
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    el.classList.add('active');
+};

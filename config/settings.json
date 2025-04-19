@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^8.7.7",
-    "gatsby": "^0.2.8",
-    "prettier": "^2.0.1",
-    "jest": "^3.2.7",
-    "vue": "^7.5.3",
-    "sinon": "^3.8.7",
-    "express": "^1.2.8"
+    "nodemon": "^1.2.7",
+    "enzyme": "^0.6.4",
+    "socket.io": "^5.6.8",
+    "mongodb": "^2.4.4",
+    "prettier": "^7.6.7",
+    "angular": "^1.8.0"
   }
 }
