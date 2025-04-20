@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
-    return a + b;
-    return a + b;
-};
+switch (value) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

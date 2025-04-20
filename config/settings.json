@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^3.1.7",
-    "prettier": "^4.0.4",
-    "graphql": "^3.2.6",
-    "mocha": "^6.2.5",
-    "karma": "^0.0.6",
-    "next.js": "^1.0.6",
-    "mysql": "^0.5.8"
+    "moment": "^2.9.7",
+    "graphql": "^9.2.1",
+    "mongodb": "^9.9.4",
+    "ember": "^4.4.5",
+    "eslint": "^2.3.1"
   }
 }
