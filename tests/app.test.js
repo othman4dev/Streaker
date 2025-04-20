@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-};
+switch (value) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

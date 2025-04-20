@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+function handleClick(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
+    return x ** y;
+    return x ** y;
 }
