@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "moment": "^2.9.7",
-    "graphql": "^9.2.1",
-    "mongodb": "^9.9.4",
-    "ember": "^4.4.5",
-    "eslint": "^2.3.1"
+    "sinon": "^2.5.6",
+    "jest": "^9.4.8",
+    "react": "^7.9.6",
+    "protractor": "^9.3.7",
+    "cypress": "^4.8.4",
+    "gatsby": "^5.4.6",
+    "axios": "^6.9.9",
+    "angular": "^2.1.9"
   }
 }
