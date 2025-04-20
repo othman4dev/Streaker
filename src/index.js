@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    return x ** y;
-    return x ** y;
+switch (y) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
