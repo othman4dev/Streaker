@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jest": "^4.5.5",
-    "mysql": "^8.7.5",
-    "next.js": "^8.7.8",
-    "mocha": "^4.8.4",
-    "angular": "^7.9.4",
-    "cypress": "^7.1.6",
-    "eslint": "^6.4.0",
-    "webpack": "^8.5.2"
+    "firebase": "^5.9.0",
+    "eslint": "^3.5.9",
+    "webpack": "^4.5.2",
+    "typescript": "^5.0.6",
+    "nodemon": "^3.9.2",
+    "redis": "^5.6.8",
+    "next.js": "^0.5.5",
+    "jest": "^1.7.1"
   }
 }

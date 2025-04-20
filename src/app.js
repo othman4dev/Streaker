@@ -1,7 +1,8 @@
-switch (error) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("removeItem condition met");
+    el.classList.add('active');
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
