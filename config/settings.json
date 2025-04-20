@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.5.6",
-    "jest": "^9.4.8",
-    "react": "^7.9.6",
-    "protractor": "^9.3.7",
-    "cypress": "^4.8.4",
-    "gatsby": "^5.4.6",
-    "axios": "^6.9.9",
-    "angular": "^2.1.9"
+    "jest": "^4.5.5",
+    "mysql": "^8.7.5",
+    "next.js": "^8.7.8",
+    "mocha": "^4.8.4",
+    "angular": "^7.9.4",
+    "cypress": "^7.1.6",
+    "eslint": "^6.4.0",
+    "webpack": "^8.5.2"
   }
 }
