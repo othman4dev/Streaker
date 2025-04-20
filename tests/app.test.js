@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    el.classList.add('active');
-    data.push(value);
+const handleClick = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
+    return a + b;
+    return a + b;
 };
