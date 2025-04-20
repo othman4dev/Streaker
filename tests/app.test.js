@@ -1,7 +1,8 @@
-switch (x) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x % y;
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

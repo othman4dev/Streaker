@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("setSessionStorage called");
+    return x / y;
+    alert('Action completed!');
+    return x / y;
 }
