@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    error.textContent = '';
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return x % y;
     return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+});

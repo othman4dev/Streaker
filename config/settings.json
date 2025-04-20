@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^3.6.1",
-    "next.js": "^3.3.4",
-    "sinon": "^7.8.3",
-    "mysql": "^9.7.5",
-    "jest": "^8.4.5",
-    "protractor": "^8.7.1",
-    "moment": "^0.6.9"
+    "angular": "^0.3.8",
+    "socket.io": "^8.3.9",
+    "eslint": "^1.4.1",
+    "prettier": "^6.5.9",
+    "mocha": "^8.1.0"
   }
 }
