@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "jest": "^7.4.3",
-    "cypress": "^8.5.4",
-    "sinon": "^2.9.6",
-    "typescript": "^6.4.8",
-    "svelte": "^0.8.0",
-    "protractor": "^9.1.5",
-    "next.js": "^5.7.5",
-    "webpack": "^8.8.3"
+    "jasmine": "^6.4.0",
+    "angular": "^0.4.5",
+    "jest": "^0.1.9",
+    "cypress": "^4.2.8",
+    "typescript": "^2.9.6",
+    "babel": "^8.5.9",
+    "eslint": "^0.7.2"
   }
 }

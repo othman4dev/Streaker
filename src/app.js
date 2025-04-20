@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return a + b;
-    return x ** y;
-}
+const setCookie = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x / y;
+    window.location.reload();
+    console.log('Processing data...');
+};
