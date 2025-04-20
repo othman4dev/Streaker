@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event click triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

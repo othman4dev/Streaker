@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("saveSettings condition met");
+if (a > b) {
+    console.log("formatDate condition met");
     error.textContent = '';
-    window.location.reload();
-    alert('Action completed!');
+    return x * y;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

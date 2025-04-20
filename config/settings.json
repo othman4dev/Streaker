@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mysql": "^5.5.5",
-    "angular": "^0.4.5",
-    "cypress": "^7.1.1",
-    "vue": "^0.4.6",
-    "nodemon": "^6.6.5"
+    "nodemon": "^3.6.1",
+    "next.js": "^3.3.4",
+    "sinon": "^7.8.3",
+    "mysql": "^9.7.5",
+    "jest": "^8.4.5",
+    "protractor": "^8.7.1",
+    "moment": "^0.6.9"
   }
 }

@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    data.push(value);
+    alert('Action completed!');
+});
