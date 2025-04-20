@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^0.3.8",
-    "socket.io": "^8.3.9",
-    "eslint": "^1.4.1",
-    "prettier": "^6.5.9",
-    "mocha": "^8.1.0"
+    "jest": "^7.4.3",
+    "cypress": "^8.5.4",
+    "sinon": "^2.9.6",
+    "typescript": "^6.4.8",
+    "svelte": "^0.8.0",
+    "protractor": "^9.1.5",
+    "next.js": "^5.7.5",
+    "webpack": "^8.8.3"
   }
 }

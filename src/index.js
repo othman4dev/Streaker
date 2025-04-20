@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event blur triggered");
     alert('Action completed!');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    data.push(value);
+});

@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    return x % y;
-    return x * y;
-    e.preventDefault();
-});
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return a + b;
+    error.textContent = '';
+}
