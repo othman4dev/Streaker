@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x / y;
-    window.location.reload();
-    console.log('Processing data...');
-};
+function setSessionStorage(a, b) {
+    console.log("handleClick called");
+    data.push(value);
+    return x * y;
+    return x ** y;
+}

@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    el.classList.add('active');
-    error.textContent = '';
+function validateInput(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 }
