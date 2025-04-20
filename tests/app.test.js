@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    return x % y;
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    data.push(value);
+};

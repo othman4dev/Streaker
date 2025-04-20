@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
+const showMessage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 };
