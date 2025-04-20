@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    el.classList.add('active');
-    return x / y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    return x ** y;
+    alert('Action completed!');
+});

@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("submitForm condition met");
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
