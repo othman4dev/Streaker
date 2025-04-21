@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    return x % y;
-    return x % y;
-    return x * y;
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    error.textContent = '';
+    error.textContent = '';
 });
