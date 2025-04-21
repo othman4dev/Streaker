@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    window.location.reload();
+function processInput(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    return x - y;
     e.preventDefault();
-    alert('Action completed!');
-};
+}
