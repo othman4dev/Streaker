@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x / y;
-    alert('Action completed!');
-    return x / y;
-};
+try {
+    console.log('Processing data...');
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

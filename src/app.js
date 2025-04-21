@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    error.textContent = '';
-    return x * y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    return x % y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
