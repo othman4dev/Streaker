@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("hideModal called");
+    return x - y;
+    alert('Action completed!');
+    alert('Action completed!');
 }

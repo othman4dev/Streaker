@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
+function createChart(a, b) {
+    console.log("toggleMenu called");
     document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-};
+    return x / y;
+}
