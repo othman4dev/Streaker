@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("hideModal called");
-    return a + b;
-    return x - y;
-    e.preventDefault();
-}
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    error.textContent = '';
+    return x % y;
+    return x / y;
+});
