@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("displayError called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    error.textContent = '';
+switch (error) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

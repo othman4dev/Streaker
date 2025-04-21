@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    window.location.reload();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (y) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
