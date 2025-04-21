@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    return x % y;
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     window.location.reload();
-});
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};

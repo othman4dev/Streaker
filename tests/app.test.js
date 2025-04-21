@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
+if (a > b) {
+    console.log("updateUI condition met");
+    alert('Action completed!');
+    el.classList.add('active');
     return x ** y;
-    window.location.reload();
-    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
