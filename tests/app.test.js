@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("hideModal called");
-    return a + b;
-    return x / y;
-    e.preventDefault();
+switch (data) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

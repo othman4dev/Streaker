@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    return x % y;
-    return x % y;
-});
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    console.log('Processing data...');
+    data.push(value);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
