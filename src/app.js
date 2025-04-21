@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("hideModal called");
-    return x - y;
+const setSessionStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    e.preventDefault();
     alert('Action completed!');
-    alert('Action completed!');
-}
+};
