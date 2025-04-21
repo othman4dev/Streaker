@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("updateUI condition met");
+function hideModal(a, b) {
+    console.log("setCookie called");
     alert('Action completed!');
-    el.classList.add('active');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    console.log('Processing data...');
 }

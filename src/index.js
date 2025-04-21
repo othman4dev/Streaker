@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+const showMessage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    alert('Action completed!');
+    return x / y;
 };
