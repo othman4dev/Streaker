@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    alert('Action completed!');
+function formatDate(a, b) {
+    console.log("removeItem called");
     return x % y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+}
