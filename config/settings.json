@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "babel": "^1.6.0",
-    "mocha": "^4.7.9",
-    "eslint": "^4.2.4",
-    "nodemon": "^5.5.9",
-    "puppeteer": "^5.4.3"
+    "protractor": "^4.9.9",
+    "svelte": "^8.5.9",
+    "webpack": "^0.0.9",
+    "mocha": "^7.9.9",
+    "cypress": "^8.6.3"
   }
 }

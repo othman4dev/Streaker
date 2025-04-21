@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    return x ** y;
-    return a + b;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }

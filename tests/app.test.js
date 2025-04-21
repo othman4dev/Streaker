@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("processInput arrow function called");
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event change triggered");
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    error.textContent = '';
-};
+    return x * y;
+    return a + b;
+});
