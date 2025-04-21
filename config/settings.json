@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "express": "^2.8.2",
-    "lodash": "^5.0.0",
-    "react": "^7.4.1",
-    "graphql": "^6.5.9",
-    "karma": "^7.2.8",
-    "jest": "^7.6.2"
+    "puppeteer": "^2.3.6",
+    "svelte": "^7.3.6",
+    "chai": "^3.2.8",
+    "nightwatch": "^5.9.1",
+    "protractor": "^4.1.0"
   }
 }

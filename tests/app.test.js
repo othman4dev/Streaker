@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
+const updateUI = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x / y;
+    window.location.reload();
     return x % y;
 };

@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    return x * y;
     return x % y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+});
