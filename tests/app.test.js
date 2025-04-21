@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x % y;
-};
+function hideModal(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    return x / y;
+    e.preventDefault();
+}

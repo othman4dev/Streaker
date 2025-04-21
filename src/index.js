@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    return x * y;
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    return x % y;
+    return x % y;
 });

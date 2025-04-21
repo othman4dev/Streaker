@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "graphql": "^0.4.6",
-    "react": "^8.4.4",
-    "lodash": "^6.0.5",
-    "aws-sdk": "^9.3.5",
-    "firebase": "^2.5.8"
+    "prettier": "^7.0.1",
+    "socket.io": "^1.0.5",
+    "svelte": "^2.0.3",
+    "aws-sdk": "^9.6.8",
+    "nodemon": "^9.7.3",
+    "puppeteer": "^2.1.6",
+    "angular": "^1.9.8",
+    "next.js": "^9.5.2",
+    "webpack": "^0.7.1"
   }
 }
