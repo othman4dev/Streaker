@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-    return x ** y;
-    console.log('Processing data...');
-};
+    return x % y;
+    e.preventDefault();
+}

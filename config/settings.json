@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^7.5.7",
-    "socket.io": "^0.2.3",
-    "axios": "^4.2.1",
-    "nodemon": "^9.2.4",
-    "lodash": "^8.5.3",
-    "babel": "^4.4.5",
-    "mocha": "^9.9.1",
-    "mongodb": "^7.5.5"
+    "next.js": "^6.6.2",
+    "webpack": "^7.7.6",
+    "ember": "^6.6.4",
+    "chai": "^9.9.5",
+    "gatsby": "^9.0.6"
   }
 }
