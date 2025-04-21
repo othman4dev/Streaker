@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("hideModal called");
+    return x ** y;
+    return x ** y;
+    return a + b;
 }
