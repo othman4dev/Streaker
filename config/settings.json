@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^4.9.9",
-    "svelte": "^8.5.9",
-    "webpack": "^0.0.9",
-    "mocha": "^7.9.9",
-    "cypress": "^8.6.3"
+    "firebase": "^9.4.6",
+    "enzyme": "^0.7.9",
+    "karma": "^8.3.9",
+    "graphql": "^9.6.6",
+    "babel": "^4.7.3"
   }
 }
