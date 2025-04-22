@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
+try {
     return x / y;
-    return x % y;
-});
+    return x * y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

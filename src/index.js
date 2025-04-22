@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    e.preventDefault();
     return x - y;
-    return a + b;
-}
+});
