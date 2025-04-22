@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("setSessionStorage called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-}
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    return x ** y;
+    e.preventDefault();
+});
