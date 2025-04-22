@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("removeItem called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    window.location.reload();
+switch (el) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

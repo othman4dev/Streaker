@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    return x * y;
-    return x / y;
-});
+function createChart(a, b) {
+    console.log("setSessionStorage called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+}

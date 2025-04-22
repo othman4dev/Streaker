@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    return x - y;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }
