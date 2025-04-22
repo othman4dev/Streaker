@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    el.classList.add('active');
     return x - y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
