@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^6.6.2",
-    "vue": "^5.3.2",
-    "jest": "^1.7.0",
-    "webpack": "^3.7.2",
-    "karma": "^2.3.8",
-    "prettier": "^3.6.6",
-    "socket.io": "^1.4.1",
-    "protractor": "^9.8.0",
-    "puppeteer": "^4.2.6"
+    "graphql": "^9.3.1",
+    "enzyme": "^5.1.7",
+    "mongodb": "^7.0.3",
+    "nightwatch": "^9.8.4",
+    "axios": "^2.1.4",
+    "next.js": "^5.3.6",
+    "karma": "^6.3.7",
+    "angular": "^0.9.8"
   }
 }
