@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event blur triggered");
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return a + b;
-    return x ** y;
-    e.preventDefault();
-});
+    error.textContent = '';
+    alert('Action completed!');
+};

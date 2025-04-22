@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
+function displayError(a, b) {
+    console.log("validateInput called");
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x ** y;
-});
+    return x - y;
+    return a + b;
+}
