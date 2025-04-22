@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("submitForm called");
-    data.push(value);
-    el.classList.add('active');
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     return x * y;
+    return x % y;
 }

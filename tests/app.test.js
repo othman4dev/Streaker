@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    return a + b;
-};
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    e.preventDefault();
+    return x - y;
+}
