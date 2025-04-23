@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    return x - y;
-    el.classList.add('active');
-});
+try {
+    return x / y;
+    data.push(value);
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

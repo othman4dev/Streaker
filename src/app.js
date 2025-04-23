@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    error.textContent = '';
-    data.push(value);
-    el.classList.add('active');
-};
+switch (value) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
