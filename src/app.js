@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    data.push(value);
-    return a + b;
+try {
+    alert('Action completed!');
+    return x * y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

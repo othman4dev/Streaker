@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    e.preventDefault();
-    alert('Action completed!');
-    data.push(value);
-};
+try {
+    el.classList.add('active');
+    return x / y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
