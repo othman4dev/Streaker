@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jasmine": "^8.0.7",
-    "nightwatch": "^8.3.6",
-    "gatsby": "^6.4.2",
-    "socket.io": "^8.5.5",
-    "react": "^9.6.8",
-    "nodemon": "^1.7.5"
+    "moment": "^3.7.9",
+    "socket.io": "^8.4.4",
+    "svelte": "^5.1.6",
+    "sinon": "^1.0.9",
+    "nodemon": "^0.9.3",
+    "mysql": "^4.2.5",
+    "mongodb": "^7.6.3"
   }
 }

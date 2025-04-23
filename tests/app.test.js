@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    return x - y;
-    e.preventDefault();
-});
+try {
+    data.push(value);
+    el.classList.add('active');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

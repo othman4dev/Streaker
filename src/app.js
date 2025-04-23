@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
-    return x ** y;
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    data.push(value);
     return a + b;
-};
+}
