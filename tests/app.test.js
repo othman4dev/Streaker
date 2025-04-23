@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x - y;
     e.preventDefault();
-};
+});

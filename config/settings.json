@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^7.0.8",
-    "prettier": "^9.3.4",
-    "jest": "^5.4.5",
-    "mocha": "^1.8.2",
-    "firebase": "^0.8.3",
-    "eslint": "^0.9.9"
+    "jasmine": "^8.0.7",
+    "nightwatch": "^8.3.6",
+    "gatsby": "^6.4.2",
+    "socket.io": "^8.5.5",
+    "react": "^9.6.8",
+    "nodemon": "^1.7.5"
   }
 }

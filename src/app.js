@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x % y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    window.location.reload();
+    return x ** y;
+    return a + b;
+};
