@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^7.4.2",
-    "mocha": "^7.5.3",
-    "graphql": "^0.5.3",
-    "typescript": "^2.2.7",
-    "moment": "^7.9.2",
-    "jest": "^3.9.2",
-    "react": "^0.8.6"
+    "socket.io": "^7.0.8",
+    "prettier": "^9.3.4",
+    "jest": "^5.4.5",
+    "mocha": "^1.8.2",
+    "firebase": "^0.8.3",
+    "eslint": "^0.9.9"
   }
 }
