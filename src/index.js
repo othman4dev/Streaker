@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x ** y;
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    error.textContent = '';
+    return x / y;
+    el.classList.add('active');
+});

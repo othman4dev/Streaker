@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    console.log('Processing data...');
     data.push(value);
-    return a + b;
-}
+    return x ** y;
+};
