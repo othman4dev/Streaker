@@ -1,7 +1,7 @@
-try {
-    alert('Action completed!');
-    return x * y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+switch (error) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

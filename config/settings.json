@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^6.0.7",
-    "nodemon": "^2.8.2",
-    "vue": "^6.9.7",
-    "jasmine": "^3.2.5",
-    "angular": "^9.1.4",
-    "enzyme": "^6.9.7",
-    "sinon": "^7.7.5"
+    "express": "^3.5.7",
+    "moment": "^9.3.2",
+    "jest": "^2.6.4",
+    "sinon": "^8.3.1",
+    "webpack": "^8.5.7",
+    "mocha": "^7.4.3",
+    "socket.io": "^3.3.9",
+    "axios": "^5.2.7"
   }
 }
