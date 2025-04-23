@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
+const setCookie = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    error.textContent = '';
     data.push(value);
-    return x ** y;
+    el.classList.add('active');
 };

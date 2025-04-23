@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return x ** y;
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+});

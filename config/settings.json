@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^2.3.2",
-    "gatsby": "^8.9.7",
-    "protractor": "^9.6.3",
-    "graphql": "^6.9.5",
-    "jest": "^6.1.9",
-    "cypress": "^7.4.5",
-    "prettier": "^7.4.7"
+    "redis": "^8.2.8",
+    "angular": "^1.6.0",
+    "babel": "^3.1.2",
+    "jasmine": "^0.3.9",
+    "gatsby": "^3.7.2",
+    "karma": "^2.4.9",
+    "aws-sdk": "^9.0.3",
+    "mongodb": "^7.8.8"
   }
 }

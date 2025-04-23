@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
-    return x / y;
-    el.classList.add('active');
-});
+switch (b) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
