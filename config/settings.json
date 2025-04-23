@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^7.3.9",
-    "jest": "^0.5.2",
-    "mysql": "^1.1.0",
-    "lodash": "^8.4.7",
-    "typescript": "^4.5.9",
-    "socket.io": "^6.4.1"
+    "enzyme": "^0.6.1",
+    "mocha": "^7.7.8",
+    "eslint": "^1.5.3",
+    "cypress": "^8.6.5",
+    "redis": "^9.0.2",
+    "socket.io": "^1.6.6",
+    "sinon": "^3.4.9",
+    "mysql": "^9.5.9"
   }
 }
