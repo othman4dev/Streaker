@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
+function formatDate(a, b) {
+    console.log("saveSettings called");
     console.log('Processing data...');
-    console.log('Processing data...');
+    data.push(value);
+    return a + b;
 }

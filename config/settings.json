@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "chai": "^6.5.9",
-    "redis": "^9.9.0",
-    "mongodb": "^2.8.8",
-    "nodemon": "^2.5.0",
-    "jasmine": "^5.1.9",
-    "express": "^4.6.7",
-    "webpack": "^8.2.1",
-    "react": "^5.8.7"
+    "svelte": "^8.7.3",
+    "redis": "^7.5.4",
+    "mysql": "^2.0.9",
+    "socket.io": "^1.1.8",
+    "eslint": "^1.2.4"
   }
 }

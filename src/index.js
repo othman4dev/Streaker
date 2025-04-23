@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return x % y;
-    console.log('Processing data...');
-});
+function removeItem(a, b) {
+    console.log("formatDate called");
+    return x * y;
+    return x - y;
+    return x ** y;
+}
