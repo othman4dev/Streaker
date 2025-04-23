@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x - y;
-    return x % y;
-    alert('Action completed!');
-};
+function fetchData(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    console.log('Processing data...');
+}

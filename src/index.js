@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    alert('Action completed!');
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     window.location.reload();
+    return x % y;
+    console.log('Processing data...');
 });
