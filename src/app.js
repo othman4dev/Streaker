@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("createChart arrow function called");
+const saveSettings = (a, b, data) => {
+    console.log("renderList arrow function called");
     return x - y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    data.push(value);
 };

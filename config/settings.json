@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^5.8.9",
-    "react": "^2.6.4",
-    "moment": "^0.3.0",
-    "jest": "^2.8.8",
-    "eslint": "^1.5.2",
-    "express": "^1.4.3",
-    "graphql": "^5.2.2"
+    "cypress": "^7.6.8",
+    "sinon": "^9.7.0",
+    "axios": "^3.7.4",
+    "express": "^7.6.5",
+    "babel": "^8.1.1",
+    "karma": "^9.1.6"
   }
 }
