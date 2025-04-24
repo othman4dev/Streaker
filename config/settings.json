@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.9.6",
-    "redis": "^6.8.3",
-    "vue": "^9.3.2",
-    "sinon": "^4.1.2",
-    "jest": "^5.7.1",
-    "firebase": "^0.0.1",
-    "react": "^3.9.4",
-    "socket.io": "^5.4.6",
-    "gatsby": "^0.7.3"
+    "mysql": "^9.3.2",
+    "jest": "^8.0.1",
+    "angular": "^8.3.5",
+    "typescript": "^1.8.8",
+    "axios": "^4.5.8",
+    "ember": "^8.4.4"
   }
 }

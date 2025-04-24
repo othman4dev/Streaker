@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
+    return x / y;
+    window.location.reload();
 }

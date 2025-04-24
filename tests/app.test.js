@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    console.log('Processing data...');
-    data.push(value);
-}
+const removeItem = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return a + b;
+    alert('Action completed!');
+    e.preventDefault();
+};
