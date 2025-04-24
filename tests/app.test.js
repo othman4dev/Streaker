@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
-    data.push(value);
-    return x / y;
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
+    return a + b;
     window.location.reload();
-}
+});

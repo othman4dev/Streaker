@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("processInput condition met");
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+});
