@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("loadData called");
-    e.preventDefault();
-    return x / y;
-    window.location.reload();
+if (x !== y) {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

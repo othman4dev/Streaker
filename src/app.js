@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event focus triggered");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x - y;
 });

@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return a + b;
-    alert('Action completed!');
-    e.preventDefault();
-};
+function removeItem(a, b) {
+    console.log("hideModal called");
+    data.push(value);
+    return x / y;
+    window.location.reload();
+}
