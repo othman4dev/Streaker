@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    return a + b;
-    window.location.reload();
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    el.classList.add('active');
+    el.classList.add('active');
+}

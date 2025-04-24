@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x - y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};

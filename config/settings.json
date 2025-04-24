@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^3.6.6",
-    "enzyme": "^7.8.0",
-    "jest": "^2.3.2",
-    "svelte": "^3.2.6",
-    "sinon": "^2.4.0",
-    "karma": "^3.4.7",
-    "mongodb": "^0.9.5",
-    "cypress": "^6.6.5"
+    "mocha": "^5.8.9",
+    "react": "^2.6.4",
+    "moment": "^0.3.0",
+    "jest": "^2.8.8",
+    "eslint": "^1.5.2",
+    "express": "^1.4.3",
+    "graphql": "^5.2.2"
   }
 }

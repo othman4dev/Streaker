@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    window.location.reload();
     alert('Action completed!');
-    e.preventDefault();
-});
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
