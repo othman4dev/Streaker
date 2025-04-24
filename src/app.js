@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    return x % y;
-    return x % y;
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    return x / y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+});
