@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 }

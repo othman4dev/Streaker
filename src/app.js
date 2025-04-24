@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x - y;
-    e.preventDefault();
-    data.push(value);
-};
+if (a > b) {
+    console.log("formatDate condition met");
+    return x % y;
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
