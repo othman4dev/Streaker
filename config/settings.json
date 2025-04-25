@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "moment": "^7.7.5",
-    "angular": "^9.7.3",
-    "jest": "^7.2.8",
-    "graphql": "^1.2.6"
+    "enzyme": "^4.6.0",
+    "nodemon": "^7.3.2",
+    "gatsby": "^7.5.3",
+    "prettier": "^9.3.2",
+    "nightwatch": "^0.3.0"
   }
 }

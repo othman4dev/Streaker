@@ -1,7 +1,7 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    data.push(value);
+    return x ** y;
     alert('Action completed!');
 } else {
     console.log("Condition not met");
