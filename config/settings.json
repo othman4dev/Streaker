@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^4.0.7",
-    "next.js": "^0.4.9",
-    "mysql": "^9.4.0",
-    "typescript": "^1.0.2",
-    "gatsby": "^6.0.5",
-    "angular": "^1.8.2"
+    "gatsby": "^7.8.0",
+    "webpack": "^4.9.0",
+    "aws-sdk": "^9.9.6",
+    "typescript": "^8.5.9",
+    "axios": "^8.1.4",
+    "puppeteer": "^9.1.5",
+    "jest": "^2.0.8",
+    "vue": "^2.0.4",
+    "mongodb": "^2.9.4"
   }
 }
