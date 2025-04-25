@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^7.9.5",
-    "redis": "^0.6.7",
-    "graphql": "^5.0.0",
-    "react": "^5.0.8",
-    "babel": "^8.7.9",
-    "gatsby": "^3.8.6",
-    "protractor": "^9.0.7",
-    "aws-sdk": "^3.5.9"
+    "aws-sdk": "^2.6.3",
+    "lodash": "^9.9.7",
+    "react": "^9.7.2",
+    "chai": "^9.5.3",
+    "gatsby": "^9.0.5",
+    "mongodb": "^6.6.0"
   }
 }
