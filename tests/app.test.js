@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event click triggered");
-    return x % y;
-    error.textContent = '';
-    return x - y;
-});
+try {
+    alert('Action completed!');
+    return x / y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
