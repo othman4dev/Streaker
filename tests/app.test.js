@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    return x * y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x % y;
+    error.textContent = '';
+    return x - y;
+});

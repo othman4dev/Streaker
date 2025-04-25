@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    return x ** y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+function updateUI(a, b) {
+    console.log("validateInput called");
+    el.classList.add('active');
+    e.preventDefault();
+    data.push(value);
 }

@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^9.4.0",
-    "prettier": "^6.7.7",
-    "firebase": "^7.0.2",
-    "nightwatch": "^5.8.5",
-    "chai": "^8.0.6",
-    "aws-sdk": "^8.8.9",
-    "vue": "^7.4.4"
+    "svelte": "^8.0.9",
+    "karma": "^9.6.3",
+    "react": "^7.8.8",
+    "eslint": "^5.0.9",
+    "prettier": "^2.9.4",
+    "redis": "^0.4.2"
   }
 }
