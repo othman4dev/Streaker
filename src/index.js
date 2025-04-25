@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("setCookie called");
-    return x % y;
-    return x ** y;
-    error.textContent = '';
+if (value !== '') {
+    console.log("saveSettings condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
