@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    return x % y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    error.textContent = '';
     return a + b;
-});
+}
