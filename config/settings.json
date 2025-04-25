@@ -1,7 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^6.4.6",
-    "cypress": "^9.1.4",
-    "react": "^2.0.6"
+    "axios": "^8.0.3",
+    "karma": "^5.1.4",
+    "gatsby": "^5.6.4",
+    "svelte": "^1.4.7",
+    "graphql": "^9.8.3",
+    "vue": "^9.9.0"
   }
 }

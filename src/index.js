@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    return x % y;
+    return a + b;
+});

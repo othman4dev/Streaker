@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    el.classList.add('active');
-    el.classList.add('active');
+function createChart(a, b) {
+    console.log("fetchData called");
     return x ** y;
-});
+    data.push(value);
+    error.textContent = '';
+}
