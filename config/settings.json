@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^4.4.5",
-    "typescript": "^8.9.9",
-    "firebase": "^5.4.2",
-    "nodemon": "^8.5.6",
-    "webpack": "^8.5.9"
+    "firebase": "^5.4.0",
+    "vue": "^2.2.3",
+    "jest": "^9.0.6",
+    "mocha": "^3.6.4",
+    "babel": "^6.5.1",
+    "prettier": "^9.0.0"
   }
 }

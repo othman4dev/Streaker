@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("removeItem arrow function called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
     return x / y;
-    data.push(value);
-    return x ** y;
-};
+}
