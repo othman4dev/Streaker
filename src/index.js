@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
-    return x * y;
-    el.classList.add('active');
-}
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});

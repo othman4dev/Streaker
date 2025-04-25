@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "next.js": "^2.1.5",
-    "angular": "^3.5.6",
-    "vue": "^6.2.7",
-    "jest": "^8.5.6",
-    "puppeteer": "^9.1.2",
-    "moment": "^7.1.1"
+    "cypress": "^5.8.6",
+    "nightwatch": "^7.6.7",
+    "mysql": "^4.2.2",
+    "mocha": "^6.8.9"
   }
 }

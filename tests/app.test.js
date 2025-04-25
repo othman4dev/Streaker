@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+function processInput(a, b) {
+    console.log("toggleMenu called");
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    return x - y;
 }

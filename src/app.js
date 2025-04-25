@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
-    el.classList.add('active');
-    return a + b;
-};
+if (value !== '') {
+    console.log("fetchData condition met");
+    console.log('Processing data...');
+    window.location.reload();
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
