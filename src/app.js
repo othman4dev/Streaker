@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
+function saveSettings(a, b) {
+    console.log("createChart called");
+    return x - y;
     alert('Action completed!');
-    return x ** y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    window.location.reload();
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    error.textContent = '';
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     return a + b;
-}
+});

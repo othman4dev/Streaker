@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
+for (let i = 0; i < 15; i++) {
     console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    data.push(value);
-    alert('Action completed!');
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }
