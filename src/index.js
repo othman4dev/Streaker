@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+const setSessionStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x - y;
+    el.classList.add('active');
     e.preventDefault();
-});
+};

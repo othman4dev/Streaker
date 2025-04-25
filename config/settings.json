@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^5.8.6",
-    "nightwatch": "^7.6.7",
-    "mysql": "^4.2.2",
-    "mocha": "^6.8.9"
+    "redis": "^1.9.8",
+    "enzyme": "^8.7.2",
+    "ember": "^8.6.7",
+    "mysql": "^9.1.5",
+    "nodemon": "^7.6.0",
+    "aws-sdk": "^7.7.6"
   }
 }
