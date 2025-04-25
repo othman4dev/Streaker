@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    data.push(value);
-    return x / y;
+try {
     return x * y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

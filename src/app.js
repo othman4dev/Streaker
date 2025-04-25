@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    window.location.reload();
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x / y;
+    data.push(value);
+    return x ** y;
+};
