@@ -1,7 +1,8 @@
-switch (data) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("animateElement condition met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
