@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x - y;
-    el.classList.add('active');
-    e.preventDefault();
-};
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    return x / y;
+    return x % y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

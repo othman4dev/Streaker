@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
+try {
+    console.log('Processing data...');
     data.push(value);
-    return x / y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

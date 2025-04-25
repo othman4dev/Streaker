@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "redis": "^1.9.8",
-    "enzyme": "^8.7.2",
-    "ember": "^8.6.7",
-    "mysql": "^9.1.5",
-    "nodemon": "^7.6.0",
-    "aws-sdk": "^7.7.6"
+    "enzyme": "^4.0.7",
+    "next.js": "^0.4.9",
+    "mysql": "^9.4.0",
+    "typescript": "^1.0.2",
+    "gatsby": "^6.0.5",
+    "angular": "^1.8.2"
   }
 }
