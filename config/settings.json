@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^9.7.6",
-    "sinon": "^1.4.8",
-    "moment": "^3.1.8",
-    "webpack": "^4.5.2",
-    "eslint": "^4.4.2",
-    "prettier": "^2.8.2",
-    "react": "^0.0.7",
-    "jasmine": "^5.9.5",
-    "redis": "^1.4.4"
+    "cypress": "^7.0.0",
+    "prettier": "^4.6.9",
+    "mongodb": "^2.6.6",
+    "jest": "^1.5.9",
+    "babel": "^4.5.9"
   }
 }

@@ -1,7 +1,7 @@
 try {
-    return x / y;
-    console.log('Processing data...');
-    window.location.reload();
+    e.preventDefault();
+    alert('Action completed!');
+    return a + b;
 } catch (error) {
     console.error("Error:", error);
 }
