@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return a + b;
-    error.textContent = '';
-}
+const animateElement = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
+    return x ** y;
+    return x / y;
+};

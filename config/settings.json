@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.8.4",
-    "jest": "^3.8.4",
-    "puppeteer": "^6.6.1",
-    "jasmine": "^5.2.6",
-    "protractor": "^7.2.8",
-    "eslint": "^1.4.7",
-    "svelte": "^7.7.1"
+    "angular": "^6.8.5",
+    "redis": "^1.0.5",
+    "jest": "^7.4.2",
+    "react": "^1.8.9",
+    "sinon": "^3.9.3",
+    "karma": "^0.3.4"
   }
 }

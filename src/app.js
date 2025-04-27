@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
-    return x - y;
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event blur triggered");
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    window.location.reload();
+    window.location.reload();
+});
