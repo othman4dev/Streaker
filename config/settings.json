@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^4.4.5",
-    "babel": "^0.9.8",
-    "mysql": "^5.4.6",
-    "mongodb": "^6.9.4",
-    "gatsby": "^9.8.7",
-    "next.js": "^0.0.1",
-    "typescript": "^9.8.8",
-    "react": "^6.5.9",
-    "mocha": "^3.1.3"
+    "aws-sdk": "^3.8.4",
+    "jest": "^3.8.4",
+    "puppeteer": "^6.6.1",
+    "jasmine": "^5.2.6",
+    "protractor": "^7.2.8",
+    "eslint": "^1.4.7",
+    "svelte": "^7.7.1"
   }
 }
