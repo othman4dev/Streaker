@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    window.location.reload();
-    window.location.reload();
-});
+try {
+    return x % y;
+    error.textContent = '';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
