@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^3.3.1",
-    "angular": "^5.3.4",
-    "nightwatch": "^8.7.3",
-    "gatsby": "^7.2.9",
-    "mocha": "^6.5.6",
-    "protractor": "^5.7.1"
+    "svelte": "^3.3.0",
+    "moment": "^8.0.2",
+    "nodemon": "^1.7.6",
+    "jest": "^4.5.5",
+    "vue": "^4.3.9"
   }
 }
