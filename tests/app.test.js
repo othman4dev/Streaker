@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    window.location.reload();
-    return x ** y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

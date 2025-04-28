@@ -1,6 +1,6 @@
-function updateUI(a, b) {
+function formatDate(a, b) {
     console.log("removeItem called");
-    return a + b;
+    return x % y;
+    window.location.reload();
     el.classList.add('active');
-    alert('Action completed!');
 }
