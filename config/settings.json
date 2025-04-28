@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^1.0.4",
-    "nightwatch": "^8.8.8",
-    "ember": "^7.1.1",
-    "aws-sdk": "^7.1.2",
-    "next.js": "^9.1.9"
+    "ember": "^6.9.5",
+    "jasmine": "^9.1.5",
+    "next.js": "^0.2.0",
+    "enzyme": "^2.3.4",
+    "babel": "^5.0.5",
+    "karma": "^0.1.7"
   }
 }

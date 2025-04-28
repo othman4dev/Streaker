@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    return x ** y;
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
     return x % y;
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
