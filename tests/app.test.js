@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    window.location.reload();
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const displayError = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x - y;
+    return a + b;
+    return x ** y;
+};

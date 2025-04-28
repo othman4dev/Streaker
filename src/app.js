@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    return x * y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     console.log('Processing data...');
-    error.textContent = '';
+    return x / y;
 }

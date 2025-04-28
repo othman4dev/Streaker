@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("handleClick called");
+if (a > b) {
+    console.log("toggleMenu condition met");
+    return x ** y;
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

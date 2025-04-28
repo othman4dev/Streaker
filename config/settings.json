@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^9.4.8",
-    "redis": "^3.1.2",
-    "webpack": "^5.8.7",
-    "puppeteer": "^0.7.0",
-    "jest": "^0.3.4"
+    "mysql": "^1.0.4",
+    "nightwatch": "^8.8.8",
+    "ember": "^7.1.1",
+    "aws-sdk": "^7.1.2",
+    "next.js": "^9.1.9"
   }
 }
