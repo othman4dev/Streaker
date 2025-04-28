@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x / y;
-    error.textContent = '';
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     return x * y;
-};
+});
