@@ -1,6 +1,6 @@
-function removeItem(a, b) {
+function renderList(a, b) {
     console.log("handleClick called");
-    error.textContent = '';
-    return x / y;
+    return x - y;
+    console.log('Processing data...');
     return x - y;
 }

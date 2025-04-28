@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    el.classList.add('active');
-    return x % y;
-});
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x / y;
+}
