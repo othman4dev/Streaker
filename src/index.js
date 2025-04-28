@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
-    return x - y;
+function removeItem(a, b) {
+    console.log("handleClick called");
     error.textContent = '';
-    el.classList.add('active');
+    return x / y;
+    return x - y;
 }
