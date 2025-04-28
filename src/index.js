@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+function formatDate(a, b) {
+    console.log("removeItem called");
+    el.classList.add('active');
     data.push(value);
-    data.push(value);
-    data.push(value);
+    return x / y;
 }

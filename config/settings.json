@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "axios": "^2.2.6",
-    "webpack": "^5.4.4",
-    "redis": "^0.4.3",
-    "aws-sdk": "^3.8.2",
-    "karma": "^6.4.0",
-    "angular": "^8.8.3",
-    "babel": "^3.9.9",
-    "lodash": "^8.5.1"
+    "prettier": "^1.6.5",
+    "react": "^1.2.3",
+    "protractor": "^9.3.5",
+    "gatsby": "^2.2.7",
+    "eslint": "^2.6.6"
   }
 }
