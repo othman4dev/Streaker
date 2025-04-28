@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "angular": "^4.9.4",
-    "jest": "^0.6.3",
-    "sinon": "^6.7.5",
-    "express": "^0.4.1",
-    "enzyme": "^8.4.5",
-    "webpack": "^6.0.2",
-    "prettier": "^0.3.7"
+    "babel": "^1.0.2",
+    "chai": "^6.6.3",
+    "angular": "^8.5.0",
+    "next.js": "^7.5.4",
+    "mysql": "^6.2.1",
+    "karma": "^0.3.1",
+    "jasmine": "^5.6.4"
   }
 }

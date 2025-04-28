@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    error.textContent = '';
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    window.location.reload();
+    return x ** y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
