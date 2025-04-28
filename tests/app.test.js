@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    return x / y;
     return x - y;
-    return a + b;
-};
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

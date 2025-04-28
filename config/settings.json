@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "ember": "^6.9.5",
-    "jasmine": "^9.1.5",
-    "next.js": "^0.2.0",
-    "enzyme": "^2.3.4",
-    "babel": "^5.0.5",
-    "karma": "^0.1.7"
+    "axios": "^2.2.6",
+    "webpack": "^5.4.4",
+    "redis": "^0.4.3",
+    "aws-sdk": "^3.8.2",
+    "karma": "^6.4.0",
+    "angular": "^8.8.3",
+    "babel": "^3.9.9",
+    "lodash": "^8.5.1"
   }
 }
