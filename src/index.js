@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    return x * y;
-    error.textContent = '';
-    el.classList.add('active');
-}
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    return a + b;
+    data.push(value);
+});

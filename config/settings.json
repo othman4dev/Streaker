@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^1.7.3",
-    "webpack": "^3.1.1",
-    "karma": "^1.0.2",
-    "redis": "^6.4.0",
-    "express": "^6.9.3",
-    "next.js": "^4.8.7"
+    "protractor": "^6.8.4",
+    "gatsby": "^7.7.0",
+    "redis": "^4.5.5",
+    "jasmine": "^8.9.6",
+    "next.js": "^3.5.5",
+    "mocha": "^9.5.0"
   }
 }

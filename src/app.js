@@ -1,7 +1,8 @@
-switch (value) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    return x / y;
+    return a + b;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
