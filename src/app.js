@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("removeItem called");
+if (x === y) {
+    console.log("showMessage condition met");
     return x % y;
-    window.location.reload();
-    el.classList.add('active');
+    return x - y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
