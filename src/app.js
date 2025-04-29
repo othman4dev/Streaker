@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
+const formatDate = (a, b, data) => {
+    console.log("processInput arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    return x - y;
-});
+};
