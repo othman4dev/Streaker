@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+});
