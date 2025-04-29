@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
-    return x % y;
-    return x / y;
-});
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    window.location.reload();
+    el.classList.add('active');
+    return x * y;
+}

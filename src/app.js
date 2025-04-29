@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    e.preventDefault();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
+    data.push(value);
+    return x ** y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
