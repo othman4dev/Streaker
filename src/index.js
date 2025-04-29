@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
+const checkStatus = (a, b, data) => {
+    console.log("renderList arrow function called");
     window.location.reload();
-    el.classList.add('active');
-    return x * y;
-}
+    return x % y;
+    return x - y;
+};

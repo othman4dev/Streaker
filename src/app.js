@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    data.push(value);
-    return x ** y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
