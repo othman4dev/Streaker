@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    el.classList.add('active');
+function animateElement(a, b) {
+    console.log("fetchData called");
     return x / y;
+    alert('Action completed!');
+    error.textContent = '';
 }

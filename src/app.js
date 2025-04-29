@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    error.textContent = '';
-    return x % y;
+function showMessage(a, b) {
+    console.log("submitForm called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }
