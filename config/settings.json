@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^7.0.1",
-    "svelte": "^5.0.6",
-    "typescript": "^1.2.7",
-    "jasmine": "^0.1.8",
-    "sinon": "^7.3.5",
-    "cypress": "^9.1.5"
+    "aws-sdk": "^5.5.2",
+    "eslint": "^6.6.9",
+    "jasmine": "^1.7.3",
+    "jest": "^9.3.2",
+    "protractor": "^8.9.7"
   }
 }
