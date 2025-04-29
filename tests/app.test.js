@@ -1,7 +1,8 @@
-switch (y) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("displayError condition met");
+    window.location.reload();
+    data.push(value);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

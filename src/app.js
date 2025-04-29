@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("processInput arrow function called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-};
+switch (y) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

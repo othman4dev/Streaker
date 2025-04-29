@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "ember": "^1.7.8",
-    "sinon": "^1.8.9",
-    "babel": "^9.9.1",
-    "puppeteer": "^2.3.9",
-    "mysql": "^8.7.4",
-    "aws-sdk": "^7.5.5",
-    "vue": "^7.9.3",
-    "jest": "^3.6.1"
+    "axios": "^5.3.9",
+    "prettier": "^6.6.2",
+    "redis": "^9.6.9",
+    "moment": "^8.9.5",
+    "babel": "^7.6.7",
+    "svelte": "^3.4.7",
+    "react": "^3.2.6",
+    "graphql": "^1.7.7"
   }
 }
