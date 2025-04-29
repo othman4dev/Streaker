@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    e.preventDefault();
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
