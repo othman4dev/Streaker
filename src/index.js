@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("renderList arrow function called");
-    window.location.reload();
-    return x % y;
-    return x - y;
-};
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    el.classList.add('active');
+    return x / y;
+}
