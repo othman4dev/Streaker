@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    return a + b;
-    data.push(value);
-});
+switch (b) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
