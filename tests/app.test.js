@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    window.location.reload();
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    return x - y;
+    return x / y;
 }
