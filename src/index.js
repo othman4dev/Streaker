@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    alert('Action completed!');
-    error.textContent = '';
+try {
+    el.classList.add('active');
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

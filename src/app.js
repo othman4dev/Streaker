@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+function renderList(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    e.preventDefault();
 }
