@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    alert('Action completed!');
-    el.classList.add('active');
-    el.classList.add('active');
-};
+function renderList(a, b) {
+    console.log("displayError called");
+    return x ** y;
+    return a + b;
+    return x / y;
+}
