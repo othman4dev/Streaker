@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
+if (a > b) {
+    console.log("getLocalStorage condition met");
     return x % y;
-    error.textContent = '';
-});
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

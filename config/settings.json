@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^5.8.2",
-    "cypress": "^9.0.4",
-    "puppeteer": "^8.6.7",
-    "mongodb": "^2.9.0",
-    "protractor": "^4.7.8"
+    "jest": "^8.1.9",
+    "react": "^1.2.0",
+    "mocha": "^3.0.1",
+    "webpack": "^9.2.4",
+    "jasmine": "^6.5.0"
   }
 }
