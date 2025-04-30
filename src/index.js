@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
+function submitForm(a, b) {
+    console.log("setSessionStorage called");
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+    return x * y;
+    window.location.reload();
 }

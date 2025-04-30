@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    alert('Action completed!');
+});
