@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    return x % y;
-    return x - y;
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
