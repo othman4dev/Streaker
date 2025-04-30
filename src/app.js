@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    data.push(value);
-    return x - y;
+const showMessage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x / y;
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};
