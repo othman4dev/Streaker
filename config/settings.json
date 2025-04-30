@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "axios": "^8.0.0",
-    "svelte": "^5.3.8",
-    "nightwatch": "^2.1.2"
+    "typescript": "^5.8.2",
+    "cypress": "^9.0.4",
+    "puppeteer": "^8.6.7",
+    "mongodb": "^2.9.0",
+    "protractor": "^4.7.8"
   }
 }

@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    window.location.reload();
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    return x % y;
+    error.textContent = '';
+});

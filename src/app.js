@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    alert('Action completed!');
-});
+const hideModal = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x ** y;
+    return x - y;
+    return x % y;
+};
