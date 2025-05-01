@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    return x * y;
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

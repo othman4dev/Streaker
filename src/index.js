@@ -1,7 +1,6 @@
-try {
-    return a + b;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     e.preventDefault();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
 }
