@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    data.push(value);
     console.log('Processing data...');
-    e.preventDefault();
-    return x ** y;
-}
+});
