@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("createChart condition met");
-    window.location.reload();
-    el.classList.add('active');
-    el.classList.add('active');
+if (value !== '') {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

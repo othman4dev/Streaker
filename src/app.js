@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    alert('Action completed!');
-    return x * y;
-};
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    error.textContent = '';
+});
