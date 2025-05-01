@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("loadData called");
     return x % y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
