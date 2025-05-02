@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event click triggered");
+const checkStatus = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return a + b;
     data.push(value);
-    return x * y;
-    return x % y;
-});
+    data.push(value);
+};

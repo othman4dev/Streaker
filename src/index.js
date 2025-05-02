@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    return x % y;
+    return a + b;
+});
