@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("checkStatus called");
+try {
+    return x / y;
+    error.textContent = '';
     window.location.reload();
-    return a + b;
-    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

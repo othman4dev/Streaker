@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    e.preventDefault();
+    data.push(value);
 }

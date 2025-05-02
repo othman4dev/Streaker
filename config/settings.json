@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "jest": "^9.9.3",
-    "express": "^3.4.4",
-    "chai": "^0.4.2",
-    "graphql": "^0.5.5",
-    "nodemon": "^4.4.7",
-    "babel": "^4.0.1",
-    "angular": "^3.3.8",
-    "lodash": "^8.8.9",
-    "moment": "^9.8.4"
+    "express": "^9.5.0",
+    "axios": "^9.2.5",
+    "sinon": "^8.8.6",
+    "nodemon": "^4.5.7"
   }
 }
