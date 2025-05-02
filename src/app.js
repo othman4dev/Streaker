@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
-    data.push(value);
-    return x / y;
-    return x - y;
+try {
+    return x * y;
+    alert('Action completed!');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

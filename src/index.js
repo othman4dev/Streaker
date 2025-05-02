@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     alert('Action completed!');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
 }
