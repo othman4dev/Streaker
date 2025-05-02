@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    return a + b;
+function animateElement(a, b) {
+    console.log("checkStatus called");
     window.location.reload();
-    error.textContent = '';
-});
+    return a + b;
+    return x % y;
+}

@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    data.push(value);
-    return x ** y;
-});
+switch (a) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    data.push(value);
     return x * y;
-};
+}
