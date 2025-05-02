@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("validateInput called");
-    el.classList.add('active');
-    alert('Action completed!');
-    el.classList.add('active');
-}
+const formatDate = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    window.location.reload();
+};

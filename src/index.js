@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("animateElement called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     el.classList.add('active');
-    return a + b;
-    return a + b;
+    data.push(value);
 }
