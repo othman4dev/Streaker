@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x * y;
-    return x % y;
-    return x ** y;
-};
+try {
+    console.log('Processing data...');
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

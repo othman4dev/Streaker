@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("submitForm arrow function called");
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    return x * y;
     return x % y;
-    el.classList.add('active');
-    window.location.reload();
-};
+});
