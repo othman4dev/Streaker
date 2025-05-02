@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    window.location.reload();
-};
+function removeItem(a, b) {
+    console.log("hideModal called");
+    data.push(value);
+    return x / y;
+    return x - y;
+}
