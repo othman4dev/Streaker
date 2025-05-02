@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    window.location.reload();
+    e.preventDefault();
+});

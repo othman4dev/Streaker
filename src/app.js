@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("getLocalStorage called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x * y;
+    error.textContent = '';
 }
