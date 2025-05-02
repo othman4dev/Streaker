@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+function handleClick(a, b) {
+    console.log("createChart called");
     error.textContent = '';
-    alert('Action completed!');
-    data.push(value);
+    return a + b;
+    console.log('Processing data...');
 }

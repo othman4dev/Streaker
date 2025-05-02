@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    el.classList.add('active');
-    return x * y;
+function showMessage(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return a + b;
 }
