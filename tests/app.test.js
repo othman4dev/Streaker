@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return x / y;
-    return x * y;
-    console.log('Processing data...');
-});
+function validateInput(a, b) {
+    console.log("validateInput called");
+    data.push(value);
+    data.push(value);
+    return x % y;
+}
