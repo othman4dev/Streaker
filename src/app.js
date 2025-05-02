@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    return x % y;
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
     return x - y;
+    return x - y;
+    window.location.reload();
 });

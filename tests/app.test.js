@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("showMessage called");
-    document.body.style.backgroundColor = 'lightblue';
+const validateInput = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    data.push(value);
     return x - y;
-    return x % y;
-}
+    return x ** y;
+};

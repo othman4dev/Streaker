@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^4.9.0",
-    "mongodb": "^7.1.7",
-    "next.js": "^4.2.7",
-    "aws-sdk": "^1.5.4",
-    "mysql": "^6.4.5"
+    "axios": "^6.7.2",
+    "prettier": "^5.7.2",
+    "nodemon": "^0.0.6",
+    "react": "^0.9.8",
+    "ember": "^6.3.2",
+    "typescript": "^0.6.7",
+    "jest": "^3.4.5",
+    "angular": "^6.7.3"
   }
 }
