@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    data.push(value);
+const getLocalStorage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x * y;
     return x % y;
-});
+    return x ** y;
+};

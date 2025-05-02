@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    return x * y;
-    data.push(value);
-}
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
+    el.classList.add('active');
+    window.location.reload();
+};
