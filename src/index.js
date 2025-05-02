@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
-    return x / y;
-    return a + b;
-};
+try {
+    return x ** y;
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

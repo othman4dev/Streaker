@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "react": "^5.2.4",
-    "next.js": "^8.9.0",
-    "lodash": "^8.1.4",
-    "jest": "^4.6.0",
-    "webpack": "^7.9.0",
-    "express": "^7.5.5",
-    "mocha": "^3.7.5",
-    "socket.io": "^1.1.8",
-    "babel": "^9.4.4"
+    "babel": "^4.2.1",
+    "express": "^9.2.6",
+    "sinon": "^3.8.3",
+    "moment": "^2.2.3",
+    "prettier": "^9.8.4",
+    "aws-sdk": "^7.4.2"
   }
 }
