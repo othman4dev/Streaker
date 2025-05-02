@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
-    data.push(value);
-    data.push(value);
-};
+function createChart(a, b) {
+    console.log("validateInput called");
+    el.classList.add('active');
+    alert('Action completed!');
+    el.classList.add('active');
+}

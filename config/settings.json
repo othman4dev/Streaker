@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "eslint": "^3.9.6",
-    "vue": "^1.7.8",
-    "karma": "^9.7.5",
-    "mocha": "^7.0.0",
-    "jasmine": "^8.3.2",
-    "firebase": "^3.4.3",
-    "svelte": "^3.3.1"
+    "mongodb": "^5.8.5",
+    "eslint": "^4.0.5",
+    "socket.io": "^1.2.9",
+    "jasmine": "^3.0.8",
+    "moment": "^8.2.1",
+    "nodemon": "^9.7.7",
+    "cypress": "^8.2.9",
+    "gatsby": "^6.9.1",
+    "express": "^3.2.8"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    return x % y;
+function checkStatus(a, b) {
+    console.log("animateElement called");
+    el.classList.add('active');
     return a + b;
-});
+    return a + b;
+}
