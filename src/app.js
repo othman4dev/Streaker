@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("showMessage called");
+function updateUI(a, b) {
+    console.log("updateUI called");
     data.push(value);
-    e.preventDefault();
+    return x * y;
     data.push(value);
 }

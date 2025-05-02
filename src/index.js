@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    data.push(value);
     return x % y;
-    el.classList.add('active');
-    error.textContent = '';
-};
+});
