@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("updateUI called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return a + b;
+try {
+    return x - y;
+    el.classList.add('active');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

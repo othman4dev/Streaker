@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
+const removeItem = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
+    return x / y;
     return a + b;
-    console.log('Processing data...');
-}
+};
