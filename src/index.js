@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    window.location.reload();
-    window.location.reload();
-    e.preventDefault();
-});
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    return x % y;
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

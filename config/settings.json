@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^0.6.5",
-    "enzyme": "^5.2.2",
-    "typescript": "^4.3.5",
-    "gatsby": "^9.1.5",
-    "mocha": "^5.7.5"
+    "jest": "^3.8.7",
+    "ember": "^0.0.7",
+    "vue": "^3.1.2",
+    "socket.io": "^7.0.6",
+    "typescript": "^6.7.0",
+    "svelte": "^9.5.4"
   }
 }

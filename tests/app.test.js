@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("updateUI called");
     window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x % y;
 }
