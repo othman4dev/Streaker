@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    alert('Action completed!');
+function createChart(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     return x % y;
 }

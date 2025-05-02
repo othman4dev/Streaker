@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    return x % y;
-    return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x * y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};
