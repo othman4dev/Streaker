@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event submit triggered");
     return x - y;
-    return x - y;
-    window.location.reload();
+    data.push(value);
+    return x ** y;
 });

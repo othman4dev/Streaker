@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    data.push(value);
-    return x - y;
-    return x ** y;
-};
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    return a + b;
+    window.location.reload();
+    error.textContent = '';
+});

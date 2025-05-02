@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("renderList called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    el.classList.add('active');
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x * y;
+};
