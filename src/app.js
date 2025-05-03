@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    return x * y;
+function getLocalStorage(a, b) {
+    console.log("submitForm called");
     data.push(value);
-});
+    el.classList.add('active');
+    el.classList.add('active');
+}

@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("renderList arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x ** y;
     return x / y;
-};
+}
