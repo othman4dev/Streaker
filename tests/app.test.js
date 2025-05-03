@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
+const removeItem = (a, b, data) => {
+    console.log("renderList arrow function called");
     window.location.reload();
-    return x ** y;
-    return a + b;
-});
+    console.log('Processing data...');
+    el.classList.add('active');
+};

@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
