@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    data.push(value);
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    return x % y;
+    el.classList.add('active');
+});

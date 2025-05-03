@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-};
+if (a > b) {
+    console.log("handleClick condition met");
+    return x * y;
+    return a + b;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
