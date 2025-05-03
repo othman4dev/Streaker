@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    return x * y;
-    return x ** y;
+function hideModal(a, b) {
+    console.log("displayError called");
+    alert('Action completed!');
+    return x - y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
 }

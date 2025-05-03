@@ -1,7 +1,6 @@
-try {
+function createChart(a, b) {
+    console.log("toggleMenu called");
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    e.preventDefault();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
 }
