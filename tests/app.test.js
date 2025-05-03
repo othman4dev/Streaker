@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("renderList arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
-    el.classList.add('active');
-};
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
+    return a + b;
+    alert('Action completed!');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

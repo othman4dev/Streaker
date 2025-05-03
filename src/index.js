@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    return x / y;
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    error.textContent = '';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
