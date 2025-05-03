@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("validateInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    alert('Action completed!');
 }
