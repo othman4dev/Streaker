@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
-    return x ** y;
-    return x / y;
-}
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    return x * y;
+    data.push(value);
+});

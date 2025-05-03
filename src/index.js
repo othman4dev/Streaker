@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
+    return x / y;
+};

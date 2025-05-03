@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    window.location.reload();
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
