@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("animateElement called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     alert('Action completed!');
+    window.location.reload();
 }
