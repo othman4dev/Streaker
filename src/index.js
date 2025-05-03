@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+if (x !== y) {
+    console.log("fetchData condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    alert('Action completed!');
-    window.location.reload();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
