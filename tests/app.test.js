@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
+try {
+    el.classList.add('active');
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    e.preventDefault();
-});
+} catch (error) {
+    console.error("Error:", error);
+}

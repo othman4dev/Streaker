@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+if (a > b) {
+    console.log("formatDate condition met");
     return x ** y;
-    el.classList.add('active');
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-try {
+function handleClick(a, b) {
+    console.log("animateElement called");
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    alert('Action completed!');
 }
