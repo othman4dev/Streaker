@@ -1,7 +1,8 @@
-switch (x) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    return x * y;
+    return x ** y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

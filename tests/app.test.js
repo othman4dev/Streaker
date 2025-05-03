@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("toggleMenu called");
-    error.textContent = '';
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
     return x - y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+});
