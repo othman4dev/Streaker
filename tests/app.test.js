@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    return a + b;
+const processInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     alert('Action completed!');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    window.location.reload();
+};
