@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("updateUI arrow function called");
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+    return a + b;
+});

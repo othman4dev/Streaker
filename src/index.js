@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    alert('Action completed!');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    data.push(value);
+    window.location.reload();
 }
