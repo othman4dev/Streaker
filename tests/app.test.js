@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    data.push(value);
-    alert('Action completed!');
-});
+if (x !== y) {
+    console.log("getLocalStorage condition met");
+    return x % y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
