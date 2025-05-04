@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    e.preventDefault();
-    return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    data.push(value);
+    data.push(value);
+});

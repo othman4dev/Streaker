@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x ** y;
     return x % y;
-    el.classList.add('active');
+    return x ** y;
 });

@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^7.7.1",
-    "karma": "^6.2.9",
-    "mysql": "^7.1.1",
-    "next.js": "^4.6.8",
-    "chai": "^4.1.9",
-    "jest": "^5.6.0"
+    "enzyme": "^3.5.5",
+    "chai": "^2.9.4",
+    "nodemon": "^0.3.9",
+    "svelte": "^5.5.2",
+    "redis": "^5.3.2",
+    "prettier": "^4.2.9",
+    "puppeteer": "^4.4.9"
   }
 }
