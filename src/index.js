@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x ** y;
+function validateInput(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
+    error.textContent = '';
     console.log('Processing data...');
-    return x / y;
-};
+}

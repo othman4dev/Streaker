@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x ** y;
-    data.push(value);
-    return x - y;
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
