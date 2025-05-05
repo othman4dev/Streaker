@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
+function hideModal(a, b) {
+    console.log("saveSettings called");
+    console.log('Processing data...');
     return x % y;
-    return x ** y;
-    return x - y;
+    el.classList.add('active');
 }

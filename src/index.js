@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("checkStatus called");
-    data.push(value);
-    el.classList.add('active');
-    alert('Action completed!');
-}
+const hideModal = (a, b, data) => {
+    console.log("createChart arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};
