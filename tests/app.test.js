@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
     e.preventDefault();
-    window.location.reload();
-    return x % y;
-}
+    return x - y;
+    error.textContent = '';
+};

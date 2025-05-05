@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^4.4.7",
-    "svelte": "^5.9.4",
-    "mysql": "^7.3.2",
-    "jasmine": "^2.6.5",
-    "graphql": "^2.2.4",
-    "karma": "^8.7.0",
-    "ember": "^3.2.8",
-    "sinon": "^3.9.9"
+    "redis": "^0.0.2",
+    "axios": "^4.4.6",
+    "next.js": "^3.7.5",
+    "jasmine": "^3.9.0",
+    "protractor": "^7.6.6",
+    "react": "^0.3.1"
   }
 }
