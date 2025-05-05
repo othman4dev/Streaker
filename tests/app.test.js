@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("formatDate condition met");
-    return a + b;
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    return x / y;
+    return x - y;
+});

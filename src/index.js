@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    error.textContent = '';
+    data.push(value);
 }
