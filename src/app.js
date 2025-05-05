@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    error.textContent = '';
-    return x * y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
+    e.preventDefault();
+};

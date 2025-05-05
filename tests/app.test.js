@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    return x - y;
     e.preventDefault();
-    window.location.reload();
-    window.location.reload();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
