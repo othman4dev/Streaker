@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^4.0.5",
-    "ember": "^6.3.5",
-    "mongodb": "^9.1.0",
-    "vue": "^9.5.0",
-    "typescript": "^8.4.3",
-    "redis": "^4.7.9",
-    "mysql": "^3.5.5"
+    "mongodb": "^1.4.3",
+    "webpack": "^9.7.4",
+    "svelte": "^3.8.3",
+    "vue": "^5.7.2",
+    "mysql": "^0.9.4",
+    "eslint": "^6.1.5",
+    "cypress": "^4.7.1",
+    "moment": "^4.9.6"
   }
 }

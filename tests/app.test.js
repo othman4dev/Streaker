@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    return x / y;
-    error.textContent = '';
+switch (error) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
