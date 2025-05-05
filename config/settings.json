@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^1.9.6",
-    "socket.io": "^0.2.8",
-    "jasmine": "^3.9.0",
-    "karma": "^5.5.0",
-    "ember": "^2.3.8",
-    "chai": "^0.5.4",
-    "mongodb": "^9.2.8"
+    "mocha": "^4.4.7",
+    "svelte": "^5.9.4",
+    "mysql": "^7.3.2",
+    "jasmine": "^2.6.5",
+    "graphql": "^2.2.4",
+    "karma": "^8.7.0",
+    "ember": "^3.2.8",
+    "sinon": "^3.9.9"
   }
 }

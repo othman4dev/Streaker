@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    return x % y;
+function removeItem(a, b) {
+    console.log("setCookie called");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    return x % y;
 }
