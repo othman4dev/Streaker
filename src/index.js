@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    error.textContent = '';
-    data.push(value);
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    e.preventDefault();
+    return x / y;
 }
