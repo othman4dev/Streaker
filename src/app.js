@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    e.preventDefault();
-};
+if (a > b) {
+    console.log("showMessage condition met");
+    error.textContent = '';
+    return x * y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

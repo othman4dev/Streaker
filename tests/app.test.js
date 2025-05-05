@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    return x ** y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-});
+function getLocalStorage(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    window.location.reload();
+    window.location.reload();
+}
