@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
     console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

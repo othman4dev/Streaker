@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^1.4.3",
-    "webpack": "^9.7.4",
-    "svelte": "^3.8.3",
-    "vue": "^5.7.2",
-    "mysql": "^0.9.4",
-    "eslint": "^6.1.5",
-    "cypress": "^4.7.1",
-    "moment": "^4.9.6"
+    "prettier": "^8.3.6",
+    "jasmine": "^8.7.3",
+    "graphql": "^6.8.7",
+    "gatsby": "^2.4.8",
+    "aws-sdk": "^1.0.8",
+    "next.js": "^8.6.5",
+    "mocha": "^8.4.6",
+    "chai": "^6.8.2"
   }
 }
