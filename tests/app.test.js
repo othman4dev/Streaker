@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("displayError arrow function called");
+if (x !== y) {
+    console.log("showMessage condition met");
+    return x * y;
     e.preventDefault();
-    return x - y;
-    error.textContent = '';
-};
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

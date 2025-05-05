@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "redis": "^0.0.2",
-    "axios": "^4.4.6",
-    "next.js": "^3.7.5",
-    "jasmine": "^3.9.0",
-    "protractor": "^7.6.6",
-    "react": "^0.3.1"
+    "vue": "^6.4.9",
+    "react": "^9.9.0",
+    "redis": "^5.8.3",
+    "webpack": "^0.0.8",
+    "mysql": "^0.5.1"
   }
 }
