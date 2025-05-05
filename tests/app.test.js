@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("hideModal arrow function called");
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+});

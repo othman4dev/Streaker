@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    return x - y;
+const removeItem = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
     e.preventDefault();
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+};
