@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "typescript": "^2.7.7",
-    "lodash": "^3.4.4",
-    "prettier": "^4.3.1",
-    "gatsby": "^9.3.9"
+    "axios": "^9.0.5",
+    "aws-sdk": "^2.5.2",
+    "chai": "^4.3.8",
+    "react": "^4.0.4"
   }
 }
