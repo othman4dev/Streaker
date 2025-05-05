@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^8.3.6",
-    "jasmine": "^8.7.3",
-    "graphql": "^6.8.7",
-    "gatsby": "^2.4.8",
-    "aws-sdk": "^1.0.8",
-    "next.js": "^8.6.5",
-    "mocha": "^8.4.6",
-    "chai": "^6.8.2"
+    "mysql": "^1.4.6",
+    "typescript": "^7.7.2",
+    "redis": "^8.9.3",
+    "ember": "^0.4.3",
+    "angular": "^3.6.4",
+    "next.js": "^7.7.0",
+    "mocha": "^9.0.5"
   }
 }

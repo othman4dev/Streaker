@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
+function processInput(a, b) {
+    console.log("formatDate called");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x % y;
 }
