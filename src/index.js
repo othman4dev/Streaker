@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("formatDate called");
+try {
+    console.log('Processing data...');
+    console.log('Processing data...');
     return x - y;
-    alert('Action completed!');
-    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
