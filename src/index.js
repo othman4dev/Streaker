@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x - y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    return x ** y;
+    return x ** y;
 }

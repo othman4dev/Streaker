@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    return x - y;
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
+    return x % y;
     e.preventDefault();
-    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
