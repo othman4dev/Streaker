@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    el.classList.add('active');
-    return x % y;
-    data.push(value);
-};
+if (data.length > 0) {
+    console.log("formatDate condition met");
+    return a + b;
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

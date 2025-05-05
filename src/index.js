@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("saveSettings called");
-    data.push(value);
-    window.location.reload();
-    return x - y;
+switch (data) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
