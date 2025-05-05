@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    return x - y;
+    e.preventDefault();
     return x % y;
-    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
