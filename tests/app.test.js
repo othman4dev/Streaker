@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("loadData condition met");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    el.classList.add('active');
+    return x % y;
+    data.push(value);
+};

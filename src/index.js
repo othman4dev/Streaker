@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    error.textContent = '';
-    console.log('Processing data...');
+function saveSettings(a, b) {
+    console.log("saveSettings called");
+    data.push(value);
+    window.location.reload();
+    return x - y;
 }

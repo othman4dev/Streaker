@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^5.5.7",
-    "puppeteer": "^8.3.7",
-    "mysql": "^1.9.9",
-    "graphql": "^8.7.5",
-    "sinon": "^8.6.4",
-    "cypress": "^6.4.2"
+    "angular": "^1.2.6",
+    "nodemon": "^7.0.5",
+    "graphql": "^2.2.7",
+    "enzyme": "^9.3.0",
+    "react": "^1.4.7",
+    "mongodb": "^3.2.1"
   }
 }
