@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x / y;
-    return x % y;
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    return x * y;
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    alert('Action completed!');
+    return x - y;
 }
