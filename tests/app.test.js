@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+if (value !== '') {
+    console.log("validateInput condition met");
     return x % y;
-    el.classList.add('active');
+    alert('Action completed!');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
