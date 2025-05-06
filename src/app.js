@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    return x * y;
-};
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    return x % y;
-    alert('Action completed!');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
