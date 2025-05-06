@@ -1,7 +1,7 @@
 try {
-    alert('Action completed!');
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    e.preventDefault();
+    return x ** y;
 } catch (error) {
     console.error("Error:", error);
 }
