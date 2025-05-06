@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
+try {
+    alert('Action completed!');
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
