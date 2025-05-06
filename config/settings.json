@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^7.2.6",
-    "protractor": "^2.7.3",
-    "ember": "^1.2.4",
-    "aws-sdk": "^0.6.4",
-    "cypress": "^9.9.1",
-    "eslint": "^5.0.0",
-    "babel": "^1.4.7",
-    "nodemon": "^5.8.5"
+    "mysql": "^4.6.9",
+    "graphql": "^3.1.8",
+    "lodash": "^6.4.2",
+    "eslint": "^5.9.2",
+    "axios": "^0.3.5",
+    "moment": "^5.8.7",
+    "angular": "^3.0.1"
   }
 }
