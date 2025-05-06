@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "babel": "^3.2.8",
-    "nightwatch": "^5.4.2",
-    "graphql": "^6.6.6",
-    "jasmine": "^9.5.2",
-    "jest": "^2.1.9",
-    "svelte": "^7.4.3",
-    "aws-sdk": "^1.8.4",
-    "enzyme": "^0.0.3"
+    "webpack": "^5.2.8",
+    "enzyme": "^7.3.4",
+    "cypress": "^0.7.5",
+    "moment": "^9.8.0",
+    "ember": "^6.6.6",
+    "svelte": "^9.0.9"
   }
 }

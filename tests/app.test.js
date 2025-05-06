@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    e.preventDefault();
+    data.push(value);
+});
