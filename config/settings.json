@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "redis": "^2.9.0",
-    "protractor": "^6.2.0",
-    "enzyme": "^1.7.4",
-    "prettier": "^3.0.1"
+    "lodash": "^7.2.6",
+    "protractor": "^2.7.3",
+    "ember": "^1.2.4",
+    "aws-sdk": "^0.6.4",
+    "cypress": "^9.9.1",
+    "eslint": "^5.0.0",
+    "babel": "^1.4.7",
+    "nodemon": "^5.8.5"
   }
 }

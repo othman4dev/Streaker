@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    e.preventDefault();
+const showMessage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    return x / y;
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
