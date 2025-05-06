@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
-    return x - y;
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    return x ** y;
     alert('Action completed!');
-};
+});
