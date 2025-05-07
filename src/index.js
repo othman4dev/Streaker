@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x * y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
+    return x % y;
+    alert('Action completed!');
 }

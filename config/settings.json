@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "typescript": "^7.3.9",
-    "enzyme": "^4.9.5",
-    "nodemon": "^3.0.1",
-    "jest": "^1.4.4",
-    "chai": "^0.0.9"
+    "webpack": "^9.1.7",
+    "karma": "^8.4.0",
+    "firebase": "^0.3.7",
+    "sinon": "^9.8.1",
+    "aws-sdk": "^4.1.1",
+    "nightwatch": "^3.1.9",
+    "socket.io": "^4.5.0",
+    "cypress": "^3.0.9",
+    "moment": "^2.6.7"
   }
 }
