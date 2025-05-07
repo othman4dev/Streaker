@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("processInput called");
+    return x % y;
+    return x ** y;
+    data.push(value);
 }

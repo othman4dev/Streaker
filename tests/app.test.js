@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    window.location.reload();
+function animateElement(a, b) {
+    console.log("createChart called");
+    el.classList.add('active');
     return x % y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }

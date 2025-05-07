@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    data.push(value);
-    return x - y;
-});
+function saveSettings(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    return x ** y;
+    el.classList.add('active');
+}
