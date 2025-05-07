@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x ** y;
-    return x - y;
-}
+const checkStatus = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    data.push(value);
+    return x * y;
+    return x % y;
+};

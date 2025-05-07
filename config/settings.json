@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^4.7.6",
-    "mocha": "^4.0.4",
-    "mysql": "^0.2.8",
-    "jest": "^0.0.2",
-    "axios": "^4.7.9",
-    "enzyme": "^7.9.0"
+    "svelte": "^3.0.2",
+    "enzyme": "^9.9.4",
+    "karma": "^6.6.9",
+    "jest": "^1.4.0",
+    "firebase": "^0.2.7",
+    "react": "^3.0.4"
   }
 }
