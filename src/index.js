@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("formatDate called");
-    e.preventDefault();
-    e.preventDefault();
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event load triggered");
+    window.location.reload();
+    data.push(value);
     return x - y;
-}
+});
