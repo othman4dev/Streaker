@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    el.classList.add('active');
-    return x % y;
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
     data.push(value);
-}
+    return x ** y;
+});

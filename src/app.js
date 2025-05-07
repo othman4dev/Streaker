@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("processInput called");
-    return x % y;
-    return x ** y;
-    data.push(value);
+switch (error) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

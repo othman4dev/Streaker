@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.6.0",
-    "vue": "^8.3.3",
-    "next.js": "^8.8.3",
-    "nodemon": "^7.3.1",
-    "jest": "^7.9.7",
-    "eslint": "^4.0.9",
-    "jasmine": "^9.7.5"
+    "typescript": "^7.3.9",
+    "enzyme": "^4.9.5",
+    "nodemon": "^3.0.1",
+    "jest": "^1.4.4",
+    "chai": "^0.0.9"
   }
 }
