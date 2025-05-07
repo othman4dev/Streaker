@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
+document.querySelector(".container").addEventListener("input", function() {
     console.log("Event load triggered");
-    return x % y;
-    return x * y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
 });
