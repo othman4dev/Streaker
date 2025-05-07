@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+function fetchData(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
     el.classList.add('active');
-    return x ** y;
 }

@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+function loadData(a, b) {
+    console.log("handleClick called");
+    console.log('Processing data...');
+    return x / y;
+    return x - y;
+}
