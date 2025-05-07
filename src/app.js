@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event load triggered");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    data.push(value);
+});

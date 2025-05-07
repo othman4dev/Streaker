@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("hideModal condition met");
-    return x * y;
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

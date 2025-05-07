@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "moment": "^3.2.2",
-    "prettier": "^3.2.8",
-    "vue": "^7.3.9",
-    "gatsby": "^7.0.5",
-    "express": "^7.3.7",
-    "next.js": "^1.2.1",
-    "graphql": "^8.8.8",
-    "nightwatch": "^4.8.7",
-    "lodash": "^6.9.0"
+    "firebase": "^3.3.3",
+    "axios": "^2.0.2",
+    "jest": "^8.5.8",
+    "eslint": "^6.4.5",
+    "mongodb": "^5.6.8",
+    "nodemon": "^7.1.1",
+    "vue": "^6.2.4",
+    "typescript": "^1.6.7",
+    "enzyme": "^0.4.5"
   }
 }

@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x / y;
-    return a + b;
-    return x / y;
-};
+try {
+    data.push(value);
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
