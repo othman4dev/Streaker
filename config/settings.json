@@ -1,7 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^8.5.3",
-    "vue": "^9.5.8",
-    "prettier": "^5.6.3"
+    "aws-sdk": "^7.6.4",
+    "react": "^8.3.1",
+    "jest": "^5.7.9",
+    "enzyme": "^7.6.5",
+    "babel": "^6.7.6",
+    "typescript": "^5.1.5",
+    "webpack": "^2.9.9",
+    "prettier": "^5.1.5"
   }
 }
