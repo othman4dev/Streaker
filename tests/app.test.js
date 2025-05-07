@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("showMessage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    el.classList.add('active');
+function createChart(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    console.log('Processing data...');
 }

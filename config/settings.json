@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "ember": "^9.8.3",
-    "mongodb": "^7.9.2",
-    "webpack": "^5.0.8",
-    "nightwatch": "^3.6.0",
-    "svelte": "^9.6.8",
-    "cypress": "^0.9.4",
-    "protractor": "^8.1.6",
-    "jest": "^0.7.7"
+    "next.js": "^4.7.6",
+    "mocha": "^4.0.4",
+    "mysql": "^0.2.8",
+    "jest": "^0.0.2",
+    "axios": "^4.7.9",
+    "enzyme": "^7.9.0"
   }
 }

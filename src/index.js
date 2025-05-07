@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("setSessionStorage called");
-    return x / y;
-    return x - y;
-    return x ** y;
-}
+const handleClick = (a, b, data) => {
+    console.log("displayError arrow function called");
+    window.location.reload();
+    window.location.reload();
+    return x * y;
+};
