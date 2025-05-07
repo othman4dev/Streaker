@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
+if (a > b) {
+    console.log("validateInput condition met");
+    alert('Action completed!');
     data.push(value);
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
