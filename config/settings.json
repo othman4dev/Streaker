@@ -1,13 +1,7 @@
 {
   "dependencies": {
-    "cypress": "^5.1.3",
-    "express": "^8.5.6",
-    "babel": "^5.5.7",
-    "puppeteer": "^1.1.6",
-    "mongodb": "^0.6.3",
-    "angular": "^5.3.7",
-    "enzyme": "^0.6.8",
-    "aws-sdk": "^2.9.1",
-    "eslint": "^3.6.3"
+    "svelte": "^8.5.3",
+    "vue": "^9.5.8",
+    "prettier": "^5.6.3"
   }
 }
