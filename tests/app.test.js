@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    error.textContent = '';
-    return x % y;
-});
+if (a > b) {
+    console.log("hideModal condition met");
+    return x * y;
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

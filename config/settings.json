@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.6.4",
-    "react": "^8.3.1",
-    "jest": "^5.7.9",
-    "enzyme": "^7.6.5",
-    "babel": "^6.7.6",
-    "typescript": "^5.1.5",
-    "webpack": "^2.9.9",
-    "prettier": "^5.1.5"
+    "moment": "^3.2.2",
+    "prettier": "^3.2.8",
+    "vue": "^7.3.9",
+    "gatsby": "^7.0.5",
+    "express": "^7.3.7",
+    "next.js": "^1.2.1",
+    "graphql": "^8.8.8",
+    "nightwatch": "^4.8.7",
+    "lodash": "^6.9.0"
   }
 }
