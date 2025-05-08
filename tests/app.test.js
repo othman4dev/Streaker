@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^8.0.0",
-    "cypress": "^4.7.7",
-    "enzyme": "^3.9.5",
-    "puppeteer": "^4.6.7",
-    "jest": "^8.1.9"
+    "mocha": "^7.7.8",
+    "jasmine": "^6.1.7",
+    "mysql": "^8.8.3",
+    "moment": "^4.0.7",
+    "gatsby": "^7.8.9",
+    "express": "^5.9.0"
   }
 }
