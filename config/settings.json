@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^7.7.8",
-    "jasmine": "^6.1.7",
-    "mysql": "^8.8.3",
-    "moment": "^4.0.7",
-    "gatsby": "^7.8.9",
-    "express": "^5.9.0"
+    "mocha": "^2.7.7",
+    "karma": "^9.3.6",
+    "axios": "^4.0.1",
+    "moment": "^1.0.9",
+    "jest": "^3.3.2"
   }
 }
