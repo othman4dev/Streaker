@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "mocha": "^2.7.7",
-    "karma": "^9.3.6",
-    "axios": "^4.0.1",
-    "moment": "^1.0.9",
-    "jest": "^3.3.2"
+    "prettier": "^0.8.6",
+    "protractor": "^3.6.5",
+    "next.js": "^6.4.1",
+    "gatsby": "^7.3.7",
+    "mocha": "^7.9.0",
+    "firebase": "^8.0.2",
+    "jest": "^8.4.8",
+    "cypress": "^0.3.1",
+    "redis": "^1.1.5"
   }
 }
