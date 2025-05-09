@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    error.textContent = '';
-    window.location.reload();
-});
+switch (x) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

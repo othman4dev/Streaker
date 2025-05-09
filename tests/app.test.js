@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    e.preventDefault();
-    data.push(value);
-});
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x - y;
+    return a + b;
+}
