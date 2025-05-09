@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("showMessage called");
-    e.preventDefault();
-    e.preventDefault();
-    return a + b;
-}
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
+    alert('Action completed!');
+    data.push(value);
+    data.push(value);
+});

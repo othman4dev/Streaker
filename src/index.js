@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    alert('Action completed!');
+switch (y) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
