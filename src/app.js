@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    return x % y;
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return x / y;
+    return x * y;
+    return x - y;
+});
