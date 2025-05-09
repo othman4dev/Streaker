@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    data.push(value);
-    window.location.reload();
-    data.push(value);
-};
+try {
+    error.textContent = '';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
