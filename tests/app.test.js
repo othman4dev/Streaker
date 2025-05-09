@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    return x % y;
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return x * y;
     e.preventDefault();
+    data.push(value);
 });

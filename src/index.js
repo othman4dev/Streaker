@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    alert('Action completed!');
+    return x % y;
+};
