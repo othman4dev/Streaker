@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("animateElement called");
+if (x === y) {
+    console.log("formatDate condition met");
+    el.classList.add('active');
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

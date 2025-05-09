@@ -1,7 +1,6 @@
-try {
+const handleClick = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
     el.classList.add('active');
-    window.location.reload();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+};

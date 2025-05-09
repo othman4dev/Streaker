@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return x / y;
-    return x * y;
+try {
     return x - y;
-});
+    alert('Action completed!');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
