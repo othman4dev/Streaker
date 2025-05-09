@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    return a + b;
+if (a > b) {
+    console.log("displayError condition met");
+    return x - y;
+    window.location.reload();
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

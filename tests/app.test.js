@@ -1,7 +1,8 @@
-switch (data) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    error.textContent = '';
+    alert('Action completed!');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
