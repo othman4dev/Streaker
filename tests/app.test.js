@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    data.push(value);
+});

@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    el.classList.add('active');
-    return a + b;
-    e.preventDefault();
-};
+try {
+    return x - y;
+    return x * y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
