@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return a + b;
-    alert('Action completed!');
-    return x % y;
-};
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    return x / y;
+    return x * y;
+    return x / y;
+});

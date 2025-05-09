@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^8.8.9",
-    "gatsby": "^8.8.3",
-    "axios": "^9.5.4",
-    "express": "^1.5.6",
-    "graphql": "^8.7.2",
-    "moment": "^7.6.5",
-    "eslint": "^5.0.4",
-    "prettier": "^9.0.2"
+    "webpack": "^9.3.2",
+    "nightwatch": "^2.1.5",
+    "enzyme": "^0.2.3",
+    "mongodb": "^3.6.1",
+    "babel": "^8.8.5",
+    "mocha": "^3.4.7",
+    "sinon": "^7.8.0",
+    "prettier": "^5.9.0"
   }
 }
