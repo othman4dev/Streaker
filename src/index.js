@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
     alert('Action completed!');
-    e.preventDefault();
-}
+    data.push(value);
+});

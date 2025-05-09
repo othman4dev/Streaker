@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    return x - y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

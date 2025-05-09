@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x / y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    return a + b;
+    el.classList.add('active');
+});

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "ember": "^0.7.3",
-    "babel": "^1.8.1",
-    "protractor": "^0.3.7",
-    "mongodb": "^4.2.9",
-    "karma": "^8.1.1",
-    "aws-sdk": "^9.4.2",
-    "mysql": "^7.1.6"
+    "next.js": "^7.1.9",
+    "gatsby": "^6.7.2",
+    "graphql": "^3.7.4",
+    "jest": "^6.5.7",
+    "socket.io": "^4.2.1",
+    "axios": "^0.6.9",
+    "prettier": "^4.0.9",
+    "mongodb": "^1.8.6"
   }
 }
