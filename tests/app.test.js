@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
+const hideModal = (a, b, data) => {
+    console.log("validateInput arrow function called");
     document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-});
+    return x * y;
+};

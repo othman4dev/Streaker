@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^9.3.2",
-    "nightwatch": "^2.1.5",
-    "enzyme": "^0.2.3",
-    "mongodb": "^3.6.1",
-    "babel": "^8.8.5",
-    "mocha": "^3.4.7",
-    "sinon": "^7.8.0",
-    "prettier": "^5.9.0"
+    "protractor": "^3.3.2",
+    "jest": "^1.5.8",
+    "prettier": "^8.6.9",
+    "mongodb": "^8.0.6",
+    "redis": "^3.2.2",
+    "express": "^8.4.1",
+    "vue": "^5.7.8",
+    "mysql": "^6.0.8"
   }
 }

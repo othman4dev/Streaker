@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event input triggered");
+const setCookie = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x / y;
+    return x - y;
     return x * y;
-    return x / y;
-});
+};
