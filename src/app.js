@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    return x ** y;
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    el.classList.add('active');
     return x / y;
-});
+    e.preventDefault();
+};

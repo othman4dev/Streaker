@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x * y;
+const setSessionStorage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    data.push(value);
+    window.location.reload();
+    data.push(value);
 };
