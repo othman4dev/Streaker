@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x / y;
+switch (value) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

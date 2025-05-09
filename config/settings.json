@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^7.4.1",
-    "next.js": "^4.9.3",
-    "jest": "^6.5.0",
-    "jasmine": "^7.5.8",
-    "aws-sdk": "^6.6.7",
-    "angular": "^1.5.2"
+    "jest": "^2.0.2",
+    "enzyme": "^4.1.0",
+    "firebase": "^1.1.0",
+    "lodash": "^9.5.4",
+    "chai": "^5.2.6"
   }
 }
