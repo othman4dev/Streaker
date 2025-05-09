@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
     e.preventDefault();
-    return x - y;
-    alert('Action completed!');
-}
+    return x / y;
+    el.classList.add('active');
+});
