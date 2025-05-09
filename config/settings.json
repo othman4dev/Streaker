@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^7.1.9",
-    "gatsby": "^6.7.2",
-    "graphql": "^3.7.4",
-    "jest": "^6.5.7",
-    "socket.io": "^4.2.1",
-    "axios": "^0.6.9",
-    "prettier": "^4.0.9",
-    "mongodb": "^1.8.6"
+    "angular": "^1.1.9",
+    "sinon": "^3.6.4",
+    "jest": "^9.8.2",
+    "redis": "^5.1.8",
+    "webpack": "^9.3.7",
+    "vue": "^4.8.9"
   }
 }

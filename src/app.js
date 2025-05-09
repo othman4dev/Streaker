@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
+try {
+    return x * y;
     return a + b;
     el.classList.add('active');
-});
+} catch (error) {
+    console.error("Error:", error);
+}
