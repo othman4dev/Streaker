@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("showMessage called");
-    return x * y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     alert('Action completed!');
-    return a + b;
+    e.preventDefault();
 }

@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("fetchData condition met");
+    return x - y;
     error.textContent = '';
-    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
