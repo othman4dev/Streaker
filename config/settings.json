@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "axios": "^5.8.6",
-    "webpack": "^9.8.0",
-    "aws-sdk": "^6.3.3",
-    "lodash": "^7.9.6",
-    "jasmine": "^4.8.6",
-    "socket.io": "^2.6.5",
-    "next.js": "^8.4.5",
-    "graphql": "^5.3.1"
+    "eslint": "^7.8.8",
+    "jasmine": "^9.3.9",
+    "gatsby": "^4.2.8",
+    "jest": "^9.5.8",
+    "lodash": "^4.8.3",
+    "enzyme": "^3.0.7"
   }
 }

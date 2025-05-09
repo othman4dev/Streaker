@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+switch (error) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

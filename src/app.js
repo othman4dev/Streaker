@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    return x / y;
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x % y;
 });
