@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    console.log('Processing data...');
+    return x / y;
 }

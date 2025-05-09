@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x % y;
+    e.preventDefault();
+    return x * y;
+};

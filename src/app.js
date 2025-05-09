@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-});
+    return x % y;
+    e.preventDefault();
+}
