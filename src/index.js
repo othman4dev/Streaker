@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    el.classList.add('active');
-    return x % y;
-};
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x * y;
+});

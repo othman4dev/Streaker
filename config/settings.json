@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^4.4.9",
-    "jasmine": "^4.1.7",
-    "jest": "^0.0.5",
-    "mongodb": "^7.3.7",
-    "webpack": "^1.2.1",
-    "ember": "^8.8.1",
-    "react": "^3.2.5"
+    "jest": "^0.7.1",
+    "redis": "^3.8.8",
+    "typescript": "^8.5.1",
+    "nightwatch": "^6.7.9"
   }
 }
