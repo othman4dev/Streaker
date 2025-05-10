@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    return x / y;
-    el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    return a + b;
+    return x ** y;
+});

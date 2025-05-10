@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+switch (value) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

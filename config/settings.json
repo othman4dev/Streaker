@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^2.3.2",
-    "babel": "^0.0.0",
-    "puppeteer": "^0.5.4",
-    "eslint": "^5.5.0"
+    "moment": "^2.9.0",
+    "gatsby": "^3.9.5",
+    "graphql": "^2.8.3",
+    "firebase": "^2.6.2",
+    "nightwatch": "^2.4.4",
+    "mysql": "^7.6.5"
   }
 }
