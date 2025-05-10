@@ -1,6 +1,7 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x - y;
-    return a + b;
+switch (e) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
