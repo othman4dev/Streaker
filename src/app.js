@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("showMessage called");
+    e.preventDefault();
+    e.preventDefault();
+    return a + b;
 }

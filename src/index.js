@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
-    e.preventDefault();
-    el.classList.add('active');
-};
+function displayError(a, b) {
+    console.log("loadData called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    alert('Action completed!');
+}
