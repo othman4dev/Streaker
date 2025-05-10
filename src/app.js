@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
+const setSessionStorage = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+    return x % y;
+    console.log('Processing data...');
+};

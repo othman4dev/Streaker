@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    e.preventDefault();
-});
+switch (value) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

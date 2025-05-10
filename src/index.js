@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
+const submitForm = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    data.push(value);
     console.log('Processing data...');
-    return x / y;
+    return x % y;
 };
