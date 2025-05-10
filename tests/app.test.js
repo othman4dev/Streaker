@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    window.location.reload();
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    e.preventDefault();
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
