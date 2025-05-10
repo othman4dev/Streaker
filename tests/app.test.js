@@ -1,7 +1,6 @@
-try {
+function handleClick(a, b) {
+    console.log("submitForm called");
+    return x ** y;
     window.location.reload();
-    return x / y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
 }
