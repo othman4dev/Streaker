@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return a + b;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+    return x * y;
+};
