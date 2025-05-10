@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     window.location.reload();
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    return a + b;
 }
