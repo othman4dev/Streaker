@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    return x * y;
-    e.preventDefault();
-});
+function formatDate(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+}

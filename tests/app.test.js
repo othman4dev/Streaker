@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

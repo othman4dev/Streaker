@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("displayError condition met");
-    return x - y;
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    return x / y;
     el.classList.add('active');
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
