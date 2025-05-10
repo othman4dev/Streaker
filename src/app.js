@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    e.preventDefault();
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
     return x - y;
-} else {
-    console.log("Condition not met");
+    return a + b;
 }

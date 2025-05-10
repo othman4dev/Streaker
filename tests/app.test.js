@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    e.preventDefault();
-    e.preventDefault();
-    return x * y;
+if (x !== y) {
+    console.log("createChart condition met");
+    window.location.reload();
+    window.location.reload();
+    return a + b;
 } else {
     console.log("Condition not met");
 }
