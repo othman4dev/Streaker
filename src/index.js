@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
-    window.location.reload();
-    return x * y;
-}
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x - y;
+    console.log('Processing data...');
+    return x / y;
+};

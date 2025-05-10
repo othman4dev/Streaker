@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("handleClick called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }
