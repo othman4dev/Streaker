@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^5.5.8",
-    "svelte": "^0.3.3",
-    "puppeteer": "^5.0.0",
-    "vue": "^2.0.2",
-    "karma": "^6.6.6",
-    "angular": "^3.0.0",
-    "typescript": "^3.0.9"
+    "puppeteer": "^4.6.0",
+    "moment": "^8.5.0",
+    "react": "^6.8.4",
+    "jest": "^3.9.5",
+    "ember": "^1.4.2"
   }
 }

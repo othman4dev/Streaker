@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("hideModal called");
+    el.classList.add('active');
+    window.location.reload();
+    return x * y;
 }

@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    data.push(value);
-    data.push(value);
-});
+switch (x) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
