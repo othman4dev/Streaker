@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    return x ** y;
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    error.textContent = '';
+});

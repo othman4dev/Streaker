@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("validateInput called");
-    return x / y;
-    window.location.reload();
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
+    return x ** y;
+    console.log('Processing data...');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

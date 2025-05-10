@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    return x / y;
-    return x - y;
+try {
+    return x ** y;
+    data.push(value);
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "angular": "^0.4.1",
-    "cypress": "^0.1.0",
-    "eslint": "^2.6.9",
-    "jest": "^1.7.7"
+    "jasmine": "^6.1.2",
+    "gatsby": "^6.1.2",
+    "express": "^1.6.1",
+    "babel": "^3.2.9",
+    "mocha": "^1.3.7",
+    "react": "^6.6.6",
+    "aws-sdk": "^6.2.8",
+    "mysql": "^2.9.7"
   }
 }
