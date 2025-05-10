@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
+function handleClick(a, b) {
+    console.log("updateUI called");
     return a + b;
-    error.textContent = '';
-    return x * y;
-};
+    return x / y;
+    return x - y;
+}

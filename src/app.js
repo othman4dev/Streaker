@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    window.location.reload();
+if (x !== y) {
+    console.log("loadData condition met");
+    return x ** y;
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
