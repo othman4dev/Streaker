@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
-    console.log('Processing data...');
-    return x % y;
-};
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    window.location.reload();
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
