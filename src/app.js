@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    return x - y;
-    error.textContent = '';
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return x % y;
+    return x % y;
 });
