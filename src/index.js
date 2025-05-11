@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    return x % y;
-    e.preventDefault();
-};
+try {
+    alert('Action completed!');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^9.2.4",
-    "graphql": "^7.1.5",
-    "mongodb": "^8.1.6",
-    "express": "^0.6.2",
-    "nightwatch": "^3.3.9",
-    "babel": "^9.8.7",
-    "protractor": "^6.9.7"
+    "protractor": "^1.5.8",
+    "aws-sdk": "^6.9.1",
+    "sinon": "^6.2.7",
+    "jest": "^7.3.6",
+    "svelte": "^1.7.5",
+    "angular": "^2.5.1"
   }
 }
