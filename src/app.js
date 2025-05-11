@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("getLocalStorage called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    console.log('Processing data...');
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const saveSettings = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x * y;
+    return x - y;
+    error.textContent = '';
+};
