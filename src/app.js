@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("getLocalStorage called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    console.log('Processing data...');
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

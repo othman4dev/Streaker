@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x * y;
-    return x - y;
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     error.textContent = '';
+    data.push(value);
+    return x / y;
 };
