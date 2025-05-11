@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("toggleMenu called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-}
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
+    window.location.reload();
+    window.location.reload();
+});

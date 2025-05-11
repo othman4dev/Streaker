@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("toggleMenu called");
-    return x * y;
+try {
+    e.preventDefault();
     data.push(value);
-    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
