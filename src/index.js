@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    e.preventDefault();
-    return x % y;
-});
+switch (y) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

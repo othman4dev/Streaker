@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    window.location.reload();
-    window.location.reload();
+if (value !== '') {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

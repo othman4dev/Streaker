@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "socket.io": "^8.2.2",
-    "webpack": "^8.5.1",
-    "sinon": "^7.3.9",
-    "gatsby": "^7.5.5",
-    "nightwatch": "^1.2.4",
-    "react": "^2.4.2",
-    "babel": "^4.4.5"
+    "prettier": "^2.0.4",
+    "socket.io": "^4.5.1",
+    "enzyme": "^9.6.3",
+    "axios": "^2.2.5",
+    "graphql": "^3.1.1",
+    "nodemon": "^3.4.5",
+    "redis": "^2.1.7",
+    "mocha": "^1.5.3",
+    "angular": "^5.0.0"
   }
 }
