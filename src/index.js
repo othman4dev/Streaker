@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event focus triggered");
     return x * y;
-    return a + b;
-    error.textContent = '';
-}
+    e.preventDefault();
+    return x % y;
+});

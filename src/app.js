@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    return x % y;
-    return x % y;
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x ** y;
 });

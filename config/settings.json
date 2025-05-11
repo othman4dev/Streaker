@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^2.5.4",
-    "firebase": "^0.6.0",
-    "angular": "^7.0.9",
-    "webpack": "^6.5.2",
-    "sinon": "^7.1.6",
-    "karma": "^7.5.1"
+    "socket.io": "^8.2.2",
+    "webpack": "^8.5.1",
+    "sinon": "^7.3.9",
+    "gatsby": "^7.5.5",
+    "nightwatch": "^1.2.4",
+    "react": "^2.4.2",
+    "babel": "^4.4.5"
   }
 }
