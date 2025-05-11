@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
-    return x - y;
-    alert('Action completed!');
-}
+const animateElement = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    return x % y;
+    return x / y;
+};

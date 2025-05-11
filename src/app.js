@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("handleClick called");
-    return x ** y;
-    alert('Action completed!');
-    alert('Action completed!');
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    el.classList.add('active');
+};
