@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    return a + b;
+    window.location.reload();
+    return x ** y;
+});

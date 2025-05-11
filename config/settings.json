@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^3.2.4",
-    "react": "^6.5.6",
-    "nodemon": "^2.5.0",
-    "mongodb": "^3.8.7",
-    "axios": "^7.6.2"
+    "socket.io": "^4.0.7",
+    "svelte": "^0.4.1",
+    "sinon": "^5.5.4",
+    "graphql": "^1.6.8",
+    "chai": "^6.4.6"
   }
 }

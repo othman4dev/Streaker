@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
+function animateElement(a, b) {
+    console.log("setSessionStorage called");
+    el.classList.add('active');
+    return x - y;
     alert('Action completed!');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
 }
