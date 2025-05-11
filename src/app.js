@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    el.classList.add('active');
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    return x - y;
     return x % y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+});
