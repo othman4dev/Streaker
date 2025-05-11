@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "redis": "^0.3.6",
-    "typescript": "^2.9.8",
-    "svelte": "^0.6.8",
-    "karma": "^0.1.1",
-    "mysql": "^7.6.6"
+    "angular": "^7.1.2",
+    "eslint": "^0.6.2",
+    "express": "^1.4.4",
+    "gatsby": "^6.6.4"
   }
 }
