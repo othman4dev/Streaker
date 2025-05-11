@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
+const saveSettings = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return a + b;
-    window.location.reload();
-    el.classList.add('active');
-});
+    return x % y;
+    e.preventDefault();
+};

@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
     error.textContent = '';
-    data.push(value);
-    return x / y;
-};
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});
