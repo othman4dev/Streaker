@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    window.location.reload();
-    window.location.reload();
-});
+if (x === y) {
+    console.log("formatDate condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
