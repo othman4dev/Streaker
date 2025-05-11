@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^1.5.8",
-    "aws-sdk": "^6.9.1",
-    "sinon": "^6.2.7",
-    "jest": "^7.3.6",
-    "svelte": "^1.7.5",
-    "angular": "^2.5.1"
+    "karma": "^0.0.3",
+    "eslint": "^4.9.4",
+    "jest": "^5.3.9",
+    "enzyme": "^5.7.6",
+    "mysql": "^0.2.5",
+    "firebase": "^8.0.4",
+    "nightwatch": "^4.8.2",
+    "express": "^7.8.4"
   }
 }

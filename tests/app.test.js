@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    window.location.reload();
-};
+switch (value) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

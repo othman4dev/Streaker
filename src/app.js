@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    el.classList.add('active');
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
