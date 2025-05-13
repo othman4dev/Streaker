@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    error.textContent = '';
+switch (e) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

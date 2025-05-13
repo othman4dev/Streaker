@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    data.push(value);
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    alert('Action completed!');
+    alert('Action completed!');
+};
