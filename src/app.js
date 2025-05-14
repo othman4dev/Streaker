@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    return a + b;
-};
+switch (el) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

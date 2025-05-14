@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^7.5.4",
-    "eslint": "^4.2.7",
-    "express": "^9.8.1",
-    "next.js": "^8.6.6",
-    "karma": "^0.0.3"
+    "next.js": "^1.8.4",
+    "express": "^4.8.1",
+    "chai": "^0.5.4",
+    "redis": "^5.3.7",
+    "graphql": "^1.0.1",
+    "svelte": "^8.4.3"
   }
 }
