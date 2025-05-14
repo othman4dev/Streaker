@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x - y;
-    return x % y;
-}
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    el.classList.add('active');
+});

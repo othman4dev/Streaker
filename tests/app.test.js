@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+function fetchData(a, b) {
+    console.log("renderList called");
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }
