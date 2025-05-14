@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "protractor": "^8.6.4",
-    "ember": "^2.8.9",
-    "react": "^5.0.9",
-    "cypress": "^8.9.2",
-    "nightwatch": "^9.5.3",
-    "babel": "^1.0.3",
-    "socket.io": "^0.9.9"
+    "svelte": "^6.8.4",
+    "prettier": "^8.4.5",
+    "next.js": "^0.1.9",
+    "chai": "^2.1.3"
   }
 }
