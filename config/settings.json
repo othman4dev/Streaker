@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^6.1.8",
-    "cypress": "^1.0.5",
-    "ember": "^7.2.6",
-    "express": "^6.7.4",
-    "jasmine": "^6.2.1",
-    "typescript": "^8.1.0"
+    "express": "^5.2.0",
+    "enzyme": "^0.8.2",
+    "socket.io": "^0.5.0",
+    "prettier": "^6.8.8",
+    "eslint": "^1.4.3"
   }
 }

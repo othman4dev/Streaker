@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("saveSettings called");
-    return a + b;
-    alert('Action completed!');
+try {
+    e.preventDefault();
+    data.push(value);
     return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

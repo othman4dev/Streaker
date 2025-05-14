@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event blur triggered");
+function toggleMenu(a, b) {
+    console.log("renderList called");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+    console.log('Processing data...');
+    error.textContent = '';
+}
