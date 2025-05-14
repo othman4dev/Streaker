@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x - y;
-    alert('Action completed!');
-    alert('Action completed!');
-};
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return x % y;
+    return x ** y;
+    console.log('Processing data...');
+});

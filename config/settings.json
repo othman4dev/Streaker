@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^3.5.4",
-    "express": "^0.6.0",
-    "redis": "^4.1.9",
-    "lodash": "^2.1.6",
-    "prettier": "^5.5.5"
+    "graphql": "^1.7.6",
+    "ember": "^0.4.1",
+    "chai": "^8.9.2",
+    "protractor": "^0.2.9",
+    "prettier": "^0.4.6",
+    "puppeteer": "^7.3.0"
   }
 }
