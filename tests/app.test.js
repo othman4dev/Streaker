@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    el.classList.add('active');
-    return x - y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-};
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
