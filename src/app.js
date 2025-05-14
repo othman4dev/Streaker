@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x / y;
+    return x / y;
+    return x / y;
+};

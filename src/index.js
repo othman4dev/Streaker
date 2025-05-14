@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("saveSettings called");
+    e.preventDefault();
+    return a + b;
+    el.classList.add('active');
 }

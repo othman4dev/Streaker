@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^1.8.4",
-    "express": "^4.8.1",
-    "chai": "^0.5.4",
-    "redis": "^5.3.7",
-    "graphql": "^1.0.1",
-    "svelte": "^8.4.3"
+    "mysql": "^3.4.0",
+    "webpack": "^2.8.7",
+    "jest": "^0.3.4",
+    "vue": "^8.8.3",
+    "angular": "^0.0.2",
+    "axios": "^5.4.2",
+    "protractor": "^0.2.6",
+    "prettier": "^3.2.9"
   }
 }
