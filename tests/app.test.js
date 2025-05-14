@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    return x * y;
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x % y;
+    error.textContent = '';
+    window.location.reload();
+};

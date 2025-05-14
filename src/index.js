@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("displayError arrow function called");
-    window.location.reload();
-    return x ** y;
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    return x % y;
+    e.preventDefault();
     el.classList.add('active');
-};
+});

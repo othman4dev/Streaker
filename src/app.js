@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event click triggered");
+function validateInput(a, b) {
+    console.log("checkStatus called");
     return x % y;
-    return x ** y;
-    console.log('Processing data...');
-});
+    el.classList.add('active');
+    return a + b;
+}
