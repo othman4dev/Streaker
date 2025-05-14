@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^5.3.7",
-    "cypress": "^9.3.2",
-    "lodash": "^0.3.3",
-    "nodemon": "^4.1.9",
-    "nightwatch": "^1.4.5",
-    "react": "^2.0.5",
-    "gatsby": "^7.3.4"
+    "gatsby": "^6.1.8",
+    "cypress": "^1.0.5",
+    "ember": "^7.2.6",
+    "express": "^6.7.4",
+    "jasmine": "^6.2.1",
+    "typescript": "^8.1.0"
   }
 }

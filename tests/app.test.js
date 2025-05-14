@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
+    return x % y;
+    return x / y;
 }

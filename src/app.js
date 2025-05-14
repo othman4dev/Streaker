@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x * y;
-    return x * y;
-    return x * y;
-};
+function saveSettings(a, b) {
+    console.log("saveSettings called");
+    return a + b;
+    alert('Action completed!');
+    return x ** y;
+}

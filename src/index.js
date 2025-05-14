@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    e.preventDefault();
-}
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+});
