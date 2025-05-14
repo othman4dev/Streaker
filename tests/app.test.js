@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("renderList called");
-    return x ** y;
+const validateInput = (a, b, data) => {
+    console.log("hideModal arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+    return x % y;
+    window.location.reload();
+};

@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    el.classList.add('active');
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
