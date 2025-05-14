@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("saveSettings called");
+function removeItem(a, b) {
+    console.log("displayError called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     e.preventDefault();
-    return a + b;
-    el.classList.add('active');
 }
