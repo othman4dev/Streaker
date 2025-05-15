@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    window.location.reload();
-    e.preventDefault();
-});
+const saveSettings = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x - y;
+    return x - y;
+    return x % y;
+};
