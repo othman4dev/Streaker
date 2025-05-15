@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    console.log('Processing data...');
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
     return x / y;
-    window.location.reload();
+    return x * y;
 });

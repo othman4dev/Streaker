@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "next.js": "^4.7.0",
-    "vue": "^6.3.5",
-    "nightwatch": "^9.9.5",
-    "mongodb": "^4.2.2",
-    "lodash": "^6.3.6",
-    "jasmine": "^8.5.6",
-    "socket.io": "^4.7.4"
+    "sinon": "^2.5.5",
+    "karma": "^9.1.7",
+    "puppeteer": "^5.0.2",
+    "lodash": "^8.9.3"
   }
 }
