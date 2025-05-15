@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    return x ** y;
-    return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    window.location.reload();
+    e.preventDefault();
+});

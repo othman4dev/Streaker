@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
-    data.push(value);
-    alert('Action completed!');
-    alert('Action completed!');
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    window.location.reload();
+    return a + b;
 }

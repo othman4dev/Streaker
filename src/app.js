@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+const renderList = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x * y;
+    data.push(value);
+    return x * y;
+};
