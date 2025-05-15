@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x - y;
-    return x - y;
-    return x % y;
-};
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    return x / y;
+    window.location.reload();
+});
