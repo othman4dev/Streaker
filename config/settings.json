@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.5.5",
-    "karma": "^9.1.7",
-    "puppeteer": "^5.0.2",
-    "lodash": "^8.9.3"
+    "typescript": "^0.5.0",
+    "svelte": "^5.0.4",
+    "chai": "^0.0.7",
+    "angular": "^2.4.0",
+    "nightwatch": "^1.1.4",
+    "aws-sdk": "^6.7.2",
+    "cypress": "^0.0.6",
+    "mysql": "^9.8.0"
   }
 }

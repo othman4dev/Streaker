@@ -1,7 +1,8 @@
-try {
-    data.push(value);
+if (a > b) {
+    console.log("toggleMenu condition met");
+    el.classList.add('active');
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

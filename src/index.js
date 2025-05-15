@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event focus triggered");
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    console.log('Processing data...');
     e.preventDefault();
-    return x / y;
-    return x * y;
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
