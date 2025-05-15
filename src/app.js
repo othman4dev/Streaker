@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
+function submitForm(a, b) {
+    console.log("hideModal called");
+    return x % y;
+    return x % y;
     return a + b;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
 }

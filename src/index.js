@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    window.location.reload();
-    el.classList.add('active');
-});
+const toggleMenu = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    alert('Action completed!');
+};

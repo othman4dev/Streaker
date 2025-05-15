@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("loadData called");
+function checkStatus(a, b) {
+    console.log("getLocalStorage called");
+    return a + b;
+    console.log('Processing data...');
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
 }
