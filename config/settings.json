@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "karma": "^9.3.7",
-    "svelte": "^2.5.4",
-    "moment": "^4.3.0",
-    "mongodb": "^6.8.1"
+    "mocha": "^3.3.6",
+    "prettier": "^9.9.0",
+    "webpack": "^5.2.3",
+    "babel": "^1.2.7",
+    "next.js": "^9.7.6",
+    "react": "^4.8.1",
+    "gatsby": "^8.9.2",
+    "angular": "^9.3.9"
   }
 }

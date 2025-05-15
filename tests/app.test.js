@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }

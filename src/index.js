@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    window.location.reload();
+    el.classList.add('active');
+});

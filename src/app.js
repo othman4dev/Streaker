@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    window.location.reload();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    return a + b;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
