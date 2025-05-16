@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    data.push(value);
+    return x * y;
+    return a + b;
 } else {
     console.log("Condition not met");
 }
