@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("fetchData called");
+const handleClick = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    return x - y;
     return x / y;
-    return x * y;
-    alert('Action completed!');
-}
+};

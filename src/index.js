@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    error.textContent = '';
+try {
+    return x % y;
+    return a + b;
     data.push(value);
-    data.push(value);
-};
+} catch (error) {
+    console.error("Error:", error);
+}
