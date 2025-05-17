@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return a + b;
+    console.log('Processing data...');
 }

@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    return a + b;
+try {
+    return x ** y;
+    error.textContent = '';
     return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
