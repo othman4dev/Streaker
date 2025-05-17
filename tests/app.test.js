@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    return x % y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    alert('Action completed!');
+    return a + b;
 }

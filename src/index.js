@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    return x / y;
+    return x % y;
+});

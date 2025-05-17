@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    return x ** y;
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
