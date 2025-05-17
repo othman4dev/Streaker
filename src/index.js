@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
-    error.textContent = '';
-    return a + b;
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return x ** y;
+    alert('Action completed!');
     console.log('Processing data...');
-};
+} else {
+    console.log("Condition not met");
+}
