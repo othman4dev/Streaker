@@ -1,7 +1,6 @@
-try {
+function hideModal(a, b) {
+    console.log("formatDate called");
+    return x - y;
     error.textContent = '';
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
 }
