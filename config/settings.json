@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^2.4.6",
-    "babel": "^2.7.0",
-    "angular": "^4.7.4",
-    "karma": "^3.9.0",
-    "next.js": "^0.9.6"
+    "jest": "^1.1.4",
+    "nightwatch": "^3.3.4",
+    "prettier": "^2.8.7",
+    "enzyme": "^6.7.3",
+    "typescript": "^8.4.8",
+    "socket.io": "^7.8.0",
+    "ember": "^6.0.6",
+    "firebase": "^6.4.5"
   }
 }
