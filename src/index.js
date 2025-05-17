@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
+if (a > b) {
+    console.log("getLocalStorage condition met");
     return a + b;
-    console.log('Processing data...');
-    return x % y;
-});
+    return x - y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

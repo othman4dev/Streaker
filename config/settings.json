@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "axios": "^2.7.2",
-    "express": "^8.0.2",
-    "typescript": "^1.8.2",
-    "gatsby": "^1.3.4",
-    "react": "^9.2.7",
-    "cypress": "^2.8.0",
-    "sinon": "^5.4.2",
-    "redis": "^6.2.1",
-    "moment": "^8.2.4"
+    "puppeteer": "^9.0.5",
+    "angular": "^4.9.8",
+    "mocha": "^8.3.6",
+    "mysql": "^6.9.8",
+    "aws-sdk": "^8.5.8",
+    "cypress": "^7.9.8"
   }
 }

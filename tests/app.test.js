@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("formatDate called");
+try {
     return x ** y;
-    data.push(value);
-    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
