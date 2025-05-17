@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("getLocalStorage called");
-    return a + b;
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    window.location.reload();
+    return x / y;
     console.log('Processing data...');
-    alert('Action completed!');
-}
+};
