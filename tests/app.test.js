@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    data.push(value);
-    window.location.reload();
-    return x % y;
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x / y;
 });

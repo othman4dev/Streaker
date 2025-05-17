@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
-    e.preventDefault();
-    window.location.reload();
-};
+switch (error) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
