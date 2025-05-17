@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return a + b;
-    return x / y;
+try {
+    error.textContent = '';
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-};
+} catch (error) {
+    console.error("Error:", error);
+}
