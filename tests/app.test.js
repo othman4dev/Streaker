@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
+    e.preventDefault();
+    el.classList.add('active');
+});

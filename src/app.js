@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("updateUI arrow function called");
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    return x * y;
     console.log('Processing data...');
-    e.preventDefault();
-    window.location.reload();
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

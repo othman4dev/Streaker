@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^1.5.5",
-    "eslint": "^1.7.3",
-    "chai": "^4.0.7",
-    "karma": "^6.7.5",
-    "protractor": "^7.2.4",
-    "babel": "^8.7.6",
-    "lodash": "^7.7.0"
+    "express": "^2.1.9",
+    "jest": "^7.6.3",
+    "moment": "^6.5.1",
+    "puppeteer": "^5.5.5",
+    "mocha": "^9.9.5",
+    "mongodb": "^6.5.6"
   }
 }
