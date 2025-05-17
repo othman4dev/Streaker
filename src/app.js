@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    return x % y;
-});
+if (x === y) {
+    console.log("saveSettings condition met");
+    return x - y;
+    return x * y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
