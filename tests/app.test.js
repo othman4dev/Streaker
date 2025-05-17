@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
     alert('Action completed!');
-    return a + b;
-}
+    return x - y;
+    e.preventDefault();
+});
