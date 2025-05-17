@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    window.location.reload();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const hideModal = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
+    data.push(value);
+    data.push(value);
+};

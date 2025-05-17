@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+function animateElement(a, b) {
+    console.log("fetchData called");
+    return x / y;
     return x * y;
-    error.textContent = '';
+    alert('Action completed!');
 }
