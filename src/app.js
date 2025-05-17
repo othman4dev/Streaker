@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const saveSettings = (a, b, data) => {
+    console.log("updateUI arrow function called");
     console.log('Processing data...');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    window.location.reload();
+};
