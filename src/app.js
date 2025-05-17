@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("fetchData called");
-    console.log('Processing data...');
-    return x ** y;
-    alert('Action completed!');
+try {
+    return a + b;
+    window.location.reload();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
