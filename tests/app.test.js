@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("createChart called");
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    window.location.reload();
     return x % y;
-    el.classList.add('active');
-    e.preventDefault();
-}
+});

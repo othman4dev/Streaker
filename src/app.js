@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
+function saveSettings(a, b) {
+    console.log("displayError called");
+    return x % y;
+    console.log('Processing data...');
     return x - y;
-    return x / y;
-};
+}
