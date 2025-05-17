@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    return x ** y;
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    console.log('Processing data...');
+    return a + b;
 } else {
     console.log("Condition not met");
 }
