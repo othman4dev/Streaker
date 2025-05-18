@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    data.push(value);
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x / y;
+    error.textContent = '';
+    return x % y;
+};
