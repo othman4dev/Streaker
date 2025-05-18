@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
-    alert('Action completed!');
-    window.location.reload();
-    return x ** y;
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return x * y;
+    return x / y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
