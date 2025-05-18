@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^3.3.4",
-    "graphql": "^3.3.7",
-    "express": "^1.6.7",
-    "chai": "^9.4.7",
-    "protractor": "^4.5.9",
-    "moment": "^9.0.2",
-    "nightwatch": "^2.2.5"
+    "redis": "^1.1.0",
+    "axios": "^8.1.0",
+    "chai": "^6.8.8",
+    "jasmine": "^5.4.9",
+    "mocha": "^5.3.1",
+    "mysql": "^9.7.3"
   }
 }

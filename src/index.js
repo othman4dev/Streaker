@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    console.log('Processing data...');
-    return a + b;
+function updateUI(a, b) {
+    console.log("setCookie called");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    return x % y;
 }
