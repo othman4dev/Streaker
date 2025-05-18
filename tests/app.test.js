@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event change triggered");
     return x ** y;
+    return x - y;
     return x / y;
-}
+});

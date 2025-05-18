@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
+try {
+    error.textContent = '';
     e.preventDefault();
-    return x / y;
-});
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "express": "^8.8.9",
-    "jasmine": "^5.8.4",
-    "next.js": "^5.8.1",
-    "angular": "^0.6.2",
-    "mocha": "^0.2.6"
+    "babel": "^4.6.6",
+    "protractor": "^8.8.4",
+    "puppeteer": "^5.0.0",
+    "mongodb": "^4.4.0",
+    "prettier": "^1.4.0",
+    "chai": "^4.2.2",
+    "angular": "^2.8.4",
+    "react": "^9.6.7",
+    "svelte": "^7.8.5"
   }
 }
