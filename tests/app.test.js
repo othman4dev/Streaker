@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x ** y;
+    el.classList.add('active');
+}

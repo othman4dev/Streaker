@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    data.push(value);
-    return x % y;
-});
+if (x !== y) {
+    console.log("fetchData condition met");
+    console.log('Processing data...');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
