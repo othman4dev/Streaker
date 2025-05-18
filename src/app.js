@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
     e.preventDefault();
-    return a + b;
-};
+    return x / y;
+});

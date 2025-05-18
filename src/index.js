@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    console.log('Processing data...');
-    return a + b;
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    return x / y;
+    return x - y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
