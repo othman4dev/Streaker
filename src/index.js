@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    return x * y;
-    return x / y;
-    return x / y;
-});
+function toggleMenu(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    window.location.reload();
+}

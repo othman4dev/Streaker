@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
 }
