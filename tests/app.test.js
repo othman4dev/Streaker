@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    return x * y;
+try {
     return x / y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

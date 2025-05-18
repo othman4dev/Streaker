@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    return x - y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("setCookie called");
+    return x * y;
+    error.textContent = '';
+    window.location.reload();
 }
