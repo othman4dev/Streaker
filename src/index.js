@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event click triggered");
     return x * y;
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x / y;
+});

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "jest": "^6.1.8",
-    "chai": "^4.3.7",
-    "socket.io": "^1.8.5",
-    "mocha": "^1.6.3",
-    "express": "^8.8.7",
-    "aws-sdk": "^3.8.0",
-    "enzyme": "^2.9.1"
+    "karma": "^2.6.1",
+    "chai": "^7.8.6",
+    "cypress": "^0.3.3",
+    "mongodb": "^1.0.6",
+    "express": "^0.0.0",
+    "ember": "^6.5.6",
+    "svelte": "^8.8.4",
+    "vue": "^3.8.0",
+    "firebase": "^3.9.7"
   }
 }

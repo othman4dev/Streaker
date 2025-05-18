@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
+function createChart(a, b) {
+    console.log("saveSettings called");
     error.textContent = '';
-    return x % y;
-};
+    error.textContent = '';
+    e.preventDefault();
+}

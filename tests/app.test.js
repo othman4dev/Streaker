@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    return x * y;
-    error.textContent = '';
+switch (value) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
