@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    error.textContent = '';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("submitForm called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 }

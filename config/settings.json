@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^2.5.9",
-    "gatsby": "^1.2.7",
-    "moment": "^6.2.5",
-    "sinon": "^3.2.4",
-    "mocha": "^7.3.3",
-    "nodemon": "^1.1.7",
-    "chai": "^6.6.0",
-    "jest": "^1.9.1"
+    "webpack": "^6.7.9",
+    "firebase": "^0.2.1",
+    "vue": "^9.7.7",
+    "prettier": "^0.5.8",
+    "express": "^5.4.9"
   }
 }

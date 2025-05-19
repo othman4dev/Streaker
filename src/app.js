@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    console.log('Processing data...');
+};

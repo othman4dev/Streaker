@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x * y;
-    alert('Action completed!');
-    data.push(value);
-};
+switch (e) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
