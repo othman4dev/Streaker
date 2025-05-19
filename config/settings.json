@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^6.4.4",
-    "mysql": "^4.4.7",
-    "enzyme": "^9.7.4",
-    "chai": "^1.4.8",
-    "axios": "^5.2.6",
-    "webpack": "^0.4.3"
+    "nodemon": "^2.4.0",
+    "ember": "^4.3.4",
+    "enzyme": "^5.5.8",
+    "aws-sdk": "^6.3.4",
+    "axios": "^3.3.7",
+    "svelte": "^0.3.1",
+    "webpack": "^7.7.2",
+    "firebase": "^2.5.0"
   }
 }

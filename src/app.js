@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
-    return a + b;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     el.classList.add('active');
-});
+    console.log('Processing data...');
+}

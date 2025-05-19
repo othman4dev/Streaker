@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    return x - y;
-    el.classList.add('active');
+try {
+    e.preventDefault();
+    alert('Action completed!');
     error.textContent = '';
-});
+} catch (error) {
+    console.error("Error:", error);
+}
