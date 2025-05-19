@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^6.9.7",
-    "gatsby": "^5.7.6",
-    "aws-sdk": "^3.7.6",
-    "jasmine": "^1.8.3",
-    "svelte": "^7.7.7",
-    "next.js": "^9.0.7",
-    "webpack": "^1.5.4"
+    "jasmine": "^8.0.9",
+    "moment": "^9.5.2",
+    "chai": "^9.3.7",
+    "protractor": "^6.6.9",
+    "redis": "^7.9.1",
+    "sinon": "^5.4.7"
   }
 }

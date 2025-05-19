@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("setCookie called");
-    return x * y;
-    error.textContent = '';
-    window.location.reload();
+if (x !== y) {
+    console.log("showMessage condition met");
+    console.log('Processing data...');
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
