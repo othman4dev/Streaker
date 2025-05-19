@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    console.log('Processing data...');
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x - y;
+    return x * y;
 }

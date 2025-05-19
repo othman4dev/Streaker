@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+const formatDate = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
+    return x - y;
     error.textContent = '';
-    return x - y;
-    return x - y;
 };

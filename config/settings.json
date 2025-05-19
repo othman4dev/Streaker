@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^8.0.9",
-    "moment": "^9.5.2",
-    "chai": "^9.3.7",
-    "protractor": "^6.6.9",
-    "redis": "^7.9.1",
-    "sinon": "^5.4.7"
+    "chai": "^5.3.3",
+    "eslint": "^0.5.7",
+    "lodash": "^1.1.0",
+    "jest": "^6.5.0",
+    "moment": "^1.2.6",
+    "typescript": "^3.7.8"
   }
 }
