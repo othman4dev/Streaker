@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "moment": "^6.8.0",
-    "protractor": "^5.9.4",
-    "sinon": "^0.5.2",
-    "eslint": "^6.3.0",
-    "graphql": "^3.9.8",
-    "angular": "^5.8.7",
-    "babel": "^6.7.6",
-    "enzyme": "^6.5.2"
+    "express": "^4.3.6",
+    "karma": "^5.5.8",
+    "chai": "^7.5.2",
+    "jest": "^6.2.9",
+    "webpack": "^3.7.8"
   }
 }
