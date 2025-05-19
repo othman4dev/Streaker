@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    e.preventDefault();
-    data.push(value);
-    return a + b;
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x * y;
+    return x % y;
+}

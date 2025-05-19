@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "redis": "^2.0.1",
-    "nightwatch": "^7.1.1",
-    "next.js": "^6.9.2",
-    "ember": "^6.0.3",
-    "enzyme": "^9.4.0"
+    "moment": "^6.8.0",
+    "protractor": "^5.9.4",
+    "sinon": "^0.5.2",
+    "eslint": "^6.3.0",
+    "graphql": "^3.9.8",
+    "angular": "^5.8.7",
+    "babel": "^6.7.6",
+    "enzyme": "^6.5.2"
   }
 }

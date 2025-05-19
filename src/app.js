@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    window.location.reload();
-    el.classList.add('active');
-});
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+}
