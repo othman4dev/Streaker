@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("submitForm called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+switch (data) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
+    return x - y;
+    return a + b;
 }
