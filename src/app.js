@@ -1,6 +1,7 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    el.classList.add('active');
-    console.log('Processing data...');
+switch (a) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

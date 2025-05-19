@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+const formatDate = (a, b, data) => {
+    console.log("displayError arrow function called");
     alert('Action completed!');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    data.push(value);
+};
