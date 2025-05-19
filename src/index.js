@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    alert('Action completed!');
-    return a + b;
-});
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    window.location.reload();
+    console.log('Processing data...');
+}
