@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return a + b;
-}
+const removeItem = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x / y;
+    alert('Action completed!');
+    return x - y;
+};

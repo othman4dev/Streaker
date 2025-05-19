@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
-    alert('Action completed!');
-};
+switch (error) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
