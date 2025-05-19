@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    e.preventDefault();
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function processInput(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    return x - y;
+    return x - y;
 }

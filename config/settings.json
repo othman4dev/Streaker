@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^7.4.1",
-    "webpack": "^9.8.2",
-    "cypress": "^2.6.6",
-    "nodemon": "^4.4.8",
-    "redis": "^7.1.7",
-    "eslint": "^3.1.3",
-    "babel": "^4.2.4",
-    "svelte": "^5.2.3"
+    "svelte": "^3.6.1",
+    "lodash": "^0.9.4",
+    "react": "^5.3.7",
+    "nodemon": "^0.1.8",
+    "axios": "^1.8.6",
+    "redis": "^6.5.8"
   }
 }
