@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    alert('Action completed!');
-    return x ** y;
-    return a + b;
-};
+try {
+    data.push(value);
+    error.textContent = '';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

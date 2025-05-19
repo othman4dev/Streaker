@@ -1,7 +1,6 @@
-try {
-    return x / y;
+const processInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x * y;
+    alert('Action completed!');
     data.push(value);
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+};
