@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    data.push(value);
-    return x % y;
-});
+switch (data) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
