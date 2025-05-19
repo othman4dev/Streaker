@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     data.push(value);
-    return x - y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

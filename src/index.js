@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    return x / y;
     alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+});
