@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("animateElement called");
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
     console.log('Processing data...');
-    return x - y;
-    return x - y;
-}
+    return a + b;
+    el.classList.add('active');
+});

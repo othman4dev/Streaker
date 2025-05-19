@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    el.classList.add('active');
-}
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    return x - y;
+    return a + b;
+    window.location.reload();
+});

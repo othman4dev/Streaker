@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^3.6.1",
-    "lodash": "^0.9.4",
-    "react": "^5.3.7",
-    "nodemon": "^0.1.8",
-    "axios": "^1.8.6",
-    "redis": "^6.5.8"
+    "mocha": "^6.4.4",
+    "mysql": "^4.4.7",
+    "enzyme": "^9.7.4",
+    "chai": "^1.4.8",
+    "axios": "^5.2.6",
+    "webpack": "^0.4.3"
   }
 }

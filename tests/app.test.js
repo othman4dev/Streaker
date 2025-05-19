@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    return x - y;
+    el.classList.add('active');
+    error.textContent = '';
+});
