@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("animateElement arrow function called");
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
     window.location.reload();
-    return x - y;
-    error.textContent = '';
-};
+    el.classList.add('active');
+});
