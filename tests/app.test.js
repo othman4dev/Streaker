@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("animateElement called");
-    window.location.reload();
-    return x - y;
-    return a + b;
+function updateUI(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }

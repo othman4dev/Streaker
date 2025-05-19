@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^1.1.4",
-    "angular": "^5.2.5",
-    "jasmine": "^2.9.2",
-    "svelte": "^2.6.3",
-    "gatsby": "^4.8.8",
-    "typescript": "^5.5.5",
-    "jest": "^0.0.6",
-    "puppeteer": "^6.5.8"
+    "react": "^2.1.0",
+    "enzyme": "^7.5.0",
+    "sinon": "^9.9.7",
+    "firebase": "^8.3.7",
+    "next.js": "^2.6.0"
   }
 }
