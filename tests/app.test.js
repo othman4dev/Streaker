@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("validateInput called");
-    return x - y;
-    el.classList.add('active');
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
     return x / y;
-}
+    return x - y;
+};

@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jest": "^5.4.8",
-    "babel": "^8.6.7",
-    "prettier": "^4.7.6",
-    "moment": "^3.8.5"
+    "socket.io": "^8.8.5",
+    "graphql": "^9.0.5",
+    "aws-sdk": "^8.7.7",
+    "lodash": "^9.5.4",
+    "webpack": "^3.6.6",
+    "jest": "^6.1.4"
   }
 }
