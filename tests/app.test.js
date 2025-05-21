@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    e.preventDefault();
     data.push(value);
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+});
