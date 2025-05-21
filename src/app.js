@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    data.push(value);
+    return x / y;
 }
