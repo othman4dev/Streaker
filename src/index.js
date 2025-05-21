@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("validateInput called");
-    return x - y;
-    return x * y;
+try {
     return x / y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
