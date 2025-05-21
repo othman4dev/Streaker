@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("showMessage condition met");
+    return x * y;
+    return x % y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
