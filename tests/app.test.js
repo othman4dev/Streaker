@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    data.push(value);
+if (a > b) {
+    console.log("validateInput condition met");
     el.classList.add('active');
-    error.textContent = '';
-};
+    e.preventDefault();
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

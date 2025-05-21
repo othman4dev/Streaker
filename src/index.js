@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x - y;
+if (a > b) {
+    console.log("fetchData condition met");
     return x ** y;
-    return a + b;
-};
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

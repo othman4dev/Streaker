@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^5.7.1",
-    "chai": "^4.6.6",
-    "react": "^8.5.2",
-    "next.js": "^2.1.6",
-    "protractor": "^4.0.8",
-    "prettier": "^0.7.9"
+    "svelte": "^3.1.7",
+    "socket.io": "^7.0.8",
+    "react": "^7.1.7",
+    "mocha": "^0.5.5",
+    "nightwatch": "^8.6.8",
+    "redis": "^8.1.9"
   }
 }
