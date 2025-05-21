@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^9.0.1",
-    "gatsby": "^2.1.0",
-    "mysql": "^5.4.4",
-    "typescript": "^2.8.8",
-    "nightwatch": "^6.7.3",
-    "mocha": "^4.3.9",
-    "enzyme": "^3.5.7"
+    "firebase": "^5.7.1",
+    "chai": "^4.6.6",
+    "react": "^8.5.2",
+    "next.js": "^2.1.6",
+    "protractor": "^4.0.8",
+    "prettier": "^0.7.9"
   }
 }

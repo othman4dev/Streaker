@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    data.push(value);
+    el.classList.add('active');
+    error.textContent = '';
+};
