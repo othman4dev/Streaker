@@ -1,7 +1,8 @@
-switch (error) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("createChart condition met");
+    console.log('Processing data...');
+    return x / y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
