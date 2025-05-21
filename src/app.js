@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    return a + b;
-    return x / y;
-};
+function setCookie(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    return x - y;
+    error.textContent = '';
+}
