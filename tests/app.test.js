@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    el.classList.add('active');
-    e.preventDefault();
-    return x % y;
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    data.push(value);
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }

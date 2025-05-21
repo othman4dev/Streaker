@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    return x ** y;
-    data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("createChart called");
+    return x * y;
+    return x * y;
+    return x / y;
 }
