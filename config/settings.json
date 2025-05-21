@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^0.7.1",
-    "sinon": "^1.2.0",
-    "express": "^6.9.6",
-    "mocha": "^0.3.9",
-    "firebase": "^3.4.2"
+    "cypress": "^1.9.6",
+    "moment": "^4.6.1",
+    "puppeteer": "^2.5.1",
+    "enzyme": "^2.9.3",
+    "graphql": "^1.5.9",
+    "express": "^8.3.9",
+    "redis": "^3.7.3",
+    "karma": "^5.3.5"
   }
 }

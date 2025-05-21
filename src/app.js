@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    return x - y;
-    error.textContent = '';
-}
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});
