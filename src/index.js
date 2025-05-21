@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return x * y;
-    window.location.reload();
-    return a + b;
-});
+switch (e) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
