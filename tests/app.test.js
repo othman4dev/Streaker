@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("setCookie called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }

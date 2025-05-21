@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.9.6",
-    "moment": "^4.6.1",
-    "puppeteer": "^2.5.1",
-    "enzyme": "^2.9.3",
-    "graphql": "^1.5.9",
-    "express": "^8.3.9",
-    "redis": "^3.7.3",
-    "karma": "^5.3.5"
+    "typescript": "^5.8.5",
+    "karma": "^8.5.7",
+    "mongodb": "^4.6.2",
+    "moment": "^5.1.6",
+    "mocha": "^8.0.9",
+    "jest": "^1.5.1"
   }
 }
