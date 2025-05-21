@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
+const displayError = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x * y;
     return x ** y;
-    return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};

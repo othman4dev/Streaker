@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^5.9.8",
-    "eslint": "^5.4.2",
-    "chai": "^2.6.2",
-    "jasmine": "^9.3.7"
+    "svelte": "^4.1.0",
+    "jasmine": "^3.7.4",
+    "moment": "^5.8.6",
+    "firebase": "^1.8.2",
+    "jest": "^4.3.6",
+    "webpack": "^1.7.9"
   }
 }
