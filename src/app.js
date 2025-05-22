@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    data.push(value);
-    e.preventDefault();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("submitForm called");
+    el.classList.add('active');
+    window.location.reload();
+    return x % y;
 }

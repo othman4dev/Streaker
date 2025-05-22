@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    alert('Action completed!');
+    alert('Action completed!');
+});
