@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    return a + b;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
+    alert('Action completed!');
+    return x - y;
 }

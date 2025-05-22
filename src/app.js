@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    error.textContent = '';
+    error.textContent = '';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
