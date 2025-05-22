@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    window.location.reload();
-    return x / y;
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
