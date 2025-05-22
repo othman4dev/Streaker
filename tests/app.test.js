@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+function handleClick(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    return a + b;
     return x ** y;
-    el.classList.add('active');
-    data.push(value);
 }

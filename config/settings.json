@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^6.2.5",
-    "socket.io": "^7.4.3",
-    "next.js": "^6.6.9",
-    "graphql": "^2.8.5",
-    "lodash": "^8.2.8",
-    "protractor": "^7.8.2"
+    "cypress": "^7.4.5",
+    "redis": "^4.2.6",
+    "mocha": "^6.8.2",
+    "gatsby": "^7.8.0",
+    "protractor": "^3.7.4",
+    "jest": "^8.2.5"
   }
 }
