@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
+function toggleMenu(a, b) {
+    console.log("checkStatus called");
+    return x - y;
     return x * y;
-    return x ** y;
-    return x ** y;
-};
+    return x / y;
+}

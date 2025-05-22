@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("formatDate condition met");
     data.push(value);
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
