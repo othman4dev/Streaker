@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("removeItem condition met");
-    data.push(value);
-    return x * y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    alert('Action completed!');
+});
