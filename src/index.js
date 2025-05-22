@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("updateUI called");
-    return x % y;
-    alert('Action completed!');
-    return x / y;
+if (a > b) {
+    console.log("fetchData condition met");
+    return x ** y;
+    return x * y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
