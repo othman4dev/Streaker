@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.1.6",
-    "next.js": "^4.1.0",
-    "protractor": "^2.2.9",
-    "angular": "^1.1.0"
+    "express": "^6.2.5",
+    "socket.io": "^7.4.3",
+    "next.js": "^6.6.9",
+    "graphql": "^2.8.5",
+    "lodash": "^8.2.8",
+    "protractor": "^7.8.2"
   }
 }

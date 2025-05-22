@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    alert('Action completed!');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
