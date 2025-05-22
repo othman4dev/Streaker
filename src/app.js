@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
+try {
     window.location.reload();
-    return x % y;
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

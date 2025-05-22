@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "sinon": "^1.0.8",
-    "vue": "^0.0.2",
-    "babel": "^9.3.9",
-    "socket.io": "^5.3.9",
-    "karma": "^1.6.6",
-    "express": "^3.4.9"
+    "aws-sdk": "^5.1.6",
+    "next.js": "^4.1.0",
+    "protractor": "^2.2.9",
+    "angular": "^1.1.0"
   }
 }
