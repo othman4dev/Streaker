@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x % y;
-    return x / y;
-}
+const removeItem = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    e.preventDefault();
+};

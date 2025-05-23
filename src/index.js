@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event scroll triggered");
+const formatDate = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
     return x ** y;
-    console.log('Processing data...');
-    return x / y;
-});
+    error.textContent = '';
+};
