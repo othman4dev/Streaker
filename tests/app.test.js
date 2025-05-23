@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
+const hideModal = (a, b, data) => {
+    console.log("processInput arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-});
+    e.preventDefault();
+    return x - y;
+};

@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    el.classList.add('active');
+if (a > b) {
+    console.log("removeItem condition met");
     data.push(value);
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
