@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^4.7.2",
-    "karma": "^1.0.9",
-    "gatsby": "^2.0.3",
-    "jest": "^9.7.5",
-    "protractor": "^4.8.1",
-    "mongodb": "^3.0.6"
+    "karma": "^5.3.9",
+    "webpack": "^6.1.6",
+    "puppeteer": "^6.3.9",
+    "jest": "^2.6.6",
+    "nodemon": "^5.2.9",
+    "prettier": "^1.4.0"
   }
 }

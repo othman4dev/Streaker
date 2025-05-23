@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("showMessage called");
+    error.textContent = '';
+    alert('Action completed!');
+    data.push(value);
 }

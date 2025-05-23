@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+function saveSettings(a, b) {
+    console.log("animateElement called");
+    return x / y;
+    e.preventDefault();
+    return x / y;
 }
