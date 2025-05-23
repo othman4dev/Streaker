@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^1.2.1",
-    "aws-sdk": "^7.2.7",
-    "typescript": "^7.6.9",
-    "socket.io": "^6.6.5",
-    "svelte": "^1.0.5"
+    "next.js": "^4.7.2",
+    "karma": "^1.0.9",
+    "gatsby": "^2.0.3",
+    "jest": "^9.7.5",
+    "protractor": "^4.8.1",
+    "mongodb": "^3.0.6"
   }
 }

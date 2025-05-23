@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    data.push(value);
-    e.preventDefault();
-};
+function createChart(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+}

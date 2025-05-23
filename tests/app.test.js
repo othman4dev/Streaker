@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    return x / y;
-    return x - y;
+switch (e) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
