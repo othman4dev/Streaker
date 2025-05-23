@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^6.2.6",
-    "react": "^8.3.1",
-    "karma": "^7.7.9",
-    "enzyme": "^1.4.2",
-    "firebase": "^7.0.6",
-    "typescript": "^8.1.5"
+    "jasmine": "^6.7.8",
+    "eslint": "^8.5.1",
+    "moment": "^8.7.6",
+    "mysql": "^6.0.2",
+    "svelte": "^5.7.8"
   }
 }

@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    window.location.reload();
-};
+switch (value) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
