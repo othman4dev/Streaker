@@ -1,7 +1,6 @@
-try {
-    return x % y;
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return x * y;
     error.textContent = '';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+});

@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "react": "^6.0.6",
-    "nightwatch": "^7.2.5",
-    "ember": "^4.9.9",
-    "sinon": "^7.6.9",
-    "webpack": "^8.6.2",
-    "next.js": "^4.9.2"
+    "angular": "^4.9.6",
+    "karma": "^3.6.0",
+    "mocha": "^8.5.9",
+    "aws-sdk": "^6.6.1",
+    "svelte": "^4.3.3",
+    "axios": "^0.1.3"
   }
 }

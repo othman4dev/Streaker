@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    return a + b;
-    e.preventDefault();
+const displayError = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 };

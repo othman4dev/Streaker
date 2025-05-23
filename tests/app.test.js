@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x * y;
-}
+    el.classList.add('active');
+});
