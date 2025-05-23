@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event blur triggered");
     e.preventDefault();
-    error.textContent = '';
-    data.push(value);
-}
+    alert('Action completed!');
+    alert('Action completed!');
+});

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    return x * y;
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
     document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
     window.location.reload();
-});
+};
