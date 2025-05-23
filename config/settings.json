@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "karma": "^5.3.9",
-    "webpack": "^6.1.6",
-    "puppeteer": "^6.3.9",
-    "jest": "^2.6.6",
-    "nodemon": "^5.2.9",
-    "prettier": "^1.4.0"
+    "next.js": "^2.2.5",
+    "karma": "^9.8.3",
+    "axios": "^3.0.6",
+    "jasmine": "^4.8.8",
+    "socket.io": "^4.7.5",
+    "gatsby": "^8.4.0"
   }
 }

@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
-    alert('Action completed!');
-    data.push(value);
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+});
