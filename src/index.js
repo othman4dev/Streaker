@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    return a + b;
+if (data.length > 0) {
+    console.log("updateUI condition met");
     return x / y;
-});
+    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
