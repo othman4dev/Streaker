@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^9.0.7",
-    "express": "^6.2.8",
-    "react": "^9.2.0",
-    "mocha": "^1.1.4",
-    "jest": "^5.5.4",
-    "axios": "^1.6.9",
-    "graphql": "^5.6.0"
+    "socket.io": "^9.0.1",
+    "redis": "^7.5.6",
+    "lodash": "^9.6.2",
+    "jest": "^8.9.9",
+    "vue": "^6.9.5",
+    "karma": "^7.5.6"
   }
 }

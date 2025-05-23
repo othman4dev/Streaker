@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x ** y;
-    return x / y;
-    el.classList.add('active');
-};
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    return x * y;
+    error.textContent = '';
+});

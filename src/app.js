@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event submit triggered");
+function updateUI(a, b) {
+    console.log("removeItem called");
     e.preventDefault();
-    return x % y;
+    el.classList.add('active');
     data.push(value);
-});
+}
