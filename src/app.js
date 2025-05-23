@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("removeItem condition met");
-    data.push(value);
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
