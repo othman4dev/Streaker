@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    return x ** y;
-    error.textContent = '';
-};
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return a + b;
+    return x / y;
+});

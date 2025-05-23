@@ -1,7 +1,6 @@
-try {
+const validateInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
     window.location.reload();
-    return a + b;
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
