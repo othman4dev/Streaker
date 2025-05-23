@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event input triggered");
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    return x % y;
     data.push(value);
-    return x * y;
-    error.textContent = '';
 });
