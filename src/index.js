@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
+const fetchData = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x / y;
-    alert('Action completed!');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    e.preventDefault();
+};
