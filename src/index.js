@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event input triggered");
-    return x * y;
-    alert('Action completed!');
+const getLocalStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
     return x % y;
-});
+};

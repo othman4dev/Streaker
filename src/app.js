@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    e.preventDefault();
-    return x - y;
+if (value !== '') {
+    console.log("loadData condition met");
+    alert('Action completed!');
+    return x / y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
