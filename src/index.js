@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
-    return x ** y;
-    data.push(value);
-};
+if (value !== '') {
+    console.log("processInput condition met");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
