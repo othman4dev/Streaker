@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^9.1.2",
-    "chai": "^7.1.1",
-    "eslint": "^9.8.2",
-    "cypress": "^3.8.8",
-    "gatsby": "^7.4.1"
+    "webpack": "^3.9.1",
+    "nodemon": "^9.4.1",
+    "svelte": "^2.8.2",
+    "axios": "^1.5.5",
+    "express": "^7.5.5",
+    "redis": "^0.4.1",
+    "vue": "^8.9.0"
   }
 }
