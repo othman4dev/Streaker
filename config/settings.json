@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^0.8.9",
-    "axios": "^2.6.7",
-    "prettier": "^6.7.5",
-    "puppeteer": "^0.2.4",
-    "express": "^5.9.8"
+    "angular": "^7.1.9",
+    "nodemon": "^4.0.7",
+    "react": "^1.0.2",
+    "express": "^3.0.3",
+    "enzyme": "^1.4.2",
+    "jasmine": "^1.1.9",
+    "next.js": "^9.5.5",
+    "moment": "^9.8.0"
   }
 }

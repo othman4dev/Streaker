@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+switch (x) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

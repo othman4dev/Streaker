@@ -1,6 +1,6 @@
 function animateElement(a, b) {
-    console.log("createChart called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x / y;
+    console.log("saveSettings called");
+    return x * y;
+    data.push(value);
+    e.preventDefault();
 }
