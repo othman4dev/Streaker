@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x ** y;
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    return a + b;
+    return x % y;
+});

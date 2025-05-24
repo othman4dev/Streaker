@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("submitForm called");
+try {
     e.preventDefault();
-    return x / y;
+    window.location.reload();
     alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

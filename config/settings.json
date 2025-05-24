@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^8.7.2",
-    "socket.io": "^9.1.7",
-    "ember": "^1.9.8",
-    "lodash": "^0.6.6",
-    "chai": "^1.9.6",
-    "protractor": "^5.2.9",
-    "puppeteer": "^7.8.0",
-    "next.js": "^3.1.8"
+    "mongodb": "^2.5.3",
+    "firebase": "^2.6.4",
+    "karma": "^0.7.5",
+    "svelte": "^9.5.1",
+    "redis": "^8.1.9",
+    "sinon": "^3.0.4"
   }
 }
