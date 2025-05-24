@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    return a + b;
-    return x % y;
-});
+const toggleMenu = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    e.preventDefault();
+    return x - y;
+    e.preventDefault();
+};

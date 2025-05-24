@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x - y;
-    return a + b;
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
     return x / y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+});
