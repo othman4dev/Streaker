@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    console.log('Processing data...');
+function animateElement(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
+    return x / y;
 }

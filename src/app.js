@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("hideModal called");
-    return x % y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    el.classList.add('active');
+    console.log('Processing data...');
+});

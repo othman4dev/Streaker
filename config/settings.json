@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^3.9.1",
-    "nodemon": "^9.4.1",
-    "svelte": "^2.8.2",
-    "axios": "^1.5.5",
-    "express": "^7.5.5",
-    "redis": "^0.4.1",
-    "vue": "^8.9.0"
+    "nightwatch": "^0.8.9",
+    "axios": "^2.6.7",
+    "prettier": "^6.7.5",
+    "puppeteer": "^0.2.4",
+    "express": "^5.9.8"
   }
 }
