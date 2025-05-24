@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    console.log('Processing data...');
+    return x * y;
 }

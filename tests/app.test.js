@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+    console.log('Processing data...');
+    return x - y;
+};
