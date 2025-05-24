@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("saveSettings called");
-    return x * y;
-    data.push(value);
+function checkStatus(a, b) {
+    console.log("submitForm called");
     e.preventDefault();
+    return x / y;
+    alert('Action completed!');
 }

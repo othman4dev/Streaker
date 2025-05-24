@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    data.push(value);
-    alert('Action completed!');
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
