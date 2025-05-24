@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    console.log('Processing data...');
-    return x - y;
-};
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+}

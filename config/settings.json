@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^9.4.1",
-    "babel": "^9.5.0",
-    "puppeteer": "^2.2.8",
-    "redis": "^2.1.5",
-    "typescript": "^6.4.3",
-    "enzyme": "^7.5.7",
-    "lodash": "^6.0.0",
-    "jasmine": "^2.5.5"
+    "next.js": "^5.4.2",
+    "babel": "^9.6.4",
+    "mocha": "^6.5.2",
+    "protractor": "^2.4.5",
+    "react": "^1.8.0",
+    "jest": "^5.3.6"
   }
 }
