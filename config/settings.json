@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^3.0.0",
-    "chai": "^7.1.8",
-    "socket.io": "^9.5.7",
-    "gatsby": "^8.0.5",
-    "cypress": "^0.5.9",
-    "sinon": "^9.0.8",
-    "aws-sdk": "^3.8.6"
+    "next.js": "^3.7.5",
+    "cypress": "^0.1.7",
+    "firebase": "^8.4.8",
+    "mongodb": "^2.4.0",
+    "ember": "^9.0.3"
   }
 }

@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("animateElement condition met");
+try {
+    alert('Action completed!');
+    alert('Action completed!');
     console.log('Processing data...');
-    return x ** y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

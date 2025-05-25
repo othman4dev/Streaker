@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("setCookie called");
+const createChart = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
+    return x % y;
     e.preventDefault();
-    el.classList.add('active');
-    return x / y;
-}
+};
