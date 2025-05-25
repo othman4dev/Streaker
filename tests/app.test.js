@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x * y;
-    return x % y;
-    e.preventDefault();
-};
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    window.location.reload();
+});

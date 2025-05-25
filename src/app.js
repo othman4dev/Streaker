@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x - y;
+const createChart = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+};

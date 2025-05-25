@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("formatDate condition met");
+    window.location.reload();
+    data.push(value);
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
