@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    return x % y;
     alert('Action completed!');
-    console.log('Processing data...');
-};
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

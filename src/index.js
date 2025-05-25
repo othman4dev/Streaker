@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    window.location.reload();
-    data.push(value);
+try {
     return x * y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
