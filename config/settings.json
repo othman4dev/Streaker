@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^1.6.1",
-    "jest": "^9.9.1",
-    "karma": "^3.8.0",
-    "mysql": "^8.2.4",
-    "aws-sdk": "^9.9.3",
-    "protractor": "^9.9.0",
-    "eslint": "^3.1.2",
-    "vue": "^5.5.1"
+    "graphql": "^3.5.1",
+    "mysql": "^6.1.1",
+    "babel": "^0.4.3",
+    "vue": "^9.6.2",
+    "mocha": "^8.9.0",
+    "gatsby": "^0.6.6",
+    "sinon": "^5.0.5",
+    "mongodb": "^1.7.5"
   }
 }

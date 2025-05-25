@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+const renderList = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    el.classList.add('active');
+    return x ** y;
     alert('Action completed!');
-});
+};
