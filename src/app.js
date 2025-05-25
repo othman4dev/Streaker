@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return a + b;
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
+    e.preventDefault();
     error.textContent = '';
-    alert('Action completed!');
-});
+    return a + b;
+};

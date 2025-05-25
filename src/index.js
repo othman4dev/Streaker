@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x % y;
+if (x === y) {
+    console.log("getLocalStorage condition met");
+    alert('Action completed!');
+    return a + b;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
