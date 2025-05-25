@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    alert('Action completed!');
-    return x * y;
-});
+function animateElement(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    e.preventDefault();
+    error.textContent = '';
+}

@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("displayError arrow function called");
+if (x !== y) {
+    console.log("animateElement condition met");
     console.log('Processing data...');
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x ** y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

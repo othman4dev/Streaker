@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "chai": "^8.8.3",
-    "ember": "^4.3.0",
-    "socket.io": "^3.5.7",
-    "eslint": "^4.8.3",
-    "redis": "^6.1.6",
-    "jest": "^6.6.6",
-    "react": "^8.3.2"
+    "moment": "^3.0.0",
+    "chai": "^7.1.8",
+    "socket.io": "^9.5.7",
+    "gatsby": "^8.0.5",
+    "cypress": "^0.5.9",
+    "sinon": "^9.0.8",
+    "aws-sdk": "^3.8.6"
   }
 }
