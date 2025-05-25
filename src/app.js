@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    error.textContent = '';
-    return a + b;
-};
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    alert('Action completed!');
+});

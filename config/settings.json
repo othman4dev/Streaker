@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "moment": "^5.1.2",
-    "enzyme": "^8.8.1",
-    "chai": "^1.1.9",
-    "svelte": "^2.4.5",
-    "express": "^8.4.6",
-    "jest": "^7.7.7",
-    "firebase": "^5.9.3"
+    "jasmine": "^1.6.1",
+    "jest": "^9.9.1",
+    "karma": "^3.8.0",
+    "mysql": "^8.2.4",
+    "aws-sdk": "^9.9.3",
+    "protractor": "^9.9.0",
+    "eslint": "^3.1.2",
+    "vue": "^5.5.1"
   }
 }
