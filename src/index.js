@@ -1,7 +1,8 @@
-switch (el) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("processInput condition met");
+    error.textContent = '';
+    error.textContent = '';
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
