@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    el.classList.add('active');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    alert('Action completed!');
+});
