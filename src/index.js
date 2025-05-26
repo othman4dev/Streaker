@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    e.preventDefault();
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});

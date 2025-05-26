@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("validateInput called");
-    return x ** y;
-    data.push(value);
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    alert('Action completed!');
+    return x * y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
