@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x ** y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return a + b;
+    return x - y;
 }

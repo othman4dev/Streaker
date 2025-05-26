@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x / y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return a + b;
+};
