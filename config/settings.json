@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^7.6.7",
-    "chai": "^3.9.5",
-    "socket.io": "^7.6.9",
-    "aws-sdk": "^1.3.8",
-    "ember": "^1.2.5",
-    "cypress": "^4.6.4",
-    "firebase": "^3.6.1"
+    "svelte": "^1.2.2",
+    "cypress": "^8.1.9",
+    "protractor": "^5.7.9",
+    "enzyme": "^8.2.1",
+    "karma": "^7.7.5",
+    "angular": "^4.6.6"
   }
 }
