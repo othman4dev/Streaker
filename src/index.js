@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("processInput condition met");
-    error.textContent = '';
-    error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    alert('Action completed!');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
