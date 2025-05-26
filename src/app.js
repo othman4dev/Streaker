@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    return x % y;
-    el.classList.add('active');
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    return x / y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }

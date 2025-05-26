@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^7.1.1",
-    "firebase": "^5.0.6",
-    "aws-sdk": "^6.0.0",
-    "prettier": "^1.0.6"
+    "chai": "^0.7.5",
+    "babel": "^3.5.9",
+    "angular": "^4.1.1",
+    "jest": "^8.0.2",
+    "next.js": "^3.2.5",
+    "enzyme": "^9.2.3",
+    "protractor": "^4.5.2",
+    "express": "^2.7.4"
   }
 }
