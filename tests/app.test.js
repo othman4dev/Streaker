@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    return x ** y;
-};
+try {
+    return x - y;
+    return x % y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

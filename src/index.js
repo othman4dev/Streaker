@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+try {
+    data.push(value);
+    return x ** y;
     alert('Action completed!');
-});
+} catch (error) {
+    console.error("Error:", error);
+}
