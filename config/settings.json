@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^4.5.6",
-    "lodash": "^5.3.0",
-    "sinon": "^8.1.6",
-    "gatsby": "^7.4.7",
-    "nodemon": "^2.8.2",
-    "mocha": "^7.5.9",
-    "typescript": "^3.2.9"
+    "ember": "^5.1.4",
+    "vue": "^1.4.5",
+    "jasmine": "^5.6.3",
+    "angular": "^9.5.5",
+    "enzyme": "^9.6.3",
+    "karma": "^0.1.9"
   }
 }

@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
