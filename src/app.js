@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
+const hideModal = (a, b, data) => {
+    console.log("showMessage arrow function called");
     return x * y;
-    window.location.reload();
-});
+    return x % y;
+    return x / y;
+};
