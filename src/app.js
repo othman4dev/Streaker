@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    alert('Action completed!');
-    return x * y;
-    return x / y;
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 } else {
     console.log("Condition not met");
 }
