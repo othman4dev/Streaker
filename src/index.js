@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    return x - y;
-    alert('Action completed!');
-    data.push(value);
-});
+switch (e) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

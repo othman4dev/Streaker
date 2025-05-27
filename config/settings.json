@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "moment": "^1.8.6",
-    "socket.io": "^0.1.0",
-    "next.js": "^6.9.4",
-    "ember": "^5.7.2",
-    "enzyme": "^1.9.6",
-    "aws-sdk": "^2.1.8"
+    "prettier": "^8.3.4",
+    "firebase": "^7.0.9",
+    "aws-sdk": "^9.4.9",
+    "mocha": "^4.5.5",
+    "mongodb": "^3.8.1"
   }
 }

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    return x * y;
+    window.location.reload();
+});
