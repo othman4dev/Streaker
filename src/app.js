@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x * y;
+const formatDate = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return a + b;
     return x % y;
-    return x / y;
+    error.textContent = '';
 };
