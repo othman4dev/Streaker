@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("fetchData called");
-    return x * y;
+try {
+    return x ** y;
     console.log('Processing data...');
-    return x - y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
