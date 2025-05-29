@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("createChart arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    el.classList.add('active');
-};
+function setCookie(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x ** y;
+}

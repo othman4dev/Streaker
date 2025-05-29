@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    error.textContent = '';
+if (x === y) {
+    console.log("removeItem condition met");
     alert('Action completed!');
-});
+    return x % y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

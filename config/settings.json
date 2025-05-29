@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "chai": "^8.7.7",
-    "cypress": "^8.0.0",
-    "prettier": "^8.5.6",
-    "firebase": "^4.0.3",
-    "ember": "^5.2.9",
-    "eslint": "^0.5.7",
-    "mongodb": "^9.9.8",
-    "redis": "^9.2.1",
-    "gatsby": "^4.2.1"
+    "karma": "^1.0.5",
+    "svelte": "^4.5.3",
+    "babel": "^8.8.0",
+    "jasmine": "^3.3.3",
+    "cypress": "^4.6.6",
+    "lodash": "^7.1.3"
   }
 }
