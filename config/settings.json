@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^3.2.9",
-    "eslint": "^5.5.6",
-    "mongodb": "^4.6.2",
-    "moment": "^4.1.9"
+    "socket.io": "^0.7.2",
+    "jest": "^7.7.8",
+    "nightwatch": "^9.6.5",
+    "moment": "^4.7.6",
+    "express": "^2.6.8",
+    "nodemon": "^7.6.5",
+    "prettier": "^6.9.4",
+    "angular": "^9.8.4"
   }
 }
