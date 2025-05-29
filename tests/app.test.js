@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    el.classList.add('active');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
+    error.textContent = '';
+    return x - y;
+};
