@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    return x ** y;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    return x % y;
-});
+    alert('Action completed!');
+    error.textContent = '';
+}

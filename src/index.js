@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x ** y;
+if (a > b) {
+    console.log("processInput condition met");
+    return x * y;
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
