@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^0.7.2",
-    "jest": "^7.7.8",
-    "nightwatch": "^9.6.5",
-    "moment": "^4.7.6",
-    "express": "^2.6.8",
-    "nodemon": "^7.6.5",
-    "prettier": "^6.9.4",
-    "angular": "^9.8.4"
+    "redis": "^9.3.4",
+    "svelte": "^2.3.7",
+    "nightwatch": "^9.8.5",
+    "mocha": "^9.7.1",
+    "protractor": "^4.6.9",
+    "vue": "^6.0.3"
   }
 }

@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    console.log('Processing data...');
-    return x ** y;
-    return x - y;
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    return x / y;
+    el.classList.add('active');
 };
