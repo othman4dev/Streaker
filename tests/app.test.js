@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    console.log('Processing data...');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    error.textContent = '';
+    alert('Action completed!');
+});

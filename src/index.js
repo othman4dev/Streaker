@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("createChart arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    el.classList.add('active');
+};
