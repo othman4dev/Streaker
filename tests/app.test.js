@@ -1,7 +1,7 @@
 try {
-    error.textContent = '';
+    data.push(value);
     el.classList.add('active');
-    e.preventDefault();
+    console.log('Processing data...');
 } catch (error) {
     console.error("Error:", error);
 }
