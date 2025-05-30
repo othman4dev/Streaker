@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    return x ** y;
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x % y;
+    return x / y;
+    data.push(value);
+};

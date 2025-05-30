@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x - y;
-    return x ** y;
-}
+const hideModal = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    error.textContent = '';
+    el.classList.add('active');
+    console.log('Processing data...');
+};
