@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
-    return a + b;
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return a + b;
+    alert('Action completed!');
 }
