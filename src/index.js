@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("createChart called");
-    return x / y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x * y;
+    data.push(value);
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

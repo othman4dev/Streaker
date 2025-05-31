@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
-    window.location.reload();
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+}
