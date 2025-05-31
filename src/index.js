@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    return x / y;
-    return x * y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 }

@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("setCookie called");
+    error.textContent = '';
+    data.push(value);
+    data.push(value);
 }
