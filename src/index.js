@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    return a + b;
-    alert('Action completed!');
+if (a > b) {
+    console.log("saveSettings condition met");
+    return x / y;
+    return x * y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

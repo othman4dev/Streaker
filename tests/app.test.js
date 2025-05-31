@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    e.preventDefault();
-    window.location.reload();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

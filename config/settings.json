@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^6.8.7",
-    "angular": "^7.3.1",
-    "nodemon": "^4.1.1",
-    "aws-sdk": "^5.9.4",
-    "jasmine": "^8.1.6"
+    "nightwatch": "^6.9.1",
+    "axios": "^1.8.1",
+    "mysql": "^8.3.4",
+    "graphql": "^1.2.2",
+    "vue": "^7.7.3"
   }
 }
