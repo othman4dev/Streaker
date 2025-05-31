@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    el.classList.add('active');
+    data.push(value);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.0.5",
-    "prettier": "^4.1.0",
-    "eslint": "^5.1.2",
-    "mocha": "^8.6.1",
-    "karma": "^2.2.3",
-    "mongodb": "^0.4.9",
-    "jasmine": "^2.9.2",
-    "lodash": "^0.0.3"
+    "react": "^2.8.1",
+    "nightwatch": "^0.1.7",
+    "enzyme": "^0.5.5",
+    "babel": "^9.6.6",
+    "webpack": "^0.5.2",
+    "redis": "^0.3.4"
   }
 }

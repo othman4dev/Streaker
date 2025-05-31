@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("checkStatus condition met");
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
