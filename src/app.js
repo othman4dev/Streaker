@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+});

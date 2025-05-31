@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
-    return x / y;
-    return x * y;
-};
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x % y;
+}

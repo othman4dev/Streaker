@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "angular": "^4.0.3",
-    "jest": "^4.3.3",
-    "mysql": "^3.2.6",
-    "nodemon": "^5.4.6",
-    "socket.io": "^8.3.5",
-    "lodash": "^6.8.8",
-    "karma": "^7.8.7",
-    "babel": "^6.3.8"
+    "next.js": "^1.6.9",
+    "jest": "^0.4.3",
+    "jasmine": "^7.6.9",
+    "cypress": "^6.6.7"
   }
 }
