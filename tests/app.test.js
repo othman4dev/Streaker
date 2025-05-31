@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    console.log('Processing data...');
-    return a + b;
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    return x ** y;
+    return x ** y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
