@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^6.9.1",
-    "aws-sdk": "^0.6.6",
-    "angular": "^6.4.2",
-    "jasmine": "^4.9.8",
-    "nodemon": "^8.5.7",
-    "graphql": "^1.0.8",
-    "jest": "^0.6.9",
-    "chai": "^3.6.5"
+    "jasmine": "^4.5.5",
+    "aws-sdk": "^8.8.9",
+    "puppeteer": "^6.2.8",
+    "socket.io": "^5.3.0",
+    "express": "^5.7.3",
+    "cypress": "^8.0.1",
+    "react": "^6.9.5",
+    "next.js": "^0.6.8"
   }
 }

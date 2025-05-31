@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+if (a > b) {
+    console.log("hideModal condition met");
+    el.classList.add('active');
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
