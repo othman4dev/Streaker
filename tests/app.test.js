@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("setCookie called");
-    error.textContent = '';
-    data.push(value);
-    data.push(value);
+try {
+    return x / y;
+    el.classList.add('active');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

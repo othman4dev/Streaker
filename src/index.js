@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("setSessionStorage called");
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-}
+    console.log('Processing data...');
+    data.push(value);
+});
