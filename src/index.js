@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+function updateUI(a, b) {
+    console.log("handleClick called");
     return a + b;
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
 }
