@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    alert('Action completed!');
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    data.push(value);
     el.classList.add('active');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+});

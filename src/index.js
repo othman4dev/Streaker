@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    return x * y;
-    return x * y;
-});
+function formatDate(a, b) {
+    console.log("displayError called");
+    return x ** y;
+    return a + b;
+    el.classList.add('active');
+}

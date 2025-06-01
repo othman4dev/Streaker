@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("fetchData condition met");
+    return x / y;
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
