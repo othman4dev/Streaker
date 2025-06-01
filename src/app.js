@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    return x ** y;
-    console.log('Processing data...');
-    data.push(value);
-});
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

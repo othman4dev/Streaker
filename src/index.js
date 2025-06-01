@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
+    return x * y;
+    return x * y;
+});

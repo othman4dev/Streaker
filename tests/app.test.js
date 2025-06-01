@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("renderList called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+function handleClick(a, b) {
+    console.log("loadData called");
+    window.location.reload();
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
 }
