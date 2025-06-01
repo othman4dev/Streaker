@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("handleClick called");
-    return x % y;
+try {
     return x - y;
-    console.log('Processing data...');
+    error.textContent = '';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
