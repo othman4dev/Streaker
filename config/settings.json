@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "react": "^2.8.1",
-    "nightwatch": "^0.1.7",
-    "enzyme": "^0.5.5",
-    "babel": "^9.6.6",
-    "webpack": "^0.5.2",
-    "redis": "^0.3.4"
+    "redis": "^2.3.4",
+    "nodemon": "^4.7.9",
+    "eslint": "^4.6.8",
+    "sinon": "^7.0.1",
+    "express": "^9.3.6",
+    "next.js": "^2.9.9"
   }
 }

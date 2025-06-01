@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    el.classList.add('active');
-    data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("showMessage called");
+    e.preventDefault();
+    return a + b;
+    return x - y;
 }
