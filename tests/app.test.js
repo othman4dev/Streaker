@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("renderList called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 }

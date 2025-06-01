@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
     console.log('Processing data...');
-    error.textContent = '';
-}
+    data.push(value);
+});
