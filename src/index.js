@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("displayError called");
-    return x ** y;
-    return a + b;
-    el.classList.add('active');
-}
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    console.log('Processing data...');
+    error.textContent = '';
+});

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    return x / y;
-    return a + b;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x % y;
+    return a + b;
 }
