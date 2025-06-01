@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
     error.textContent = '';
-    return x % y;
-});
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

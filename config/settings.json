@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "express": "^4.5.6",
-    "aws-sdk": "^8.1.0",
-    "jest": "^2.4.1",
-    "graphql": "^8.5.1"
+    "socket.io": "^6.3.3",
+    "aws-sdk": "^8.4.7",
+    "karma": "^0.8.0",
+    "next.js": "^1.2.7",
+    "cypress": "^1.2.2",
+    "jest": "^7.7.9"
   }
 }

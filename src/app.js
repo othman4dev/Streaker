@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
+function removeItem(a, b) {
+    console.log("submitForm called");
+    console.log('Processing data...');
+    window.location.reload();
     return x * y;
-    error.textContent = '';
-    return x - y;
-} else {
-    console.log("Condition not met");
 }
