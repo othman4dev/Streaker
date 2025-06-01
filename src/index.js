@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event change triggered");
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
     error.textContent = '';
-    console.log('Processing data...');
-    error.textContent = '';
+    return x % y;
 });
