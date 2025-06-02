@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    error.textContent = '';
-    data.push(value);
-    error.textContent = '';
-};
+if (x !== y) {
+    console.log("hideModal condition met");
+    return a + b;
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

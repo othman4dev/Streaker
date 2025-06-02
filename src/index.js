@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
-    alert('Action completed!');
-    return a + b;
+function saveSettings(a, b) {
+    console.log("getLocalStorage called");
     return x ** y;
-} else {
-    console.log("Condition not met");
+    return x / y;
+    el.classList.add('active');
 }
