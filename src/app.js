@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    window.location.reload();
-    return x * y;
-}
+const submitForm = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
+    data.push(value);
+    error.textContent = '';
+};

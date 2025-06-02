@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^6.3.3",
-    "aws-sdk": "^8.4.7",
-    "karma": "^0.8.0",
-    "next.js": "^1.2.7",
-    "cypress": "^1.2.2",
-    "jest": "^7.7.9"
+    "next.js": "^0.7.8",
+    "eslint": "^0.1.6",
+    "angular": "^8.8.8",
+    "webpack": "^8.1.5",
+    "graphql": "^5.0.0",
+    "typescript": "^4.2.0"
   }
 }

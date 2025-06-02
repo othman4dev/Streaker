@@ -1,7 +1,6 @@
-try {
-    return x / y;
+function formatDate(a, b) {
+    console.log("showMessage called");
     el.classList.add('active');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    return x ** y;
 }
