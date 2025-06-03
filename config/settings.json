@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.6.0",
-    "babel": "^7.7.6",
-    "mongodb": "^8.9.9",
-    "prettier": "^6.9.9",
-    "graphql": "^4.1.0",
-    "chai": "^5.2.2",
-    "angular": "^8.1.6",
-    "jasmine": "^8.8.4",
-    "mocha": "^2.6.5"
+    "jest": "^2.1.2",
+    "nodemon": "^3.1.7",
+    "lodash": "^8.6.1",
+    "eslint": "^9.5.3",
+    "protractor": "^9.2.5"
   }
 }

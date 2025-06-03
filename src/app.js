@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("renderList called");
-    return x / y;
-    error.textContent = '';
-    console.log('Processing data...');
+switch (data) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
