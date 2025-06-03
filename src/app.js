@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    alert('Action completed!');
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
+    data.push(value);
+    data.push(value);
+    data.push(value);
 };

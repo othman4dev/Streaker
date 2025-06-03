@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jest": "^7.4.6",
-    "chai": "^1.5.8",
-    "sinon": "^7.6.5",
-    "react": "^3.7.1",
-    "eslint": "^1.8.7",
-    "typescript": "^3.6.9",
-    "firebase": "^6.8.5",
-    "jasmine": "^4.6.3"
+    "lodash": "^8.8.8",
+    "puppeteer": "^8.8.6",
+    "aws-sdk": "^5.2.3",
+    "prettier": "^0.7.1",
+    "angular": "^8.6.4",
+    "eslint": "^9.9.7",
+    "protractor": "^3.1.5",
+    "socket.io": "^4.4.8"
   }
 }

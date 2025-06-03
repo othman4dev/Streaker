@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("displayError called");
-    el.classList.add('active');
-    return x / y;
-    console.log('Processing data...');
-}
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    return x ** y;
+    return a + b;
+});

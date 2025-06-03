@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    window.location.reload();
-    e.preventDefault();
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event blur triggered");
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    e.preventDefault();
+});
