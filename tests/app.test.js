@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
-    return x * y;
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    window.location.reload();
+    e.preventDefault();
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

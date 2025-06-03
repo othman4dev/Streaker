@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "karma": "^6.7.9",
-    "vue": "^3.8.7",
-    "typescript": "^7.4.2",
-    "graphql": "^5.3.3",
-    "ember": "^1.9.5"
+    "jest": "^7.4.6",
+    "chai": "^1.5.8",
+    "sinon": "^7.6.5",
+    "react": "^3.7.1",
+    "eslint": "^1.8.7",
+    "typescript": "^3.6.9",
+    "firebase": "^6.8.5",
+    "jasmine": "^4.6.3"
   }
 }

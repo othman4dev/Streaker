@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    return a + b;
-    return x / y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    window.location.reload();
+};
