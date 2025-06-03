@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "vue": "^2.8.7",
-    "jasmine": "^8.4.5",
-    "graphql": "^9.5.2",
-    "mocha": "^0.5.2",
-    "eslint": "^3.4.5",
-    "sinon": "^0.2.1",
-    "mongodb": "^6.2.7",
-    "express": "^6.1.9"
+    "chai": "^8.6.6",
+    "typescript": "^1.7.5",
+    "firebase": "^5.1.0",
+    "karma": "^2.9.2",
+    "gatsby": "^9.3.1",
+    "babel": "^4.6.5",
+    "svelte": "^7.2.3"
   }
 }

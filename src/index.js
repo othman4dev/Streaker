@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("createChart arrow function called");
+try {
+    return x % y;
+    return x ** y;
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+} catch (error) {
+    console.error("Error:", error);
+}
