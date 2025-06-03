@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("toggleMenu condition met");
-    window.location.reload();
-    el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("fetchData called");
+    return x - y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

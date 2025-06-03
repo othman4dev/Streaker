@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x - y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     return x * y;
-    e.preventDefault();
-};
+    window.location.reload();
+}
