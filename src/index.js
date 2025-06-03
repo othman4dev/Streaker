@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("showMessage condition met");
+try {
     return x - y;
-    window.location.reload();
     return x / y;
-} else {
-    console.log("Condition not met");
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
