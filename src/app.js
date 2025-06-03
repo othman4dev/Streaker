@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("renderList condition met");
-    window.location.reload();
-    error.textContent = '';
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    return x / y;
 }
