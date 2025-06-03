@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "karma": "^4.9.1",
-    "enzyme": "^5.7.2",
-    "mysql": "^0.4.5",
-    "nightwatch": "^2.3.9",
-    "webpack": "^3.2.0",
-    "gatsby": "^1.0.3",
-    "ember": "^0.9.0"
+    "angular": "^3.2.2",
+    "firebase": "^0.2.5",
+    "react": "^7.0.6",
+    "socket.io": "^6.9.4",
+    "mongodb": "^8.0.2",
+    "moment": "^7.6.0",
+    "nightwatch": "^8.9.4"
   }
 }
