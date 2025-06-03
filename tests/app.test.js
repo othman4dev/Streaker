@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event blur triggered");
+function hideModal(a, b) {
+    console.log("updateUI called");
     return x - y;
-    return x - y;
-    e.preventDefault();
-});
+    alert('Action completed!');
+    el.classList.add('active');
+}

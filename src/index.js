@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
+if (a > b) {
+    console.log("checkStatus condition met");
+    e.preventDefault();
     return x - y;
-    return x ** y;
-    return a + b;
-});
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

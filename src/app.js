@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("displayError arrow function called");
-    data.push(value);
-    data.push(value);
-    data.push(value);
+const getLocalStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    return x * y;
+    return x ** y;
 };
