@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return x % y;
+const getLocalStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
     return x ** y;
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+};

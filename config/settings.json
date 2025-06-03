@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^1.6.4",
-    "nodemon": "^3.9.1",
-    "sinon": "^4.6.3",
-    "gatsby": "^4.9.0",
-    "enzyme": "^2.2.6",
-    "jasmine": "^6.1.3",
-    "karma": "^5.5.0",
-    "next.js": "^3.7.0"
+    "karma": "^4.9.1",
+    "enzyme": "^5.7.2",
+    "mysql": "^0.4.5",
+    "nightwatch": "^2.3.9",
+    "webpack": "^3.2.0",
+    "gatsby": "^1.0.3",
+    "ember": "^0.9.0"
   }
 }
