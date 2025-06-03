@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x * y;
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
