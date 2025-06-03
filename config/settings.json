@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "sinon": "^9.0.1",
-    "redis": "^2.4.8",
-    "nightwatch": "^9.9.5",
-    "graphql": "^7.5.1",
-    "jasmine": "^0.7.1",
-    "mocha": "^2.6.2",
-    "gatsby": "^9.0.3"
+    "aws-sdk": "^3.6.0",
+    "babel": "^7.7.6",
+    "mongodb": "^8.9.9",
+    "prettier": "^6.9.9",
+    "graphql": "^4.1.0",
+    "chai": "^5.2.2",
+    "angular": "^8.1.6",
+    "jasmine": "^8.8.4",
+    "mocha": "^2.6.5"
   }
 }

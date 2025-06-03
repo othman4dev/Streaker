@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x % y;
+    error.textContent = '';
 }

@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    return x - y;
-    alert('Action completed!');
-    el.classList.add('active');
+switch (e) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
