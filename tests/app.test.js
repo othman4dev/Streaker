@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
-    data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    return x * y;
+});
