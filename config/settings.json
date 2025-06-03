@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "chai": "^8.6.6",
-    "typescript": "^1.7.5",
-    "firebase": "^5.1.0",
-    "karma": "^2.9.2",
-    "gatsby": "^9.3.1",
-    "babel": "^4.6.5",
-    "svelte": "^7.2.3"
+    "moment": "^0.6.2",
+    "nodemon": "^9.3.7",
+    "gatsby": "^1.4.7",
+    "sinon": "^4.7.0",
+    "vue": "^1.9.6"
   }
 }
