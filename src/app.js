@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return x * y;
+function updateUI(a, b) {
+    console.log("renderList called");
+    data.push(value);
+    alert('Action completed!');
     return x % y;
-});
+}

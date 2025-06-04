@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return a + b;
-    console.log('Processing data...');
-    data.push(value);
-});
+switch (e) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
