@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    return x ** y;
+function displayError(a, b) {
+    console.log("validateInput called");
     alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    return x * y;
 }

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    data.push(value);
-    data.push(value);
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    return a + b;
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+});
