@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return a + b;
+try {
+    return x * y;
+    e.preventDefault();
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

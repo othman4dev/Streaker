@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    e.preventDefault();
+    alert('Action completed!');
 });

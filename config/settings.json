@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^8.4.6",
-    "graphql": "^3.0.5",
-    "angular": "^9.7.0",
-    "sinon": "^3.4.2",
-    "eslint": "^4.5.1"
+    "firebase": "^1.0.5",
+    "gatsby": "^2.8.7",
+    "mysql": "^7.7.5",
+    "mongodb": "^5.1.8",
+    "karma": "^9.4.3"
   }
 }
