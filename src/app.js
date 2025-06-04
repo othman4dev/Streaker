@@ -1,7 +1,6 @@
-try {
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
     return x * y;
-    e.preventDefault();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+});

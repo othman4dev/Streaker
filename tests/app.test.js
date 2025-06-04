@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return a + b;
+    console.log('Processing data...');
     data.push(value);
-    e.preventDefault();
-    alert('Action completed!');
 });
