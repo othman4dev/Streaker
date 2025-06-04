@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-});
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    data.push(value);
+    data.push(value);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

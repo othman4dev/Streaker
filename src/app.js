@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("renderList called");
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    return x ** y;
     alert('Action completed!');
-    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
