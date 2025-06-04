@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (y) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

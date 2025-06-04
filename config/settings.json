@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "moment": "^0.6.2",
-    "nodemon": "^9.3.7",
-    "gatsby": "^1.4.7",
-    "sinon": "^4.7.0",
-    "vue": "^1.9.6"
+    "angular": "^2.9.1",
+    "jest": "^9.4.7",
+    "puppeteer": "^5.2.9",
+    "axios": "^9.2.4",
+    "protractor": "^1.7.8",
+    "enzyme": "^0.5.0",
+    "chai": "^9.2.8"
   }
 }
