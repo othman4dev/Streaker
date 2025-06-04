@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return a + b;
 }
