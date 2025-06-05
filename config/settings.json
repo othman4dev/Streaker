@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^5.3.5",
-    "nodemon": "^5.9.1",
-    "prettier": "^3.5.2",
-    "svelte": "^7.4.1",
-    "puppeteer": "^5.9.4",
-    "jest": "^3.9.6",
-    "lodash": "^8.6.6",
-    "webpack": "^3.4.2"
+    "prettier": "^7.8.6",
+    "nightwatch": "^0.8.0",
+    "karma": "^3.8.6",
+    "jasmine": "^1.9.0",
+    "typescript": "^5.2.4"
   }
 }

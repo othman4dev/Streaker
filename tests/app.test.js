@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    alert('Action completed!');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x / y;
+    el.classList.add('active');
+    console.log('Processing data...');
+};

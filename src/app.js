@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const submitForm = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
+    return x - y;
+    el.classList.add('active');
+};
