@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
     return a + b;
-    return x - y;
-    return a + b;
-}
+});

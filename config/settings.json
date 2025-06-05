@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^0.4.1",
-    "redis": "^4.5.2",
-    "react": "^7.2.4",
-    "nightwatch": "^2.9.8",
-    "gatsby": "^8.2.7"
+    "typescript": "^6.1.1",
+    "react": "^4.5.2",
+    "axios": "^4.3.2",
+    "graphql": "^3.0.1",
+    "mocha": "^9.7.3"
   }
 }

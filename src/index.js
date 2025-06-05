@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
-    el.classList.add('active');
-    e.preventDefault();
-};
+switch (data) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

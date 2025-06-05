@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
-    return x ** y;
-    e.preventDefault();
-    console.log('Processing data...');
+switch (value) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
