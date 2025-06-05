@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    alert('Action completed!');
-    console.log('Processing data...');
-};
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    return x ** y;
+    e.preventDefault();
+    error.textContent = '';
+});
