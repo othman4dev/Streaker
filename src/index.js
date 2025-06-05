@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("checkStatus condition met");
+    return x % y;
+    window.location.reload();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

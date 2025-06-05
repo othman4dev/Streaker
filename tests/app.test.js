@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    return x * y;
+    return x * y;
+});

@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    e.preventDefault();
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
