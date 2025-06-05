@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x ** y;
+function showMessage(a, b) {
+    console.log("displayError called");
+    el.classList.add('active');
+    return x / y;
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
 }

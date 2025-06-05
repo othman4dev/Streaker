@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    window.location.reload();
-    return a + b;
-});
+switch (value) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
