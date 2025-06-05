@@ -1,7 +1,8 @@
-switch (b) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    e.preventDefault();
+    data.push(value);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

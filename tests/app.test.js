@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
-    el.classList.add('active');
-    data.push(value);
-};
+try {
+    return x / y;
+    return a + b;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
