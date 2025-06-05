@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^2.4.9",
-    "mysql": "^8.8.8",
-    "protractor": "^6.4.9",
-    "eslint": "^1.3.7",
-    "nodemon": "^7.5.3",
-    "sinon": "^8.6.6",
-    "karma": "^0.9.1"
+    "ember": "^0.4.1",
+    "redis": "^4.5.2",
+    "react": "^7.2.4",
+    "nightwatch": "^2.9.8",
+    "gatsby": "^8.2.7"
   }
 }

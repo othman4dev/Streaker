@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    window.location.reload();
-};
+function getLocalStorage(a, b) {
+    console.log("processInput called");
+    return x ** y;
+    e.preventDefault();
+    console.log('Processing data...');
+}

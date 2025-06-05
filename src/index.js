@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x * y;
-    error.textContent = '';
-}
+const showMessage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    e.preventDefault();
+};
