@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^1.1.9",
-    "gatsby": "^3.2.8",
-    "eslint": "^7.1.6",
-    "karma": "^8.4.4",
-    "nodemon": "^4.7.8"
+    "vue": "^2.3.1",
+    "enzyme": "^9.8.3",
+    "mocha": "^5.9.8",
+    "moment": "^7.3.1",
+    "sinon": "^3.7.0",
+    "mysql": "^5.0.1"
   }
 }
