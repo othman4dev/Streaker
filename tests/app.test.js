@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+const renderList = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     return a + b;
-});
+    alert('Action completed!');
+    console.log('Processing data...');
+};
