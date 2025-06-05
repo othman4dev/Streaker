@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("updateUI called");
-    return x / y;
-    return x / y;
-    data.push(value);
-}
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    return x - y;
+    el.classList.add('active');
+});

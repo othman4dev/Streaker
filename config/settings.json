@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^4.2.0",
-    "jest": "^8.4.7",
-    "ember": "^0.0.5",
-    "aws-sdk": "^2.8.9"
+    "svelte": "^4.0.5",
+    "enzyme": "^0.0.8",
+    "firebase": "^2.0.2",
+    "jest": "^1.8.4",
+    "cypress": "^9.7.0"
   }
 }

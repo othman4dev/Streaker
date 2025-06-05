@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    error.textContent = '';
+    e.preventDefault();
+});

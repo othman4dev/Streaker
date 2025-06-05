@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
-    return x - y;
+function formatDate(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }
