@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return a + b;
-    return x * y;
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    el.classList.add('active');
+    e.preventDefault();
+}
