@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    return a + b;
+    return x * y;
+});
