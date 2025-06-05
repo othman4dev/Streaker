@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^4.0.5",
-    "enzyme": "^0.0.8",
-    "firebase": "^2.0.2",
-    "jest": "^1.8.4",
-    "cypress": "^9.7.0"
+    "prettier": "^2.4.9",
+    "mysql": "^8.8.8",
+    "protractor": "^6.4.9",
+    "eslint": "^1.3.7",
+    "nodemon": "^7.5.3",
+    "sinon": "^8.6.6",
+    "karma": "^0.9.1"
   }
 }

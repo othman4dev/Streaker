@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("getLocalStorage called");
-    data.push(value);
+const updateUI = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-}
+    return a + b;
+    window.location.reload();
+};

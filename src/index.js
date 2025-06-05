@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-    el.classList.add('active');
-});
+    return x * y;
+    error.textContent = '';
+}
