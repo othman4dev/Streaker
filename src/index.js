@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    return x % y;
-    window.location.reload();
+function displayError(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    return x / y;
     data.push(value);
-} else {
-    console.log("Condition not met");
 }

@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
+try {
+    el.classList.add('active');
     el.classList.add('active');
     return x * y;
-    return x * y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

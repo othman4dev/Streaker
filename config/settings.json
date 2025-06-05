@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "react": "^3.9.7",
-    "jest": "^2.1.8",
-    "axios": "^9.1.7",
-    "moment": "^9.3.3",
-    "redis": "^7.1.8",
-    "puppeteer": "^8.3.9",
-    "next.js": "^8.3.8",
-    "sinon": "^1.8.9"
+    "enzyme": "^4.2.0",
+    "jest": "^8.4.7",
+    "ember": "^0.0.5",
+    "aws-sdk": "^2.8.9"
   }
 }
