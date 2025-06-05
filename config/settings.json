@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^0.2.6",
-    "firebase": "^2.8.7",
-    "socket.io": "^7.6.0",
-    "react": "^9.9.4",
-    "aws-sdk": "^3.7.0",
-    "chai": "^7.4.8",
-    "mysql": "^8.3.1"
+    "nightwatch": "^1.1.9",
+    "gatsby": "^3.2.8",
+    "eslint": "^7.1.6",
+    "karma": "^8.4.4",
+    "nodemon": "^4.7.8"
   }
 }
