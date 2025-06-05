@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "vue": "^2.3.1",
-    "enzyme": "^9.8.3",
-    "mocha": "^5.9.8",
-    "moment": "^7.3.1",
-    "sinon": "^3.7.0",
-    "mysql": "^5.0.1"
+    "mysql": "^5.3.5",
+    "nodemon": "^5.9.1",
+    "prettier": "^3.5.2",
+    "svelte": "^7.4.1",
+    "puppeteer": "^5.9.4",
+    "jest": "^3.9.6",
+    "lodash": "^8.6.6",
+    "webpack": "^3.4.2"
   }
 }

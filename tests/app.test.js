@@ -1,7 +1,7 @@
 try {
-    return x / y;
-    el.classList.add('active');
-    error.textContent = '';
+    return x ** y;
+    alert('Action completed!');
+    return x * y;
 } catch (error) {
     console.error("Error:", error);
 }
