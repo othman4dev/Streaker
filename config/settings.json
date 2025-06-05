@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^3.3.7",
-    "sinon": "^2.9.5",
-    "eslint": "^3.0.8",
-    "angular": "^3.1.6",
-    "redis": "^4.7.8",
-    "mongodb": "^7.1.5",
-    "puppeteer": "^6.9.5",
-    "enzyme": "^4.2.0"
+    "jest": "^7.6.7",
+    "enzyme": "^8.5.5",
+    "sinon": "^8.2.9",
+    "next.js": "^1.0.4",
+    "socket.io": "^0.6.0"
   }
 }
