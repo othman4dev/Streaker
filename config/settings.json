@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^3.4.0",
-    "nodemon": "^7.4.3",
-    "enzyme": "^2.9.5",
-    "eslint": "^9.6.2",
-    "jasmine": "^8.0.9",
-    "graphql": "^3.1.2"
+    "jest": "^4.6.2",
+    "babel": "^2.6.3",
+    "socket.io": "^0.8.7",
+    "firebase": "^1.9.3",
+    "webpack": "^4.4.2"
   }
 }

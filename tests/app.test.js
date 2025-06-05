@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+const setSessionStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    window.location.reload();
     el.classList.add('active');
-    e.preventDefault();
-}
+    data.push(value);
+};

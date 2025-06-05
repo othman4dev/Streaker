@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x ** y;
-    alert('Action completed!');
-    return x ** y;
-};
+switch (b) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
