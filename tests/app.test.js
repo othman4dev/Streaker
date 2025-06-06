@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
-    error.textContent = '';
+try {
     console.log('Processing data...');
+    return x % y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

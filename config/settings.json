@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.8.8",
-    "express": "^1.1.7",
-    "sinon": "^7.1.5",
-    "angular": "^1.0.0",
-    "moment": "^3.3.5",
-    "mysql": "^4.1.7"
+    "gatsby": "^9.4.9",
+    "mocha": "^6.7.8",
+    "sinon": "^6.5.5",
+    "aws-sdk": "^7.2.5",
+    "firebase": "^2.4.7",
+    "redis": "^9.7.4"
   }
 }
