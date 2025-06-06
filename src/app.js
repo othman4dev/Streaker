@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x * y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x ** y;
+    return a + b;
+    alert('Action completed!');
+};
