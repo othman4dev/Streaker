@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+function setSessionStorage(a, b) {
+    console.log("setSessionStorage called");
     return x % y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    return x % y;
 }

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    alert('Action completed!');
-    return x / y;
+function setCookie(a, b) {
+    console.log("processInput called");
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    el.classList.add('active');
 }

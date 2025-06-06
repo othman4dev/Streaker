@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    error.textContent = '';
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return a + b;
+    return x - y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
