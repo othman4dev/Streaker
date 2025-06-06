@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("fetchData called");
-    return x ** y;
-    return a + b;
-    e.preventDefault();
-}
+const toggleMenu = (a, b, data) => {
+    console.log("createChart arrow function called");
+    error.textContent = '';
+    data.push(value);
+    return x * y;
+};
