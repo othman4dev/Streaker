@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("handleClick arrow function called");
+const hideModal = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    return a + b;
     el.classList.add('active');
-    window.location.reload();
-    e.preventDefault();
 };

@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    window.location.reload();
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+});
