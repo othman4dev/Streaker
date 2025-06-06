@@ -1,6 +1,7 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    data.push(value);
-    el.classList.add('active');
+try {
+    e.preventDefault();
+    return x * y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
