@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    e.preventDefault();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("handleClick called");
+    alert('Action completed!');
+    error.textContent = '';
+    console.log('Processing data...');
 }

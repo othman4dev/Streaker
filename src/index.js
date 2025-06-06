@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
+    return x / y;
+    window.location.reload();
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

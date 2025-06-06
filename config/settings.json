@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "express": "^3.8.4",
-    "cypress": "^2.6.9",
-    "eslint": "^1.7.3",
-    "mysql": "^6.9.5",
-    "jest": "^6.6.9"
+    "babel": "^4.8.8",
+    "express": "^1.1.7",
+    "sinon": "^7.1.5",
+    "angular": "^1.0.0",
+    "moment": "^3.3.5",
+    "mysql": "^4.1.7"
   }
 }

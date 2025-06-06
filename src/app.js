@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x ** y;
-    return a + b;
-    alert('Action completed!');
+const showMessage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    return x * y;
 };
