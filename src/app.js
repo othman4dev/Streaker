@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    window.location.reload();
-    data.push(value);
-});
+function processInput(a, b) {
+    console.log("fetchData called");
+    return x ** y;
+    return a + b;
+    e.preventDefault();
+}
