@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.1.8",
-    "puppeteer": "^0.5.4",
-    "enzyme": "^1.8.1",
-    "svelte": "^5.0.9",
-    "jest": "^2.8.6",
-    "socket.io": "^2.9.6",
-    "mongodb": "^8.5.9"
+    "angular": "^6.8.2",
+    "typescript": "^7.7.7",
+    "eslint": "^8.7.9",
+    "moment": "^0.3.8",
+    "babel": "^4.2.2"
   }
 }

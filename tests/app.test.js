@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    return x ** y;
-    return x / y;
+try {
+    error.textContent = '';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

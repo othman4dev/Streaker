@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x - y;
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event input triggered");
     console.log('Processing data...');
-    return x - y;
+    return x % y;
+    el.classList.add('active');
 });
