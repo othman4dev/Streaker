@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const displayError = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

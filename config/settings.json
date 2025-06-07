@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "angular": "^6.8.2",
-    "typescript": "^7.7.7",
-    "eslint": "^8.7.9",
-    "moment": "^0.3.8",
-    "babel": "^4.2.2"
+    "webpack": "^4.7.7",
+    "aws-sdk": "^5.8.1",
+    "protractor": "^6.1.1",
+    "moment": "^2.2.0",
+    "angular": "^9.7.4"
   }
 }

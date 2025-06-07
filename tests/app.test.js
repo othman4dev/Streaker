@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    el.classList.add('active');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
