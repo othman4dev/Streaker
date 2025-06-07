@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^4.7.7",
-    "aws-sdk": "^5.8.1",
-    "protractor": "^6.1.1",
-    "moment": "^2.2.0",
-    "angular": "^9.7.4"
+    "ember": "^0.3.1",
+    "mocha": "^2.9.2",
+    "socket.io": "^0.4.8",
+    "express": "^1.4.2",
+    "karma": "^9.4.8",
+    "sinon": "^2.4.5",
+    "nightwatch": "^7.9.9",
+    "axios": "^3.1.2"
   }
 }

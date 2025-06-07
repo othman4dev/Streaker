@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    return x - y;
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});

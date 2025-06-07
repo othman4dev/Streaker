@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    data.push(value);
-    e.preventDefault();
-});
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    window.location.reload();
+    return x - y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
