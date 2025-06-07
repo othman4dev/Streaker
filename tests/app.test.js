@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+function processInput(a, b) {
+    console.log("animateElement called");
     return x * y;
-});
+    window.location.reload();
+    window.location.reload();
+}

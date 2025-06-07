@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    window.location.reload();
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const renderList = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    data.push(value);
+    error.textContent = '';
+    error.textContent = '';
+};

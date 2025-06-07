@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    window.location.reload();
+function removeItem(a, b) {
+    console.log("processInput called");
+    alert('Action completed!');
     e.preventDefault();
-});
+    e.preventDefault();
+}
