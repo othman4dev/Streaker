@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("createChart arrow function called");
-    error.textContent = '';
-    data.push(value);
-    return x * y;
-};
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    console.log('Processing data...');
+    return x - y;
+});
