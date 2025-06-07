@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.2.2",
-    "graphql": "^1.8.0",
-    "svelte": "^5.5.8",
-    "axios": "^1.8.9",
-    "babel": "^7.1.7",
-    "cypress": "^8.3.3"
+    "aws-sdk": "^3.5.4",
+    "firebase": "^9.7.6",
+    "gatsby": "^3.1.9",
+    "jasmine": "^8.8.3",
+    "webpack": "^0.0.1",
+    "chai": "^3.8.9",
+    "karma": "^5.6.5",
+    "vue": "^6.1.7",
+    "eslint": "^2.5.0"
   }
 }
