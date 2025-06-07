@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x - y;
-    return a + b;
-    el.classList.add('active');
-};
+try {
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

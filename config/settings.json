@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "gatsby": "^5.3.7",
-    "angular": "^5.0.0",
-    "graphql": "^9.6.7",
-    "aws-sdk": "^8.7.0",
-    "vue": "^5.0.4",
-    "typescript": "^1.9.2"
+    "nightwatch": "^0.5.0",
+    "express": "^3.0.7",
+    "aws-sdk": "^4.2.8",
+    "puppeteer": "^3.9.6"
   }
 }
