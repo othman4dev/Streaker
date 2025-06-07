@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    return x / y;
-    return x - y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    console.log('Processing data...');
 }
