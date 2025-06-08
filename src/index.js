@@ -1,7 +1,7 @@
-try {
-    return x / y;
-    error.textContent = '';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+switch (a) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

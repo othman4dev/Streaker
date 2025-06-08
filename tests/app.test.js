@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("toggleMenu called");
+if (a > b) {
+    console.log("setSessionStorage condition met");
+    alert('Action completed!');
+    return x - y;
     return x / y;
-    error.textContent = '';
-    return x ** y;
+} else {
+    console.log("Condition not met");
 }

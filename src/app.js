@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("createChart called");
+try {
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+    return x - y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
