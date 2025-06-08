@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    alert('Action completed!');
-    e.preventDefault();
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
     e.preventDefault();
 }

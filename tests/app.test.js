@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("animateElement called");
-    return x * y;
-    window.location.reload();
-    window.location.reload();
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    el.classList.add('active');
+});
