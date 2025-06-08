@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event scroll triggered");
     console.log('Processing data...');
-    error.textContent = '';
-}
+    console.log('Processing data...');
+    return x ** y;
+});

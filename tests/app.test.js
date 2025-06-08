@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
+try {
     return a + b;
-    el.classList.add('active');
-});
+    alert('Action completed!');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

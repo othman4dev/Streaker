@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mysql": "^2.4.7",
-    "aws-sdk": "^2.8.5",
-    "firebase": "^6.9.1",
-    "puppeteer": "^8.5.4",
-    "enzyme": "^6.9.6",
-    "axios": "^7.4.0",
-    "protractor": "^3.2.8"
+    "aws-sdk": "^4.5.8",
+    "jest": "^8.4.5",
+    "vue": "^9.2.9",
+    "karma": "^8.6.5",
+    "babel": "^4.0.0",
+    "react": "^3.7.6",
+    "prettier": "^6.1.7"
   }
 }
