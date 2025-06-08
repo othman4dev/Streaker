@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    alert('Action completed!');
-    return x - y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }
