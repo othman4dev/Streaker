@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    window.location.reload();
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    e.preventDefault();
+    return x ** y;
+    console.log('Processing data...');
 }
