@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event scroll triggered");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     console.log('Processing data...');
-    console.log('Processing data...');
-    return x ** y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+}
