@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    data.push(value);
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+});

@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    return x * y;
+const loadData = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return x ** y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+};
