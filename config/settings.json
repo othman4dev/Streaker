@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^4.0.8",
-    "webpack": "^8.0.5",
-    "react": "^1.0.3",
-    "ember": "^7.5.5",
-    "cypress": "^1.9.9",
-    "karma": "^7.8.7",
-    "express": "^2.3.0"
+    "express": "^8.3.2",
+    "svelte": "^4.8.7",
+    "redis": "^1.7.7",
+    "mysql": "^4.2.0",
+    "socket.io": "^7.9.8"
   }
 }

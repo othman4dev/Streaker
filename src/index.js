@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    error.textContent = '';
+    el.classList.add('active');
+}

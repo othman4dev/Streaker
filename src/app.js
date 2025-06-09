@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    return x * y;
-    return x ** y;
-});
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    console.log('Processing data...');
+    return x - y;
+}
