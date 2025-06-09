@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return a + b;
+    return x ** y;
+    return x / y;
+};

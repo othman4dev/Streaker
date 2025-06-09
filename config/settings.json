@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "angular": "^7.4.5",
-    "typescript": "^7.1.8",
-    "chai": "^4.9.7",
-    "firebase": "^1.7.5",
-    "jest": "^2.7.4",
-    "prettier": "^0.7.2"
+    "gatsby": "^4.5.2",
+    "vue": "^8.0.3",
+    "moment": "^7.9.2",
+    "nodemon": "^0.3.9",
+    "protractor": "^6.3.7",
+    "jest": "^4.7.6",
+    "karma": "^5.1.5",
+    "firebase": "^6.1.8"
   }
 }

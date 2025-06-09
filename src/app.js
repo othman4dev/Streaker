@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x / y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const hideModal = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    data.push(value);
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+};
