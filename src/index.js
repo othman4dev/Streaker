@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x ** y;
-    console.log('Processing data...');
+function fetchData(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    alert('Action completed!');
+    return x / y;
 }

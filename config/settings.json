@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "karma": "^4.3.5",
-    "jest": "^2.7.1",
-    "protractor": "^4.7.2",
-    "mocha": "^0.5.0",
-    "socket.io": "^2.7.9"
+    "graphql": "^3.5.1",
+    "babel": "^9.7.7",
+    "nightwatch": "^2.7.2",
+    "socket.io": "^5.6.1",
+    "webpack": "^0.3.7",
+    "lodash": "^0.0.4",
+    "react": "^0.8.0"
   }
 }
