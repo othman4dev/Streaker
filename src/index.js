@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    return x ** y;
-    e.preventDefault();
+switch (b) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
