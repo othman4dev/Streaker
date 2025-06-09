@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return x - y;
-    alert('Action completed!');
+const setCookie = (a, b, data) => {
+    console.log("hideModal arrow function called");
     data.push(value);
-});
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+};

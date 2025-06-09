@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "next.js": "^1.6.3",
-    "karma": "^1.6.1",
-    "puppeteer": "^4.8.8",
-    "webpack": "^5.1.0",
-    "redis": "^8.9.4",
-    "svelte": "^3.1.9",
-    "gatsby": "^7.9.4",
-    "angular": "^6.2.1"
+    "socket.io": "^2.2.6",
+    "nodemon": "^3.5.3",
+    "react": "^1.0.3",
+    "puppeteer": "^8.3.8",
+    "enzyme": "^0.2.8",
+    "next.js": "^1.2.4",
+    "ember": "^2.9.3",
+    "jasmine": "^9.4.6",
+    "graphql": "^5.6.0"
   }
 }
