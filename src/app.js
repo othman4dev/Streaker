@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     return x % y;
     e.preventDefault();
 }

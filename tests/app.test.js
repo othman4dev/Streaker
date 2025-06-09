@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("fetchData called");
+function displayError(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    return x / y;
     alert('Action completed!');
-    console.log('Processing data...');
-    el.classList.add('active');
 }
