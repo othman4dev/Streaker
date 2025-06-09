@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("submitForm arrow function called");
     alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    return x * y;
+};
