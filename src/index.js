@@ -1,7 +1,8 @@
-switch (x) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("fetchData condition met");
+    return x ** y;
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    console.log('Processing data...');
     el.classList.add('active');
-}
+});

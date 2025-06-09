@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("createChart arrow function called");
+    el.classList.add('active');
+    return a + b;
+    error.textContent = '';
+};
