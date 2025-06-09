@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    el.classList.add('active');
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x - y;
     alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});

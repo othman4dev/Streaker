@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("submitForm arrow function called");
+try {
+    window.location.reload();
     alert('Action completed!');
-    data.push(value);
-    return x * y;
-};
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

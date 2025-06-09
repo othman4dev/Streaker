@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    return x % y;
+    return x * y;
+});
