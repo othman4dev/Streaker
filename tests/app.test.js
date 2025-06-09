@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    return x - y;
-    error.textContent = '';
-    return x - y;
-});
+if (a > b) {
+    console.log("removeItem condition met");
+    console.log('Processing data...');
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
