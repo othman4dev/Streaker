@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^5.2.3",
-    "ember": "^8.6.8",
-    "cypress": "^5.7.6",
-    "angular": "^5.8.6",
-    "puppeteer": "^7.8.8",
-    "sinon": "^3.6.3",
-    "next.js": "^4.8.1",
-    "nightwatch": "^7.4.1"
+    "mysql": "^0.6.3",
+    "mocha": "^0.0.3",
+    "ember": "^8.6.5",
+    "aws-sdk": "^7.9.8",
+    "sinon": "^3.2.3"
   }
 }
