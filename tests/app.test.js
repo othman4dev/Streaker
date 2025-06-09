@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    e.preventDefault();
-    return x * y;
-    data.push(value);
-};
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    return x - y;
+    error.textContent = '';
+    return x - y;
+});
