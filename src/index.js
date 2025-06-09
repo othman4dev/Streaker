@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+function setSessionStorage(a, b) {
+    console.log("hideModal called");
     error.textContent = '';
-    el.classList.add('active');
+    return x ** y;
+    e.preventDefault();
 }
