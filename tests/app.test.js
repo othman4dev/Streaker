@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    return a + b;
+function setSessionStorage(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
+    console.log('Processing data...');
     el.classList.add('active');
-});
+}

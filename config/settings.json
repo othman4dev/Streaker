@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "mysql": "^0.6.3",
-    "mocha": "^0.0.3",
-    "ember": "^8.6.5",
-    "aws-sdk": "^7.9.8",
-    "sinon": "^3.2.3"
+    "enzyme": "^2.7.3",
+    "cypress": "^3.2.9",
+    "mongodb": "^3.8.5",
+    "firebase": "^7.9.4"
   }
 }
