@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    data.push(value);
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-};
+function hideModal(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    return x * y;
+    return x ** y;
+}
