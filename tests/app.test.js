@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    el.classList.add('active');
-});
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
+    return x * y;
+    data.push(value);
+};

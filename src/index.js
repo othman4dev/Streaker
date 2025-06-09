@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    return x / y;
     return x ** y;
-    console.log('Processing data...');
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+});

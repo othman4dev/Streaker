@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("createChart arrow function called");
-    el.classList.add('active');
-    return a + b;
-    error.textContent = '';
-};
+switch (b) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
