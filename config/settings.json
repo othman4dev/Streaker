@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^8.5.5",
-    "chai": "^8.6.5",
-    "socket.io": "^2.7.1",
-    "jest": "^7.2.8",
-    "ember": "^2.0.2",
-    "axios": "^4.3.9",
-    "sinon": "^2.0.6"
+    "lodash": "^4.7.9",
+    "cypress": "^2.1.6",
+    "react": "^3.6.3",
+    "aws-sdk": "^4.6.3",
+    "eslint": "^9.4.3",
+    "chai": "^6.1.0"
   }
 }

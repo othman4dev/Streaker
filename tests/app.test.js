@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    data.push(value);
-    return x / y;
+if (a > b) {
+    console.log("loadData condition met");
+    return x ** y;
+    return a + b;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

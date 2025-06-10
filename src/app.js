@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x * y;
-};
+    error.textContent = '';
+    window.location.reload();
+}
