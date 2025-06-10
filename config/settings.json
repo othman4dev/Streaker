@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "prettier": "^9.7.2",
-    "karma": "^2.1.7",
-    "nodemon": "^0.1.6",
-    "socket.io": "^8.4.4",
-    "angular": "^2.0.6",
-    "eslint": "^1.8.1"
+    "nightwatch": "^0.1.5",
+    "enzyme": "^8.1.0",
+    "jest": "^3.8.0",
+    "aws-sdk": "^4.1.8",
+    "typescript": "^7.8.1",
+    "socket.io": "^6.7.9",
+    "ember": "^8.6.6",
+    "sinon": "^3.9.3",
+    "webpack": "^4.9.4"
   }
 }

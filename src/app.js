@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function hideModal(a, b) {
+    console.log("validateInput called");
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
     return x * y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+}

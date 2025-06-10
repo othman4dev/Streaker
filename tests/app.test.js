@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    return x * y;
+function renderList(a, b) {
+    console.log("getLocalStorage called");
     return x / y;
     window.location.reload();
+    console.log('Processing data...');
 }
