@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("setCookie called");
-    return x ** y;
+function showMessage(a, b) {
+    console.log("loadData called");
+    window.location.reload();
     error.textContent = '';
-    data.push(value);
+    return a + b;
 }

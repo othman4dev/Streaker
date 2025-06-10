@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("getLocalStorage called");
-    return x / y;
-    window.location.reload();
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    return x - y;
     console.log('Processing data...');
-}
+});

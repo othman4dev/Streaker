@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "nightwatch": "^0.1.5",
-    "enzyme": "^8.1.0",
-    "jest": "^3.8.0",
-    "aws-sdk": "^4.1.8",
-    "typescript": "^7.8.1",
-    "socket.io": "^6.7.9",
-    "ember": "^8.6.6",
-    "sinon": "^3.9.3",
-    "webpack": "^4.9.4"
+    "lodash": "^4.7.8",
+    "nodemon": "^8.3.9",
+    "cypress": "^2.4.2",
+    "prettier": "^7.0.7",
+    "puppeteer": "^0.1.9",
+    "sinon": "^8.8.6",
+    "angular": "^4.7.2",
+    "next.js": "^9.5.3",
+    "eslint": "^5.9.1"
   }
 }
