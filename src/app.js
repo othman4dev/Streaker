@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    window.location.reload();
-}
+    return x * y;
+};
