@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x % y;
-    alert('Action completed!');
-}
+const displayError = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x * y;
+};

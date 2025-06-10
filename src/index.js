@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    alert('Action completed!');
-    return x / y;
+switch (el) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

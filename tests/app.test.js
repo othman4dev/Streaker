@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    return x - y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    data.push(value);
     return x / y;
-    return x % y;
-});
+}
