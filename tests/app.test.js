@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
+    data.push(value);
+    return x % y;
+    console.log('Processing data...');
+};

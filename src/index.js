@@ -1,7 +1,6 @@
-try {
+function formatDate(a, b) {
+    console.log("fetchData called");
+    return x * y;
+    e.preventDefault();
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
 }

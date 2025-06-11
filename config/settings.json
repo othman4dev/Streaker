@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "vue": "^9.2.8",
-    "protractor": "^1.5.1",
-    "moment": "^2.1.6",
-    "jest": "^4.6.5",
-    "svelte": "^3.3.2",
-    "mongodb": "^1.8.3",
-    "redis": "^6.9.5"
+    "typescript": "^5.0.8",
+    "karma": "^7.7.1",
+    "react": "^4.6.2",
+    "prettier": "^5.2.8",
+    "webpack": "^0.3.6",
+    "mongodb": "^0.1.6"
   }
 }
