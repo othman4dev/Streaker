@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    data.push(value);
     return x ** y;
-    console.log('Processing data...');
-};
+    data.push(value);
+});

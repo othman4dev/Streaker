@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("displayError arrow function called");
-    data.push(value);
-    return x % y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-};
+    return a + b;
+    return x % y;
+}
