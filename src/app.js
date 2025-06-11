@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    return a + b;
-};
+switch (el) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
