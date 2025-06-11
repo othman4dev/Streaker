@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    return x * y;
-    el.classList.add('active');
-};
+switch (y) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
