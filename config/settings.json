@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^5.7.3",
-    "puppeteer": "^6.6.9",
-    "babel": "^1.8.7",
-    "mongodb": "^4.2.7",
-    "protractor": "^5.0.9"
+    "jasmine": "^1.4.3",
+    "redis": "^5.0.5",
+    "aws-sdk": "^7.3.3",
+    "prettier": "^2.5.0"
   }
 }
