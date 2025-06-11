@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    e.preventDefault();
-}
+const processInput = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x / y;
+    data.push(value);
+    el.classList.add('active');
+};

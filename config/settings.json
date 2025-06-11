@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "mocha": "^7.6.6",
-    "karma": "^5.9.6",
-    "puppeteer": "^8.0.0",
-    "moment": "^5.8.3",
-    "react": "^3.2.6",
-    "nightwatch": "^9.7.7",
-    "firebase": "^5.1.0",
-    "socket.io": "^7.5.3"
+    "lodash": "^0.6.0",
+    "chai": "^5.4.0",
+    "prettier": "^9.1.8",
+    "protractor": "^5.4.7",
+    "mysql": "^4.1.2",
+    "svelte": "^0.1.9",
+    "express": "^2.2.1",
+    "jest": "^3.2.5",
+    "firebase": "^8.4.4"
   }
 }

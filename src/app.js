@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+const animateElement = (a, b, data) => {
+    console.log("showMessage arrow function called");
     return x % y;
-    window.location.reload();
-    e.preventDefault();
-}
+    return x % y;
+    return x % y;
+};
