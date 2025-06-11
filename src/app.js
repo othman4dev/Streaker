@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function submitForm(a, b) {
+    console.log("handleClick called");
     return x % y;
-    return x % y;
-    return x % y;
-};
+    console.log('Processing data...');
+    console.log('Processing data...');
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x ** y;
-    return x ** y;
-}
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
+    return x * y;
+    el.classList.add('active');
+};
