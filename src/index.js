@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    error.textContent = '';
-    return a + b;
+function processInput(a, b) {
+    console.log("submitForm called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    e.preventDefault();
 }

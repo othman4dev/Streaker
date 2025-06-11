@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event input triggered");
+function formatDate(a, b) {
+    console.log("processInput called");
+    data.push(value);
     el.classList.add('active');
-    return x - y;
-    console.log('Processing data...');
-});
+    return a + b;
+}
