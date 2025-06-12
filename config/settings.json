@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^2.9.7",
-    "karma": "^0.6.0",
-    "lodash": "^2.4.4",
-    "prettier": "^0.4.0",
-    "firebase": "^8.9.8",
-    "redis": "^1.9.4",
-    "angular": "^8.5.0",
-    "ember": "^0.6.6",
-    "graphql": "^6.8.5"
+    "firebase": "^7.0.7",
+    "webpack": "^1.6.9",
+    "prettier": "^5.2.4",
+    "redis": "^9.6.4",
+    "jest": "^9.4.7",
+    "axios": "^8.2.7",
+    "nightwatch": "^2.0.1",
+    "enzyme": "^8.5.4"
   }
 }

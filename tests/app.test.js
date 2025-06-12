@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return a + b;
-    e.preventDefault();
-}
+const showMessage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
+    data.push(value);
+    window.location.reload();
+};
