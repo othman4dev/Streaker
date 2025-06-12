@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "react": "^0.2.7",
-    "cypress": "^3.3.8",
-    "puppeteer": "^1.9.5",
-    "mysql": "^3.0.7"
+    "nodemon": "^9.6.0",
+    "webpack": "^3.7.0",
+    "react": "^0.8.0",
+    "ember": "^3.0.5",
+    "graphql": "^1.8.6",
+    "mongodb": "^7.4.2"
   }
 }

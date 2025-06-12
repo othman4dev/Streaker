@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    data.push(value);
-    alert('Action completed!');
+const updateUI = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x - y;
+    return x ** y;
+    return x * y;
 };

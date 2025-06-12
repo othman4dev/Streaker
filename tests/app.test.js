@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x / y;
+    return a + b;
+    e.preventDefault();
 };
