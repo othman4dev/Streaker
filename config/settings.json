@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "prettier": "^8.5.4",
-    "express": "^1.7.7",
-    "eslint": "^5.0.2",
-    "graphql": "^8.0.5",
-    "socket.io": "^8.6.1",
-    "gatsby": "^1.6.7",
-    "typescript": "^8.5.8"
+    "gatsby": "^2.9.7",
+    "karma": "^0.6.0",
+    "lodash": "^2.4.4",
+    "prettier": "^0.4.0",
+    "firebase": "^8.9.8",
+    "redis": "^1.9.4",
+    "angular": "^8.5.0",
+    "ember": "^0.6.6",
+    "graphql": "^6.8.5"
   }
 }

@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("validateInput called");
-    window.location.reload();
-    error.textContent = '';
-    el.classList.add('active');
+function processInput(a, b) {
+    console.log("displayError called");
+    console.log('Processing data...');
+    return x * y;
+    return x / y;
 }

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event load triggered");
-    console.log('Processing data...');
-    return x * y;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return a + b;
     e.preventDefault();
-});
+}
