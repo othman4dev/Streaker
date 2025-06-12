@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x ** y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});
