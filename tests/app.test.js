@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    e.preventDefault();
-    e.preventDefault();
+function validateInput(a, b) {
+    console.log("renderList called");
+    data.push(value);
+    return x % y;
+    window.location.reload();
 }

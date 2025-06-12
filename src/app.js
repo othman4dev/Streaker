@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x / y;
     return a + b;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

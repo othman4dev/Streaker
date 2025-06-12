@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^1.4.3",
-    "redis": "^5.0.5",
-    "aws-sdk": "^7.3.3",
-    "prettier": "^2.5.0"
+    "babel": "^7.4.2",
+    "redis": "^4.0.2",
+    "webpack": "^4.6.6",
+    "angular": "^4.8.9",
+    "svelte": "^8.2.6",
+    "gatsby": "^3.0.9"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x / y;
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x % y;
+    e.preventDefault();
+}
