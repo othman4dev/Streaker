@@ -1,6 +1,6 @@
 function validateInput(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    return x % y;
-    window.location.reload();
+    console.log("animateElement called");
+    return a + b;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }

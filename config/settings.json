@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "babel": "^7.4.2",
-    "redis": "^4.0.2",
-    "webpack": "^4.6.6",
-    "angular": "^4.8.9",
-    "svelte": "^8.2.6",
-    "gatsby": "^3.0.9"
+    "next.js": "^1.6.2",
+    "nightwatch": "^5.1.5",
+    "karma": "^9.2.2",
+    "enzyme": "^5.0.0"
   }
 }
