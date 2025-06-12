@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x - y;
-    return a + b;
-    return x % y;
-};
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    el.classList.add('active');
+    error.textContent = '';
+});

@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^0.2.2",
-    "mocha": "^8.3.0",
-    "puppeteer": "^1.2.2",
-    "mongodb": "^3.3.1",
-    "react": "^8.4.7"
+    "react": "^0.2.7",
+    "cypress": "^3.3.8",
+    "puppeteer": "^1.9.5",
+    "mysql": "^3.0.7"
   }
 }

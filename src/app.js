@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("handleClick condition met");
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    data.push(value);
     alert('Action completed!');
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+};
