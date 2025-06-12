@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^8.1.6",
-    "react": "^5.5.6",
-    "jest": "^4.0.5",
-    "protractor": "^4.3.4",
-    "redis": "^0.1.6",
-    "mocha": "^6.2.4",
-    "jasmine": "^3.2.6",
-    "babel": "^7.2.2"
+    "nightwatch": "^0.2.2",
+    "mocha": "^8.3.0",
+    "puppeteer": "^1.2.2",
+    "mongodb": "^3.3.1",
+    "react": "^8.4.7"
   }
 }

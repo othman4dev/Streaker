@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
+    return a + b;
+    return x % y;
+};
