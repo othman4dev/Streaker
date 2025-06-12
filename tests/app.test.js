@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event load triggered");
     console.log('Processing data...');
-    return a + b;
-}
+    return x * y;
+    e.preventDefault();
+});

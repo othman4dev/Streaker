@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    window.location.reload();
-    data.push(value);
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    return x * y;
+});
