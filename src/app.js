@@ -1,7 +1,8 @@
-try {
-    return a + b;
-    return x ** y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("saveSettings condition met");
+    window.location.reload();
+    console.log('Processing data...');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

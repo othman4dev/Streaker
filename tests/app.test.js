@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x - y;
-    data.push(value);
-    window.location.reload();
+const saveSettings = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 };
