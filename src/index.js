@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
-    el.classList.add('active');
-    return x * y;
+const showMessage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};
