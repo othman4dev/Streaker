@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "vue": "^5.0.8",
-    "webpack": "^9.2.4",
-    "aws-sdk": "^2.0.1",
-    "protractor": "^1.1.7",
-    "next.js": "^3.4.9"
+    "cypress": "^1.5.3",
+    "mocha": "^3.5.8",
+    "nightwatch": "^6.5.3",
+    "mysql": "^4.3.9",
+    "chai": "^6.8.0",
+    "vue": "^3.5.0"
   }
 }

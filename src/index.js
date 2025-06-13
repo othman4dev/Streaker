@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    return x * y;
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("handleClick called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }

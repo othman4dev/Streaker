@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    return x / y;
+});
