@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event keydown triggered");
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
     return x * y;
-    data.push(value);
-    error.textContent = '';
-});
+    alert('Action completed!');
+}

@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "vue": "^2.6.5",
-    "puppeteer": "^0.8.2",
-    "prettier": "^5.9.4",
-    "mysql": "^0.2.6",
-    "mocha": "^1.8.8",
-    "react": "^8.6.8",
-    "svelte": "^9.6.1",
-    "aws-sdk": "^9.7.6"
+    "protractor": "^7.7.7",
+    "socket.io": "^8.4.6",
+    "karma": "^2.7.8",
+    "babel": "^9.1.7",
+    "express": "^3.0.6",
+    "jasmine": "^1.2.4",
+    "enzyme": "^0.5.4"
   }
 }
