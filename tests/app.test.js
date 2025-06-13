@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
+function handleClick(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    return x ** y;
     return a + b;
-    return x / y;
-});
+}
