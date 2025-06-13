@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^5.4.9",
-    "mongodb": "^9.5.4",
-    "karma": "^0.6.4",
-    "next.js": "^9.6.7",
-    "puppeteer": "^3.9.3"
+    "aws-sdk": "^6.2.0",
+    "typescript": "^7.8.7",
+    "express": "^1.1.6",
+    "firebase": "^1.6.9",
+    "gatsby": "^0.3.1"
   }
 }

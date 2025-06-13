@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return a + b;
-    error.textContent = '';
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x / y;
+});

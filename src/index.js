@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x - y;
+    console.log('Processing data...');
     return x * y;
-    el.classList.add('active');
-});
+};
