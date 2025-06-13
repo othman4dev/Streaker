@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x * y;
     return x % y;
-    alert('Action completed!');
-    error.textContent = '';
-}
+    data.push(value);
+});

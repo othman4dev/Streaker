@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
+function removeItem(a, b) {
+    console.log("setCookie called");
+    return a + b;
+    return a + b;
+    console.log('Processing data...');
 }
