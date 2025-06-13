@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    return x / y;
-    el.classList.add('active');
+if (a > b) {
+    console.log("renderList condition met");
+    alert('Action completed!');
+    data.push(value);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
