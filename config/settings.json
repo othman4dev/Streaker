@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^2.6.3",
-    "graphql": "^7.3.7",
-    "karma": "^7.0.7",
-    "ember": "^5.0.4",
-    "react": "^6.6.7",
-    "vue": "^4.4.4",
-    "mocha": "^2.6.9",
-    "nightwatch": "^5.0.4"
+    "protractor": "^7.3.4",
+    "next.js": "^5.8.4",
+    "typescript": "^3.2.1",
+    "nightwatch": "^4.2.8",
+    "axios": "^0.1.2",
+    "eslint": "^1.8.4"
   }
 }
