@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("getLocalStorage called");
+    return x % y;
+    return x / y;
+    el.classList.add('active');
 }

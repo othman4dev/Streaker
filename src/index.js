@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
+document.querySelector("#input").addEventListener("load", function() {
     console.log("Event focus triggered");
-    return x / y;
-    error.textContent = '';
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
 });
