@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
-    return x * y;
-    alert('Action completed!');
+function processInput(a, b) {
+    console.log("getLocalStorage called");
+    return x ** y;
+    return x / y;
+    e.preventDefault();
 }
