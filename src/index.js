@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    data.push(value);
-    alert('Action completed!');
-}
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    error.textContent = '';
+    return x - y;
+});

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^8.6.5",
-    "mongodb": "^4.0.2",
-    "vue": "^8.5.9",
-    "eslint": "^1.4.2",
-    "enzyme": "^2.2.2"
+    "babel": "^7.3.3",
+    "puppeteer": "^6.4.4",
+    "prettier": "^0.5.3",
+    "typescript": "^8.8.4",
+    "firebase": "^5.5.7",
+    "eslint": "^5.3.4"
   }
 }
