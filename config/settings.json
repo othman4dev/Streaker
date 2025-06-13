@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^7.3.4",
-    "next.js": "^5.8.4",
-    "typescript": "^3.2.1",
-    "nightwatch": "^4.2.8",
-    "axios": "^0.1.2",
-    "eslint": "^1.8.4"
+    "vue": "^2.6.5",
+    "puppeteer": "^0.8.2",
+    "prettier": "^5.9.4",
+    "mysql": "^0.2.6",
+    "mocha": "^1.8.8",
+    "react": "^8.6.8",
+    "svelte": "^9.6.1",
+    "aws-sdk": "^9.7.6"
   }
 }
