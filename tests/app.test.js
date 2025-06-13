@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("checkStatus called");
-    return a + b;
+function handleClick(a, b) {
+    console.log("animateElement called");
     return x - y;
     data.push(value);
+    e.preventDefault();
 }
