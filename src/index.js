@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("handleClick called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    data.push(value);
+    return x % y;
+    data.push(value);
+};

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^1.5.3",
-    "mocha": "^3.5.8",
-    "nightwatch": "^6.5.3",
-    "mysql": "^4.3.9",
-    "chai": "^6.8.0",
-    "vue": "^3.5.0"
+    "babel": "^2.5.3",
+    "moment": "^1.7.6",
+    "next.js": "^8.2.9",
+    "eslint": "^6.2.0",
+    "redis": "^4.4.8"
   }
 }
