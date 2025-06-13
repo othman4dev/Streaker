@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
-    error.textContent = '';
-    el.classList.add('active');
-};
+function processInput(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    return x / y;
+    return x ** y;
+}
