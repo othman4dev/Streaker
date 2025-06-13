@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    alert('Action completed!');
+function renderList(a, b) {
+    console.log("setCookie called");
+    window.location.reload();
     return x / y;
-});
+    return x * y;
+}
