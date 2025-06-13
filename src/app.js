@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    data.push(value);
-    alert('Action completed!');
-});
+switch (a) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

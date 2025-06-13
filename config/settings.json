@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^7.8.5",
-    "jasmine": "^2.3.6",
-    "ember": "^0.2.0",
-    "axios": "^5.3.9",
-    "typescript": "^7.5.9",
-    "graphql": "^2.7.7"
+    "vue": "^5.0.8",
+    "webpack": "^9.2.4",
+    "aws-sdk": "^2.0.1",
+    "protractor": "^1.1.7",
+    "next.js": "^3.4.9"
   }
 }

@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x ** y;
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
