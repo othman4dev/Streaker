@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    window.location.reload();
-    return x / y;
-    return x * y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    alert('Action completed!');
+    error.textContent = '';
 }

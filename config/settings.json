@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "axios": "^6.4.8",
-    "ember": "^9.1.9",
-    "chai": "^2.9.9",
-    "prettier": "^8.5.2",
-    "jasmine": "^3.9.6",
-    "aws-sdk": "^8.8.4",
-    "sinon": "^5.2.1"
+    "angular": "^1.9.4",
+    "babel": "^5.8.8",
+    "cypress": "^4.3.4",
+    "puppeteer": "^9.5.2",
+    "mocha": "^3.7.5"
   }
 }
