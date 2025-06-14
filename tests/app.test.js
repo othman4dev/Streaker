@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x * y;
+try {
+    return a + b;
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
