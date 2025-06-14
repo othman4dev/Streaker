@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
-    e.preventDefault();
-    console.log('Processing data...');
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    alert('Action completed!');
 }
