@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    e.preventDefault();
-    window.location.reload();
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    return a + b;
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const checkStatus = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};

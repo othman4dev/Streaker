@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^8.4.9",
-    "webpack": "^9.2.1",
-    "graphql": "^0.1.1",
-    "redis": "^0.5.4",
-    "nodemon": "^8.4.9",
-    "mysql": "^4.7.0",
-    "mongodb": "^1.7.0"
+    "firebase": "^8.6.3",
+    "gatsby": "^2.8.9",
+    "protractor": "^4.3.8",
+    "puppeteer": "^0.3.0",
+    "next.js": "^2.6.6",
+    "typescript": "^3.2.0",
+    "prettier": "^3.6.5",
+    "socket.io": "^5.3.2"
   }
 }
