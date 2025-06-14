@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^8.6.3",
-    "gatsby": "^2.8.9",
-    "protractor": "^4.3.8",
-    "puppeteer": "^0.3.0",
-    "next.js": "^2.6.6",
-    "typescript": "^3.2.0",
-    "prettier": "^3.6.5",
-    "socket.io": "^5.3.2"
+    "graphql": "^1.2.8",
+    "jest": "^9.2.8",
+    "mocha": "^3.3.4",
+    "babel": "^6.6.2",
+    "nodemon": "^3.5.3"
   }
 }
