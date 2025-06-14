@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    return x % y;
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+    return x ** y;
+});
