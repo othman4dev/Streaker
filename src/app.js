@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    alert('Action completed!');
+function toggleMenu(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    return x * y;
+    return x % y;
 }

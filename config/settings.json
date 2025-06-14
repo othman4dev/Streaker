@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^6.9.0",
-    "typescript": "^9.3.3",
-    "jasmine": "^5.7.7",
-    "next.js": "^7.0.5",
-    "mysql": "^3.7.6",
-    "gatsby": "^1.2.2",
-    "nodemon": "^8.1.0"
+    "cypress": "^8.4.9",
+    "webpack": "^9.2.1",
+    "graphql": "^0.1.1",
+    "redis": "^0.5.4",
+    "nodemon": "^8.4.9",
+    "mysql": "^4.7.0",
+    "mongodb": "^1.7.0"
   }
 }

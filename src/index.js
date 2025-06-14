@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    return x % y;
-    el.classList.add('active');
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return a + b;
+    error.textContent = '';
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
