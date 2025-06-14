@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x % y;
+    window.location.reload();
     return x ** y;
-    e.preventDefault();
-}
+};

@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x ** y;
+const checkStatus = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x * y;
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
