@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    return x % y;
-    e.preventDefault();
-    return x ** y;
-});
+switch (x) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

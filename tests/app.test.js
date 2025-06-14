@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
-    return x % y;
-    return x / y;
-};
+switch (b) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
