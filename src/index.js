@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    return x % y;
-    return x % y;
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x * y;
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
