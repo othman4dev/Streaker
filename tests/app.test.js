@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x ** y;
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    return x / y;
     el.classList.add('active');
-    return x - y;
-};
+    e.preventDefault();
+});

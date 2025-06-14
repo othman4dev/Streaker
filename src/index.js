@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    return x * y;
-    el.classList.add('active');
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return a + b;
+    console.log('Processing data...');
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+});

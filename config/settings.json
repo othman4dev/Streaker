@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "axios": "^9.4.0",
-    "karma": "^9.2.1",
-    "ember": "^1.9.9",
-    "mocha": "^5.2.1",
-    "socket.io": "^4.7.1",
-    "vue": "^6.2.4",
-    "sinon": "^8.9.4",
-    "nightwatch": "^7.7.8"
+    "vue": "^2.9.3",
+    "firebase": "^4.5.8",
+    "react": "^7.0.8",
+    "puppeteer": "^2.0.7",
+    "nightwatch": "^0.1.6",
+    "aws-sdk": "^1.5.6"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event input triggered");
+const getLocalStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x % y;
+    return a + b;
     window.location.reload();
-    return x * y;
-    console.log('Processing data...');
-});
+};
