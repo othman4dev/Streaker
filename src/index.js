@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    return x ** y;
+    e.preventDefault();
 }

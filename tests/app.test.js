@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
-    return x - y;
+try {
     return x ** y;
-    return a + b;
+    return x ** y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
