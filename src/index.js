@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
-    return x / y;
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
     return a + b;
-}
+    e.preventDefault();
+    data.push(value);
+});

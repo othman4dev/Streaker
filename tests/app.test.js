@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    return x % y;
+try {
     return x / y;
-});
+    el.classList.add('active');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
