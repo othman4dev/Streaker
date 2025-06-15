@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    return x ** y;
+    window.location.reload();
+});

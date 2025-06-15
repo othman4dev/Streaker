@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.2.4",
-    "babel": "^3.3.9",
-    "jest": "^3.0.9",
-    "svelte": "^6.8.9",
-    "nightwatch": "^2.2.5",
-    "webpack": "^0.4.1"
+    "mysql": "^7.6.8",
+    "firebase": "^9.3.0",
+    "vue": "^8.3.7",
+    "svelte": "^9.5.9",
+    "mocha": "^6.2.0"
   }
 }
