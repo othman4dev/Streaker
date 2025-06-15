@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x % y;
-    return a + b;
-    window.location.reload();
-};
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    el.classList.add('active');
+    el.classList.add('active');
+});

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    el.classList.add('active');
-    e.preventDefault();
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    return x ** y;
+    window.location.reload();
 });
