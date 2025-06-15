@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    return x - y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    error.textContent = '';
+    return x % y;
+}

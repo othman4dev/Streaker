@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
+try {
     return x % y;
     error.textContent = '';
-});
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

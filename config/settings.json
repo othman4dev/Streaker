@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "vue": "^2.0.9",
-    "lodash": "^5.4.4",
-    "chai": "^8.8.6",
-    "redis": "^3.5.1",
-    "svelte": "^6.7.5",
-    "moment": "^4.5.0"
+    "aws-sdk": "^1.2.4",
+    "babel": "^3.3.9",
+    "jest": "^3.0.9",
+    "svelte": "^6.8.9",
+    "nightwatch": "^2.2.5",
+    "webpack": "^0.4.1"
   }
 }

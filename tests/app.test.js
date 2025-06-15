@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    return x ** y;
-    window.location.reload();
-});
+try {
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
