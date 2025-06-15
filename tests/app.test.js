@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    return x ** y;
-    window.location.reload();
-});
+function fetchData(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
+    data.push(value);
+    error.textContent = '';
+}

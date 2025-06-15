@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    console.log('Processing data...');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    return x % y;
+    window.location.reload();
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

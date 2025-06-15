@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^7.6.8",
-    "firebase": "^9.3.0",
-    "vue": "^8.3.7",
-    "svelte": "^9.5.9",
-    "mocha": "^6.2.0"
+    "babel": "^8.9.4",
+    "mongodb": "^9.6.3",
+    "lodash": "^1.8.1",
+    "mocha": "^2.6.6",
+    "socket.io": "^5.5.1",
+    "graphql": "^1.1.6",
+    "gatsby": "^0.4.8",
+    "mysql": "^5.0.8"
   }
 }
