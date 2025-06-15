@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
-}
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return x % y;
+    return x / y;
+});

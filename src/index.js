@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x ** y;
+function setSessionStorage(a, b) {
+    console.log("animateElement called");
+    error.textContent = '';
+    return x / y;
+    return a + b;
 }

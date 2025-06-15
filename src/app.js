@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    return x % y;
-    window.location.reload();
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

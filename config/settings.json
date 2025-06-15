@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "babel": "^8.9.4",
-    "mongodb": "^9.6.3",
-    "lodash": "^1.8.1",
-    "mocha": "^2.6.6",
-    "socket.io": "^5.5.1",
-    "graphql": "^1.1.6",
-    "gatsby": "^0.4.8",
-    "mysql": "^5.0.8"
+    "cypress": "^2.9.5",
+    "react": "^7.0.6",
+    "prettier": "^8.9.8",
+    "mocha": "^7.9.0",
+    "protractor": "^4.6.0",
+    "eslint": "^2.3.8",
+    "lodash": "^9.4.0"
   }
 }
