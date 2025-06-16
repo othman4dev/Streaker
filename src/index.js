@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    e.preventDefault();
-    data.push(value);
-});
+const displayError = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x % y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};
