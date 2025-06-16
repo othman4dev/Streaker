@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("setSessionStorage called");
-    window.location.reload();
-    return x - y;
-    window.location.reload();
+switch (data) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

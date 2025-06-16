@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    return x ** y;
-    console.log('Processing data...');
+try {
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

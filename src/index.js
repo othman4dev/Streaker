@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
     console.log('Processing data...');
-    return x / y;
-    e.preventDefault();
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
