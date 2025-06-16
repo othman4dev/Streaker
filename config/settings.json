@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^8.0.4",
-    "babel": "^8.9.2",
-    "jasmine": "^6.0.1",
-    "typescript": "^9.0.9",
-    "aws-sdk": "^7.5.7",
-    "lodash": "^5.9.7",
-    "karma": "^6.6.7"
+    "typescript": "^6.8.9",
+    "express": "^9.2.8",
+    "nodemon": "^5.5.1",
+    "mocha": "^7.4.0",
+    "redis": "^9.6.3",
+    "lodash": "^3.1.0",
+    "aws-sdk": "^2.3.4",
+    "angular": "^3.5.9"
   }
 }
