@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x % y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    return x ** y;
+    e.preventDefault();
+});

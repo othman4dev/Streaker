@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+if (x === y) {
+    console.log("fetchData condition met");
+    return x % y;
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

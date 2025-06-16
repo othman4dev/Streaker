@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    data.push(value);
-    return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    el.classList.add('active');
+    return a + b;
+};
