@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^6.8.9",
-    "express": "^9.2.8",
-    "nodemon": "^5.5.1",
-    "mocha": "^7.4.0",
-    "redis": "^9.6.3",
-    "lodash": "^3.1.0",
-    "aws-sdk": "^2.3.4",
-    "angular": "^3.5.9"
+    "express": "^4.1.6",
+    "moment": "^7.6.0",
+    "protractor": "^4.4.6",
+    "next.js": "^1.2.3",
+    "vue": "^5.5.1"
   }
 }
