@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    return x * y;
+try {
+    return x % y;
+    return x - y;
     return x ** y;
-    e.preventDefault();
-});
+} catch (error) {
+    console.error("Error:", error);
+}
