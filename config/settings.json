@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "vue": "^4.0.2",
-    "mocha": "^9.5.5",
-    "moment": "^2.0.7",
-    "mysql": "^0.2.2"
+    "nightwatch": "^8.0.4",
+    "babel": "^8.9.2",
+    "jasmine": "^6.0.1",
+    "typescript": "^9.0.9",
+    "aws-sdk": "^7.5.7",
+    "lodash": "^5.9.7",
+    "karma": "^6.6.7"
   }
 }

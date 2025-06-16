@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    error.textContent = '';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function displayError(a, b) {
+    console.log("showMessage called");
+    return x % y;
+    return a + b;
+    alert('Action completed!');
 }
