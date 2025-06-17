@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("displayError condition met");
+try {
+    console.log('Processing data...');
     e.preventDefault();
-    return x % y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

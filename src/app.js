@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    return x - y;
-    return x - y;
-});
+function removeItem(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
+    return x / y;
+    error.textContent = '';
+}
