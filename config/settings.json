@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "nightwatch": "^2.2.0",
-    "next.js": "^8.4.8",
-    "sinon": "^5.0.9",
-    "mongodb": "^8.1.6",
-    "nodemon": "^7.7.6"
+    "express": "^9.6.3",
+    "karma": "^2.0.4",
+    "react": "^6.8.4",
+    "axios": "^0.9.6",
+    "next.js": "^9.7.8",
+    "aws-sdk": "^5.1.5",
+    "redis": "^1.5.2",
+    "protractor": "^1.2.2",
+    "ember": "^0.6.4"
   }
 }

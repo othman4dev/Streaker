@@ -1,8 +1,8 @@
 if (a > b) {
-    console.log("renderList condition met");
-    data.push(value);
-    return a + b;
-    alert('Action completed!');
+    console.log("displayError condition met");
+    e.preventDefault();
+    return x % y;
+    return x - y;
 } else {
     console.log("Condition not met");
 }

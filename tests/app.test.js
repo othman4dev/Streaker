@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("fetchData called");
-    alert('Action completed!');
-    data.push(value);
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x - y;
-}
+    return x / y;
+    return a + b;
+};
