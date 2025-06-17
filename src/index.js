@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    error.textContent = '';
     window.location.reload();
-    return x - y;
-    alert('Action completed!');
-}
+});

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "express": "^7.1.1",
-    "jest": "^8.4.7",
-    "jasmine": "^7.3.3",
-    "nightwatch": "^5.1.7",
-    "enzyme": "^6.8.1"
+    "gatsby": "^8.0.0",
+    "aws-sdk": "^6.0.9",
+    "protractor": "^6.6.1",
+    "typescript": "^4.2.8",
+    "angular": "^9.4.4",
+    "babel": "^0.7.5"
   }
 }
