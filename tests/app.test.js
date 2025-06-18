@@ -1,7 +1,8 @@
-switch (value) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("showMessage condition met");
+    error.textContent = '';
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

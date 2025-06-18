@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    return x % y;
+const checkStatus = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x * y;
     error.textContent = '';
-});
+    data.push(value);
+};
