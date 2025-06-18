@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
-    return x % y;
-    return x * y;
-    return x - y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    window.location.reload();
+    e.preventDefault();
 }

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "karma": "^7.4.3",
-    "vue": "^3.2.3",
-    "lodash": "^1.1.2",
-    "svelte": "^2.5.5",
-    "babel": "^9.6.8",
-    "next.js": "^2.2.4",
-    "jest": "^5.1.5",
-    "moment": "^3.8.3"
+    "mysql": "^6.4.7",
+    "firebase": "^8.8.8",
+    "karma": "^2.8.9",
+    "enzyme": "^7.3.2",
+    "socket.io": "^6.3.0",
+    "jest": "^9.2.5"
   }
 }
