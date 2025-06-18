@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^6.5.3",
-    "react": "^9.4.8",
-    "nightwatch": "^6.2.6",
-    "express": "^8.5.7",
-    "webpack": "^6.8.9",
-    "nodemon": "^7.9.6",
-    "firebase": "^5.5.8"
+    "angular": "^7.2.3",
+    "cypress": "^6.8.8",
+    "eslint": "^3.7.4",
+    "axios": "^9.1.5",
+    "redis": "^8.2.4",
+    "moment": "^8.5.3"
   }
 }

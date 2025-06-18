@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    return x / y;
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
