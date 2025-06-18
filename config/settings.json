@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^4.9.2",
-    "mocha": "^3.8.7",
-    "svelte": "^4.9.5",
-    "mysql": "^3.8.4",
-    "redis": "^0.7.5",
-    "puppeteer": "^3.8.2",
-    "babel": "^9.5.2"
+    "karma": "^7.4.3",
+    "vue": "^3.2.3",
+    "lodash": "^1.1.2",
+    "svelte": "^2.5.5",
+    "babel": "^9.6.8",
+    "next.js": "^2.2.4",
+    "jest": "^5.1.5",
+    "moment": "^3.8.3"
   }
 }
