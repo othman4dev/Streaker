@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x * y;
-    error.textContent = '';
-    data.push(value);
-};
+function handleClick(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    return x - y;
+    alert('Action completed!');
+}

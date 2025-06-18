@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
