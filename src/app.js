@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("setCookie condition met");
-    window.location.reload();
-    return a + b;
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x ** y;
 } else {
     console.log("Condition not met");
 }

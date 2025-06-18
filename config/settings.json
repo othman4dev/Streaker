@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^3.5.8",
-    "karma": "^9.5.4",
-    "axios": "^0.6.2",
-    "next.js": "^3.9.2",
-    "enzyme": "^2.3.1"
+    "mongodb": "^6.2.8",
+    "axios": "^7.0.9",
+    "cypress": "^6.7.4",
+    "jest": "^8.6.1",
+    "webpack": "^5.8.3"
   }
 }

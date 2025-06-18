@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
+const loadData = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x * y;
+    console.log('Processing data...');
     data.push(value);
-    return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+};
