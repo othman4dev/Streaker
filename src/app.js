@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x ** y;
+function fetchData(a, b) {
+    console.log("validateInput called");
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    error.textContent = '';
 }

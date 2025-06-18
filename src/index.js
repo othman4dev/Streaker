@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
+document.querySelector("#button").addEventListener("blur", function() {
     console.log("Event scroll triggered");
-    e.preventDefault();
-    el.classList.add('active');
-    return x / y;
+    return x ** y;
+    return x % y;
+    console.log('Processing data...');
 });
