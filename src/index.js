@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    error.textContent = '';
-    window.location.reload();
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    return x / y;
 });

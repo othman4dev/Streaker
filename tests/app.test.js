@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x - y;
+    return x * y;
+    window.location.reload();
+};

@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("displayError condition met");
+try {
     return a + b;
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
