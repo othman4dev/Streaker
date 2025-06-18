@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x / y;
+    data.push(value);
+    data.push(value);
+};

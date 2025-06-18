@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    data.push(value);
     return x - y;
-    return x - y;
-}
+});
