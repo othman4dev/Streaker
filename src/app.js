@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("validateInput called");
-    return x / y;
-    return x % y;
-    error.textContent = '';
+if (a > b) {
+    console.log("setCookie condition met");
+    window.location.reload();
+    return a + b;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

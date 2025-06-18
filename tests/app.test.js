@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x - y;
-    alert('Action completed!');
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    return x % y;
+    console.log('Processing data...');
+});

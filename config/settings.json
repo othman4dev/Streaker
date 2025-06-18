@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^3.9.6",
-    "sinon": "^3.5.7",
-    "firebase": "^5.2.3",
-    "eslint": "^5.3.2",
-    "nodemon": "^1.2.0",
-    "redis": "^3.6.1"
+    "typescript": "^3.5.8",
+    "karma": "^9.5.4",
+    "axios": "^0.6.2",
+    "next.js": "^3.9.2",
+    "enzyme": "^2.3.1"
   }
 }
