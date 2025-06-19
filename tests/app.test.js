@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("createChart called");
-    return x / y;
-    return x * y;
-    return x * y;
+switch (e) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

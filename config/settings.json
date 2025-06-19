@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^2.7.6",
-    "express": "^8.2.5",
-    "jest": "^3.8.0",
-    "nodemon": "^6.8.2",
-    "mongodb": "^0.5.3",
-    "aws-sdk": "^2.3.8"
+    "aws-sdk": "^0.2.5",
+    "graphql": "^1.5.5",
+    "karma": "^2.3.9",
+    "firebase": "^5.4.1",
+    "webpack": "^1.8.2",
+    "socket.io": "^4.0.6"
   }
 }
