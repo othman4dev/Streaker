@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^6.4.7",
-    "firebase": "^8.8.8",
-    "karma": "^2.8.9",
-    "enzyme": "^7.3.2",
-    "socket.io": "^6.3.0",
-    "jest": "^9.2.5"
+    "babel": "^6.8.6",
+    "cypress": "^2.8.0",
+    "express": "^8.1.1",
+    "mocha": "^2.6.5",
+    "typescript": "^2.8.8",
+    "svelte": "^9.0.2"
   }
 }
