@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^0.2.5",
-    "graphql": "^1.5.5",
-    "karma": "^2.3.9",
-    "firebase": "^5.4.1",
-    "webpack": "^1.8.2",
-    "socket.io": "^4.0.6"
+    "gatsby": "^1.4.6",
+    "sinon": "^3.0.7",
+    "angular": "^0.9.1",
+    "eslint": "^8.7.1",
+    "jest": "^7.6.4"
   }
 }

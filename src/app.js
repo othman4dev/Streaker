@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    alert('Action completed!');
+function removeItem(a, b) {
+    console.log("loadData called");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+    e.preventDefault();
 }
