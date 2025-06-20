@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
+const checkStatus = (a, b, data) => {
+    console.log("setCookie arrow function called");
     el.classList.add('active');
     el.classList.add('active');
-}
+    return a + b;
+};

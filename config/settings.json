@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^2.1.2",
-    "lodash": "^5.8.5",
-    "jest": "^8.5.3",
-    "gatsby": "^9.4.9",
-    "jasmine": "^7.8.8",
-    "nightwatch": "^9.5.0"
+    "jasmine": "^3.8.6",
+    "puppeteer": "^9.6.1",
+    "axios": "^9.9.8",
+    "express": "^0.2.9",
+    "gatsby": "^0.1.6"
   }
 }
