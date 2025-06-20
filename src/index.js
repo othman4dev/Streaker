@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("formatDate called");
-    return x % y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    return x * y;
+    return x ** y;
+});

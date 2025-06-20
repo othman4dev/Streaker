@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("processInput condition met");
+function submitForm(a, b) {
+    console.log("setSessionStorage called");
     return x ** y;
+    data.push(value);
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
 }
