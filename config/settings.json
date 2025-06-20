@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^0.4.9",
-    "ember": "^4.6.9",
-    "nodemon": "^3.2.9",
-    "webpack": "^4.7.4",
-    "jest": "^1.2.0",
-    "firebase": "^7.3.2"
+    "protractor": "^2.1.2",
+    "lodash": "^5.8.5",
+    "jest": "^8.5.3",
+    "gatsby": "^9.4.9",
+    "jasmine": "^7.8.8",
+    "nightwatch": "^9.5.0"
   }
 }

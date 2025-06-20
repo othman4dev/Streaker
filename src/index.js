@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event focus triggered");
     el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    return x - y;
+});

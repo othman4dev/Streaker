@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x * y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function toggleMenu(a, b) {
+    console.log("loadData called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    el.classList.add('active');
 }
