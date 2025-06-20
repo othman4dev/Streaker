@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
+try {
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-    el.classList.add('active');
-    return a + b;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

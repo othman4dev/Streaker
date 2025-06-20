@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^3.8.6",
-    "puppeteer": "^9.6.1",
-    "axios": "^9.9.8",
-    "express": "^0.2.9",
-    "gatsby": "^0.1.6"
+    "cypress": "^0.0.0",
+    "moment": "^4.9.0",
+    "jasmine": "^9.5.1",
+    "vue": "^8.2.2",
+    "mocha": "^8.5.3",
+    "angular": "^8.2.1"
   }
 }
