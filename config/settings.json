@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^6.4.9",
-    "sinon": "^5.0.4",
-    "puppeteer": "^9.4.4",
-    "express": "^7.0.5",
-    "eslint": "^9.9.6"
+    "graphql": "^0.4.9",
+    "ember": "^4.6.9",
+    "nodemon": "^3.2.9",
+    "webpack": "^4.7.4",
+    "jest": "^1.2.0",
+    "firebase": "^7.3.2"
   }
 }
