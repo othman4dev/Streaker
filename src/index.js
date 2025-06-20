@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
-    e.preventDefault();
-    return a + b;
-});
+const handleClick = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    window.location.reload();
+    return x - y;
+    return x * y;
+};

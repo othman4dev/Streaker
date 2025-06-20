@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^0.0.0",
-    "moment": "^4.9.0",
-    "jasmine": "^9.5.1",
-    "vue": "^8.2.2",
-    "mocha": "^8.5.3",
-    "angular": "^8.2.1"
+    "firebase": "^5.6.5",
+    "eslint": "^4.4.1",
+    "mysql": "^5.4.9",
+    "protractor": "^8.4.4",
+    "redis": "^0.4.4",
+    "typescript": "^6.2.0",
+    "sinon": "^5.7.4",
+    "jest": "^2.2.5"
   }
 }

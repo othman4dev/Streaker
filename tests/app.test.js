@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
+    console.log('Processing data...');
+    return x - y;
 }
