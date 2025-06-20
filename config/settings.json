@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^1.4.6",
-    "sinon": "^3.0.7",
-    "angular": "^0.9.1",
-    "eslint": "^8.7.1",
-    "jest": "^7.6.4"
+    "mysql": "^7.9.7",
+    "moment": "^3.7.3",
+    "firebase": "^1.1.8",
+    "webpack": "^0.3.6",
+    "react": "^0.1.2",
+    "eslint": "^5.2.8",
+    "nodemon": "^3.1.4",
+    "ember": "^9.5.9"
   }
 }

@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("loadData called");
-    console.log('Processing data...');
-    return x * y;
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    return x % y;
+    error.textContent = '';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
