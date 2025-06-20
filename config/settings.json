@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^5.6.5",
-    "eslint": "^4.4.1",
-    "mysql": "^5.4.9",
-    "protractor": "^8.4.4",
-    "redis": "^0.4.4",
-    "typescript": "^6.2.0",
-    "sinon": "^5.7.4",
-    "jest": "^2.2.5"
+    "prettier": "^5.9.1",
+    "svelte": "^5.8.8",
+    "cypress": "^5.9.6",
+    "nodemon": "^2.0.0",
+    "aws-sdk": "^1.4.3"
   }
 }

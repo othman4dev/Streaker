@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
+if (x === y) {
+    console.log("processInput condition met");
+    return x ** y;
     window.location.reload();
-    console.log('Processing data...');
-    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
