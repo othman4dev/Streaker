@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    return a + b;
-    e.preventDefault();
-});
+try {
+    console.log('Processing data...');
+    return x ** y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

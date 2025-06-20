@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    return x % y;
-    error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+};

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^7.9.7",
-    "moment": "^3.7.3",
-    "firebase": "^1.1.8",
-    "webpack": "^0.3.6",
-    "react": "^0.1.2",
-    "eslint": "^5.2.8",
-    "nodemon": "^3.1.4",
-    "ember": "^9.5.9"
+    "mysql": "^6.4.9",
+    "sinon": "^5.0.4",
+    "puppeteer": "^9.4.4",
+    "express": "^7.0.5",
+    "eslint": "^9.9.6"
   }
 }
