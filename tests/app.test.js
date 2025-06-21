@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("setSessionStorage called");
-    return x ** y;
+if (x === y) {
+    console.log("submitForm condition met");
+    alert('Action completed!');
     data.push(value);
-    window.location.reload();
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

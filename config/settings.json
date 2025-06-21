@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^4.8.6",
-    "babel": "^3.5.3",
-    "nightwatch": "^9.8.4",
-    "puppeteer": "^7.2.9",
-    "socket.io": "^5.9.6",
-    "jest": "^7.7.4",
-    "eslint": "^6.2.5"
+    "mongodb": "^8.0.6",
+    "express": "^6.6.1",
+    "mocha": "^2.0.9",
+    "mysql": "^9.0.0",
+    "typescript": "^6.4.3",
+    "puppeteer": "^6.3.9"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    return x * y;
-    return x ** y;
-});
+const displayError = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    window.location.reload();
+};
