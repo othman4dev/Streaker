@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "karma": "^6.9.2",
-    "nightwatch": "^5.2.0",
-    "next.js": "^0.0.8",
-    "typescript": "^4.6.0",
-    "mysql": "^8.8.6"
+    "mocha": "^6.7.6",
+    "mongodb": "^8.9.0",
+    "prettier": "^5.1.2",
+    "mysql": "^0.0.5",
+    "karma": "^5.4.1",
+    "svelte": "^1.7.0",
+    "sinon": "^5.5.2",
+    "next.js": "^3.8.5"
   }
 }

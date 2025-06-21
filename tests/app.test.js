@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("setCookie called");
+    return a + b;
+    return x % y;
+    alert('Action completed!');
 }

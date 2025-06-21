@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return a + b;
-} else {
-    console.log("Condition not met");
+function displayError(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    return x / y;
+    return x - y;
 }
