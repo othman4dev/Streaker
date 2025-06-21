@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    data.push(value);
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

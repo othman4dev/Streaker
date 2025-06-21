@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    el.classList.add('active');
-});
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
