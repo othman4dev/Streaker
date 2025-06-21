@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("displayError arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    window.location.reload();
-};
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    el.classList.add('active');
+});

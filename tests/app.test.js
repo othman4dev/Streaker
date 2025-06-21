@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    alert('Action completed!');
-    data.push(value);
+function validateInput(a, b) {
+    console.log("fetchData called");
+    return x ** y;
+    error.textContent = '';
     return x * y;
-} else {
-    console.log("Condition not met");
 }
