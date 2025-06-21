@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    window.location.reload();
-    return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    alert('Action completed!');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
