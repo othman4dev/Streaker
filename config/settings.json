@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^6.7.6",
-    "mongodb": "^8.9.0",
-    "prettier": "^5.1.2",
-    "mysql": "^0.0.5",
-    "karma": "^5.4.1",
-    "svelte": "^1.7.0",
-    "sinon": "^5.5.2",
-    "next.js": "^3.8.5"
+    "mocha": "^2.9.1",
+    "sinon": "^8.2.5",
+    "lodash": "^3.4.2",
+    "graphql": "^4.9.2",
+    "babel": "^1.2.8",
+    "socket.io": "^9.8.5",
+    "enzyme": "^6.4.7"
   }
 }

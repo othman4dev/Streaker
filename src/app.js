@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    return x * y;
     return a + b;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+});
