@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x % y;
+    error.textContent = '';
+}

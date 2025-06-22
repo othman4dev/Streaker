@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    return x / y;
+try {
     return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

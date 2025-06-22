@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^1.4.4",
-    "chai": "^5.7.6",
-    "enzyme": "^5.7.6",
-    "lodash": "^4.8.7"
+    "webpack": "^9.2.9",
+    "puppeteer": "^2.3.4",
+    "svelte": "^3.3.3",
+    "firebase": "^7.0.3",
+    "mongodb": "^0.2.8"
   }
 }
