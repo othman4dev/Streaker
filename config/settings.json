@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "eslint": "^4.4.4",
-    "jest": "^7.3.8",
-    "jasmine": "^3.5.5",
-    "prettier": "^8.1.6",
-    "express": "^7.7.5",
-    "gatsby": "^0.9.4",
-    "axios": "^6.7.0"
+    "enzyme": "^2.2.9",
+    "nodemon": "^1.0.9",
+    "eslint": "^9.4.2",
+    "firebase": "^3.2.2"
   }
 }

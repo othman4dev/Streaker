@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    return x - y;
-    return x / y;
+try {
+    alert('Action completed!');
     return x * y;
-} else {
-    console.log("Condition not met");
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

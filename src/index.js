@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("createChart condition met");
+    return x % y;
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
