@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    window.location.reload();
-});
+function animateElement(a, b) {
+    console.log("submitForm called");
+    return x % y;
+    return x / y;
+    error.textContent = '';
+}

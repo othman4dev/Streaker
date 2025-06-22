@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "moment": "^5.0.6",
-    "express": "^1.8.4",
-    "babel": "^3.0.9",
-    "angular": "^0.0.1",
-    "firebase": "^6.8.3"
+    "webpack": "^8.9.0",
+    "redis": "^9.5.8",
+    "ember": "^7.6.4",
+    "angular": "^7.0.4",
+    "jasmine": "^2.8.4",
+    "protractor": "^8.5.2",
+    "enzyme": "^2.2.5",
+    "prettier": "^1.4.3"
   }
 }
