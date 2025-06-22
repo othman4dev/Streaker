@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^8.9.0",
-    "redis": "^9.5.8",
-    "ember": "^7.6.4",
-    "angular": "^7.0.4",
-    "jasmine": "^2.8.4",
-    "protractor": "^8.5.2",
-    "enzyme": "^2.2.5",
-    "prettier": "^1.4.3"
+    "jest": "^6.4.1",
+    "redis": "^6.4.6",
+    "gatsby": "^4.5.9",
+    "aws-sdk": "^6.7.1",
+    "firebase": "^0.6.8"
   }
 }

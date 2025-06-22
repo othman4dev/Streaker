@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    return a + b;
-    el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
