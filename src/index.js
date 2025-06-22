@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("loadData called");
-    window.location.reload();
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-}
+    console.log('Processing data...');
+    window.location.reload();
+});

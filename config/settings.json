@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^9.2.9",
-    "puppeteer": "^2.3.4",
-    "svelte": "^3.3.3",
-    "firebase": "^7.0.3",
-    "mongodb": "^0.2.8"
+    "moment": "^5.0.6",
+    "express": "^1.8.4",
+    "babel": "^3.0.9",
+    "angular": "^0.0.1",
+    "firebase": "^6.8.3"
   }
 }
