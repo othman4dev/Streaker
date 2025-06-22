@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    console.log('Processing data...');
-    return x / y;
-    return a + b;
-};
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    window.location.reload();
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
