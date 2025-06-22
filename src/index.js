@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    return a + b;
+};

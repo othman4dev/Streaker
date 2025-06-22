@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^6.4.1",
-    "redis": "^6.4.6",
-    "gatsby": "^4.5.9",
-    "aws-sdk": "^6.7.1",
-    "firebase": "^0.6.8"
+    "jest": "^5.6.7",
+    "next.js": "^5.5.9",
+    "karma": "^4.3.7",
+    "babel": "^9.5.2",
+    "chai": "^0.3.9",
+    "webpack": "^5.0.1"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    return a + b;
-    e.preventDefault();
-    alert('Action completed!');
-});
+if (x === y) {
+    console.log("saveSettings condition met");
+    console.log('Processing data...');
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
