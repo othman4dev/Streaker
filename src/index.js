@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
     alert('Action completed!');
-    e.preventDefault();
-});
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};

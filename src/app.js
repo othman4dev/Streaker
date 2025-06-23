@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
-    return x / y;
+try {
+    alert('Action completed!');
     console.log('Processing data...');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
