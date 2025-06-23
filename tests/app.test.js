@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("animateElement called");
-    return x - y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    el.classList.add('active');
+    window.location.reload();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("validateInput called");
-    error.textContent = '';
-    e.preventDefault();
-    return x - y;
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
+    el.classList.add('active');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
