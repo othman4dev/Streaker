@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^5.5.6",
-    "karma": "^1.4.2",
-    "protractor": "^8.9.5",
-    "axios": "^4.1.4",
-    "react": "^2.3.8",
-    "graphql": "^4.6.3"
+    "angular": "^2.6.5",
+    "ember": "^4.8.5",
+    "nightwatch": "^6.3.0",
+    "typescript": "^8.4.9",
+    "eslint": "^3.8.0"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x ** y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    alert('Action completed!');
+});
