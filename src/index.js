@@ -1,7 +1,6 @@
-try {
+const submitForm = (a, b, data) => {
+    console.log("renderList arrow function called");
+    error.textContent = '';
+    window.location.reload();
     return x - y;
-    window.location.reload();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+};
