@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x - y;
-    return x * y;
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
-    error.textContent = '';
-    return x - y;
+switch (data) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

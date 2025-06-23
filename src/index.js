@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("renderList arrow function called");
-    error.textContent = '';
-    window.location.reload();
-    return x - y;
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    console.log('Processing data...');
 };
