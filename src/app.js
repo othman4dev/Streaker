@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x ** y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const updateUI = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x % y;
+};

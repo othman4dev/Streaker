@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    data.push(value);
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    console.log('Processing data...');
+    return x ** y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
