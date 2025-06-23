@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("getLocalStorage called");
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
     console.log('Processing data...');
-    return x ** y;
-    data.push(value);
-}
+    error.textContent = '';
+});
