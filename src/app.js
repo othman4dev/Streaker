@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    error.textContent = '';
-});
+if (a > b) {
+    console.log("toggleMenu condition met");
+    return x / y;
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return a + b;
+    return x ** y;
+    alert('Action completed!');
 });

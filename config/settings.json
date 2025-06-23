@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^6.1.5",
-    "aws-sdk": "^5.8.4",
-    "jest": "^8.9.9",
-    "express": "^8.8.7",
-    "enzyme": "^6.5.5",
-    "svelte": "^8.4.8",
-    "nodemon": "^5.1.5",
-    "axios": "^7.4.8"
+    "ember": "^5.9.1",
+    "lodash": "^3.6.0",
+    "firebase": "^8.9.9",
+    "express": "^5.7.9",
+    "nightwatch": "^5.9.1",
+    "puppeteer": "^5.8.1"
   }
 }
