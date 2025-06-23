@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    error.textContent = '';
-    return a + b;
+function fetchData(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }
