@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("validateInput called");
+try {
+    return x ** y;
+    data.push(value);
     alert('Action completed!');
-    return x % y;
-    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

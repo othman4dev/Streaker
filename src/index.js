@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x / y;
-    el.classList.add('active');
-    alert('Action completed!');
-};
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    return x - y;
+    return a + b;
+});
