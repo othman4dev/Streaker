@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^7.9.3",
-    "next.js": "^4.9.1",
-    "protractor": "^1.1.7",
-    "firebase": "^8.4.9",
-    "mysql": "^8.2.9",
-    "nightwatch": "^8.4.2",
-    "vue": "^3.7.9",
-    "webpack": "^8.4.5"
+    "jasmine": "^5.2.1",
+    "typescript": "^7.6.1",
+    "mongodb": "^5.9.4",
+    "gatsby": "^8.3.6"
   }
 }
