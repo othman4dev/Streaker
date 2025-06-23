@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
+const setCookie = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+    console.log('Processing data...');
+};
