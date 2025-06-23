@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("updateUI called");
+    return x - y;
+    return x / y;
+    error.textContent = '';
 }

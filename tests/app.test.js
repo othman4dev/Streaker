@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    alert('Action completed!');
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-});
+}

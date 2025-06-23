@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    console.log('Processing data...');
-};
+    return a + b;
+});
