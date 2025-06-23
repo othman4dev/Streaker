@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    return x ** y;
+    e.preventDefault();
 });
