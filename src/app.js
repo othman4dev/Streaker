@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
+function renderList(a, b) {
+    console.log("submitForm called");
+    error.textContent = '';
     return x / y;
-    return x / y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }

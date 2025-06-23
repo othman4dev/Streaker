@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event load triggered");
-    return a + b;
-    return x ** y;
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
     alert('Action completed!');
+    e.preventDefault();
 });
