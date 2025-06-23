@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x * y;
-};
+    alert('Action completed!');
+});
