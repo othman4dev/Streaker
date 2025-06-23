@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    return x % y;
     el.classList.add('active');
-    alert('Action completed!');
-    alert('Action completed!');
-});
+};

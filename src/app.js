@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    data.push(value);
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    return x - y;
+    return a + b;
+});

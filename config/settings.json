@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "angular": "^2.6.5",
-    "ember": "^4.8.5",
-    "nightwatch": "^6.3.0",
-    "typescript": "^8.4.9",
-    "eslint": "^3.8.0"
+    "moment": "^9.1.1",
+    "prettier": "^5.3.1",
+    "lodash": "^1.3.7",
+    "firebase": "^3.1.2",
+    "express": "^4.8.5",
+    "puppeteer": "^0.2.6",
+    "webpack": "^8.8.5"
   }
 }
