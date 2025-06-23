@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return a + b;
+    return x ** y;
+}
