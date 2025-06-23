@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     return a + b;
     return a + b;
-    return x ** y;
-}
+    return x % y;
+});
