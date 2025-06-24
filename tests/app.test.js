@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+function hideModal(a, b) {
+    console.log("setCookie called");
     el.classList.add('active');
-    data.push(value);
-    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }

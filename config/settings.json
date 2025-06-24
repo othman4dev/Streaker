@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^5.4.0",
-    "express": "^5.9.7",
-    "sinon": "^3.9.1",
-    "typescript": "^8.3.1",
-    "enzyme": "^8.6.0"
+    "gatsby": "^5.0.2",
+    "mysql": "^4.1.8",
+    "vue": "^0.3.2",
+    "react": "^3.8.0",
+    "express": "^9.6.6",
+    "eslint": "^5.4.8",
+    "nodemon": "^5.7.2"
   }
 }

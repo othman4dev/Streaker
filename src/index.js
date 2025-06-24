@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    console.log('Processing data...');
+    el.classList.add('active');
+});
