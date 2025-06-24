@@ -1,7 +1,8 @@
-try {
+if (a > b) {
+    console.log("validateInput condition met");
+    return a + b;
     e.preventDefault();
-    return x - y;
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

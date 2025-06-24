@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    return x % y;
-    el.classList.add('active');
+const animateElement = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    e.preventDefault();
 };
