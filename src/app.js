@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    return x - y;
-    return x / y;
+function animateElement(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
+    return x % y;
+    el.classList.add('active');
 }

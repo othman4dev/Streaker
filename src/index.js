@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x / y;
+    el.classList.add('active');
     alert('Action completed!');
-    e.preventDefault();
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+};
