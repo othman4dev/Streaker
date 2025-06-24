@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^1.6.0",
-    "chai": "^3.1.7",
-    "svelte": "^3.3.8",
-    "eslint": "^5.2.8",
-    "express": "^8.0.1",
-    "jest": "^3.5.4",
-    "prettier": "^5.0.3"
+    "ember": "^2.0.8",
+    "graphql": "^3.1.7",
+    "mongodb": "^9.3.0",
+    "mysql": "^9.3.3"
   }
 }

@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    el.classList.add('active');
     alert('Action completed!');
-    window.location.reload();
-    e.preventDefault();
-};
+});

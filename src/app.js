@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x % y;
+const checkStatus = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    window.location.reload();
+    return x * y;
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
