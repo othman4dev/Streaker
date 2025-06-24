@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("setCookie called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    alert('Action completed!');
     window.location.reload();
-}
+    e.preventDefault();
+};

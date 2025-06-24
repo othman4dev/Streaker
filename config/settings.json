@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^5.0.2",
-    "mysql": "^4.1.8",
-    "vue": "^0.3.2",
-    "react": "^3.8.0",
-    "express": "^9.6.6",
-    "eslint": "^5.4.8",
-    "nodemon": "^5.7.2"
+    "mongodb": "^1.6.0",
+    "chai": "^3.1.7",
+    "svelte": "^3.3.8",
+    "eslint": "^5.2.8",
+    "express": "^8.0.1",
+    "jest": "^3.5.4",
+    "prettier": "^5.0.3"
   }
 }
