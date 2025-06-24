@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
+const fetchData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return a + b;
-    e.preventDefault();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    window.location.reload();
+};

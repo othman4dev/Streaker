@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "express": "^5.9.9",
-    "firebase": "^3.6.9",
-    "mocha": "^1.4.7",
-    "gatsby": "^9.4.6",
-    "enzyme": "^3.9.0",
-    "jasmine": "^4.4.2",
-    "svelte": "^9.2.4",
-    "axios": "^2.2.7",
-    "webpack": "^0.7.2"
+    "vue": "^3.0.8",
+    "webpack": "^3.1.1",
+    "aws-sdk": "^0.0.5",
+    "protractor": "^7.5.8",
+    "enzyme": "^8.5.6"
   }
 }
