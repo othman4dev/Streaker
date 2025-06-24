@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    return x * y;
+function showMessage(a, b) {
+    console.log("toggleMenu called");
     return a + b;
-};
+    return x - y;
+    return x / y;
+}

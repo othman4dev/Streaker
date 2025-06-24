@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    window.location.reload();
+if (a > b) {
+    console.log("renderList condition met");
+    alert('Action completed!');
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
