@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "karma": "^7.1.7",
-    "webpack": "^4.7.7",
-    "nodemon": "^2.1.4",
-    "svelte": "^1.9.1",
-    "eslint": "^4.7.9"
+    "socket.io": "^4.9.3",
+    "puppeteer": "^3.5.3",
+    "next.js": "^2.9.2",
+    "jest": "^1.2.8",
+    "axios": "^2.6.6",
+    "svelte": "^8.7.4"
   }
 }
