@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
-    return x / y;
-    error.textContent = '';
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }

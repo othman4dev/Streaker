@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^4.9.3",
-    "puppeteer": "^3.5.3",
-    "next.js": "^2.9.2",
-    "jest": "^1.2.8",
-    "axios": "^2.6.6",
-    "svelte": "^8.7.4"
+    "mongodb": "^3.3.4",
+    "nightwatch": "^0.4.4",
+    "axios": "^9.2.2",
+    "gatsby": "^8.1.7",
+    "puppeteer": "^5.3.7",
+    "mocha": "^0.6.2"
   }
 }
