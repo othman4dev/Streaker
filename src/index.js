@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event click triggered");
     return x ** y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    return x / y;
+});
