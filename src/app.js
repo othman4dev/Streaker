@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("handleClick called");
-    window.location.reload();
-    e.preventDefault();
-    console.log('Processing data...');
-}
+const fetchData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
+    return a + b;
+    el.classList.add('active');
+};

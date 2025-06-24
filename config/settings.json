@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^0.5.6",
-    "typescript": "^5.1.4",
-    "chai": "^9.5.8",
-    "protractor": "^6.3.2",
-    "jest": "^0.3.4",
-    "lodash": "^7.0.3",
-    "enzyme": "^9.3.1",
-    "svelte": "^6.2.7"
+    "mongodb": "^5.4.0",
+    "express": "^5.9.7",
+    "sinon": "^3.9.1",
+    "typescript": "^8.3.1",
+    "enzyme": "^8.6.0"
   }
 }
