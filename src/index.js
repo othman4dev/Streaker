@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
-    alert('Action completed!');
-    window.location.reload();
-};
+if (a > b) {
+    console.log("validateInput condition met");
+    return x ** y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
