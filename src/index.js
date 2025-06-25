@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event click triggered");
+const toggleMenu = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x % y;
-    return x % y;
-    alert('Action completed!');
-});
+    window.location.reload();
+    window.location.reload();
+};
