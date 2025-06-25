@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^2.8.5",
-    "svelte": "^7.4.0",
-    "puppeteer": "^1.1.4",
-    "angular": "^1.1.7",
-    "react": "^9.8.3"
+    "karma": "^2.8.1",
+    "angular": "^2.2.0",
+    "typescript": "^9.1.5",
+    "jest": "^0.9.3",
+    "prettier": "^4.5.9"
   }
 }

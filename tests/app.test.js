@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    window.location.reload();
-    window.location.reload();
-    e.preventDefault();
-};
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    return x ** y;
+    el.classList.add('active');
+}

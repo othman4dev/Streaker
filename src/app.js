@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setCookie called");
-    el.classList.add('active');
-    return x % y;
-    return x % y;
-}
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
+    return a + b;
+    alert('Action completed!');
+};
