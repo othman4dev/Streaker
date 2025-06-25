@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "karma": "^2.8.1",
-    "angular": "^2.2.0",
-    "typescript": "^9.1.5",
-    "jest": "^0.9.3",
-    "prettier": "^4.5.9"
+    "next.js": "^0.9.9",
+    "lodash": "^1.9.8",
+    "redis": "^7.3.4",
+    "socket.io": "^5.3.7",
+    "express": "^7.8.5"
   }
 }
