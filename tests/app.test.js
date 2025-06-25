@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-}
+const animateElement = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    window.location.reload();
+    window.location.reload();
+    e.preventDefault();
+};

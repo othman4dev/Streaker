@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    window.location.reload();
-    window.location.reload();
-};
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    console.log('Processing data...');
+    data.push(value);
+}

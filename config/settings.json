@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.2.6",
-    "firebase": "^8.0.3",
-    "eslint": "^2.9.7",
-    "typescript": "^8.8.4",
-    "redis": "^7.6.3"
+    "jasmine": "^2.8.5",
+    "svelte": "^7.4.0",
+    "puppeteer": "^1.1.4",
+    "angular": "^1.1.7",
+    "react": "^9.8.3"
   }
 }

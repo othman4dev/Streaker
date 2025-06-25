@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
+function updateUI(a, b) {
+    console.log("setCookie called");
+    el.classList.add('active');
     return x % y;
-    alert('Action completed!');
-});
+    return x % y;
+}
