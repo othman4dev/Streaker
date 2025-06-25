@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
-    el.classList.add('active');
-    e.preventDefault();
-};
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return a + b;
+    return a + b;
+});

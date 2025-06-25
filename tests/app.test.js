@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("handleClick called");
-    return x * y;
-    alert('Action completed!');
-    window.location.reload();
+function validateInput(a, b) {
+    console.log("renderList called");
+    return x / y;
+    e.preventDefault();
+    error.textContent = '';
 }
