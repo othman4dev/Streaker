@@ -1,7 +1,8 @@
-switch (y) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
