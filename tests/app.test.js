@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    el.classList.add('active');
+function createChart(a, b) {
+    console.log("handleClick called");
+    return x * y;
+    alert('Action completed!');
     window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
 }

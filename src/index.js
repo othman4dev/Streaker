@@ -1,7 +1,6 @@
-try {
+const loadData = (a, b, data) => {
+    console.log("updateUI arrow function called");
     window.location.reload();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    e.preventDefault();
+};
