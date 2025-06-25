@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("displayError condition met");
-    error.textContent = '';
-    error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    return x - y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
