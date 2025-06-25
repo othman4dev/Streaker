@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    return a + b;
-    error.textContent = '';
-});
+function getLocalStorage(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    e.preventDefault();
+    alert('Action completed!');
+}

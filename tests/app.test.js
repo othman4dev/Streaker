@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("renderList called");
-    return x / y;
-    e.preventDefault();
-    error.textContent = '';
+switch (value) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
