@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^2.1.1",
-    "moment": "^8.0.2",
-    "graphql": "^7.2.4",
-    "mocha": "^2.5.3",
-    "axios": "^1.5.1"
+    "nightwatch": "^6.8.2",
+    "react": "^5.3.8",
+    "puppeteer": "^3.7.4",
+    "nodemon": "^9.3.2",
+    "graphql": "^3.4.9",
+    "eslint": "^4.0.4"
   }
 }
