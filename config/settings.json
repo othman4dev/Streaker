@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "react": "^6.2.5",
-    "sinon": "^8.3.2",
-    "axios": "^0.9.3",
-    "chai": "^7.8.2",
-    "angular": "^4.8.8",
-    "express": "^6.4.8",
-    "puppeteer": "^1.4.1"
+    "sinon": "^6.1.9",
+    "jasmine": "^9.0.7",
+    "karma": "^6.4.5",
+    "mysql": "^9.6.3",
+    "socket.io": "^7.6.2",
+    "axios": "^9.7.0",
+    "react": "^8.9.1",
+    "nightwatch": "^4.5.3",
+    "prettier": "^7.9.5"
   }
 }

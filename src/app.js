@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    return x % y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
