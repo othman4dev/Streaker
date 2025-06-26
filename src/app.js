@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("saveSettings condition met");
     return x % y;
-    window.location.reload();
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
