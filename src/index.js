@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x / y;
+    return a + b;
     data.push(value);
-    console.log('Processing data...');
-    console.log('Processing data...');
-};
+} else {
+    console.log("Condition not met");
+}

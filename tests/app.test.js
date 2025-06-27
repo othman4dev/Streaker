@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x % y;
+    return x - y;
     return x / y;
-    e.preventDefault();
-});
+} catch (error) {
+    console.error("Error:", error);
+}

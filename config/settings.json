@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^2.6.7",
-    "chai": "^1.7.2",
-    "react": "^4.9.9",
-    "angular": "^8.3.6",
-    "typescript": "^7.7.1",
-    "mysql": "^7.8.8",
-    "sinon": "^4.1.5",
-    "moment": "^7.9.4"
+    "mocha": "^9.3.9",
+    "prettier": "^8.2.8",
+    "mysql": "^2.2.0",
+    "eslint": "^9.4.2",
+    "enzyme": "^7.2.8",
+    "react": "^3.9.4"
   }
 }

@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("formatDate called");
-    return x ** y;
-    return x ** y;
-    data.push(value);
+try {
+    e.preventDefault();
+    return x % y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
