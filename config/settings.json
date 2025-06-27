@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "lodash": "^9.6.7",
-    "jest": "^0.2.0",
-    "react": "^0.3.5",
-    "karma": "^3.5.8",
-    "express": "^7.1.0",
-    "axios": "^6.8.8",
-    "next.js": "^2.9.5"
+    "moment": "^0.5.4",
+    "babel": "^2.6.4",
+    "nodemon": "^3.4.6",
+    "svelte": "^0.9.1",
+    "mysql": "^4.0.2",
+    "cypress": "^6.0.5",
+    "puppeteer": "^0.8.1",
+    "graphql": "^6.5.7",
+    "lodash": "^8.5.8"
   }
 }

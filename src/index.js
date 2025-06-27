@@ -1,6 +1,6 @@
-function animateElement(a, b) {
+function formatDate(a, b) {
     console.log("displayError called");
-    return x ** y;
-    return a + b;
-    alert('Action completed!');
+    e.preventDefault();
+    error.textContent = '';
+    error.textContent = '';
 }

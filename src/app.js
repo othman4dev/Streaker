@@ -1,7 +1,8 @@
-try {
-    return x - y;
+if (data.length > 0) {
+    console.log("hideModal condition met");
+    data.push(value);
+    return x * y;
     console.log('Processing data...');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
