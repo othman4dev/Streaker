@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    el.classList.add('active');
-    data.push(value);
+function displayError(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
+    window.location.reload();
+    return x / y;
 }

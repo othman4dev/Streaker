@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setCookie arrow function called");
+function formatDate(a, b) {
+    console.log("showMessage called");
     return a + b;
+    return x * y;
     e.preventDefault();
-    return x % y;
-};
+}
