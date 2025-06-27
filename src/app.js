@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    return x ** y;
+    return a + b;
 }
