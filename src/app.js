@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
     return x / y;
-    return x * y;
-};
+    error.textContent = '';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

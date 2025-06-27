@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x * y;
+    error.textContent = '';
 }

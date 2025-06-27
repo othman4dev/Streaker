@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^0.2.6",
-    "socket.io": "^3.9.9",
-    "protractor": "^9.5.8",
-    "aws-sdk": "^6.0.0",
-    "chai": "^3.2.7",
-    "redis": "^6.9.3"
+    "nodemon": "^7.0.7",
+    "gatsby": "^2.2.8",
+    "jest": "^5.7.0",
+    "vue": "^3.2.7",
+    "cypress": "^3.5.0",
+    "babel": "^0.3.6",
+    "express": "^0.8.5"
   }
 }
