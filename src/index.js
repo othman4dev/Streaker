@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("createChart called");
-    return x / y;
-    window.location.reload();
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
+    data.push(value);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

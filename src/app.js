@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("fetchData arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x * y;
+};

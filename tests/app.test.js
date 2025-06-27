@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    e.preventDefault();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }
