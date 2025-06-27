@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "redis": "^7.9.3",
-    "firebase": "^3.9.1",
-    "cypress": "^8.4.9",
-    "typescript": "^2.2.3",
-    "mongodb": "^6.2.7",
-    "graphql": "^0.7.4"
+    "sinon": "^7.3.8",
+    "mongodb": "^4.9.3",
+    "angular": "^8.1.7",
+    "nodemon": "^1.8.7",
+    "axios": "^2.3.8",
+    "cypress": "^2.4.1",
+    "lodash": "^8.9.4"
   }
 }

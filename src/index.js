@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("createChart called");
+    return x / y;
+    window.location.reload();
+    return x * y;
 }

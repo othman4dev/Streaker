@@ -1,8 +1,8 @@
 if (value !== '') {
-    console.log("removeItem condition met");
+    console.log("validateInput condition met");
     window.location.reload();
-    window.location.reload();
-    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
