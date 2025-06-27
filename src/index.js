@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    window.location.reload();
-});
+    return a + b;
+    return a + b;
+}

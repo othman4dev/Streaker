@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^6.9.8",
-    "chai": "^5.0.4",
-    "jest": "^6.2.5",
-    "mongodb": "^8.8.3"
+    "enzyme": "^8.4.6",
+    "axios": "^1.9.6",
+    "lodash": "^7.9.5",
+    "nightwatch": "^3.3.2"
   }
 }

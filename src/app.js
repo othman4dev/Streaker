@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("checkStatus called");
+function checkStatus(a, b) {
+    console.log("showMessage called");
+    error.textContent = '';
+    error.textContent = '';
     e.preventDefault();
-    return x % y;
-    return x - y;
 }
