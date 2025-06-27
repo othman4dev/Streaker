@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("showMessage called");
-    return a + b;
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    error.textContent = '';
     return x * y;
-    e.preventDefault();
-}
+});
