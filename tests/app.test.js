@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    alert('Action completed!');
-    return x * y;
-});
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x % y;
+    console.log('Processing data...');
+}

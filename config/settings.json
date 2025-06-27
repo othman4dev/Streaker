@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^8.4.6",
-    "axios": "^1.9.6",
-    "lodash": "^7.9.5",
-    "nightwatch": "^3.3.2"
+    "webpack": "^4.7.3",
+    "jest": "^7.5.3",
+    "express": "^1.4.0",
+    "sinon": "^7.3.4",
+    "nodemon": "^4.9.7",
+    "svelte": "^6.1.0",
+    "axios": "^7.1.0",
+    "next.js": "^8.3.4"
   }
 }
