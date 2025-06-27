@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("animateElement arrow function called");
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event scroll triggered");
     console.log('Processing data...');
-    return x - y;
-    window.location.reload();
-};
+    console.log('Processing data...');
+    return x ** y;
+});

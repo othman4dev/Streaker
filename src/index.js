@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    error.textContent = '';
-    return a + b;
-    return x ** y;
-};
+if (value !== '') {
+    console.log("displayError condition met");
+    return x % y;
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

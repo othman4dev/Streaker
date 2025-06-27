@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^5.2.9",
-    "moment": "^6.4.2",
-    "aws-sdk": "^3.0.4",
-    "cypress": "^8.8.2",
-    "prettier": "^3.5.0"
+    "chai": "^9.5.9",
+    "prettier": "^5.4.0",
+    "mysql": "^1.7.8",
+    "ember": "^3.3.3",
+    "mocha": "^4.0.3",
+    "karma": "^0.9.3"
   }
 }
