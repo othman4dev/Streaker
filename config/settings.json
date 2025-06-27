@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^6.1.9",
-    "jasmine": "^9.0.7",
-    "karma": "^6.4.5",
-    "mysql": "^9.6.3",
-    "socket.io": "^7.6.2",
-    "axios": "^9.7.0",
-    "react": "^8.9.1",
-    "nightwatch": "^4.5.3",
-    "prettier": "^7.9.5"
+    "redis": "^7.9.3",
+    "firebase": "^3.9.1",
+    "cypress": "^8.4.9",
+    "typescript": "^2.2.3",
+    "mongodb": "^6.2.7",
+    "graphql": "^0.7.4"
   }
 }
