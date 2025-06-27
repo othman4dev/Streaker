@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event change triggered");
     el.classList.add('active');
-    data.push(value);
     return x ** y;
+    window.location.reload();
 });

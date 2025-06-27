@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "prettier": "^8.6.4",
-    "protractor": "^4.1.1",
-    "nightwatch": "^1.2.8",
-    "socket.io": "^4.6.4",
-    "express": "^8.4.7",
-    "puppeteer": "^7.9.3",
-    "moment": "^6.9.9"
+    "nightwatch": "^6.9.8",
+    "chai": "^5.0.4",
+    "jest": "^6.2.5",
+    "mongodb": "^8.8.3"
   }
 }

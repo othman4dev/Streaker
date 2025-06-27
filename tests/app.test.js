@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("hideModal condition met");
+    return x - y;
     error.textContent = '';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
