@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    return x / y;
-    error.textContent = '';
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+});

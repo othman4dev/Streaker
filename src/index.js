@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
-    error.textContent = '';
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x / y;
 }

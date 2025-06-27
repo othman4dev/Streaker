@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^7.0.7",
-    "gatsby": "^2.2.8",
-    "jest": "^5.7.0",
-    "vue": "^3.2.7",
-    "cypress": "^3.5.0",
-    "babel": "^0.3.6",
-    "express": "^0.8.5"
+    "mongodb": "^0.2.3",
+    "react": "^4.4.9",
+    "angular": "^8.2.9",
+    "sinon": "^9.0.5",
+    "svelte": "^7.1.0",
+    "enzyme": "^8.4.0"
   }
 }

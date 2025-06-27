@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+};
