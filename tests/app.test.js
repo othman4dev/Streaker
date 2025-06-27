@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
+try {
+    error.textContent = '';
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
