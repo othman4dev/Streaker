@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    return x / y;
 });

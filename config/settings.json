@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "karma": "^0.9.3",
-    "nightwatch": "^8.4.2",
-    "svelte": "^5.2.4",
-    "sinon": "^3.3.6",
-    "webpack": "^4.1.1"
+    "vue": "^1.4.6",
+    "karma": "^5.9.1",
+    "sinon": "^1.6.0",
+    "mongodb": "^8.2.1",
+    "ember": "^6.5.2",
+    "puppeteer": "^8.6.1"
   }
 }

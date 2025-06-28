@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
+function fetchData(a, b) {
+    console.log("renderList called");
     el.classList.add('active');
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    data.push(value);
 }
