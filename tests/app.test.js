@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    el.classList.add('active');
     return x ** y;
-});
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

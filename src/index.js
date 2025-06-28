@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return x % y;
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    error.textContent = '';
     return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "chai": "^9.5.9",
-    "prettier": "^5.4.0",
-    "mysql": "^1.7.8",
-    "ember": "^3.3.3",
-    "mocha": "^4.0.3",
-    "karma": "^0.9.3"
+    "karma": "^0.9.3",
+    "nightwatch": "^8.4.2",
+    "svelte": "^5.2.4",
+    "sinon": "^3.3.6",
+    "webpack": "^4.1.1"
   }
 }
