@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "karma": "^6.5.9",
-    "graphql": "^1.5.8",
-    "jest": "^2.2.2",
-    "aws-sdk": "^3.0.2",
-    "express": "^0.1.2"
+    "puppeteer": "^5.2.9",
+    "moment": "^6.4.2",
+    "aws-sdk": "^3.0.4",
+    "cypress": "^8.8.2",
+    "prettier": "^3.5.0"
   }
 }

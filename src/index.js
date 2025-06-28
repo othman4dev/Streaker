@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    return x % y;
+const renderList = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     error.textContent = '';
-    return x * y;
-});
+    return a + b;
+    return x ** y;
+};
