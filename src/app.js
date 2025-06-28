@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("loadData called");
+function setSessionStorage(a, b) {
+    console.log("formatDate called");
+    return x ** y;
+    return x ** y;
     data.push(value);
-    return x / y;
-    return x / y;
 }
