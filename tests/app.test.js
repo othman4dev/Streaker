@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
-    return x - y;
-}
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    error.textContent = '';
+});

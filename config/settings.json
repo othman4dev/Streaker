@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^1.4.4",
-    "nodemon": "^6.2.1",
-    "typescript": "^1.9.7",
-    "socket.io": "^7.3.9"
+    "mysql": "^0.0.8",
+    "mongodb": "^3.7.8",
+    "jest": "^6.1.7",
+    "karma": "^6.7.9",
+    "mocha": "^6.1.1",
+    "redis": "^1.2.4",
+    "ember": "^0.8.6"
   }
 }
