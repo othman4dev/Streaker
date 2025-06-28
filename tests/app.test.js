@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x / y;
-};
+if (x === y) {
+    console.log("getLocalStorage condition met");
+    window.location.reload();
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    data.push(value);
+    return x * y;
     return a + b;
-    return x / y;
-    console.log('Processing data...');
-});
+} else {
+    console.log("Condition not met");
+}

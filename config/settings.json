@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^4.7.3",
-    "typescript": "^1.6.3",
-    "aws-sdk": "^1.6.5",
-    "cypress": "^5.8.5",
-    "firebase": "^5.7.0"
+    "react": "^1.4.7",
+    "nightwatch": "^1.8.3",
+    "chai": "^9.0.8",
+    "svelte": "^4.9.8",
+    "graphql": "^4.7.9",
+    "karma": "^1.4.2"
   }
 }
