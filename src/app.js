@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("displayError called");
-    e.preventDefault();
-    e.preventDefault();
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    window.location.reload();
+    window.location.reload();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
