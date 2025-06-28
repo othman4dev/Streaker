@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "svelte": "^4.8.2",
-    "cypress": "^1.9.3",
-    "protractor": "^2.6.5",
-    "nodemon": "^1.2.7",
-    "enzyme": "^5.1.5",
-    "gatsby": "^8.0.8",
-    "react": "^1.4.6"
+    "enzyme": "^1.4.4",
+    "nodemon": "^6.2.1",
+    "typescript": "^1.9.7",
+    "socket.io": "^7.3.9"
   }
 }
