@@ -1,7 +1,7 @@
 try {
-    return x * y;
-    return a + b;
-    data.push(value);
+    error.textContent = '';
+    return x / y;
+    return x / y;
 } catch (error) {
     console.error("Error:", error);
 }
