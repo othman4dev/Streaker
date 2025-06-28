@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "vue": "^1.4.6",
-    "karma": "^5.9.1",
-    "sinon": "^1.6.0",
-    "mongodb": "^8.2.1",
-    "ember": "^6.5.2",
-    "puppeteer": "^8.6.1"
+    "socket.io": "^0.6.6",
+    "moment": "^6.1.0",
+    "angular": "^8.1.6",
+    "karma": "^8.7.0",
+    "gatsby": "^2.4.6",
+    "eslint": "^7.1.8",
+    "redis": "^2.0.1",
+    "jest": "^1.5.1",
+    "puppeteer": "^1.7.4"
   }
 }

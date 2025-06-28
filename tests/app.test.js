@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    el.classList.add('active');
+try {
+    return x * y;
+    return a + b;
     data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

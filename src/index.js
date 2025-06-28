@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    return x / y;
-});
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
+    console.log('Processing data...');
+    return x % y;
+};
