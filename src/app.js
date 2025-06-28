@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    data.push(value);
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
+    return x / y;
     return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+};

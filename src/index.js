@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("displayError called");
+const removeItem = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return a + b;
     e.preventDefault();
-    error.textContent = '';
-    error.textContent = '';
-}
+    return x % y;
+};

@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+function hideModal(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    el.classList.add('active');
+    data.push(value);
+}
