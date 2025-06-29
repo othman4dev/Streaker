@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^3.6.5",
-    "nodemon": "^9.3.1",
-    "cypress": "^1.0.0",
-    "mocha": "^3.2.4",
-    "prettier": "^3.8.4",
-    "axios": "^0.5.6"
+    "express": "^7.4.8",
+    "firebase": "^0.0.7",
+    "gatsby": "^9.9.1",
+    "eslint": "^1.8.1",
+    "cypress": "^1.0.2",
+    "redis": "^8.7.6",
+    "socket.io": "^0.3.0"
   }
 }

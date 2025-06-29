@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    data.push(value);
-    alert('Action completed!');
+try {
+    return a + b;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

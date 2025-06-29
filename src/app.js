@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x - y;
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
+    console.log('Processing data...');
+    return a + b;
 }
