@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    e.preventDefault();
-    return x / y;
-}
+const renderList = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    data.push(value);
+    return x % y;
+    console.log('Processing data...');
+};
