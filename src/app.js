@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event click triggered");
-    return a + b;
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event submit triggered");
     el.classList.add('active');
+    data.push(value);
+    return x % y;
 });
