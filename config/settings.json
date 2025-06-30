@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^6.3.2",
-    "svelte": "^4.8.4",
-    "mysql": "^8.5.4",
-    "ember": "^9.8.8",
-    "graphql": "^1.2.5",
-    "mongodb": "^7.0.7"
+    "jest": "^5.6.3",
+    "jasmine": "^0.6.8",
+    "enzyme": "^5.7.7",
+    "mongodb": "^9.0.9",
+    "sinon": "^7.9.6"
   }
 }
