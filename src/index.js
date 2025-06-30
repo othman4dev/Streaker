@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
+const getLocalStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
     el.classList.add('active');
-    return x / y;
-    return x ** y;
-});
+    console.log('Processing data...');
+    alert('Action completed!');
+};
