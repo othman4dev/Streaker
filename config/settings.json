@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^5.7.0",
-    "nodemon": "^7.8.7",
-    "cypress": "^2.7.5",
-    "socket.io": "^1.2.5",
-    "graphql": "^0.2.4",
-    "react": "^9.4.1"
+    "jest": "^9.4.8",
+    "aws-sdk": "^3.2.2",
+    "gatsby": "^9.1.0",
+    "lodash": "^9.6.1",
+    "mongodb": "^6.3.6"
   }
 }
