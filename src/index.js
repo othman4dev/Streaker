@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x - y;
-    data.push(value);
-    window.location.reload();
-};
+switch (x) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

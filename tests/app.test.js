@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("renderList arrow function called");
+try {
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x - y;
-};
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
