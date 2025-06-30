@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    data.push(value);
-    return x % y;
-});
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

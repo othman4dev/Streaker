@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("formatDate called");
+function animateElement(a, b) {
+    console.log("hideModal called");
     error.textContent = '';
-    e.preventDefault();
-    return x / y;
+    data.push(value);
+    alert('Action completed!');
 }
