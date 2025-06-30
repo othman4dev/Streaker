@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};
