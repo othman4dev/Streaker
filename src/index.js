@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-}
+const updateUI = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x - y;
+    data.push(value);
+    window.location.reload();
+};

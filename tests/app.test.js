@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x / y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x - y;
+};
