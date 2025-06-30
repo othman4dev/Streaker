@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("displayError called");
-    return x % y;
-    return x / y;
-    console.log('Processing data...');
-}
+const fetchData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x - y;
+    data.push(value);
+    return a + b;
+};

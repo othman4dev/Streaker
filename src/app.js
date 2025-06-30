@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event click triggered");
+    return a + b;
+    console.log('Processing data...');
+    el.classList.add('active');
+});

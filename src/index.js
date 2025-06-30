@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+try {
+    alert('Action completed!');
+    e.preventDefault();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
