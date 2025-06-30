@@ -1,7 +1,8 @@
-switch (value) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    error.textContent = '';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
