@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "express": "^7.4.8",
-    "firebase": "^0.0.7",
-    "gatsby": "^9.9.1",
-    "eslint": "^1.8.1",
-    "cypress": "^1.0.2",
-    "redis": "^8.7.6",
-    "socket.io": "^0.3.0"
+    "react": "^0.1.8",
+    "jest": "^9.8.1",
+    "enzyme": "^2.9.6",
+    "puppeteer": "^6.0.0",
+    "mongodb": "^2.0.3",
+    "express": "^9.8.6"
   }
 }
