@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+function loadData(a, b) {
+    console.log("validateInput called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+}

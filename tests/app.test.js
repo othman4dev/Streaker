@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+try {
+    window.location.reload();
+    return x / y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
