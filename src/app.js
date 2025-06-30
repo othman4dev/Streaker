@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
-    return x ** y;
-    console.log('Processing data...');
-};
+switch (error) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

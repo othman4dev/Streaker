@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^6.6.1",
-    "nodemon": "^7.5.9",
-    "jasmine": "^9.4.4",
-    "firebase": "^8.2.3",
-    "svelte": "^9.2.8",
-    "vue": "^5.8.5"
+    "mongodb": "^5.7.0",
+    "nodemon": "^7.8.7",
+    "cypress": "^2.7.5",
+    "socket.io": "^1.2.5",
+    "graphql": "^0.2.4",
+    "react": "^9.4.1"
   }
 }

@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("showMessage called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x * y;
+switch (a) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
