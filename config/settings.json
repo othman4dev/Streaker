@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^7.8.5",
-    "angular": "^1.9.2",
-    "babel": "^3.1.4",
-    "lodash": "^2.7.8",
-    "nodemon": "^4.6.4"
+    "react": "^7.0.7",
+    "graphql": "^8.9.2",
+    "mongodb": "^3.0.6",
+    "chai": "^0.9.7",
+    "aws-sdk": "^8.7.3",
+    "express": "^2.6.5",
+    "webpack": "^4.1.4"
   }
 }
