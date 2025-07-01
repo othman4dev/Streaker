@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^6.8.6",
-    "mysql": "^9.6.9",
-    "axios": "^0.2.8",
-    "puppeteer": "^1.6.0",
-    "karma": "^1.4.0",
-    "socket.io": "^1.0.7",
-    "gatsby": "^6.5.3",
-    "jest": "^9.0.8"
+    "gatsby": "^1.4.7",
+    "redis": "^4.6.5",
+    "eslint": "^9.4.7",
+    "lodash": "^0.9.8",
+    "chai": "^6.9.3",
+    "graphql": "^8.0.9",
+    "nightwatch": "^5.1.6",
+    "next.js": "^3.2.3"
   }
 }

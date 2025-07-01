@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("hideModal condition met");
+const renderList = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x / y;
     window.location.reload();
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+};

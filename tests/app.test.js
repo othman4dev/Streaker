@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    return x * y;
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    return x % y;
+    console.log('Processing data...');
+    data.push(value);
+});
