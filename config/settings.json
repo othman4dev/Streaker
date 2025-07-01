@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^5.6.3",
-    "jasmine": "^0.6.8",
-    "enzyme": "^5.7.7",
-    "mongodb": "^9.0.9",
-    "sinon": "^7.9.6"
+    "cypress": "^7.8.5",
+    "angular": "^1.9.2",
+    "babel": "^3.1.4",
+    "lodash": "^2.7.8",
+    "nodemon": "^4.6.4"
   }
 }
