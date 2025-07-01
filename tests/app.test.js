@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("getLocalStorage condition met");
-    data.push(value);
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

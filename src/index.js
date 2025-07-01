@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
     console.log('Processing data...');
-    return x * y;
+    return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
