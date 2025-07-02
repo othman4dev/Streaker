@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x * y;
     console.log('Processing data...');
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
 }

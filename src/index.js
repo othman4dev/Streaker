@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    alert('Action completed!');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return x ** y;
+    return x * y;
+});
