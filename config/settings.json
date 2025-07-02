@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^1.4.7",
-    "redis": "^4.6.5",
-    "eslint": "^9.4.7",
-    "lodash": "^0.9.8",
-    "chai": "^6.9.3",
-    "graphql": "^8.0.9",
-    "nightwatch": "^5.1.6",
-    "next.js": "^3.2.3"
+    "express": "^3.5.9",
+    "babel": "^9.0.4",
+    "lodash": "^0.7.2",
+    "puppeteer": "^4.1.8",
+    "react": "^2.4.3"
   }
 }

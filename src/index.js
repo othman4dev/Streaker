@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+function removeItem(a, b) {
+    console.log("setSessionStorage called");
     window.location.reload();
-    alert('Action completed!');
+    window.location.reload();
+    e.preventDefault();
 }

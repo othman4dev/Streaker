@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x / y;
+function formatDate(a, b) {
+    console.log("showMessage called");
+    e.preventDefault();
     window.location.reload();
-    window.location.reload();
-};
+    document.body.style.backgroundColor = 'lightblue';
+}
