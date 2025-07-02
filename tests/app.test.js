@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("createChart arrow function called");
+try {
+    console.log('Processing data...');
     return x ** y;
-    return x / y;
-    return a + b;
-};
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
