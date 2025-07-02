@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("setSessionStorage called");
-    window.location.reload();
-    window.location.reload();
-    e.preventDefault();
+try {
+    error.textContent = '';
+    alert('Action completed!');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

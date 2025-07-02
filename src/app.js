@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("showMessage called");
-    e.preventDefault();
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    alert('Action completed!');
+    return x / y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
