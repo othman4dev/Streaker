@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
-    console.log('Processing data...');
-}
+const formatDate = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x ** y;
+    return x / y;
+    return a + b;
+};
