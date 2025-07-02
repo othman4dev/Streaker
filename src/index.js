@@ -1,7 +1,6 @@
-try {
-    return x * y;
+function getLocalStorage(a, b) {
+    console.log("toggleMenu called");
+    el.classList.add('active');
     return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
 }
