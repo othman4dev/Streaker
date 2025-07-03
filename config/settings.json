@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^9.6.0",
-    "svelte": "^1.4.6",
-    "nodemon": "^0.3.1",
-    "cypress": "^9.6.9",
-    "jest": "^1.5.6",
-    "eslint": "^2.6.6",
-    "socket.io": "^1.0.2",
-    "graphql": "^5.4.9",
-    "sinon": "^2.9.0"
+    "mongodb": "^6.3.9",
+    "gatsby": "^6.9.4",
+    "babel": "^8.3.9",
+    "aws-sdk": "^9.6.7",
+    "webpack": "^7.5.1",
+    "socket.io": "^8.6.0"
   }
 }

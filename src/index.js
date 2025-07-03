@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    data.push(value);
-    console.log('Processing data...');
-}
+const animateElement = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return a + b;
+    return x / y;
+    alert('Action completed!');
+};

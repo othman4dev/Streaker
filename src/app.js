@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    return x - y;
+};
