@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    return x % y;
-    return a + b;
-});
+switch (value) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

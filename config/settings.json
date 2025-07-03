@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "babel": "^6.5.4",
-    "cypress": "^7.9.2",
-    "mongodb": "^8.9.1",
-    "nightwatch": "^4.4.6",
-    "protractor": "^6.9.5",
-    "webpack": "^6.1.4"
+    "mongodb": "^7.5.7",
+    "redis": "^0.1.1",
+    "jest": "^2.8.7",
+    "moment": "^5.6.0",
+    "ember": "^7.7.7",
+    "mocha": "^4.5.0"
   }
 }
