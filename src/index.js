@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
+const renderList = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    return x % y;
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+};

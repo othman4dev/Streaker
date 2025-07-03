@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "ember": "^5.0.6",
-    "next.js": "^6.7.0",
-    "gatsby": "^0.6.0",
-    "firebase": "^2.3.3",
-    "puppeteer": "^4.7.8",
-    "vue": "^0.9.9"
+    "babel": "^6.5.4",
+    "cypress": "^7.9.2",
+    "mongodb": "^8.9.1",
+    "nightwatch": "^4.4.6",
+    "protractor": "^6.9.5",
+    "webpack": "^6.1.4"
   }
 }
