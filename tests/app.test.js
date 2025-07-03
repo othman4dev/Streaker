@@ -1,7 +1,8 @@
-switch (data) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("formatDate condition met");
+    return a + b;
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

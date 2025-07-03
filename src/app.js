@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
     return a + b;
-    data.push(value);
-    return x - y;
-};
+    return x / y;
+    return x / y;
+});

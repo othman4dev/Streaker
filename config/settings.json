@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^7.3.7",
-    "gatsby": "^8.9.0",
-    "moment": "^3.6.5",
-    "sinon": "^1.9.3",
-    "enzyme": "^8.8.6",
-    "vue": "^3.3.8",
-    "nodemon": "^7.0.6",
-    "svelte": "^0.5.6"
+    "angular": "^8.5.4",
+    "typescript": "^7.1.6",
+    "cypress": "^2.4.2",
+    "prettier": "^4.5.3",
+    "protractor": "^8.6.1"
   }
 }
