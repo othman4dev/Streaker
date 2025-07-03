@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
+    alert('Action completed!');
+    return x ** y;
+};

@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("formatDate called");
-    return x - y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (error) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
