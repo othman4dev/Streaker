@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("displayError called");
-    return a + b;
-    return x * y;
-    return x - y;
+function validateInput(a, b) {
+    console.log("handleClick called");
+    el.classList.add('active');
+    return x % y;
+    window.location.reload();
 }

@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    alert('Action completed!');
+    data.push(value);
+}

@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
     error.textContent = '';
-    e.preventDefault();
-    el.classList.add('active');
-};
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^3.8.7",
-    "redis": "^6.5.9",
-    "prettier": "^6.5.3",
-    "jasmine": "^3.3.5",
-    "nodemon": "^5.1.9"
+    "svelte": "^9.9.2",
+    "karma": "^3.6.3",
+    "vue": "^7.0.0",
+    "mongodb": "^9.1.4",
+    "nightwatch": "^9.7.4"
   }
 }
