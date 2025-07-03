@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    error.textContent = '';
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    console.log('Processing data...');
+    el.classList.add('active');
 }

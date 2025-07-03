@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("handleClick called");
-    el.classList.add('active');
-    return x % y;
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
