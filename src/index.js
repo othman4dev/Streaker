@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+});
