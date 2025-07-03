@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("formatDate condition met");
-    return a + b;
-    console.log('Processing data...');
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});

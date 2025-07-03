@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+function animateElement(a, b) {
+    console.log("displayError called");
+    return a + b;
+    return x * y;
     return x - y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
 }

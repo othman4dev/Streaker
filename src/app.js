@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    return a + b;
-    return x / y;
-    return x / y;
-});
+const formatDate = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    el.classList.add('active');
+};
