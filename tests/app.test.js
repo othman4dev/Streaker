@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("setSessionStorage called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }

@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "babel": "^6.7.5",
-    "gatsby": "^6.5.4",
-    "firebase": "^9.6.3",
-    "react": "^6.9.0",
-    "socket.io": "^0.2.0",
-    "next.js": "^5.0.4",
-    "jasmine": "^2.4.7",
-    "karma": "^2.0.1",
-    "mysql": "^4.4.8"
+    "express": "^9.0.6",
+    "mongodb": "^1.8.3",
+    "mocha": "^9.4.1",
+    "next.js": "^4.5.0",
+    "cypress": "^9.8.0",
+    "sinon": "^8.0.5"
   }
 }
