@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
-    return x / y;
-    return x / y;
-});
+function animateElement(a, b) {
+    console.log("formatDate called");
+    return x - y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+}

@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
+switch (x) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
