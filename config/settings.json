@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "babel": "^2.1.0",
-    "nodemon": "^0.4.8",
-    "eslint": "^2.2.6",
-    "angular": "^1.5.1",
-    "jasmine": "^2.5.7",
-    "webpack": "^0.9.0",
-    "puppeteer": "^6.1.5"
+    "mysql": "^7.3.7",
+    "gatsby": "^8.9.0",
+    "moment": "^3.6.5",
+    "sinon": "^1.9.3",
+    "enzyme": "^8.8.6",
+    "vue": "^3.3.8",
+    "nodemon": "^7.0.6",
+    "svelte": "^0.5.6"
   }
 }

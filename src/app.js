@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    return x - y;
-    alert('Action completed!');
+const toggleMenu = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+};
