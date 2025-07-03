@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^6.3.9",
-    "gatsby": "^6.9.4",
-    "babel": "^8.3.9",
-    "aws-sdk": "^9.6.7",
-    "webpack": "^7.5.1",
-    "socket.io": "^8.6.0"
+    "babel": "^2.1.0",
+    "nodemon": "^0.4.8",
+    "eslint": "^2.2.6",
+    "angular": "^1.5.1",
+    "jasmine": "^2.5.7",
+    "webpack": "^0.9.0",
+    "puppeteer": "^6.1.5"
   }
 }

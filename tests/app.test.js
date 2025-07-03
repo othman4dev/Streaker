@@ -1,7 +1,7 @@
-try {
-    el.classList.add('active');
-    data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+switch (data) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

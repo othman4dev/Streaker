@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
     return x - y;
-};
+    alert('Action completed!');
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

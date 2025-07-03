@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return a + b;
-    return x / y;
-    alert('Action completed!');
-};
+function animateElement(a, b) {
+    console.log("renderList called");
+    return x % y;
+    return x - y;
+    error.textContent = '';
+}
