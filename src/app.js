@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    alert('Action completed!');
-};
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
