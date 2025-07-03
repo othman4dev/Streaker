@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^5.5.0",
-    "express": "^3.3.2",
-    "angular": "^2.8.6",
-    "jest": "^0.1.8",
-    "svelte": "^0.5.3",
-    "prettier": "^5.3.1"
+    "jest": "^2.8.8",
+    "sinon": "^4.8.3",
+    "angular": "^4.0.0",
+    "axios": "^6.8.9",
+    "graphql": "^2.0.9",
+    "gatsby": "^1.1.2",
+    "karma": "^6.5.7"
   }
 }

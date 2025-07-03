@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+if (a > b) {
+    console.log("fetchData condition met");
+    e.preventDefault();
     return x * y;
-    alert('Action completed!');
-    return x ** y;
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

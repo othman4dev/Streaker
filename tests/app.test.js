@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    return x / y;
-    return x * y;
+switch (value) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

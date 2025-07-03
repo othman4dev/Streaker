@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    return x - y;
+    return x * y;
+};
