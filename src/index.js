@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
+try {
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-    return x - y;
-    return x * y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

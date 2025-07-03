@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    e.preventDefault();
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    console.log('Processing data...');
     return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+};
