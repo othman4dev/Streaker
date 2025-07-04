@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    error.textContent = '';
+const getLocalStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x ** y;
     data.push(value);
-}
+    console.log('Processing data...');
+};

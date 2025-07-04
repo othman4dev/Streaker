@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("submitForm called");
-    return a + b;
-    return x - y;
-    data.push(value);
-}
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x ** y;
+    window.location.reload();
+    el.classList.add('active');
+});
