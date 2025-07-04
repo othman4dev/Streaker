@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("setCookie called");
-    window.location.reload();
-    error.textContent = '';
-    return x ** y;
+switch (x) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

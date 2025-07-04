@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    return a + b;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+});
