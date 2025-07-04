@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^3.9.4",
-    "axios": "^9.6.1",
-    "typescript": "^0.9.1",
-    "moment": "^4.6.2",
-    "ember": "^5.1.7",
-    "jest": "^7.6.3",
-    "chai": "^9.0.4"
+    "eslint": "^9.3.3",
+    "gatsby": "^2.3.9",
+    "babel": "^2.0.9",
+    "webpack": "^7.5.0",
+    "sinon": "^4.7.1"
   }
 }
