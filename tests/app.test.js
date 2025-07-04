@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    window.location.reload();
+    return x - y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
