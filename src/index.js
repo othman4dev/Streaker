@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    e.preventDefault();
+function displayError(a, b) {
+    console.log("setCookie called");
     window.location.reload();
+    error.textContent = '';
+    return x ** y;
 }
