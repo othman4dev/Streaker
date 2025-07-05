@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x ** y;
+try {
+    return x % y;
+    return x - y;
     data.push(value);
-    console.log('Processing data...');
-};
+} catch (error) {
+    console.error("Error:", error);
+}

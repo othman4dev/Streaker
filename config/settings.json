@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^8.7.1",
-    "eslint": "^2.5.9",
-    "karma": "^1.3.1",
-    "graphql": "^0.4.2",
-    "mysql": "^5.3.2",
-    "react": "^8.5.9",
-    "ember": "^5.7.6",
-    "nightwatch": "^7.7.2"
+    "graphql": "^1.0.7",
+    "chai": "^5.0.1",
+    "gatsby": "^1.1.3",
+    "lodash": "^7.2.8",
+    "angular": "^6.0.1",
+    "aws-sdk": "^5.0.7",
+    "ember": "^6.5.1",
+    "nodemon": "^0.0.2"
   }
 }
