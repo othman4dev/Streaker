@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^3.3.1",
-    "aws-sdk": "^9.5.1",
-    "socket.io": "^9.5.2",
-    "mysql": "^2.9.8",
-    "vue": "^9.8.7",
-    "moment": "^6.6.0",
-    "next.js": "^4.8.1"
+    "svelte": "^6.5.9",
+    "karma": "^7.5.2",
+    "webpack": "^0.7.6",
+    "eslint": "^7.2.2",
+    "next.js": "^7.8.4",
+    "express": "^1.0.3",
+    "react": "^6.0.2",
+    "prettier": "^0.8.9"
   }
 }
