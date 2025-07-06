@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event click triggered");
+try {
+    window.location.reload();
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-});
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-    el.classList.add('active');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
