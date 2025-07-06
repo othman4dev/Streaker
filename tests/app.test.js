@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("loadData condition met");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    return x / y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});
