@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    return x * y;
-    el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function displayError(a, b) {
+    console.log("setSessionStorage called");
+    return x % y;
+    return x - y;
+    error.textContent = '';
 }
