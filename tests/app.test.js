@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return a + b;
+const displayError = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x * y;
-}
+    alert('Action completed!');
+    el.classList.add('active');
+};
