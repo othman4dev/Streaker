@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    return x / y;
+function submitForm(a, b) {
+    console.log("setCookie called");
     error.textContent = '';
-    data.push(value);
-});
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+}
