@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("formatDate called");
-    return a + b;
-    return x / y;
-    return x ** y;
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    data.push(value);
+    return x - y;
+});
