@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    error.textContent = '';
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x / y;
+    e.preventDefault();
+}

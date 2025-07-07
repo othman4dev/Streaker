@@ -1,7 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^3.0.3",
-    "moment": "^8.1.9",
-    "mysql": "^2.3.4"
+    "next.js": "^6.7.5",
+    "typescript": "^7.7.6",
+    "eslint": "^1.0.0",
+    "gatsby": "^4.3.9",
+    "nodemon": "^8.5.9",
+    "mongodb": "^7.1.4"
   }
 }

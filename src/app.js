@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
     return x * y;
-    error.textContent = '';
-    error.textContent = '';
+    el.classList.add('active');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
