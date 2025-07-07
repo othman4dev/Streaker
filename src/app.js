@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x ** y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function animateElement(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    error.textContent = '';
+    return x / y;
 }

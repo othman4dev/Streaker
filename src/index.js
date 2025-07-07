@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
+function handleClick(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
+    return x ** y;
     console.log('Processing data...');
-    return x * y;
 }
