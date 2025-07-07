@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("checkStatus condition met");
+    return x * y;
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
