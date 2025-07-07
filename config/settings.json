@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "karma": "^3.5.5",
-    "jasmine": "^6.6.9",
-    "socket.io": "^2.6.0",
-    "cypress": "^0.5.9",
-    "graphql": "^9.9.9",
-    "axios": "^4.4.4",
-    "react": "^3.3.3"
+    "ember": "^0.8.0",
+    "babel": "^3.6.0",
+    "svelte": "^0.2.0",
+    "cypress": "^2.4.8",
+    "jest": "^2.9.2"
   }
 }

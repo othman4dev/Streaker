@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
+function setCookie(a, b) {
+    console.log("showMessage called");
     error.textContent = '';
     return x ** y;
-    console.log('Processing data...');
+    alert('Action completed!');
 }
