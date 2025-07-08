@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "axios": "^1.0.1",
-    "express": "^7.4.9",
-    "prettier": "^2.2.3",
-    "moment": "^6.4.8",
-    "jasmine": "^2.2.1",
-    "firebase": "^6.0.8"
+    "babel": "^7.1.6",
+    "eslint": "^8.2.3",
+    "nodemon": "^4.7.1",
+    "ember": "^2.9.7",
+    "puppeteer": "^3.9.6",
+    "chai": "^8.3.5",
+    "protractor": "^0.4.4",
+    "socket.io": "^3.4.8"
   }
 }

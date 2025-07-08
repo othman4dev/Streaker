@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    return x ** y;
-    data.push(value);
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    return x % y;
+    return x % y;
+    return x % y;
 } else {
     console.log("Condition not met");
 }

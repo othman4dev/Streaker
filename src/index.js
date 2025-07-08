@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+switch (y) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
