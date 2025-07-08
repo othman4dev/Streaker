@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "ember": "^0.8.0",
-    "babel": "^3.6.0",
-    "svelte": "^0.2.0",
-    "cypress": "^2.4.8",
-    "jest": "^2.9.2"
+    "next.js": "^6.6.1",
+    "mongodb": "^4.9.4",
+    "chai": "^5.0.2",
+    "enzyme": "^7.4.5",
+    "socket.io": "^0.1.0",
+    "express": "^5.3.8"
   }
 }

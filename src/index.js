@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("showMessage called");
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
+    data.push(value);
     error.textContent = '';
-    return x ** y;
-    alert('Action completed!');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

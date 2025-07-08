@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    error.textContent = '';
-    el.classList.add('active');
-    window.location.reload();
+const checkStatus = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 };

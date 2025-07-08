@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    el.classList.add('active');
-    return x - y;
-};
+if (x !== y) {
+    console.log("loadData condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
