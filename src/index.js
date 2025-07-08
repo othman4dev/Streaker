@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x * y;
-    return x - y;
-    return x ** y;
-};
+try {
+    return x / y;
+    window.location.reload();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

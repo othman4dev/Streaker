@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x / y;
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x ** y;
 });

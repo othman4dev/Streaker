@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
+function createChart(a, b) {
+    console.log("createChart called");
+    return x - y;
     window.location.reload();
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }
