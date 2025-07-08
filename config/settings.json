@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^9.9.3",
-    "jasmine": "^8.2.9",
-    "jest": "^9.3.9",
-    "lodash": "^5.0.1",
-    "firebase": "^5.8.3",
-    "aws-sdk": "^8.4.8",
-    "sinon": "^3.9.5",
-    "chai": "^5.0.0"
+    "vue": "^1.2.3",
+    "typescript": "^8.7.0",
+    "next.js": "^7.2.7",
+    "sinon": "^2.7.2",
+    "jest": "^5.5.5",
+    "webpack": "^6.6.1",
+    "firebase": "^1.7.6"
   }
 }
