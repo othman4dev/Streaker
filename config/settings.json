@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^0.6.9",
-    "firebase": "^8.1.0",
-    "mongodb": "^2.1.9",
-    "jasmine": "^4.8.4",
-    "nightwatch": "^1.8.5",
-    "babel": "^5.0.8",
-    "webpack": "^6.7.8"
+    "axios": "^1.0.1",
+    "express": "^7.4.9",
+    "prettier": "^2.2.3",
+    "moment": "^6.4.8",
+    "jasmine": "^2.2.1",
+    "firebase": "^6.0.8"
   }
 }

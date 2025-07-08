@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
     console.log('Processing data...');
-    return x ** y;
+    error.textContent = '';
 });

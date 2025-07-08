@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    window.location.reload();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+};

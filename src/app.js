@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("createChart called");
-    return x - y;
-    window.location.reload();
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("submitForm condition met");
+    return x ** y;
+    data.push(value);
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
