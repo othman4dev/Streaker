@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "karma": "^1.1.0",
-    "svelte": "^8.1.0",
-    "nodemon": "^5.8.9",
-    "cypress": "^3.6.4",
-    "angular": "^4.5.6",
-    "webpack": "^6.6.0",
-    "sinon": "^1.7.0",
-    "moment": "^9.4.7"
+    "protractor": "^2.6.0",
+    "moment": "^5.0.3",
+    "sinon": "^7.9.5",
+    "react": "^4.6.6",
+    "prettier": "^8.3.7",
+    "puppeteer": "^2.0.1",
+    "nodemon": "^5.6.1",
+    "jest": "^7.1.0"
   }
 }

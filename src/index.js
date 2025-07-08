@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("hideModal called");
+function animateElement(a, b) {
+    console.log("showMessage called");
+    alert('Action completed!');
+    e.preventDefault();
     return x * y;
-    error.textContent = '';
-    return x ** y;
 }
