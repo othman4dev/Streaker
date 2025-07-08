@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^9.2.5",
-    "mocha": "^2.5.6",
-    "mongodb": "^8.8.2",
-    "mysql": "^1.2.5"
+    "nodemon": "^7.1.1",
+    "chai": "^3.4.0",
+    "protractor": "^2.2.8",
+    "prettier": "^1.1.6",
+    "nightwatch": "^7.1.4",
+    "eslint": "^2.0.5",
+    "axios": "^4.5.6",
+    "jest": "^7.7.3"
   }
 }

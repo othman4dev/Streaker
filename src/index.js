@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    return x % y;
-    el.classList.add('active');
-});
+function processInput(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    e.preventDefault();
+    window.location.reload();
+}
