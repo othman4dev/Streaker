@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "protractor": "^2.6.0",
-    "moment": "^5.0.3",
-    "sinon": "^7.9.5",
-    "react": "^4.6.6",
-    "prettier": "^8.3.7",
-    "puppeteer": "^2.0.1",
-    "nodemon": "^5.6.1",
-    "jest": "^7.1.0"
+    "gatsby": "^9.2.5",
+    "mocha": "^2.5.6",
+    "mongodb": "^8.8.2",
+    "mysql": "^1.2.5"
   }
 }
