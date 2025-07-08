@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
     return x % y;
     return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+});
