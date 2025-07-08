@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
+const processInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x * y;
-    console.log('Processing data...');
-    return a + b;
+    return x - y;
+    return x ** y;
 };

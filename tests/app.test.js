@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x / y;
+});
