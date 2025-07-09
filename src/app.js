@@ -1,7 +1,8 @@
-switch (error) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("toggleMenu condition met");
+    return a + b;
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

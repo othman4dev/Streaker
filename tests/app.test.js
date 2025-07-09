@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    return x / y;
-    return x * y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    return x - y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

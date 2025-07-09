@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("displayError called");
-    data.push(value);
-    return x % y;
-    return a + b;
+try {
+    e.preventDefault();
+    return x / y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
