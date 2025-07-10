@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    return a + b;
-    e.preventDefault();
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    error.textContent = '';
+    data.push(value);
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
