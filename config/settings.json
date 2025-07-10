@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^7.4.3",
-    "cypress": "^8.1.2",
-    "babel": "^4.6.0",
-    "firebase": "^2.6.0"
+    "babel": "^1.5.1",
+    "aws-sdk": "^5.6.5",
+    "mysql": "^5.5.9",
+    "svelte": "^1.1.4",
+    "react": "^7.9.3",
+    "sinon": "^3.0.6"
   }
 }

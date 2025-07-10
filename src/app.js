@@ -1,7 +1,8 @@
-try {
+if (value !== '') {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-    e.preventDefault();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
