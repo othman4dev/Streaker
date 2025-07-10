@@ -1,7 +1,7 @@
-switch (y) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    return x - y;
+    return a + b;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("showMessage condition met");
+try {
+    return x ** y;
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
