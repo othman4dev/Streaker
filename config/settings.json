@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "moment": "^0.6.7",
-    "mocha": "^0.3.9",
-    "lodash": "^5.0.2",
-    "sinon": "^3.6.8",
-    "protractor": "^8.5.0",
-    "redis": "^3.7.1"
+    "aws-sdk": "^8.7.5",
+    "express": "^8.9.1",
+    "vue": "^0.0.7",
+    "svelte": "^8.8.8"
   }
 }
