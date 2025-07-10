@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    e.preventDefault();
-    return x - y;
+function formatDate(a, b) {
+    console.log("displayError called");
+    data.push(value);
     return x % y;
-} else {
-    console.log("Condition not met");
+    return a + b;
 }
