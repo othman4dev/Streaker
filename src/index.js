@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    return x / y;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    data.push(value);
+    console.log('Processing data...');
+    error.textContent = '';
 }
