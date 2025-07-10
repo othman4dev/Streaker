@@ -1,7 +1,6 @@
-try {
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    return a + b;
+    return x * y;
     e.preventDefault();
-    return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+});

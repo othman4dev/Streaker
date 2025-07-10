@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    return a + b;
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    window.location.reload();
+    data.push(value);
+});

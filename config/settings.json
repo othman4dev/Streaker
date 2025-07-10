@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^8.0.2",
-    "mysql": "^5.8.2",
-    "jest": "^7.5.9",
-    "karma": "^2.8.5",
-    "ember": "^2.3.5"
+    "jasmine": "^2.9.8",
+    "webpack": "^0.0.7",
+    "redis": "^8.8.1",
+    "sinon": "^6.8.4",
+    "enzyme": "^1.1.4",
+    "svelte": "^5.0.7",
+    "karma": "^9.0.5"
   }
 }
