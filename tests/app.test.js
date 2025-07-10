@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    error.textContent = '';
+    alert('Action completed!');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

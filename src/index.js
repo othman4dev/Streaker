@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("validateInput called");
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-    e.preventDefault();
-    window.location.reload();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
