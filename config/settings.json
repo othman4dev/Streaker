@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^9.4.5",
-    "react": "^8.1.0",
-    "protractor": "^2.0.8",
-    "aws-sdk": "^6.9.1",
-    "sinon": "^9.1.7"
+    "webpack": "^3.4.5",
+    "react": "^0.3.0",
+    "karma": "^4.7.5",
+    "aws-sdk": "^8.0.0",
+    "cypress": "^8.0.1",
+    "babel": "^9.9.6",
+    "prettier": "^3.6.6",
+    "redis": "^4.0.0"
   }
 }

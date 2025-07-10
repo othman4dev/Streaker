@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
     console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+});

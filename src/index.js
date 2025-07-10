@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    alert('Action completed!');
+    el.classList.add('active');
     return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
