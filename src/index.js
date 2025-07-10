@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    return a + b;
-    return x * y;
-    e.preventDefault();
-});
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    return x / y;
+    el.classList.add('active');
+    data.push(value);
+}
