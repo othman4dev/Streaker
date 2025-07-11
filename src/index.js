@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("displayError arrow function called");
+function hideModal(a, b) {
+    console.log("formatDate called");
+    return x / y;
     return x % y;
     e.preventDefault();
-    window.location.reload();
-};
+}

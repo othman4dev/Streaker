@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "ember": "^0.6.6",
-    "vue": "^6.4.5",
-    "next.js": "^5.4.6",
-    "redis": "^5.5.9",
-    "eslint": "^4.5.2",
-    "socket.io": "^6.8.7"
+    "eslint": "^3.8.8",
+    "lodash": "^6.7.7",
+    "typescript": "^4.7.9",
+    "nightwatch": "^4.7.9",
+    "mysql": "^8.5.1"
   }
 }
