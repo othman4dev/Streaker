@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    return x * y;
-    return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    console.log('Processing data...');
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setSessionStorage condition met");
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
     data.push(value);
-    return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+};
