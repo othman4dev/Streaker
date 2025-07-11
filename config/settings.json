@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^6.4.0",
-    "firebase": "^8.0.7",
-    "enzyme": "^2.4.7",
-    "puppeteer": "^2.4.9"
+    "express": "^2.7.9",
+    "ember": "^9.6.5",
+    "typescript": "^3.4.7",
+    "react": "^7.1.8",
+    "nightwatch": "^3.2.0",
+    "angular": "^6.7.2",
+    "redis": "^0.5.1"
   }
 }

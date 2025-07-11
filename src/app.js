@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    data.push(value);
-    return x % y;
-};
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    return x - y;
+    return x * y;
+});
