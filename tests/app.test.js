@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
     window.location.reload();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    return x % y;
+});
