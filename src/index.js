@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    alert('Action completed!');
+    return x / y;
+    el.classList.add('active');
+});
