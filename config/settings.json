@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^6.4.7",
-    "ember": "^2.2.6",
-    "axios": "^9.4.6",
-    "nightwatch": "^9.5.1",
-    "sinon": "^1.6.7",
-    "babel": "^8.2.5"
+    "protractor": "^4.0.2",
+    "nodemon": "^4.7.0",
+    "mongodb": "^0.3.9",
+    "socket.io": "^2.5.3",
+    "nightwatch": "^9.0.4"
   }
 }
