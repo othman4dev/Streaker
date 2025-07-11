@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.7.5",
-    "express": "^8.9.1",
-    "vue": "^0.0.7",
-    "svelte": "^8.8.8"
+    "ember": "^0.6.6",
+    "vue": "^6.4.5",
+    "next.js": "^5.4.6",
+    "redis": "^5.5.9",
+    "eslint": "^4.5.2",
+    "socket.io": "^6.8.7"
   }
 }
