@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    error.textContent = '';
-});
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    return x ** y;
-    el.classList.add('active');
-    return x % y;
+try {
+    alert('Action completed!');
+    return x * y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

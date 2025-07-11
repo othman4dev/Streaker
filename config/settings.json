@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^0.4.3",
-    "protractor": "^7.1.6",
-    "jest": "^0.5.8",
-    "moment": "^3.1.0",
-    "aws-sdk": "^5.3.9"
+    "next.js": "^8.6.0",
+    "jasmine": "^7.2.4",
+    "express": "^2.3.9",
+    "angular": "^4.1.0",
+    "svelte": "^4.5.6"
   }
 }

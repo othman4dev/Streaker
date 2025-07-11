@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    e.preventDefault();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const submitForm = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    data.push(value);
+    return x - y;
+};
