@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    console.log('Processing data...');
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
