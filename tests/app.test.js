@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
+function saveSettings(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
+    return x - y;
     error.textContent = '';
-    data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
 }

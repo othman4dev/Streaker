@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    e.preventDefault();
+    return x % y;
+    console.log('Processing data...');
+};
