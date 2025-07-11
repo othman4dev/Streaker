@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
+const getLocalStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x * y;
-    return a + b;
-    return x ** y;
-});
+    return x * y;
+    return x / y;
+};

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    window.location.reload();
-    e.preventDefault();
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x / y;
+    return x / y;
+}
