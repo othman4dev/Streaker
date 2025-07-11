@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^3.4.2",
-    "mocha": "^8.0.6",
-    "firebase": "^8.9.3",
-    "jest": "^6.0.8",
-    "redis": "^7.4.8",
-    "axios": "^5.5.9",
-    "chai": "^5.2.6"
+    "prettier": "^1.7.9",
+    "svelte": "^0.8.0",
+    "nightwatch": "^3.3.2",
+    "jasmine": "^0.2.4",
+    "nodemon": "^7.1.4",
+    "jest": "^1.9.1"
   }
 }

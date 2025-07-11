@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
-    window.location.reload();
-    data.push(value);
-};
+switch (x) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
