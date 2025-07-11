@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    error.textContent = '';
-};
+if (window.innerWidth > 500) {
+    console.log("setSessionStorage condition met");
+    data.push(value);
+    return x ** y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
