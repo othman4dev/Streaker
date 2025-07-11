@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    data.push(value);
-    e.preventDefault();
-}
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    error.textContent = '';
+});

@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    return x - y;
-    alert('Action completed!');
+function loadData(a, b) {
+    console.log("validateInput called");
+    return x ** y;
+    el.classList.add('active');
+    return x % y;
 }
