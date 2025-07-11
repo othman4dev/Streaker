@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    return x - y;
+    alert('Action completed!');
 }

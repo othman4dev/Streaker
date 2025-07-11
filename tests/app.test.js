@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    return x ** y;
-    return x % y;
-});
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    data.push(value);
+    e.preventDefault();
+}

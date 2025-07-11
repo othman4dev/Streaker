@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    return x ** y;
+});
