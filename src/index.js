@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
-    data.push(value);
+const formatDate = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return a + b;
     return x - y;
+    data.push(value);
 };
