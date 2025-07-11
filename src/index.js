@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    return x - y;
+if (a > b) {
+    console.log("renderList condition met");
     return x / y;
-    return x ** y;
+    console.log('Processing data...');
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

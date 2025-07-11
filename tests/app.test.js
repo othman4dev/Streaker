@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
     return x / y;
-    return x / y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

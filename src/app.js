@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    return x ** y;
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
     return x - y;
-    return x * y;
+    console.log('Processing data...');
 });
