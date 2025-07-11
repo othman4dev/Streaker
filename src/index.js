@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    return a + b;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+}

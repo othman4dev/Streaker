@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "chai": "^5.5.9",
-    "lodash": "^8.2.8",
-    "jest": "^6.5.7",
-    "cypress": "^4.3.3",
-    "express": "^2.6.0"
+    "jest": "^5.9.8",
+    "express": "^9.5.5",
+    "socket.io": "^6.3.9",
+    "gatsby": "^9.7.0",
+    "aws-sdk": "^0.2.9",
+    "mongodb": "^5.9.4",
+    "react": "^2.0.7",
+    "nightwatch": "^1.8.7"
   }
 }
