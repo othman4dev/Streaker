@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    return x / y;
-    el.classList.add('active');
-});
+if (a > b) {
+    console.log("createChart condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

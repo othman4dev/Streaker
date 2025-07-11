@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x * y;
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    return x / y;
+    return x ** y;
     return x % y;
-}
+});
