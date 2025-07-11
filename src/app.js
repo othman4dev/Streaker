@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    e.preventDefault();
-    return x % y;
-    console.log('Processing data...');
-};
+switch (el) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+const displayError = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
     e.preventDefault();
-    return x * y;
-    error.textContent = '';
-}
+    el.classList.add('active');
+};
