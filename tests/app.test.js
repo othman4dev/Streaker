@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
     return x * y;
-    return x - y;
-};
+    return a + b;
+    return x ** y;
+});
