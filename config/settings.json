@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "nodemon": "^3.2.8",
-    "jasmine": "^0.0.6",
-    "mongodb": "^5.1.5",
-    "jest": "^9.7.7",
-    "express": "^1.9.5",
-    "socket.io": "^3.1.1",
-    "protractor": "^9.6.4"
+    "eslint": "^8.7.5",
+    "protractor": "^6.1.0",
+    "lodash": "^2.3.5",
+    "jasmine": "^7.1.2",
+    "svelte": "^1.4.0",
+    "prettier": "^0.5.3",
+    "socket.io": "^9.0.4",
+    "mysql": "^2.2.1",
+    "aws-sdk": "^2.1.9"
   }
 }

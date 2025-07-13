@@ -1,7 +1,6 @@
-try {
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    return x - y;
     return x ** y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
 }
