@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    return a + b;
-    e.preventDefault();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

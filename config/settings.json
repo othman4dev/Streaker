@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^8.7.5",
-    "protractor": "^6.1.0",
-    "lodash": "^2.3.5",
-    "jasmine": "^7.1.2",
-    "svelte": "^1.4.0",
-    "prettier": "^0.5.3",
-    "socket.io": "^9.0.4",
-    "mysql": "^2.2.1",
-    "aws-sdk": "^2.1.9"
+    "react": "^1.7.0",
+    "angular": "^6.0.5",
+    "typescript": "^4.8.2",
+    "nodemon": "^9.4.7",
+    "babel": "^1.3.6",
+    "svelte": "^1.8.6"
   }
 }
