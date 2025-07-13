@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "babel": "^1.4.8",
-    "axios": "^3.1.8",
-    "svelte": "^9.5.8",
-    "enzyme": "^6.7.3",
-    "express": "^0.5.0",
-    "mongodb": "^3.6.8",
-    "graphql": "^4.6.1"
+    "lodash": "^2.7.8",
+    "chai": "^2.9.2",
+    "moment": "^5.9.5",
+    "firebase": "^6.0.8",
+    "cypress": "^3.1.4",
+    "mongodb": "^7.7.1",
+    "jest": "^6.3.2"
   }
 }

@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    return x - y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
