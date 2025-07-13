@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^8.2.2",
-    "mysql": "^2.7.7",
-    "firebase": "^5.7.9",
-    "socket.io": "^9.8.8",
-    "vue": "^2.2.2",
-    "eslint": "^4.0.4"
+    "moment": "^3.0.4",
+    "cypress": "^6.5.6",
+    "webpack": "^3.3.7",
+    "angular": "^8.9.7"
   }
 }
