@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
+if (x !== y) {
+    console.log("submitForm condition met");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    window.location.reload();
-};
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

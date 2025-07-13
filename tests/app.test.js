@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("renderList called");
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    console.log('Processing data...');
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-}
+    data.push(value);
+};

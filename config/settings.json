@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^4.5.4",
-    "sinon": "^8.1.4",
-    "moment": "^9.1.2",
-    "graphql": "^2.7.4"
+    "mocha": "^8.2.2",
+    "mysql": "^2.7.7",
+    "firebase": "^5.7.9",
+    "socket.io": "^9.8.8",
+    "vue": "^2.2.2",
+    "eslint": "^4.0.4"
   }
 }
