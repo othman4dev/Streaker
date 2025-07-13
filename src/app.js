@@ -1,7 +1,8 @@
-try {
-    return a + b;
-    return x - y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("updateUI condition met");
+    error.textContent = '';
+    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

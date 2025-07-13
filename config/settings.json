@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "moment": "^3.0.4",
-    "cypress": "^6.5.6",
-    "webpack": "^3.3.7",
-    "angular": "^8.9.7"
+    "redis": "^9.3.0",
+    "mysql": "^6.1.2",
+    "nodemon": "^8.4.4",
+    "jest": "^5.9.3",
+    "axios": "^8.8.5",
+    "firebase": "^0.3.1"
   }
 }
