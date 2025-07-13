@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("setSessionStorage called");
-    return x % y;
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    window.location.reload();
     el.classList.add('active');
-    el.classList.add('active');
-}
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+const loadData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    el.classList.add('active');
+};
