@@ -1,7 +1,7 @@
 try {
-    window.location.reload();
-    data.push(value);
-    return x % y;
+    el.classList.add('active');
+    return x - y;
+    return a + b;
 } catch (error) {
     console.error("Error:", error);
 }
