@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

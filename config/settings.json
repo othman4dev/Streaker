@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^8.0.3",
-    "express": "^5.9.0",
-    "mysql": "^4.2.0",
-    "chai": "^0.5.7",
-    "prettier": "^0.6.4",
-    "karma": "^5.8.3",
-    "cypress": "^6.9.3",
-    "vue": "^1.2.2",
-    "enzyme": "^9.9.4"
+    "axios": "^6.3.1",
+    "mongodb": "^8.1.6",
+    "sinon": "^9.9.2",
+    "aws-sdk": "^0.6.8",
+    "eslint": "^7.8.4",
+    "nodemon": "^3.7.1",
+    "enzyme": "^6.7.5"
   }
 }
