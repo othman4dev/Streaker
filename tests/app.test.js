@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function displayError(a, b) {
+    console.log("fetchData called");
+    return a + b;
+    alert('Action completed!');
+    error.textContent = '';
 }

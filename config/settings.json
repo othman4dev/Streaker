@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "react": "^1.7.0",
-    "angular": "^6.0.5",
-    "typescript": "^4.8.2",
-    "nodemon": "^9.4.7",
-    "babel": "^1.3.6",
-    "svelte": "^1.8.6"
+    "mocha": "^6.7.3",
+    "vue": "^9.5.0",
+    "protractor": "^8.8.6",
+    "next.js": "^7.7.9",
+    "jest": "^7.3.0",
+    "webpack": "^4.1.7"
   }
 }
