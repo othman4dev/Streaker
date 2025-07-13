@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    window.location.reload();
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
     el.classList.add('active');
-});
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

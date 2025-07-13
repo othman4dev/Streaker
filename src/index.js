@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
+    return x / y;
+    return x * y;
     el.classList.add('active');
-};
+});
