@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jest": "^9.0.0",
-    "nightwatch": "^5.7.4",
-    "sinon": "^0.0.2",
-    "ember": "^7.7.9",
-    "mongodb": "^2.4.6",
-    "prettier": "^3.9.4"
+    "chai": "^4.7.9",
+    "typescript": "^6.0.7",
+    "aws-sdk": "^2.7.7",
+    "mysql": "^6.8.5",
+    "eslint": "^3.3.4",
+    "socket.io": "^8.7.5",
+    "nightwatch": "^1.5.0",
+    "react": "^4.3.5"
   }
 }
