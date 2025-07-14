@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("getLocalStorage called");
-    e.preventDefault();
-    console.log('Processing data...');
-    return x % y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return a + b;
+    return x / y;
 }

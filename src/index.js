@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x * y;
-    return a + b;
-    alert('Action completed!');
-};
+try {
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
