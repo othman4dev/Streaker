@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    alert('Action completed!');
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

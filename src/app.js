@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
+document.querySelector(".container").addEventListener("keydown", function() {
     console.log("Event focus triggered");
-    console.log('Processing data...');
-    window.location.reload();
-    return x * y;
+    return x % y;
+    return x / y;
+    return x ** y;
 });

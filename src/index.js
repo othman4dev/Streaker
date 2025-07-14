@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    alert('Action completed!');
-    data.push(value);
-}
+const formatDate = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
+    return x * y;
+    return x % y;
+};
