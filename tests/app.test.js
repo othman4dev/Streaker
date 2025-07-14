@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    el.classList.add('active');
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    alert('Action completed!');
+    return x * y;
 }

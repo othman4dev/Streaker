@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    error.textContent = '';
-    return x * y;
+try {
     return x % y;
-};
+    console.log('Processing data...');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
