@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^4.9.9",
-    "redis": "^7.9.3",
-    "babel": "^9.9.2",
-    "puppeteer": "^6.2.6",
-    "gatsby": "^3.2.4",
-    "nightwatch": "^5.9.3",
-    "sinon": "^4.0.4",
-    "graphql": "^8.4.0"
+    "webpack": "^4.7.2",
+    "ember": "^4.4.8",
+    "vue": "^5.9.7",
+    "aws-sdk": "^7.5.0",
+    "nodemon": "^4.5.7",
+    "sinon": "^1.6.4",
+    "gatsby": "^6.1.9"
   }
 }

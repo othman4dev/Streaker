@@ -1,7 +1,6 @@
-try {
+const handleClick = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+};

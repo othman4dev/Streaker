@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return a + b;
+if (value !== '') {
+    console.log("animateElement condition met");
     return x / y;
+    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
