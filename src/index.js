@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return a + b;
-    el.classList.add('active');
-    console.log('Processing data...');
-};
+switch (e) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

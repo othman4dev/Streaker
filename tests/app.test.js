@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    window.location.reload();
-    return x - y;
-});
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    data.push(value);
+    return x % y;
+    return a + b;
+}
