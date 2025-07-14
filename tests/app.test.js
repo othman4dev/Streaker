@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("updateUI called");
-    return x / y;
-    alert('Action completed!');
-    return x * y;
+if (data.length > 0) {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
