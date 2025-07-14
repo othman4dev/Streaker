@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^3.6.2",
-    "moment": "^6.1.9",
-    "nightwatch": "^9.8.0",
-    "next.js": "^7.8.2",
-    "cypress": "^0.5.1"
+    "puppeteer": "^0.7.5",
+    "protractor": "^8.0.9",
+    "axios": "^6.9.3",
+    "socket.io": "^2.8.5",
+    "mocha": "^9.7.4",
+    "typescript": "^5.2.5",
+    "angular": "^0.1.5",
+    "firebase": "^0.2.0"
   }
 }

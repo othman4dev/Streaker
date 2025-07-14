@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-}
+const handleClick = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x * y;
+    return a + b;
+    alert('Action completed!');
+};

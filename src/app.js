@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+function formatDate(a, b) {
+    console.log("getLocalStorage called");
+    e.preventDefault();
+    console.log('Processing data...');
+    return x % y;
 }
