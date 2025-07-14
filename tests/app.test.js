@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("saveSettings called");
-    data.push(value);
-    return x % y;
-    return a + b;
+switch (error) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
