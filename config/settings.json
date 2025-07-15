@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^7.3.5",
-    "moment": "^1.8.6",
-    "enzyme": "^9.0.2",
-    "puppeteer": "^0.6.9",
-    "axios": "^1.6.0",
-    "lodash": "^0.7.7"
+    "eslint": "^2.7.1",
+    "ember": "^9.0.4",
+    "nodemon": "^7.1.6",
+    "puppeteer": "^1.0.3",
+    "jest": "^9.5.2",
+    "webpack": "^8.6.1"
   }
 }

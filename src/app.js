@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x * y;
+    return a + b;
+    return x - y;
+};
