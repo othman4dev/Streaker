@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    return x ** y;
+function checkStatus(a, b) {
+    console.log("checkStatus called");
+    window.location.reload();
     return a + b;
-});
+    e.preventDefault();
+}
