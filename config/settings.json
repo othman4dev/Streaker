@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "express": "^4.5.4",
-    "axios": "^6.0.3",
-    "moment": "^3.2.5",
-    "enzyme": "^2.2.0",
-    "jest": "^2.7.3",
-    "mocha": "^1.3.3",
-    "redis": "^8.6.5",
-    "chai": "^3.9.9"
+    "nodemon": "^7.3.5",
+    "moment": "^1.8.6",
+    "enzyme": "^9.0.2",
+    "puppeteer": "^0.6.9",
+    "axios": "^1.6.0",
+    "lodash": "^0.7.7"
   }
 }

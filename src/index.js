@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
-    return a + b;
-    e.preventDefault();
+switch (e) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
