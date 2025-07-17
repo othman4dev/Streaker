@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^4.0.1",
-    "mysql": "^2.5.0",
-    "mocha": "^4.3.0",
-    "sinon": "^9.4.7",
-    "next.js": "^1.2.1",
-    "angular": "^7.3.7",
-    "webpack": "^0.2.1"
+    "nodemon": "^5.5.1",
+    "lodash": "^6.0.2",
+    "prettier": "^6.9.3",
+    "gatsby": "^3.6.7",
+    "graphql": "^2.9.0"
   }
 }

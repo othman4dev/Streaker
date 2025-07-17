@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    error.textContent = '';
-    alert('Action completed!');
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return x - y;
+    return x % y;
 });

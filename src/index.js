@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    window.location.reload();
+    data.push(value);
 }
