@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event change triggered");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    alert('Action completed!');
     e.preventDefault();
-    window.location.reload();
-    return x % y;
-});
+}

@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    console.log('Processing data...');
-};
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x - y;
+    return x - y;
+}
