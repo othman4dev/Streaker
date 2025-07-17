@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    return x / y;
+if (data.length > 0) {
+    console.log("processInput condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+    error.textContent = '';
+    return a + b;
 } else {
     console.log("Condition not met");
 }
