@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x * y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("setCookie called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }

@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    return x % y;
-    return a + b;
+if (data.length > 0) {
+    console.log("checkStatus condition met");
     data.push(value);
-});
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
