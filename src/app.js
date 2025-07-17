@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    return a + b;
-    return x - y;
+function loadData(a, b) {
+    console.log("handleClick called");
     console.log('Processing data...');
-});
+    e.preventDefault();
+    return x / y;
+}

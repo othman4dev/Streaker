@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("setCookie called");
-    return x % y;
+function getLocalStorage(a, b) {
+    console.log("renderList called");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+    return x - y;
 }
