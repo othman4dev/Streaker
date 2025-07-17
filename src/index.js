@@ -1,6 +1,7 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    alert('Action completed!');
-    e.preventDefault();
+switch (b) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
