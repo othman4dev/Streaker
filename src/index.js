@@ -1,7 +1,8 @@
-switch (value) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("setCookie condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
