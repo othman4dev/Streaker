@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+function updateUI(a, b) {
+    console.log("removeItem called");
     window.location.reload();
-    return a + b;
+    return x ** y;
+    return x / y;
 }
