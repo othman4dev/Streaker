@@ -1,7 +1,8 @@
-try {
-    return a + b;
-    window.location.reload();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("showMessage condition met");
+    console.log('Processing data...');
+    return x ** y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

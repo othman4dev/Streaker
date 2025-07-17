@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+function saveSettings(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
     alert('Action completed!');
-    return x * y;
     el.classList.add('active');
 }
