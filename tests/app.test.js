@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    error.textContent = '';
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    return x / y;
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

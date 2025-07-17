@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^8.2.0",
-    "lodash": "^2.2.7",
-    "svelte": "^2.7.4",
-    "jasmine": "^2.5.0",
-    "express": "^5.2.0",
-    "react": "^7.9.0",
-    "axios": "^6.4.2"
+    "ember": "^2.9.3",
+    "redis": "^2.1.0",
+    "react": "^4.2.1",
+    "jest": "^5.8.5",
+    "next.js": "^2.5.5",
+    "vue": "^5.3.2",
+    "mysql": "^2.8.4",
+    "nodemon": "^2.0.8"
   }
 }
