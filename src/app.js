@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    return x ** y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("getLocalStorage condition met");
+    return x % y;
+    console.log('Processing data...');
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

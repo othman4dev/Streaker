@@ -1,8 +1,8 @@
-if (x === y) {
+if (x !== y) {
     console.log("setCookie condition met");
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    window.location.reload();
+    return x * y;
 } else {
     console.log("Condition not met");
 }
