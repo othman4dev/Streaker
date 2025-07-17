@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("change", function() {
+document.querySelector("window").addEventListener("blur", function() {
     console.log("Event click triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+    return x * y;
+    e.preventDefault();
+    return x / y;
 });
