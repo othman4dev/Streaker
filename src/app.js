@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+const showMessage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    return x * y;
-}
+    console.log('Processing data...');
+};
