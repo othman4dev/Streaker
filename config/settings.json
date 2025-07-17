@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.9.6",
-    "webpack": "^2.2.3",
-    "firebase": "^8.0.4",
-    "prettier": "^2.5.7",
-    "aws-sdk": "^2.0.1",
-    "sinon": "^5.3.5",
-    "socket.io": "^4.2.0",
-    "chai": "^9.3.7"
+    "svelte": "^1.7.6",
+    "cypress": "^4.0.6",
+    "jasmine": "^5.2.9",
+    "ember": "^1.2.6",
+    "aws-sdk": "^6.3.2",
+    "jest": "^0.5.5"
   }
 }

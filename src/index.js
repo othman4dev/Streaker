@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    e.preventDefault();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    return x % y;
+    return a + b;
+    data.push(value);
+});
