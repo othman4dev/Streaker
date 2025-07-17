@@ -1,7 +1,8 @@
-switch (data) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    return x / y;
+    el.classList.add('active');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
