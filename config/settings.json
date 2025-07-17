@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^2.7.1",
-    "ember": "^9.0.4",
-    "nodemon": "^7.1.6",
-    "puppeteer": "^1.0.3",
-    "jest": "^9.5.2",
-    "webpack": "^8.6.1"
+    "puppeteer": "^3.3.8",
+    "firebase": "^2.8.4",
+    "protractor": "^9.3.2",
+    "ember": "^1.5.5",
+    "angular": "^9.7.2",
+    "jest": "^3.1.0"
   }
 }

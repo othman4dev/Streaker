@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return x % y;
+    el.classList.add('active');
+    alert('Action completed!');
+});

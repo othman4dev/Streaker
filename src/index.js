@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    return x * y;
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+});
