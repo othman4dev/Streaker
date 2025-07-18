@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    return x * y;
+try {
+    data.push(value);
     console.log('Processing data...');
-    window.location.reload();
-});
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
