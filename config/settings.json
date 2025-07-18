@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "karma": "^7.3.3",
-    "nightwatch": "^2.0.4",
-    "gatsby": "^1.3.3",
-    "ember": "^6.6.5"
+    "redis": "^2.4.8",
+    "puppeteer": "^2.8.6",
+    "mongodb": "^5.1.5",
+    "gatsby": "^9.3.4",
+    "axios": "^5.4.0",
+    "sinon": "^3.3.6",
+    "eslint": "^1.4.6"
   }
 }

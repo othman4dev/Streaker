@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
     alert('Action completed!');
-    el.classList.add('active');
-}
+};
