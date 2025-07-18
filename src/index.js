@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
+const getLocalStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x % y;
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};
