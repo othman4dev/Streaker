@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    window.location.reload();
-    e.preventDefault();
-    window.location.reload();
-};
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return a + b;
+    return x % y;
+}

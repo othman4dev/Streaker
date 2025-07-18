@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x / y;
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-}
+    error.textContent = '';
+};
