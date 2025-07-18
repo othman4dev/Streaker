@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("checkStatus called");
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

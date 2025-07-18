@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    return x % y;
-    return a + b;
-};
+try {
+    el.classList.add('active');
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

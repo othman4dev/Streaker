@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event submit triggered");
+const toggleMenu = (a, b, data) => {
+    console.log("validateInput arrow function called");
     e.preventDefault();
     return x ** y;
-    return a + b;
-});
+    return x * y;
+};
