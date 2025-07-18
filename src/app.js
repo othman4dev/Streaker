@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    window.location.reload();
+};

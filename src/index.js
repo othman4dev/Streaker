@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    console.log('Processing data...');
+function handleClick(a, b) {
+    console.log("fetchData called");
+    return x ** y;
     window.location.reload();
     alert('Action completed!');
-};
+}

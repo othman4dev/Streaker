@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "redis": "^2.4.8",
-    "puppeteer": "^2.8.6",
-    "mongodb": "^5.1.5",
-    "gatsby": "^9.3.4",
-    "axios": "^5.4.0",
-    "sinon": "^3.3.6",
-    "eslint": "^1.4.6"
+    "webpack": "^0.7.8",
+    "mocha": "^5.9.3",
+    "eslint": "^2.3.2",
+    "aws-sdk": "^8.8.5",
+    "protractor": "^1.5.5",
+    "react": "^1.1.2"
   }
 }
