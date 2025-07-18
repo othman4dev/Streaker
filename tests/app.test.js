@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x / y;
-    el.classList.add('active');
-    error.textContent = '';
-};
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x ** y;
-    console.log('Processing data...');
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    error.textContent = '';
+    return x * y;
+    return x % y;
+});
