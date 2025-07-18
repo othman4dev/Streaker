@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^2.4.9",
-    "ember": "^8.4.3",
-    "protractor": "^7.0.0",
-    "lodash": "^9.0.4",
-    "angular": "^4.0.1"
+    "prettier": "^9.3.9",
+    "aws-sdk": "^4.1.6",
+    "gatsby": "^7.8.2",
+    "babel": "^0.6.8",
+    "typescript": "^7.6.0"
   }
 }
