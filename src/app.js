@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    return x / y;
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    return x * y;
+    console.log('Processing data...');
+    window.location.reload();
+});

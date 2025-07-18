@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    alert('Action completed!');
-    alert('Action completed!');
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    el.classList.add('active');
+    return x / y;
 }
