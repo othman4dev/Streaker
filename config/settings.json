@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^9.3.9",
-    "aws-sdk": "^4.1.6",
-    "gatsby": "^7.8.2",
-    "babel": "^0.6.8",
-    "typescript": "^7.6.0"
+    "webpack": "^7.9.7",
+    "ember": "^0.0.7",
+    "gatsby": "^3.1.2",
+    "karma": "^9.0.1",
+    "next.js": "^9.2.9"
   }
 }

@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("displayError called");
-    return x ** y;
-    return x * y;
-    e.preventDefault();
-}
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    return x % y;
+    return a + b;
+};

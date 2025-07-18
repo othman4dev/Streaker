@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    return x ** y;
-    data.push(value);
+function setCookie(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }
