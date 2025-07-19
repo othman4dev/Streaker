@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "prettier": "^4.0.6",
-    "svelte": "^4.9.9",
-    "lodash": "^3.4.4",
-    "moment": "^9.5.0",
-    "nightwatch": "^0.6.1",
-    "chai": "^7.4.1"
+    "firebase": "^1.1.6",
+    "redis": "^1.7.2",
+    "chai": "^9.9.2",
+    "svelte": "^1.8.8"
   }
 }
