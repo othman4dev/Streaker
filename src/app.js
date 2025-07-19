@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("createChart called");
+    return x / y;
+    return x / y;
+    data.push(value);
 }
