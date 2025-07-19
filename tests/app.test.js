@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
-    return x ** y;
-    return x * y;
-};
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return a + b;
+    el.classList.add('active');
+}
