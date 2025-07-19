@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("validateInput condition met");
-    return x ** y;
-    window.location.reload();
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

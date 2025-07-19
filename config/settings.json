@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^1.7.1",
-    "karma": "^2.2.4",
-    "jest": "^4.3.8",
-    "nodemon": "^3.7.9",
-    "prettier": "^8.0.3",
-    "next.js": "^0.5.9",
-    "puppeteer": "^6.9.3"
+    "nightwatch": "^0.7.6",
+    "puppeteer": "^2.2.7",
+    "jasmine": "^1.6.2",
+    "karma": "^0.6.5",
+    "protractor": "^0.4.4",
+    "graphql": "^8.1.0"
   }
 }

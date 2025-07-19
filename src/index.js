@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    console.log('Processing data...');
+    return x ** y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

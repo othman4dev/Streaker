@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    window.location.reload();
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
