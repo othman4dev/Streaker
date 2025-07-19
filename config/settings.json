@@ -1,9 +1,7 @@
 {
   "dependencies": {
-    "protractor": "^3.7.2",
-    "moment": "^0.0.9",
-    "nightwatch": "^3.6.9",
-    "babel": "^1.5.6",
-    "graphql": "^1.7.2"
+    "lodash": "^3.5.9",
+    "typescript": "^5.2.9",
+    "jest": "^3.0.5"
   }
 }
