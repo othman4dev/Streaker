@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^8.9.4",
-    "jest": "^0.7.5",
-    "gatsby": "^6.3.5",
-    "ember": "^5.7.1",
-    "typescript": "^6.3.3",
-    "cypress": "^0.8.7",
-    "react": "^9.9.7"
+    "eslint": "^0.4.5",
+    "express": "^4.3.4",
+    "firebase": "^4.2.2",
+    "vue": "^5.8.8",
+    "mocha": "^3.0.6"
   }
 }
