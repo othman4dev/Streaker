@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "eslint": "^0.4.5",
-    "express": "^4.3.4",
-    "firebase": "^4.2.2",
-    "vue": "^5.8.8",
-    "mocha": "^3.0.6"
+    "axios": "^1.9.2",
+    "enzyme": "^2.0.8",
+    "vue": "^8.2.7",
+    "prettier": "^9.4.3",
+    "nightwatch": "^7.0.2",
+    "eslint": "^4.6.5",
+    "nodemon": "^8.9.7",
+    "karma": "^2.9.5",
+    "sinon": "^5.6.8"
   }
 }

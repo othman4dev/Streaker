@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-};
+switch (x) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
