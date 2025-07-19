@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^0.8.6",
-    "angular": "^7.9.6",
-    "prettier": "^9.7.2",
-    "karma": "^8.4.2",
-    "axios": "^0.2.6",
-    "aws-sdk": "^0.0.9",
-    "protractor": "^1.7.5"
+    "socket.io": "^2.3.3",
+    "svelte": "^3.8.5",
+    "nightwatch": "^8.3.4",
+    "aws-sdk": "^7.4.0",
+    "mocha": "^5.9.7"
   }
 }
