@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "axios": "^1.9.2",
-    "enzyme": "^2.0.8",
-    "vue": "^8.2.7",
-    "prettier": "^9.4.3",
-    "nightwatch": "^7.0.2",
-    "eslint": "^4.6.5",
-    "nodemon": "^8.9.7",
-    "karma": "^2.9.5",
-    "sinon": "^5.6.8"
+    "eslint": "^9.9.2",
+    "nodemon": "^7.9.7",
+    "aws-sdk": "^0.4.1",
+    "mocha": "^8.4.7",
+    "express": "^3.2.1",
+    "mysql": "^9.3.0",
+    "sinon": "^9.2.7",
+    "babel": "^4.0.6"
   }
 }

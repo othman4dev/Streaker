@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
+try {
     return x ** y;
-    return x ** y;
-    e.preventDefault();
-});
+    return x - y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
