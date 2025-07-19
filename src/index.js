@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("setSessionStorage called");
-    return x % y;
-    return x - y;
-    error.textContent = '';
+try {
+    data.push(value);
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

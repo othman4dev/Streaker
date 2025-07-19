@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "express": "^4.6.9",
-    "axios": "^5.2.5",
-    "prettier": "^1.2.9",
-    "sinon": "^5.9.6",
-    "aws-sdk": "^3.3.1",
-    "redis": "^7.4.3",
-    "firebase": "^6.7.8"
+    "prettier": "^4.0.6",
+    "svelte": "^4.9.9",
+    "lodash": "^3.4.4",
+    "moment": "^9.5.0",
+    "nightwatch": "^0.6.1",
+    "chai": "^7.4.1"
   }
 }
