@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    el.classList.add('active');
+    console.log('Processing data...');
+});
