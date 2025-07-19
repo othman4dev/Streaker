@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return a + b;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("setSessionStorage called");
+    return x % y;
+    return x - y;
+    error.textContent = '';
 }
