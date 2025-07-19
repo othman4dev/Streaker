@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return a + b;
+    error.textContent = '';
+});
