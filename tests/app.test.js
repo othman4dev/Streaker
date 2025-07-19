@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("removeItem called");
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    window.location.reload();
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x - y;
+} else {
+    console.log("Condition not met");
 }
