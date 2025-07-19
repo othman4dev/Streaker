@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    return x * y;
+    console.log('Processing data...');
+};

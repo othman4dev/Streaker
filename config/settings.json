@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.2.7",
-    "jest": "^8.0.0",
-    "mocha": "^7.1.4",
-    "firebase": "^4.1.9",
-    "express": "^2.8.6"
+    "babel": "^4.6.6",
+    "chai": "^7.4.0",
+    "firebase": "^7.9.9",
+    "jest": "^9.8.2"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+try {
+    return x / y;
+    error.textContent = '';
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
