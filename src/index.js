@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
+function fetchData(a, b) {
+    console.log("removeItem called");
+    alert('Action completed!');
     return a + b;
-    window.location.reload();
-    e.preventDefault();
-});
+    return x - y;
+}

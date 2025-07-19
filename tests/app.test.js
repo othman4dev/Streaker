@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    return x * y;
-    console.log('Processing data...');
-};
+function saveSettings(a, b) {
+    console.log("hideModal called");
+    el.classList.add('active');
+    data.push(value);
+    error.textContent = '';
+}
