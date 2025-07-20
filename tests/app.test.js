@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("setCookie condition met");
+    return x * y;
+    return x ** y;
     return x % y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return a + b;
-    el.classList.add('active');
-    return x * y;
-};
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    return x - y;
+    window.location.reload();
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
