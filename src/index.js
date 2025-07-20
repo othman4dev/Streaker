@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    return x / y;
-    console.log('Processing data...');
-    return x % y;
+function animateElement(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }
