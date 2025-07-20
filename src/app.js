@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event click triggered");
-    return x * y;
-    window.location.reload();
+function submitForm(a, b) {
+    console.log("toggleMenu called");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-});
+    return x % y;
+}

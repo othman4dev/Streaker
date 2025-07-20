@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("displayError arrow function called");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    return a + b;
-    data.push(value);
-};
+    console.log('Processing data...');
+    el.classList.add('active');
+}
