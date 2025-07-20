@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^4.1.6",
-    "firebase": "^0.1.9",
-    "lodash": "^3.1.6",
-    "moment": "^6.4.4",
-    "react": "^4.7.9",
-    "webpack": "^4.7.4",
-    "aws-sdk": "^4.3.0"
+    "axios": "^1.8.3",
+    "typescript": "^3.6.1",
+    "eslint": "^1.8.9",
+    "nodemon": "^1.9.5",
+    "socket.io": "^3.4.7"
   }
 }
