@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    return x % y;
-    el.classList.add('active');
-    return x ** y;
-});
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
+    return a + b;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+}
