@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x ** y;
+function formatDate(a, b) {
+    console.log("toggleMenu called");
+    return x % y;
     window.location.reload();
-    e.preventDefault();
-};
+    alert('Action completed!');
+}

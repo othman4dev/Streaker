@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("saveSettings called");
-    return x * y;
-    el.classList.add('active');
-    return a + b;
+try {
+    return x - y;
+    alert('Action completed!');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
