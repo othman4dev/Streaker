@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    return x % y;
-    data.push(value);
+const formatDate = (a, b, data) => {
+    console.log("showMessage arrow function called");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    e.preventDefault();
+};

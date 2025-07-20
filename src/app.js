@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    return x ** y;
-});
+if (x === y) {
+    console.log("updateUI condition met");
+    return x / y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
