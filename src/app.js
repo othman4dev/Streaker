@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    e.preventDefault();
-    e.preventDefault();
+function showMessage(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    el.classList.add('active');
+    return a + b;
 }

@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^9.9.2",
-    "nodemon": "^7.9.7",
-    "aws-sdk": "^0.4.1",
-    "mocha": "^8.4.7",
-    "express": "^3.2.1",
-    "mysql": "^9.3.0",
-    "sinon": "^9.2.7",
-    "babel": "^4.0.6"
+    "jasmine": "^8.1.8",
+    "nightwatch": "^6.5.5",
+    "moment": "^9.4.1",
+    "redis": "^2.8.7",
+    "puppeteer": "^4.6.5",
+    "protractor": "^6.6.6",
+    "graphql": "^2.3.8"
   }
 }
