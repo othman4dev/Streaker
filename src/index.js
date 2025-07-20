@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    return x % y;
+    data.push(value);
     error.textContent = '';
-    window.location.reload();
-});
+} else {
+    console.log("Condition not met");
+}
