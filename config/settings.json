@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "ember": "^0.5.3",
-    "enzyme": "^1.9.1",
-    "moment": "^5.7.5",
-    "lodash": "^3.6.9",
-    "jest": "^6.3.1",
-    "vue": "^1.0.1",
-    "next.js": "^3.5.8"
+    "react": "^3.9.0",
+    "moment": "^7.4.3",
+    "next.js": "^0.7.8",
+    "aws-sdk": "^8.7.5",
+    "socket.io": "^9.7.0",
+    "mysql": "^1.9.0",
+    "axios": "^7.2.7",
+    "express": "^9.3.5"
   }
 }

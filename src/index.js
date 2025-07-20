@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    error.textContent = '';
+    window.location.reload();
+});
