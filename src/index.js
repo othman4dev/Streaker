@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    error.textContent = '';
-    console.log('Processing data...');
-});
+try {
+    return x / y;
+    data.push(value);
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

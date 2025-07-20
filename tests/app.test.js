@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("toggleMenu called");
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
     return x % y;
-    window.location.reload();
-    alert('Action completed!');
-}
+    el.classList.add('active');
+    return x ** y;
+});

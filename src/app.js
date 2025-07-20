@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    e.preventDefault();
+    return x / y;
     return x - y;
-    alert('Action completed!');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
