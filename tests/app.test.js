@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("saveSettings called");
-    return a + b;
-    window.location.reload();
+try {
     document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

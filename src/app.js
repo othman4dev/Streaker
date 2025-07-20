@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    return x ** y;
-    return x * y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("displayError arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    error.textContent = '';
+};
