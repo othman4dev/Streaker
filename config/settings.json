@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^1.9.8",
-    "express": "^7.4.5",
-    "jest": "^8.3.3",
-    "lodash": "^4.6.9",
-    "ember": "^4.8.2",
-    "prettier": "^6.6.0",
-    "chai": "^0.4.9"
+    "vue": "^3.6.4",
+    "react": "^3.5.9",
+    "angular": "^2.4.5",
+    "aws-sdk": "^0.1.4",
+    "mysql": "^2.0.9",
+    "redis": "^5.3.4",
+    "protractor": "^4.2.5"
   }
 }

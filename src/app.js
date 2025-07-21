@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (data) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
