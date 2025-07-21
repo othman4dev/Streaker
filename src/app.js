@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    data.push(value);
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+});

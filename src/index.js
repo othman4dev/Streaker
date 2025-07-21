@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
+document.querySelector(".modal").addEventListener("focus", function() {
     console.log("Event load triggered");
-    return a + b;
-    window.location.reload();
-    e.preventDefault();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 });
