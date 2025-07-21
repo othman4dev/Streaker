@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("toggleMenu called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x % y;
-}
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+};
