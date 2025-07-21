@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    return x - y;
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    el.classList.add('active');
+    error.textContent = '';
 }

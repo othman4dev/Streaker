@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mysql": "^4.1.6",
-    "redis": "^8.9.2",
-    "socket.io": "^4.4.2",
-    "puppeteer": "^6.3.5",
-    "gatsby": "^7.3.9",
-    "moment": "^9.0.4",
-    "nightwatch": "^6.3.3"
+    "socket.io": "^1.9.8",
+    "express": "^7.4.5",
+    "jest": "^8.3.3",
+    "lodash": "^4.6.9",
+    "ember": "^4.8.2",
+    "prettier": "^6.6.0",
+    "chai": "^0.4.9"
   }
 }
