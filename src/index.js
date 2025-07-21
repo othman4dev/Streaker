@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    return x - y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     e.preventDefault();
-};
+    window.location.reload();
+}
