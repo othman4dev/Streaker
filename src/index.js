@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    console.log('Processing data...');
-    return x % y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
+    return x - y;
+    data.push(value);
+});

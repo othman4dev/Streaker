@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^5.2.7",
-    "jest": "^9.4.7",
-    "jasmine": "^0.0.2",
-    "cypress": "^0.1.1",
-    "axios": "^2.5.8",
-    "webpack": "^1.3.8",
-    "ember": "^0.7.7",
-    "next.js": "^8.6.7",
-    "protractor": "^4.8.8"
+    "mongodb": "^6.3.7",
+    "jasmine": "^5.0.8",
+    "webpack": "^5.2.5",
+    "vue": "^3.0.6",
+    "sinon": "^2.7.3"
   }
 }
