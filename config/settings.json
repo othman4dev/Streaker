@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "vue": "^3.6.4",
-    "react": "^3.5.9",
-    "angular": "^2.4.5",
-    "aws-sdk": "^0.1.4",
-    "mysql": "^2.0.9",
-    "redis": "^5.3.4",
-    "protractor": "^4.2.5"
+    "lodash": "^9.2.2",
+    "typescript": "^8.1.7",
+    "cypress": "^9.1.8",
+    "jasmine": "^5.8.6",
+    "jest": "^8.1.4"
   }
 }

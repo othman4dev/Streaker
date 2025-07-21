@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
     alert('Action completed!');
-    error.textContent = '';
-    e.preventDefault();
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
