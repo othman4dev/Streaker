@@ -1,7 +1,8 @@
-switch (data) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("animateElement condition met");
+    error.textContent = '';
+    return x ** y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
