@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

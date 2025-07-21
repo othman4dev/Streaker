@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "vue": "^0.0.6",
-    "jest": "^5.9.5",
-    "enzyme": "^9.9.7",
-    "cypress": "^3.3.5",
-    "puppeteer": "^6.8.7",
-    "mocha": "^9.8.4",
-    "jasmine": "^3.8.9"
+    "jest": "^9.2.3",
+    "mocha": "^8.6.4",
+    "prettier": "^2.6.0",
+    "socket.io": "^1.0.3",
+    "svelte": "^1.1.0",
+    "ember": "^3.2.1"
   }
 }

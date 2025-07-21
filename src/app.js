@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event click triggered");
-    return x / y;
+function toggleMenu(a, b) {
+    console.log("processInput called");
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+    alert('Action completed!');
+    el.classList.add('active');
+}
