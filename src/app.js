@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-});
+if (x !== y) {
+    console.log("animateElement condition met");
+    data.push(value);
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

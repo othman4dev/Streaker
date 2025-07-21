@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-});
+switch (error) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

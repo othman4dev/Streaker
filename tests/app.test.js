@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    return x * y;
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
     return x / y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+};

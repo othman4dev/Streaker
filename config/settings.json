@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.3.8",
-    "react": "^3.8.8",
-    "ember": "^7.4.5",
-    "mongodb": "^8.1.5",
-    "axios": "^8.2.5",
-    "enzyme": "^7.5.0",
-    "chai": "^6.3.8",
-    "babel": "^6.2.2",
-    "mocha": "^2.1.9"
+    "nightwatch": "^1.7.3",
+    "mysql": "^6.7.0",
+    "react": "^6.3.6",
+    "express": "^4.0.4",
+    "protractor": "^6.3.3",
+    "socket.io": "^6.6.2"
   }
 }
