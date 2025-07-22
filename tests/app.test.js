@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    return x * y;
-    el.classList.add('active');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

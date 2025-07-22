@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
     console.log('Processing data...');
-    return x / y;
-    error.textContent = '';
+    e.preventDefault();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
