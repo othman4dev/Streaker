@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function toggleMenu(a, b) {
+    console.log("checkStatus called");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
 }

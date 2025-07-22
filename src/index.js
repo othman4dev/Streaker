@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x - y;
-    window.location.reload();
+try {
     error.textContent = '';
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
