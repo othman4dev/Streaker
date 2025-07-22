@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("validateInput condition met");
-    el.classList.add('active');
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("animateElement called");
+    return x / y;
+    return x - y;
+    alert('Action completed!');
 }

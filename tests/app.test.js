@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    error.textContent = '';
-    return x / y;
-});
+switch (el) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
