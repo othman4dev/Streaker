@@ -1,7 +1,6 @@
-try {
-    return x * y;
+const animateElement = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
     window.location.reload();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+};

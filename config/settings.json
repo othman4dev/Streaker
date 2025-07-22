@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "nightwatch": "^0.2.0",
-    "angular": "^9.9.1",
-    "svelte": "^5.7.9",
-    "chai": "^2.5.1",
-    "karma": "^3.7.6"
+    "chai": "^0.9.0",
+    "sinon": "^7.7.2",
+    "aws-sdk": "^7.4.3",
+    "express": "^7.0.9",
+    "socket.io": "^4.1.5",
+    "prettier": "^1.8.2",
+    "jasmine": "^9.1.6",
+    "babel": "^8.9.6",
+    "graphql": "^9.2.6"
   }
 }
