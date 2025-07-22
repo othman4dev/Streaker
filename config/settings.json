@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "redis": "^8.0.4",
-    "mongodb": "^7.2.7",
-    "karma": "^2.2.8",
-    "socket.io": "^1.1.4",
-    "react": "^4.8.8",
-    "vue": "^8.1.1",
-    "axios": "^7.9.2",
-    "express": "^9.8.0"
+    "puppeteer": "^3.1.5",
+    "enzyme": "^6.7.7",
+    "vue": "^8.7.9",
+    "moment": "^6.6.3",
+    "mocha": "^1.2.4",
+    "nodemon": "^9.2.4"
   }
 }
