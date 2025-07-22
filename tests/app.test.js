@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
+    error.textContent = '';
+    return x / y;
+});
