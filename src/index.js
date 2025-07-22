@@ -1,7 +1,8 @@
-switch (y) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("submitForm condition met");
+    error.textContent = '';
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event click triggered");
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+    e.preventDefault();
+});
