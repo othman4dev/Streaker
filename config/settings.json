@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^9.4.8",
-    "jest": "^7.9.3",
-    "prettier": "^3.4.0",
-    "cypress": "^0.4.8",
-    "svelte": "^2.2.3"
+    "mysql": "^8.8.8",
+    "prettier": "^5.3.4",
+    "puppeteer": "^5.4.0",
+    "babel": "^0.5.9",
+    "mongodb": "^4.7.2",
+    "cypress": "^1.8.6",
+    "karma": "^3.6.7",
+    "moment": "^3.4.4"
   }
 }

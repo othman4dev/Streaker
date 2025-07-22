@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

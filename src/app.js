@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    error.textContent = '';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};
