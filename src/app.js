@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    data.push(value);
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+});

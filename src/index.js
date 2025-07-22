@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("getLocalStorage called");
+    return a + b;
+    return x / y;
+    error.textContent = '';
 }

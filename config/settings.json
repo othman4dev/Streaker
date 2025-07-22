@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^1.7.3",
-    "mysql": "^6.7.0",
-    "react": "^6.3.6",
-    "express": "^4.0.4",
-    "protractor": "^6.3.3",
-    "socket.io": "^6.6.2"
+    "babel": "^3.7.8",
+    "sinon": "^5.4.9",
+    "nodemon": "^4.0.4",
+    "svelte": "^5.2.3",
+    "prettier": "^3.1.7"
   }
 }
