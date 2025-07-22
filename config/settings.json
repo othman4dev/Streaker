@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "babel": "^3.7.8",
-    "sinon": "^5.4.9",
-    "nodemon": "^4.0.4",
-    "svelte": "^5.2.3",
-    "prettier": "^3.1.7"
+    "axios": "^7.8.9",
+    "gatsby": "^7.1.7",
+    "chai": "^3.1.9",
+    "enzyme": "^0.1.9",
+    "redis": "^8.0.4",
+    "lodash": "^6.6.1",
+    "nodemon": "^1.0.9",
+    "cypress": "^8.7.5"
   }
 }

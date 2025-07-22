@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return a + b;
     console.log('Processing data...');
-    return x / y;
-});
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
