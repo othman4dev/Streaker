@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    console.log('Processing data...');
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    alert('Action completed!');
     el.classList.add('active');
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

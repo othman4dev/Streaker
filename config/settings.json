@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.6.7",
-    "sinon": "^1.4.5",
-    "nightwatch": "^6.1.6",
-    "redis": "^4.3.7",
-    "enzyme": "^0.3.2",
-    "graphql": "^9.3.3",
-    "lodash": "^0.2.5"
+    "mysql": "^9.4.8",
+    "jest": "^7.9.3",
+    "prettier": "^3.4.0",
+    "cypress": "^0.4.8",
+    "svelte": "^2.2.3"
   }
 }
