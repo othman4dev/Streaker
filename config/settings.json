@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.4.6",
-    "ember": "^3.3.9",
-    "prettier": "^7.2.8",
-    "angular": "^0.3.4"
+    "lodash": "^2.4.4",
+    "express": "^2.1.8",
+    "angular": "^7.6.8",
+    "react": "^7.0.6",
+    "enzyme": "^6.7.0",
+    "jest": "^9.4.0"
   }
 }

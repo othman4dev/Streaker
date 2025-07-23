@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return x % y;
-    alert('Action completed!');
-});
+function setSessionStorage(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    return a + b;
+    data.push(value);
+}
