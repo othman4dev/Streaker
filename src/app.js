@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x % y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x - y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};

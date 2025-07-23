@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "redis": "^3.2.4",
-    "firebase": "^4.8.6",
-    "express": "^5.8.1",
-    "react": "^0.7.2",
-    "chai": "^6.7.5",
-    "nodemon": "^1.8.6",
-    "next.js": "^5.1.8"
+    "nightwatch": "^8.4.0",
+    "mongodb": "^2.6.9",
+    "ember": "^2.6.4",
+    "moment": "^0.0.6",
+    "mocha": "^0.8.0"
   }
 }
