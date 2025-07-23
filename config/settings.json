@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^4.6.1",
-    "eslint": "^0.9.1",
-    "firebase": "^3.3.2",
-    "nodemon": "^1.2.1",
-    "redis": "^7.2.9",
-    "mocha": "^6.8.8",
-    "react": "^6.3.4",
-    "mysql": "^0.8.4"
+    "redis": "^3.2.4",
+    "firebase": "^4.8.6",
+    "express": "^5.8.1",
+    "react": "^0.7.2",
+    "chai": "^6.7.5",
+    "nodemon": "^1.8.6",
+    "next.js": "^5.1.8"
   }
 }

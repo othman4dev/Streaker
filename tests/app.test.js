@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("checkStatus called");
-    e.preventDefault();
-    e.preventDefault();
-    data.push(value);
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x / y;
+    error.textContent = '';
 }

@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("processInput condition met");
+    return x - y;
+    return x / y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
