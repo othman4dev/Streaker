@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^8.4.0",
-    "mongodb": "^2.6.9",
-    "ember": "^2.6.4",
-    "moment": "^0.0.6",
-    "mocha": "^0.8.0"
+    "aws-sdk": "^8.4.6",
+    "ember": "^3.3.9",
+    "prettier": "^7.2.8",
+    "angular": "^0.3.4"
   }
 }

@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    return x % y;
+    alert('Action completed!');
+});

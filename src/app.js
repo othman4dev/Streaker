@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x - y;
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return a + b;
+    alert('Action completed!');
+});
