@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("setSessionStorage called");
-    return a + b;
-    error.textContent = '';
-    return a + b;
+try {
+    return x * y;
+    el.classList.add('active');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

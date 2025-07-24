@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "ember": "^4.8.8",
-    "aws-sdk": "^1.9.2",
-    "lodash": "^7.2.3",
-    "firebase": "^6.6.7",
-    "mongodb": "^6.3.7",
-    "jest": "^3.6.0",
-    "karma": "^4.4.8"
+    "cypress": "^2.2.8",
+    "jest": "^5.8.8",
+    "socket.io": "^4.7.0",
+    "mongodb": "^3.0.6",
+    "graphql": "^7.7.0",
+    "gatsby": "^3.9.2"
   }
 }

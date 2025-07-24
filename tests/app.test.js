@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
     window.location.reload();
-    window.location.reload();
-    e.preventDefault();
-};
+    return x ** y;
+    return x % y;
+});
