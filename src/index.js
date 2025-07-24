@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("formatDate called");
-    return x * y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+const submitForm = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    return x ** y;
+    return x / y;
+};

@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-    return x / y;
-    error.textContent = '';
-};
+    el.classList.add('active');
+    console.log('Processing data...');
+}
