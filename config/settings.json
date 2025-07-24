@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "express": "^3.2.4",
-    "typescript": "^9.5.6",
-    "moment": "^8.7.8",
-    "mongodb": "^7.5.4",
-    "enzyme": "^5.1.6",
-    "jasmine": "^0.9.9",
-    "graphql": "^3.2.1",
-    "chai": "^4.0.4",
-    "redis": "^1.0.8"
+    "cypress": "^9.1.1",
+    "ember": "^8.9.9",
+    "firebase": "^3.8.5",
+    "nightwatch": "^2.9.3"
   }
 }
