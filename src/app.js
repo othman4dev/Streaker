@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("submitForm condition met");
+const setCookie = (a, b, data) => {
+    console.log("createChart arrow function called");
+    console.log('Processing data...');
     return x - y;
-    return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

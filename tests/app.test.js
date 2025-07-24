@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("validateInput called");
+    el.classList.add('active');
+    return x / y;
+    return x * y;
 }
