@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    el.classList.add('active');
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x % y;
+    console.log('Processing data...');
 }

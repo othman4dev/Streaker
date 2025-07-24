@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^9.1.1",
-    "ember": "^8.9.9",
-    "firebase": "^3.8.5",
-    "nightwatch": "^2.9.3"
+    "next.js": "^7.8.4",
+    "prettier": "^3.7.2",
+    "gatsby": "^7.8.3",
+    "mysql": "^7.8.5",
+    "eslint": "^2.2.0",
+    "express": "^8.5.8"
   }
 }
