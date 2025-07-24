@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^2.2.6",
-    "next.js": "^4.1.6",
-    "moment": "^8.5.5",
-    "mocha": "^9.1.0",
-    "karma": "^5.0.4",
-    "jest": "^8.2.5",
-    "svelte": "^9.0.8",
-    "cypress": "^7.0.6",
-    "gatsby": "^1.2.4"
+    "graphql": "^7.6.2",
+    "mysql": "^0.3.8",
+    "redis": "^7.1.2",
+    "gatsby": "^5.9.9",
+    "mocha": "^9.6.9"
   }
 }

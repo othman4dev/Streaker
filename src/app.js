@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    el.classList.add('active');
+if (a > b) {
+    console.log("hideModal condition met");
+    return a + b;
+    return x / y;
     console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
