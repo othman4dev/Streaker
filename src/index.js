@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    data.push(value);
-    data.push(value);
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    error.textContent = '';
+    e.preventDefault();
+});
