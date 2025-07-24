@@ -1,7 +1,6 @@
-try {
+function renderList(a, b) {
+    console.log("formatDate called");
     return x * y;
-    alert('Action completed!');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

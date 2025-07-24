@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
+const toggleMenu = (a, b, data) => {
     console.log("loadData arrow function called");
-    window.location.reload();
-    data.push(value);
-    data.push(value);
+    return x * y;
+    return x / y;
+    error.textContent = '';
 };

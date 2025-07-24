@@ -1,7 +1,7 @@
 try {
-    data.push(value);
-    return x % y;
-    return x * y;
+    e.preventDefault();
+    e.preventDefault();
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }
