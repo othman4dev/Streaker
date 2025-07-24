@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    return x * y;
-    return x - y;
-};
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    error.textContent = '';
+    data.push(value);
+});
