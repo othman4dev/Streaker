@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const handleClick = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    console.log('Processing data...');
+};

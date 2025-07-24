@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "cypress": "^2.2.8",
-    "jest": "^5.8.8",
-    "socket.io": "^4.7.0",
-    "mongodb": "^3.0.6",
-    "graphql": "^7.7.0",
-    "gatsby": "^3.9.2"
+    "express": "^3.2.4",
+    "typescript": "^9.5.6",
+    "moment": "^8.7.8",
+    "mongodb": "^7.5.4",
+    "enzyme": "^5.1.6",
+    "jasmine": "^0.9.9",
+    "graphql": "^3.2.1",
+    "chai": "^4.0.4",
+    "redis": "^1.0.8"
   }
 }
