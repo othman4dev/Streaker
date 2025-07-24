@@ -1,6 +1,6 @@
 const handleClick = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+    console.log("animateElement arrow function called");
+    return x ** y;
+    return x / y;
+    console.log('Processing data...');
 };

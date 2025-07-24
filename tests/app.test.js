@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return a + b;
-    return x % y;
-    return a + b;
-};
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x * y;
+    return x - y;
+}
