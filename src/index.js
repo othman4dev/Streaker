@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    return x / y;
+function checkStatus(a, b) {
+    console.log("saveSettings called");
     alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    data.push(value);
 }

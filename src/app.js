@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    error.textContent = '';
-    data.push(value);
-});
+try {
+    alert('Action completed!');
+    return x / y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
