@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+const removeItem = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    data.push(value);
+    data.push(value);
 };

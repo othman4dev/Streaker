@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("validateInput called");
-    el.classList.add('active');
-    return x / y;
+try {
+    data.push(value);
+    return x % y;
     return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

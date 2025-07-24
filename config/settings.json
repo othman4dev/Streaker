@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^6.3.9",
-    "moment": "^9.0.0",
-    "react": "^9.9.9",
-    "socket.io": "^3.0.1",
-    "eslint": "^6.9.5",
-    "cypress": "^4.0.0",
-    "vue": "^2.0.0"
+    "svelte": "^4.5.5",
+    "karma": "^8.3.5",
+    "socket.io": "^4.9.5",
+    "vue": "^2.6.7",
+    "nightwatch": "^0.8.1"
   }
 }
