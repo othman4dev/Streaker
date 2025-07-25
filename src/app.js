@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x ** y;
-};
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    error.textContent = '';
+    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

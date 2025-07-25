@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "babel": "^5.3.6",
-    "moment": "^8.8.5",
-    "mongodb": "^4.4.1",
-    "vue": "^0.9.4",
-    "sinon": "^2.7.1",
-    "firebase": "^2.7.0",
-    "lodash": "^0.6.5"
+    "jasmine": "^7.3.3",
+    "socket.io": "^4.4.4",
+    "ember": "^9.6.7",
+    "nightwatch": "^0.5.8",
+    "babel": "^4.9.2",
+    "mongodb": "^8.8.0",
+    "webpack": "^6.6.9",
+    "svelte": "^5.1.2"
   }
 }
