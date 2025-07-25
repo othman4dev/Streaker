@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^7.2.8",
-    "mysql": "^3.2.6",
-    "graphql": "^8.0.3",
-    "webpack": "^6.4.2",
-    "vue": "^4.2.0"
+    "babel": "^0.5.9",
+    "jasmine": "^6.4.1",
+    "nightwatch": "^6.0.6",
+    "angular": "^8.4.3",
+    "ember": "^2.0.8"
   }
 }

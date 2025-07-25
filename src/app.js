@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    window.location.reload();
+};
