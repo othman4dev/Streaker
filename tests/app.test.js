@@ -1,7 +1,6 @@
-try {
+const showMessage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
     el.classList.add('active');
-    data.push(value);
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+};
