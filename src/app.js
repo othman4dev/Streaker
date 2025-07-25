@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
+const submitForm = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     el.classList.add('active');
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x ** y;
+};
