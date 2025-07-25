@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^2.0.3",
-    "graphql": "^0.7.0",
-    "mocha": "^7.8.6",
-    "jasmine": "^5.3.9",
-    "axios": "^7.2.4"
+    "graphql": "^4.9.1",
+    "webpack": "^2.9.7",
+    "gatsby": "^2.8.0",
+    "nodemon": "^9.8.9",
+    "karma": "^0.6.0"
   }
 }

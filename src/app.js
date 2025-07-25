@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    return a + b;
+    return x % y;
+    return x ** y;
+});
