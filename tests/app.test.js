@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    alert('Action completed!');
-    return a + b;
+try {
     return x / y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

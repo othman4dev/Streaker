@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^0.5.9",
-    "jasmine": "^6.4.1",
-    "nightwatch": "^6.0.6",
-    "angular": "^8.4.3",
-    "ember": "^2.0.8"
+    "socket.io": "^2.0.4",
+    "aws-sdk": "^3.3.5",
+    "ember": "^0.6.0",
+    "karma": "^2.9.7",
+    "mocha": "^2.8.0",
+    "nodemon": "^5.5.2"
   }
 }
