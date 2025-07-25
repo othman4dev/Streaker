@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    return x / y;
+    error.textContent = '';
+});

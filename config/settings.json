@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^7.3.3",
-    "socket.io": "^4.4.4",
-    "ember": "^9.6.7",
-    "nightwatch": "^0.5.8",
-    "babel": "^4.9.2",
-    "mongodb": "^8.8.0",
-    "webpack": "^6.6.9",
-    "svelte": "^5.1.2"
+    "firebase": "^2.0.3",
+    "graphql": "^0.7.0",
+    "mocha": "^7.8.6",
+    "jasmine": "^5.3.9",
+    "axios": "^7.2.4"
   }
 }
