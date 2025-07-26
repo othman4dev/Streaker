@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+function displayError(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    return a + b;
     console.log('Processing data...');
 }

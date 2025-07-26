@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("animateElement called");
+    return x % y;
+    return x / y;
+    return x ** y;
 }
