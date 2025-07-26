@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    el.classList.add('active');
+const validateInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x * y;
     return x / y;
-}
+    alert('Action completed!');
+};
