@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    return a + b;
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    return x / y;
+    console.log('Processing data...');
     return x % y;
 });
