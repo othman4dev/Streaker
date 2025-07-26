@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^2.9.1",
-    "cypress": "^0.1.9",
-    "axios": "^4.7.4",
-    "prettier": "^6.3.0",
-    "vue": "^3.1.9",
-    "react": "^7.3.7",
-    "redis": "^8.5.9",
-    "puppeteer": "^4.8.3"
+    "typescript": "^0.8.0",
+    "nodemon": "^0.2.2",
+    "mocha": "^5.1.6",
+    "jest": "^6.4.0",
+    "aws-sdk": "^6.1.6"
   }
 }

@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    e.preventDefault();
-    return x / y;
+try {
     return x - y;
-} else {
-    console.log("Condition not met");
+    return x % y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
