@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
-    data.push(value);
-    return a + b;
-};
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    e.preventDefault();
+    return x / y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

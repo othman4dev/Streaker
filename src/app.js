@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x / y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    el.classList.add('active');
+    return x * y;
+});

@@ -1,7 +1,8 @@
-switch (a) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("loadData condition met");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
