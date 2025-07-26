@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    data.push(value);
-    data.push(value);
+function setCookie(a, b) {
+    console.log("loadData called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    console.log('Processing data...');
 }

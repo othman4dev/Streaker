@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    e.preventDefault();
+try {
+    window.location.reload();
+    el.classList.add('active');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
