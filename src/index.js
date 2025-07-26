@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+});
