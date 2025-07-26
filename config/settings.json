@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "cypress": "^9.5.8",
-    "nodemon": "^4.5.0",
-    "vue": "^3.6.7",
-    "mongodb": "^0.6.9",
-    "jest": "^3.4.6",
-    "react": "^0.0.0"
+    "moment": "^3.8.7",
+    "mysql": "^5.7.2",
+    "axios": "^4.9.5",
+    "jest": "^5.7.6",
+    "next.js": "^9.0.2",
+    "prettier": "^4.4.2",
+    "protractor": "^9.7.2",
+    "jasmine": "^6.9.1",
+    "karma": "^8.4.3"
   }
 }
