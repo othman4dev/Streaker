@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
+    return x % y;
     console.log('Processing data...');
-    window.location.reload();
-});
+    error.textContent = '';
+}

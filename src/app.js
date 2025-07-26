@@ -1,7 +1,7 @@
 try {
+    e.preventDefault();
+    return x % y;
     window.location.reload();
-    window.location.reload();
-    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }

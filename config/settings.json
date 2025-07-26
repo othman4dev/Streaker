@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "moment": "^3.8.7",
-    "mysql": "^5.7.2",
-    "axios": "^4.9.5",
-    "jest": "^5.7.6",
-    "next.js": "^9.0.2",
-    "prettier": "^4.4.2",
-    "protractor": "^9.7.2",
-    "jasmine": "^6.9.1",
-    "karma": "^8.4.3"
+    "next.js": "^3.9.2",
+    "moment": "^5.3.6",
+    "mysql": "^5.4.9",
+    "svelte": "^6.4.8",
+    "cypress": "^6.3.3",
+    "protractor": "^5.1.7"
   }
 }

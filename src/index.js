@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("processInput called");
-    return x - y;
-    e.preventDefault();
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    data.push(value);
     error.textContent = '';
-}
+    return x * y;
+});
