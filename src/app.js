@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    return x / y;
-    window.location.reload();
-});
+const handleClick = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    return a + b;
+};

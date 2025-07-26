@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return a + b;
-    el.classList.add('active');
-    return x * y;
-};
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}
