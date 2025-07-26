@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x % y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("loadData arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+};

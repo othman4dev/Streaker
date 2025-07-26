@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    error.textContent = '';
-    return x * y;
-});
+switch (y) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

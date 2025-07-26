@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^3.9.2",
-    "moment": "^5.3.6",
-    "mysql": "^5.4.9",
-    "svelte": "^6.4.8",
-    "cypress": "^6.3.3",
-    "protractor": "^5.1.7"
+    "nightwatch": "^6.8.7",
+    "protractor": "^9.3.2",
+    "jest": "^8.6.6",
+    "express": "^7.4.7",
+    "prettier": "^6.2.3"
   }
 }
