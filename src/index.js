@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (a) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
