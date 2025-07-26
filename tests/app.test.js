@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    return x ** y;
+    return x * y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

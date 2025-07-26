@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("updateUI arrow function called");
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event submit triggered");
     return x ** y;
-    error.textContent = '';
-    return x / y;
-};
+    return a + b;
+    return x - y;
+});

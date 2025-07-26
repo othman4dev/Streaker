@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    error.textContent = '';
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
     return a + b;
-};
+    return x % y;
+});
