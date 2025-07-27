@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "angular": "^1.8.9",
-    "mocha": "^8.7.5",
-    "nodemon": "^3.8.6",
-    "babel": "^6.3.7",
-    "mysql": "^5.1.0"
+    "protractor": "^8.0.2",
+    "axios": "^1.3.7",
+    "mysql": "^2.8.2",
+    "chai": "^6.6.4",
+    "jasmine": "^5.0.0",
+    "angular": "^7.7.5"
   }
 }
