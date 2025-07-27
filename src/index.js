@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x ** y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function removeItem(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    el.classList.add('active');
 }

@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    data.push(value);
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    el.classList.add('active');
+    e.preventDefault();
 }
