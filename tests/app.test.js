@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    return a + b;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function displayError(a, b) {
+    console.log("validateInput called");
+    error.textContent = '';
+    e.preventDefault();
+    error.textContent = '';
 }
