@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^3.0.1",
-    "prettier": "^5.0.7",
-    "vue": "^4.1.1",
-    "firebase": "^0.0.9"
+    "angular": "^1.8.9",
+    "mocha": "^8.7.5",
+    "nodemon": "^3.8.6",
+    "babel": "^6.3.7",
+    "mysql": "^5.1.0"
   }
 }

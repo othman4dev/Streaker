@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    return a + b;
-    return a + b;
-});
+switch (a) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

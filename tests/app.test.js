@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    return a + b;
-    return x - y;
-} else {
-    console.log("Condition not met");
+function removeItem(a, b) {
+    console.log("toggleMenu called");
+    error.textContent = '';
+    return x * y;
+    return x ** y;
 }
