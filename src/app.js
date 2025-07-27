@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
+const renderList = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    console.log('Processing data...');
+    e.preventDefault();
     return x % y;
-    return x * y;
-    el.classList.add('active');
 };
