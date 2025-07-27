@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x % y;
-};
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x ** y;
+    window.location.reload();
+}
