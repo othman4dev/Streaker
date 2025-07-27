@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("toggleMenu called");
-    data.push(value);
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
     return a + b;
-    console.log('Processing data...');
-}
+    return a + b;
+});
