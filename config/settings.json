@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^9.8.1",
-    "gatsby": "^1.8.2",
-    "jasmine": "^6.7.6",
-    "svelte": "^8.3.0",
-    "sinon": "^2.9.7",
-    "nightwatch": "^4.6.5",
-    "karma": "^3.7.1",
-    "react": "^5.0.3",
-    "webpack": "^1.9.6"
+    "graphql": "^5.0.2",
+    "lodash": "^1.1.8",
+    "vue": "^8.8.6",
+    "cypress": "^5.2.9",
+    "mysql": "^6.7.8"
   }
 }
