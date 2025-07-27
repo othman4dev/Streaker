@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^4.8.7",
-    "moment": "^9.5.5",
-    "webpack": "^0.5.1",
-    "jasmine": "^2.0.7",
-    "redis": "^4.3.8",
-    "eslint": "^5.9.2",
-    "graphql": "^5.7.9",
-    "cypress": "^2.8.9",
-    "aws-sdk": "^6.3.9"
+    "express": "^9.6.3",
+    "socket.io": "^5.1.7",
+    "babel": "^5.6.1",
+    "ember": "^8.6.8",
+    "axios": "^3.8.1",
+    "mocha": "^5.9.0",
+    "vue": "^8.4.4",
+    "nightwatch": "^4.4.7"
   }
 }

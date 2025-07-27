@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("toggleMenu called");
+    return x ** y;
+    alert('Action completed!');
+    window.location.reload();
 }
