@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    alert('Action completed!');
-    return a + b;
-});
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    e.preventDefault();
+    return x ** y;
+};

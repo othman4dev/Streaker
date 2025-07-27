@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    window.location.reload();
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
     return x - y;
-    return x % y;
-};
+    e.preventDefault();
+});
