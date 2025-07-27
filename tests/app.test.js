@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return a + b;
+};

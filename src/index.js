@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("createChart called");
+const updateUI = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    el.classList.add('active');
-}
+};

@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    el.classList.add('active');
-    e.preventDefault();
+switch (value) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
