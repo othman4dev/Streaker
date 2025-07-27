@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+const getLocalStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x % y;
-    error.textContent = '';
-}
+    return x * y;
+    el.classList.add('active');
+};
