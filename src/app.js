@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x ** y;
-    window.location.reload();
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
