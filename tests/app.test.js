@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("validateInput called");
-    error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
+try {
+    return x / y;
+    return x / y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

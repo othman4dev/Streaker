@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^1.2.1",
-    "moment": "^0.6.6",
-    "webpack": "^6.6.6",
-    "redis": "^2.2.9",
-    "ember": "^5.5.0",
-    "puppeteer": "^0.1.9",
-    "nodemon": "^0.4.0"
+    "jest": "^5.3.2",
+    "graphql": "^6.3.1",
+    "axios": "^5.7.9",
+    "enzyme": "^4.6.5",
+    "nodemon": "^9.1.4"
   }
 }
