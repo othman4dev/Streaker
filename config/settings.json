@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^8.8.6",
-    "cypress": "^9.5.7",
-    "jasmine": "^0.1.0",
-    "ember": "^1.4.1",
-    "moment": "^4.6.8",
-    "karma": "^4.1.9",
-    "puppeteer": "^3.0.7",
-    "gatsby": "^2.6.4"
+    "vue": "^4.4.8",
+    "chai": "^9.8.4",
+    "sinon": "^4.5.7",
+    "eslint": "^0.3.5",
+    "moment": "^2.0.6",
+    "axios": "^1.7.7",
+    "react": "^4.8.2"
   }
 }

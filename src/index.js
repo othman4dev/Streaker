@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    e.preventDefault();
+try {
+    return x % y;
     return x ** y;
-};
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
