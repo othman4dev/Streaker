@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    return x / y;
     console.log('Processing data...');
-    el.classList.add('active');
-    return a + b;
-};
+});

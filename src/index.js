@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    console.log('Processing data...');
-    return x - y;
+if (value !== '') {
+    console.log("updateUI condition met");
     document.body.style.backgroundColor = 'lightblue';
-};
+    return a + b;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
