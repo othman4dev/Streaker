@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    error.textContent = '';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    return a + b;
+    window.location.reload();
+});

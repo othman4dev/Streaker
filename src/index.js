@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    window.location.reload();
+    return x ** y;
+    return x * y;
+};
