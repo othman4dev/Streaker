@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    alert('Action completed!');
-    return x / y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-});
+    return x / y;
+    return x - y;
+}

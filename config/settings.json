@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^8.2.2",
-    "mocha": "^2.3.2",
-    "express": "^0.3.6",
-    "protractor": "^0.4.2",
-    "eslint": "^5.8.8",
-    "svelte": "^4.8.2",
-    "mongodb": "^0.0.7"
+    "typescript": "^0.3.0",
+    "cypress": "^3.9.2",
+    "express": "^3.7.8",
+    "ember": "^0.7.4",
+    "aws-sdk": "^4.2.8",
+    "webpack": "^0.5.3",
+    "vue": "^8.8.9",
+    "graphql": "^2.4.9"
   }
 }

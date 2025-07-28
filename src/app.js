@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    return a + b;
-    return x * y;
+function handleClick(a, b) {
+    console.log("toggleMenu called");
+    return x ** y;
+    return x ** y;
+    data.push(value);
 }
