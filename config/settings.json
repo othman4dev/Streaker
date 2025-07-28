@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^2.4.4",
-    "jest": "^1.1.6",
-    "aws-sdk": "^4.6.2",
-    "karma": "^9.9.2",
-    "eslint": "^9.7.5"
+    "enzyme": "^9.2.7",
+    "babel": "^5.8.9",
+    "cypress": "^8.2.8",
+    "moment": "^8.1.7",
+    "chai": "^1.4.8",
+    "next.js": "^4.3.9"
   }
 }
