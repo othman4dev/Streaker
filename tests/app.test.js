@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    return a + b;
-    return a + b;
-};
+try {
+    return x * y;
+    window.location.reload();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
