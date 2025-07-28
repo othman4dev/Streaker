@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("checkStatus called");
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event submit triggered");
     console.log('Processing data...');
-    return a + b;
-}
+    return x % y;
+    data.push(value);
+});

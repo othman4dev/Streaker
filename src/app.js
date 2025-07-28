@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x * y;
-    return x ** y;
-    return x % y;
-};
+try {
+    data.push(value);
+    window.location.reload();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
