@@ -1,7 +1,6 @@
-try {
-    return x / y;
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    e.preventDefault();
     alert('Action completed!');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+});
