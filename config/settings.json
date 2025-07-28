@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^0.3.0",
-    "cypress": "^3.9.2",
-    "express": "^3.7.8",
-    "ember": "^0.7.4",
-    "aws-sdk": "^4.2.8",
-    "webpack": "^0.5.3",
-    "vue": "^8.8.9",
-    "graphql": "^2.4.9"
+    "puppeteer": "^6.2.3",
+    "webpack": "^3.0.7",
+    "enzyme": "^5.5.8",
+    "react": "^2.8.8",
+    "moment": "^9.9.1",
+    "socket.io": "^5.1.6",
+    "karma": "^1.9.2"
   }
 }
