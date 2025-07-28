@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    console.log('Processing data...');
-    return x % y;
-    data.push(value);
-});
+switch (el) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
