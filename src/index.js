@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    alert('Action completed!');
-});
+function submitForm(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return a + b;
+}

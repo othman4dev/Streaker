@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    window.location.reload();
-    error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x * y;
+    return x ** y;
+    return x % y;
+};
