@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
-    data.push(value);
-    error.textContent = '';
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    return a + b;
+    return a + b;
 };

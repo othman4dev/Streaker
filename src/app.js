@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("setSessionStorage called");
-    window.location.reload();
-    error.textContent = '';
-    e.preventDefault();
+switch (a) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

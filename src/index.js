@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x - y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    return x ** y;
+    e.preventDefault();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
