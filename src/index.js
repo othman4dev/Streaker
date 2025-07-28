@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    return x - y;
-    return x ** y;
-    return a + b;
+function setSessionStorage(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
