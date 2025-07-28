@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    alert('Action completed!');
+    data.push(value);
+    error.textContent = '';
+};

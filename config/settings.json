@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^6.2.3",
-    "webpack": "^3.0.7",
-    "enzyme": "^5.5.8",
-    "react": "^2.8.8",
-    "moment": "^9.9.1",
-    "socket.io": "^5.1.6",
-    "karma": "^1.9.2"
+    "chai": "^2.4.2",
+    "angular": "^7.1.9",
+    "puppeteer": "^2.5.0",
+    "ember": "^6.2.7",
+    "graphql": "^2.0.2",
+    "mysql": "^9.1.8"
   }
 }

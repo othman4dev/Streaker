@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    el.classList.add('active');
-    return x % y;
-}
+const displayError = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x - y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+};
