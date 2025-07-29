@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("toggleMenu condition met");
-    return x % y;
-    data.push(value);
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

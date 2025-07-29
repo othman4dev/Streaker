@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^0.3.8",
-    "mocha": "^2.8.6",
-    "enzyme": "^7.5.2",
-    "jest": "^4.8.5"
+    "jasmine": "^0.4.6",
+    "moment": "^4.7.3",
+    "jest": "^9.8.0",
+    "nightwatch": "^0.4.8",
+    "mongodb": "^5.0.8",
+    "vue": "^5.5.0",
+    "ember": "^1.1.7",
+    "prettier": "^2.6.0"
   }
 }

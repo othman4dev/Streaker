@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+switch (el) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
