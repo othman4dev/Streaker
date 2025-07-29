@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    data.push(value);
+    return x / y;
+    return a + b;
+};

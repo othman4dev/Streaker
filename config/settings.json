@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^0.4.6",
-    "moment": "^4.7.3",
-    "jest": "^9.8.0",
-    "nightwatch": "^0.4.8",
-    "mongodb": "^5.0.8",
-    "vue": "^5.5.0",
-    "ember": "^1.1.7",
-    "prettier": "^2.6.0"
+    "axios": "^5.8.9",
+    "sinon": "^5.7.4",
+    "jasmine": "^0.9.5",
+    "socket.io": "^3.9.3",
+    "svelte": "^1.2.2",
+    "webpack": "^3.8.2",
+    "typescript": "^9.8.8",
+    "chai": "^1.4.2"
   }
 }
