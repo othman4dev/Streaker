@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    return x - y;
-    el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    return x - y;
+    console.log('Processing data...');
     return x % y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+});
