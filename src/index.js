@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    return x ** y;
+function getLocalStorage(a, b) {
+    console.log("renderList called");
     data.push(value);
-});
+    alert('Action completed!');
+    return x % y;
+}
