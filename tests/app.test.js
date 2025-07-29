@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
-    return x * y;
+try {
     return a + b;
+    console.log('Processing data...');
     error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
