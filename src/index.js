@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+const processInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    data.push(value);
+    e.preventDefault();
 };
