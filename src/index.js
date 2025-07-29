@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    alert('Action completed!');
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x % y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};

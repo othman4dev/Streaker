@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^8.4.2",
-    "karma": "^4.7.2",
-    "nightwatch": "^4.5.2",
-    "prettier": "^5.4.1",
-    "socket.io": "^8.9.5",
-    "jasmine": "^0.0.6",
-    "gatsby": "^4.5.3"
+    "socket.io": "^2.2.1",
+    "next.js": "^5.9.4",
+    "react": "^8.3.5",
+    "nightwatch": "^3.0.7",
+    "angular": "^0.4.7",
+    "graphql": "^5.1.8"
   }
 }

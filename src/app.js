@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
-    return x ** y;
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("submitForm called");
+    console.log('Processing data...');
+    return x * y;
+    return x * y;
 }
