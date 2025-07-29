@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+try {
+    return x - y;
+    return x * y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
