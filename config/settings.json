@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "ember": "^7.8.8",
-    "socket.io": "^5.1.2",
-    "karma": "^9.0.2",
-    "prettier": "^8.2.4"
+    "ember": "^0.1.7",
+    "angular": "^2.3.7",
+    "mongodb": "^4.6.2",
+    "socket.io": "^8.0.4",
+    "chai": "^1.7.6"
   }
 }

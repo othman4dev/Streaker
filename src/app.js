@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("updateUI called");
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
     return a + b;
-    return x ** y;
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

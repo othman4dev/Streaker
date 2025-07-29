@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-};
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    return x * y;
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    data.push(value);
-    console.log('Processing data...');
-};
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return x - y;
+    alert('Action completed!');
+    return x / y;
+});
