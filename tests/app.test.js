@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x ** y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function toggleMenu(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    return a + b;
+    error.textContent = '';
 }

@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^6.7.9",
-    "next.js": "^5.2.3",
-    "nodemon": "^1.8.9",
-    "axios": "^9.0.5",
-    "ember": "^4.1.9",
-    "jest": "^7.2.6",
-    "angular": "^4.9.6",
-    "eslint": "^1.9.8"
+    "nodemon": "^2.4.5",
+    "jest": "^2.9.2",
+    "webpack": "^2.6.8",
+    "react": "^9.3.4",
+    "karma": "^8.2.7",
+    "babel": "^3.3.5",
+    "puppeteer": "^9.9.5",
+    "lodash": "^1.7.4"
   }
 }

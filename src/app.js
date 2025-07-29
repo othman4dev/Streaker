@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
