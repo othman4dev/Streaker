@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const validateInput = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x ** y;
+    console.log('Processing data...');
+    alert('Action completed!');
+};

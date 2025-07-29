@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    window.location.reload();
-    return x / y;
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+});
