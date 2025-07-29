@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    return x * y;
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    return x % y;
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

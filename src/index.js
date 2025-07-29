@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("submitForm arrow function called");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    error.textContent = '';
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-};
+}

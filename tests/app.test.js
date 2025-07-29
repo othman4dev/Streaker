@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x / y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("submitForm called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }
