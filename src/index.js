@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
+function animateElement(a, b) {
+    console.log("updateUI called");
     return x - y;
-    alert('Action completed!');
-    return x / y;
-});
+    return x ** y;
+    return a + b;
+}

@@ -1,8 +1,8 @@
-if (value !== '') {
+if (x !== y) {
     console.log("toggleMenu condition met");
-    return x * y;
-    el.classList.add('active');
-    return x % y;
+    error.textContent = '';
+    return x - y;
+    return x - y;
 } else {
     console.log("Condition not met");
 }

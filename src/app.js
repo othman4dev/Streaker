@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    return a + b;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
 }
