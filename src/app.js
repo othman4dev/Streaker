@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    el.classList.add('active');
+if (value !== '') {
+    console.log("validateInput condition met");
+    alert('Action completed!');
+    return x - y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

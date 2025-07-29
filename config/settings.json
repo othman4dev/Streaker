@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^5.3.6",
-    "sinon": "^2.3.0",
-    "mysql": "^1.2.4",
-    "mongodb": "^4.5.8",
-    "enzyme": "^0.4.2",
-    "axios": "^5.8.1",
-    "puppeteer": "^0.9.8"
+    "puppeteer": "^4.7.5",
+    "eslint": "^7.4.5",
+    "sinon": "^1.5.1",
+    "webpack": "^8.1.6",
+    "prettier": "^0.4.8",
+    "jasmine": "^9.1.0",
+    "mongodb": "^4.5.4",
+    "next.js": "^9.9.3"
   }
 }

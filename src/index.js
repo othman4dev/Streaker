@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
     window.location.reload();
-    data.push(value);
-    e.preventDefault();
-};
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
