@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
+    data.push(value);
+    console.log('Processing data...');
+};

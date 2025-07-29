@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function toggleMenu(a, b) {
+    console.log("updateUI called");
+    return x ** y;
+    return a + b;
+    return x ** y;
 }

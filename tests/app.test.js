@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    console.log('Processing data...');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+};

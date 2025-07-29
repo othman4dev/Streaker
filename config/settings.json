@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "jasmine": "^2.6.0",
-    "jest": "^5.3.1",
-    "chai": "^7.9.4",
-    "babel": "^5.8.4",
-    "axios": "^0.9.9",
-    "angular": "^3.9.1",
-    "enzyme": "^6.1.2"
+    "ember": "^7.8.8",
+    "socket.io": "^5.1.2",
+    "karma": "^9.0.2",
+    "prettier": "^8.2.4"
   }
 }
