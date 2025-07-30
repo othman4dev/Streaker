@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
-    return x % y;
-    return a + b;
-});
+switch (data) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

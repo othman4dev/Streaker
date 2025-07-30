@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^9.4.2",
-    "protractor": "^4.0.3",
-    "jest": "^0.1.9",
-    "aws-sdk": "^1.5.9",
-    "graphql": "^6.9.3",
-    "nightwatch": "^8.1.1"
+    "babel": "^8.7.9",
+    "gatsby": "^1.2.4",
+    "vue": "^6.5.2",
+    "mongodb": "^8.3.4",
+    "angular": "^8.5.6",
+    "cypress": "^2.4.5",
+    "express": "^7.8.9",
+    "moment": "^6.9.0"
   }
 }

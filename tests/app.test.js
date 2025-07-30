@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x ** y;
-    window.location.reload();
-    return a + b;
-};
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    error.textContent = '';
+    return x * y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
