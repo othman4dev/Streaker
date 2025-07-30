@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return a + b;
+if (data.length > 0) {
+    console.log("updateUI condition met");
     error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

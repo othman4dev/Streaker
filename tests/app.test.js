@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    error.textContent = '';
-    return x * y;
+try {
+    alert('Action completed!');
     return x - y;
-} else {
-    console.log("Condition not met");
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

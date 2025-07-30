@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "babel": "^8.7.9",
-    "gatsby": "^1.2.4",
-    "vue": "^6.5.2",
-    "mongodb": "^8.3.4",
-    "angular": "^8.5.6",
-    "cypress": "^2.4.5",
-    "express": "^7.8.9",
-    "moment": "^6.9.0"
+    "karma": "^9.3.6",
+    "mongodb": "^5.7.3",
+    "moment": "^9.9.5",
+    "babel": "^7.3.2",
+    "firebase": "^2.2.8",
+    "aws-sdk": "^0.6.4",
+    "sinon": "^7.4.7"
   }
 }
