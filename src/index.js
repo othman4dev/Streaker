@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("processInput called");
+    return a + b;
+    return x - y;
+    data.push(value);
 }

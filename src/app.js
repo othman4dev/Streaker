@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("displayError called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    return x * y;
+    alert('Action completed!');
+});

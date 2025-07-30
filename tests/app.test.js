@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x - y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});
