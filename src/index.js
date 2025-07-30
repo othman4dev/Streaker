@@ -1,7 +1,6 @@
-try {
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event load triggered");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    error.textContent = '';
+});

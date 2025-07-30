@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    data.push(value);
+function displayError(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
+    return x ** y;
+    return x * y;
 }
