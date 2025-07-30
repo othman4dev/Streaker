@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("createChart condition met");
-    return x - y;
-    window.location.reload();
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    error.textContent = '';
+    return x % y;
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+});

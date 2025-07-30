@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^4.2.2",
-    "mocha": "^0.9.5",
-    "jasmine": "^2.4.5",
-    "next.js": "^4.2.1",
-    "firebase": "^6.9.5"
+    "mysql": "^9.4.2",
+    "protractor": "^4.0.3",
+    "jest": "^0.1.9",
+    "aws-sdk": "^1.5.9",
+    "graphql": "^6.9.3",
+    "nightwatch": "^8.1.1"
   }
 }

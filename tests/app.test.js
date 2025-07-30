@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    return x / y;
+const showMessage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x ** y;
     window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+};

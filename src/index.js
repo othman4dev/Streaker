@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+if (x !== y) {
+    console.log("loadData condition met");
+    e.preventDefault();
+    e.preventDefault();
     window.location.reload();
-    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
