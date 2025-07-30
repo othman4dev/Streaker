@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    data.push(value);
+function validateInput(a, b) {
+    console.log("createChart called");
+    el.classList.add('active');
     return x / y;
-    return a + b;
-};
+    e.preventDefault();
+}
