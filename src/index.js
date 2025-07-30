@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    error.textContent = '';
     el.classList.add('active');
-    alert('Action completed!');
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

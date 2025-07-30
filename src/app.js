@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

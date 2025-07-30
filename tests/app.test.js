@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
-    return x % y;
+const setCookie = (a, b, data) => {
+    console.log("createChart arrow function called");
     error.textContent = '';
+    return x - y;
+    e.preventDefault();
 };
