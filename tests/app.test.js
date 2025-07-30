@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    return x / y;
     window.location.reload();
-    return x - y;
-});
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

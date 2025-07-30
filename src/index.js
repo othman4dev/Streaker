@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("createChart called");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    window.location.reload();
     el.classList.add('active');
-    return x / y;
-    e.preventDefault();
 }
