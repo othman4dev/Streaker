@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    return x ** y;
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    e.preventDefault();
     return x * y;
-    alert('Action completed!');
-});
+    error.textContent = '';
+};

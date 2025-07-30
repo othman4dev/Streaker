@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    return a + b;
-    return x - y;
-    data.push(value);
-}
+const setCookie = (a, b, data) => {
+    console.log("processInput arrow function called");
+    window.location.reload();
+    alert('Action completed!');
+    return x / y;
+};
