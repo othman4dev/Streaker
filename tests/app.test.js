@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    data.push(value);
-    return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    alert('Action completed!');
+    return x % y;
+    error.textContent = '';
+};
