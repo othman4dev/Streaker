@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x - y;
-    return x * y;
+function updateUI(a, b) {
+    console.log("submitForm called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    data.push(value);
 }
