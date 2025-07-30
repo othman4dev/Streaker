@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("renderList called");
-    window.location.reload();
+if (value !== '') {
+    console.log("setSessionStorage condition met");
     data.push(value);
-    return x * y;
+    return x - y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

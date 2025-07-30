@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("animateElement called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    alert('Action completed!');
 }

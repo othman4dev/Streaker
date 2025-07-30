@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
-    error.textContent = '';
-    console.log('Processing data...');
+if (a > b) {
+    console.log("getLocalStorage condition met");
     return x * y;
+    alert('Action completed!');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
