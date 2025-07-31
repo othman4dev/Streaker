@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    error.textContent = '';
-    el.classList.add('active');
+function setCookie(a, b) {
+    console.log("toggleMenu called");
+    return x / y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }

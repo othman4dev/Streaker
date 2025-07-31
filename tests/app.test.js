@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("createChart arrow function called");
-    error.textContent = '';
-    return x - y;
-    e.preventDefault();
-};
+function submitForm(a, b) {
+    console.log("showMessage called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+}
