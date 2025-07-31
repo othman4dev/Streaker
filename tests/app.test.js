@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("showMessage called");
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("toggleMenu condition met");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
