@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "chai": "^7.2.2",
-    "react": "^6.1.2",
-    "ember": "^7.4.4",
-    "moment": "^5.9.0"
+    "typescript": "^0.5.3",
+    "cypress": "^2.8.2",
+    "react": "^6.2.2",
+    "sinon": "^7.1.8",
+    "aws-sdk": "^9.2.4",
+    "eslint": "^7.7.9",
+    "angular": "^6.2.0",
+    "puppeteer": "^4.9.4"
   }
 }
