@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    e.preventDefault();
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    return x ** y;
 }
