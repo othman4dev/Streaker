@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.9.7",
-    "graphql": "^6.5.8",
-    "next.js": "^6.7.4",
-    "firebase": "^8.5.9",
-    "webpack": "^4.9.6",
-    "react": "^7.2.9",
-    "enzyme": "^0.2.1",
-    "protractor": "^0.2.6"
+    "mongodb": "^8.8.6",
+    "jest": "^6.9.7",
+    "react": "^8.7.9",
+    "axios": "^0.3.9",
+    "lodash": "^7.6.2"
   }
 }

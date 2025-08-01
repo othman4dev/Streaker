@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("hideModal arrow function called");
+function removeItem(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
     error.textContent = '';
-    el.classList.add('active');
-    alert('Action completed!');
-};
+    document.body.style.backgroundColor = 'lightblue';
+}
