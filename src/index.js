@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    console.log('Processing data...');
+const hideModal = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
+    el.classList.add('active');
+    alert('Action completed!');
 };

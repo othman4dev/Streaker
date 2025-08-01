@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "vue": "^4.8.4",
-    "jest": "^6.5.7",
-    "ember": "^2.2.4",
-    "nodemon": "^8.5.8",
-    "enzyme": "^7.2.4",
-    "svelte": "^2.4.7"
+    "jest": "^4.9.7",
+    "graphql": "^6.5.8",
+    "next.js": "^6.7.4",
+    "firebase": "^8.5.9",
+    "webpack": "^4.9.6",
+    "react": "^7.2.9",
+    "enzyme": "^0.2.1",
+    "protractor": "^0.2.6"
   }
 }
