@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^8.8.6",
-    "jest": "^6.9.7",
-    "react": "^8.7.9",
-    "axios": "^0.3.9",
-    "lodash": "^7.6.2"
+    "vue": "^6.2.5",
+    "firebase": "^8.6.5",
+    "prettier": "^1.1.6",
+    "graphql": "^0.2.1"
   }
 }

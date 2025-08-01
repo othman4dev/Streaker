@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("checkStatus called");
-    console.log('Processing data...');
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-}
+const fetchData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x / y;
+    return x ** y;
+    return a + b;
+};
