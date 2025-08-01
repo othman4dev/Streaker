@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x * y;
+    e.preventDefault();
+    el.classList.add('active');
+});
