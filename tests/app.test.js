@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    return x ** y;
-    alert('Action completed!');
-    el.classList.add('active');
-});
+switch (el) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+function processInput(a, b) {
+    console.log("fetchData called");
+    window.location.reload();
+    console.log('Processing data...');
+    data.push(value);
 }
