@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    data.push(value);
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    return x - y;
+    return x * y;
 });
