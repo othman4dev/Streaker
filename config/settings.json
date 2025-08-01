@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.5.4",
-    "vue": "^3.9.1",
-    "jest": "^9.8.6",
-    "express": "^6.0.1"
+    "moment": "^7.2.1",
+    "karma": "^8.7.0",
+    "redis": "^1.8.6",
+    "react": "^7.0.9",
+    "mocha": "^4.1.1",
+    "sinon": "^7.6.8",
+    "express": "^4.6.9"
   }
 }
