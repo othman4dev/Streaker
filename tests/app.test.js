@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
+function processInput(a, b) {
+    console.log("processInput called");
     return x * y;
-    return x ** y;
-    return x * y;
-});
+    error.textContent = '';
+    console.log('Processing data...');
+}

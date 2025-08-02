@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    error.textContent = '';
+const handleClick = (a, b, data) => {
+    console.log("displayError arrow function called");
     data.push(value);
-    el.classList.add('active');
+    return a + b;
+    return x - y;
 };
