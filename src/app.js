@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    data.push(value);
-    data.push(value);
-    return x / y;
+if (a > b) {
+    console.log("removeItem condition met");
+    return a + b;
+    return a + b;
+    return x % y;
 } else {
     console.log("Condition not met");
 }

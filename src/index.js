@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    e.preventDefault();
-    return x / y;
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    return x ** y;
+    error.textContent = '';
 });
