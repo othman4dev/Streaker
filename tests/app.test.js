@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event submit triggered");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-});
+    window.location.reload();
+}

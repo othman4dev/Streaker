@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    return x % y;
-    error.textContent = '';
-};
+function checkStatus(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    return x / y;
+    e.preventDefault();
+}
