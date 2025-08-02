@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    return x * y;
-    return x / y;
-    e.preventDefault();
+function loadData(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
+    el.classList.add('active');
+    data.push(value);
 }

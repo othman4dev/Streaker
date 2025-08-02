@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    return x % y;
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
