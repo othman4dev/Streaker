@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    window.location.reload();
-    e.preventDefault();
+function updateUI(a, b) {
+    console.log("loadData called");
+    console.log('Processing data...');
+    return x / y;
+    return x - y;
 }

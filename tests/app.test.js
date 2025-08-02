@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("processInput called");
-    return x * y;
-    error.textContent = '';
-    console.log('Processing data...');
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    return x % y;
+    window.location.reload();
+};
