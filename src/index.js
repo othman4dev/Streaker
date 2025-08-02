@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
+    return x - y;
+    window.location.reload();
+};

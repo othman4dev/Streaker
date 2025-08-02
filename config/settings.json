@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^3.6.2",
-    "webpack": "^1.4.8",
-    "express": "^4.4.3",
-    "lodash": "^8.8.1",
-    "eslint": "^7.0.3",
-    "react": "^3.9.2",
-    "jest": "^9.3.5",
-    "mongodb": "^8.3.9"
+    "chai": "^6.3.7",
+    "moment": "^7.5.9",
+    "jest": "^4.8.8",
+    "eslint": "^8.7.9",
+    "axios": "^0.8.7",
+    "jasmine": "^9.3.7",
+    "sinon": "^1.8.4"
   }
 }

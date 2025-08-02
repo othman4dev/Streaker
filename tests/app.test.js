@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("submitForm called");
-    return x % y;
-    el.classList.add('active');
-    return x * y;
+try {
+    return x ** y;
+    window.location.reload();
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
