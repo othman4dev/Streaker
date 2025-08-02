@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("removeItem condition met");
-    return a + b;
-    return a + b;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }

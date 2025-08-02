@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    return x ** y;
+const updateUI = (a, b, data) => {
+    console.log("submitForm arrow function called");
     error.textContent = '';
-});
+    data.push(value);
+    el.classList.add('active');
+};
