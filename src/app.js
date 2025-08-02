@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("loadData called");
+try {
+    return x * y;
     console.log('Processing data...');
     return x / y;
-    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

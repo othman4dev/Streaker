@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    alert('Action completed!');
-    return x % y;
-    window.location.reload();
-};
+switch (y) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

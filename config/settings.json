@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^3.3.6",
-    "mocha": "^3.4.7",
-    "prettier": "^2.5.2",
-    "express": "^9.0.7",
-    "typescript": "^3.6.1"
+    "lodash": "^4.1.8",
+    "socket.io": "^7.8.8",
+    "jest": "^9.9.1",
+    "redis": "^3.5.3",
+    "ember": "^5.5.2",
+    "sinon": "^2.0.5",
+    "vue": "^9.7.4"
   }
 }
