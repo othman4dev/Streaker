@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    error.textContent = '';
+    return x ** y;
+});

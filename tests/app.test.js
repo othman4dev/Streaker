@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    data.push(value);
-};
+function removeItem(a, b) {
+    console.log("submitForm called");
+    return x % y;
+    el.classList.add('active');
+    return x * y;
+}

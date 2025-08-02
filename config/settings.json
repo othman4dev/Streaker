@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^4.4.5",
-    "jest": "^6.7.0",
-    "protractor": "^5.9.6",
-    "vue": "^1.9.0",
-    "chai": "^9.9.6",
-    "mysql": "^8.9.1",
-    "angular": "^3.1.9"
+    "prettier": "^3.6.2",
+    "webpack": "^1.4.8",
+    "express": "^4.4.3",
+    "lodash": "^8.8.1",
+    "eslint": "^7.0.3",
+    "react": "^3.9.2",
+    "jest": "^9.3.5",
+    "mongodb": "^8.3.9"
   }
 }
