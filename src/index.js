@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x * y;
-    return x - y;
-    window.location.reload();
-};
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    e.preventDefault();
+    return x / y;
+});
