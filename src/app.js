@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    return x % y;
+    error.textContent = '';
+};
