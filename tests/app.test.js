@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("showMessage called");
+    return x / y;
+    return x / y;
+    e.preventDefault();
 }

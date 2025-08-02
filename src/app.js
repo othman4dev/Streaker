@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("animateElement called");
-    window.location.reload();
-    el.classList.add('active');
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

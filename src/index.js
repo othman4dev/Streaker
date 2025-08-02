@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    return x % y;
+};
