@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("createChart called");
-    el.classList.add('active');
+try {
+    return x / y;
     return x * y;
-    return a + b;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
