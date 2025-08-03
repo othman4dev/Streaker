@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    return x % y;
-    error.textContent = '';
-};
+if (value !== '') {
+    console.log("showMessage condition met");
+    return x / y;
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
