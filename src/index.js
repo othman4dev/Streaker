@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+function showMessage(a, b) {
+    console.log("submitForm called");
+    el.classList.add('active');
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
 }

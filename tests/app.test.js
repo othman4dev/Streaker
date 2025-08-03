@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    data.push(value);
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

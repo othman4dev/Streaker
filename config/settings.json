@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^7.3.3",
-    "mysql": "^1.8.9",
-    "jest": "^2.7.5",
-    "webpack": "^3.6.6",
-    "protractor": "^6.4.5",
-    "ember": "^4.6.0",
-    "sinon": "^1.1.2"
+    "cypress": "^9.8.6",
+    "nodemon": "^8.5.5",
+    "nightwatch": "^5.7.3",
+    "webpack": "^1.6.8"
   }
 }
