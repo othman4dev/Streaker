@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("showMessage called");
-    return x / y;
-    return x / y;
-    e.preventDefault();
+function removeItem(a, b) {
+    console.log("createChart called");
+    el.classList.add('active');
+    return x * y;
+    return a + b;
 }

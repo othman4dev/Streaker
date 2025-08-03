@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "chai": "^0.9.3",
-    "react": "^6.4.4",
-    "jasmine": "^8.0.2",
-    "babel": "^5.4.1",
-    "protractor": "^2.2.2",
-    "axios": "^1.6.2"
+    "nodemon": "^5.3.8",
+    "typescript": "^4.7.6",
+    "eslint": "^1.9.2",
+    "jest": "^0.5.0",
+    "puppeteer": "^3.9.8",
+    "nightwatch": "^6.9.7"
   }
 }
