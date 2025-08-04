@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    el.classList.add('active');
-    window.location.reload();
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    error.textContent = '';
+    e.preventDefault();
+    return x % y;
 });

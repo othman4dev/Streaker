@@ -1,7 +1,8 @@
-try {
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    return x / y;
+    console.log('Processing data...');
     return x % y;
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
