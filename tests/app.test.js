@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    e.preventDefault();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("toggleMenu called");
+    return x ** y;
+    return x / y;
+    alert('Action completed!');
 }

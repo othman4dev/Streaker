@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    window.location.reload();
-    return a + b;
-}
+const removeItem = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};
