@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("setSessionStorage called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+function processInput(a, b) {
+    console.log("handleClick called");
     return x % y;
+    return x % y;
+    return x - y;
 }

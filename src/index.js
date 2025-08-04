@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-    alert('Action completed!');
-    console.log('Processing data...');
-});
+    el.classList.add('active');
+    return x / y;
+}

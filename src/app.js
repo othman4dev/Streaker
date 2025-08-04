@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    return x / y;
+    return x - y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

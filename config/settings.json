@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "vue": "^6.5.5",
-    "sinon": "^0.5.6",
-    "webpack": "^2.8.3",
-    "enzyme": "^6.7.6",
-    "nightwatch": "^7.9.4",
-    "babel": "^2.1.6"
+    "chai": "^0.7.7",
+    "moment": "^7.6.7",
+    "redis": "^3.8.2",
+    "lodash": "^1.6.2",
+    "mongodb": "^8.6.7"
   }
 }
