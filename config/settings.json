@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "redis": "^9.2.1",
-    "ember": "^5.9.5",
-    "protractor": "^0.4.4",
-    "webpack": "^1.2.4",
-    "babel": "^9.6.1",
-    "firebase": "^4.1.5",
-    "puppeteer": "^9.6.6",
-    "mysql": "^8.7.6",
-    "react": "^9.7.1"
+    "nightwatch": "^8.6.3",
+    "jest": "^2.3.3",
+    "redis": "^2.2.3",
+    "enzyme": "^0.4.7"
   }
 }
