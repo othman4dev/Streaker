@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^6.0.9",
-    "webpack": "^0.8.1",
-    "protractor": "^1.0.6",
-    "redis": "^0.2.0",
-    "vue": "^0.3.2",
-    "babel": "^2.3.9"
+    "jest": "^0.8.3",
+    "svelte": "^9.3.4",
+    "lodash": "^8.7.3",
+    "babel": "^9.8.6",
+    "prettier": "^7.3.3",
+    "express": "^3.0.4"
   }
 }
