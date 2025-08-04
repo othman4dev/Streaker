@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
-    e.preventDefault();
-    return x % y;
-});
+switch (b) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
