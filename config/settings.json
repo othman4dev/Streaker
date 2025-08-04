@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "redis": "^4.3.5",
-    "puppeteer": "^5.5.9",
-    "babel": "^6.0.8",
-    "aws-sdk": "^8.2.0",
-    "ember": "^3.3.8",
-    "react": "^8.8.9",
-    "enzyme": "^2.2.4"
+    "puppeteer": "^8.7.7",
+    "babel": "^8.6.2",
+    "mongodb": "^6.6.2",
+    "jest": "^1.8.6",
+    "svelte": "^2.0.4",
+    "socket.io": "^1.4.2",
+    "next.js": "^3.6.7",
+    "typescript": "^0.3.3"
   }
 }

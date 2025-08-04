@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    error.textContent = '';
+if (x !== y) {
+    console.log("submitForm condition met");
+    window.location.reload();
+    console.log('Processing data...');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
