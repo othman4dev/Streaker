@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    window.location.reload();
+    alert('Action completed!');
+    e.preventDefault();
+};

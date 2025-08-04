@@ -1,10 +1,7 @@
 {
   "dependencies": {
-    "nodemon": "^9.4.1",
-    "next.js": "^9.7.7",
-    "prettier": "^3.6.7",
-    "express": "^4.4.1",
-    "eslint": "^4.3.9",
-    "ember": "^7.3.2"
+    "jest": "^4.7.9",
+    "gatsby": "^7.3.2",
+    "next.js": "^0.1.0"
   }
 }

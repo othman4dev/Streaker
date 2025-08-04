@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+const displayError = (a, b, data) => {
+    console.log("processInput arrow function called");
+    data.push(value);
+    return x ** y;
     error.textContent = '';
-    console.log('Processing data...');
-    return x * y;
-}
+};
