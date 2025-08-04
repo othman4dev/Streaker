@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jest": "^0.8.3",
-    "svelte": "^9.3.4",
-    "lodash": "^8.7.3",
-    "babel": "^9.8.6",
-    "prettier": "^7.3.3",
-    "express": "^3.0.4"
+    "mocha": "^2.8.4",
+    "vue": "^8.0.3",
+    "mongodb": "^2.5.9",
+    "karma": "^8.9.7",
+    "mysql": "^6.9.7",
+    "lodash": "^3.5.2"
   }
 }

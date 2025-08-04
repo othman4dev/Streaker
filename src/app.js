@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};
