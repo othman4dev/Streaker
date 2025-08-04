@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    console.log('Processing data...');
-    e.preventDefault();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

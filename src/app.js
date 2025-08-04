@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    error.textContent = '';
-    window.location.reload();
-    return x - y;
-};
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+});
