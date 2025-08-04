@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^6.8.5",
-    "firebase": "^1.5.0",
-    "axios": "^8.9.9",
-    "prettier": "^0.0.6",
-    "graphql": "^4.1.2",
-    "jasmine": "^9.7.2",
-    "react": "^0.9.4"
+    "vue": "^6.5.5",
+    "sinon": "^0.5.6",
+    "webpack": "^2.8.3",
+    "enzyme": "^6.7.6",
+    "nightwatch": "^7.9.4",
+    "babel": "^2.1.6"
   }
 }
