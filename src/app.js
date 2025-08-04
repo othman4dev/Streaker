@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+const displayError = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    return x - y;
+};

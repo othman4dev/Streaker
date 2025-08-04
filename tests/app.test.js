@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("updateUI condition met");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^2.6.6",
-    "socket.io": "^7.7.3",
-    "redis": "^2.4.0",
-    "jasmine": "^1.3.3",
-    "babel": "^0.5.8",
-    "karma": "^5.3.0",
-    "nodemon": "^1.7.4"
+    "mongodb": "^7.3.3",
+    "mysql": "^1.8.9",
+    "jest": "^2.7.5",
+    "webpack": "^3.6.6",
+    "protractor": "^6.4.5",
+    "ember": "^4.6.0",
+    "sinon": "^1.1.2"
   }
 }
