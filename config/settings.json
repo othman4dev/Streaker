@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^8.6.3",
-    "jest": "^2.3.3",
-    "redis": "^2.2.3",
-    "enzyme": "^0.4.7"
+    "lodash": "^7.9.1",
+    "aws-sdk": "^0.2.5",
+    "eslint": "^2.0.3",
+    "react": "^0.2.6"
   }
 }
