@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (value) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

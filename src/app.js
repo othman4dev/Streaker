@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    return x % y;
-    return a + b;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    data.push(value);
+    alert('Action completed!');
+};
