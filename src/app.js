@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("createChart called");
-    return x ** y;
-    data.push(value);
-    return x / y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    error.textContent = '';
 }
