@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("processInput arrow function called");
-    data.push(value);
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    console.log('Processing data...');
+    e.preventDefault();
     error.textContent = '';
-};
+} else {
+    console.log("Condition not met");
+}

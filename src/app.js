@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setCookie arrow function called");
+const checkStatus = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    error.textContent = '';
     window.location.reload();
-    alert('Action completed!');
-    e.preventDefault();
+    return x - y;
 };

@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.7.9",
-    "gatsby": "^7.3.2",
-    "next.js": "^0.1.0"
+    "mysql": "^7.0.1",
+    "ember": "^6.1.7",
+    "aws-sdk": "^7.3.8",
+    "protractor": "^5.1.5",
+    "svelte": "^4.3.0"
   }
 }

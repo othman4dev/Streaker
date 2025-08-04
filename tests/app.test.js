@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("loadData arrow function called");
-    data.push(value);
-    data.push(value);
-    data.push(value);
-};
+try {
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
