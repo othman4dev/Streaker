@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    data.push(value);
-    data.push(value);
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
