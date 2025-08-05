@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("submitForm condition met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

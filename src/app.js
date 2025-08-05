@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x / y;
+    console.log('Processing data...');
 }

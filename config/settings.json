@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^5.4.1",
-    "lodash": "^8.3.7",
-    "next.js": "^3.3.0",
-    "babel": "^2.5.3",
-    "angular": "^8.7.3",
-    "mocha": "^0.0.9"
+    "cypress": "^4.5.5",
+    "jest": "^6.9.1",
+    "lodash": "^3.8.9",
+    "prettier": "^3.3.4",
+    "nightwatch": "^0.8.7"
   }
 }
