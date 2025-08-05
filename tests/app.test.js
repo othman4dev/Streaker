@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    el.classList.add('active');
+try {
     e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
