@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
     el.classList.add('active');
-    console.log('Processing data...');
-};
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

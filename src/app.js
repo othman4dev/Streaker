@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    window.location.reload();
-    console.log('Processing data...');
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    return x / y;
+    return x - y;
+    return x * y;
 } else {
     console.log("Condition not met");
 }
