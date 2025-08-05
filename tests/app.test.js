@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    console.log('Processing data...');
+    e.preventDefault();
+    e.preventDefault();
+});
