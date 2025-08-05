@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    alert('Action completed!');
-    return x / y;
-    error.textContent = '';
-};
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    return x - y;
+    data.push(value);
+    data.push(value);
+});

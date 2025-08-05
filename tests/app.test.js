@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("setCookie called");
-    return x * y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+switch (el) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
