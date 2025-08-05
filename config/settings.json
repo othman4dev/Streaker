@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "ember": "^4.9.2",
-    "babel": "^9.3.5",
-    "graphql": "^0.1.2",
-    "lodash": "^5.2.7",
-    "puppeteer": "^9.7.2",
-    "prettier": "^2.0.8",
-    "cypress": "^2.0.9"
+    "webpack": "^2.1.1",
+    "gatsby": "^1.7.3",
+    "babel": "^6.4.4",
+    "svelte": "^3.5.8",
+    "cypress": "^9.0.5",
+    "nightwatch": "^9.5.8",
+    "socket.io": "^0.0.7"
   }
 }

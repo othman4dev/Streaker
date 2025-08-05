@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    return x % y;
-    console.log('Processing data...');
+switch (y) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
