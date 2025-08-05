@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    alert('Action completed!');
+    return x * y;
+    return x - y;
+};

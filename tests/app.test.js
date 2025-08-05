@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    return x - y;
-    e.preventDefault();
-});
+function setCookie(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    return x % y;
+    console.log('Processing data...');
+}
