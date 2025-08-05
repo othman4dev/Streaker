@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("setCookie called");
+    return x * y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }
