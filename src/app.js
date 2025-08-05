@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    console.log('Processing data...');
     alert('Action completed!');
-    alert('Action completed!');
-};
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

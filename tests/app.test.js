@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event click triggered");
+try {
     console.log('Processing data...');
-    e.preventDefault();
-    e.preventDefault();
-});
+    return a + b;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

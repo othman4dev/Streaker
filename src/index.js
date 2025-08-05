@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    console.log('Processing data...');
-    return x / y;
-}
+const formatDate = (a, b, data) => {
+    console.log("createChart arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+};
