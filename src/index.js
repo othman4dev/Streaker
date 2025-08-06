@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("toggleMenu called");
-    alert('Action completed!');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x - y;
+    data.push(value);
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

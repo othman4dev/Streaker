@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event click triggered");
+    return x / y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+});
