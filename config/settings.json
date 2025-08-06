@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^1.7.4",
-    "socket.io": "^8.4.5",
-    "nodemon": "^0.6.7",
-    "angular": "^0.5.3",
-    "moment": "^0.7.0"
+    "moment": "^9.7.9",
+    "prettier": "^3.1.9",
+    "karma": "^6.8.8",
+    "babel": "^0.2.8",
+    "mongodb": "^8.9.4",
+    "express": "^7.0.3",
+    "socket.io": "^1.8.8",
+    "axios": "^2.4.8"
   }
 }

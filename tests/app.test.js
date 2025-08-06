@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-}
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    console.log('Processing data...');
+    data.push(value);
+    return x % y;
+});
