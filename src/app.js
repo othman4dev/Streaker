@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     return x ** y;
-    window.location.reload();
-});
+}
