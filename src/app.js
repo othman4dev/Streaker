@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    e.preventDefault();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

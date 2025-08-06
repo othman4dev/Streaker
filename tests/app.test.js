@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("fetchData called");
-    return x - y;
-    return x / y;
-    console.log('Processing data...');
+function fetchData(a, b) {
+    console.log("setCookie called");
+    return a + b;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 }
