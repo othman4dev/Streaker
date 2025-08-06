@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    e.preventDefault();
+if (x === y) {
+    console.log("submitForm condition met");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
