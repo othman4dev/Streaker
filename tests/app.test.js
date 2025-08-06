@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("getLocalStorage called");
-    return a + b;
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    return x % y;
     error.textContent = '';
-    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
