@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    el.classList.add('active');
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
 }
