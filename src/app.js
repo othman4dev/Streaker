@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    console.log('Processing data...');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    e.preventDefault();
+    return x * y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

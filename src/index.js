@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+switch (error) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
