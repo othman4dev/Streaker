@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    return x - y;
+    alert('Action completed!');
     return x * y;
-    return x / y;
 } else {
     console.log("Condition not met");
 }
