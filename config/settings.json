@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^8.5.1",
-    "chai": "^1.1.7",
-    "nodemon": "^8.8.1",
-    "mongodb": "^2.3.5",
-    "aws-sdk": "^9.4.3",
-    "moment": "^6.4.4",
-    "axios": "^5.3.2"
+    "gatsby": "^7.4.0",
+    "jest": "^1.8.2",
+    "vue": "^4.9.5",
+    "mongodb": "^3.3.3",
+    "cypress": "^9.7.4",
+    "jasmine": "^7.7.7",
+    "webpack": "^2.0.2",
+    "react": "^2.2.6"
   }
 }

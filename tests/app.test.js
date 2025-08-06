@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
+    return x * y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
