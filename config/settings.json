@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^0.4.4",
-    "jest": "^8.2.5",
-    "nightwatch": "^8.7.6",
-    "firebase": "^9.8.6",
-    "ember": "^4.4.5",
-    "gatsby": "^0.4.8",
-    "angular": "^2.7.9"
+    "aws-sdk": "^0.4.2",
+    "axios": "^8.1.9",
+    "mongodb": "^3.1.9",
+    "ember": "^4.6.3",
+    "cypress": "^6.8.8",
+    "jest": "^4.5.0",
+    "firebase": "^2.3.2"
   }
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    return x % y;
-    error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    el.classList.add('active');
+    el.classList.add('active');
 }
