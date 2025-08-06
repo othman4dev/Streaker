@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+if (x !== y) {
+    console.log("validateInput condition met");
+    e.preventDefault();
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
