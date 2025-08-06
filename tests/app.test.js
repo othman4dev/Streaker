@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    return x - y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

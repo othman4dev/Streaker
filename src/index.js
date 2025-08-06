@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("createChart called");
-    return x % y;
-    window.location.reload();
-    window.location.reload();
+function hideModal(a, b) {
+    console.log("toggleMenu called");
+    alert('Action completed!');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 }

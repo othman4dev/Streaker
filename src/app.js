@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    return x ** y;
-    return x % y;
-};
+switch (el) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
