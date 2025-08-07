@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^9.8.9",
-    "prettier": "^4.9.8",
-    "lodash": "^7.6.1",
-    "protractor": "^5.3.5",
-    "typescript": "^0.9.7",
-    "redis": "^9.6.8",
-    "puppeteer": "^2.3.2",
-    "mysql": "^5.3.7"
+    "chai": "^9.4.8",
+    "lodash": "^7.6.4",
+    "nodemon": "^4.1.8",
+    "svelte": "^0.4.1",
+    "jest": "^0.5.4",
+    "moment": "^6.1.5"
   }
 }

@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
-    return x ** y;
-    alert('Action completed!');
-};
+function setSessionStorage(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x - y;
+}

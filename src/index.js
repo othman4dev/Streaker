@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("displayError called");
-    return x ** y;
-    e.preventDefault();
-    alert('Action completed!');
+switch (el) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
