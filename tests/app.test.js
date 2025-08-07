@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
-    data.push(value);
-    return x % y;
-});
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    e.preventDefault();
+}

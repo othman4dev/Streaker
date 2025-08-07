@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "moment": "^9.7.9",
-    "prettier": "^3.1.9",
-    "karma": "^6.8.8",
-    "babel": "^0.2.8",
-    "mongodb": "^8.9.4",
-    "express": "^7.0.3",
-    "socket.io": "^1.8.8",
-    "axios": "^2.4.8"
+    "gatsby": "^7.1.5",
+    "react": "^1.8.1",
+    "ember": "^0.3.7",
+    "jest": "^7.4.9",
+    "graphql": "^1.5.8"
   }
 }

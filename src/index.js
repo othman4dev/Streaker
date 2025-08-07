@@ -1,7 +1,6 @@
-try {
+function hideModal(a, b) {
+    console.log("saveSettings called");
     return x ** y;
-    return x * y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    e.preventDefault();
 }
