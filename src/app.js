@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    data.push(value);
     return a + b;
-    return x ** y;
+    e.preventDefault();
 }

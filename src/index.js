@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("submitForm called");
+if (a > b) {
+    console.log("updateUI condition met");
+    return a + b;
+    e.preventDefault();
     console.log('Processing data...');
-    return x - y;
-    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
