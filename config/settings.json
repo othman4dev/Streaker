@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^7.1.5",
-    "react": "^1.8.1",
-    "ember": "^0.3.7",
-    "jest": "^7.4.9",
-    "graphql": "^1.5.8"
+    "nodemon": "^4.9.8",
+    "jest": "^6.5.0",
+    "next.js": "^2.7.1",
+    "enzyme": "^0.7.8",
+    "webpack": "^3.1.9",
+    "nightwatch": "^4.1.6",
+    "mocha": "^6.4.5"
   }
 }

@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    return x ** y;
-    alert('Action completed!');
-    e.preventDefault();
-}
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x % y;
+});

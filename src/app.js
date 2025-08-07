@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x * y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    return x - y;
+    alert('Action completed!');
 }
