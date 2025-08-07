@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "vue": "^7.0.3",
-    "karma": "^9.4.7",
-    "socket.io": "^0.1.4",
-    "jest": "^3.1.7",
-    "angular": "^2.9.2",
-    "react": "^6.7.6",
-    "svelte": "^7.8.1",
-    "eslint": "^2.5.0",
-    "typescript": "^2.4.5"
+    "cypress": "^3.4.9",
+    "jest": "^4.3.8",
+    "nightwatch": "^3.0.2",
+    "eslint": "^6.1.8",
+    "moment": "^0.0.9",
+    "axios": "^4.2.1"
   }
 }

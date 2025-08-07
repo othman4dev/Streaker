@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
+const hideModal = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x % y;
+    error.textContent = '';
     return x - y;
-    return a + b;
-});
+};
