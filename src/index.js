@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return x - y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    error.textContent = '';
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

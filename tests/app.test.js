@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("animateElement called");
-    e.preventDefault();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    data.push(value);
+    data.push(value);
 }
