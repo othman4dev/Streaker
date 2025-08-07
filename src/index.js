@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    return a + b;
-    e.preventDefault();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    el.classList.add('active');
+    return x / y;
+};

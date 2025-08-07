@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
     data.push(value);
-}
+});
