@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x % y;
-});
+switch (value) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
