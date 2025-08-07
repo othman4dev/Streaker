@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});

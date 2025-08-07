@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
+function fetchData(a, b) {
+    console.log("animateElement called");
     e.preventDefault();
-    return x - y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }

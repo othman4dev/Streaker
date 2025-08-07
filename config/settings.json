@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "chai": "^9.4.8",
-    "lodash": "^7.6.4",
-    "nodemon": "^4.1.8",
-    "svelte": "^0.4.1",
-    "jest": "^0.5.4",
-    "moment": "^6.1.5"
+    "cypress": "^9.4.3",
+    "jest": "^5.0.2",
+    "babel": "^7.4.3",
+    "webpack": "^3.7.5",
+    "protractor": "^9.2.1",
+    "mysql": "^9.3.0"
   }
 }
