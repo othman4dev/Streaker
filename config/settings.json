@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^3.4.9",
-    "jest": "^4.3.8",
-    "nightwatch": "^3.0.2",
-    "eslint": "^6.1.8",
-    "moment": "^0.0.9",
-    "axios": "^4.2.1"
+    "mongodb": "^9.8.9",
+    "prettier": "^4.9.8",
+    "lodash": "^7.6.1",
+    "protractor": "^5.3.5",
+    "typescript": "^0.9.7",
+    "redis": "^9.6.8",
+    "puppeteer": "^2.3.2",
+    "mysql": "^5.3.7"
   }
 }
