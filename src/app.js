@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x * y;
-    return a + b;
-    alert('Action completed!');
-};
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    return x ** y;
+    window.location.reload();
+});

@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("processInput called");
+    return x % y;
+    e.preventDefault();
+    alert('Action completed!');
 }

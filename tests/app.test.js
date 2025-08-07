@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    window.location.reload();
+if (a > b) {
+    console.log("hideModal condition met");
+    return x * y;
+    return a + b;
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
