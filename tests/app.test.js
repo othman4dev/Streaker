@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x % y;
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("displayError arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};
