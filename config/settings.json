@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^5.6.8",
-    "typescript": "^0.9.6",
-    "enzyme": "^9.2.8",
-    "jasmine": "^7.1.7",
-    "sinon": "^3.3.2"
+    "redis": "^3.1.8",
+    "next.js": "^7.7.5",
+    "cypress": "^6.3.0",
+    "graphql": "^9.3.8",
+    "gatsby": "^9.5.7",
+    "mongodb": "^0.0.6",
+    "webpack": "^7.6.6",
+    "vue": "^1.8.5"
   }
 }

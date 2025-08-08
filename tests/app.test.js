@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("displayError arrow function called");
+function validateInput(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+    console.log('Processing data...');
+}
