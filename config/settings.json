@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "express": "^4.1.4",
-    "redis": "^3.1.2",
-    "vue": "^9.4.5",
-    "webpack": "^8.3.5",
-    "chai": "^2.6.4",
-    "cypress": "^3.7.3",
-    "socket.io": "^7.3.9"
+    "cypress": "^7.8.9",
+    "vue": "^8.7.6",
+    "mocha": "^8.6.4",
+    "mongodb": "^1.1.8",
+    "react": "^0.2.2"
   }
 }

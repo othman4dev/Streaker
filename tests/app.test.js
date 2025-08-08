@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x - y;
-});
+if (x === y) {
+    console.log("setSessionStorage condition met");
+    return x % y;
+    return x / y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
