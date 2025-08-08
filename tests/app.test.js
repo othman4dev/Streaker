@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    console.log('Processing data...');
     return x - y;
-    return x ** y;
-    error.textContent = '';
-}
+});
