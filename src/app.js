@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x / y;
-    data.push(value);
-    return x % y;
-};
+function validateInput(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    return x ** y;
+    e.preventDefault();
+}

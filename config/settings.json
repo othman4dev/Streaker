@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "redis": "^3.1.8",
-    "next.js": "^7.7.5",
-    "cypress": "^6.3.0",
-    "graphql": "^9.3.8",
-    "gatsby": "^9.5.7",
-    "mongodb": "^0.0.6",
-    "webpack": "^7.6.6",
-    "vue": "^1.8.5"
+    "webpack": "^1.8.0",
+    "babel": "^1.7.9",
+    "firebase": "^5.4.9",
+    "graphql": "^2.2.1",
+    "cypress": "^2.2.9",
+    "gatsby": "^7.4.7",
+    "vue": "^5.7.6"
   }
 }

@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("setSessionStorage called");
-    return x - y;
-    data.push(value);
-    console.log('Processing data...');
-}
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    e.preventDefault();
+    return x * y;
+    alert('Action completed!');
+};
