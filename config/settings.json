@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^1.8.0",
-    "babel": "^1.7.9",
-    "firebase": "^5.4.9",
-    "graphql": "^2.2.1",
-    "cypress": "^2.2.9",
-    "gatsby": "^7.4.7",
-    "vue": "^5.7.6"
+    "enzyme": "^3.8.1",
+    "vue": "^6.4.6",
+    "jest": "^7.4.1",
+    "gatsby": "^1.0.6",
+    "axios": "^7.0.7",
+    "redis": "^9.2.4",
+    "nodemon": "^4.5.8",
+    "puppeteer": "^5.1.0"
   }
 }

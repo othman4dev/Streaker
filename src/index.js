@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    return x / y;
-    return x ** y;
-    return x * y;
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    error.textContent = '';
+    data.push(value);
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

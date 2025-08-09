@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    return x ** y;
-    e.preventDefault();
-}
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    return x - y;
+    alert('Action completed!');
+    return a + b;
+});
