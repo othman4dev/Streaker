@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^3.8.1",
-    "vue": "^6.4.6",
-    "jest": "^7.4.1",
-    "gatsby": "^1.0.6",
-    "axios": "^7.0.7",
-    "redis": "^9.2.4",
-    "nodemon": "^4.5.8",
-    "puppeteer": "^5.1.0"
+    "enzyme": "^0.6.9",
+    "jest": "^0.5.3",
+    "jasmine": "^3.8.7",
+    "angular": "^7.9.3",
+    "mysql": "^5.3.8",
+    "prettier": "^6.2.2"
   }
 }

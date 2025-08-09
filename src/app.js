@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    alert('Action completed!');
-    return a + b;
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    console.log('Processing data...');
+    el.classList.add('active');
 });

@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("handleClick called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x / y;
-}
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x ** y;
+    error.textContent = '';
+    return x * y;
+};
