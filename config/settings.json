@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^2.7.2",
-    "jasmine": "^3.0.7",
-    "moment": "^6.5.1",
-    "ember": "^6.7.4",
-    "webpack": "^3.5.9",
-    "jest": "^4.4.2",
-    "lodash": "^9.3.9"
+    "socket.io": "^6.3.7",
+    "angular": "^4.2.0",
+    "mongodb": "^1.9.3",
+    "chai": "^9.7.9",
+    "enzyme": "^4.3.3",
+    "prettier": "^3.4.7",
+    "jest": "^0.2.8",
+    "webpack": "^7.3.5"
   }
 }

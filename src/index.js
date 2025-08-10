@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    return x - y;
-    el.classList.add('active');
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
