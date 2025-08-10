@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("handleClick called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+switch (x) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

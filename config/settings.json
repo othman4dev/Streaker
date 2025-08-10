@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^1.1.8",
-    "babel": "^1.5.1",
-    "sinon": "^5.5.1",
-    "ember": "^6.0.9",
-    "nightwatch": "^1.0.8",
-    "lodash": "^3.6.2",
-    "next.js": "^9.2.6"
+    "firebase": "^9.0.1",
+    "express": "^8.0.8",
+    "babel": "^7.9.8",
+    "enzyme": "^5.2.0",
+    "typescript": "^8.4.1",
+    "jest": "^2.7.3",
+    "svelte": "^0.3.5"
   }
 }
