@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
-    return x ** y;
-    el.classList.add('active');
-};
+try {
+    error.textContent = '';
+    alert('Action completed!');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

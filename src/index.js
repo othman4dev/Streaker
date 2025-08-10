@@ -1,8 +1,8 @@
 if (data.length > 0) {
-    console.log("getLocalStorage condition met");
+    console.log("showMessage condition met");
+    console.log('Processing data...');
+    return x ** y;
     data.push(value);
-    return x % y;
-    return x / y;
 } else {
     console.log("Condition not met");
 }
