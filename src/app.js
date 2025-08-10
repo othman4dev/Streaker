@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event input triggered");
-    return x - y;
+const submitForm = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x ** y;
-    console.log('Processing data...');
-});
+    return x ** y;
+    data.push(value);
+};
