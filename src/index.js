@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+if (value !== '') {
+    console.log("fetchData condition met");
+    e.preventDefault();
     return x ** y;
-    error.textContent = '';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
