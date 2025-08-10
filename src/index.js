@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    e.preventDefault();
-    return x ** y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    return x - y;
+    el.classList.add('active');
+});

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^5.1.8",
-    "redis": "^2.7.3",
-    "lodash": "^4.8.7",
-    "nightwatch": "^2.4.6",
-    "firebase": "^0.5.3",
-    "cypress": "^4.4.5",
-    "jasmine": "^8.5.2"
+    "gatsby": "^2.7.2",
+    "jasmine": "^3.0.7",
+    "moment": "^6.5.1",
+    "ember": "^6.7.4",
+    "webpack": "^3.5.9",
+    "jest": "^4.4.2",
+    "lodash": "^9.3.9"
   }
 }
