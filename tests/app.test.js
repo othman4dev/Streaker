@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x ** y;
-    error.textContent = '';
-    return x * y;
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x / y;
+}

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    return x * y;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x % y;
     console.log('Processing data...');
-    el.classList.add('active');
-});
+}

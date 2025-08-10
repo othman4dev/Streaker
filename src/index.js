@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("getLocalStorage called");
-    window.location.reload();
-    e.preventDefault();
-    return x % y;
+function saveSettings(a, b) {
+    console.log("handleClick called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }
