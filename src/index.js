@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    return x * y;
+    return x * y;
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
