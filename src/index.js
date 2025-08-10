@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
+function showMessage(a, b) {
+    console.log("saveSettings called");
+    console.log('Processing data...');
+    e.preventDefault();
     return x * y;
-    return x * y;
-    return x - y;
-} else {
-    console.log("Condition not met");
 }
