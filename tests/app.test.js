@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return a + b;
-    data.push(value);
-    return x / y;
-};
+function setSessionStorage(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    error.textContent = '';
+    error.textContent = '';
+}

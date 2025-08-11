@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    return a + b;
-    return x / y;
-    data.push(value);
-});
+if (a > b) {
+    console.log("formatDate condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
