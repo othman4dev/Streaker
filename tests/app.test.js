@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
+const formatDate = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
     return x / y;
-    e.preventDefault();
-}
+    return x - y;
+};
