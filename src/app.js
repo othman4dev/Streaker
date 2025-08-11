@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    data.push(value);
-    window.location.reload();
-    return x / y;
-};
+try {
+    e.preventDefault();
+    console.log('Processing data...');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

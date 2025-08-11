@@ -1,7 +1,6 @@
-try {
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event click triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+});
