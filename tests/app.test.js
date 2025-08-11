@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return a + b;
+    data.push(value);
+    return x / y;
+};

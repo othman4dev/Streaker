@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    data.push(value);
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    return a + b;
     return x / y;
-    error.textContent = '';
-};
+    data.push(value);
+});
