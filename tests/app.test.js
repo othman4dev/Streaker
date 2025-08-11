@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
+function fetchData(a, b) {
+    console.log("submitForm called");
+    alert('Action completed!');
+    return x / y;
     e.preventDefault();
-    console.log('Processing data...');
-    return x * y;
-};
+}
