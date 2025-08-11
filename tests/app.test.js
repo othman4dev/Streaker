@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("validateInput called");
+function submitForm(a, b) {
+    console.log("updateUI called");
     console.log('Processing data...');
-    el.classList.add('active');
-    el.classList.add('active');
+    return x / y;
+    return a + b;
 }
