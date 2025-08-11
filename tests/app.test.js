@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x * y;
-    return x / y;
-    return x - y;
-};
+function fetchData(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    el.classList.add('active');
+}

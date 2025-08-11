@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event click triggered");
+try {
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return x / y;
-    error.textContent = '';
-});
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

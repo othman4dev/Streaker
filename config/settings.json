@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^4.2.0",
-    "chai": "^4.7.3",
-    "prettier": "^6.7.8",
-    "karma": "^7.3.8",
-    "puppeteer": "^6.3.2",
-    "jest": "^9.6.9",
-    "nodemon": "^2.1.2",
-    "lodash": "^0.0.6",
-    "ember": "^0.5.3"
+    "babel": "^6.3.2",
+    "mocha": "^7.3.2",
+    "gatsby": "^2.1.0",
+    "express": "^5.4.7",
+    "svelte": "^6.4.3",
+    "puppeteer": "^8.8.9"
   }
 }
