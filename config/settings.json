@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "angular": "^2.7.2",
-    "express": "^0.0.1",
-    "ember": "^4.5.3",
-    "sinon": "^6.4.9",
-    "moment": "^1.1.5",
-    "nodemon": "^6.2.2",
-    "prettier": "^3.2.5",
-    "protractor": "^9.2.9",
-    "enzyme": "^6.2.2"
+    "sinon": "^6.3.3",
+    "axios": "^1.9.5",
+    "mysql": "^3.6.6",
+    "cypress": "^9.2.3",
+    "react": "^1.7.0",
+    "aws-sdk": "^4.0.4",
+    "protractor": "^7.9.1"
   }
 }
