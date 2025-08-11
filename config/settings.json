@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^6.3.3",
-    "axios": "^1.9.5",
-    "mysql": "^3.6.6",
-    "cypress": "^9.2.3",
-    "react": "^1.7.0",
-    "aws-sdk": "^4.0.4",
-    "protractor": "^7.9.1"
+    "next.js": "^1.1.6",
+    "axios": "^6.3.9",
+    "webpack": "^4.0.5",
+    "jest": "^0.1.2",
+    "vue": "^1.6.7",
+    "ember": "^6.8.3",
+    "redis": "^0.0.6",
+    "mocha": "^0.7.6"
   }
 }

@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    return x - y;
+    error.textContent = '';
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
