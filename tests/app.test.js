@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    error.textContent = '';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    alert('Action completed!');
+};
