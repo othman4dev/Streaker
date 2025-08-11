@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^5.3.8",
-    "angular": "^9.6.7",
-    "axios": "^9.8.3",
-    "nodemon": "^0.5.2",
-    "svelte": "^1.9.3",
-    "eslint": "^0.2.0",
-    "redis": "^4.2.2"
+    "lodash": "^2.2.5",
+    "jest": "^6.9.1",
+    "react": "^6.7.8",
+    "prettier": "^7.2.0",
+    "sinon": "^2.9.9",
+    "typescript": "^7.8.3",
+    "puppeteer": "^1.7.3",
+    "vue": "^2.6.4"
   }
 }
