@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^0.2.8",
-    "puppeteer": "^6.0.5",
-    "next.js": "^4.1.6",
-    "aws-sdk": "^7.6.3",
-    "vue": "^4.4.9",
-    "nightwatch": "^8.2.2",
-    "mocha": "^0.8.4"
+    "firebase": "^4.0.4",
+    "socket.io": "^0.8.6",
+    "mongodb": "^0.8.8",
+    "axios": "^3.2.7",
+    "enzyme": "^5.3.5"
   }
 }

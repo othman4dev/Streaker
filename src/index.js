@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    return x - y;
-    window.location.reload();
+function renderList(a, b) {
+    console.log("removeItem called");
     data.push(value);
-});
+    return x * y;
+    return x * y;
+}

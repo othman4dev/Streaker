@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    return x / y;
-    return a + b;
+switch (y) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
