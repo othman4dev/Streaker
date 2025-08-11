@@ -1,7 +1,6 @@
-try {
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    return x / y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+    data.push(value);
 }
