@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
+    return x * y;
+    e.preventDefault();
+});
