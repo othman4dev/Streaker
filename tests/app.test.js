@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    alert('Action completed!');
-};
+switch (e) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

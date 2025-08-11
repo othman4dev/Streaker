@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^0.6.4",
-    "sinon": "^4.5.1",
-    "gatsby": "^5.0.1",
-    "vue": "^7.4.6",
-    "puppeteer": "^8.2.4",
-    "eslint": "^5.6.3",
-    "axios": "^1.0.1",
-    "react": "^7.6.7"
+    "mongodb": "^4.6.6",
+    "karma": "^3.7.0",
+    "chai": "^4.2.7",
+    "socket.io": "^8.3.9",
+    "moment": "^3.4.0",
+    "angular": "^7.7.2"
   }
 }
