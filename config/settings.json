@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "firebase": "^4.0.4",
-    "socket.io": "^0.8.6",
-    "mongodb": "^0.8.8",
-    "axios": "^3.2.7",
-    "enzyme": "^5.3.5"
+    "angular": "^2.7.2",
+    "express": "^0.0.1",
+    "ember": "^4.5.3",
+    "sinon": "^6.4.9",
+    "moment": "^1.1.5",
+    "nodemon": "^6.2.2",
+    "prettier": "^3.2.5",
+    "protractor": "^9.2.9",
+    "enzyme": "^6.2.2"
   }
 }

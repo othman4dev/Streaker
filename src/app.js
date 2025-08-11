@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    error.textContent = '';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event load triggered");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x - y;
+});
