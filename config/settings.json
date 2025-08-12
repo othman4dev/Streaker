@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "express": "^4.0.2",
-    "sinon": "^7.5.1",
-    "ember": "^6.8.1",
-    "lodash": "^6.6.2",
-    "typescript": "^9.7.0",
-    "graphql": "^7.5.5",
-    "jest": "^4.8.6"
+    "puppeteer": "^3.6.6",
+    "jest": "^3.7.6",
+    "nodemon": "^2.8.3",
+    "axios": "^4.0.7",
+    "prettier": "^8.8.4",
+    "nightwatch": "^7.5.7",
+    "graphql": "^9.0.3",
+    "ember": "^1.5.9",
+    "react": "^6.0.8"
   }
 }

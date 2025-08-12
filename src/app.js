@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function handleClick(a, b) {
+    console.log("fetchData called");
     window.location.reload();
-    data.push(value);
-    console.log('Processing data...');
-};
+    el.classList.add('active');
+    error.textContent = '';
+}

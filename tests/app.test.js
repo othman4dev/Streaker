@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
+function animateElement(a, b) {
+    console.log("getLocalStorage called");
     return x ** y;
-    return x ** y;
-    return x * y;
+    return x / y;
+    window.location.reload();
 }

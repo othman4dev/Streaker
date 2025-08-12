@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
+const updateUI = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};
