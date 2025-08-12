@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x - y;
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    window.location.reload();
     data.push(value);
-}
+    console.log('Processing data...');
+};

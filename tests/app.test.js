@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
+function handleClick(a, b) {
+    console.log("showMessage called");
+    return x ** y;
+    return x ** y;
     return x * y;
-    return x / y;
 }
