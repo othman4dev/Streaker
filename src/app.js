@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
+const fetchData = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    data.push(value);
     window.location.reload();
-    el.classList.add('active');
-    error.textContent = '';
-}
+    return x / y;
+};

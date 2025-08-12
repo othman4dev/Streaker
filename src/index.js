@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x % y;
-    data.push(value);
-    return x ** y;
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
