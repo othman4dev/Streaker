@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    el.classList.add('active');
-    return x ** y;
-}
+const formatDate = (a, b, data) => {
+    console.log("createChart arrow function called");
+    console.log('Processing data...');
+    return x - y;
+    console.log('Processing data...');
+};

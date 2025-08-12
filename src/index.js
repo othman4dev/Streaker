@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("renderList called");
-    e.preventDefault();
-    window.location.reload();
-    return x * y;
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    el.classList.add('active');
+    alert('Action completed!');
+});

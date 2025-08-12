@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^7.5.5",
-    "typescript": "^0.9.9",
-    "babel": "^8.5.0",
-    "enzyme": "^2.0.7",
-    "mocha": "^0.4.8",
-    "jest": "^9.3.4"
+    "sinon": "^9.9.9",
+    "karma": "^6.3.1",
+    "redis": "^4.7.0",
+    "prettier": "^0.9.3",
+    "gatsby": "^6.9.6",
+    "babel": "^8.0.9",
+    "jest": "^6.5.9"
   }
 }
