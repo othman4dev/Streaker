@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    e.preventDefault();
+try {
     console.log('Processing data...');
-    return x * y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

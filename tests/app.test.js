@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("renderList called");
-    window.location.reload();
-    error.textContent = '';
-    error.textContent = '';
+switch (error) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
