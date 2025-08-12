@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    return x - y;
-    console.log('Processing data...');
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+}
