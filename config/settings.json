@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^4.0.3",
-    "moment": "^2.4.1",
-    "gatsby": "^0.3.6",
-    "express": "^2.1.4",
-    "ember": "^4.1.9",
-    "chai": "^4.5.9"
+    "gatsby": "^7.5.5",
+    "typescript": "^0.9.9",
+    "babel": "^8.5.0",
+    "enzyme": "^2.0.7",
+    "mocha": "^0.4.8",
+    "jest": "^9.3.4"
   }
 }

@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("handleClick called");
+    return a + b;
+    el.classList.add('active');
+    return x ** y;
 }

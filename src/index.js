@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("renderList called");
+    e.preventDefault();
+    window.location.reload();
+    return x * y;
 }
