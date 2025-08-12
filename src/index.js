@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    return x * y;
-    return x / y;
-}
+const removeItem = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    error.textContent = '';
+    return x - y;
+};
