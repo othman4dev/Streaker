@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jest": "^9.4.5",
-    "firebase": "^1.7.9",
-    "cypress": "^6.0.5",
-    "protractor": "^7.6.3",
-    "vue": "^8.5.6",
-    "aws-sdk": "^6.5.1",
-    "lodash": "^4.3.3",
-    "svelte": "^7.0.2"
+    "vue": "^8.4.5",
+    "typescript": "^3.9.8",
+    "mongodb": "^6.4.9",
+    "nodemon": "^3.1.5",
+    "lodash": "^7.8.8"
   }
 }

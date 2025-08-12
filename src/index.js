@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    window.location.reload();
     return x - y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }
