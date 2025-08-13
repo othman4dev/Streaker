@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("submitForm called");
-    return x % y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    window.location.reload();
+    return x ** y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

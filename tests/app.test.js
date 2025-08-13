@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
     console.log('Processing data...');
-    return x - y;
+    return x / y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
