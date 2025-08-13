@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^0.6.9",
-    "react": "^3.6.6",
-    "aws-sdk": "^0.4.1",
-    "karma": "^4.0.1",
-    "redis": "^3.7.1",
-    "mongodb": "^0.4.2",
-    "jasmine": "^2.7.4"
+    "moment": "^3.6.5",
+    "aws-sdk": "^7.4.3",
+    "prettier": "^5.9.3",
+    "redis": "^7.0.4",
+    "babel": "^8.0.2",
+    "socket.io": "^3.7.4"
   }
 }
