@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("setCookie called");
+    return x % y;
+    data.push(value);
+    window.location.reload();
 }

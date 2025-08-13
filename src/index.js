@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("checkStatus called");
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
     e.preventDefault();
-    return x ** y;
-    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

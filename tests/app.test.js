@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    return x % y;
-    return x * y;
-});
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return a + b;
+    return x / y;
+}
