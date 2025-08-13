@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "karma": "^1.2.3",
-    "vue": "^1.5.9",
-    "chai": "^1.6.8",
-    "puppeteer": "^7.6.2",
-    "mongodb": "^2.4.9"
+    "puppeteer": "^2.7.6",
+    "moment": "^3.9.1",
+    "vue": "^8.3.3",
+    "prettier": "^4.9.1",
+    "graphql": "^3.6.6"
   }
 }

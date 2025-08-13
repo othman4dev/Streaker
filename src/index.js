@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    console.log('Processing data...');
     window.location.reload();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

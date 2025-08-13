@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("setCookie called");
-    return x % y;
-    data.push(value);
-    window.location.reload();
+function updateUI(a, b) {
+    console.log("removeItem called");
+    alert('Action completed!');
+    return x * y;
+    console.log('Processing data...');
 }
