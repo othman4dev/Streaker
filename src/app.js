@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("displayError called");
+try {
+    return x / y;
     data.push(value);
-    return x % y;
-    window.location.reload();
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
