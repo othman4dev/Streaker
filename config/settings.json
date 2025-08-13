@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "puppeteer": "^2.7.6",
-    "moment": "^3.9.1",
-    "vue": "^8.3.3",
-    "prettier": "^4.9.1",
-    "graphql": "^3.6.6"
+    "babel": "^4.5.2",
+    "eslint": "^1.0.4",
+    "nightwatch": "^1.0.6",
+    "protractor": "^2.2.3"
   }
 }

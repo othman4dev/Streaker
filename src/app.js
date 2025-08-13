@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("removeItem called");
-    alert('Action completed!');
+const removeItem = (a, b, data) => {
+    console.log("renderList arrow function called");
     return x * y;
-    console.log('Processing data...');
-}
+    return x - y;
+    return a + b;
+};
