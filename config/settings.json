@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^4.5.5",
-    "sinon": "^0.8.5",
-    "graphql": "^0.8.8",
-    "svelte": "^0.6.4",
-    "babel": "^2.5.6"
+    "chai": "^4.0.4",
+    "express": "^9.0.7",
+    "socket.io": "^6.8.8",
+    "protractor": "^1.9.1",
+    "puppeteer": "^6.8.8"
   }
 }

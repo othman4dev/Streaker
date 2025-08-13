@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    console.log('Processing data...');
     return x - y;
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+});
