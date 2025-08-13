@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    error.textContent = '';
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
     e.preventDefault();
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+};
