@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^1.8.6",
-    "nightwatch": "^9.1.5",
-    "socket.io": "^1.9.8",
-    "axios": "^6.7.9",
-    "prettier": "^4.9.6",
-    "aws-sdk": "^1.4.8",
-    "karma": "^4.1.7",
-    "enzyme": "^1.6.6",
-    "jest": "^8.0.9"
+    "react": "^9.6.7",
+    "babel": "^6.6.4",
+    "mysql": "^4.9.6",
+    "lodash": "^4.3.4",
+    "prettier": "^3.7.1",
+    "typescript": "^2.0.4"
   }
 }

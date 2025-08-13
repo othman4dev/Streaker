@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    return x - y;
-};
+    window.location.reload();
+    return x / y;
+}
