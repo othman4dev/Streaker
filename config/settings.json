@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "redis": "^8.7.9",
-    "gatsby": "^3.5.2",
-    "angular": "^6.6.5",
-    "protractor": "^9.7.6",
-    "react": "^1.8.3",
-    "vue": "^3.3.1",
-    "mocha": "^8.9.8"
+    "axios": "^4.5.5",
+    "sinon": "^0.8.5",
+    "graphql": "^0.8.8",
+    "svelte": "^0.6.4",
+    "babel": "^2.5.6"
   }
 }
