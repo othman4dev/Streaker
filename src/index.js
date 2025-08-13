@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    return x - y;
-});
+switch (b) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
