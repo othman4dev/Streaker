@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+const showMessage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     error.textContent = '';
-    window.location.reload();
-    return x % y;
-}
+    alert('Action completed!');
+    return x - y;
+};

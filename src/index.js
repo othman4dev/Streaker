@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    console.log('Processing data...');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("displayError condition met");
+    error.textContent = '';
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

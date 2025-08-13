@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "vue": "^7.4.6",
-    "aws-sdk": "^5.6.4",
-    "webpack": "^9.8.8",
-    "nightwatch": "^2.2.3",
-    "mocha": "^9.9.2",
-    "mysql": "^9.4.1",
-    "gatsby": "^1.7.4"
+    "nightwatch": "^5.7.1",
+    "gatsby": "^8.1.0",
+    "nodemon": "^4.7.8",
+    "enzyme": "^9.6.8",
+    "next.js": "^8.7.0",
+    "chai": "^5.0.0"
   }
 }
