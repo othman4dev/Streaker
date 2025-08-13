@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    alert('Action completed!');
-    return a + b;
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    return x - y;
+    error.textContent = '';
 });
