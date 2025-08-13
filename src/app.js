@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("validateInput condition met");
-    error.textContent = '';
-    e.preventDefault();
+const setSessionStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    console.log('Processing data...');
+};
