@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^3.5.7",
-    "protractor": "^6.7.6",
-    "redis": "^7.3.4",
-    "vue": "^9.0.8",
-    "prettier": "^6.9.2"
+    "socket.io": "^0.3.3",
+    "jest": "^9.2.8",
+    "chai": "^2.7.7",
+    "mysql": "^0.3.0",
+    "mocha": "^3.9.3",
+    "ember": "^3.5.5",
+    "enzyme": "^7.4.3"
   }
 }

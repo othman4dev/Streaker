@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
-    e.preventDefault();
-    return x * y;
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return a + b;
+    alert('Action completed!');
+    return a + b;
+});
