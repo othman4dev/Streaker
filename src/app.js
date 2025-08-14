@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x ** y;
-    e.preventDefault();
-    data.push(value);
-};
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

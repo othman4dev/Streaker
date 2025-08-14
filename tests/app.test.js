@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
+const renderList = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     return x / y;
-    return x / y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+};
