@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    window.location.reload();
-    return x % y;
-    error.textContent = '';
-};
+switch (a) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

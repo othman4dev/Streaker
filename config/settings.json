@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^7.1.8",
-    "babel": "^2.0.5",
-    "sinon": "^2.1.9",
-    "redis": "^6.5.0",
-    "mongodb": "^8.3.4",
-    "mocha": "^3.8.8",
-    "typescript": "^8.3.1",
-    "next.js": "^1.6.5"
+    "prettier": "^3.0.5",
+    "puppeteer": "^4.8.4",
+    "jasmine": "^7.6.7",
+    "moment": "^3.6.4",
+    "mysql": "^6.4.7",
+    "chai": "^3.3.6"
   }
 }

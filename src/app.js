@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    alert('Action completed!');
-    return x / y;
+function updateUI(a, b) {
+    console.log("validateInput called");
+    el.classList.add('active');
+    return x * y;
+    return x - y;
 }
