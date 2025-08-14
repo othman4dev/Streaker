@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("setSessionStorage called");
-    console.log('Processing data...');
-    e.preventDefault();
-    error.textContent = '';
+switch (a) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

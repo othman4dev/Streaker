@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    alert('Action completed!');
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
     return x ** y;
+    return x % y;
+    return a + b;
 } else {
     console.log("Condition not met");
 }
