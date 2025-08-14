@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^6.4.1",
-    "protractor": "^7.5.8",
-    "sinon": "^3.7.7",
-    "chai": "^9.2.7",
-    "axios": "^9.6.3",
-    "jasmine": "^1.7.8",
-    "enzyme": "^7.3.5",
-    "mocha": "^8.6.1"
+    "moment": "^5.0.4",
+    "vue": "^8.1.1",
+    "eslint": "^7.3.2",
+    "mocha": "^3.8.2",
+    "angular": "^5.7.5",
+    "webpack": "^4.6.0"
   }
 }
