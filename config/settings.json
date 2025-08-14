@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^5.9.4",
-    "jest": "^4.7.9",
-    "axios": "^0.6.3",
-    "karma": "^7.0.9",
-    "webpack": "^6.6.4",
-    "next.js": "^0.6.1"
+    "cypress": "^3.5.7",
+    "protractor": "^6.7.6",
+    "redis": "^7.3.4",
+    "vue": "^9.0.8",
+    "prettier": "^6.9.2"
   }
 }

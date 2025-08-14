@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x ** y;
-    alert('Action completed!');
-    return x % y;
-};
+function removeItem(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
+    e.preventDefault();
+    return x * y;
+}
