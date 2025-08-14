@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x % y;
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     alert('Action completed!');
-    el.classList.add('active');
-};
+} else {
+    console.log("Condition not met");
+}
