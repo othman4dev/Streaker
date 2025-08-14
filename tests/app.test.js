@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x / y;
-};
+function displayError(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
+    e.preventDefault();
+    error.textContent = '';
+}
