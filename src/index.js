@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
-    e.preventDefault();
-    return x * y;
+const saveSettings = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x % y;
+    alert('Action completed!');
+    el.classList.add('active');
 };
