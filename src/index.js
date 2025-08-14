@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("handleClick called");
+    return x - y;
+    return x * y;
+    window.location.reload();
 }

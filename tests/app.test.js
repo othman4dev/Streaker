@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+switch (x) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
