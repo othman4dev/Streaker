@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
+const toggleMenu = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x ** y;
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+};
