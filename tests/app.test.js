@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    return a + b;
-    error.textContent = '';
-});
+function processInput(a, b) {
+    console.log("updateUI called");
+    return x ** y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+}

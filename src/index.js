@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return x - y;
+function checkStatus(a, b) {
+    console.log("removeItem called");
     window.location.reload();
-    alert('Action completed!');
-});
+    return x % y;
+    console.log('Processing data...');
+}
