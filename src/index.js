@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("removeItem called");
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
     window.location.reload();
     return x % y;
-    console.log('Processing data...');
-}
+    error.textContent = '';
+};

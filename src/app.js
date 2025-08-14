@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
-    console.log('Processing data...');
-    error.textContent = '';
+function hideModal(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
