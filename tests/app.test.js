@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
     return x / y;
-    e.preventDefault();
-};
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

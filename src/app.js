@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    alert('Action completed!');
-    window.location.reload();
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const updateUI = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x ** y;
+    e.preventDefault();
+    data.push(value);
+};

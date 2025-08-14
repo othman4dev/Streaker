@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event change triggered");
+const saveSettings = (a, b, data) => {
+    console.log("removeItem arrow function called");
     error.textContent = '';
-    return x - y;
-    error.textContent = '';
-});
+    console.log('Processing data...');
+    return x * y;
+};
