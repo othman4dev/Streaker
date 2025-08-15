@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^8.4.4",
-    "vue": "^4.4.0",
-    "enzyme": "^1.2.1",
-    "socket.io": "^3.9.9",
-    "sinon": "^8.9.3"
+    "moment": "^8.7.5",
+    "eslint": "^8.2.9",
+    "puppeteer": "^2.8.8",
+    "cypress": "^7.6.3",
+    "protractor": "^7.1.0"
   }
 }
