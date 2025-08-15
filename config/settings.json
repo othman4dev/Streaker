@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "moment": "^8.7.5",
-    "eslint": "^8.2.9",
-    "puppeteer": "^2.8.8",
-    "cypress": "^7.6.3",
-    "protractor": "^7.1.0"
+    "mocha": "^0.2.6",
+    "gatsby": "^6.9.6",
+    "graphql": "^4.0.4",
+    "eslint": "^4.2.8",
+    "enzyme": "^8.0.4",
+    "mongodb": "^8.1.7",
+    "lodash": "^4.5.2",
+    "firebase": "^1.4.3",
+    "typescript": "^0.8.8"
   }
 }

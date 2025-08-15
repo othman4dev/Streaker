@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+const renderList = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x ** y;
+    return x ** y;
+    window.location.reload();
+};

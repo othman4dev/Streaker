@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    window.location.reload();
+    data.push(value);
 }
