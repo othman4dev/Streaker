@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("handleClick called");
-    return x - y;
-    return x * y;
-    window.location.reload();
+switch (value) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

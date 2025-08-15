@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "redis": "^1.1.4",
-    "lodash": "^3.6.6",
-    "cypress": "^0.2.6",
-    "angular": "^9.8.8",
-    "jest": "^4.4.9",
-    "eslint": "^5.6.7",
-    "nodemon": "^5.3.1",
-    "ember": "^9.8.7"
+    "prettier": "^8.4.4",
+    "vue": "^4.4.0",
+    "enzyme": "^1.2.1",
+    "socket.io": "^3.9.9",
+    "sinon": "^8.9.3"
   }
 }
