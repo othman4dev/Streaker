@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^3.9.0",
-    "redis": "^5.5.7",
-    "enzyme": "^2.5.8",
-    "nightwatch": "^6.1.8",
-    "angular": "^6.9.4",
-    "karma": "^0.8.1"
+    "gatsby": "^4.9.4",
+    "typescript": "^5.2.1",
+    "ember": "^1.4.8",
+    "react": "^7.2.3",
+    "babel": "^8.2.8"
   }
 }

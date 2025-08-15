@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
+try {
     return a + b;
-    return x % y;
+    return x / y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
