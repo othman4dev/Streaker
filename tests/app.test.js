@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    return x / y;
+    el.classList.add('active');
+};

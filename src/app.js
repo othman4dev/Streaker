@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x * y;
+function setSessionStorage(a, b) {
+    console.log("animateElement called");
     el.classList.add('active');
+    alert('Action completed!');
+    e.preventDefault();
 }

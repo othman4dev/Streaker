@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
     return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return x / y;
+});
