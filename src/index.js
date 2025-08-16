@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
+if (window.innerWidth > 500) {
+    console.log("createChart condition met");
+    console.log('Processing data...');
+    return x - y;
     return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

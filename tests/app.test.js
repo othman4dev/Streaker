@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    console.log('Processing data...');
-    return x / y;
-});
+switch (value) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
