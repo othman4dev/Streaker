@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "express": "^8.4.7",
-    "babel": "^4.1.8",
-    "redis": "^5.4.7",
-    "nodemon": "^6.1.7",
-    "webpack": "^5.5.3",
-    "graphql": "^0.4.8",
-    "typescript": "^7.4.2"
+    "axios": "^9.1.0",
+    "angular": "^4.0.1",
+    "socket.io": "^0.5.9",
+    "ember": "^6.4.8",
+    "mongodb": "^3.3.8",
+    "lodash": "^8.7.6",
+    "sinon": "^5.0.3"
   }
 }

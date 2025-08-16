@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
-    e.preventDefault();
-    error.textContent = '';
-});
+try {
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
