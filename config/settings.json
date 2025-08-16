@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.8.4",
-    "express": "^1.8.4",
-    "angular": "^7.4.4",
-    "react": "^5.5.8",
-    "babel": "^3.7.2"
+    "mocha": "^3.7.4",
+    "react": "^2.6.5",
+    "nodemon": "^7.6.9",
+    "vue": "^3.0.7",
+    "babel": "^5.5.4",
+    "ember": "^3.6.1",
+    "chai": "^2.5.2",
+    "protractor": "^0.7.9"
   }
 }
