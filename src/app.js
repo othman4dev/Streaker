@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+function formatDate(a, b) {
+    console.log("createChart called");
+    error.textContent = '';
+    data.push(value);
+    error.textContent = '';
+}
