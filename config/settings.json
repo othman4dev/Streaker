@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "express": "^9.2.7",
-    "prettier": "^1.9.4",
-    "react": "^7.2.9",
-    "cypress": "^8.6.5",
-    "webpack": "^4.7.1",
-    "axios": "^6.9.3"
+    "express": "^8.4.7",
+    "babel": "^4.1.8",
+    "redis": "^5.4.7",
+    "nodemon": "^6.1.7",
+    "webpack": "^5.5.3",
+    "graphql": "^0.4.8",
+    "typescript": "^7.4.2"
   }
 }
