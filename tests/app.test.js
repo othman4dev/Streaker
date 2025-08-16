@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    return x / y;
+    return x * y;
+});

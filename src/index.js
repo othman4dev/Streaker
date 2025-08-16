@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    window.location.reload();
+    return x / y;
+};

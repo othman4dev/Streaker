@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("createChart arrow function called");
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    return x * y;
+    error.textContent = '';
     return x ** y;
-    return x / y;
-    console.log('Processing data...');
-};
+} else {
+    console.log("Condition not met");
+}
