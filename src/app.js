@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    return x * y;
+if (a > b) {
+    console.log("processInput condition met");
+    return a + b;
+    console.log('Processing data...');
     error.textContent = '';
-    return x ** y;
 } else {
     console.log("Condition not met");
 }

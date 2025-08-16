@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
+try {
     window.location.reload();
-    return x / y;
-};
+    return x ** y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
