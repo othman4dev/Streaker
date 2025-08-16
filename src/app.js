@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x ** y;
+    return x / y;
+    console.log('Processing data...');
+};

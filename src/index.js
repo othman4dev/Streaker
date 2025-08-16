@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
-    return x - y;
-    return x ** y;
-};
+if (x !== y) {
+    console.log("handleClick condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
