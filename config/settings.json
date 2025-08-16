@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^0.5.7",
-    "mongodb": "^3.3.6",
-    "mysql": "^6.5.9",
-    "vue": "^7.2.1",
-    "cypress": "^8.2.0"
+    "express": "^9.2.7",
+    "prettier": "^1.9.4",
+    "react": "^7.2.9",
+    "cypress": "^8.6.5",
+    "webpack": "^4.7.1",
+    "axios": "^6.9.3"
   }
 }

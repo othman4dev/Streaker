@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x ** y;
-    e.preventDefault();
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    return x / y;
     console.log('Processing data...');
-};
+    console.log('Processing data...');
+});
