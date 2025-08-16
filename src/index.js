@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
+if (x !== y) {
+    console.log("processInput condition met");
+    window.location.reload();
+    return x / y;
     data.push(value);
-    e.preventDefault();
-    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

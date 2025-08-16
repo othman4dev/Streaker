@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x - y;
-    return x ** y;
-});
+    return x * y;
+    alert('Action completed!');
+};

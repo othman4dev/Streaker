@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "axios": "^2.3.7",
-    "vue": "^8.7.0",
-    "gatsby": "^5.7.5",
-    "moment": "^8.2.1",
-    "svelte": "^9.7.3",
-    "chai": "^6.4.6"
+    "aws-sdk": "^5.8.4",
+    "express": "^1.8.4",
+    "angular": "^7.4.4",
+    "react": "^5.5.8",
+    "babel": "^3.7.2"
   }
 }
