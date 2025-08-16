@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^0.2.6",
-    "gatsby": "^6.9.6",
-    "graphql": "^4.0.4",
-    "eslint": "^4.2.8",
-    "enzyme": "^8.0.4",
-    "mongodb": "^8.1.7",
-    "lodash": "^4.5.2",
-    "firebase": "^1.4.3",
-    "typescript": "^0.8.8"
+    "nightwatch": "^5.2.9",
+    "chai": "^4.8.7",
+    "protractor": "^9.6.9",
+    "aws-sdk": "^0.2.0",
+    "lodash": "^7.4.3",
+    "karma": "^7.0.0"
   }
 }

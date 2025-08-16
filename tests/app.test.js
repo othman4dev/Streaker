@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
     window.location.reload();
-    data.push(value);
-}
+    return a + b;
+    return x * y;
+};
