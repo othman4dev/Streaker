@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    return x / y;
-    el.classList.add('active');
-};
+if (value !== '') {
+    console.log("removeItem condition met");
+    return x ** y;
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
