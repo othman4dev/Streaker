@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^0.2.9",
-    "nightwatch": "^3.5.3",
-    "mocha": "^5.9.1",
-    "jasmine": "^0.4.7",
-    "prettier": "^1.0.9",
-    "express": "^3.9.3",
-    "babel": "^1.8.0",
-    "chai": "^8.8.8"
+    "axios": "^2.3.7",
+    "vue": "^8.7.0",
+    "gatsby": "^5.7.5",
+    "moment": "^8.2.1",
+    "svelte": "^9.7.3",
+    "chai": "^6.4.6"
   }
 }

@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("renderList called");
-    e.preventDefault();
-    e.preventDefault();
-    return x * y;
+try {
+    return a + b;
+    return a + b;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
