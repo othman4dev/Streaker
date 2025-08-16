@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("displayError called");
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
+    return x - y;
+    return a + b;
     el.classList.add('active');
-    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

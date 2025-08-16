@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    console.log('Processing data...');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x % y;
+    e.preventDefault();
+    return x ** y;
+};

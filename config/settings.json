@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^6.1.6",
-    "graphql": "^8.3.4",
-    "moment": "^4.1.3",
-    "cypress": "^9.9.0",
-    "socket.io": "^3.7.7"
+    "webpack": "^3.9.0",
+    "redis": "^5.5.7",
+    "enzyme": "^2.5.8",
+    "nightwatch": "^6.1.8",
+    "angular": "^6.9.4",
+    "karma": "^0.8.1"
   }
 }

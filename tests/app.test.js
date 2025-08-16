@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    return x ** y;
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function handleClick(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    return a + b;
+    return x % y;
 }
