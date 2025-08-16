@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    data.push(value);
-    error.textContent = '';
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }

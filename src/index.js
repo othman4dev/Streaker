@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    console.log('Processing data...');
-    el.classList.add('active');
+switch (data) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    return x % y;
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("renderList called");
+    e.preventDefault();
+    e.preventDefault();
+    return x * y;
 }
