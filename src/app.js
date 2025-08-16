@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("showMessage called");
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
     console.log('Processing data...');
-    error.textContent = '';
-    console.log('Processing data...');
-}
+    el.classList.add('active');
+});
