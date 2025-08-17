@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    window.location.reload();
-});
+function loadData(a, b) {
+    console.log("checkStatus called");
+    data.push(value);
+    e.preventDefault();
+    return x - y;
+}

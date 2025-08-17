@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^3.0.8",
-    "jasmine": "^3.7.0",
-    "enzyme": "^8.8.9",
-    "react": "^5.0.3",
-    "babel": "^0.2.5",
-    "cypress": "^0.8.8",
-    "webpack": "^7.8.6",
-    "gatsby": "^6.6.7"
+    "puppeteer": "^0.3.5",
+    "babel": "^8.9.0",
+    "react": "^0.8.7",
+    "ember": "^8.1.6",
+    "cypress": "^2.5.8"
   }
 }
