@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("createChart arrow function called");
+if (x === y) {
+    console.log("removeItem condition met");
     return x * y;
-    return x * y;
-    console.log('Processing data...');
-};
+    e.preventDefault();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
