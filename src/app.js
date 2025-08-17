@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    return x * y;
-    e.preventDefault();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    window.location.reload();
+});
