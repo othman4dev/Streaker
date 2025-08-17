@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
+try {
+    el.classList.add('active');
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
