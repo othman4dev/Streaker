@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return x - y;
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    return x % y;
+    e.preventDefault();
+    return a + b;
+});

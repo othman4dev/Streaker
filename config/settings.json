@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "karma": "^7.4.1",
-    "redis": "^8.9.5",
-    "sinon": "^1.1.0",
-    "webpack": "^5.4.5",
-    "graphql": "^0.7.4",
-    "mysql": "^2.0.6",
-    "cypress": "^1.6.0",
-    "nodemon": "^8.2.4"
+    "gatsby": "^5.9.8",
+    "socket.io": "^5.5.0",
+    "aws-sdk": "^9.8.2",
+    "redis": "^8.7.1",
+    "react": "^6.6.0"
   }
 }

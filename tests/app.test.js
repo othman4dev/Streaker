@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    window.location.reload();
-    return x / y;
+function getLocalStorage(a, b) {
+    console.log("fetchData called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
     error.textContent = '';
-};
+}

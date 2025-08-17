@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    return a + b;
-    e.preventDefault();
-});
+const removeItem = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x / y;
+    window.location.reload();
+    window.location.reload();
+};
