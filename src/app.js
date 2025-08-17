@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
+function processInput(a, b) {
+    console.log("createChart called");
+    return x % y;
+    return x / y;
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
 }
