@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x * y;
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    return x % y;
+});
