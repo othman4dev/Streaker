@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("validateInput called");
+if (x === y) {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     alert('Action completed!');
-    return x % y;
-    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

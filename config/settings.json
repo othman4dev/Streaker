@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "express": "^1.9.6",
-    "protractor": "^2.8.1",
-    "socket.io": "^3.6.8",
-    "next.js": "^3.8.9",
-    "enzyme": "^5.1.0",
-    "cypress": "^3.1.4",
-    "nightwatch": "^2.8.9"
+    "mocha": "^6.1.1",
+    "protractor": "^4.9.1",
+    "next.js": "^9.4.0",
+    "nodemon": "^6.7.2",
+    "babel": "^9.1.2",
+    "gatsby": "^6.3.1",
+    "mysql": "^2.4.2",
+    "firebase": "^9.4.1"
   }
 }

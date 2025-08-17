@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
+const showMessage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
     alert('Action completed!');
-    return a + b;
-    return x / y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
