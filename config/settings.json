@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "chai": "^3.7.7",
-    "socket.io": "^0.9.2",
-    "express": "^4.8.0",
-    "puppeteer": "^6.4.4",
-    "webpack": "^0.6.0",
-    "gatsby": "^5.4.4"
+    "enzyme": "^1.1.2",
+    "chai": "^5.3.7",
+    "mocha": "^8.3.0",
+    "mongodb": "^3.2.4",
+    "react": "^8.5.9"
   }
 }
