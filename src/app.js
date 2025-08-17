@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
-    data.push(value);
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

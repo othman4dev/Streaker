@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
+if (x === y) {
+    console.log("handleClick condition met");
     return x / y;
-    return x - y;
-    error.textContent = '';
+    window.location.reload();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
