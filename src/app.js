@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("saveSettings called");
+    error.textContent = '';
+    data.push(value);
+    return x ** y;
 }

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jest": "^3.4.3",
-    "eslint": "^4.3.6",
-    "karma": "^6.7.5",
-    "aws-sdk": "^6.7.6",
-    "redis": "^1.7.4",
-    "ember": "^8.3.1",
-    "mocha": "^1.7.4",
-    "vue": "^3.9.0"
+    "webpack": "^5.2.5",
+    "puppeteer": "^1.9.2",
+    "aws-sdk": "^0.4.0",
+    "mysql": "^8.9.9",
+    "angular": "^2.5.9"
   }
 }
