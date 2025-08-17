@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return a + b;
+    e.preventDefault();
+});

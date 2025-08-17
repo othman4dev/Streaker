@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
+if (x === y) {
+    console.log("handleClick condition met");
     return x - y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
