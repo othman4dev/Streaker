@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function formatDate(a, b) {
+    console.log("processInput called");
+    data.push(value);
+    window.location.reload();
     return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
 }

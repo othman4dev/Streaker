@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
-    return x / y;
-    return x - y;
-};
+if (data.length > 0) {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

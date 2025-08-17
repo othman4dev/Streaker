@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    el.classList.add('active');
+    return x - y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
