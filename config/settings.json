@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^0.3.5",
-    "babel": "^8.9.0",
-    "react": "^0.8.7",
-    "ember": "^8.1.6",
-    "cypress": "^2.5.8"
+    "mysql": "^2.6.6",
+    "sinon": "^6.4.4",
+    "webpack": "^1.6.8",
+    "jest": "^7.6.0",
+    "firebase": "^8.4.5",
+    "socket.io": "^0.0.2"
   }
 }

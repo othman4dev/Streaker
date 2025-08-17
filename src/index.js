@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event focus triggered");
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+    return x % y;
+    return x % y;
 });

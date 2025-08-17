@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("checkStatus called");
-    data.push(value);
-    e.preventDefault();
-    return x - y;
+switch (y) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
