@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    return x % y;
-    return x % y;
-    return x % y;
-});
+if (value !== '') {
+    console.log("fetchData condition met");
+    error.textContent = '';
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

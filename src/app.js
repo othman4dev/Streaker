@@ -1,7 +1,8 @@
-switch (y) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    window.location.reload();
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
