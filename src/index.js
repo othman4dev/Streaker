@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    error.textContent = '';
-    console.log('Processing data...');
+function animateElement(a, b) {
+    console.log("handleClick called");
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return a + b;
+    return x / y;
 }

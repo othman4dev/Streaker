@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "express": "^8.7.8",
-    "typescript": "^3.0.9",
-    "socket.io": "^0.3.0",
-    "aws-sdk": "^0.4.2",
-    "jest": "^2.9.6",
-    "puppeteer": "^6.9.4"
+    "express": "^1.9.6",
+    "protractor": "^2.8.1",
+    "socket.io": "^3.6.8",
+    "next.js": "^3.8.9",
+    "enzyme": "^5.1.0",
+    "cypress": "^3.1.4",
+    "nightwatch": "^2.8.9"
   }
 }

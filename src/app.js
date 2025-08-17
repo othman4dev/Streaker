@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    window.location.reload();
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x ** y;
+    return x % y;
 }
