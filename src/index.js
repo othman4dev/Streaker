@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return x / y;
+function removeItem(a, b) {
+    console.log("hideModal called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
 }
