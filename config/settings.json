@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^3.7.4",
-    "react": "^2.6.5",
-    "nodemon": "^7.6.9",
-    "vue": "^3.0.7",
-    "babel": "^5.5.4",
-    "ember": "^3.6.1",
-    "chai": "^2.5.2",
-    "protractor": "^0.7.9"
+    "puppeteer": "^5.5.6",
+    "ember": "^2.3.7",
+    "gatsby": "^1.8.1",
+    "redis": "^2.6.4",
+    "cypress": "^2.6.1"
   }
 }

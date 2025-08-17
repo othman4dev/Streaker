@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x / y;
+function checkStatus(a, b) {
+    console.log("formatDate called");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    return x / y;
 }
