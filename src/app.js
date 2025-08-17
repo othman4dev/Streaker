@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    return a + b;
+    return x / y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^7.9.4",
-    "graphql": "^8.9.2",
-    "babel": "^3.8.3",
-    "nightwatch": "^3.6.3",
-    "jasmine": "^1.9.9",
-    "react": "^6.6.2",
-    "next.js": "^8.8.0",
-    "mocha": "^1.7.1",
-    "jest": "^0.5.1"
+    "gatsby": "^2.3.5",
+    "jest": "^9.6.9",
+    "enzyme": "^4.6.6",
+    "typescript": "^9.9.9",
+    "cypress": "^5.4.9",
+    "firebase": "^5.8.1",
+    "react": "^4.1.0",
+    "mocha": "^2.8.1"
   }
 }
