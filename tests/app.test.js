@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("removeItem condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

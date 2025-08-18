@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^0.4.1",
-    "prettier": "^1.7.3",
-    "enzyme": "^6.2.7",
-    "next.js": "^3.2.2",
-    "eslint": "^1.5.8"
+    "puppeteer": "^3.2.4",
+    "graphql": "^9.6.1",
+    "karma": "^8.6.5",
+    "mongodb": "^1.0.4",
+    "mysql": "^7.3.4"
   }
 }

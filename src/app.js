@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    window.location.reload();
-    alert('Action completed!');
-    return a + b;
-};
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+});

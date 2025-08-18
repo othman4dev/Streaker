@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    error.textContent = '';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
 }
