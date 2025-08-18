@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x % y;
-    return x / y;
-    window.location.reload();
+const displayError = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
+    error.textContent = '';
+    return a + b;
 };
