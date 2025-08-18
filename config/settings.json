@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "redis": "^0.3.4",
-    "babel": "^3.2.2",
-    "cypress": "^4.4.2",
-    "eslint": "^4.8.7",
-    "jest": "^1.7.3",
-    "nightwatch": "^1.7.6",
-    "nodemon": "^3.7.4"
+    "cypress": "^3.3.5",
+    "protractor": "^6.2.0",
+    "firebase": "^3.3.3",
+    "prettier": "^7.5.7",
+    "ember": "^6.1.6"
   }
 }

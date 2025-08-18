@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("hideModal condition met");
-    alert('Action completed!');
-    alert('Action completed!');
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x ** y;
+    error.textContent = '';
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+});

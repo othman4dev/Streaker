@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return x * y;
-    return a + b;
-});
+switch (el) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
