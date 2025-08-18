@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x % y;
+    return x / y;
+    window.location.reload();
+};

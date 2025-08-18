@@ -1,7 +1,8 @@
-switch (value) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("hideModal condition met");
+    return x - y;
+    e.preventDefault();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

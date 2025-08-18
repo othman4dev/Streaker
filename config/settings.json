@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^9.4.7",
-    "firebase": "^8.3.4",
-    "protractor": "^4.9.6",
-    "mysql": "^8.8.2",
-    "nightwatch": "^3.2.7",
-    "babel": "^0.1.1",
-    "next.js": "^6.6.8",
-    "moment": "^1.4.7"
+    "jest": "^3.3.4",
+    "typescript": "^7.7.6",
+    "karma": "^5.4.4",
+    "prettier": "^2.5.1"
   }
 }
