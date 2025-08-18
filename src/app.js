@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
-    error.textContent = '';
-    return a + b;
-};
+switch (e) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
