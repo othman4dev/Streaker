@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    return x % y;
-    console.log('Processing data...');
+try {
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

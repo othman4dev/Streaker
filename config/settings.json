@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "angular": "^0.6.1",
-    "redis": "^7.6.7",
-    "sinon": "^8.7.4",
-    "enzyme": "^3.3.4",
-    "react": "^8.4.9",
-    "jest": "^2.2.5",
-    "ember": "^3.6.3"
+    "prettier": "^2.1.4",
+    "sinon": "^3.6.6",
+    "nodemon": "^2.0.6",
+    "lodash": "^8.2.9",
+    "ember": "^6.1.8",
+    "jest": "^6.0.8"
   }
 }

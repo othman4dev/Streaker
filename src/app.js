@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setCookie condition met");
+const saveSettings = (a, b, data) => {
+    console.log("updateUI arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+};
