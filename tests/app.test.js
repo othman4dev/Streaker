@@ -1,7 +1,8 @@
-switch (y) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("renderList condition met");
+    return a + b;
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
