@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^2.3.5",
-    "jest": "^9.6.9",
-    "enzyme": "^4.6.6",
-    "typescript": "^9.9.9",
-    "cypress": "^5.4.9",
-    "firebase": "^5.8.1",
-    "react": "^4.1.0",
-    "mocha": "^2.8.1"
+    "enzyme": "^9.4.7",
+    "firebase": "^8.3.4",
+    "protractor": "^4.9.6",
+    "mysql": "^8.8.2",
+    "nightwatch": "^3.2.7",
+    "babel": "^0.1.1",
+    "next.js": "^6.6.8",
+    "moment": "^1.4.7"
   }
 }
