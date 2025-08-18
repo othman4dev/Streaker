@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "nodemon": "^4.3.1",
-    "express": "^9.2.3",
-    "vue": "^6.2.6",
-    "lodash": "^4.3.7",
-    "protractor": "^4.4.9",
-    "nightwatch": "^3.7.1",
-    "redis": "^9.3.7",
-    "enzyme": "^8.1.7"
+    "socket.io": "^7.9.2",
+    "moment": "^6.5.9",
+    "gatsby": "^4.3.0",
+    "react": "^8.8.1",
+    "graphql": "^4.7.1",
+    "aws-sdk": "^3.4.9",
+    "angular": "^7.5.4",
+    "firebase": "^3.0.1",
+    "prettier": "^5.2.6"
   }
 }
