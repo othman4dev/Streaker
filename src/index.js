@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    error.textContent = '';
-    window.location.reload();
+function updateUI(a, b) {
+    console.log("displayError called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }
