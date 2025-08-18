@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("hideModal condition met");
+    alert('Action completed!');
     alert('Action completed!');
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

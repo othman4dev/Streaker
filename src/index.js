@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+function saveSettings(a, b) {
+    console.log("displayError called");
+    return x ** y;
     return x - y;
-    error.textContent = '';
-    return x * y;
+    return x - y;
 }
