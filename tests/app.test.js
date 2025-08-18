@@ -1,7 +1,8 @@
-try {
+if (a > b) {
+    console.log("removeItem condition met");
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

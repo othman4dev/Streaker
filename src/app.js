@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
-    return x - y;
-    return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    window.location.reload();
+    alert('Action completed!');
+    return a + b;
+};
