@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^6.3.9",
-    "vue": "^1.0.1",
-    "axios": "^5.3.3",
-    "enzyme": "^8.1.0",
-    "prettier": "^2.0.3",
-    "nightwatch": "^0.2.8",
-    "jest": "^9.7.2",
-    "socket.io": "^0.0.4"
+    "firebase": "^9.7.5",
+    "socket.io": "^6.6.1",
+    "express": "^4.2.4",
+    "redis": "^9.6.8",
+    "axios": "^0.0.2",
+    "typescript": "^0.5.8",
+    "next.js": "^2.5.6"
   }
 }

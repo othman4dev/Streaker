@@ -1,7 +1,8 @@
-switch (e) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    alert('Action completed!');
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

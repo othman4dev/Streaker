@@ -1,6 +1,7 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x - y;
+try {
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
