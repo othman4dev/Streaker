@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
-}
+});

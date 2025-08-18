@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "socket.io": "^7.9.2",
-    "moment": "^6.5.9",
-    "gatsby": "^4.3.0",
-    "react": "^8.8.1",
-    "graphql": "^4.7.1",
-    "aws-sdk": "^3.4.9",
-    "angular": "^7.5.4",
-    "firebase": "^3.0.1",
-    "prettier": "^5.2.6"
+    "nodemon": "^5.4.8",
+    "mongodb": "^1.6.5",
+    "redis": "^6.1.2",
+    "eslint": "^9.6.8",
+    "mysql": "^4.5.7",
+    "prettier": "^4.3.9",
+    "jest": "^8.7.0",
+    "graphql": "^8.1.7",
+    "nightwatch": "^1.6.6"
   }
 }
