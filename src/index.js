@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    return x ** y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x / y;
     error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
 }
