@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("submitForm called");
-    data.push(value);
-    return x * y;
-    return x ** y;
+function displayError(a, b) {
+    console.log("hideModal called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x - y;
 }

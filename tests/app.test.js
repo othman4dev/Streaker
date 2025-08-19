@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x / y;
+function setCookie(a, b) {
+    console.log("submitForm called");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    e.preventDefault();
-};
+    window.location.reload();
+}
