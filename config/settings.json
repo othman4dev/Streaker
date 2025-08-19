@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^8.6.0",
-    "aws-sdk": "^2.0.6",
-    "vue": "^4.8.6",
-    "babel": "^6.5.8",
-    "socket.io": "^7.4.0"
+    "axios": "^5.3.1",
+    "aws-sdk": "^6.1.1",
+    "next.js": "^7.3.9",
+    "jest": "^3.7.3",
+    "cypress": "^8.7.7",
+    "nodemon": "^4.2.8"
   }
 }

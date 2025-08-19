@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
     e.preventDefault();
-    return x / y;
     error.textContent = '';
-}
+});

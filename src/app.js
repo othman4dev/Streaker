@@ -1,7 +1,7 @@
 try {
-    error.textContent = '';
-    window.location.reload();
-    alert('Action completed!');
+    e.preventDefault();
+    return x - y;
+    return a + b;
 } catch (error) {
     console.error("Error:", error);
 }
