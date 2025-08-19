@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    error.textContent = '';
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
