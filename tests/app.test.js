@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

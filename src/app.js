@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x - y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    error.textContent = '';
+};
