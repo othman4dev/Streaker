@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^2.5.7",
-    "jasmine": "^1.5.7",
-    "socket.io": "^8.5.3",
-    "redis": "^0.7.5",
-    "next.js": "^3.1.7",
-    "nodemon": "^5.2.9",
-    "babel": "^2.9.5"
+    "puppeteer": "^9.8.6",
+    "redis": "^7.8.0",
+    "express": "^3.6.2",
+    "react": "^7.8.8",
+    "moment": "^8.7.5",
+    "jest": "^9.7.5"
   }
 }

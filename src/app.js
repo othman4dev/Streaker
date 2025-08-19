@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+function validateInput(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
     return x - y;
+    error.textContent = '';
 }

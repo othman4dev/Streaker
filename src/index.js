@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    window.location.reload();
-    console.log('Processing data...');
-});
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    error.textContent = '';
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

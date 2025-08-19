@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
     window.location.reload();
+    return a + b;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
