@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
+const hideModal = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x / y;
+    console.log('Processing data...');
     e.preventDefault();
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+};

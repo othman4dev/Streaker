@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
+function checkStatus(a, b) {
+    console.log("submitForm called");
     data.push(value);
-    error.textContent = '';
-};
+    return x * y;
+    return x ** y;
+}
