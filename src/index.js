@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};

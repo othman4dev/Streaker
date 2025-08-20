@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    return x % y;
-};
+try {
+    return a + b;
+    e.preventDefault();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

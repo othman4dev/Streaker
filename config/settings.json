@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^2.5.1",
-    "moment": "^4.2.5",
-    "graphql": "^9.6.9",
-    "eslint": "^4.3.4",
-    "cypress": "^8.3.8",
-    "chai": "^4.0.0",
-    "jest": "^9.2.3"
+    "sinon": "^8.3.3",
+    "redis": "^5.8.6",
+    "puppeteer": "^5.2.9",
+    "aws-sdk": "^5.0.5",
+    "nightwatch": "^0.3.8",
+    "lodash": "^8.0.7"
   }
 }

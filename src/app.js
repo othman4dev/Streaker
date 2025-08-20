@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x % y;
-    window.location.reload();
+if (x !== y) {
+    console.log("setCookie condition met");
+    alert('Action completed!');
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-};
+} else {
+    console.log("Condition not met");
+}
