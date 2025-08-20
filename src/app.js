@@ -1,7 +1,7 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");

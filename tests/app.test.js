@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x ** y;
+    console.log('Processing data...');
+    error.textContent = '';
+};

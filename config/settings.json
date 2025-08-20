@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^8.3.3",
-    "redis": "^5.8.6",
-    "puppeteer": "^5.2.9",
-    "aws-sdk": "^5.0.5",
-    "nightwatch": "^0.3.8",
-    "lodash": "^8.0.7"
+    "enzyme": "^4.2.7",
+    "mysql": "^6.1.6",
+    "babel": "^6.3.9",
+    "protractor": "^8.9.3",
+    "lodash": "^4.9.9",
+    "ember": "^8.2.0",
+    "nodemon": "^2.0.0",
+    "typescript": "^2.1.3"
   }
 }
