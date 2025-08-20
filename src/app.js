@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+};
