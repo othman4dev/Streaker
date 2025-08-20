@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^6.4.2",
-    "webpack": "^6.0.8",
-    "firebase": "^6.6.8",
-    "graphql": "^1.6.5",
-    "redis": "^3.9.6"
+    "protractor": "^4.8.6",
+    "socket.io": "^3.5.3",
+    "puppeteer": "^4.3.6",
+    "lodash": "^2.2.9",
+    "jasmine": "^4.0.1",
+    "moment": "^8.7.1",
+    "react": "^7.0.4",
+    "svelte": "^9.0.4"
   }
 }

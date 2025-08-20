@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
-    e.preventDefault();
+function loadData(a, b) {
+    console.log("showMessage called");
+    error.textContent = '';
+    data.push(value);
     el.classList.add('active');
 }
