@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+switch (value) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

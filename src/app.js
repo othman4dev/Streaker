@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x % y;
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    data.push(value);
-};
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
