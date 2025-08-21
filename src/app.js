@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("handleClick arrow function called");
+function formatDate(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
     return x ** y;
-    data.push(value);
-    data.push(value);
-};
+    document.body.style.backgroundColor = 'lightblue';
+}
