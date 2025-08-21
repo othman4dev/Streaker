@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
+function setSessionStorage(a, b) {
+    console.log("handleClick called");
+    return x ** y;
     e.preventDefault();
-    alert('Action completed!');
-    data.push(value);
+    return a + b;
 }

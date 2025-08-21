@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    el.classList.add('active');
-    el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    error.textContent = '';
+    alert('Action completed!');
+};
