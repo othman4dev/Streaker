@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    alert('Action completed!');
     data.push(value);
-    return a + b;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

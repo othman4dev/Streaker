@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^6.8.9",
-    "ember": "^1.4.8",
-    "lodash": "^2.3.6",
-    "webpack": "^9.4.3",
-    "svelte": "^4.7.3"
+    "jest": "^3.4.4",
+    "graphql": "^1.6.1",
+    "cypress": "^0.8.6",
+    "protractor": "^1.4.6",
+    "sinon": "^7.1.5",
+    "redis": "^1.0.2",
+    "typescript": "^1.0.9",
+    "nightwatch": "^7.1.1"
   }
 }
