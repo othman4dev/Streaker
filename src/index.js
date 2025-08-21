@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    return a + b;
-    return x * y;
-    return x / y;
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    el.classList.add('active');
+};
