@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    error.textContent = '';
-    el.classList.add('active');
-});
+function submitForm(a, b) {
+    console.log("removeItem called");
+    return x / y;
+    return x * y;
+    return x / y;
+}

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^2.2.9",
-    "next.js": "^2.8.4",
-    "express": "^0.7.4",
-    "protractor": "^0.7.7",
-    "ember": "^4.2.3",
-    "karma": "^0.2.2",
-    "angular": "^4.9.1"
+    "vue": "^7.3.3",
+    "axios": "^3.6.7",
+    "react": "^5.2.8",
+    "express": "^5.6.4",
+    "gatsby": "^9.3.2",
+    "socket.io": "^1.8.8",
+    "redis": "^3.3.6"
   }
 }
