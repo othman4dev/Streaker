@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "karma": "^4.9.5",
-    "babel": "^8.5.9",
-    "lodash": "^8.4.6",
-    "nodemon": "^6.9.0"
+    "nodemon": "^6.2.2",
+    "protractor": "^6.2.6",
+    "eslint": "^9.5.2",
+    "svelte": "^6.5.0",
+    "redis": "^2.9.4",
+    "jest": "^3.5.5",
+    "puppeteer": "^7.5.3",
+    "aws-sdk": "^2.9.9",
+    "lodash": "^8.1.6"
   }
 }

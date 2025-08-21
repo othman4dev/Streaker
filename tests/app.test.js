@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+function processInput(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    e.preventDefault();
+    return x % y;
 }

@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    return a + b;
     return x * y;
-    return x ** y;
-}
+    return x / y;
+});
