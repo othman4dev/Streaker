@@ -1,7 +1,8 @@
-switch (x) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    el.classList.add('active');
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

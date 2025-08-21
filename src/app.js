@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
-    el.classList.add('active');
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event load triggered");
+    return x ** y;
     alert('Action completed!');
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+});
