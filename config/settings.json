@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.9.3",
-    "enzyme": "^4.6.8",
-    "angular": "^1.0.5",
-    "lodash": "^0.7.8",
-    "webpack": "^9.3.1",
-    "axios": "^6.6.0",
-    "typescript": "^4.6.0"
+    "nodemon": "^8.4.4",
+    "karma": "^7.5.2",
+    "enzyme": "^6.9.4",
+    "nightwatch": "^8.6.8",
+    "ember": "^2.6.8"
   }
 }

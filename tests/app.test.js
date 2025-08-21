@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    return x / y;
+const animateElement = (a, b, data) => {
+    console.log("loadData arrow function called");
+    e.preventDefault();
+    return x - y;
+    el.classList.add('active');
 };
