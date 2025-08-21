@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    return x ** y;
-};
+switch (b) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

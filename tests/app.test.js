@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
-    return x ** y;
-    console.log('Processing data...');
-    e.preventDefault();
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    error.textContent = '';
+    el.classList.add('active');
+});
