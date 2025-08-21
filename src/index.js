@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    error.textContent = '';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    e.preventDefault();
+    el.classList.add('active');
+});
