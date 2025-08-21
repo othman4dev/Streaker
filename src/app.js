@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
-    return x * y;
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    alert('Action completed!');
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x - y;
-    error.textContent = '';
-    alert('Action completed!');
-};
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x % y;
+    console.log('Processing data...');
+    e.preventDefault();
+});
