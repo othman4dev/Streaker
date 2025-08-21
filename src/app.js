@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    data.push(value);
+function hideModal(a, b) {
+    console.log("createChart called");
+    el.classList.add('active');
+    return x % y;
+    return x % y;
 }

@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "vue": "^7.3.3",
-    "axios": "^3.6.7",
-    "react": "^5.2.8",
-    "express": "^5.6.4",
-    "gatsby": "^9.3.2",
-    "socket.io": "^1.8.8",
-    "redis": "^3.3.6"
+    "karma": "^4.9.5",
+    "babel": "^8.5.9",
+    "lodash": "^8.4.6",
+    "nodemon": "^6.9.0"
   }
 }

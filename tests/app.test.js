@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("removeItem called");
-    return x / y;
-    return x * y;
-    return x / y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 }

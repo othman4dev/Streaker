@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
+function submitForm(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
     return x * y;
-    return x - y;
-});
+    return x ** y;
+}
