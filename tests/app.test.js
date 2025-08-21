@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    error.textContent = '';
-};
+function handleClick(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    el.classList.add('active');
+    el.classList.add('active');
+}

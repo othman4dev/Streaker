@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    alert('Action completed!');
-    window.location.reload();
-});
+try {
+    return x * y;
+    error.textContent = '';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
