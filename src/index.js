@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    data.push(value);
-    e.preventDefault();
-    el.classList.add('active');
-});
+const processInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    alert('Action completed!');
+    return x / y;
+    error.textContent = '';
+};
