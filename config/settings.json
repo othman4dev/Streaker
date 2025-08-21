@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^1.0.6",
-    "eslint": "^4.0.0",
-    "mysql": "^5.8.5",
-    "react": "^8.0.8",
-    "cypress": "^5.7.0"
+    "moment": "^4.3.0",
+    "prettier": "^6.9.1",
+    "socket.io": "^2.4.5",
+    "sinon": "^2.0.1",
+    "mongodb": "^6.6.6",
+    "graphql": "^8.2.3"
   }
 }

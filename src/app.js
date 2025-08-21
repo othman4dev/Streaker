@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("checkStatus called");
-    console.log('Processing data...');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    el.classList.add('active');
+    error.textContent = '';
 }
