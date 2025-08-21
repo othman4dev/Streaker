@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    return x ** y;
+};

@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+function handleClick(a, b) {
+    console.log("validateInput called");
+    return x ** y;
     console.log('Processing data...');
-    return x % y;
+    e.preventDefault();
 }
