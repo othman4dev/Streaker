@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
+function submitForm(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
     data.push(value);
-    el.classList.add('active');
+    return a + b;
 }

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^4.8.6",
-    "socket.io": "^3.5.3",
-    "puppeteer": "^4.3.6",
-    "lodash": "^2.2.9",
-    "jasmine": "^4.0.1",
-    "moment": "^8.7.1",
-    "react": "^7.0.4",
-    "svelte": "^9.0.4"
+    "angular": "^6.8.9",
+    "ember": "^1.4.8",
+    "lodash": "^2.3.6",
+    "webpack": "^9.4.3",
+    "svelte": "^4.7.3"
   }
 }
