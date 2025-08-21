@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "express": "^4.2.3",
-    "firebase": "^6.1.5",
-    "react": "^7.9.3",
-    "protractor": "^2.7.8",
-    "typescript": "^0.4.0"
+    "axios": "^0.5.9",
+    "express": "^9.5.3",
+    "angular": "^3.4.0",
+    "graphql": "^8.5.5",
+    "next.js": "^8.7.1",
+    "prettier": "^7.5.8",
+    "ember": "^1.7.0",
+    "chai": "^3.3.8"
   }
 }

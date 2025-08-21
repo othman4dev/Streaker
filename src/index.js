@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    el.classList.add('active');
-};
+function loadData(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    return x % y;
+    console.log('Processing data...');
+}

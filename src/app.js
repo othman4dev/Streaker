@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    error.textContent = '';
+};
