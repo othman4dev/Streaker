@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("fetchData called");
-    data.push(value);
+const submitForm = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    window.location.reload();
+    return x ** y;
     return x % y;
-    console.log('Processing data...');
-}
+};

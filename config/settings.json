@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "axios": "^0.5.9",
-    "express": "^9.5.3",
-    "angular": "^3.4.0",
-    "graphql": "^8.5.5",
-    "next.js": "^8.7.1",
-    "prettier": "^7.5.8",
-    "ember": "^1.7.0",
-    "chai": "^3.3.8"
+    "lodash": "^8.6.5",
+    "enzyme": "^8.8.3",
+    "sinon": "^0.7.8",
+    "axios": "^9.4.6",
+    "vue": "^4.6.5",
+    "socket.io": "^6.4.3"
   }
 }
