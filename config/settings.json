@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "babel": "^0.6.7",
-    "express": "^4.2.0",
-    "cypress": "^1.0.4",
-    "lodash": "^8.5.6",
-    "nodemon": "^3.2.5"
+    "axios": "^4.8.0",
+    "moment": "^3.0.4",
+    "lodash": "^8.8.1",
+    "sinon": "^4.1.7",
+    "redis": "^8.8.3",
+    "socket.io": "^3.7.5",
+    "express": "^0.2.6",
+    "nodemon": "^0.3.3"
   }
 }

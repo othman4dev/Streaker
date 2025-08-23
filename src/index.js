@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+};
