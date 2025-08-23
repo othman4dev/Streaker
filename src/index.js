@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    return a + b;
-};
+try {
+    return x % y;
+    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
