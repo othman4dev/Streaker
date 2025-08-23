@@ -1,6 +1,6 @@
 try {
-    return x / y;
-    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     e.preventDefault();
 } catch (error) {
     console.error("Error:", error);

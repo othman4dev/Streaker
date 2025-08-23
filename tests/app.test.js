@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    console.log('Processing data...');
-    return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    e.preventDefault();
+    return x % y;
+});
