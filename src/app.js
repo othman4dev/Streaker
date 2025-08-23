@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event blur triggered");
     return x ** y;
-    return x / y;
-    el.classList.add('active');
-}
+    return x * y;
+    return x ** y;
+});

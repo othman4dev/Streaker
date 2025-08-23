@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("loadData called");
-    return a + b;
-    return x / y;
-    return x - y;
+try {
+    return x ** y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
