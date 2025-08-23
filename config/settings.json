@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^1.6.7",
-    "nodemon": "^8.2.1",
-    "prettier": "^2.9.3",
-    "jest": "^3.4.0",
-    "mysql": "^1.9.9",
-    "gatsby": "^6.4.5",
-    "express": "^1.9.1",
-    "lodash": "^0.0.7"
+    "babel": "^0.6.7",
+    "express": "^4.2.0",
+    "cypress": "^1.0.4",
+    "lodash": "^8.5.6",
+    "nodemon": "^3.2.5"
   }
 }

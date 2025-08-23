@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const fetchData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};
