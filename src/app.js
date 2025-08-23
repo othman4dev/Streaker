@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    return x / y;
-    return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x * y;
+    e.preventDefault();
 }

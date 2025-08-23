@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x % y;
-};
+switch (b) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

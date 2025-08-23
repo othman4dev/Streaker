@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "axios": "^4.8.0",
-    "moment": "^3.0.4",
-    "lodash": "^8.8.1",
-    "sinon": "^4.1.7",
-    "redis": "^8.8.3",
-    "socket.io": "^3.7.5",
-    "express": "^0.2.6",
-    "nodemon": "^0.3.3"
+    "axios": "^6.0.9",
+    "mongodb": "^3.2.4",
+    "jest": "^4.0.8",
+    "eslint": "^0.0.8"
   }
 }
