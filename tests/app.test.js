@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function setSessionStorage(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
+    e.preventDefault();
+    return x % y;
 }
