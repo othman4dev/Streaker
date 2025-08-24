@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+const toggleMenu = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    data.push(value);
+    console.log('Processing data...');
+    error.textContent = '';
 };
