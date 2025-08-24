@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    alert('Action completed!');
+const checkStatus = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
     e.preventDefault();
-}
+    alert('Action completed!');
+};

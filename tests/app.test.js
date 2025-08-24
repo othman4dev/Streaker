@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    return x - y;
+const renderList = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
+    alert('Action completed!');
     window.location.reload();
 };

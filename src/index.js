@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    data.push(value);
-    console.log('Processing data...');
+try {
     error.textContent = '';
-};
+    return x - y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
