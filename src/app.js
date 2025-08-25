@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    el.classList.add('active');
-    e.preventDefault();
-}
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    console.log('Processing data...');
+    return x ** y;
+});
