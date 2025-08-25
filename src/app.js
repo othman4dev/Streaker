@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    return x ** y;
-});
+switch (x) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
