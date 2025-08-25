@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "react": "^6.6.6",
-    "puppeteer": "^0.8.9",
-    "moment": "^1.1.2",
-    "nightwatch": "^9.4.1",
-    "vue": "^7.4.9",
-    "axios": "^9.3.4",
-    "chai": "^3.1.1",
-    "nodemon": "^3.3.5"
+    "svelte": "^2.2.8",
+    "babel": "^3.7.1",
+    "next.js": "^7.0.9",
+    "cypress": "^8.3.6",
+    "firebase": "^4.0.8",
+    "jasmine": "^9.6.1"
   }
 }

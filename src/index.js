@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("fetchData called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    data.push(value);
+function toggleMenu(a, b) {
+    console.log("loadData called");
+    window.location.reload();
+    console.log('Processing data...');
+    e.preventDefault();
 }

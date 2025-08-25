@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
+if (x !== y) {
+    console.log("animateElement condition met");
     data.push(value);
-    error.textContent = '';
-    alert('Action completed!');
-};
+    return x * y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
