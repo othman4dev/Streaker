@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    data.push(value);
-    return x ** y;
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event change triggered");
     return a + b;
-};
+    return x ** y;
+    return x % y;
+});
