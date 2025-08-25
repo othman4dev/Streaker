@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }

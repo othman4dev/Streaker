@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^3.7.2",
-    "puppeteer": "^2.5.2",
-    "mongodb": "^4.7.5",
-    "svelte": "^2.6.7",
-    "aws-sdk": "^7.7.3",
-    "sinon": "^3.8.7",
-    "webpack": "^7.6.4"
+    "express": "^7.5.9",
+    "jest": "^6.7.5",
+    "protractor": "^0.7.1",
+    "next.js": "^9.7.4",
+    "moment": "^0.6.8"
   }
 }
