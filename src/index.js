@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x % y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const submitForm = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x ** y;
+    return x / y;
+    return x - y;
+};

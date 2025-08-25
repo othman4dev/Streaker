@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "vue": "^2.3.7",
-    "nightwatch": "^2.7.1",
-    "karma": "^1.3.0",
-    "react": "^1.8.0",
-    "chai": "^7.6.3"
+    "typescript": "^4.5.7",
+    "vue": "^4.5.1",
+    "ember": "^7.8.1",
+    "jest": "^3.6.8",
+    "jasmine": "^3.0.7",
+    "gatsby": "^6.1.3"
   }
 }
