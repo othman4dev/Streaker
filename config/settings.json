@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "express": "^7.5.9",
-    "jest": "^6.7.5",
-    "protractor": "^0.7.1",
-    "next.js": "^9.7.4",
-    "moment": "^0.6.8"
+    "ember": "^1.8.7",
+    "chai": "^6.9.1",
+    "karma": "^8.6.5",
+    "axios": "^6.6.4",
+    "react": "^6.0.3",
+    "aws-sdk": "^8.7.2",
+    "express": "^4.7.1",
+    "mocha": "^9.8.3",
+    "firebase": "^9.0.4"
   }
 }

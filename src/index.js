@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    window.location.reload();
+try {
+    return x * y;
+    return a + b;
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

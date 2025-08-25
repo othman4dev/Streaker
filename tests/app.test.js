@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+const toggleMenu = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    window.location.reload();
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-}
+};

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    data.push(value);
+    return a + b;
+});
