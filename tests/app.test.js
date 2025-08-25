@@ -1,6 +1,6 @@
 document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    return x - y;
-    console.log('Processing data...');
-    error.textContent = '';
+    console.log("Event resize triggered");
+    return x % y;
+    el.classList.add('active');
+    el.classList.add('active');
 });
