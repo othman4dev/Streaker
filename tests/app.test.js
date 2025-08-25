@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("processInput called");
-    e.preventDefault();
-    return x % y;
-    return x * y;
+switch (y) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
