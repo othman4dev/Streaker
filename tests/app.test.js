@@ -1,6 +1,6 @@
 try {
-    return x - y;
-    return x % y;
+    alert('Action completed!');
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
 } catch (error) {
     console.error("Error:", error);

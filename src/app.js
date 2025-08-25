@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    return x / y;
-    return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
