@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
-    error.textContent = '';
-    return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("fetchData called");
+    return x / y;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }

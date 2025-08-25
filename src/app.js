@@ -1,7 +1,7 @@
 try {
-    return x - y;
-    alert('Action completed!');
-    return x ** y;
+    error.textContent = '';
+    console.log('Processing data...');
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }
