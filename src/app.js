@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
+if (x !== y) {
+    console.log("removeItem condition met");
+    el.classList.add('active');
+    console.log('Processing data...');
     data.push(value);
-    return a + b;
-});
+} else {
+    console.log("Condition not met");
+}

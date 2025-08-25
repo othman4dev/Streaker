@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "ember": "^1.8.7",
-    "chai": "^6.9.1",
-    "karma": "^8.6.5",
-    "axios": "^6.6.4",
-    "react": "^6.0.3",
-    "aws-sdk": "^8.7.2",
-    "express": "^4.7.1",
-    "mocha": "^9.8.3",
-    "firebase": "^9.0.4"
+    "chai": "^4.6.5",
+    "cypress": "^4.3.4",
+    "prettier": "^7.9.0",
+    "mongodb": "^0.3.0",
+    "eslint": "^2.9.7",
+    "axios": "^9.9.7",
+    "vue": "^7.7.5",
+    "firebase": "^9.3.7"
   }
 }

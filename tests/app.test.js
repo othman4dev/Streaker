@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    return x - y;
+    console.log('Processing data...');
+    error.textContent = '';
+});
