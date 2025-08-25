@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "jest": "^2.0.1",
-    "svelte": "^2.8.2",
-    "gatsby": "^2.3.1",
-    "mongodb": "^0.3.9",
-    "cypress": "^6.4.5",
-    "graphql": "^9.3.4",
-    "karma": "^6.2.0",
-    "nodemon": "^2.5.1",
-    "socket.io": "^2.7.8"
+    "socket.io": "^3.7.2",
+    "puppeteer": "^2.5.2",
+    "mongodb": "^4.7.5",
+    "svelte": "^2.6.7",
+    "aws-sdk": "^7.7.3",
+    "sinon": "^3.8.7",
+    "webpack": "^7.6.4"
   }
 }

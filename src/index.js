@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    return x / y;
-    el.classList.add('active');
+const setCookie = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    window.location.reload();
+    data.push(value);
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};
