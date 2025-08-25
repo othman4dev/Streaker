@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    data.push(value);
     e.preventDefault();
-}
+    e.preventDefault();
+});

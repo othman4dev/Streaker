@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("updateUI called");
-    e.preventDefault();
-    data.push(value);
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("removeItem condition met");
+    error.textContent = '';
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

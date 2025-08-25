@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^2.2.8",
-    "babel": "^3.7.1",
-    "next.js": "^7.0.9",
-    "cypress": "^8.3.6",
-    "firebase": "^4.0.8",
-    "jasmine": "^9.6.1"
+    "mysql": "^9.2.1",
+    "moment": "^6.5.8",
+    "jasmine": "^5.3.4",
+    "axios": "^2.5.8",
+    "socket.io": "^0.1.0"
   }
 }
