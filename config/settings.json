@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^0.4.9",
-    "aws-sdk": "^4.7.1",
-    "react": "^7.4.3",
-    "express": "^7.2.7"
+    "jasmine": "^2.0.2",
+    "express": "^2.2.5",
+    "eslint": "^4.8.5",
+    "react": "^9.6.2",
+    "lodash": "^2.7.5"
   }
 }
