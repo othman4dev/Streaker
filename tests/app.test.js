@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    console.log('Processing data...');
     return x % y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

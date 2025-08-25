@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("toggleMenu called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 }

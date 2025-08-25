@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    data.push(value);
+const setCookie = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return a + b;
     console.log('Processing data...');
-    error.textContent = '';
+    return x - y;
 };

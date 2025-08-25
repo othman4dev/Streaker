@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "jasmine": "^8.2.8",
-    "gatsby": "^4.7.3",
-    "babel": "^9.8.5",
-    "jest": "^6.3.0",
-    "nodemon": "^1.0.0",
-    "vue": "^6.4.5",
-    "eslint": "^6.6.3"
+    "mysql": "^0.4.9",
+    "aws-sdk": "^4.7.1",
+    "react": "^7.4.3",
+    "express": "^7.2.7"
   }
 }
