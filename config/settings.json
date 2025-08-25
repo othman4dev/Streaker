@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^7.4.8",
-    "moment": "^0.1.9",
-    "nightwatch": "^1.9.6",
-    "prettier": "^8.4.3",
-    "graphql": "^1.5.7",
-    "aws-sdk": "^8.9.6",
-    "cypress": "^4.2.5"
+    "react": "^7.2.8",
+    "protractor": "^7.6.4",
+    "ember": "^9.9.3",
+    "cypress": "^5.2.0",
+    "moment": "^8.2.1",
+    "mongodb": "^7.9.6"
   }
 }

@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("checkStatus called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    el.classList.add('active');
+    e.preventDefault();
 }

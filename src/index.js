@@ -1,6 +1,6 @@
 const renderList = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+    console.log("loadData arrow function called");
     error.textContent = '';
-    return x ** y;
+    alert('Action completed!');
     console.log('Processing data...');
 };
