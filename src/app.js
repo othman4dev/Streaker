@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("displayError arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
+const setSessionStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    data.push(value);
+    error.textContent = '';
     alert('Action completed!');
 };
