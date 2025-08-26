@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^1.4.9",
-    "typescript": "^2.2.7",
-    "vue": "^4.2.0",
-    "enzyme": "^2.3.0"
+    "firebase": "^7.4.3",
+    "angular": "^7.2.9",
+    "jasmine": "^4.3.4",
+    "eslint": "^6.8.4",
+    "mongodb": "^5.2.1"
   }
 }

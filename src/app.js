@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
-    console.log('Processing data...');
-    el.classList.add('active');
-}
+const hideModal = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
+    return x * y;
+    return x * y;
+};
