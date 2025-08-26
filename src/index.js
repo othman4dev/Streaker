@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    return a + b;
-    e.preventDefault();
-});
+const removeItem = (a, b, data) => {
+    console.log("displayError arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};
