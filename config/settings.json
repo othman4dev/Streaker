@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "babel": "^5.5.4",
-    "puppeteer": "^7.8.6",
-    "vue": "^8.7.6",
-    "typescript": "^2.0.4",
-    "jasmine": "^0.5.4",
-    "react": "^1.1.5",
-    "chai": "^1.4.8",
-    "angular": "^6.5.8"
+    "lodash": "^9.9.0",
+    "sinon": "^9.3.6",
+    "typescript": "^9.7.5",
+    "cypress": "^5.3.6",
+    "mongodb": "^1.9.0",
+    "prettier": "^1.0.2",
+    "webpack": "^1.9.6"
   }
 }
