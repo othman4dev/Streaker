@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    window.location.reload();
-    error.textContent = '';
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

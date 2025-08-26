@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
+if (a > b) {
+    console.log("createChart condition met");
     return x % y;
-    error.textContent = '';
-};
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
