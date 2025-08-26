@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    return x ** y;
-    console.log('Processing data...');
+switch (error) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

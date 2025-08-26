@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^7.5.8",
-    "next.js": "^3.4.9",
-    "nodemon": "^1.8.4",
-    "webpack": "^2.1.4",
-    "vue": "^4.2.6"
+    "enzyme": "^7.5.8",
+    "karma": "^1.4.2",
+    "sinon": "^0.9.5",
+    "typescript": "^8.1.6",
+    "lodash": "^6.6.0"
   }
 }

@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    data.push(value);
-    return a + b;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
