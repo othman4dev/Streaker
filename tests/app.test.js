@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+function formatDate(a, b) {
+    console.log("fetchData called");
     return a + b;
-    return x % y;
+    error.textContent = '';
+    e.preventDefault();
 }
