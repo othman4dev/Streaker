@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return x % y;
+function processInput(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return x - y;
+}

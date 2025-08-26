@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("checkStatus called");
+if (x === y) {
+    console.log("removeItem condition met");
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    el.classList.add('active');
+    error.textContent = '';
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

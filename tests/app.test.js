@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    return x % y;
+    return x - y;
+    return x * y;
+});
