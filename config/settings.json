@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^7.5.8",
-    "karma": "^1.4.2",
-    "sinon": "^0.9.5",
-    "typescript": "^8.1.6",
-    "lodash": "^6.6.0"
+    "puppeteer": "^6.5.3",
+    "vue": "^8.6.9",
+    "mocha": "^0.2.9",
+    "svelte": "^8.4.0",
+    "moment": "^7.4.2",
+    "nodemon": "^8.1.9",
+    "socket.io": "^0.5.7"
   }
 }

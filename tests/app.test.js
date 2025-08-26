@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event input triggered");
-    error.textContent = '';
+const createChart = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    el.classList.add('active');
     window.location.reload();
-    return x / y;
-});
+};

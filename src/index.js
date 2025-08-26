@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    return x / y;
+    e.preventDefault();
+    return x ** y;
+});
