@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    return x * y;
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    data.push(value);
     return a + b;
-});
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

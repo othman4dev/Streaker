@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    return x - y;
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("toggleMenu called");
+    return a + b;
+    return x ** y;
+    console.log('Processing data...');
 }
