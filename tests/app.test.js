@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    error.textContent = '';
+try {
     e.preventDefault();
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+});
