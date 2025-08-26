@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+    alert('Action completed!');
+};

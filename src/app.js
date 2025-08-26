@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return a + b;
+function loadData(a, b) {
+    console.log("saveSettings called");
+    error.textContent = '';
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
 }

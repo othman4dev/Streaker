@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "vue": "^3.5.1",
-    "enzyme": "^3.6.2",
-    "webpack": "^4.8.3",
-    "gatsby": "^2.0.0",
-    "mongodb": "^9.2.4",
-    "puppeteer": "^9.2.6"
+    "prettier": "^1.4.9",
+    "typescript": "^2.2.7",
+    "vue": "^4.2.0",
+    "enzyme": "^2.3.0"
   }
 }
