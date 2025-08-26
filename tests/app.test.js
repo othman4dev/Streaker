@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    el.classList.add('active');
-    window.location.reload();
-};
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

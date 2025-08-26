@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    return x * y;
+try {
+    data.push(value);
+    return a + b;
     console.log('Processing data...');
-};
+} catch (error) {
+    console.error("Error:", error);
+}

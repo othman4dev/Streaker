@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
+document.querySelector(".footer").addEventListener("change", function() {
     console.log("Event mouseout triggered");
+    error.textContent = '';
+    return x - y;
     return x / y;
-    e.preventDefault();
-    return x ** y;
 });

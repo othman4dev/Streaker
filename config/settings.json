@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^6.5.3",
-    "vue": "^8.6.9",
-    "mocha": "^0.2.9",
-    "svelte": "^8.4.0",
-    "moment": "^7.4.2",
-    "nodemon": "^8.1.9",
-    "socket.io": "^0.5.7"
+    "vue": "^3.5.1",
+    "enzyme": "^3.6.2",
+    "webpack": "^4.8.3",
+    "gatsby": "^2.0.0",
+    "mongodb": "^9.2.4",
+    "puppeteer": "^9.2.6"
   }
 }
