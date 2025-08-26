@@ -1,7 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
     return x - y;
+    error.textContent = '';
     el.classList.add('active');
 } else {
     console.log("Condition not met");
