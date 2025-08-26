@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    error.textContent = '';
+    return x / y;
+}

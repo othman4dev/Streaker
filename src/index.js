@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    return x ** y;
-    return x ** y;
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    return a + b;
+    e.preventDefault();
+});
