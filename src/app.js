@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+});

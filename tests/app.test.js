@@ -1,8 +1,8 @@
 if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    return x * y;
-    return x % y;
+    console.log("setSessionStorage condition met");
+    console.log('Processing data...');
+    data.push(value);
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

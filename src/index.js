@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("checkStatus called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    el.classList.add('active');
 }
