@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event click triggered");
+try {
+    return a + b;
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
