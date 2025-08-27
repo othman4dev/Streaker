@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^9.3.3",
-    "firebase": "^4.2.8",
-    "jest": "^2.9.2",
-    "graphql": "^3.5.6",
-    "svelte": "^9.0.9"
+    "mongodb": "^4.9.9",
+    "mocha": "^3.9.1",
+    "mysql": "^0.6.1",
+    "enzyme": "^7.6.8",
+    "moment": "^8.2.9"
   }
 }

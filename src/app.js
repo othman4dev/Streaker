@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
+function formatDate(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x / y;
+}
