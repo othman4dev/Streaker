@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    return x * y;
-    el.classList.add('active');
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    e.preventDefault();
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+});

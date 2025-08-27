@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "redis": "^4.6.1",
-    "ember": "^8.6.1",
-    "vue": "^3.3.1",
-    "mocha": "^6.4.5",
-    "cypress": "^0.2.5",
-    "svelte": "^4.8.2",
-    "firebase": "^4.0.1",
-    "babel": "^5.8.2",
-    "next.js": "^2.4.7"
+    "chai": "^0.3.1",
+    "axios": "^0.4.1",
+    "sinon": "^0.7.8",
+    "typescript": "^3.8.4"
   }
 }

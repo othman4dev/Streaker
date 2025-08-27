@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    alert('Action completed!');
+const updateUI = (a, b, data) => {
+    console.log("updateUI arrow function called");
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    return x / y;
+};
