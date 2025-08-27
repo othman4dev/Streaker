@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("renderList called");
+    return a + b;
+    console.log('Processing data...');
+    return x % y;
 }

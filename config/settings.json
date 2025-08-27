@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^4.9.9",
-    "mocha": "^3.9.1",
-    "mysql": "^0.6.1",
-    "enzyme": "^7.6.8",
-    "moment": "^8.2.9"
+    "aws-sdk": "^8.2.8",
+    "graphql": "^4.7.9",
+    "cypress": "^8.9.9",
+    "enzyme": "^8.8.1",
+    "nodemon": "^8.1.5",
+    "jest": "^4.2.8"
   }
 }

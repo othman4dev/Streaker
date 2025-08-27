@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("hideModal called");
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
     window.location.reload();
-    data.push(value);
-    return x / y;
-}
+    error.textContent = '';
+    console.log('Processing data...');
+};
