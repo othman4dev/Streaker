@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.2.8",
-    "graphql": "^4.7.9",
-    "cypress": "^8.9.9",
-    "enzyme": "^8.8.1",
-    "nodemon": "^8.1.5",
-    "jest": "^4.2.8"
+    "typescript": "^0.8.2",
+    "angular": "^3.1.6",
+    "mocha": "^1.4.6",
+    "jasmine": "^4.8.0",
+    "sinon": "^3.4.1",
+    "chai": "^2.8.4"
   }
 }

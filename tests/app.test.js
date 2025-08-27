@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("renderList called");
-    return a + b;
-    console.log('Processing data...');
+const renderList = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return x % y;
-}
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+};
