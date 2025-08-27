@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    return x / y;
-    alert('Action completed!');
+if (x === y) {
+    console.log("showMessage condition met");
+    return x * y;
+    el.classList.add('active');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

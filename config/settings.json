@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "angular": "^9.1.7",
-    "jest": "^1.2.2",
-    "express": "^5.7.2",
-    "enzyme": "^4.0.0",
-    "firebase": "^5.1.8"
+    "redis": "^4.6.1",
+    "ember": "^8.6.1",
+    "vue": "^3.3.1",
+    "mocha": "^6.4.5",
+    "cypress": "^0.2.5",
+    "svelte": "^4.8.2",
+    "firebase": "^4.0.1",
+    "babel": "^5.8.2",
+    "next.js": "^2.4.7"
   }
 }
