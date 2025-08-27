@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    return a + b;
-    e.preventDefault();
-    window.location.reload();
-});
+switch (value) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

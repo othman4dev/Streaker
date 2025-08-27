@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    el.classList.add('active');
-    return x / y;
-};
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});
