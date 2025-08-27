@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const submitForm = (a, b, data) => {
+    console.log("createChart arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return a + b;
+};
