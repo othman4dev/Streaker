@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^2.5.4",
-    "puppeteer": "^5.8.2",
-    "babel": "^0.9.1",
-    "next.js": "^0.7.4",
-    "axios": "^7.3.4",
-    "mongodb": "^5.9.0",
-    "sinon": "^1.9.2"
+    "graphql": "^5.2.4",
+    "next.js": "^8.1.5",
+    "mocha": "^7.9.2",
+    "mongodb": "^6.6.3",
+    "mysql": "^9.2.5"
   }
 }

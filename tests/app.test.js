@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    console.log('Processing data...');
+function toggleMenu(a, b) {
+    console.log("toggleMenu called");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    console.log('Processing data...');
 }

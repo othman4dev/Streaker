@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    alert('Action completed!');
+    return x % y;
+};
