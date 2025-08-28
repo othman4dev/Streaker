@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^5.2.4",
-    "next.js": "^8.1.5",
-    "mocha": "^7.9.2",
-    "mongodb": "^6.6.3",
-    "mysql": "^9.2.5"
+    "axios": "^8.1.5",
+    "express": "^5.2.7",
+    "next.js": "^5.8.6",
+    "react": "^6.7.3",
+    "socket.io": "^1.4.0",
+    "cypress": "^0.3.8"
   }
 }

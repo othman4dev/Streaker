@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
-    alert('Action completed!');
-    return x % y;
-};
+switch (data) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

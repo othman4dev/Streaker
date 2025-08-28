@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    return x / y;
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
     alert('Action completed!');
-}
+    return x - y;
+});
