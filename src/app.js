@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    return x - y;
-});
+function processInput(a, b) {
+    console.log("createChart called");
+    window.location.reload();
+    return x % y;
+    return x % y;
+}

@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "axios": "^8.1.5",
-    "express": "^5.2.7",
-    "next.js": "^5.8.6",
-    "react": "^6.7.3",
-    "socket.io": "^1.4.0",
-    "cypress": "^0.3.8"
+    "graphql": "^4.5.0",
+    "puppeteer": "^0.4.8",
+    "lodash": "^0.4.1",
+    "aws-sdk": "^0.7.9",
+    "react": "^1.2.3",
+    "webpack": "^0.0.7",
+    "firebase": "^5.3.7",
+    "socket.io": "^8.2.9"
   }
 }
