@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    error.textContent = '';
-    return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
