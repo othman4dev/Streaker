@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    el.classList.add('active');
-    el.classList.add('active');
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    console.log('Processing data...');
 }

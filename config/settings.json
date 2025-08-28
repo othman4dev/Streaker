@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^1.0.2",
-    "vue": "^4.8.5",
-    "protractor": "^2.0.4",
-    "jest": "^6.7.4",
-    "angular": "^9.4.9",
-    "svelte": "^6.6.5"
+    "sinon": "^9.3.1",
+    "graphql": "^0.2.2",
+    "gatsby": "^3.1.5",
+    "typescript": "^9.1.7",
+    "chai": "^9.6.9",
+    "react": "^8.4.5",
+    "prettier": "^2.0.8",
+    "vue": "^1.7.2"
   }
 }
