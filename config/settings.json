@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^4.6.2",
-    "vue": "^0.3.2",
-    "react": "^9.7.8",
-    "mongodb": "^6.2.3",
-    "express": "^9.2.9",
-    "aws-sdk": "^9.6.9"
+    "webpack": "^9.5.1",
+    "angular": "^6.9.0",
+    "typescript": "^9.9.7",
+    "ember": "^9.2.7",
+    "chai": "^9.5.8"
   }
 }

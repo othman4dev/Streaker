@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("createChart called");
-    return x - y;
-    window.location.reload();
-    return x / y;
+switch (b) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
