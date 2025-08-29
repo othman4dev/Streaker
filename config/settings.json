@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^7.7.3",
-    "express": "^1.9.7",
-    "babel": "^3.4.9",
-    "webpack": "^2.9.6",
-    "mongodb": "^9.7.6"
+    "cypress": "^4.6.2",
+    "vue": "^0.3.2",
+    "react": "^9.7.8",
+    "mongodb": "^6.2.3",
+    "express": "^9.2.9",
+    "aws-sdk": "^9.6.9"
   }
 }
