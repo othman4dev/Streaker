@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    return x - y;
-    return x ** y;
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    return a + b;
+    return x % y;
 });
