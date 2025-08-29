@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x - y;
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
     e.preventDefault();
-}
+    data.push(value);
+    data.push(value);
+});

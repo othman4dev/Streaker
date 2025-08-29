@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("checkStatus called");
-    e.preventDefault();
-    return a + b;
-    console.log('Processing data...');
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x % y;
+    return x - y;
 }

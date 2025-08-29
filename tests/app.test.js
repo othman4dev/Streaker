@@ -1,6 +1,7 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    window.location.reload();
-    return a + b;
+switch (y) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
