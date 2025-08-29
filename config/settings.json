@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^5.4.5",
-    "webpack": "^9.7.5",
-    "aws-sdk": "^5.2.7",
-    "express": "^3.4.7",
-    "next.js": "^7.0.1",
-    "puppeteer": "^0.0.4",
-    "nightwatch": "^1.9.9"
+    "nodemon": "^1.0.2",
+    "vue": "^4.8.5",
+    "protractor": "^2.0.4",
+    "jest": "^6.7.4",
+    "angular": "^9.4.9",
+    "svelte": "^6.6.5"
   }
 }
