@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    window.location.reload();
-    return x * y;
-});
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
+    return x ** y;
+    el.classList.add('active');
+};
