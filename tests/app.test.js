@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x ** y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    window.location.reload();
     return a + b;
-    el.classList.add('active');
-};
+}
