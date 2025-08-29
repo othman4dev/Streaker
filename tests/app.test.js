@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("checkStatus called");
-    return a + b;
-    data.push(value);
-    return a + b;
-}
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
+    return x / y;
+    return x ** y;
+};

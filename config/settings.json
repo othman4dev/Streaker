@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^6.9.1",
-    "express": "^6.5.4",
-    "typescript": "^3.7.7",
-    "lodash": "^1.5.6",
-    "chai": "^1.8.4",
-    "jest": "^3.3.9",
-    "nightwatch": "^0.0.2"
+    "jest": "^7.7.3",
+    "express": "^1.9.7",
+    "babel": "^3.4.9",
+    "webpack": "^2.9.6",
+    "mongodb": "^9.7.6"
   }
 }
