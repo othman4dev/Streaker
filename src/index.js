@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("updateUI called");
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
+    return a + b;
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-}
+});

@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    error.textContent = '';
+    return x ** y;
+    alert('Action completed!');
+};

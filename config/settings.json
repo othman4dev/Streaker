@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^5.0.4",
-    "mocha": "^6.5.9",
-    "svelte": "^0.6.2",
-    "firebase": "^3.3.5",
-    "next.js": "^5.5.7",
-    "vue": "^0.8.2",
-    "mysql": "^0.4.1"
+    "socket.io": "^4.5.6",
+    "sinon": "^0.7.7",
+    "aws-sdk": "^9.0.0",
+    "react": "^2.5.5",
+    "moment": "^6.5.3",
+    "lodash": "^3.6.0",
+    "puppeteer": "^0.8.9",
+    "karma": "^6.4.0"
   }
 }
