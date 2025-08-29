@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const renderList = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x ** y;
+    return a + b;
     el.classList.add('active');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};

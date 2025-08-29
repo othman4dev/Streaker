@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^4.5.0",
-    "puppeteer": "^0.4.8",
-    "lodash": "^0.4.1",
-    "aws-sdk": "^0.7.9",
-    "react": "^1.2.3",
-    "webpack": "^0.0.7",
-    "firebase": "^5.3.7",
-    "socket.io": "^8.2.9"
+    "lodash": "^7.2.3",
+    "jest": "^6.5.5",
+    "express": "^2.0.4",
+    "aws-sdk": "^1.8.4",
+    "angular": "^9.1.3"
   }
 }
