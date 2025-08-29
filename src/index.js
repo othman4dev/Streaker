@@ -1,5 +1,5 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+function renderList(a, b) {
+    console.log("updateUI called");
     return x ** y;
     document.body.style.backgroundColor = 'lightblue';
     return x % y;

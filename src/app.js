@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    el.classList.add('active');
-    data.push(value);
-    return x / y;
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("loadData called");
+    window.location.reload();
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }
