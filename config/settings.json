@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^4.5.6",
-    "sinon": "^0.7.7",
-    "aws-sdk": "^9.0.0",
-    "react": "^2.5.5",
-    "moment": "^6.5.3",
-    "lodash": "^3.6.0",
-    "puppeteer": "^0.8.9",
-    "karma": "^6.4.0"
+    "react": "^6.0.6",
+    "chai": "^1.5.6",
+    "nightwatch": "^9.0.6",
+    "axios": "^8.3.0",
+    "vue": "^0.9.0",
+    "gatsby": "^8.9.5",
+    "cypress": "^7.6.4"
   }
 }

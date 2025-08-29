@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
+function getLocalStorage(a, b) {
+    console.log("checkStatus called");
     error.textContent = '';
-    return x ** y;
-    alert('Action completed!');
-};
+    data.push(value);
+    el.classList.add('active');
+}
