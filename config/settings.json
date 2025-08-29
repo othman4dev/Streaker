@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^9.5.1",
-    "angular": "^6.9.0",
-    "typescript": "^9.9.7",
-    "ember": "^9.2.7",
-    "chai": "^9.5.8"
+    "next.js": "^3.5.7",
+    "webpack": "^9.9.0",
+    "puppeteer": "^6.8.6",
+    "graphql": "^9.8.9",
+    "babel": "^2.4.9",
+    "moment": "^9.1.5",
+    "eslint": "^4.9.1",
+    "cypress": "^4.3.4"
   }
 }

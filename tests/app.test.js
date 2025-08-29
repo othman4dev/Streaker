@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

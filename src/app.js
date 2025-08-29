@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    el.classList.add('active');
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
