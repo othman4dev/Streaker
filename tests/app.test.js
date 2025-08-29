@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x ** y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("checkStatus called");
+    return a + b;
+    data.push(value);
+    return a + b;
 }

@@ -1,7 +1,8 @@
-switch (error) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    return a + b;
+    console.log('Processing data...');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
