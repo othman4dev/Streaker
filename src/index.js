@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("checkStatus called");
-    return x / y;
+try {
+    console.log('Processing data...');
     return x - y;
-    error.textContent = '';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

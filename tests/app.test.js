@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    data.push(value);
+const hideModal = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    return x - y;
+};
