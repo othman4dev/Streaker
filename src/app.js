@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    window.location.reload();
-    return x - y;
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event change triggered");
     return x / y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});

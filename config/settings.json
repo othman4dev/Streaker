@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^6.8.4",
-    "react": "^7.3.3",
-    "svelte": "^2.5.8",
-    "prettier": "^7.8.3",
-    "moment": "^3.9.2",
-    "eslint": "^2.9.5"
+    "jasmine": "^1.5.1",
+    "mysql": "^1.7.8",
+    "sinon": "^7.5.8",
+    "babel": "^3.3.0",
+    "svelte": "^0.0.0"
   }
 }
