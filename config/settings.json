@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.7.2",
-    "angular": "^7.3.4",
-    "karma": "^3.8.4",
-    "mongodb": "^5.9.8",
-    "react": "^3.2.3",
-    "firebase": "^0.9.6"
+    "moment": "^3.0.0",
+    "babel": "^8.9.3",
+    "jasmine": "^3.9.8",
+    "axios": "^8.2.9",
+    "cypress": "^9.0.1"
   }
 }
