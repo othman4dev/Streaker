@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
+    return x % y;
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

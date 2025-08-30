@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^6.4.6",
-    "prettier": "^9.4.2",
-    "ember": "^7.7.7",
-    "chai": "^0.1.9",
-    "jasmine": "^5.0.3"
+    "aws-sdk": "^3.8.4",
+    "typescript": "^1.2.3",
+    "socket.io": "^7.1.6",
+    "mongodb": "^0.9.5",
+    "express": "^7.7.9",
+    "enzyme": "^9.7.1",
+    "webpack": "^4.7.9"
   }
 }
