@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x - y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const submitForm = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x / y;
+    return x * y;
+    window.location.reload();
+};

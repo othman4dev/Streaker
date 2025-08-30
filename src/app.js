@@ -1,7 +1,7 @@
-try {
-    e.preventDefault();
-    alert('Action completed!');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+switch (data) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

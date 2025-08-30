@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "jasmine": "^1.1.0",
-    "puppeteer": "^7.2.8",
-    "mocha": "^5.2.9",
-    "sinon": "^8.5.5",
-    "svelte": "^7.5.5"
+    "webpack": "^9.0.0",
+    "redis": "^9.5.5",
+    "svelte": "^8.1.6",
+    "cypress": "^1.9.8"
   }
 }
