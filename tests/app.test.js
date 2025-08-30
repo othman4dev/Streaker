@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    return x % y;
-    console.log('Processing data...');
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return a + b;
 }

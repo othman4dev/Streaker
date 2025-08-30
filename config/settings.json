@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.8.4",
-    "typescript": "^1.2.3",
-    "socket.io": "^7.1.6",
-    "mongodb": "^0.9.5",
-    "express": "^7.7.9",
-    "enzyme": "^9.7.1",
-    "webpack": "^4.7.9"
+    "protractor": "^7.7.6",
+    "prettier": "^7.6.1",
+    "enzyme": "^6.2.9",
+    "socket.io": "^3.2.5",
+    "firebase": "^4.3.2",
+    "typescript": "^3.6.0",
+    "ember": "^5.9.6",
+    "nodemon": "^5.7.3"
   }
 }

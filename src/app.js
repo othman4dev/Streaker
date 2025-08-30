@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event resize triggered");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return x * y;
+});
