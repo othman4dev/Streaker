@@ -1,7 +1,8 @@
-switch (x) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("processInput condition met");
+    data.push(value);
+    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
