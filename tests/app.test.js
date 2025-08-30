@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    return x * y;
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    return a + b;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

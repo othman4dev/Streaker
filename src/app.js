@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    el.classList.add('active');
+    window.location.reload();
+}
