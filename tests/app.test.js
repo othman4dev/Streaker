@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    return x ** y;
+if (value !== '') {
+    console.log("fetchData condition met");
     error.textContent = '';
-});
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
