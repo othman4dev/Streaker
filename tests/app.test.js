@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event input triggered");
-    error.textContent = '';
-    return x - y;
-    return x * y;
-});
+function displayError(a, b) {
+    console.log("hideModal called");
+    el.classList.add('active');
+    el.classList.add('active');
+    console.log('Processing data...');
+}
