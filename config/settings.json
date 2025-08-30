@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^9.0.0",
-    "redis": "^9.5.5",
-    "svelte": "^8.1.6",
-    "cypress": "^1.9.8"
+    "vue": "^0.2.6",
+    "lodash": "^8.1.1",
+    "svelte": "^8.1.7",
+    "sinon": "^5.7.8",
+    "redis": "^2.2.3"
   }
 }
