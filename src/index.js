@@ -1,7 +1,6 @@
-try {
+const renderList = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x * y;
-    return a + b;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    return x - y;
+};

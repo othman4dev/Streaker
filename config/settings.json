@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "redis": "^5.8.7",
-    "cypress": "^7.6.8",
-    "firebase": "^1.4.9",
-    "express": "^1.9.7",
-    "nodemon": "^1.5.2",
-    "vue": "^0.3.1"
+    "enzyme": "^6.8.4",
+    "react": "^7.3.3",
+    "svelte": "^2.5.8",
+    "prettier": "^7.8.3",
+    "moment": "^3.9.2",
+    "eslint": "^2.9.5"
   }
 }
