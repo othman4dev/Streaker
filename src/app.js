@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    e.preventDefault();
-    window.location.reload();
-});
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    el.classList.add('active');
+    data.push(value);
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
