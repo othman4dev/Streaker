@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("showMessage called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-}
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return a + b;
+    return a + b;
+    console.log('Processing data...');
+});
