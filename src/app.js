@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    return x - y;
     e.preventDefault();
-    return a + b;
-}
+    window.location.reload();
+});

@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
-    el.classList.add('active');
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("submitForm condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
