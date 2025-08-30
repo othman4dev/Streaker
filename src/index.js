@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x * y;
 }

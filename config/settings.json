@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "jest": "^2.4.1",
-    "svelte": "^3.8.0",
-    "next.js": "^5.7.3",
-    "cypress": "^9.9.0"
+    "mongodb": "^3.2.5",
+    "express": "^5.2.7",
+    "moment": "^0.1.9",
+    "gatsby": "^1.8.0",
+    "vue": "^8.8.9",
+    "lodash": "^2.7.6",
+    "graphql": "^6.6.8",
+    "cypress": "^6.2.3"
   }
 }
