@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("loadData condition met");
+if (a > b) {
+    console.log("animateElement condition met");
     console.log('Processing data...');
-    return x - y;
-    window.location.reload();
+    console.log('Processing data...');
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "jest": "^9.6.1",
-    "graphql": "^8.7.1",
-    "redis": "^4.9.4",
-    "typescript": "^3.0.4",
-    "protractor": "^8.6.4",
-    "chai": "^8.4.3",
-    "sinon": "^4.0.8"
+    "jest": "^2.4.1",
+    "svelte": "^3.8.0",
+    "next.js": "^5.7.3",
+    "cypress": "^9.9.0"
   }
 }

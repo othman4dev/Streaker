@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("loadData arrow function called");
-    e.preventDefault();
+try {
     window.location.reload();
-    return x ** y;
-};
+    console.log('Processing data...');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
