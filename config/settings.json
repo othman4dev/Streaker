@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^2.7.9",
-    "enzyme": "^6.1.1",
-    "svelte": "^6.2.9",
-    "react": "^2.3.4",
-    "mysql": "^4.7.3"
+    "nodemon": "^0.5.4",
+    "chai": "^1.9.3",
+    "cypress": "^4.3.2",
+    "lodash": "^5.2.3",
+    "typescript": "^1.5.5"
   }
 }

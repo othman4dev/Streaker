@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
     console.log('Processing data...');
+    return x ** y;
+    return x % y;
 });

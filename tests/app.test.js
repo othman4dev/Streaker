@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    data.push(value);
-    return x % y;
-    return x ** y;
-};
+switch (e) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

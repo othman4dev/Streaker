@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+if (x === y) {
+    console.log("toggleMenu condition met");
+    return x % y;
     return a + b;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
