@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^5.5.8",
-    "babel": "^1.6.8",
-    "vue": "^8.1.4",
-    "moment": "^9.5.0",
-    "angular": "^7.1.4",
-    "webpack": "^8.4.5",
-    "jest": "^9.3.5",
-    "nightwatch": "^5.6.9"
+    "socket.io": "^7.7.9",
+    "lodash": "^1.5.3",
+    "typescript": "^7.3.5",
+    "react": "^9.3.6",
+    "chai": "^8.1.5"
   }
 }
