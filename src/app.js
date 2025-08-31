@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
     return a + b;
-    return x - y;
+    alert('Action completed!');
+    return a + b;
 } else {
     console.log("Condition not met");
 }

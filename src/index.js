@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
     return x ** y;
-    return x % y;
+    window.location.reload();
+    return x - y;
 });

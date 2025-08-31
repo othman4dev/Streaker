@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^0.5.4",
-    "chai": "^1.9.3",
-    "cypress": "^4.3.2",
-    "lodash": "^5.2.3",
-    "typescript": "^1.5.5"
+    "prettier": "^2.9.6",
+    "karma": "^3.7.6",
+    "next.js": "^1.0.2",
+    "nodemon": "^6.4.2",
+    "svelte": "^6.5.0",
+    "graphql": "^7.4.4"
   }
 }
