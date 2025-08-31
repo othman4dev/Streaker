@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
 }

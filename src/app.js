@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    return a + b;
-    alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
+try {
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
