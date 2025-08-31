@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^7.7.9",
-    "lodash": "^1.5.3",
-    "typescript": "^7.3.5",
-    "react": "^9.3.6",
-    "chai": "^8.1.5"
+    "aws-sdk": "^6.7.2",
+    "angular": "^7.3.4",
+    "karma": "^3.8.4",
+    "mongodb": "^5.9.8",
+    "react": "^3.2.3",
+    "firebase": "^0.9.6"
   }
 }

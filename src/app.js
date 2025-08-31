@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x % y;
+    return x ** y;
+    alert('Action completed!');
+};
