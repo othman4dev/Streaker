@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const fetchData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    e.preventDefault();
+    data.push(value);
+    return x ** y;
+};
