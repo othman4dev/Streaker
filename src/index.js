@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    error.textContent = '';
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+});

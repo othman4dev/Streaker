@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    window.location.reload();
-    return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
