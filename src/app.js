@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("createChart called");
+    alert('Action completed!');
+    return x ** y;
+    return x * y;
 }

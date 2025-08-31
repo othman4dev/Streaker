@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("validateInput condition met");
+function checkStatus(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     e.preventDefault();
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
 }

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^3.0.0",
-    "babel": "^8.9.3",
-    "jasmine": "^3.9.8",
-    "axios": "^8.2.9",
-    "cypress": "^9.0.1"
+    "angular": "^7.2.1",
+    "mongodb": "^6.6.2",
+    "nightwatch": "^2.0.1",
+    "mocha": "^3.4.5",
+    "cypress": "^8.4.7"
   }
 }
