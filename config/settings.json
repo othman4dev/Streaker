@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^4.5.9",
-    "jest": "^6.0.2",
-    "sinon": "^5.4.7",
-    "vue": "^9.0.6",
-    "enzyme": "^5.4.6"
+    "react": "^8.2.6",
+    "ember": "^2.3.2",
+    "axios": "^7.5.5",
+    "sinon": "^0.8.4",
+    "graphql": "^2.8.1",
+    "nightwatch": "^4.9.6"
   }
 }
