@@ -1,7 +1,8 @@
-switch (error) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    window.location.reload();
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

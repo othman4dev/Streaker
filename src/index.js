@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    window.location.reload();
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("createChart condition met");
+    error.textContent = '';
+    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
