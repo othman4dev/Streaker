@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x * y;
-    window.location.reload();
+function updateUI(a, b) {
+    console.log("toggleMenu called");
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-};
+    return a + b;
+}

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event focus triggered");
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
     return x / y;
-    return x ** y;
     el.classList.add('active');
+    console.log('Processing data...');
 });
