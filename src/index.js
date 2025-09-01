@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    e.preventDefault();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
