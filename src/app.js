@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event click triggered");
+try {
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+    return x % y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
