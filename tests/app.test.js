@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-}
+const updateUI = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x - y;
+    return x % y;
+    return a + b;
+};

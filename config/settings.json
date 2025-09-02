@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^1.9.7",
-    "typescript": "^2.2.8",
-    "express": "^8.0.1",
-    "react": "^2.9.9"
+    "ember": "^6.0.8",
+    "eslint": "^4.4.8",
+    "react": "^6.4.5",
+    "axios": "^3.9.1",
+    "redis": "^7.8.6",
+    "svelte": "^2.1.4"
   }
 }

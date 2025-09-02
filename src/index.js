@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("displayError arrow function called");
-    console.log('Processing data...');
-    el.classList.add('active');
+function renderList(a, b) {
+    console.log("fetchData called");
     return x * y;
-};
+    el.classList.add('active');
+    return a + b;
+}
