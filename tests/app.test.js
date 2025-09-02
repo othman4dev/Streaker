@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
