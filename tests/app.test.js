@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
-    data.push(value);
-    return x % y;
+try {
+    console.log('Processing data...');
+    alert('Action completed!');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
