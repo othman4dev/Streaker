@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+if (x === y) {
+    console.log("displayError condition met");
+    e.preventDefault();
+    e.preventDefault();
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

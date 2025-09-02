@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("renderList called");
-    return x * y;
-    el.classList.add('active');
-    error.textContent = '';
-}
+const fetchData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    window.location.reload();
+    return x % y;
+    return x / y;
+};
