@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+function createChart(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    error.textContent = '';
-    return x % y;
 }

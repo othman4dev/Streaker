@@ -1,6 +1,6 @@
 const setCookie = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
     el.classList.add('active');
-    data.push(value);
-    return x - y;
+    return x * y;
 };
