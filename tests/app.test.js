@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    e.preventDefault();
-    e.preventDefault();
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    return x ** y;
+};

@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
-    return x % y;
-    return x / y;
-};
+try {
+    e.preventDefault();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
