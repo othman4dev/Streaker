@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("submitForm called");
+    return x / y;
+    error.textContent = '';
+    data.push(value);
 }

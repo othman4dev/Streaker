@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^0.8.4",
-    "express": "^9.4.0",
-    "firebase": "^9.4.1",
-    "typescript": "^3.6.9",
-    "graphql": "^5.8.9"
+    "react": "^2.9.1",
+    "graphql": "^3.3.6",
+    "puppeteer": "^5.7.2",
+    "angular": "^2.0.8",
+    "axios": "^3.7.7"
   }
 }

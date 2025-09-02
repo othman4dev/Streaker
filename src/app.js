@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event input triggered");
     alert('Action completed!');
-    e.preventDefault();
-    e.preventDefault();
-}
+    window.location.reload();
+    alert('Action completed!');
+});
