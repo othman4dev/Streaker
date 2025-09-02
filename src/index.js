@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     el.classList.add('active');
-    return x ** y;
-}
+    data.push(value);
+    return x - y;
+};

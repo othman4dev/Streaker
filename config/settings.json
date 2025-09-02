@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^3.3.8",
-    "puppeteer": "^6.7.0",
-    "mysql": "^9.7.1",
-    "axios": "^9.5.0",
-    "karma": "^1.8.9",
-    "lodash": "^7.2.8"
+    "mysql": "^0.1.2",
+    "redis": "^3.9.5",
+    "firebase": "^1.0.3",
+    "babel": "^5.4.7",
+    "jest": "^0.5.6",
+    "graphql": "^6.2.6",
+    "next.js": "^6.3.0",
+    "react": "^3.0.3"
   }
 }
