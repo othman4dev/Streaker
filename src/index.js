@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("renderList called");
+    return x * y;
+    el.classList.add('active');
+    error.textContent = '';
 }
