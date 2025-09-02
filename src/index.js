@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    return x / y;
-    e.preventDefault();
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    error.textContent = '';
+    return x - y;
 }
