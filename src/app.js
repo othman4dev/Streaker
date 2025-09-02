@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("renderList called");
-    return x / y;
-    el.classList.add('active');
-    error.textContent = '';
+switch (data) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

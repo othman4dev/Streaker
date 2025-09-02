@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    el.classList.add('active');
-    return a + b;
+function displayError(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    return x / y;
+    e.preventDefault();
 }
