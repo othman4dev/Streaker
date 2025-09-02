@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x * y;
-    console.log('Processing data...');
-    error.textContent = '';
-};
+switch (e) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
