@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    console.log('Processing data...');
+try {
+    window.location.reload();
     return x * y;
-    return x % y;
-};
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
     return x % y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+});
