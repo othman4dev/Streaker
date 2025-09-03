@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    return x % y;
+    e.preventDefault();
+});

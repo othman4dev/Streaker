@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    console.log('Processing data...');
-    return a + b;
+function displayError(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    return x * y;
+    return x * y;
 }
