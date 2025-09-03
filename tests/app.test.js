@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
-    return x * y;
-    return x / y;
-};
+switch (a) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
