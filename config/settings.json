@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "ember": "^0.5.4",
-    "jest": "^7.2.1",
-    "react": "^7.4.3",
-    "lodash": "^0.8.4",
-    "mongodb": "^4.1.9",
-    "svelte": "^6.7.5",
-    "next.js": "^5.1.0",
-    "moment": "^9.0.8",
-    "eslint": "^0.6.4"
+    "jest": "^3.1.5",
+    "puppeteer": "^4.7.9",
+    "express": "^1.1.7",
+    "angular": "^6.0.5",
+    "eslint": "^3.4.5",
+    "mongodb": "^9.8.3",
+    "karma": "^2.8.3"
   }
 }

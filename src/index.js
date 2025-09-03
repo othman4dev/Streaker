@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    return x % y;
-    e.preventDefault();
-});
+function setCookie(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+}
