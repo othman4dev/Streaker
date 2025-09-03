@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    return x * y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    return x / y;
-});
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

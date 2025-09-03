@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^3.1.5",
-    "puppeteer": "^4.7.9",
-    "express": "^1.1.7",
-    "angular": "^6.0.5",
-    "eslint": "^3.4.5",
-    "mongodb": "^9.8.3",
-    "karma": "^2.8.3"
+    "babel": "^1.1.1",
+    "cypress": "^3.2.2",
+    "next.js": "^5.0.1",
+    "puppeteer": "^2.7.3",
+    "karma": "^7.8.0",
+    "mysql": "^9.6.6",
+    "moment": "^8.0.6"
   }
 }
