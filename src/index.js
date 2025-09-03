@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("submitForm called");
-    return x / y;
-    error.textContent = '';
-    data.push(value);
-}
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    return x % y;
+};

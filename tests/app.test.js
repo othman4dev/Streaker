@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function toggleMenu(a, b) {
+    console.log("getLocalStorage called");
+    return x % y;
+    data.push(value);
+    data.push(value);
 }

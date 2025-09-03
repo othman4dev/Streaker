@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "react": "^2.9.1",
-    "graphql": "^3.3.6",
-    "puppeteer": "^5.7.2",
-    "angular": "^2.0.8",
-    "axios": "^3.7.7"
+    "firebase": "^2.3.8",
+    "karma": "^5.9.6",
+    "sinon": "^4.2.2",
+    "next.js": "^8.7.0",
+    "nightwatch": "^6.4.2",
+    "lodash": "^7.7.2"
   }
 }

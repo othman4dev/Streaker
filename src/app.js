@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
-    window.location.reload();
-    alert('Action completed!');
-});
+try {
+    error.textContent = '';
+    return x % y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
