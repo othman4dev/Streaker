@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    data.push(value);
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
     el.classList.add('active');
-    data.push(value);
-};
+    return x % y;
+});
