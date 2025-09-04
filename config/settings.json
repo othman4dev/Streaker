@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^7.2.9",
-    "vue": "^2.7.3",
-    "sinon": "^5.5.9",
-    "angular": "^7.6.5",
-    "ember": "^0.7.6",
-    "cypress": "^2.8.7",
-    "nodemon": "^9.2.4",
-    "jest": "^2.8.7"
+    "axios": "^0.6.4",
+    "react": "^8.5.1",
+    "jasmine": "^2.2.1",
+    "typescript": "^2.7.1",
+    "lodash": "^0.4.3"
   }
 }
