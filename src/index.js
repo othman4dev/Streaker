@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    return x * y;
+    el.classList.add('active');
 }

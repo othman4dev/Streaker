@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("createChart condition met");
+    return a + b;
+    return a + b;
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
