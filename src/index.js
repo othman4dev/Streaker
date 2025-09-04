@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    return x % y;
     return x ** y;
-    return a + b;
-    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
