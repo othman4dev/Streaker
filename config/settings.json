@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "chai": "^7.2.0",
-    "sinon": "^7.7.3",
-    "redis": "^1.9.6",
-    "cypress": "^0.3.4",
-    "vue": "^1.6.4",
-    "nodemon": "^7.1.1",
-    "axios": "^8.7.5"
+    "puppeteer": "^9.5.3",
+    "eslint": "^4.2.2",
+    "typescript": "^5.1.0",
+    "nodemon": "^1.3.8",
+    "jasmine": "^0.6.4"
   }
 }

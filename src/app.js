@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    return x % y;
-    return a + b;
-    return x / y;
-}
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+});

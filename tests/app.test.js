@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    return x / y;
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     return a + b;
-    window.location.reload();
-});
+    return a + b;
+    error.textContent = '';
+};
