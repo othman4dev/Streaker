@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+try {
+    return x % y;
+    console.log('Processing data...');
     window.location.reload();
-    return x / y;
-    e.preventDefault();
-};
+} catch (error) {
+    console.error("Error:", error);
+}

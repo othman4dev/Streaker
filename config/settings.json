@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^6.4.3",
-    "webpack": "^5.5.6",
-    "aws-sdk": "^8.7.4",
-    "lodash": "^3.2.4",
-    "eslint": "^3.3.4"
+    "firebase": "^5.8.0",
+    "ember": "^8.7.6",
+    "mocha": "^2.3.8",
+    "chai": "^9.6.7",
+    "eslint": "^7.6.8",
+    "puppeteer": "^1.7.6",
+    "jest": "^1.2.6",
+    "webpack": "^8.7.8"
   }
 }
