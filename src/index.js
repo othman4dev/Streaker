@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("handleClick called");
+    return a + b;
+    return x * y;
+    e.preventDefault();
 }
