@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    return x - y;
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
     return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    return x - y;
+});
