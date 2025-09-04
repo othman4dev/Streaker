@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^6.8.7",
-    "karma": "^8.9.9",
-    "vue": "^2.7.8",
-    "redis": "^0.8.5",
-    "prettier": "^5.4.3",
-    "mocha": "^2.8.7",
-    "babel": "^3.5.7"
+    "prettier": "^3.4.9",
+    "moment": "^8.0.0",
+    "nodemon": "^6.6.0",
+    "eslint": "^4.0.1",
+    "enzyme": "^3.4.9"
   }
 }

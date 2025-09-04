@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    return a + b;
-    return a + b;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    return x * y;
+    alert('Action completed!');
+    error.textContent = '';
+});
