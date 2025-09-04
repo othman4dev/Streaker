@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    data.push(value);
+    return x * y;
+});

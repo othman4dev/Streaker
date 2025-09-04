@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^3.4.9",
-    "moment": "^8.0.0",
-    "nodemon": "^6.6.0",
-    "eslint": "^4.0.1",
-    "enzyme": "^3.4.9"
+    "eslint": "^6.9.3",
+    "protractor": "^8.0.1",
+    "typescript": "^1.2.5",
+    "lodash": "^6.9.0",
+    "ember": "^6.2.9",
+    "react": "^2.3.7",
+    "redis": "^0.3.9",
+    "angular": "^8.8.4"
   }
 }
