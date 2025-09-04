@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event load triggered");
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
     data.push(value);
-});
+};
