@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    return x ** y;
+    return x - y;
+});

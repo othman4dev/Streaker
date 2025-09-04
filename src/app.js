@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("handleClick called");
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    window.location.reload();
     e.preventDefault();
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    data.push(value);
+});
