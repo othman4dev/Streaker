@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    data.push(value);
-    return x * y;
-});
+function showMessage(a, b) {
+    console.log("processInput called");
+    return x % y;
+    return a + b;
+    return x / y;
+}

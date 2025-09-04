@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    return x / y;
+    return a + b;
+    window.location.reload();
+});
