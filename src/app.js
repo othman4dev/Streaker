@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    e.preventDefault();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x ** y;
+    return x ** y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

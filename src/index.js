@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    data.push(value);
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    return x / y;
+    return x - y;
     window.location.reload();
-    data.push(value);
-});
+} else {
+    console.log("Condition not met");
+}

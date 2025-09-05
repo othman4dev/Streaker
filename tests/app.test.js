@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("animateElement called");
-    alert('Action completed!');
-    alert('Action completed!');
-    el.classList.add('active');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x * y;
+    return x ** y;
 }
