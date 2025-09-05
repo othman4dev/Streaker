@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("toggleMenu called");
-    return x * y;
-    return x ** y;
-    return x / y;
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+});

@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    window.location.reload();
-    return x * y;
-});
+try {
+    return x % y;
+    return a + b;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
