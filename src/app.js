@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+if (x !== y) {
+    console.log("saveSettings condition met");
     return x ** y;
-    window.location.reload();
+    data.push(value);
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
