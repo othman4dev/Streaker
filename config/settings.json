@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^2.0.7",
-    "mongodb": "^6.0.7",
-    "firebase": "^0.5.6",
-    "ember": "^5.1.8",
-    "prettier": "^4.4.9"
+    "nightwatch": "^6.4.3",
+    "webpack": "^5.5.6",
+    "aws-sdk": "^8.7.4",
+    "lodash": "^3.2.4",
+    "eslint": "^3.3.4"
   }
 }
