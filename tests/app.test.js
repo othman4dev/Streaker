@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("toggleMenu called");
+    return x * y;
+    return x ** y;
+    return x / y;
 }

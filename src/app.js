@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    return x / y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     error.textContent = '';
-});
+    alert('Action completed!');
+}
