@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    return x / y;
-    return x - y;
-    window.location.reload();
+if (a > b) {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
+    error.textContent = '';
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

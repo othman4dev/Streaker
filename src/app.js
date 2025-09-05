@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    return x ** y;
-    return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("formatDate called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    window.location.reload();
 }

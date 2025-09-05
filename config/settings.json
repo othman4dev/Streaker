@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^3.3.2",
-    "sinon": "^2.8.6",
-    "jest": "^9.0.1",
-    "lodash": "^4.2.5",
-    "graphql": "^0.4.6"
+    "react": "^2.3.0",
+    "enzyme": "^5.0.9",
+    "svelte": "^4.1.6",
+    "sinon": "^0.1.1",
+    "graphql": "^6.8.2",
+    "eslint": "^4.2.0",
+    "socket.io": "^0.6.9"
   }
 }
