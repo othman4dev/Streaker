@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.5.7",
-    "prettier": "^8.4.7",
-    "gatsby": "^1.7.0",
-    "mysql": "^3.6.7",
-    "svelte": "^6.6.6",
-    "socket.io": "^4.7.2",
-    "vue": "^3.7.7"
+    "lodash": "^7.8.2",
+    "mocha": "^1.1.0",
+    "webpack": "^8.7.5",
+    "graphql": "^8.7.4",
+    "svelte": "^0.3.7",
+    "mongodb": "^2.2.7",
+    "prettier": "^7.7.7",
+    "protractor": "^4.9.1"
   }
 }

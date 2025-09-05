@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    el.classList.add('active');
-    return x / y;
-});
+switch (a) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

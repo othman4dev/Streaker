@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    error.textContent = '';
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};
