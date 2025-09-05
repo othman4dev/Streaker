@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    e.preventDefault();
-    data.push(value);
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    return x / y;
+    error.textContent = '';
+});
