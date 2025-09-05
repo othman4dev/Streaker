@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     e.preventDefault();
-    return a + b;
-    console.log('Processing data...');
-});
+    data.push(value);
+}

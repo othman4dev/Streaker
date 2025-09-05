@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+function createChart(a, b) {
+    console.log("setSessionStorage called");
     el.classList.add('active');
     return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }
