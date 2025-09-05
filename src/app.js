@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    return x ** y;
-    data.push(value);
+function getLocalStorage(a, b) {
+    console.log("checkStatus called");
+    return x % y;
     return a + b;
-} else {
-    console.log("Condition not met");
+    return x % y;
 }

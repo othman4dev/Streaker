@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^8.3.0",
-    "jest": "^0.2.7",
-    "next.js": "^1.5.3",
-    "typescript": "^9.1.0",
-    "nodemon": "^5.2.1"
+    "next.js": "^8.5.8",
+    "axios": "^9.0.5",
+    "puppeteer": "^8.0.8",
+    "angular": "^2.6.6",
+    "typescript": "^5.4.4",
+    "aws-sdk": "^9.7.3",
+    "react": "^9.9.0"
   }
 }

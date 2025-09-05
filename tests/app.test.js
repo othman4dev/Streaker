@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
+if (x !== y) {
+    console.log("updateUI condition met");
+    data.push(value);
+    return a + b;
     return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

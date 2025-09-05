@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    data.push(value);
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
