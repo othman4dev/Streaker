@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-};
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x % y;
+    window.location.reload();
+    error.textContent = '';
+});
