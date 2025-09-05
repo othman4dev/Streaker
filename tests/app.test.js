@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    return x * y;
-    console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("animateElement called");
+    alert('Action completed!');
+    alert('Action completed!');
+    el.classList.add('active');
 }
