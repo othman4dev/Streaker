@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^8.5.8",
-    "axios": "^9.0.5",
-    "puppeteer": "^8.0.8",
-    "angular": "^2.6.6",
-    "typescript": "^5.4.4",
-    "aws-sdk": "^9.7.3",
-    "react": "^9.9.0"
+    "protractor": "^6.4.4",
+    "socket.io": "^2.0.0",
+    "mocha": "^5.0.4",
+    "aws-sdk": "^8.4.3",
+    "enzyme": "^1.6.6",
+    "ember": "^9.7.3"
   }
 }
