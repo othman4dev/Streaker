@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-});
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    data.push(value);
+    console.log('Processing data...');
+}
