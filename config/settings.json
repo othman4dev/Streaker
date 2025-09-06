@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "karma": "^4.2.3",
-    "jasmine": "^7.3.7",
-    "next.js": "^8.0.5",
-    "axios": "^0.4.7"
+    "eslint": "^1.9.8",
+    "gatsby": "^1.0.0",
+    "ember": "^6.3.7",
+    "sinon": "^9.4.9",
+    "graphql": "^2.0.8",
+    "puppeteer": "^7.7.3",
+    "enzyme": "^5.3.1"
   }
 }
