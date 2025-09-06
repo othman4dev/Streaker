@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+};
