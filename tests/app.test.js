@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    console.log('Processing data...');
+    return a + b;
+});

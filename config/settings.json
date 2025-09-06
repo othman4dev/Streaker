@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^4.7.2",
-    "graphql": "^2.3.1",
-    "angular": "^2.8.1",
-    "aws-sdk": "^0.4.3",
-    "jest": "^0.7.1",
-    "typescript": "^3.7.8"
+    "karma": "^4.2.3",
+    "jasmine": "^7.3.7",
+    "next.js": "^8.0.5",
+    "axios": "^0.4.7"
   }
 }
