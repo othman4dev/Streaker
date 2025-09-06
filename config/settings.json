@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.2.2",
-    "enzyme": "^5.2.2",
-    "react": "^8.7.3",
-    "jest": "^7.0.4",
-    "cypress": "^4.6.9"
+    "nightwatch": "^4.7.2",
+    "graphql": "^2.3.1",
+    "angular": "^2.8.1",
+    "aws-sdk": "^0.4.3",
+    "jest": "^0.7.1",
+    "typescript": "^3.7.8"
   }
 }

@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
-    data.push(value);
-    return x % y;
-};
+try {
+    e.preventDefault();
+    window.location.reload();
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
