@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^8.4.1",
-    "graphql": "^4.2.4",
-    "webpack": "^2.5.1",
-    "typescript": "^2.2.8",
-    "babel": "^9.0.8"
+    "babel": "^4.2.2",
+    "enzyme": "^5.2.2",
+    "react": "^8.7.3",
+    "jest": "^7.0.4",
+    "cypress": "^4.6.9"
   }
 }

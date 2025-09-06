@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event input triggered");
     return x % y;
-    return x % y;
-    return x % y;
-}
+    error.textContent = '';
+    return x * y;
+});

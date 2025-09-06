@@ -1,7 +1,6 @@
-try {
-    return a + b;
+const submitForm = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     return x * y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
