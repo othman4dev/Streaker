@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    return a + b;
-    data.push(value);
-};
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});

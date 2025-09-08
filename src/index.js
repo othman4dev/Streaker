@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    error.textContent = '';
-    return x - y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    error.textContent = '';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    el.classList.add('active');
 }
