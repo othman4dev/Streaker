@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
-    window.location.reload();
-    console.log('Processing data...');
-};
+switch (error) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

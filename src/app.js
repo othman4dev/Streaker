@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
-    e.preventDefault();
-    return x ** y;
-    return x ** y;
+function renderList(a, b) {
+    console.log("createChart called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }

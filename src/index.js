@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return a + b;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    error.textContent = '';
+});
