@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "ember": "^5.6.5",
-    "next.js": "^4.2.3",
-    "react": "^4.8.9",
-    "lodash": "^2.0.2",
-    "chai": "^6.3.9"
+    "eslint": "^3.1.8",
+    "enzyme": "^0.0.3",
+    "prettier": "^6.3.2",
+    "puppeteer": "^6.7.0",
+    "chai": "^4.0.0",
+    "jasmine": "^3.9.0",
+    "vue": "^5.5.0",
+    "graphql": "^8.4.7"
   }
 }

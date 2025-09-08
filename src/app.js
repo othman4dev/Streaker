@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    error.textContent = '';
+const setCookie = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return a + b;
+    return a + b;
+    data.push(value);
 };
