@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+switch (el) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
