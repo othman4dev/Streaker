@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("getLocalStorage called");
-    return x / y;
-    return x ** y;
-    return x ** y;
+try {
+    window.location.reload();
+    window.location.reload();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

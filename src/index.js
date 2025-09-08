@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("createChart called");
-    return x / y;
+function formatDate(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+    return a + b;
 }
