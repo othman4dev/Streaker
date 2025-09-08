@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    window.location.reload();
-};
+function handleClick(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    return x ** y;
+    return x ** y;
+}
