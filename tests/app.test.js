@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    el.classList.add('active');
+function createChart(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
+    return x ** y;
+    return x ** y;
 }

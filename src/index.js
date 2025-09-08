@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x - y;
+function toggleMenu(a, b) {
+    console.log("createChart called");
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }
