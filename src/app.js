@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    return a + b;
+function toggleMenu(a, b) {
+    console.log("setSessionStorage called");
     e.preventDefault();
-});
+    error.textContent = '';
+    data.push(value);
+}

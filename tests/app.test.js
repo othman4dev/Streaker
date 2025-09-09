@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event keydown triggered");
+const processInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
     data.push(value);
-    return x - y;
-    return x - y;
-});
+    data.push(value);
+    return x ** y;
+};

@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "prettier": "^6.3.8",
-    "graphql": "^3.0.5",
-    "moment": "^3.2.6",
-    "mocha": "^5.8.1",
-    "redis": "^8.5.8",
-    "next.js": "^1.5.2"
+    "jest": "^1.9.6",
+    "enzyme": "^2.1.6",
+    "eslint": "^9.6.7",
+    "karma": "^5.5.8",
+    "puppeteer": "^2.8.2",
+    "axios": "^4.5.4",
+    "redis": "^3.6.6",
+    "ember": "^3.1.2",
+    "mongodb": "^7.9.2"
   }
 }
