@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("createChart arrow function called");
-    data.push(value);
+const renderList = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x ** y;
+    return x % y;
     return a + b;
-    data.push(value);
 };

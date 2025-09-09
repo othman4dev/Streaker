@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+function createChart(a, b) {
+    console.log("getLocalStorage called");
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+    return x - y;
+    window.location.reload();
 }
