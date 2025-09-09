@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("fetchData called");
+function displayError(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
     return x - y;
-    console.log('Processing data...');
-    return x / y;
+    return a + b;
 }

@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("setCookie called");
+    e.preventDefault();
+    return a + b;
+    return x % y;
 }

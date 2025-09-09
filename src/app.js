@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("checkStatus condition met");
+    error.textContent = '';
+    e.preventDefault();
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
