@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("fetchData called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    console.log('Processing data...');
 }

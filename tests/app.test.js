@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    error.textContent = '';
+const showMessage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
