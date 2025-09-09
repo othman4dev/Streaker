@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    el.classList.add('active');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }

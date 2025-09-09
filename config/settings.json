@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "ember": "^7.9.7",
-    "moment": "^9.5.0",
-    "svelte": "^5.1.1",
-    "chai": "^2.0.4"
+    "aws-sdk": "^3.9.4",
+    "cypress": "^3.5.0",
+    "protractor": "^3.9.3",
+    "express": "^7.3.8",
+    "moment": "^8.4.8"
   }
 }
