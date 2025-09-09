@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+if (value !== '') {
+    console.log("showMessage condition met");
+    console.log('Processing data...');
     return a + b;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
