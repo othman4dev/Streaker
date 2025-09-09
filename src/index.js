@@ -1,6 +1,6 @@
-function fetchData(a, b) {
+function renderList(a, b) {
     console.log("fetchData called");
-    el.classList.add('active');
+    return x - y;
     console.log('Processing data...');
-    console.log('Processing data...');
+    return x / y;
 }

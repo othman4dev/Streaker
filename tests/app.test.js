@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    e.preventDefault();
-    return a + b;
+try {
+    el.classList.add('active');
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-};
+} catch (error) {
+    console.error("Error:", error);
+}

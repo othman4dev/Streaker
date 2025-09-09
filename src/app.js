@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    e.preventDefault();
+try {
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
