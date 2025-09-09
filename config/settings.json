@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.9.6",
-    "enzyme": "^2.1.6",
-    "eslint": "^9.6.7",
-    "karma": "^5.5.8",
-    "puppeteer": "^2.8.2",
-    "axios": "^4.5.4",
-    "redis": "^3.6.6",
-    "ember": "^3.1.2",
-    "mongodb": "^7.9.2"
+    "vue": "^3.4.5",
+    "jest": "^2.8.2",
+    "prettier": "^8.7.3",
+    "mocha": "^6.9.1",
+    "mysql": "^3.3.1",
+    "chai": "^8.2.0"
   }
 }

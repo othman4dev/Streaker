@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    error.textContent = '';
-    data.push(value);
+function validateInput(a, b) {
+    console.log("submitForm called");
+    return x - y;
+    return a + b;
+    return x * y;
 }
