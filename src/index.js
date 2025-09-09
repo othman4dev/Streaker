@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    error.textContent = '';
+function checkStatus(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
 }

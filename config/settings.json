@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.9.4",
-    "cypress": "^3.5.0",
-    "protractor": "^3.9.3",
-    "express": "^7.3.8",
-    "moment": "^8.4.8"
+    "sinon": "^8.9.9",
+    "protractor": "^2.7.4",
+    "redis": "^0.4.7",
+    "jest": "^9.4.7",
+    "angular": "^7.3.2",
+    "chai": "^8.9.4"
   }
 }

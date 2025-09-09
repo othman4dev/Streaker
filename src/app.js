@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    data.push(value);
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const updateUI = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};

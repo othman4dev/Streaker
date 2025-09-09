@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("formatDate called");
+if (value !== '') {
+    console.log("checkStatus condition met");
+    return x % y;
     error.textContent = '';
-    window.location.reload();
     error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
