@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("getLocalStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    window.location.reload();
+try {
+    return x / y;
+    e.preventDefault();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

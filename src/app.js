@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    return x - y;
     return x % y;
-    return a + b;
-};
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
