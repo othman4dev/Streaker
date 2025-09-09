@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    e.preventDefault();
-    alert('Action completed!');
-}
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return x - y;
+    return x - y;
+});

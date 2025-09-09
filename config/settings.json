@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^9.5.2",
-    "moment": "^9.1.5",
-    "lodash": "^5.4.9",
-    "firebase": "^3.3.0",
-    "socket.io": "^0.7.1",
-    "ember": "^9.4.2"
+    "prettier": "^6.3.8",
+    "graphql": "^3.0.5",
+    "moment": "^3.2.6",
+    "mocha": "^5.8.1",
+    "redis": "^8.5.8",
+    "next.js": "^1.5.2"
   }
 }

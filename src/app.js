@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("renderList called");
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event change triggered");
     alert('Action completed!');
-    window.location.reload();
-    return x / y;
-}
+    return a + b;
+    e.preventDefault();
+});
