@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    console.log('Processing data...');
-    return a + b;
+function handleClick(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    window.location.reload();
     return x / y;
-} else {
-    console.log("Condition not met");
 }

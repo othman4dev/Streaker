@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^0.0.0",
-    "lodash": "^8.9.0",
-    "vue": "^7.0.5",
-    "prettier": "^8.2.2",
-    "graphql": "^0.2.0"
+    "svelte": "^9.5.2",
+    "moment": "^9.1.5",
+    "lodash": "^5.4.9",
+    "firebase": "^3.3.0",
+    "socket.io": "^0.7.1",
+    "ember": "^9.4.2"
   }
 }

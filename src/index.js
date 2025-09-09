@@ -1,7 +1,8 @@
-try {
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    return x - y;
     return x % y;
-    el.classList.add('active');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
