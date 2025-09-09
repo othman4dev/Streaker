@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    return x - y;
-    return x % y;
+function displayError(a, b) {
+    console.log("animateElement called");
     data.push(value);
-} else {
-    console.log("Condition not met");
+    return x / y;
+    data.push(value);
 }

@@ -1,7 +1,7 @@
 try {
-    return x / y;
-    e.preventDefault();
-    console.log('Processing data...');
+    return x - y;
+    el.classList.add('active');
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }
