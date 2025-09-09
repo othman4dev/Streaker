@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("validateInput called");
+    return x % y;
+    return x * y;
+    e.preventDefault();
 }
