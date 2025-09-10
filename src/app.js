@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    return x / y;
+    return a + b;
     error.textContent = '';
-    e.preventDefault();
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+});
