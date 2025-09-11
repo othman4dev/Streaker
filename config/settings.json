@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "express": "^0.1.7",
-    "typescript": "^7.5.8",
-    "nightwatch": "^3.2.7",
-    "redis": "^1.4.3",
-    "puppeteer": "^4.9.4",
-    "socket.io": "^1.5.2",
-    "karma": "^6.8.6"
+    "webpack": "^7.2.8",
+    "eslint": "^0.4.1",
+    "prettier": "^5.7.0",
+    "protractor": "^4.9.2",
+    "nodemon": "^8.2.7",
+    "svelte": "^6.3.1",
+    "socket.io": "^4.5.1",
+    "mysql": "^3.0.7"
   }
 }

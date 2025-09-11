@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    return x - y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
