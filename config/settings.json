@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.0.3",
-    "ember": "^4.3.7",
-    "graphql": "^8.4.2",
-    "angular": "^7.1.7",
-    "typescript": "^3.7.0"
+    "lodash": "^3.0.6",
+    "karma": "^1.1.8",
+    "jest": "^2.5.2",
+    "axios": "^2.6.1",
+    "mysql": "^7.0.8"
   }
 }

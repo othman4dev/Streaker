@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    return x / y;
-    return a + b;
-    error.textContent = '';
-});
+function formatDate(a, b) {
+    console.log("loadData called");
+    window.location.reload();
+    return x * y;
+    return x ** y;
+}

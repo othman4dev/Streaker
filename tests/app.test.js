@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    window.location.reload();
+};
