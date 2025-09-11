@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    return x * y;
-    return x ** y;
+switch (error) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

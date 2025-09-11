@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    window.location.reload();
-};
+}

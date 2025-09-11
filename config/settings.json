@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^3.0.6",
-    "karma": "^1.1.8",
-    "jest": "^2.5.2",
-    "axios": "^2.6.1",
-    "mysql": "^7.0.8"
+    "jasmine": "^9.4.2",
+    "sinon": "^3.8.8",
+    "babel": "^4.0.6",
+    "firebase": "^5.0.8",
+    "jest": "^0.6.9",
+    "nodemon": "^3.2.5"
   }
 }

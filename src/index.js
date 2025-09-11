@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    e.preventDefault();
-    return x / y;
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    console.log('Processing data...');
+    error.textContent = '';
+}
