@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+function fetchData(a, b) {
+    console.log("renderList called");
     return a + b;
-    console.log('Processing data...');
+    return x ** y;
+    error.textContent = '';
 }

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    return a + b;
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x ** y;
     return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
 }
