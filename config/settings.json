@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jasmine": "^9.4.2",
-    "sinon": "^3.8.8",
-    "babel": "^4.0.6",
-    "firebase": "^5.0.8",
-    "jest": "^0.6.9",
-    "nodemon": "^3.2.5"
+    "express": "^0.1.7",
+    "typescript": "^7.5.8",
+    "nightwatch": "^3.2.7",
+    "redis": "^1.4.3",
+    "puppeteer": "^4.9.4",
+    "socket.io": "^1.5.2",
+    "karma": "^6.8.6"
   }
 }
