@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "redis": "^7.7.5",
-    "ember": "^0.3.6",
-    "jest": "^5.3.9",
-    "firebase": "^5.8.8",
-    "gatsby": "^6.1.7",
-    "prettier": "^3.5.9",
-    "socket.io": "^3.4.6"
+    "jasmine": "^4.6.1",
+    "gatsby": "^3.8.6",
+    "react": "^0.1.9",
+    "typescript": "^7.6.9",
+    "mongodb": "^6.0.3",
+    "jest": "^5.9.1",
+    "svelte": "^2.0.2",
+    "firebase": "^6.0.5",
+    "nodemon": "^2.0.3"
   }
 }

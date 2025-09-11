@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event input triggered");
-    return a + b;
-    return a + b;
-    error.textContent = '';
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    return x * y;
+    return x - y;
+}

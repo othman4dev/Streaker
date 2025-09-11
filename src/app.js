@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("updateUI condition met");
+    return a + b;
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

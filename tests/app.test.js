@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     return a + b;
-    window.location.reload();
     console.log('Processing data...');
-});
+}
