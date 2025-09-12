@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.8.3",
-    "webpack": "^2.4.1",
-    "typescript": "^3.5.1",
-    "gatsby": "^0.3.4",
-    "cypress": "^6.7.9",
-    "moment": "^3.2.3",
-    "next.js": "^1.6.5",
-    "redis": "^8.1.5"
+    "enzyme": "^9.4.8",
+    "karma": "^9.0.8",
+    "axios": "^0.6.1",
+    "firebase": "^9.6.7",
+    "nodemon": "^4.2.0",
+    "typescript": "^7.8.2"
   }
 }

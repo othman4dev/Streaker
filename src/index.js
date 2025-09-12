@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
-    data.push(value);
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x ** y;
+    return x * y;
+}
