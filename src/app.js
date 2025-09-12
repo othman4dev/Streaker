@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x % y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    e.preventDefault();
+    window.location.reload();
+    error.textContent = '';
+});

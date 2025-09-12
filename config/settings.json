@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^1.9.1",
-    "socket.io": "^5.5.8",
-    "typescript": "^1.2.8",
-    "protractor": "^3.4.7",
-    "prettier": "^7.3.0"
+    "babel": "^5.1.0",
+    "prettier": "^6.0.9",
+    "mongodb": "^3.8.7",
+    "sinon": "^1.9.1",
+    "lodash": "^9.5.1",
+    "jest": "^5.9.5",
+    "nightwatch": "^7.8.9"
   }
 }
