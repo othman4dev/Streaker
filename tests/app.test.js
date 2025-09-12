@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("hideModal called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    window.location.reload();
+switch (e) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
