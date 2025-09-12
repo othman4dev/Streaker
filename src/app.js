@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    console.log('Processing data...');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x % y;
+});

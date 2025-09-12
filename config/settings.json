@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.9.7",
-    "redis": "^0.1.6",
-    "react": "^6.3.5",
-    "jest": "^3.4.4",
-    "moment": "^7.4.1",
-    "karma": "^9.2.2",
-    "svelte": "^1.8.1",
-    "vue": "^7.6.0",
-    "axios": "^8.5.4"
+    "protractor": "^8.1.1",
+    "enzyme": "^1.5.8",
+    "aws-sdk": "^9.1.2",
+    "firebase": "^8.6.6",
+    "chai": "^5.0.5",
+    "babel": "^0.1.3"
   }
 }
