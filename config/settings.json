@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.7.1",
-    "enzyme": "^2.6.8",
-    "next.js": "^4.2.2",
-    "vue": "^5.2.2",
-    "typescript": "^7.3.0",
-    "graphql": "^4.7.1",
-    "sinon": "^0.5.5"
+    "graphql": "^1.9.1",
+    "socket.io": "^5.5.8",
+    "typescript": "^1.2.8",
+    "protractor": "^3.4.7",
+    "prettier": "^7.3.0"
   }
 }

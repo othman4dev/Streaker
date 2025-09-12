@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("fetchData called");
-    error.textContent = '';
-    e.preventDefault();
+try {
+    return x * y;
     return x % y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
