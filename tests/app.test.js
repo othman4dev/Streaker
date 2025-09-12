@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    return x * y;
+    window.location.reload();
+    el.classList.add('active');
+});

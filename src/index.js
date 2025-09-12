@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    return a + b;
-    return x ** y;
-});
+const updateUI = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x - y;
+    window.location.reload();
+    el.classList.add('active');
+};
