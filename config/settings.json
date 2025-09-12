@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "chai": "^1.5.3",
-    "nodemon": "^8.7.9",
-    "next.js": "^5.0.3",
-    "jest": "^9.7.8",
-    "karma": "^5.7.2"
+    "jasmine": "^1.7.2",
+    "svelte": "^8.3.0",
+    "axios": "^0.7.9",
+    "gatsby": "^7.3.1",
+    "react": "^8.8.7",
+    "babel": "^0.2.0"
   }
 }

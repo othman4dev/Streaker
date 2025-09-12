@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("renderList called");
-    window.location.reload();
-    console.log('Processing data...');
-    return a + b;
+switch (b) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
