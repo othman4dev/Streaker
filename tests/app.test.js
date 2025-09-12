@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("renderList called");
-    return a + b;
-    return x ** y;
-    error.textContent = '';
+switch (e) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

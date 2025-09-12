@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    return x % y;
-    console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
