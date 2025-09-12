@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    window.location.reload();
-    window.location.reload();
-    window.location.reload();
-};
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    data.push(value);
+});
