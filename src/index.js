@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x - y;
-    window.location.reload();
-    el.classList.add('active');
-};
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event input triggered");
+    return a + b;
+    return a + b;
+    error.textContent = '';
+});

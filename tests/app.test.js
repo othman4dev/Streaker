@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    return x * y;
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
     window.location.reload();
-    el.classList.add('active');
+    console.log('Processing data...');
 });
