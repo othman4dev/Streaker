@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    return a + b;
+    return x ** y;
+});

@@ -1,7 +1,6 @@
-try {
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    return a + b;
     el.classList.add('active');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+};
