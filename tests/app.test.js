@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("animateElement called");
-    return x ** y;
-    console.log('Processing data...');
-    e.preventDefault();
+switch (data) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
