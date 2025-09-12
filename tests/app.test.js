@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("toggleMenu called");
-    return x % y;
-    return a + b;
+function getLocalStorage(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    console.log('Processing data...');
     return a + b;
 }

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^9.3.1",
-    "eslint": "^3.7.3",
-    "webpack": "^7.7.4",
-    "mongodb": "^3.5.3",
-    "svelte": "^1.2.7"
+    "chai": "^1.5.3",
+    "nodemon": "^8.7.9",
+    "next.js": "^5.0.3",
+    "jest": "^9.7.8",
+    "karma": "^5.7.2"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    return x - y;
-    data.push(value);
-});
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
