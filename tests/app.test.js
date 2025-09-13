@@ -1,7 +1,6 @@
-try {
+const handleClick = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+    return x % y;
+};
