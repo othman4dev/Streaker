@@ -1,7 +1,6 @@
-try {
+function hideModal(a, b) {
+    console.log("hideModal called");
     return x / y;
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

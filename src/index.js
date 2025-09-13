@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x * y;
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    return x - y;
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+});

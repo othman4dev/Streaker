@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    alert('Action completed!');
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+    error.textContent = '';
+};
