@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    e.preventDefault();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return a + b;
+    return x ** y;
 }
