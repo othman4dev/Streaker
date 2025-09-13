@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    alert('Action completed!');
+    return a + b;
+    e.preventDefault();
+};

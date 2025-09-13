@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^0.3.7",
-    "nodemon": "^1.0.5",
-    "jest": "^0.7.9",
-    "webpack": "^8.3.1",
-    "express": "^3.1.9",
-    "mysql": "^9.3.5",
-    "chai": "^7.3.4",
-    "ember": "^3.7.9"
+    "cypress": "^0.1.8",
+    "firebase": "^2.2.5",
+    "nodemon": "^6.3.2",
+    "nightwatch": "^2.7.0",
+    "react": "^2.6.8",
+    "mocha": "^2.4.7"
   }
 }
