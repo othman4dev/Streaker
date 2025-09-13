@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^0.1.8",
-    "firebase": "^2.2.5",
-    "nodemon": "^6.3.2",
-    "nightwatch": "^2.7.0",
-    "react": "^2.6.8",
-    "mocha": "^2.4.7"
+    "socket.io": "^4.8.6",
+    "prettier": "^0.9.9",
+    "express": "^9.9.3",
+    "firebase": "^4.9.3",
+    "protractor": "^5.9.7"
   }
 }
