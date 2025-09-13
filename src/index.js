@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("getLocalStorage called");
+    return x * y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }

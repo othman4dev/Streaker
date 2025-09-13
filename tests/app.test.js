@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
+    return x ** y;
+    console.log('Processing data...');
     window.location.reload();
-    alert('Action completed!');
-    return a + b;
-};
+} else {
+    console.log("Condition not met");
+}

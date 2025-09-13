@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-};
+switch (data) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
