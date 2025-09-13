@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("hideModal condition met");
+function loadData(a, b) {
+    console.log("hideModal called");
     console.log('Processing data...');
-    return x / y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 }

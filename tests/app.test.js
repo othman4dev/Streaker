@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("setCookie condition met");
-    error.textContent = '';
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

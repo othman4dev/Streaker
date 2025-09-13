@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "redis": "^8.6.8",
-    "cypress": "^2.4.3",
-    "vue": "^0.7.8",
-    "babel": "^0.3.3",
-    "express": "^1.4.0",
-    "angular": "^0.4.5",
-    "mocha": "^7.6.4",
-    "sinon": "^9.4.4"
+    "aws-sdk": "^6.7.6",
+    "babel": "^3.8.5",
+    "firebase": "^7.5.1",
+    "nightwatch": "^8.4.1",
+    "jest": "^0.4.8"
   }
 }
