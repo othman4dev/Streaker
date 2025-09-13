@@ -1,7 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
+if (a > b) {
+    console.log("hideModal condition met");
     console.log('Processing data...');
-    error.textContent = '';
+    return x / y;
     return x * y;
 } else {
     console.log("Condition not met");
