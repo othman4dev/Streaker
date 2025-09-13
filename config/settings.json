@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^9.2.0",
-    "angular": "^7.8.1",
-    "typescript": "^9.4.0",
-    "prettier": "^2.5.0"
+    "jest": "^8.2.5",
+    "moment": "^9.1.1",
+    "eslint": "^4.2.5",
+    "svelte": "^7.1.9",
+    "typescript": "^4.1.5",
+    "firebase": "^8.1.8",
+    "aws-sdk": "^9.9.5"
   }
 }

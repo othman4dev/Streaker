@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    el.classList.add('active');
-    window.location.reload();
-    error.textContent = '';
-};
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+}
