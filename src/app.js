@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
-    data.push(value);
-    return x - y;
-};
+function updateUI(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    console.log('Processing data...');
+}

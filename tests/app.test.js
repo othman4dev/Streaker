@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event resize triggered");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-});
+    window.location.reload();
+    console.log('Processing data...');
+}

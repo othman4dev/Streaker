@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    window.location.reload();
-    return x - y;
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    return a + b;
 });
