@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+const displayError = (a, b, data) => {
+    console.log("renderList arrow function called");
     window.location.reload();
-    return x ** y;
-    return x % y;
+    alert('Action completed!');
+    return a + b;
 };

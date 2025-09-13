@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x % y;
-    return x - y;
-    e.preventDefault();
-};
+switch (data) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

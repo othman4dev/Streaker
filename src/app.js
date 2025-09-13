@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    return x / y;
-    alert('Action completed!');
-});
+const processInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};
