@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    el.classList.add('active');
+const updateUI = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x ** y;
-}
+    data.push(value);
+    return x - y;
+};
