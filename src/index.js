@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("hideModal called");
-    console.log('Processing data...');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (a) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
