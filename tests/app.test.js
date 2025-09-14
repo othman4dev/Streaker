@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
+try {
+    error.textContent = '';
+    data.push(value);
     return x ** y;
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

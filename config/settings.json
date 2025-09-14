@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.4.0",
-    "babel": "^9.5.0",
-    "sinon": "^9.6.0",
-    "typescript": "^5.6.1",
-    "mysql": "^9.0.9",
-    "moment": "^6.2.5",
-    "express": "^2.4.4"
+    "ember": "^7.7.4",
+    "axios": "^7.0.0",
+    "jasmine": "^7.9.7",
+    "gatsby": "^8.0.0",
+    "karma": "^6.0.2"
   }
 }
