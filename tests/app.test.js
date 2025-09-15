@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    alert('Action completed!');
-    data.push(value);
-    window.location.reload();
-};
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    el.classList.add('active');
+});

@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    return a + b;
+    el.classList.add('active');
     return x * y;
-    e.preventDefault();
-    alert('Action completed!');
-});
+} else {
+    console.log("Condition not met");
+}
