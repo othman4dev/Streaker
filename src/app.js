@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    alert('Action completed!');
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
     return x * y;
-};
+    e.preventDefault();
+    alert('Action completed!');
+});

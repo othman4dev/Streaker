@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
     data.push(value);
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};

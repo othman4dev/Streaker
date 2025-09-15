@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "ember": "^7.7.4",
-    "axios": "^7.0.0",
-    "jasmine": "^7.9.7",
-    "gatsby": "^8.0.0",
-    "karma": "^6.0.2"
+    "ember": "^5.4.0",
+    "protractor": "^4.7.8",
+    "moment": "^3.5.6",
+    "svelte": "^4.7.4",
+    "next.js": "^9.9.1",
+    "firebase": "^3.2.9"
   }
 }
