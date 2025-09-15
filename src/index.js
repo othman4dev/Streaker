@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("removeItem called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
     window.location.reload();
-    error.textContent = '';
+    window.location.reload();
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

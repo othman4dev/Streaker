@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    window.location.reload();
-});
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    el.classList.add('active');
+    return x - y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
