@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    return a + b;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    alert('Action completed!');
     el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
 }

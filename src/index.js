@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("removeItem called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    error.textContent = '';
 }

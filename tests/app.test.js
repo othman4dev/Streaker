@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    el.classList.add('active');
+    console.log('Processing data...');
+    window.location.reload();
 });
