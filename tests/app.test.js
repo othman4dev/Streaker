@@ -1,7 +1,7 @@
 try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    e.preventDefault();
+    data.push(value);
+    return x - y;
+    return a + b;
 } catch (error) {
     console.error("Error:", error);
 }

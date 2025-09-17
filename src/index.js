@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return a + b;
+};
