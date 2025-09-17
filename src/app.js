@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    return x - y;
-    return a + b;
-});
+const validateInput = (a, b, data) => {
+    console.log("createChart arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    alert('Action completed!');
+};

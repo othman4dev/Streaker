@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    return x / y;
-    return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }
