@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    el.classList.add('active');
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
     return x % y;
-}
+    return x - y;
+    return a + b;
+});

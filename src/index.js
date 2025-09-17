@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("renderList arrow function called");
+try {
+    data.push(value);
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return a + b;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
