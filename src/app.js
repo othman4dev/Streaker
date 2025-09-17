@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    return a + b;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    return x * y;
-});
+    return x % y;
+    e.preventDefault();
+}
