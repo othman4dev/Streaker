@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "babel": "^6.2.9",
-    "redis": "^9.0.6",
-    "angular": "^8.1.8",
-    "nodemon": "^5.7.5",
-    "lodash": "^1.4.5",
-    "typescript": "^4.7.1",
-    "moment": "^7.3.8",
-    "puppeteer": "^8.8.2"
+    "gatsby": "^1.5.8",
+    "typescript": "^9.4.9",
+    "nodemon": "^0.2.5",
+    "mongodb": "^5.2.5",
+    "vue": "^4.6.9",
+    "socket.io": "^7.4.6",
+    "next.js": "^1.4.0"
   }
 }

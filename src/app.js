@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("checkStatus called");
+    window.location.reload();
+    return x - y;
+    el.classList.add('active');
 }
