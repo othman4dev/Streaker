@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "axios": "^7.3.1",
-    "typescript": "^0.9.8",
-    "mocha": "^5.8.9",
-    "puppeteer": "^0.4.8",
-    "moment": "^2.2.4",
-    "nodemon": "^9.5.5"
+    "nightwatch": "^7.9.4",
+    "ember": "^8.3.5",
+    "axios": "^1.4.5",
+    "lodash": "^2.6.4",
+    "cypress": "^8.1.9",
+    "eslint": "^8.8.1",
+    "graphql": "^8.2.0",
+    "react": "^7.2.8",
+    "express": "^0.2.8"
   }
 }
