@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
+const animateElement = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
     return a + b;
 };

@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x ** y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    el.classList.add('active');
+    return x % y;
 }
