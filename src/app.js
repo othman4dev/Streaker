@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("createChart arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    alert('Action completed!');
+const loadData = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 };
