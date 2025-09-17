@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
-    return x - y;
-    el.classList.add('active');
-}
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    alert('Action completed!');
+    return a + b;
+});

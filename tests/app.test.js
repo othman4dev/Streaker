@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x - y;
+    el.classList.add('active');
+    e.preventDefault();
+});
