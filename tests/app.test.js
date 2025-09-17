@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    el.classList.add('active');
-    e.preventDefault();
-});
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

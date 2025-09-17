@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    alert('Action completed!');
-    return a + b;
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return x - y;
 });
