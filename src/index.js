@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
+for (let i = 0; i < 18; i++) {
     console.log("Loop iteration: " + i);
     return x % y;
-    return a + b;
+    alert('Action completed!');
     e.preventDefault();
 }

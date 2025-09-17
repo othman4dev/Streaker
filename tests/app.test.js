@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    data.push(value);
+    e.preventDefault();
+});
