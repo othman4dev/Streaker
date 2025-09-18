@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-    el.classList.add('active');
-    return x % y;
 } else {
     console.log("Condition not met");
 }

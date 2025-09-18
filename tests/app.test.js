@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    error.textContent = '';
-};
+try {
+    return x ** y;
+    e.preventDefault();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
