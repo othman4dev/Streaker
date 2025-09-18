@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("setCookie called");
-    error.textContent = '';
-    return a + b;
-    return x / y;
+if (x === y) {
+    console.log("processInput condition met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

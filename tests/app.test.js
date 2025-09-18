@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
     return a + b;
-    window.location.reload();
-};
+    return a + b;
+});
