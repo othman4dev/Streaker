@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    e.preventDefault();
-    data.push(value);
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    el.classList.add('active');
+    return x / y;
+}

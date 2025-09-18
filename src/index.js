@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
+const updateUI = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return x / y;
-    el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    error.textContent = '';
+};
