@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("loadData arrow function called");
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    data.push(value);
     return x * y;
-    error.textContent = '';
-    console.log('Processing data...');
-};
+});

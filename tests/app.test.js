@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return x - y;
+try {
     alert('Action completed!');
-    data.push(value);
-});
+    console.log('Processing data...');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
