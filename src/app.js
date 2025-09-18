@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    e.preventDefault();
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x / y;
+    return x / y;
+}

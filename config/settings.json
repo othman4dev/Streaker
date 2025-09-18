@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "redis": "^5.8.5",
-    "karma": "^0.6.2",
-    "axios": "^6.0.8",
-    "mysql": "^4.1.8",
-    "socket.io": "^4.7.1",
-    "jest": "^7.8.6"
+    "protractor": "^6.6.9",
+    "jest": "^1.1.9",
+    "eslint": "^5.1.7",
+    "babel": "^2.9.2",
+    "svelte": "^1.7.4",
+    "mocha": "^7.2.7",
+    "graphql": "^4.6.8",
+    "webpack": "^8.9.7"
   }
 }
