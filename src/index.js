@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    console.log('Processing data...');
+const validateInput = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
     return x * y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+};

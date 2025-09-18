@@ -1,6 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("e case 1");
+switch (x) {
+    case 1:
+        console.log("x case 1");
         break;
     default:
         console.log("Default case");

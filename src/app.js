@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    e.preventDefault();
+};
