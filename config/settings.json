@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^6.6.9",
-    "jest": "^1.1.9",
-    "eslint": "^5.1.7",
-    "babel": "^2.9.2",
-    "svelte": "^1.7.4",
-    "mocha": "^7.2.7",
-    "graphql": "^4.6.8",
-    "webpack": "^8.9.7"
+    "ember": "^0.4.8",
+    "enzyme": "^6.0.4",
+    "aws-sdk": "^5.2.5",
+    "webpack": "^7.3.2",
+    "firebase": "^2.6.3",
+    "eslint": "^3.0.8"
   }
 }

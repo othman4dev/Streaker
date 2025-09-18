@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x / y;
-    return x / y;
-}
+const createChart = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x * y;
+    error.textContent = '';
+    console.log('Processing data...');
+};
