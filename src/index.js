@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x / y;
-    return x ** y;
-    error.textContent = '';
-};
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    data.push(value);
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
