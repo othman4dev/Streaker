@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
-    return x - y;
-    el.classList.add('active');
-    el.classList.add('active');
+function handleClick(a, b) {
+    console.log("checkStatus called");
+    e.preventDefault();
+    e.preventDefault();
+    return x * y;
 }

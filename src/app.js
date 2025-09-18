@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    return x - y;
-    return a + b;
-};
+switch (e) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

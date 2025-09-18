@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "angular": "^2.0.0",
-    "puppeteer": "^8.3.3",
-    "gatsby": "^2.3.0",
-    "cypress": "^6.1.6",
-    "enzyme": "^7.1.5",
-    "eslint": "^0.1.6",
-    "jasmine": "^5.9.2",
-    "jest": "^0.9.1"
+    "jest": "^9.2.6",
+    "graphql": "^5.7.5",
+    "nodemon": "^1.5.3",
+    "babel": "^8.8.8",
+    "aws-sdk": "^2.4.2"
   }
 }
