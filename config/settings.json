@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "puppeteer": "^6.1.7",
-    "jasmine": "^5.7.8",
-    "webpack": "^2.5.9",
-    "lodash": "^5.5.1",
-    "aws-sdk": "^7.2.6"
+    "jasmine": "^1.9.9",
+    "redis": "^4.8.1",
+    "jest": "^8.1.2",
+    "eslint": "^2.3.7"
   }
 }
