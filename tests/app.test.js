@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    return x ** y;
-    return a + b;
-    return a + b;
-});
+function loadData(a, b) {
+    console.log("checkStatus called");
+    return x % y;
+    e.preventDefault();
+    window.location.reload();
+}

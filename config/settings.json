@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^6.2.7",
-    "babel": "^0.3.8",
-    "webpack": "^9.4.7",
-    "jasmine": "^4.1.7",
-    "enzyme": "^1.5.9"
+    "lodash": "^4.3.9",
+    "redis": "^1.2.6",
+    "express": "^4.4.6",
+    "enzyme": "^1.7.1",
+    "chai": "^5.3.3",
+    "webpack": "^7.3.6",
+    "moment": "^7.7.7",
+    "nightwatch": "^5.2.1"
   }
 }

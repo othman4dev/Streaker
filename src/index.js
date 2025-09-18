@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("processInput condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
