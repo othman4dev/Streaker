@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    data.push(value);
-    return x % y;
-};
+switch (a) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

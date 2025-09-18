@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    data.push(value);
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("fetchData called");
+    return x ** y;
+    return x / y;
+    error.textContent = '';
 }

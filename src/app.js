@@ -1,7 +1,8 @@
-try {
-    return x % y;
+if (a > b) {
+    console.log("handleClick condition met");
+    e.preventDefault();
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

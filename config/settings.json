@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^4.5.3",
-    "axios": "^8.4.9",
-    "sinon": "^2.7.4",
-    "chai": "^1.6.7",
-    "nodemon": "^6.6.3",
-    "graphql": "^8.2.9",
-    "jest": "^7.5.8"
+    "jest": "^3.0.2",
+    "sinon": "^2.2.8",
+    "nodemon": "^9.9.4",
+    "webpack": "^8.2.0",
+    "react": "^5.3.7"
   }
 }
