@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    el.classList.add('active');
+    console.log('Processing data...');
 }
