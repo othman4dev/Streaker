@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^4.3.9",
-    "redis": "^1.2.6",
-    "express": "^4.4.6",
-    "enzyme": "^1.7.1",
-    "chai": "^5.3.3",
-    "webpack": "^7.3.6",
-    "moment": "^7.7.7",
-    "nightwatch": "^5.2.1"
+    "angular": "^2.0.0",
+    "puppeteer": "^8.3.3",
+    "gatsby": "^2.3.0",
+    "cypress": "^6.1.6",
+    "enzyme": "^7.1.5",
+    "eslint": "^0.1.6",
+    "jasmine": "^5.9.2",
+    "jest": "^0.9.1"
   }
 }

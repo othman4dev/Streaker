@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    data.push(value);
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const fetchData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x / y;
+    return x - y;
+    return a + b;
+};

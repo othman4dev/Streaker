@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    return x - y;
+    el.classList.add('active');
+    el.classList.add('active');
 }

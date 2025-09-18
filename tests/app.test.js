@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("checkStatus called");
-    return x % y;
-    e.preventDefault();
+try {
+    return x / y;
+    return a + b;
     window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
