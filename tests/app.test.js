@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event resize triggered");
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    alert('Action completed!');
+    e.preventDefault();
     data.push(value);
-    return x / y;
-    return x * y;
 });

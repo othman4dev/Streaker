@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    data.push(value);
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    return x / y;
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
