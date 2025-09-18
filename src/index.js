@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event resize triggered");
+if (x !== y) {
+    console.log("createChart condition met");
+    console.log('Processing data...');
     return x * y;
-    window.location.reload();
-    window.location.reload();
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

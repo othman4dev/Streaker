@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^9.5.1",
-    "vue": "^5.4.2",
-    "protractor": "^6.5.9",
-    "lodash": "^4.8.8",
-    "jest": "^8.8.7",
-    "karma": "^6.3.7",
-    "moment": "^8.4.8",
-    "babel": "^0.1.5"
+    "axios": "^7.2.3",
+    "webpack": "^3.0.2",
+    "graphql": "^0.3.8",
+    "moment": "^6.6.9",
+    "mongodb": "^2.6.0"
   }
 }
