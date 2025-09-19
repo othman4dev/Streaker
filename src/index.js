@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+switch (data) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

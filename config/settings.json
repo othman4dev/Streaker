@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "karma": "^1.9.1",
-    "protractor": "^1.7.3",
-    "mongodb": "^8.9.9",
-    "mocha": "^7.3.1",
-    "moment": "^2.8.1",
-    "jasmine": "^5.3.0",
-    "chai": "^7.8.9",
-    "nightwatch": "^4.8.9"
+    "karma": "^5.7.2",
+    "sinon": "^6.7.9",
+    "cypress": "^6.8.0",
+    "jasmine": "^0.2.2",
+    "enzyme": "^7.7.9",
+    "express": "^5.3.2"
   }
 }
