@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^3.0.2",
-    "sinon": "^2.2.8",
-    "nodemon": "^9.9.4",
-    "webpack": "^8.2.0",
-    "react": "^5.3.7"
+    "karma": "^1.9.1",
+    "protractor": "^1.7.3",
+    "mongodb": "^8.9.9",
+    "mocha": "^7.3.1",
+    "moment": "^2.8.1",
+    "jasmine": "^5.3.0",
+    "chai": "^7.8.9",
+    "nightwatch": "^4.8.9"
   }
 }

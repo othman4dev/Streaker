@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("handleClick condition met");
+const loadData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
     e.preventDefault();
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};
