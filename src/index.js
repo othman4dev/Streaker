@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    error.textContent = '';
-    el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    data.push(value);
+    return x % y;
+};
