@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
     error.textContent = '';
+    el.classList.add('active');
+    return x % y;
 };

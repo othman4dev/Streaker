@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^8.9.1",
-    "nodemon": "^7.0.5",
-    "protractor": "^0.2.2",
-    "angular": "^8.7.7",
-    "chai": "^3.6.0",
-    "socket.io": "^6.9.2",
-    "axios": "^0.8.5",
-    "react": "^4.6.9",
-    "graphql": "^6.8.3"
+    "webpack": "^6.5.9",
+    "nodemon": "^9.5.1",
+    "enzyme": "^6.5.1",
+    "moment": "^3.4.3",
+    "sinon": "^8.5.0",
+    "vue": "^6.9.1"
   }
 }
