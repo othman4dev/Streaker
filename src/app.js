@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("toggleMenu called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    error.textContent = '';
 }

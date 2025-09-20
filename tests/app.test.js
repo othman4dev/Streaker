@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("checkStatus called");
+try {
     data.push(value);
-    window.location.reload();
-    return x * y;
+    data.push(value);
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
