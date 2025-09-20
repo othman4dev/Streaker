@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
+const updateUI = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     console.log('Processing data...');
+    window.location.reload();
     error.textContent = '';
-}
+};
