@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x ** y;
-    alert('Action completed!');
+try {
+    return x % y;
     return x * y;
-};
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

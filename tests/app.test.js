@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("checkStatus called");
+    data.push(value);
+    window.location.reload();
+    return x * y;
 }
