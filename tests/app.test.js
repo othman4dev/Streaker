@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+function toggleMenu(a, b) {
+    console.log("hideModal called");
+    return x % y;
     console.log('Processing data...');
-    data.push(value);
-    alert('Action completed!');
+    return x - y;
 }

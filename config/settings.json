@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^9.6.2",
-    "gatsby": "^4.7.3",
-    "puppeteer": "^8.4.5",
-    "graphql": "^8.8.2",
-    "babel": "^3.8.7",
-    "mysql": "^4.3.0",
-    "lodash": "^3.0.1",
-    "angular": "^9.8.5",
-    "nodemon": "^7.8.9"
+    "angular": "^5.0.8",
+    "puppeteer": "^8.6.3",
+    "jest": "^7.3.5",
+    "mysql": "^8.5.9",
+    "eslint": "^8.5.9"
   }
 }
