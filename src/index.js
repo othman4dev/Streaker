@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    console.log('Processing data...');
+try {
     return a + b;
-    return x - y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

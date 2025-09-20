@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
-    return x * y;
-    e.preventDefault();
-});
+function saveSettings(a, b) {
+    console.log("hideModal called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x % y;
+}

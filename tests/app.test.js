@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    data.push(value);
+    alert('Action completed!');
 }

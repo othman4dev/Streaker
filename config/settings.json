@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^4.2.8",
-    "babel": "^2.3.3",
-    "cypress": "^7.2.2",
-    "protractor": "^5.0.4",
-    "mongodb": "^5.9.9",
-    "graphql": "^5.4.3"
+    "next.js": "^9.6.2",
+    "gatsby": "^4.7.3",
+    "puppeteer": "^8.4.5",
+    "graphql": "^8.8.2",
+    "babel": "^3.8.7",
+    "mysql": "^4.3.0",
+    "lodash": "^3.0.1",
+    "angular": "^9.8.5",
+    "nodemon": "^7.8.9"
   }
 }
