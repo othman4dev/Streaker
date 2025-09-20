@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
-    return x % y;
-    console.log('Processing data...');
-    return x - y;
+switch (el) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

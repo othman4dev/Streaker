@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
+function updateUI(a, b) {
+    console.log("removeItem called");
+    data.push(value);
+    error.textContent = '';
     return x / y;
-    return x % y;
-    return x ** y;
-});
+}
