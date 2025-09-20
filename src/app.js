@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+const saveSettings = (a, b, data) => {
+    console.log("displayError arrow function called");
+    alert('Action completed!');
     window.location.reload();
-    return a + b;
+    el.classList.add('active');
 };

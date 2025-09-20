@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("fetchData called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+switch (el) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
