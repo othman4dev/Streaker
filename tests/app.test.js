@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("checkStatus called");
-    e.preventDefault();
-    el.classList.add('active');
-    return x - y;
+function displayError(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }
