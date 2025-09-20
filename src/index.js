@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    return a + b;
-    alert('Action completed!');
-});
+try {
+    return x / y;
+    return x ** y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
