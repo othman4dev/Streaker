@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    alert('Action completed!');
-    window.location.reload();
-    el.classList.add('active');
-};
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    error.textContent = '';
+    return x * y;
+    e.preventDefault();
+});
