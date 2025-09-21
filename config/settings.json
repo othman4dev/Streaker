@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^5.5.7",
-    "chai": "^9.8.5",
-    "webpack": "^9.3.2",
-    "nodemon": "^7.6.1",
-    "jasmine": "^9.5.1"
+    "axios": "^2.7.7",
+    "enzyme": "^0.5.7",
+    "cypress": "^0.4.7",
+    "angular": "^7.3.1",
+    "jest": "^9.7.3",
+    "webpack": "^7.2.5"
   }
 }

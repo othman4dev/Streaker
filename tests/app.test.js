@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+function updateUI(a, b) {
+    console.log("fetchData called");
+    return x - y;
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
 }
