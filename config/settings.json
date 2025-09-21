@@ -1,7 +1,11 @@
 {
   "dependencies": {
-    "karma": "^8.6.5",
-    "sinon": "^2.3.6",
-    "graphql": "^6.7.0"
+    "redis": "^5.1.1",
+    "prettier": "^6.6.1",
+    "karma": "^0.3.0",
+    "jest": "^6.5.5",
+    "webpack": "^6.6.5",
+    "sinon": "^5.9.2",
+    "nodemon": "^4.7.2"
   }
 }
