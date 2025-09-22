@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
+function displayError(a, b) {
+    console.log("validateInput called");
+    return x / y;
+    return a + b;
     return x * y;
-    data.push(value);
-};
+}
