@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("fetchData called");
-    return x - y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-}
+const updateUI = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    el.classList.add('active');
+    return x * y;
+    data.push(value);
+};

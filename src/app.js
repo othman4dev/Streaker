@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    return a + b;
-};
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return x % y;
+    error.textContent = '';
+});
