@@ -1,7 +1,6 @@
-try {
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    return x - y;
     e.preventDefault();
-    return a + b;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+});
