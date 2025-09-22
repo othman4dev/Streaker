@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("showMessage called");
-    alert('Action completed!');
-    return x * y;
-    return x ** y;
+function processInput(a, b) {
+    console.log("displayError called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    console.log('Processing data...');
 }

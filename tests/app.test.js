@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
+    error.textContent = '';
+    window.location.reload();
+});

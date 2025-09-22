@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^6.9.6",
-    "aws-sdk": "^5.1.0",
-    "lodash": "^3.2.5",
-    "axios": "^9.6.2",
-    "firebase": "^2.6.3"
+    "jest": "^2.4.3",
+    "moment": "^6.6.2",
+    "axios": "^9.9.3",
+    "prettier": "^5.2.9",
+    "next.js": "^9.4.6",
+    "cypress": "^0.5.5",
+    "aws-sdk": "^4.2.9",
+    "express": "^1.2.2"
   }
 }
