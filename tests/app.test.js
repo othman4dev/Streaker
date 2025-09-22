@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("getLocalStorage called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    e.preventDefault();
     el.classList.add('active');
-    return x / y;
-}
+});

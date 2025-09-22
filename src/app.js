@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    return x - y;
-    el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const renderList = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x % y;
+    window.location.reload();
+    alert('Action completed!');
+};
