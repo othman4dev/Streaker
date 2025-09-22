@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    console.log('Processing data...');
-    return x / y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    e.preventDefault();
+});

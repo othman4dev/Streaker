@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("displayError called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    console.log('Processing data...');
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    return x / y;
+    return x % y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
