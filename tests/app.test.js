@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("animateElement called");
-    return x % y;
-    e.preventDefault();
+try {
     return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

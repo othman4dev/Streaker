@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "moment": "^0.8.3",
-    "protractor": "^7.1.4",
-    "angular": "^4.3.0",
-    "jest": "^3.2.5",
-    "chai": "^4.7.1",
-    "mysql": "^3.9.4"
+    "next.js": "^5.5.7",
+    "chai": "^9.8.5",
+    "webpack": "^9.3.2",
+    "nodemon": "^7.6.1",
+    "jasmine": "^9.5.1"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    return x - y;
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+});
