@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    return x - y;
+    el.classList.add('active');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

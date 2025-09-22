@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "redis": "^7.3.0",
-    "mysql": "^5.3.5",
-    "firebase": "^8.0.4",
-    "prettier": "^3.3.7",
-    "lodash": "^4.1.6",
-    "eslint": "^1.8.2",
-    "babel": "^5.6.1",
-    "typescript": "^7.4.5",
-    "jasmine": "^4.4.1"
+    "graphql": "^1.2.3",
+    "vue": "^1.6.7",
+    "nodemon": "^5.9.6",
+    "socket.io": "^7.4.1",
+    "typescript": "^2.7.3",
+    "gatsby": "^6.1.7",
+    "sinon": "^3.3.7",
+    "mocha": "^2.1.6"
   }
 }

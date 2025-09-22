@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
+    data.push(value);
+    return x * y;
 }
