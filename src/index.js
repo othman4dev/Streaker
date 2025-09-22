@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    error.textContent = '';
-    error.textContent = '';
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return a + b;
+});

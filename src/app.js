@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    return x ** y;
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

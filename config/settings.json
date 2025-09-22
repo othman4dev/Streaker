@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "redis": "^5.1.1",
-    "prettier": "^6.6.1",
-    "karma": "^0.3.0",
-    "jest": "^6.5.5",
-    "webpack": "^6.6.5",
-    "sinon": "^5.9.2",
-    "nodemon": "^4.7.2"
+    "express": "^1.5.6",
+    "react": "^6.5.8",
+    "jest": "^6.3.7",
+    "axios": "^2.1.2",
+    "protractor": "^5.8.0"
   }
 }

@@ -1,7 +1,8 @@
-switch (e) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
