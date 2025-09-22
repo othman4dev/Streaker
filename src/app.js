@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+if (x !== y) {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    return a + b;
 } else {
     console.log("Condition not met");
 }
