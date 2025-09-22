@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("removeItem called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x * y;
+switch (y) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

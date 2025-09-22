@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("validateInput called");
-    return x ** y;
-    return x * y;
-    e.preventDefault();
-}
+const animateElement = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    data.push(value);
+    return x - y;
+    data.push(value);
+};

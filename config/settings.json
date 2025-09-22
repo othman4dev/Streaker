@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^3.2.4",
-    "jest": "^6.3.6",
-    "protractor": "^4.3.0",
-    "react": "^7.5.0",
-    "chai": "^2.3.7",
-    "socket.io": "^7.1.1",
-    "gatsby": "^2.6.5",
-    "aws-sdk": "^2.3.2"
+    "karma": "^6.0.7",
+    "svelte": "^7.3.8",
+    "sinon": "^5.6.8",
+    "firebase": "^9.6.8",
+    "eslint": "^2.9.3"
   }
 }
