@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    data.push(value);
+function displayError(a, b) {
+    console.log("validateInput called");
+    return x ** y;
+    return x * y;
     e.preventDefault();
-    el.classList.add('active');
-});
+}

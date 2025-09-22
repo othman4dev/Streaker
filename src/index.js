@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x ** y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("removeItem called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x * y;
 }

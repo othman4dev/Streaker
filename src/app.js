@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    window.location.reload();
-    alert('Action completed!');
-};
+switch (data) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
