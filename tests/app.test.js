@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    data.push(value);
-    return x - y;
-    data.push(value);
-};
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    e.preventDefault();
+});
