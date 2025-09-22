@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    return x - y;
+    window.location.reload();
+});

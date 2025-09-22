@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^9.8.4",
-    "nodemon": "^0.9.0",
-    "mongodb": "^3.1.9",
-    "jest": "^1.0.8",
-    "next.js": "^1.0.8"
+    "jasmine": "^6.9.6",
+    "aws-sdk": "^5.1.0",
+    "lodash": "^3.2.5",
+    "axios": "^9.6.2",
+    "firebase": "^2.6.3"
   }
 }

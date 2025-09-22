@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    error.textContent = '';
-    return x - y;
-};
+function setSessionStorage(a, b) {
+    console.log("showMessage called");
+    alert('Action completed!');
+    return x * y;
+    return x ** y;
+}
