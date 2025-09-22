@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    e.preventDefault();
-});
+const updateUI = (a, b, data) => {
+    console.log("createChart arrow function called");
+    el.classList.add('active');
+    return x - y;
+    return x * y;
+};
