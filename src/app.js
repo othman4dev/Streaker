@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    return x ** y;
-    return x - y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

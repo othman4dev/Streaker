@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

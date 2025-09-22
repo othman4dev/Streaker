@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+function removeItem(a, b) {
+    console.log("getLocalStorage called");
     return a + b;
-});
+    error.textContent = '';
+    e.preventDefault();
+}
