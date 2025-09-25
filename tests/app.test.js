@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
+try {
+    return x * y;
     return x % y;
-};
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
