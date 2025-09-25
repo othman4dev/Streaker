@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x % y;
+};

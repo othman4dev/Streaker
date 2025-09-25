@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.4.1",
-    "firebase": "^0.1.8",
-    "express": "^9.3.0",
-    "typescript": "^4.3.3"
+    "karma": "^9.6.4",
+    "socket.io": "^4.4.2",
+    "jest": "^3.0.0",
+    "firebase": "^2.4.0",
+    "prettier": "^1.5.1"
   }
 }

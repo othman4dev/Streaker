@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
-    return x ** y;
-    alert('Action completed!');
+try {
+    return x * y;
+    return a + b;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    data.push(value);
-    window.location.reload();
-    return a + b;
-};
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x / y;
+    return x % y;
+}
