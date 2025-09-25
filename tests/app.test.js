@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    console.log('Processing data...');
+try {
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-});
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

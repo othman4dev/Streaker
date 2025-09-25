@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    window.location.reload();
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x - y;
 }

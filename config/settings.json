@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^6.4.8",
-    "socket.io": "^9.4.3",
-    "moment": "^3.8.8",
-    "sinon": "^3.8.3"
+    "webpack": "^8.9.2",
+    "svelte": "^3.5.5",
+    "graphql": "^7.3.4",
+    "jasmine": "^3.3.6",
+    "mongodb": "^2.8.4",
+    "sinon": "^8.1.7",
+    "mysql": "^0.9.0"
   }
 }

@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
+function toggleMenu(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
     return x ** y;
-    return x - y;
-};
+    return x / y;
+}
