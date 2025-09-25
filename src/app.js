@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x / y;
-    return x * y;
-    return x / y;
-};
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    el.classList.add('active');
+    e.preventDefault();
+}

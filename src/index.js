@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+const createChart = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    return x - y;
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+};
