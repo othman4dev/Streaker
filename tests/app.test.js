@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const validateInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    return a + b;
+    return x ** y;
+};
