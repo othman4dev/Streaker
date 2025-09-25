@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    return x ** y;
+const animateElement = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
 };
