@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^6.0.8",
-    "eslint": "^5.8.2",
-    "graphql": "^7.6.3",
-    "babel": "^5.2.9",
-    "enzyme": "^7.9.7",
-    "chai": "^5.5.7",
-    "sinon": "^1.0.3"
+    "ember": "^0.1.0",
+    "nightwatch": "^1.6.9",
+    "moment": "^1.7.6",
+    "nodemon": "^7.6.6",
+    "gatsby": "^3.3.8",
+    "puppeteer": "^4.5.9",
+    "enzyme": "^1.0.8",
+    "firebase": "^0.8.9"
   }
 }

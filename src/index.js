@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    return x / y;
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+});

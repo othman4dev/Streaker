@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    data.push(value);
+function loadData(a, b) {
+    console.log("animateElement called");
+    return x - y;
     alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-};
+}
