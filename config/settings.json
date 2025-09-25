@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^3.2.1",
-    "sinon": "^7.4.8",
-    "enzyme": "^3.3.3",
-    "socket.io": "^0.3.9",
-    "mongodb": "^0.5.8",
-    "babel": "^6.8.3",
-    "cypress": "^1.8.9"
+    "express": "^0.3.9",
+    "nightwatch": "^6.9.9",
+    "socket.io": "^3.0.0",
+    "mysql": "^5.7.5",
+    "mocha": "^3.6.6"
   }
 }

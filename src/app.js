@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return x ** y;
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    return x % y;
+};
