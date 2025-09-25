@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "axios": "^9.5.4",
-    "typescript": "^0.6.1",
-    "mocha": "^0.8.4",
-    "gatsby": "^7.9.5",
-    "lodash": "^0.7.0",
-    "eslint": "^5.8.2",
-    "cypress": "^3.4.0",
-    "jest": "^9.6.9"
+    "react": "^1.5.7",
+    "socket.io": "^4.4.5",
+    "vue": "^2.5.6",
+    "eslint": "^9.2.4",
+    "next.js": "^2.1.2",
+    "axios": "^7.6.4",
+    "firebase": "^1.6.0",
+    "typescript": "^8.8.2"
   }
 }
