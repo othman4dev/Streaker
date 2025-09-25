@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
+function removeItem(a, b) {
+    console.log("saveSettings called");
     window.location.reload();
-    data.push(value);
+    return x ** y;
+    alert('Action completed!');
 }

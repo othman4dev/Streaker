@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x * y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    data.push(value);
+    window.location.reload();
+    return a + b;
+};
