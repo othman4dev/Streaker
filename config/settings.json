@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "mysql": "^0.8.5",
-    "vue": "^5.6.6",
-    "svelte": "^6.8.3",
-    "prettier": "^4.9.2",
-    "angular": "^1.2.6",
-    "mocha": "^3.6.2",
-    "karma": "^0.8.6",
-    "aws-sdk": "^3.3.7"
+    "mocha": "^3.2.2",
+    "babel": "^2.5.6",
+    "prettier": "^9.0.5",
+    "aws-sdk": "^8.5.4",
+    "axios": "^9.8.3",
+    "typescript": "^0.7.9",
+    "react": "^0.8.5",
+    "eslint": "^1.7.6",
+    "gatsby": "^3.6.0"
   }
 }
