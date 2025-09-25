@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
+const setCookie = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x * y;
+    return a + b;
     error.textContent = '';
 };
