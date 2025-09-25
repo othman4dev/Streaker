@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("createChart arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};
