@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^6.0.8",
-    "redis": "^7.8.0",
-    "mongodb": "^1.8.5",
-    "nightwatch": "^1.7.3",
-    "gatsby": "^7.5.6",
-    "chai": "^3.1.5",
-    "babel": "^3.9.2"
+    "firebase": "^9.0.7",
+    "jest": "^7.4.3",
+    "svelte": "^2.0.5",
+    "mysql": "^0.7.3",
+    "mongodb": "^3.7.4",
+    "mocha": "^8.7.4",
+    "protractor": "^5.8.2"
   }
 }
