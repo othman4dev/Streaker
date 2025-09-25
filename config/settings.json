@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "svelte": "^9.4.0",
-    "react": "^4.2.5",
-    "prettier": "^8.1.2",
-    "redis": "^4.1.8",
-    "jest": "^6.2.3",
-    "jasmine": "^7.9.0"
+    "babel": "^8.8.1",
+    "mongodb": "^4.2.8",
+    "vue": "^1.2.4",
+    "aws-sdk": "^4.5.8"
   }
 }

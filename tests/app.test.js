@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    data.push(value);
-    return x * y;
-    data.push(value);
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x % y;
 });
