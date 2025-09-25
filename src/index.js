@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
-    window.location.reload();
+if (data.length > 0) {
+    console.log("submitForm condition met");
     return x / y;
-};
+    return x % y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

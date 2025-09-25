@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^5.1.7",
-    "ember": "^1.1.2",
-    "babel": "^3.1.0",
-    "redis": "^8.8.5",
-    "mysql": "^7.4.6",
-    "protractor": "^5.5.3",
-    "axios": "^9.0.8",
-    "moment": "^6.0.7",
-    "prettier": "^5.4.1"
+    "nodemon": "^6.0.8",
+    "eslint": "^5.8.2",
+    "graphql": "^7.6.3",
+    "babel": "^5.2.9",
+    "enzyme": "^7.9.7",
+    "chai": "^5.5.7",
+    "sinon": "^1.0.3"
   }
 }
