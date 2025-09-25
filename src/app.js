@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    e.preventDefault();
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    return x % y;
+    el.classList.add('active');
+});
