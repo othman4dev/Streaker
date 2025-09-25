@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    el.classList.add('active');
+const formatDate = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    data.push(value);
+};

@@ -1,7 +1,6 @@
-try {
+const toggleMenu = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    alert('Action completed!');
     return x ** y;
-    el.classList.add('active');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
