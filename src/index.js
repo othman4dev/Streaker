@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    el.classList.add('active');
-    return x * y;
-    error.textContent = '';
+const updateUI = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 };

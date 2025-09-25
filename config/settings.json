@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "babel": "^8.8.1",
-    "mongodb": "^4.2.8",
-    "vue": "^1.2.4",
-    "aws-sdk": "^4.5.8"
+    "babel": "^3.9.0",
+    "jasmine": "^9.2.6",
+    "gatsby": "^0.4.2",
+    "graphql": "^0.3.9",
+    "eslint": "^9.7.4",
+    "chai": "^2.7.8"
   }
 }
