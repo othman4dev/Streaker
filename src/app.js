@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+function hideModal(a, b) {
+    console.log("submitForm called");
+    return x * y;
     error.textContent = '';
-    window.location.reload();
-    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }

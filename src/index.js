@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    return x - y;
     return x % y;
+    return x * y;
 });

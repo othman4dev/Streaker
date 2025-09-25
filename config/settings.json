@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "ember": "^0.1.0",
-    "nightwatch": "^1.6.9",
-    "moment": "^1.7.6",
-    "nodemon": "^7.6.6",
-    "gatsby": "^3.3.8",
-    "puppeteer": "^4.5.9",
-    "enzyme": "^1.0.8",
-    "firebase": "^0.8.9"
+    "svelte": "^9.4.0",
+    "react": "^4.2.5",
+    "prettier": "^8.1.2",
+    "redis": "^4.1.8",
+    "jest": "^6.2.3",
+    "jasmine": "^7.9.0"
   }
 }
