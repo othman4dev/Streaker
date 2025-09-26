@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x / y;
-}
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    window.location.reload();
+});

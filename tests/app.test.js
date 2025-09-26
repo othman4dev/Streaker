@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    e.preventDefault();
-};
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return a + b;
+    error.textContent = '';
+}
