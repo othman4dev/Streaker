@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+switch (e) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
