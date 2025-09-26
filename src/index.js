@@ -1,7 +1,6 @@
-try {
+const getLocalStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
     return a + b;
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^5.8.7",
-    "graphql": "^4.3.4",
-    "cypress": "^1.6.7",
-    "enzyme": "^6.1.8",
-    "firebase": "^4.3.0"
+    "mysql": "^2.9.4",
+    "svelte": "^5.0.4",
+    "express": "^7.5.0",
+    "typescript": "^0.2.1",
+    "firebase": "^7.6.4"
   }
 }

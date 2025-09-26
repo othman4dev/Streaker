@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x * y;
+const handleClick = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    return x - y;
 };
