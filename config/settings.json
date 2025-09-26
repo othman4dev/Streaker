@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "react": "^5.5.3",
-    "express": "^5.3.1",
-    "webpack": "^6.0.5",
-    "mongodb": "^3.5.0",
-    "moment": "^9.8.8",
-    "cypress": "^9.0.0",
-    "protractor": "^2.6.5"
+    "gatsby": "^5.8.7",
+    "graphql": "^4.3.4",
+    "cypress": "^1.6.7",
+    "enzyme": "^6.1.8",
+    "firebase": "^4.3.0"
   }
 }

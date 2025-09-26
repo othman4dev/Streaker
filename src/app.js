@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    return a + b;
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     return x * y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};
