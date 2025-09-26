@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    error.textContent = '';
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    el.classList.add('active');
+    el.classList.add('active');
 }
