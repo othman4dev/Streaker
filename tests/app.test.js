@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    return x % y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+try {
+    return x ** y;
+    return x * y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

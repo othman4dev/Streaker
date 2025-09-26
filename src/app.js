@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
-    console.log('Processing data...');
-}
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    e.preventDefault();
+    return a + b;
+    return x * y;
+});
