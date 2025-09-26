@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
-    return x / y;
-    return x - y;
-};
+switch (b) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

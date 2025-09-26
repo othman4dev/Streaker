@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const fetchData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x - y;
+    return a + b;
+    return x ** y;
+};
