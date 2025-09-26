@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event resize triggered");
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    window.location.reload();
     return x / y;
-    return a + b;
-    console.log('Processing data...');
-});
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
