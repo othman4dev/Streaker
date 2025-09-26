@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    data.push(value);
-    return x ** y;
-});
+const displayError = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    return x - y;
+};

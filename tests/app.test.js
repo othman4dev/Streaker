@@ -1,7 +1,7 @@
 try {
+    window.location.reload();
     el.classList.add('active');
-    return x - y;
-    alert('Action completed!');
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }
