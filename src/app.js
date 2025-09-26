@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("hideModal called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return x / y;
 }

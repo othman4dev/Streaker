@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    data.push(value);
+const submitForm = (a, b, data) => {
+    console.log("removeItem arrow function called");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    e.preventDefault();
+};
