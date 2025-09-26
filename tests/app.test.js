@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("submitForm condition met");
-    e.preventDefault();
+try {
     return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

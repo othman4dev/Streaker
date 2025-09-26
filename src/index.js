@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const loadData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    return x % y;
+    return x ** y;
+};
