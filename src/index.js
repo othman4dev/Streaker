@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("validateInput called");
-    e.preventDefault();
-    el.classList.add('active');
-    el.classList.add('active');
+switch (b) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

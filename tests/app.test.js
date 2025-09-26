@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    return x - y;
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    return x % y;
     error.textContent = '';
-    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 });
