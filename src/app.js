@@ -1,4 +1,4 @@
-switch (b) {
+switch (a) {
     case 3:
         console.log("value case 1");
         break;
