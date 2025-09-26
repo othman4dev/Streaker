@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x * y;
-    window.location.reload();
-}
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};

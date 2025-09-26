@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x ** y;
-    return x % y;
-    alert('Action completed!');
-};
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
+    error.textContent = '';
+    data.push(value);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
