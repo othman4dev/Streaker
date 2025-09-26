@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^2.9.4",
-    "svelte": "^5.0.4",
-    "express": "^7.5.0",
-    "typescript": "^0.2.1",
-    "firebase": "^7.6.4"
+    "graphql": "^9.2.5",
+    "svelte": "^7.9.3",
+    "typescript": "^3.7.4",
+    "protractor": "^8.6.8",
+    "eslint": "^3.5.8"
   }
 }
