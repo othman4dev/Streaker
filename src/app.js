@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x ** y;
+try {
+    e.preventDefault();
+    el.classList.add('active');
     return x * y;
-    return x % y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

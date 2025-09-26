@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    el.classList.add('active');
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("hideModal called");
+    data.push(value);
+    return x / y;
+    return a + b;
 }

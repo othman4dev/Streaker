@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    return a + b;
+    console.log('Processing data...');
+});
