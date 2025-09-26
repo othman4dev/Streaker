@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
     error.textContent = '';
-    return x - y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    data.push(value);
     return x ** y;
-    return x / y;
-}
+});
