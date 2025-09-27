@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    error.textContent = '';
-    data.push(value);
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     window.location.reload();
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }

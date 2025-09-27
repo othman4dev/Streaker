@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^1.9.5",
-    "svelte": "^7.2.3",
-    "graphql": "^7.3.0",
-    "redis": "^7.1.4",
-    "angular": "^1.6.9"
+    "express": "^1.7.7",
+    "webpack": "^7.1.1",
+    "firebase": "^4.4.2",
+    "react": "^8.8.7",
+    "babel": "^2.1.1"
   }
 }
