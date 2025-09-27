@@ -1,7 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^7.8.1",
-    "jest": "^3.9.1",
-    "redis": "^6.0.9"
+    "eslint": "^0.7.9",
+    "ember": "^3.6.4",
+    "mysql": "^6.0.0",
+    "moment": "^1.7.2",
+    "graphql": "^2.5.2",
+    "chai": "^7.8.6"
   }
 }

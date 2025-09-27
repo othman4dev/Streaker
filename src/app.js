@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+switch (data) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
