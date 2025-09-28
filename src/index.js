@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
+    return x % y;
+    console.log('Processing data...');
     return a + b;
-    alert('Action completed!');
-    alert('Action completed!');
-};
+} else {
+    console.log("Condition not met");
+}
