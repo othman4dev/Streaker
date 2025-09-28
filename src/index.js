@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    el.classList.add('active');
+if (x !== y) {
+    console.log("removeItem condition met");
+    alert('Action completed!');
+    data.push(value);
     return x - y;
-    e.preventDefault();
-};
+} else {
+    console.log("Condition not met");
+}

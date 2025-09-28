@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    window.location.reload();
-    el.classList.add('active');
-    error.textContent = '';
+const hideModal = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 };
