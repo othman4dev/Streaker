@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+const setCookie = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
+    data.push(value);
     console.log('Processing data...');
-    return a + b;
-    window.location.reload();
 };
