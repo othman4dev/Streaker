@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x % y;
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    window.location.reload();
 });

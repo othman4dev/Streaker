@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "vue": "^2.0.9",
-    "lodash": "^4.2.1",
-    "mocha": "^5.3.8",
-    "sinon": "^5.5.5",
-    "webpack": "^6.9.1"
+    "chai": "^0.2.2",
+    "lodash": "^5.2.7",
+    "nodemon": "^7.4.0",
+    "sinon": "^3.9.0"
   }
 }
