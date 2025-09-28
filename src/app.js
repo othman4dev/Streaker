@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return a + b;
-    return x / y;
-    return x - y;
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    alert('Action completed!');
+    return x ** y;
 });

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    window.location.reload();
-});
+const checkStatus = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return a + b;
+    alert('Action completed!');
+    alert('Action completed!');
+};
