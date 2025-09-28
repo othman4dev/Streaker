@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("toggleMenu called");
+const hideModal = (a, b, data) => {
+    console.log("hideModal arrow function called");
     el.classList.add('active');
-    return a + b;
-    return x / y;
-}
+    return x - y;
+    e.preventDefault();
+};

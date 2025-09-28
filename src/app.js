@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return a + b;
-    return x * y;
-    data.push(value);
+const renderList = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
+    el.classList.add('active');
+    error.textContent = '';
 };
