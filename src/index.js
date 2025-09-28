@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-};
+    return x % y;
+});

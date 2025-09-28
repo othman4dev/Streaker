@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^6.6.5",
-    "gatsby": "^6.6.6",
-    "lodash": "^0.7.2",
-    "babel": "^8.8.8",
-    "mocha": "^9.2.0",
-    "puppeteer": "^4.7.6",
-    "axios": "^1.2.0"
+    "vue": "^2.0.9",
+    "lodash": "^4.2.1",
+    "mocha": "^5.3.8",
+    "sinon": "^5.5.5",
+    "webpack": "^6.9.1"
   }
 }
