@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.3.3",
-    "socket.io": "^1.0.4",
-    "next.js": "^1.0.2",
-    "aws-sdk": "^1.6.0",
-    "puppeteer": "^0.4.5",
-    "eslint": "^3.6.7",
-    "nightwatch": "^2.3.3"
+    "axios": "^6.3.0",
+    "sinon": "^5.9.8",
+    "redis": "^7.6.6",
+    "typescript": "^4.8.1",
+    "nodemon": "^9.9.9",
+    "vue": "^3.2.2"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
+    window.location.reload();
+    data.push(value);
 }

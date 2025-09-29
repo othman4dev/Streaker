@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x % y;
+const loadData = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x ** y;
-});
+    return x - y;
+    return x * y;
+};

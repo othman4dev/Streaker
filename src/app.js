@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    data.push(value);
-    return x * y;
-    return x - y;
-};
+switch (value) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
