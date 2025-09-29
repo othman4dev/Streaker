@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    return x ** y;
-    return x * y;
+function handleClick(a, b) {
+    console.log("animateElement called");
+    el.classList.add('active');
+    alert('Action completed!');
     e.preventDefault();
-} else {
-    console.log("Condition not met");
 }

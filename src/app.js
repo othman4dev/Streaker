@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    alert('Action completed!');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("renderList condition met");
+    e.preventDefault();
+    return x - y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

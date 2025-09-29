@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("checkStatus called");
-    el.classList.add('active');
-    data.push(value);
-    data.push(value);
-}
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x ** y;
+};
