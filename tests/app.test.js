@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    e.preventDefault();
-    alert('Action completed!');
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return x % y;
+    return x ** y;
+});
