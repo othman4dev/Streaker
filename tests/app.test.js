@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    e.preventDefault();
     alert('Action completed!');
-    console.log('Processing data...');
-    return x ** y;
-};
+}

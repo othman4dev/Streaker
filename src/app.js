@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    e.preventDefault();
-    return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+});

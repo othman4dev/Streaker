@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("animateElement called");
+const formatDate = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
     el.classList.add('active');
-    alert('Action completed!');
-    e.preventDefault();
-}
+    return x * y;
+};
