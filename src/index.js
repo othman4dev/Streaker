@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("getLocalStorage called");
-    data.push(value);
-    window.location.reload();
-    data.push(value);
-}
+const checkStatus = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+};
