@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    return x / y;
-    console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    alert('Action completed!');
+    return x * y;
 }

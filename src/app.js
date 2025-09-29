@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x * y;
-    return a + b;
-}
+const handleClick = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    data.push(value);
+    e.preventDefault();
+    console.log('Processing data...');
+};
