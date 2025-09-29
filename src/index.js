@@ -1,7 +1,7 @@
 try {
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return a + b;
+    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }
