@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x % y;
     data.push(value);
-    e.preventDefault();
-    console.log('Processing data...');
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
