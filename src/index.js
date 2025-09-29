@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    return x - y;
-    e.preventDefault();
-    return x % y;
-});
+switch (data) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
