@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    return a + b;
+});
