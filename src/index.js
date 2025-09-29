@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function animateElement(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    data.push(value);
+    alert('Action completed!');
+}

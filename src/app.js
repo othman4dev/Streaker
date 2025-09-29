@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x - y;
-    e.preventDefault();
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});
