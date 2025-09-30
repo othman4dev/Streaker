@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "typescript": "^9.1.5",
-    "mongodb": "^0.5.3",
-    "lodash": "^8.5.8",
-    "webpack": "^5.2.7",
-    "karma": "^3.0.3"
+    "next.js": "^4.2.3",
+    "mongodb": "^3.8.0",
+    "sinon": "^0.0.8",
+    "ember": "^6.2.3",
+    "angular": "^1.1.4",
+    "eslint": "^9.2.3",
+    "prettier": "^2.5.8",
+    "nodemon": "^1.5.1",
+    "jest": "^6.5.0"
   }
 }

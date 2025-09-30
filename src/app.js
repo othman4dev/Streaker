@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("hideModal condition met");
+try {
     console.log('Processing data...');
-    window.location.reload();
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
