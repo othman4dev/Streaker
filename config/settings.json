@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "axios": "^7.8.5",
-    "sinon": "^3.7.8",
-    "angular": "^7.3.7",
-    "cypress": "^6.5.1",
-    "babel": "^3.2.9"
+    "moment": "^4.0.4",
+    "jest": "^2.4.5",
+    "webpack": "^3.1.2",
+    "protractor": "^4.3.8",
+    "puppeteer": "^3.7.1",
+    "enzyme": "^6.6.8",
+    "gatsby": "^6.3.1",
+    "socket.io": "^5.9.7"
   }
 }

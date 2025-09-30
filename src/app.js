@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-});
+const fetchData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    alert('Action completed!');
+};

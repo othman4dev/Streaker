@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    data.push(value);
-    alert('Action completed!');
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x % y;
+    return x * y;
 }
