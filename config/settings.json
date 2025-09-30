@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "axios": "^8.6.4",
-    "nodemon": "^1.5.1",
-    "puppeteer": "^2.3.6",
-    "jasmine": "^5.0.7",
-    "chai": "^0.4.7",
-    "lodash": "^5.5.0",
-    "ember": "^9.4.1",
-    "eslint": "^5.0.9"
+    "typescript": "^0.4.2",
+    "moment": "^2.4.2",
+    "jest": "^6.9.8",
+    "aws-sdk": "^4.0.7",
+    "express": "^1.8.7",
+    "prettier": "^3.3.9",
+    "gatsby": "^0.7.2"
   }
 }

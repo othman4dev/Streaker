@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    window.location.reload();
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

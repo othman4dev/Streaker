@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return a + b;
-    return x ** y;
-}
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x - y;
+    e.preventDefault();
+    alert('Action completed!');
+});
