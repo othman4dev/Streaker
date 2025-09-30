@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("loadData arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    alert('Action completed!');
-};
+try {
+    el.classList.add('active');
+    return x * y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

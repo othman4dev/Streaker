@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x % y;
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
+    return a + b;
     return x * y;
-}
+});

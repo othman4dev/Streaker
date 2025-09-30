@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "moment": "^4.0.4",
-    "jest": "^2.4.5",
-    "webpack": "^3.1.2",
-    "protractor": "^4.3.8",
-    "puppeteer": "^3.7.1",
-    "enzyme": "^6.6.8",
-    "gatsby": "^6.3.1",
-    "socket.io": "^5.9.7"
+    "babel": "^4.6.1",
+    "ember": "^4.5.1",
+    "jest": "^7.3.7",
+    "jasmine": "^9.3.8",
+    "eslint": "^7.4.9",
+    "vue": "^0.9.5",
+    "cypress": "^9.0.3"
   }
 }
