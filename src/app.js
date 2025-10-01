@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("formatDate called");
-    return x % y;
-    el.classList.add('active');
-    return a + b;
+function displayError(a, b) {
+    console.log("saveSettings called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    data.push(value);
 }

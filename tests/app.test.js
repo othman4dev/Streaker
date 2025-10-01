@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    error.textContent = '';
-    return x ** y;
-});
+function updateUI(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+}
