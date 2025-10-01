@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    return x * y;
+    return x * y;
+});
