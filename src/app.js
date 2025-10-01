@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    return x - y;
-    alert('Action completed!');
-};
+if (x === y) {
+    console.log("hideModal condition met");
+    console.log('Processing data...');
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^8.0.6",
-    "axios": "^2.2.9",
-    "gatsby": "^7.4.0",
-    "karma": "^8.5.7",
-    "puppeteer": "^2.7.1",
-    "cypress": "^4.2.0",
-    "vue": "^9.8.8",
-    "ember": "^2.8.9"
+    "typescript": "^9.1.5",
+    "mongodb": "^0.5.3",
+    "lodash": "^8.5.8",
+    "webpack": "^5.2.7",
+    "karma": "^3.0.3"
   }
 }

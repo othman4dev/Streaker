@@ -1,7 +1,8 @@
-switch (e) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

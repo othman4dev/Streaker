@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    return x * y;
-    return x * y;
-});
+try {
+    el.classList.add('active');
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
