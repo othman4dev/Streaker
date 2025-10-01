@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x - y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+const hideModal = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    return x % y;
+};
