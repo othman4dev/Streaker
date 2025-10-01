@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("fetchData called");
-    return x ** y;
-    return a + b;
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    return x % y;
+    e.preventDefault();
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

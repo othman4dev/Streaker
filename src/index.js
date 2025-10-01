@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("updateUI called");
-    return x % y;
-    data.push(value);
-    e.preventDefault();
+try {
+    alert('Action completed!');
+    return a + b;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

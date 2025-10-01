@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "babel": "^6.4.8",
-    "mocha": "^4.9.6",
-    "aws-sdk": "^7.7.0",
-    "typescript": "^8.3.6",
-    "cypress": "^6.8.3",
-    "mongodb": "^7.7.5",
-    "ember": "^7.0.4",
-    "socket.io": "^2.3.8",
-    "jest": "^6.9.5"
+    "babel": "^8.6.4",
+    "prettier": "^3.9.5",
+    "axios": "^4.7.5",
+    "lodash": "^6.0.1",
+    "chai": "^2.7.1",
+    "angular": "^0.4.3",
+    "firebase": "^5.0.4"
   }
 }
