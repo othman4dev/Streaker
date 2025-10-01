@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (y) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
