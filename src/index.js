@@ -1,7 +1,6 @@
-try {
-    return x - y;
+function fetchData(a, b) {
+    console.log("updateUI called");
     return x % y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+    e.preventDefault();
 }

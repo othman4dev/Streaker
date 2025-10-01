@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "babel": "^6.1.8",
-    "firebase": "^3.1.7",
-    "react": "^5.7.6",
-    "enzyme": "^4.7.7",
-    "vue": "^0.5.1",
-    "gatsby": "^3.4.7",
-    "jest": "^8.0.5"
+    "babel": "^6.4.8",
+    "mocha": "^4.9.6",
+    "aws-sdk": "^7.7.0",
+    "typescript": "^8.3.6",
+    "cypress": "^6.8.3",
+    "mongodb": "^7.7.5",
+    "ember": "^7.0.4",
+    "socket.io": "^2.3.8",
+    "jest": "^6.9.5"
   }
 }

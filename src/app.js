@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    return x / y;
+    return x - y;
+    return x * y;
 }
