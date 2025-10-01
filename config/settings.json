@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^2.2.9",
-    "chai": "^6.2.0",
-    "protractor": "^1.8.0",
-    "angular": "^9.9.2",
-    "babel": "^4.6.1",
-    "nodemon": "^1.4.5",
-    "mocha": "^7.6.7",
-    "puppeteer": "^6.3.0"
+    "svelte": "^8.6.8",
+    "axios": "^5.9.1",
+    "gatsby": "^7.9.0",
+    "webpack": "^7.4.0",
+    "sinon": "^7.0.9"
   }
 }

@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event load triggered");
     data.push(value);
-}
+    el.classList.add('active');
+    console.log('Processing data...');
+});
