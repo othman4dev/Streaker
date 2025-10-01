@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    console.log('Processing data...');
+try {
     alert('Action completed!');
-    el.classList.add('active');
-};
+    console.log('Processing data...');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.0.0",
-    "mysql": "^6.1.5",
-    "angular": "^6.4.6",
-    "eslint": "^1.1.7",
-    "redis": "^3.2.2",
-    "chai": "^9.0.2",
-    "jest": "^8.5.2",
-    "react": "^3.2.2",
-    "mongodb": "^2.9.3"
+    "chai": "^8.8.6",
+    "express": "^6.3.7",
+    "babel": "^5.9.3",
+    "graphql": "^3.8.0",
+    "firebase": "^2.6.9",
+    "karma": "^9.3.2"
   }
 }

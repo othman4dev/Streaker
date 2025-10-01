@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    el.classList.add('active');
-    return a + b;
-});
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    console.log('Processing data...');
+    return x * y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
