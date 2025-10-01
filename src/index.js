@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
-    return a + b;
+function setSessionStorage(a, b) {
+    console.log("handleClick called");
     return x * y;
-});
+    alert('Action completed!');
+    console.log('Processing data...');
+}

@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.6.1",
-    "ember": "^4.5.1",
-    "jest": "^7.3.7",
-    "jasmine": "^9.3.8",
-    "eslint": "^7.4.9",
-    "vue": "^0.9.5",
-    "cypress": "^9.0.3"
+    "sinon": "^0.5.5",
+    "firebase": "^7.0.8",
+    "redis": "^5.7.2",
+    "enzyme": "^6.7.4",
+    "eslint": "^6.3.7",
+    "chai": "^8.8.0"
   }
 }
