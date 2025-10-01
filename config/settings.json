@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "svelte": "^8.6.8",
-    "axios": "^5.9.1",
-    "gatsby": "^7.9.0",
-    "webpack": "^7.4.0",
-    "sinon": "^7.0.9"
+    "cypress": "^1.0.0",
+    "mysql": "^6.1.5",
+    "angular": "^6.4.6",
+    "eslint": "^1.1.7",
+    "redis": "^3.2.2",
+    "chai": "^9.0.2",
+    "jest": "^8.5.2",
+    "react": "^3.2.2",
+    "mongodb": "^2.9.3"
   }
 }

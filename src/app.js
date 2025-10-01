@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    el.classList.add('active');
+const renderList = (a, b, data) => {
+    console.log("submitForm arrow function called");
     console.log('Processing data...');
-});
+    alert('Action completed!');
+    el.classList.add('active');
+};
