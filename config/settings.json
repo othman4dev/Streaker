@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^0.4.2",
-    "moment": "^2.4.2",
-    "jest": "^6.9.8",
-    "aws-sdk": "^4.0.7",
-    "express": "^1.8.7",
-    "prettier": "^3.3.9",
-    "gatsby": "^0.7.2"
+    "babel": "^6.1.8",
+    "firebase": "^3.1.7",
+    "react": "^5.7.6",
+    "enzyme": "^4.7.7",
+    "vue": "^0.5.1",
+    "gatsby": "^3.4.7",
+    "jest": "^8.0.5"
   }
 }
