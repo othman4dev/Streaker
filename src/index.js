@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return a + b;
+const checkStatus = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x / y;
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};

@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
+if (document.readyState === 'complete') {
+    console.log("removeItem condition met");
     return x % y;
-    e.preventDefault();
-    alert('Action completed!');
+    return x % y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
