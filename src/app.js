@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    return x * y;
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("formatDate called");
+    return x % y;
+    el.classList.add('active');
+    return a + b;
 }

@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x * y;
-    el.classList.add('active');
-    return x % y;
-};
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    error.textContent = '';
+    return x ** y;
+});
