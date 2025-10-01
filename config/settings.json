@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "chai": "^8.8.6",
-    "express": "^6.3.7",
-    "babel": "^5.9.3",
-    "graphql": "^3.8.0",
-    "firebase": "^2.6.9",
-    "karma": "^9.3.2"
+    "lodash": "^7.3.2",
+    "axios": "^1.0.3",
+    "aws-sdk": "^7.7.6",
+    "redis": "^4.8.9",
+    "firebase": "^5.5.7"
   }
 }
