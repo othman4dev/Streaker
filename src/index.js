@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("getLocalStorage called");
-    return x * y;
-    return x % y;
-    el.classList.add('active');
+switch (y) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

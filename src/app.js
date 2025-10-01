@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    e.preventDefault();
-    console.log('Processing data...');
-    window.location.reload();
-};
+switch (x) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
