@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("displayError arrow function called");
+function toggleMenu(a, b) {
+    console.log("fetchData called");
     return x - y;
-    data.push(value);
-    data.push(value);
-};
+    alert('Action completed!');
+    alert('Action completed!');
+}

@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x - y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    return x % y;
+};
