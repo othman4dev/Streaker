@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("validateInput called");
-    return x % y;
-    alert('Action completed!');
-    el.classList.add('active');
+switch (b) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

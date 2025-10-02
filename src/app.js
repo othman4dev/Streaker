@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    e.preventDefault();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x - y;
+    data.push(value);
+    data.push(value);
+};
