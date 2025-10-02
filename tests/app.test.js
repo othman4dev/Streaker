@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("hideModal arrow function called");
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
+    el.classList.add('active');
+    return x - y;
     alert('Action completed!');
-    return x / y;
-    data.push(value);
-};
+} else {
+    console.log("Condition not met");
+}

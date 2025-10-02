@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^8.5.8",
-    "graphql": "^8.3.2",
-    "gatsby": "^0.1.9",
-    "mocha": "^6.3.1",
-    "typescript": "^7.3.0"
+    "gatsby": "^3.8.5",
+    "vue": "^8.3.6",
+    "sinon": "^8.3.7",
+    "next.js": "^7.3.5",
+    "prettier": "^2.9.2",
+    "babel": "^8.4.5"
   }
 }

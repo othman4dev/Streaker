@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    return x / y;
-    window.location.reload();
-    e.preventDefault();
-});
+switch (data) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
