@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    return x / y;
-    console.log('Processing data...');
+try {
     return x - y;
+    return x - y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

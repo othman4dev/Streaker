@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x - y;
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-}
+});

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    return x - y;
-    console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    alert('Action completed!');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+};
