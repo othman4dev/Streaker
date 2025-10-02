@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("fetchData called");
-    return x - y;
-    alert('Action completed!');
-    alert('Action completed!');
+switch (b) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

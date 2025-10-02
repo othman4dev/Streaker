@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("formatDate arrow function called");
+const fetchData = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    alert('Action completed!');
     return x / y;
-    console.log('Processing data...');
-    return x % y;
+    data.push(value);
 };

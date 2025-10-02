@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^0.1.5",
-    "moment": "^3.4.2",
-    "axios": "^3.5.2",
-    "mocha": "^2.3.6",
-    "jasmine": "^9.2.0",
-    "angular": "^5.6.0",
-    "cypress": "^6.6.7"
+    "mysql": "^8.5.8",
+    "graphql": "^8.3.2",
+    "gatsby": "^0.1.9",
+    "mocha": "^6.3.1",
+    "typescript": "^7.3.0"
   }
 }

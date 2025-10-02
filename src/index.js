@@ -1,7 +1,6 @@
-try {
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
     return x / y;
-    error.textContent = '';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+    e.preventDefault();
+});
