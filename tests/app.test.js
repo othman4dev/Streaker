@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    alert('Action completed!');
     return x - y;
-    return x - y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

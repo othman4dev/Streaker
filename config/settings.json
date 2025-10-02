@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "express": "^1.9.8",
-    "redis": "^7.4.9",
-    "chai": "^1.4.0",
-    "svelte": "^9.8.1",
-    "socket.io": "^3.5.7",
-    "babel": "^7.2.8",
-    "mocha": "^5.0.9",
-    "angular": "^6.6.4"
+    "eslint": "^2.4.5",
+    "karma": "^2.1.5",
+    "mysql": "^4.7.2",
+    "moment": "^6.0.0",
+    "firebase": "^8.7.7",
+    "redis": "^4.0.3",
+    "chai": "^6.0.8",
+    "sinon": "^2.6.8"
   }
 }
