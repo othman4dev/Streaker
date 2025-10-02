@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     alert('Action completed!');
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    return x % y;
+};

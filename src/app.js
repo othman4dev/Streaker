@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    data.push(value);
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
     el.classList.add('active');
+    return x ** y;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
