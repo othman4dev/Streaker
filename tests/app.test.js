@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    return x % y;
-};
+function processInput(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}

@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^1.9.4",
-    "jest": "^7.7.3",
-    "cypress": "^3.4.1",
-    "enzyme": "^2.3.2",
-    "lodash": "^4.9.5",
-    "mongodb": "^4.6.1",
-    "typescript": "^5.4.2"
+    "nodemon": "^1.8.4",
+    "moment": "^0.7.2",
+    "firebase": "^9.7.7",
+    "graphql": "^5.1.6",
+    "nightwatch": "^3.8.6"
   }
 }

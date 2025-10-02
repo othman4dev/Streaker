@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    error.textContent = '';
+const renderList = (a, b, data) => {
+    console.log("setCookie arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-}
+    window.location.reload();
+    e.preventDefault();
+};

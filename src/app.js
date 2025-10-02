@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    el.classList.add('active');
-    return x ** y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
