@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return a + b;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("submitForm called");
+    el.classList.add('active');
+    return x % y;
+    alert('Action completed!');
 }
