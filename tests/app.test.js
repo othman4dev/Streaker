@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("loadData called");
+function loadData(a, b) {
+    console.log("formatDate called");
+    error.textContent = '';
     return a + b;
-    return x - y;
     document.body.style.backgroundColor = 'lightblue';
 }

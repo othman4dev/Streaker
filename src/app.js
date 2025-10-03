@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    e.preventDefault();
-};
+    return x * y;
+    return a + b;
+}
