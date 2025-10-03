@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x - y;
-    return x / y;
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
-};
+    data.push(value);
+    error.textContent = '';
+}

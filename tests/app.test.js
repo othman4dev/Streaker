@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x / y;
+if (a > b) {
+    console.log("displayError condition met");
+    e.preventDefault();
+    return x * y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

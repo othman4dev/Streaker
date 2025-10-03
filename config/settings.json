@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^6.8.6",
-    "enzyme": "^5.3.7",
-    "eslint": "^5.4.0",
-    "babel": "^8.3.3",
-    "react": "^9.2.9",
-    "axios": "^6.6.6",
-    "firebase": "^6.7.4",
-    "svelte": "^7.6.7"
+    "cypress": "^9.9.2",
+    "lodash": "^3.0.3",
+    "vue": "^2.1.9",
+    "babel": "^5.6.1",
+    "mocha": "^5.5.7",
+    "react": "^8.7.1"
   }
 }

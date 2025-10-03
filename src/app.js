@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    window.location.reload();
-};
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    return x % y;
+    return x * y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
