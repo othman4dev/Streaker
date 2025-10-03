@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "gatsby": "^0.6.4",
-    "firebase": "^6.2.4",
-    "typescript": "^7.8.2",
-    "svelte": "^2.4.7",
-    "protractor": "^2.6.5"
+    "nightwatch": "^1.2.4",
+    "jest": "^1.8.7",
+    "puppeteer": "^7.7.0",
+    "enzyme": "^1.2.0"
   }
 }

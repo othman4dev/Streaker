@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event keydown triggered");
     e.preventDefault();
-    alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+});
