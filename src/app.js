@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-}
+const renderList = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return a + b;
+    alert('Action completed!');
+    e.preventDefault();
+};
