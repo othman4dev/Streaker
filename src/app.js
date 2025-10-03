@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x - y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("setCookie called");
+    data.push(value);
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }

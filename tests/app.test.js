@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    window.location.reload();
-    window.location.reload();
-};
+switch (error) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

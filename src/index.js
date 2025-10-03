@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    return a + b;
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("setCookie condition met");
     return x * y;
-});
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
