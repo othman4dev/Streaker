@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^9.8.1",
-    "svelte": "^5.0.6",
-    "axios": "^3.3.7",
-    "vue": "^8.9.7",
-    "mocha": "^0.5.0",
-    "cypress": "^5.9.9"
+    "puppeteer": "^7.0.2",
+    "chai": "^5.8.8",
+    "vue": "^6.3.4",
+    "nodemon": "^1.5.4",
+    "sinon": "^9.0.1"
   }
 }

@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    e.preventDefault();
+});

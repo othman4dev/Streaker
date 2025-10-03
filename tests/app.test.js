@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    console.log('Processing data...');
-    return a + b;
+try {
+    e.preventDefault();
     return x % y;
-} else {
-    console.log("Condition not met");
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

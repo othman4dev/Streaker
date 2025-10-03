@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("createChart called");
-    return x % y;
-    window.location.reload();
-    alert('Action completed!');
+function setCookie(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    return x / y;
+    return x / y;
 }
