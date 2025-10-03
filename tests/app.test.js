@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("displayError condition met");
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
     return x * y;
-    data.push(value);
+    return x / y;
+    return a + b;
 } else {
     console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
+    return x / y;
     return x % y;
-    return x * y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+});
