@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    window.location.reload();
+const removeItem = (a, b, data) => {
+    console.log("animateElement arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-});
+    return x - y;
+    window.location.reload();
+};

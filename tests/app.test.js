@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x % y;
-    e.preventDefault();
-});
+function animateElement(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x / y;
+}
