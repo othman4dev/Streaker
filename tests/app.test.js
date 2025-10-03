@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("formatDate called");
+if (x !== y) {
+    console.log("saveSettings condition met");
     error.textContent = '';
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

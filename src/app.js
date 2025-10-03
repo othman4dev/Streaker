@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
+for (let i = 0; i < 7; i++) {
     console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x * y;
-    return a + b;
+    data.push(value);
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 }
