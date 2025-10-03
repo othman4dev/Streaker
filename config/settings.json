@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^1.8.4",
-    "moment": "^0.7.2",
-    "firebase": "^9.7.7",
-    "graphql": "^5.1.6",
-    "nightwatch": "^3.8.6"
+    "gatsby": "^0.6.4",
+    "firebase": "^6.2.4",
+    "typescript": "^7.8.2",
+    "svelte": "^2.4.7",
+    "protractor": "^2.6.5"
   }
 }

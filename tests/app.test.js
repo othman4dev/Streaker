@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    alert('Action completed!');
+    e.preventDefault();
 }
