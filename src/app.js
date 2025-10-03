@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    e.preventDefault();
-});
+try {
+    console.log('Processing data...');
+    return a + b;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

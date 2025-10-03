@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^7.0.2",
-    "chai": "^5.8.8",
-    "vue": "^6.3.4",
-    "nodemon": "^1.5.4",
-    "sinon": "^9.0.1"
+    "lodash": "^0.4.3",
+    "mongodb": "^7.0.2",
+    "mocha": "^4.7.7",
+    "express": "^6.9.6",
+    "angular": "^8.9.1",
+    "chai": "^9.4.8",
+    "gatsby": "^1.2.6",
+    "react": "^0.2.1"
   }
 }
