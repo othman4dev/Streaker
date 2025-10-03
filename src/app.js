@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    return x % y;
-    alert('Action completed!');
+switch (data) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

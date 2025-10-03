@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("processInput called");
+    alert('Action completed!');
+    return x ** y;
+    return x - y;
 }

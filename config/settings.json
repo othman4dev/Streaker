@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.1.2",
-    "jest": "^1.8.9",
-    "redis": "^9.8.3",
-    "react": "^3.2.5",
-    "cypress": "^3.1.5"
+    "jasmine": "^6.6.1",
+    "mysql": "^2.9.2",
+    "enzyme": "^0.3.0",
+    "karma": "^3.9.2",
+    "eslint": "^1.4.9",
+    "puppeteer": "^5.6.2"
   }
 }
