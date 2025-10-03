@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
-    console.log('Processing data...');
-    return x % y;
-    window.location.reload();
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    return a + b;
+    alert('Action completed!');
+    return x * y;
+});
