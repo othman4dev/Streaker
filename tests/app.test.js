@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    return x * y;
-    return x / y;
+if (value !== '') {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
     return a + b;
+    return x % y;
 } else {
     console.log("Condition not met");
 }

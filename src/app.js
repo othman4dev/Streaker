@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    return x / y;
-    return x % y;
-});
+switch (el) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

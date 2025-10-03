@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    data.push(value);
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("createChart called");
+    return x % y;
+    window.location.reload();
+    alert('Action completed!');
 }
