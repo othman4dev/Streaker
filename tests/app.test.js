@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("formatDate arrow function called");
+function setCookie(a, b) {
+    console.log("fetchData called");
+    return x - y;
+    return x * y;
     return x ** y;
-    return a + b;
-    el.classList.add('active');
-};
+}
