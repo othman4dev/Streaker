@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "axios": "^7.8.2",
-    "nightwatch": "^0.0.4",
-    "mongodb": "^7.7.4",
-    "mysql": "^6.7.3"
+    "mocha": "^6.0.6",
+    "mysql": "^9.9.5",
+    "aws-sdk": "^0.1.7",
+    "socket.io": "^2.8.0",
+    "next.js": "^4.5.7",
+    "mongodb": "^3.9.6"
   }
 }

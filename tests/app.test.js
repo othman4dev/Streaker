@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    return a + b;
-    return a + b;
-});
+switch (data) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
