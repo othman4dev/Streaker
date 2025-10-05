@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    data.push(value);
-    alert('Action completed!');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x ** y;
+    return a + b;
+    el.classList.add('active');
+};

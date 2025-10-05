@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("updateUI called");
+    return x * y;
+    window.location.reload();
+    return x - y;
 }
