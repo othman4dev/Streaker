@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
+if (a > b) {
+    console.log("renderList condition met");
+    data.push(value);
+    alert('Action completed!');
     error.textContent = '';
-    return x - y;
-    return x % y;
 } else {
     console.log("Condition not met");
 }
