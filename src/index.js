@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+function loadData(a, b) {
+    console.log("displayError called");
     document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
     return x * y;
 }

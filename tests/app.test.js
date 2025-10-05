@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    el.classList.add('active');
+    window.location.reload();
+});

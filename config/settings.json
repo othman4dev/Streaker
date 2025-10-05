@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^9.3.9",
-    "react": "^5.7.1",
-    "puppeteer": "^7.3.2",
-    "typescript": "^6.4.0",
-    "nodemon": "^0.4.5"
+    "puppeteer": "^9.6.2",
+    "firebase": "^4.6.2",
+    "express": "^0.8.5",
+    "graphql": "^6.0.2",
+    "mocha": "^1.1.4",
+    "svelte": "^3.4.1"
   }
 }
