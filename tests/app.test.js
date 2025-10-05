@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("animateElement called");
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    return x * y;
     return a + b;
-    return x ** y;
-}
+    return a + b;
+});

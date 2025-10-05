@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x % y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("animateElement called");
+    alert('Action completed!');
+    e.preventDefault();
+    console.log('Processing data...');
 }
