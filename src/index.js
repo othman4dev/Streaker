@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    return x - y;
-    alert('Action completed!');
-});
+switch (value) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    window.location.reload();
+function updateUI(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
 }

@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    window.location.reload();
-    console.log('Processing data...');
-    return x % y;
+if (value !== '') {
+    console.log("saveSettings condition met");
+    return x * y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
