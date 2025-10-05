@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    data.push(value);
-    return x / y;
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
     return x - y;
-};
+    alert('Action completed!');
+});

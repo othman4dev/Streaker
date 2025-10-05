@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^6.0.6",
-    "mysql": "^9.9.5",
-    "aws-sdk": "^0.1.7",
-    "socket.io": "^2.8.0",
-    "next.js": "^4.5.7",
-    "mongodb": "^3.9.6"
+    "nightwatch": "^7.7.7",
+    "prettier": "^4.5.1",
+    "aws-sdk": "^3.4.4",
+    "typescript": "^2.0.8",
+    "cypress": "^6.4.4",
+    "protractor": "^2.6.0"
   }
 }
