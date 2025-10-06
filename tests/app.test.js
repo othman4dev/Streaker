@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    window.location.reload();
-};
+if (a > b) {
+    console.log("saveSettings condition met");
+    return x % y;
+    el.classList.add('active');
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

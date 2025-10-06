@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^1.4.2",
-    "graphql": "^5.0.9",
-    "sinon": "^0.1.5",
-    "eslint": "^6.6.1",
-    "babel": "^7.9.7",
-    "jest": "^6.5.1",
-    "webpack": "^8.5.0"
+    "mocha": "^5.4.7",
+    "aws-sdk": "^1.2.5",
+    "protractor": "^0.5.0",
+    "svelte": "^7.9.5",
+    "redis": "^0.6.9"
   }
 }

@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    error.textContent = '';
     window.location.reload();
-};
+} else {
+    console.log("Condition not met");
+}

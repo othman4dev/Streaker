@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    alert('Action completed!');
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    data.push(value);
+    el.classList.add('active');
     e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
