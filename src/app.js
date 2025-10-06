@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    alert('Action completed!');
+function handleClick(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
     data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
+    return x / y;
 }

@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^4.0.7",
-    "ember": "^7.7.5",
-    "jest": "^2.4.4",
-    "lodash": "^2.7.1",
-    "jasmine": "^1.6.5",
-    "cypress": "^8.7.4"
+    "jest": "^3.1.4",
+    "typescript": "^5.2.0",
+    "karma": "^0.9.0",
+    "gatsby": "^8.8.6",
+    "mongodb": "^0.0.8",
+    "firebase": "^5.1.9"
   }
 }
