@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^6.4.1",
-    "nightwatch": "^5.7.4",
-    "typescript": "^2.6.7",
-    "next.js": "^8.4.8",
-    "cypress": "^9.0.4"
+    "protractor": "^1.4.2",
+    "graphql": "^5.0.9",
+    "sinon": "^0.1.5",
+    "eslint": "^6.6.1",
+    "babel": "^7.9.7",
+    "jest": "^6.5.1",
+    "webpack": "^8.5.0"
   }
 }

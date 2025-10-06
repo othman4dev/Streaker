@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    el.classList.add('active');
-    return x % y;
+const getLocalStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    window.location.reload();
+};
