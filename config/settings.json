@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "ember": "^4.7.4",
-    "axios": "^9.1.2",
-    "enzyme": "^3.8.7",
-    "graphql": "^8.4.6",
-    "jest": "^1.9.4",
-    "nightwatch": "^7.4.9",
-    "mysql": "^5.5.6",
-    "mongodb": "^2.9.1",
-    "nodemon": "^5.0.2"
+    "typescript": "^0.7.8",
+    "svelte": "^5.4.0",
+    "jest": "^6.9.0",
+    "eslint": "^5.9.3",
+    "babel": "^3.5.1",
+    "chai": "^3.9.5",
+    "puppeteer": "^3.4.1",
+    "sinon": "^4.9.3"
   }
 }

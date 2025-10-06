@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    window.location.reload();
-    return x ** y;
-    error.textContent = '';
-}
+const loadData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    data.push(value);
+    return x - y;
+    return a + b;
+};
