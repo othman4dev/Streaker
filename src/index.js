@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("loadData arrow function called");
-    data.push(value);
-    return x - y;
-    return a + b;
-};
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x % y;
+    return x ** y;
+});
