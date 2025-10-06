@@ -1,6 +1,6 @@
 function animateElement(a, b) {
-    console.log("formatDate called");
+    console.log("createChart called");
+    window.location.reload();
     return x ** y;
     error.textContent = '';
-    el.classList.add('active');
 }
