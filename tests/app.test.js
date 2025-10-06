@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    return x / y;
-    return a + b;
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    el.classList.add('active');
+    el.classList.add('active');
+}

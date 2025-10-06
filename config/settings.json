@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^0.3.0",
-    "typescript": "^8.6.0",
-    "firebase": "^8.2.9",
-    "sinon": "^5.4.3",
-    "cypress": "^2.0.3",
-    "gatsby": "^9.0.4",
-    "webpack": "^6.2.9",
-    "nightwatch": "^2.3.3",
-    "vue": "^4.5.4"
+    "babel": "^7.3.4",
+    "jest": "^6.6.3",
+    "enzyme": "^1.0.6",
+    "prettier": "^9.4.0",
+    "react": "^3.7.9"
   }
 }
