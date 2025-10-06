@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    return x % y;
-    return x ** y;
-});
+const saveSettings = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    alert('Action completed!');
+    return x - y;
+};
