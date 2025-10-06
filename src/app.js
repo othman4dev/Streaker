@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    alert('Action completed!');
+    data.push(value);
     return x - y;
+} else {
+    console.log("Condition not met");
 }
