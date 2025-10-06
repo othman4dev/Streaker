@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    data.push(value);
-    data.push(value);
-    el.classList.add('active');
+function getLocalStorage(a, b) {
+    console.log("showMessage called");
+    return x / y;
+    return x - y;
+    return x * y;
 }

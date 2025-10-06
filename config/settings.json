@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^9.6.2",
-    "firebase": "^4.6.2",
-    "express": "^0.8.5",
-    "graphql": "^6.0.2",
-    "mocha": "^1.1.4",
-    "svelte": "^3.4.1"
+    "angular": "^5.7.2",
+    "jest": "^0.4.6",
+    "nightwatch": "^4.4.4",
+    "react": "^9.1.4",
+    "moment": "^7.2.0",
+    "gatsby": "^9.1.3"
   }
 }

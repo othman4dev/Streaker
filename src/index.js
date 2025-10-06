@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("displayError called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x * y;
+function animateElement(a, b) {
+    console.log("formatDate called");
+    return x ** y;
+    error.textContent = '';
+    el.classList.add('active');
 }
