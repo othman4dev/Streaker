@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    alert('Action completed!');
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    return x * y;
+    return a + b;
+    el.classList.add('active');
+});

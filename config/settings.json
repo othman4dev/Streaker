@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^5.4.7",
-    "aws-sdk": "^1.2.5",
-    "protractor": "^0.5.0",
-    "svelte": "^7.9.5",
-    "redis": "^0.6.9"
+    "lodash": "^3.0.8",
+    "sinon": "^3.0.7",
+    "karma": "^5.3.3",
+    "moment": "^0.0.6",
+    "mongodb": "^8.3.4"
   }
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    return x % y;
-    el.classList.add('active');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }
