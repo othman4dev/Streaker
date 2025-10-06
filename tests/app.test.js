@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("createChart called");
-    return x * y;
-    return x - y;
-    return x ** y;
+try {
+    console.log('Processing data...');
+    data.push(value);
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

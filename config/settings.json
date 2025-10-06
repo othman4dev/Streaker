@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^3.1.4",
-    "typescript": "^5.2.0",
-    "karma": "^0.9.0",
-    "gatsby": "^8.8.6",
-    "mongodb": "^0.0.8",
-    "firebase": "^5.1.9"
+    "lodash": "^9.3.9",
+    "react": "^5.7.1",
+    "puppeteer": "^7.3.2",
+    "typescript": "^6.4.0",
+    "nodemon": "^0.4.5"
   }
 }
