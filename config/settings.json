@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^5.5.9",
-    "angular": "^9.8.1",
-    "sinon": "^3.3.7",
-    "chai": "^6.6.6",
-    "react": "^6.8.3",
-    "axios": "^3.6.7",
-    "karma": "^0.0.7",
-    "next.js": "^7.8.2"
+    "mongodb": "^6.4.1",
+    "nightwatch": "^5.7.4",
+    "typescript": "^2.6.7",
+    "next.js": "^8.4.8",
+    "cypress": "^9.0.4"
   }
 }
