@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
+    data.push(value);
     console.log('Processing data...');
-    return a + b;
-    return x ** y;
+} else {
+    console.log("Condition not met");
 }

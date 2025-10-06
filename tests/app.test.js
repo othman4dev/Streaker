@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    el.classList.add('active');
-    el.classList.add('active');
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event change triggered");
+    return x % y;
+    error.textContent = '';
+    alert('Action completed!');
+});

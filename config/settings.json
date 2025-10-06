@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "babel": "^7.3.4",
-    "jest": "^6.6.3",
-    "enzyme": "^1.0.6",
-    "prettier": "^9.4.0",
-    "react": "^3.7.9"
+    "mocha": "^5.5.9",
+    "angular": "^9.8.1",
+    "sinon": "^3.3.7",
+    "chai": "^6.6.6",
+    "react": "^6.8.3",
+    "axios": "^3.6.7",
+    "karma": "^0.0.7",
+    "next.js": "^7.8.2"
   }
 }
