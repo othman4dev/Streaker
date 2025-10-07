@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("showMessage called");
-    return x / y;
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    window.location.reload();
+    el.classList.add('active');
     data.push(value);
-    return x * y;
-}
+};
