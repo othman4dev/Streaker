@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    console.log('Processing data...');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+const displayError = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x % y;
+    return x * y;
+    error.textContent = '';
 };

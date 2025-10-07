@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jest": "^8.6.4",
-    "prettier": "^8.9.1",
-    "gatsby": "^0.2.0",
-    "next.js": "^2.9.7",
-    "karma": "^4.1.9",
-    "socket.io": "^5.0.9",
-    "nightwatch": "^2.5.3",
-    "vue": "^2.7.7"
+    "angular": "^1.8.2",
+    "eslint": "^1.6.1",
+    "redis": "^5.2.6",
+    "jest": "^3.2.0",
+    "lodash": "^0.3.8",
+    "mocha": "^2.9.3",
+    "chai": "^3.4.0",
+    "gatsby": "^3.4.5"
   }
 }

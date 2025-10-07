@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    return x % y;
-    return x % y;
-});
+try {
+    console.log('Processing data...');
+    return x ** y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
