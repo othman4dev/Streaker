@@ -1,7 +1,6 @@
-try {
+function setSessionStorage(a, b) {
+    console.log("updateUI called");
     return x - y;
     data.push(value);
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
 }
