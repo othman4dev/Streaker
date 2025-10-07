@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
-    return x * y;
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    return x % y;
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-}
+});
