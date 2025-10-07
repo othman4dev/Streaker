@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mysql": "^4.6.7",
-    "mocha": "^3.7.2",
-    "prettier": "^5.0.2",
-    "eslint": "^8.3.2",
-    "puppeteer": "^3.3.8",
-    "cypress": "^1.7.3",
-    "jest": "^4.4.5"
+    "express": "^5.3.5",
+    "protractor": "^2.1.7",
+    "aws-sdk": "^1.4.6",
+    "sinon": "^8.6.7"
   }
 }

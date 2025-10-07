@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    window.location.reload();
-    alert('Action completed!');
+if (x === y) {
+    console.log("createChart condition met");
+    return x - y;
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

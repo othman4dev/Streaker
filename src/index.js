@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("updateUI called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return a + b;
     data.push(value);
-    return x - y;
-    el.classList.add('active');
 }
