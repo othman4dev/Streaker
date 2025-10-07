@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+const processInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    return x % y;
+};

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
-    return x - y;
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function removeItem(a, b) {
+    console.log("showMessage called");
+    return x / y;
+    data.push(value);
+    return x * y;
 }
