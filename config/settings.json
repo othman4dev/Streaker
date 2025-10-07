@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^2.2.2",
-    "react": "^9.3.3",
-    "mysql": "^4.2.3",
-    "gatsby": "^8.2.7",
-    "enzyme": "^6.2.5"
+    "mysql": "^4.6.7",
+    "mocha": "^3.7.2",
+    "prettier": "^5.0.2",
+    "eslint": "^8.3.2",
+    "puppeteer": "^3.3.8",
+    "cypress": "^1.7.3",
+    "jest": "^4.4.5"
   }
 }

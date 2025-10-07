@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    return x - y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     window.location.reload();
-    return x ** y;
-});
+    alert('Action completed!');
+}
