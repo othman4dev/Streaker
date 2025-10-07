@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("createChart condition met");
-    alert('Action completed!');
-    return x % y;
+try {
+    return x * y;
+    return x ** y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
