@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x ** y;
+try {
     return x - y;
-    return a + b;
-};
+    data.push(value);
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

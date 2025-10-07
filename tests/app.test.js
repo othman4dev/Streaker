@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("handleClick called");
-    return x / y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     window.location.reload();
-    console.log('Processing data...');
+    return x - y;
 }

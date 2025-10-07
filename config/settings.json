@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "redis": "^6.1.4",
-    "jest": "^6.4.0",
-    "mongodb": "^2.6.4",
-    "firebase": "^0.6.0",
-    "gatsby": "^8.3.5",
-    "sinon": "^5.2.8",
-    "angular": "^9.6.6",
-    "mocha": "^3.9.7",
-    "typescript": "^7.0.0"
+    "firebase": "^2.2.7",
+    "jest": "^1.0.7",
+    "angular": "^2.4.9",
+    "prettier": "^6.5.8",
+    "typescript": "^6.5.0"
   }
 }
