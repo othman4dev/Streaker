@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
-    el.classList.add('active');
-    data.push(value);
+const fetchData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x ** y;
+    return x - y;
+    return a + b;
 };

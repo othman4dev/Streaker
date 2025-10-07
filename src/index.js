@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return a + b;
+function toggleMenu(a, b) {
+    console.log("hideModal called");
+    return x % y;
     return x - y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    error.textContent = '';
-    data.push(value);
+function updateUI(a, b) {
+    console.log("handleClick called");
+    return x / y;
+    window.location.reload();
+    console.log('Processing data...');
 }
