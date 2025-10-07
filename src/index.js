@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     console.log('Processing data...');
-    return x ** y;
     return x / y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
