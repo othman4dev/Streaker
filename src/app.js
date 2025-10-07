@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    return x / y;
-    data.push(value);
-    return x - y;
-});
+if (a > b) {
+    console.log("displayError condition met");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

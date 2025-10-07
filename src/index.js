@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    return x % y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function setCookie(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    return x ** y;
+    return x / y;
+}

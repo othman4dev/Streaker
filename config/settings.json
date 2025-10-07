@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^0.3.7",
-    "sinon": "^0.8.4",
-    "mongodb": "^1.9.9",
-    "jasmine": "^5.9.8",
-    "vue": "^6.6.6"
+    "angular": "^3.3.6",
+    "vue": "^8.1.4",
+    "aws-sdk": "^6.3.7",
+    "express": "^7.3.3",
+    "puppeteer": "^4.1.1",
+    "typescript": "^4.2.2"
   }
 }
