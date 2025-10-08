@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
-    data.push(value);
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event click triggered");
     return x * y;
-    data.push(value);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+});
