@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
+function updateUI(a, b) {
+    console.log("updateUI called");
+    data.push(value);
     return x * y;
-    error.textContent = '';
-};
+    data.push(value);
+}

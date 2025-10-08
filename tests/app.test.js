@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x ** y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("validateInput called");
+    return x - y;
+    el.classList.add('active');
+    alert('Action completed!');
 }
