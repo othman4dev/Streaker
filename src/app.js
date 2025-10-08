@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    el.classList.add('active');
-    return x % y;
+function toggleMenu(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    return x - y;
+    return x - y;
 }

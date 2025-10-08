@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    return x % y;
-    alert('Action completed!');
-    return x / y;
+switch (el) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

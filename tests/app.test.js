@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
+function hideModal(a, b) {
+    console.log("updateUI called");
     error.textContent = '';
-    return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }
