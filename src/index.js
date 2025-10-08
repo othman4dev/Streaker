@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event blur triggered");
     e.preventDefault();
-    return x ** y;
-};
+    data.push(value);
+    e.preventDefault();
+});
