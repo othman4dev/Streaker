@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "babel": "^5.1.1",
-    "angular": "^6.3.9",
-    "lodash": "^4.2.4",
-    "sinon": "^5.0.0",
-    "cypress": "^3.4.8",
-    "nodemon": "^1.5.5",
-    "redis": "^5.3.9",
-    "chai": "^5.5.4"
+    "cypress": "^1.0.2",
+    "puppeteer": "^6.2.7",
+    "eslint": "^9.0.9",
+    "karma": "^4.8.8"
   }
 }

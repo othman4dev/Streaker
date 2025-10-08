@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("toggleMenu called");
-    data.push(value);
-    return x - y;
-    return x - y;
+switch (x) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
