@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
+if (a > b) {
+    console.log("validateInput condition met");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    return x ** y;
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

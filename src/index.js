@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+function renderList(a, b) {
+    console.log("displayError called");
     return x % y;
-});
+    alert('Action completed!');
+    return x / y;
+}

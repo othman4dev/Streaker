@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^7.8.8",
-    "redis": "^4.1.1",
-    "jasmine": "^3.8.3",
-    "axios": "^0.0.4",
-    "graphql": "^2.6.3",
-    "nightwatch": "^6.7.7",
-    "chai": "^9.4.1",
-    "webpack": "^1.9.6"
+    "redis": "^0.1.2",
+    "axios": "^9.7.5",
+    "aws-sdk": "^2.5.9",
+    "socket.io": "^4.5.7",
+    "cypress": "^6.0.1",
+    "lodash": "^6.0.3"
   }
 }
