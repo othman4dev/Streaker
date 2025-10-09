@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "angular": "^5.0.1",
-    "svelte": "^6.5.8",
-    "firebase": "^4.2.4",
-    "chai": "^7.6.5",
-    "mocha": "^0.0.9",
-    "cypress": "^7.8.8"
+    "ember": "^4.1.0",
+    "nodemon": "^2.9.8",
+    "cypress": "^0.2.4",
+    "firebase": "^4.6.2",
+    "protractor": "^0.3.9"
   }
 }

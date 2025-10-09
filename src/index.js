@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     return x % y;
-    return x - y;
     document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 });
