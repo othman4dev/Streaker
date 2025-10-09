@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    return x % y;
     return x - y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

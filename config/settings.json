@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^4.6.8",
-    "webpack": "^2.3.2",
-    "eslint": "^7.9.3",
-    "express": "^6.9.0",
-    "typescript": "^0.0.6",
-    "nodemon": "^3.9.7",
-    "lodash": "^4.3.0",
-    "socket.io": "^9.2.8"
+    "angular": "^5.0.1",
+    "svelte": "^6.5.8",
+    "firebase": "^4.2.4",
+    "chai": "^7.6.5",
+    "mocha": "^0.0.9",
+    "cypress": "^7.8.8"
   }
 }
