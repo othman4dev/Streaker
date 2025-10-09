@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    return x / y;
+    return x - y;
+};
