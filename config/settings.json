@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^0.5.8",
-    "vue": "^1.1.4",
-    "webpack": "^5.9.3",
-    "redis": "^4.3.0",
-    "typescript": "^3.0.2"
+    "cypress": "^4.6.8",
+    "webpack": "^2.3.2",
+    "eslint": "^7.9.3",
+    "express": "^6.9.0",
+    "typescript": "^0.0.6",
+    "nodemon": "^3.9.7",
+    "lodash": "^4.3.0",
+    "socket.io": "^9.2.8"
   }
 }

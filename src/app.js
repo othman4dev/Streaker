@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x % y;
+});
