@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x ** y;
-    return x * y;
-    window.location.reload();
-};
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    el.classList.add('active');
+    el.classList.add('active');
+});
