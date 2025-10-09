@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "react": "^6.7.6",
-    "mysql": "^2.6.0",
-    "sinon": "^8.9.1",
-    "ember": "^6.4.1",
-    "karma": "^4.6.0",
-    "jest": "^0.9.8",
-    "gatsby": "^6.1.3"
+    "gatsby": "^7.4.5",
+    "nodemon": "^5.9.7",
+    "typescript": "^2.2.1",
+    "prettier": "^7.0.8",
+    "next.js": "^6.9.3",
+    "mysql": "^9.9.8",
+    "protractor": "^7.8.9"
   }
 }
