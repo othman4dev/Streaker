@@ -1,6 +1,7 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x % y;
-    return x ** y;
+try {
+    el.classList.add('active');
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

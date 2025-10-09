@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^5.2.6",
-    "vue": "^4.4.4",
-    "enzyme": "^6.6.9",
-    "next.js": "^3.4.8",
-    "nightwatch": "^4.4.1"
+    "jest": "^5.8.3",
+    "eslint": "^5.1.8",
+    "angular": "^4.5.3",
+    "nightwatch": "^2.9.1",
+    "protractor": "^0.3.9",
+    "moment": "^0.9.6"
   }
 }
