@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x % y;
+    el.classList.add('active');
+    return x / y;
+};
