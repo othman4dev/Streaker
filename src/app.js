@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    window.location.reload();
+const validateInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};
