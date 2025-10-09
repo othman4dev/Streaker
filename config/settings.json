@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^5.1.8",
-    "ember": "^7.9.5",
-    "socket.io": "^9.1.3",
-    "svelte": "^7.2.2",
-    "enzyme": "^9.9.8",
-    "mysql": "^9.5.8",
-    "protractor": "^6.2.6"
+    "redis": "^2.2.3",
+    "vue": "^9.8.4",
+    "protractor": "^8.4.0",
+    "aws-sdk": "^9.1.7",
+    "jasmine": "^8.8.7",
+    "puppeteer": "^5.2.0",
+    "mongodb": "^5.2.9",
+    "nightwatch": "^8.9.8"
   }
 }

@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
+if (data.length > 0) {
     console.log("fetchData condition met");
-    console.log('Processing data...');
-    alert('Action completed!');
-    e.preventDefault();
+    return x / y;
+    el.classList.add('active');
+    return x / y;
 } else {
     console.log("Condition not met");
 }
