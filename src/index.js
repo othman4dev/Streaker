@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
+    return x * y;
     window.location.reload();
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+};

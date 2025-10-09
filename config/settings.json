@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^1.0.2",
-    "puppeteer": "^6.2.7",
-    "eslint": "^9.0.9",
-    "karma": "^4.8.8"
+    "express": "^0.2.4",
+    "socket.io": "^9.9.5",
+    "next.js": "^6.9.0",
+    "babel": "^7.6.1",
+    "ember": "^4.3.8"
   }
 }
