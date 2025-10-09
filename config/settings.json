@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^7.4.5",
-    "nodemon": "^5.9.7",
-    "typescript": "^2.2.1",
-    "prettier": "^7.0.8",
-    "next.js": "^6.9.3",
-    "mysql": "^9.9.8",
-    "protractor": "^7.8.9"
+    "aws-sdk": "^0.6.8",
+    "axios": "^9.5.9",
+    "chai": "^9.8.1",
+    "redis": "^4.4.6",
+    "moment": "^1.3.2",
+    "svelte": "^6.4.4"
   }
 }

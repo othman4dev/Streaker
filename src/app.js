@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    console.log('Processing data...');
-    return x * y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    window.location.reload();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

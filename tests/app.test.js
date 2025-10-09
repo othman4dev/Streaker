@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    e.preventDefault();
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    alert('Action completed!');
+    return x * y;
+    el.classList.add('active');
+});
