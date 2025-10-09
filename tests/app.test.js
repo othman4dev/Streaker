@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event resize triggered");
+function updateUI(a, b) {
+    console.log("hideModal called");
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+    return x % y;
+    window.location.reload();
+}
