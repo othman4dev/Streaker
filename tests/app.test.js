@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    return x / y;
-    el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+});
