@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^4.0.9",
-    "express": "^4.5.2",
-    "next.js": "^7.4.7",
-    "angular": "^7.4.4",
-    "mysql": "^0.2.5",
-    "enzyme": "^7.4.7"
+    "prettier": "^0.5.8",
+    "vue": "^1.1.4",
+    "webpack": "^5.9.3",
+    "redis": "^4.3.0",
+    "typescript": "^3.0.2"
   }
 }
