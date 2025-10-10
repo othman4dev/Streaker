@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    return x % y;
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    alert('Action completed!');
+});
