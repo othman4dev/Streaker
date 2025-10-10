@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
-    window.location.reload();
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    el.classList.add('active');
+    data.push(value);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
