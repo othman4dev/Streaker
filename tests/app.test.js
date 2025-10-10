@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    el.classList.add('active');
+    window.location.reload();
     return x / y;
-    el.classList.add('active');
-    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
