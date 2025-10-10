@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }
