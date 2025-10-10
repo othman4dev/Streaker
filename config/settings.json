@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^5.9.9",
-    "next.js": "^4.5.9",
-    "ember": "^5.3.2",
-    "mysql": "^7.1.0",
-    "aws-sdk": "^3.8.4"
+    "redis": "^6.9.3",
+    "angular": "^0.0.4",
+    "firebase": "^8.5.2",
+    "express": "^1.8.6",
+    "protractor": "^9.4.5",
+    "karma": "^1.4.0"
   }
 }
