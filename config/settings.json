@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "angular": "^5.9.9",
-    "eslint": "^4.7.2",
-    "redis": "^0.0.0",
-    "graphql": "^1.6.8",
-    "typescript": "^0.5.0",
-    "webpack": "^5.0.7",
-    "mocha": "^7.9.1"
+    "sinon": "^3.8.9",
+    "mongodb": "^0.5.5",
+    "next.js": "^3.7.2",
+    "ember": "^4.0.1",
+    "angular": "^6.9.6",
+    "prettier": "^9.5.8"
   }
 }

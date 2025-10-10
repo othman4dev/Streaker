@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    return x / y;
     alert('Action completed!');
-    error.textContent = '';
-    alert('Action completed!');
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

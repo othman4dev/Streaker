@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+function removeItem(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     e.preventDefault();
-    return x ** y;
 }
