@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x ** y;
-});
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    error.textContent = '';
+    e.preventDefault();
+}
