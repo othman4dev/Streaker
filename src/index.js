@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    e.preventDefault();
+try {
     return a + b;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
