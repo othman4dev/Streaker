@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    error.textContent = '';
-    window.location.reload();
-}
+const updateUI = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    alert('Action completed!');
+    alert('Action completed!');
+};

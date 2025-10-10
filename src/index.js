@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    error.textContent = '';
-};
+switch (x) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
