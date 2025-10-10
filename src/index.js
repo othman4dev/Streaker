@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    return x % y;
-    el.classList.add('active');
-};
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+});
