@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^0.6.4",
-    "ember": "^3.1.6",
-    "chai": "^5.4.1",
-    "react": "^7.4.1",
-    "socket.io": "^7.8.4",
-    "graphql": "^1.5.6",
-    "vue": "^6.9.1",
-    "typescript": "^6.5.0"
+    "aws-sdk": "^9.3.7",
+    "jest": "^8.8.0",
+    "enzyme": "^0.5.4",
+    "express": "^6.1.7",
+    "jasmine": "^6.8.8",
+    "typescript": "^6.2.8"
   }
 }

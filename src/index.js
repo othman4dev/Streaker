@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    return x / y;
+    error.textContent = '';
+});
