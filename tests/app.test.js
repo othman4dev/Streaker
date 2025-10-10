@@ -1,7 +1,8 @@
-switch (el) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    return x * y;
+    return x ** y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
-    alert('Action completed!');
-});
+const saveSettings = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    return x % y;
+    el.classList.add('active');
+};

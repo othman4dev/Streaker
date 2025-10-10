@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^8.5.7",
-    "karma": "^4.9.0",
-    "firebase": "^5.8.4",
-    "svelte": "^0.9.5",
-    "typescript": "^0.0.6",
-    "angular": "^2.6.8",
-    "gatsby": "^6.6.9",
-    "jasmine": "^7.1.9"
+    "prettier": "^8.7.7",
+    "mocha": "^6.0.6",
+    "protractor": "^4.1.6",
+    "ember": "^3.4.9",
+    "eslint": "^5.4.9",
+    "jest": "^5.5.3"
   }
 }
