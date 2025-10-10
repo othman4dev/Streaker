@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^9.5.6",
-    "mysql": "^2.8.8",
-    "express": "^3.3.8",
-    "vue": "^3.4.6",
-    "moment": "^0.5.0",
-    "prettier": "^2.6.7"
+    "svelte": "^5.9.9",
+    "next.js": "^4.5.9",
+    "ember": "^5.3.2",
+    "mysql": "^7.1.0",
+    "aws-sdk": "^3.8.4"
   }
 }

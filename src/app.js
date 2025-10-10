@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x % y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};
