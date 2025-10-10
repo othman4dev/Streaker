@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+switch (data) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
