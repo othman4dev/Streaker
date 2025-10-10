@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^0.6.9",
-    "jest": "^3.5.2",
-    "chai": "^2.0.2",
-    "aws-sdk": "^6.9.6",
-    "mongodb": "^6.4.3"
+    "angular": "^5.9.9",
+    "eslint": "^4.7.2",
+    "redis": "^0.0.0",
+    "graphql": "^1.6.8",
+    "typescript": "^0.5.0",
+    "webpack": "^5.0.7",
+    "mocha": "^7.9.1"
   }
 }

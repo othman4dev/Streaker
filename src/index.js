@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("handleClick called");
-    return x ** y;
+const validateInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    error.textContent = '';
     return x / y;
-    return x - y;
-}
+};
