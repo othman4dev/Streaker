@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    return a + b;
-    alert('Action completed!');
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     window.location.reload();
-});
+    return x ** y;
+}
