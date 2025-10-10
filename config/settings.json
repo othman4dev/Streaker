@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "ember": "^9.7.0",
-    "jasmine": "^6.0.2",
-    "vue": "^3.0.3",
-    "next.js": "^0.7.2",
-    "angular": "^7.1.7",
-    "eslint": "^8.2.7",
-    "mysql": "^6.3.5"
+    "firebase": "^9.5.6",
+    "mysql": "^2.8.8",
+    "express": "^3.3.8",
+    "vue": "^3.4.6",
+    "moment": "^0.5.0",
+    "prettier": "^2.6.7"
   }
 }

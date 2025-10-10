@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x - y;
+    return x ** y;
 }
