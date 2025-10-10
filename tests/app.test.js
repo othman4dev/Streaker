@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    return x / y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    return x ** y;
+    data.push(value);
 });
