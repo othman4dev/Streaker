@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function toggleMenu(a, b) {
+    console.log("handleClick called");
+    return x ** y;
+    return x / y;
+    return x - y;
 }

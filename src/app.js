@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    alert('Action completed!');
-    alert('Action completed!');
-};
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    return x - y;
+    return x ** y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
