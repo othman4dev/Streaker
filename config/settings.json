@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "redis": "^6.9.3",
-    "angular": "^0.0.4",
-    "firebase": "^8.5.2",
-    "express": "^1.8.6",
-    "protractor": "^9.4.5",
-    "karma": "^1.4.0"
+    "jest": "^4.9.9",
+    "sinon": "^9.6.1",
+    "cypress": "^6.2.1",
+    "jasmine": "^5.1.9",
+    "protractor": "^8.6.5",
+    "eslint": "^7.2.7",
+    "redis": "^0.5.7",
+    "angular": "^0.5.6"
   }
 }

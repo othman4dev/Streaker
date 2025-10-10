@@ -1,7 +1,8 @@
-try {
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    return x % y;
     return a + b;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

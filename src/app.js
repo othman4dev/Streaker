@@ -1,7 +1,7 @@
-try {
-    alert('Action completed!');
-    return x ** y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+switch (x) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
