@@ -1,7 +1,6 @@
-try {
+const validateInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return a + b;
-    return a + b;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    console.log('Processing data...');
+};
