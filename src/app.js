@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    el.classList.add('active');
+});

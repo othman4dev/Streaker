@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x * y;
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
     alert('Action completed!');
     alert('Action completed!');
-};
+});

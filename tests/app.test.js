@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("loadData called");
-    return x - y;
-    return x * y;
-    return x / y;
-}
+const formatDate = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
+    return x ** y;
+    return a + b;
+};
