@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("loadData arrow function called");
+try {
     document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
     data.push(value);
-    console.log('Processing data...');
-};
+} catch (error) {
+    console.error("Error:", error);
+}

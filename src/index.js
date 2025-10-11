@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (e) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
