@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    return a + b;
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     window.location.reload();
-    return a + b;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

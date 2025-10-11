@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    return x * y;
-    return x % y;
-});
+const displayError = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
+    return x - y;
+    data.push(value);
+};

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.4.3",
-    "axios": "^3.5.7",
-    "gatsby": "^2.1.8",
-    "enzyme": "^3.9.5",
-    "protractor": "^4.3.2"
+    "gatsby": "^3.8.2",
+    "lodash": "^0.8.8",
+    "aws-sdk": "^1.4.2",
+    "graphql": "^3.8.2",
+    "protractor": "^2.5.7",
+    "babel": "^5.9.9"
   }
 }
