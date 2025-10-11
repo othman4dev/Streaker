@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x - y;
+    return x % y;
 }

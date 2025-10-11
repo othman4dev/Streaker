@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "babel": "^9.6.7",
-    "prettier": "^0.7.3",
-    "jest": "^2.1.9",
-    "typescript": "^3.0.7",
-    "protractor": "^9.3.0"
+    "graphql": "^4.4.9",
+    "vue": "^6.6.1",
+    "sinon": "^7.1.7",
+    "redis": "^2.9.8",
+    "karma": "^9.4.6"
   }
 }

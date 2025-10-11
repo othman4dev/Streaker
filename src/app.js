@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("updateUI called");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     return x - y;
-    return x % y;
-    data.push(value);
+    return a + b;
 }
