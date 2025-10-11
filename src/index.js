@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
+};

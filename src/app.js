@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+switch (a) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

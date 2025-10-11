@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    alert('Action completed!');
+function animateElement(a, b) {
+    console.log("loadData called");
     return x - y;
-    data.push(value);
-};
+    return x * y;
+    return x / y;
+}
