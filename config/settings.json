@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^4.4.9",
-    "vue": "^6.6.1",
-    "sinon": "^7.1.7",
-    "redis": "^2.9.8",
-    "karma": "^9.4.6"
+    "enzyme": "^4.2.4",
+    "nodemon": "^5.9.7",
+    "nightwatch": "^3.1.2",
+    "angular": "^8.3.0",
+    "aws-sdk": "^8.4.9",
+    "redis": "^1.5.8",
+    "moment": "^2.0.3",
+    "express": "^8.5.0"
   }
 }

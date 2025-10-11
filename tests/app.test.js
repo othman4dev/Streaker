@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+const createChart = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return x - y;
-    return x % y;
-}
+    return x ** y;
+    el.classList.add('active');
+};
