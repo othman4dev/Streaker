@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^5.9.0",
-    "nightwatch": "^3.7.2",
-    "eslint": "^8.7.2",
-    "enzyme": "^4.6.2",
-    "mocha": "^3.7.1",
-    "redis": "^4.2.2"
+    "axios": "^5.4.6",
+    "ember": "^7.7.4",
+    "prettier": "^3.7.8",
+    "nodemon": "^6.2.3",
+    "babel": "^4.0.4"
   }
 }
