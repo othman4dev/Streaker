@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
+if (x !== y) {
+    console.log("setCookie condition met");
     e.preventDefault();
-    alert('Action completed!');
-    alert('Action completed!');
-});
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
