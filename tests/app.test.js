@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
+const createChart = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x ** y;
     el.classList.add('active');
-    window.location.reload();
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+};

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     el.classList.add('active');
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x / y;
+};
