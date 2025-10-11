@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x / y;
-};
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    return x * y;
+    alert('Action completed!');
+}
