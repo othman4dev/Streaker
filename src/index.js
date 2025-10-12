@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event click triggered");
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    error.textContent = '';
+    window.location.reload();
 });
