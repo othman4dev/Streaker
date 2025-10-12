@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("removeItem called");
+if (window.innerWidth > 500) {
+    console.log("getLocalStorage condition met");
     return x % y;
-    el.classList.add('active');
-    return x / y;
+    return x * y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

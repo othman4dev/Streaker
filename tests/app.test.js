@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+if (value !== '') {
+    console.log("getLocalStorage condition met");
     window.location.reload();
-    el.classList.add('active');
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
