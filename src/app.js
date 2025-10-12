@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("renderList called");
+    return x / y;
+    alert('Action completed!');
+    return x / y;
 }
