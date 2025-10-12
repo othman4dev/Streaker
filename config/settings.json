@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.6.5",
-    "socket.io": "^6.8.1",
-    "react": "^1.5.9",
-    "svelte": "^8.7.2",
-    "mysql": "^6.3.2"
+    "karma": "^0.6.7",
+    "jest": "^7.5.4",
+    "ember": "^8.7.0",
+    "prettier": "^1.6.6",
+    "eslint": "^9.6.1",
+    "redis": "^8.6.3"
   }
 }
