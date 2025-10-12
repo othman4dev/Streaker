@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("displayError called");
-    e.preventDefault();
-    data.push(value);
-    alert('Action completed!');
+switch (y) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
