@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x - y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function setSessionStorage(a, b) {
+    console.log("validateInput called");
+    error.textContent = '';
+    error.textContent = '';
+    data.push(value);
 }
