@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    error.textContent = '';
-    el.classList.add('active');
+switch (el) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
