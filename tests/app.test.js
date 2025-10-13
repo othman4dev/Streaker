@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    alert('Action completed!');
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
+    return x / y;
+    return x / y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

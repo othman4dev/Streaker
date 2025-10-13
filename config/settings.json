@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "express": "^0.9.9",
-    "socket.io": "^7.4.5",
-    "eslint": "^8.2.2",
-    "prettier": "^7.8.3",
-    "mocha": "^2.1.5"
+    "angular": "^5.4.1",
+    "next.js": "^3.8.5",
+    "nightwatch": "^4.7.5",
+    "jasmine": "^3.6.9",
+    "protractor": "^6.9.5",
+    "nodemon": "^0.6.0"
   }
 }
