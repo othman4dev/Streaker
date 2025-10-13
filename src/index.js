@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    data.push(value);
+    data.push(value);
+    data.push(value);
+};

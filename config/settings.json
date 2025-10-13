@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^3.9.5",
-    "eslint": "^2.2.6",
-    "protractor": "^9.8.7",
-    "aws-sdk": "^8.2.6",
-    "vue": "^2.2.4",
-    "puppeteer": "^8.8.6",
-    "ember": "^0.8.9",
-    "jest": "^9.9.6"
+    "lodash": "^8.6.1",
+    "next.js": "^8.8.5",
+    "ember": "^1.1.1",
+    "babel": "^9.9.7",
+    "webpack": "^4.2.6",
+    "enzyme": "^5.7.6"
   }
 }

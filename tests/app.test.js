@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x % y;
-}
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    return x * y;
+    e.preventDefault();
+    return a + b;
+});
