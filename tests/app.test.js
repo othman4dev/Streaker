@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+const showMessage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x / y;
+    return x % y;
+    data.push(value);
+};

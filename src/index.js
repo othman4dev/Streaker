@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("processInput called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+switch (value) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

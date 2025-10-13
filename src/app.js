@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    data.push(value);
+    return a + b;
 }
