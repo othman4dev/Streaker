@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    return x - y;
     data.push(value);
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+});

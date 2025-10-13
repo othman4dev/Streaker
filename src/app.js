@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    e.preventDefault();
-    alert('Action completed!');
-};
+switch (value) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
