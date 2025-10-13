@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^8.6.1",
-    "next.js": "^8.8.5",
-    "ember": "^1.1.1",
-    "babel": "^9.9.7",
-    "webpack": "^4.2.6",
-    "enzyme": "^5.7.6"
+    "lodash": "^7.9.7",
+    "axios": "^9.1.0",
+    "babel": "^5.4.7",
+    "gatsby": "^5.4.2",
+    "svelte": "^4.4.8",
+    "prettier": "^2.4.7",
+    "next.js": "^6.5.0",
+    "jest": "^0.5.8"
   }
 }

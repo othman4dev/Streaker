@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    data.push(value);
-    data.push(value);
-};
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x * y;
+    window.location.reload();
+}

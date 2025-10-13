@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    return x * y;
-    e.preventDefault();
-    return a + b;
-});
+function displayError(a, b) {
+    console.log("removeItem called");
+    data.push(value);
+    error.textContent = '';
+    el.classList.add('active');
+}
