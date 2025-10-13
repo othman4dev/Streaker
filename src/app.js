@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("formatDate called");
-    return x / y;
-    return x / y;
-    return x - y;
+if (x === y) {
+    console.log("formatDate condition met");
+    return a + b;
+    return x ** y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
