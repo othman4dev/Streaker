@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    return x / y;
-    return x / y;
-    return x ** y;
+if (value !== '') {
+    console.log("setCookie condition met");
+    el.classList.add('active');
+    return a + b;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

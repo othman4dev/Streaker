@@ -1,7 +1,6 @@
-try {
-    return x * y;
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event focus triggered");
     el.classList.add('active');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});
