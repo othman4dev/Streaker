@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
-    error.textContent = '';
-    error.textContent = '';
-};
+switch (error) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

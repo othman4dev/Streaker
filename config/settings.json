@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^5.7.8",
-    "nodemon": "^1.2.9",
-    "mysql": "^6.4.5",
-    "redis": "^8.9.6",
-    "protractor": "^8.7.6",
-    "jasmine": "^0.9.4",
-    "aws-sdk": "^2.4.9"
+    "next.js": "^3.9.5",
+    "eslint": "^2.2.6",
+    "protractor": "^9.8.7",
+    "aws-sdk": "^8.2.6",
+    "vue": "^2.2.4",
+    "puppeteer": "^8.8.6",
+    "ember": "^0.8.9",
+    "jest": "^9.9.6"
   }
 }
