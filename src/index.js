@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
-    return x * y;
-    return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

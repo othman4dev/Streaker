@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
-    return x - y;
-    alert('Action completed!');
+try {
+    return x * y;
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
