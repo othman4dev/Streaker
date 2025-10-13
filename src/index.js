@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+const createChart = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x * y;
     error.textContent = '';
-});
+    error.textContent = '';
+};
