@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^8.2.3",
-    "angular": "^7.6.5",
-    "babel": "^3.0.1",
-    "express": "^3.9.3",
-    "sinon": "^2.4.8"
+    "jasmine": "^6.3.4",
+    "moment": "^1.8.4",
+    "jest": "^7.0.8",
+    "angular": "^1.1.1",
+    "prettier": "^7.3.1"
   }
 }

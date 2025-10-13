@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    return a + b;
-    return x ** y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x / y;
+    e.preventDefault();
+    alert('Action completed!');
+};
