@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    alert('Action completed!');
     return x % y;
-    data.push(value);
-};
+}
