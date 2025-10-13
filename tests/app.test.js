@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event blur triggered");
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
     return x - y;
-    data.push(value);
-    return x / y;
-});
+    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
