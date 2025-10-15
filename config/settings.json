@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "redis": "^1.0.2",
-    "axios": "^2.1.6",
-    "mysql": "^6.2.8",
-    "nodemon": "^6.9.8",
-    "enzyme": "^2.0.8"
+    "mongodb": "^5.9.2",
+    "mysql": "^8.2.0",
+    "angular": "^9.0.0",
+    "graphql": "^3.3.4",
+    "jest": "^2.4.3",
+    "chai": "^3.1.8",
+    "react": "^8.9.9"
   }
 }
