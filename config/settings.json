@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^5.9.2",
-    "mysql": "^8.2.0",
-    "angular": "^9.0.0",
-    "graphql": "^3.3.4",
-    "jest": "^2.4.3",
-    "chai": "^3.1.8",
-    "react": "^8.9.9"
+    "jest": "^3.5.5",
+    "babel": "^0.8.0",
+    "sinon": "^1.2.3",
+    "eslint": "^9.3.0"
   }
 }
