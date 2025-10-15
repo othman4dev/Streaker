@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^9.5.9",
-    "babel": "^7.4.9",
-    "jest": "^0.4.7",
-    "webpack": "^5.2.8",
-    "axios": "^6.9.0"
+    "redis": "^1.0.2",
+    "axios": "^2.1.6",
+    "mysql": "^6.2.8",
+    "nodemon": "^6.9.8",
+    "enzyme": "^2.0.8"
   }
 }
