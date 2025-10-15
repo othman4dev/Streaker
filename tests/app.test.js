@@ -1,7 +1,7 @@
 try {
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+    console.log('Processing data...');
+    data.push(value);
+    e.preventDefault();
 } catch (error) {
     console.error("Error:", error);
 }

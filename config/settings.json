@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jest": "^3.5.5",
-    "babel": "^0.8.0",
-    "sinon": "^1.2.3",
-    "eslint": "^9.3.0"
+    "jasmine": "^7.8.5",
+    "graphql": "^9.1.0",
+    "react": "^5.5.8",
+    "firebase": "^0.0.9",
+    "babel": "^9.0.6",
+    "socket.io": "^8.4.3"
   }
 }

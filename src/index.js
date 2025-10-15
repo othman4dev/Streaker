@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    return x % y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    window.location.reload();
 }
