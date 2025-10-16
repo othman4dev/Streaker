@@ -1,7 +1,6 @@
-try {
+function displayError(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    return x / y;
     console.log('Processing data...');
-    data.push(value);
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
 }

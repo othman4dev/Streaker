@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("createChart called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+if (value !== '') {
+    console.log("showMessage condition met");
     window.location.reload();
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
