@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "nightwatch": "^4.3.0",
-    "protractor": "^8.6.4",
-    "redis": "^8.7.9",
-    "prettier": "^7.7.6",
-    "webpack": "^0.7.5",
-    "jasmine": "^2.9.6",
-    "react": "^0.8.6"
+    "eslint": "^0.1.1",
+    "gatsby": "^6.1.1",
+    "moment": "^3.3.9",
+    "puppeteer": "^5.8.7",
+    "express": "^6.4.0",
+    "jest": "^8.8.2",
+    "mongodb": "^5.5.1",
+    "babel": "^7.3.0",
+    "ember": "^7.9.9"
   }
 }

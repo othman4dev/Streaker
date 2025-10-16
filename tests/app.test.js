@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
