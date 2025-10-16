@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "react": "^3.8.3",
-    "enzyme": "^9.9.3",
-    "socket.io": "^7.5.7",
-    "karma": "^8.1.4",
-    "protractor": "^4.7.4",
-    "mysql": "^4.4.3"
+    "nightwatch": "^4.3.0",
+    "protractor": "^8.6.4",
+    "redis": "^8.7.9",
+    "prettier": "^7.7.6",
+    "webpack": "^0.7.5",
+    "jasmine": "^2.9.6",
+    "react": "^0.8.6"
   }
 }

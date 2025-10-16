@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    return x / y;
-    return x - y;
-    e.preventDefault();
-});
+const removeItem = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+};

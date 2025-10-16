@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("handleClick condition met");
-    return x - y;
-    return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("displayError called");
+    return x * y;
+    return x ** y;
+    el.classList.add('active');
 }
