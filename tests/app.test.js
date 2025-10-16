@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event submit triggered");
     return x / y;
-    console.log('Processing data...');
-}
+    return x - y;
+    e.preventDefault();
+});

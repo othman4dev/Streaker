@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^6.0.2",
-    "babel": "^6.0.9",
-    "typescript": "^5.4.9",
-    "lodash": "^2.8.8",
-    "svelte": "^7.5.7",
-    "prettier": "^6.7.6",
-    "enzyme": "^0.9.8",
-    "mysql": "^0.0.7"
+    "react": "^3.8.3",
+    "enzyme": "^9.9.3",
+    "socket.io": "^7.5.7",
+    "karma": "^8.1.4",
+    "protractor": "^4.7.4",
+    "mysql": "^4.4.3"
   }
 }

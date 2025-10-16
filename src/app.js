@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event change triggered");
-    window.location.reload();
+try {
+    return x / y;
+    return x % y;
     error.textContent = '';
-    alert('Action completed!');
-});
+} catch (error) {
+    console.error("Error:", error);
+}

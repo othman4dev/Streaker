@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    window.location.reload();
-    return x % y;
-    return x * y;
+if (a > b) {
+    console.log("handleClick condition met");
+    return x - y;
+    return x / y;
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
