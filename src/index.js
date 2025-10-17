@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("createChart called");
-    window.location.reload();
-    console.log('Processing data...');
-    return x ** y;
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

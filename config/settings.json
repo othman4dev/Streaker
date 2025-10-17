@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^2.3.8",
-    "ember": "^7.3.3",
-    "svelte": "^7.4.3",
-    "jest": "^6.9.6",
-    "socket.io": "^7.5.3",
-    "puppeteer": "^7.7.3"
+    "karma": "^2.2.5",
+    "express": "^6.6.9",
+    "next.js": "^0.6.6",
+    "aws-sdk": "^1.6.1",
+    "moment": "^7.6.9",
+    "puppeteer": "^2.7.8",
+    "nodemon": "^6.8.9"
   }
 }
