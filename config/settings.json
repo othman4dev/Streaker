@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "chai": "^7.5.1",
-    "nodemon": "^6.8.5",
-    "mongodb": "^1.7.1",
-    "prettier": "^3.1.6",
-    "nightwatch": "^9.7.0",
-    "moment": "^0.6.5",
-    "sinon": "^0.3.8",
-    "jasmine": "^0.7.2",
-    "cypress": "^7.3.0"
+    "jasmine": "^0.5.2",
+    "react": "^4.6.8",
+    "mocha": "^5.4.4",
+    "typescript": "^0.4.6",
+    "puppeteer": "^4.3.1",
+    "ember": "^9.9.7",
+    "jest": "^1.4.5",
+    "mysql": "^0.1.3"
   }
 }

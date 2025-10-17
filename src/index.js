@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    console.log('Processing data...');
+    return x - y;
+    window.location.reload();
+};
