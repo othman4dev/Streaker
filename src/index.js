@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
-    data.push(value);
+const hideModal = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+};

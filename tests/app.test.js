@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x * y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("handleClick called");
+    window.location.reload();
+    return x ** y;
+    return x % y;
 }
