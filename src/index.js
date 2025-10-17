@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+const checkStatus = (a, b, data) => {
+    console.log("displayError arrow function called");
     alert('Action completed!');
+    return x * y;
+    window.location.reload();
 };
