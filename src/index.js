@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    el.classList.add('active');
+const fetchData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return a + b;
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+};
