@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("getLocalStorage called");
-    alert('Action completed!');
-    return x / y;
-    data.push(value);
+switch (data) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
