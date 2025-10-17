@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+try {
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

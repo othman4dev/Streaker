@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^3.6.4",
-    "cypress": "^1.9.9",
-    "jest": "^5.8.1",
-    "babel": "^8.9.7",
-    "protractor": "^1.0.4",
-    "angular": "^4.5.9",
-    "mongodb": "^3.2.3"
+    "next.js": "^8.6.1",
+    "express": "^4.4.9",
+    "typescript": "^0.6.1",
+    "angular": "^8.7.8",
+    "enzyme": "^6.2.5",
+    "ember": "^2.4.5",
+    "firebase": "^6.2.6"
   }
 }
