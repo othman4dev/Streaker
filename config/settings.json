@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^9.6.8",
-    "babel": "^9.1.4",
-    "graphql": "^2.3.7",
-    "jest": "^8.9.6",
-    "next.js": "^8.0.8"
+    "gatsby": "^1.6.4",
+    "nodemon": "^0.8.2",
+    "ember": "^9.5.7",
+    "moment": "^0.3.4",
+    "express": "^9.8.8",
+    "nightwatch": "^4.9.3"
   }
 }

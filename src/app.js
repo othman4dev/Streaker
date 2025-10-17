@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("toggleMenu called");
-    return x - y;
-    return x / y;
-    return x ** y;
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    error.textContent = '';
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

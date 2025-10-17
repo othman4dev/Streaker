@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x ** y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    return x % y;
+    return x - y;
+});

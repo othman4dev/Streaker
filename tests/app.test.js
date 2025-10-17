@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    error.textContent = '';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+};
