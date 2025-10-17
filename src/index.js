@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    e.preventDefault();
-});
+function processInput(a, b) {
+    console.log("createChart called");
+    window.location.reload();
+    console.log('Processing data...');
+    return x ** y;
+}
