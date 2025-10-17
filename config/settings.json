@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^6.6.5",
-    "babel": "^6.3.1",
-    "jest": "^5.2.5",
-    "eslint": "^6.5.1",
-    "cypress": "^2.2.9",
-    "webpack": "^5.9.0"
+    "vue": "^6.7.0",
+    "express": "^8.5.1",
+    "nightwatch": "^8.6.3",
+    "socket.io": "^8.9.4",
+    "next.js": "^6.3.8",
+    "eslint": "^1.0.6"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x / y;
-    return x - y;
-}
+const processInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x ** y;
+};
