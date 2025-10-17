@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    alert('Action completed!');
+try {
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x / y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

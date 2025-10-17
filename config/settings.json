@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "karma": "^2.2.5",
-    "express": "^6.6.9",
-    "next.js": "^0.6.6",
-    "aws-sdk": "^1.6.1",
-    "moment": "^7.6.9",
-    "puppeteer": "^2.7.8",
-    "nodemon": "^6.8.9"
+    "chai": "^7.5.1",
+    "nodemon": "^6.8.5",
+    "mongodb": "^1.7.1",
+    "prettier": "^3.1.6",
+    "nightwatch": "^9.7.0",
+    "moment": "^0.6.5",
+    "sinon": "^0.3.8",
+    "jasmine": "^0.7.2",
+    "cypress": "^7.3.0"
   }
 }
