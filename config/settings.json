@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "vue": "^6.7.0",
-    "express": "^8.5.1",
-    "nightwatch": "^8.6.3",
-    "socket.io": "^8.9.4",
-    "next.js": "^6.3.8",
-    "eslint": "^1.0.6"
+    "cypress": "^9.6.8",
+    "babel": "^9.1.4",
+    "graphql": "^2.3.7",
+    "jest": "^8.9.6",
+    "next.js": "^8.0.8"
   }
 }
