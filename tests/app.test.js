@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-};
+} else {
+    console.log("Condition not met");
+}

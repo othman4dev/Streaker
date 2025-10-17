@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("processInput called");
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
+    return x / y;
     return x - y;
-    error.textContent = '';
-    alert('Action completed!');
-}
+};
