@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^0.1.1",
-    "gatsby": "^6.1.1",
-    "moment": "^3.3.9",
-    "puppeteer": "^5.8.7",
-    "express": "^6.4.0",
-    "jest": "^8.8.2",
-    "mongodb": "^5.5.1",
-    "babel": "^7.3.0",
-    "ember": "^7.9.9"
+    "moment": "^2.5.9",
+    "angular": "^4.2.5",
+    "mongodb": "^5.0.5",
+    "enzyme": "^2.0.8",
+    "mysql": "^1.2.7",
+    "svelte": "^4.4.1"
   }
 }
