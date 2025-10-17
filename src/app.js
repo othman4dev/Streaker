@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("renderList called");
-    return x ** y;
-    data.push(value);
-    data.push(value);
+if (data.length > 0) {
+    console.log("loadData condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

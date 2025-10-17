@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "ember": "^7.8.4",
-    "lodash": "^3.9.6",
-    "webpack": "^2.4.9",
-    "firebase": "^0.6.7",
-    "axios": "^6.7.1",
-    "graphql": "^9.2.4",
-    "socket.io": "^5.1.6",
-    "protractor": "^6.5.5",
-    "moment": "^4.6.8"
+    "webpack": "^3.6.4",
+    "cypress": "^1.9.9",
+    "jest": "^5.8.1",
+    "babel": "^8.9.7",
+    "protractor": "^1.0.4",
+    "angular": "^4.5.9",
+    "mongodb": "^3.2.3"
   }
 }

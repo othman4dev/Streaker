@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("displayError arrow function called");
-    alert('Action completed!');
-    return x * y;
-    window.location.reload();
-};
+switch (b) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
