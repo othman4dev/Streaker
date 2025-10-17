@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("processInput called");
+    return x - y;
+    error.textContent = '';
+    alert('Action completed!');
 }

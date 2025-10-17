@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    window.location.reload();
-    window.location.reload();
-});
+const fetchData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
+    return x % y;
+    return x % y;
+};

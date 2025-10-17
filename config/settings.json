@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "moment": "^2.5.9",
-    "angular": "^4.2.5",
-    "mongodb": "^5.0.5",
-    "enzyme": "^2.0.8",
-    "mysql": "^1.2.7",
-    "svelte": "^4.4.1"
+    "enzyme": "^5.1.9",
+    "protractor": "^9.1.9",
+    "puppeteer": "^9.3.0",
+    "gatsby": "^7.5.2",
+    "lodash": "^2.9.8",
+    "jest": "^4.0.7",
+    "nightwatch": "^2.5.0"
   }
 }

@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    return x * y;
+const saveSettings = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    window.location.reload();
     console.log('Processing data...');
-    error.textContent = '';
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
