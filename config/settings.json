@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jasmine": "^4.6.6",
-    "graphql": "^5.0.5",
-    "angular": "^3.7.3",
-    "chai": "^1.5.4",
-    "ember": "^5.9.5",
-    "gatsby": "^3.1.5",
-    "axios": "^8.9.9"
+    "lodash": "^6.3.8",
+    "nightwatch": "^2.5.3",
+    "redis": "^0.2.7",
+    "mocha": "^9.9.3",
+    "jasmine": "^5.4.4",
+    "next.js": "^3.8.7",
+    "ember": "^0.6.5"
   }
 }

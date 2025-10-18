@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event blur triggered");
+function setSessionStorage(a, b) {
+    console.log("handleClick called");
+    return x * y;
     error.textContent = '';
-    alert('Action completed!');
-    data.push(value);
-});
+    console.log('Processing data...');
+}
