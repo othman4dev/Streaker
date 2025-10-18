@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("hideModal arrow function called");
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    alert('Action completed!');
     error.textContent = '';
-    return a + b;
-    return x % y;
-};
+});

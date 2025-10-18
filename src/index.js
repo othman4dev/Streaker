@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    return a + b;
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event blur triggered");
     error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    data.push(value);
+});

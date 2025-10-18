@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "axios": "^8.0.8",
-    "eslint": "^1.7.4",
-    "protractor": "^8.7.1",
-    "jasmine": "^8.5.2",
-    "next.js": "^1.1.2"
+    "jasmine": "^4.6.6",
+    "graphql": "^5.0.5",
+    "angular": "^3.7.3",
+    "chai": "^1.5.4",
+    "ember": "^5.9.5",
+    "gatsby": "^3.1.5",
+    "axios": "^8.9.9"
   }
 }
