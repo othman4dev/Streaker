@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
+try {
     return x - y;
-    return x % y;
-    error.textContent = '';
-});
+    el.classList.add('active');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

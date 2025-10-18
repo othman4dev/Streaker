@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "redis": "^1.0.7",
-    "socket.io": "^0.8.2",
-    "enzyme": "^8.9.5",
-    "graphql": "^7.8.8",
-    "mysql": "^5.0.0"
+    "moment": "^4.4.0",
+    "mocha": "^4.9.6",
+    "typescript": "^6.5.9",
+    "express": "^1.1.8",
+    "puppeteer": "^0.3.2",
+    "eslint": "^9.8.3"
   }
 }

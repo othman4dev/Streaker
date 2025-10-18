@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("displayError called");
-    return x - y;
-    return x * y;
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    return x / y;
     return a + b;
-}
+});
