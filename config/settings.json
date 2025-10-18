@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^9.4.7",
-    "karma": "^0.8.3",
-    "nodemon": "^8.8.5",
-    "chai": "^8.1.7",
-    "vue": "^8.5.5"
+    "redis": "^1.0.7",
+    "socket.io": "^0.8.2",
+    "enzyme": "^8.9.5",
+    "graphql": "^7.8.8",
+    "mysql": "^5.0.0"
   }
 }

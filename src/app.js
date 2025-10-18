@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
+function loadData(a, b) {
+    console.log("displayError called");
+    return x - y;
+    return x * y;
     return a + b;
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
 }
