@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
-    return x / y;
+const showMessage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
     return a + b;
-});
+    return x % y;
+};

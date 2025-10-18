@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "moment": "^4.4.0",
-    "mocha": "^4.9.6",
-    "typescript": "^6.5.9",
-    "express": "^1.1.8",
-    "puppeteer": "^0.3.2",
-    "eslint": "^9.8.3"
+    "axios": "^8.0.8",
+    "eslint": "^1.7.4",
+    "protractor": "^8.7.1",
+    "jasmine": "^8.5.2",
+    "next.js": "^1.1.2"
   }
 }
