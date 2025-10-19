@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    console.log('Processing data...');
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    window.location.reload();
+    return x - y;
 };
