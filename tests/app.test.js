@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event input triggered");
+try {
     data.push(value);
-    data.push(value);
-    return x % y;
-});
+    return x ** y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

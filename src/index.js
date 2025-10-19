@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("handleClick called");
-    return x * y;
-    error.textContent = '';
+const handleClick = (a, b, data) => {
+    console.log("displayError arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
     console.log('Processing data...');
-}
+};
