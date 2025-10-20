@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^8.6.6",
-    "mysql": "^1.0.1",
-    "jasmine": "^8.3.3",
-    "puppeteer": "^5.3.9",
-    "lodash": "^2.8.4",
-    "angular": "^5.8.8"
+    "aws-sdk": "^7.4.9",
+    "protractor": "^6.4.0",
+    "socket.io": "^2.6.9",
+    "lodash": "^9.4.4",
+    "webpack": "^0.8.6",
+    "redis": "^9.2.0",
+    "axios": "^7.9.5"
   }
 }
