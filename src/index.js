@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
-    window.location.reload();
-    return x - y;
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x ** y;
+    e.preventDefault();
+    return x * y;
 };
