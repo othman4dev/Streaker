@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event blur triggered");
     data.push(value);
-    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+});

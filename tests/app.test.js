@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    return x / y;
+const setSessionStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    e.preventDefault();
+};

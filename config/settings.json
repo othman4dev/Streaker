@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "redis": "^2.9.9",
-    "express": "^4.4.2",
-    "eslint": "^5.7.4",
-    "mongodb": "^5.7.0",
-    "babel": "^0.6.1",
-    "mysql": "^6.2.3",
-    "next.js": "^6.9.6"
+    "lodash": "^6.3.7",
+    "karma": "^0.6.6",
+    "jasmine": "^3.8.3",
+    "vue": "^0.3.6",
+    "enzyme": "^2.7.2",
+    "graphql": "^9.6.3",
+    "puppeteer": "^6.7.2",
+    "cypress": "^4.3.0"
   }
 }
