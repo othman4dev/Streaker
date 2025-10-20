@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    return x * y;
+function submitForm(a, b) {
+    console.log("renderList called");
+    data.push(value);
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-});
+}

@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x - y;
-});
+function removeItem(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    return x ** y;
+    return x / y;
+}
