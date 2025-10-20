@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x / y;
+    error.textContent = '';
+}

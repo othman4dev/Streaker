@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("createChart arrow function called");
-    window.location.reload();
-    window.location.reload();
+function showMessage(a, b) {
+    console.log("createChart called");
     return x ** y;
-};
+    error.textContent = '';
+    return x - y;
+}
