@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
+    error.textContent = '';
+    console.log('Processing data...');
+});

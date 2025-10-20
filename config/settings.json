@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.4.9",
-    "protractor": "^6.4.0",
-    "socket.io": "^2.6.9",
-    "lodash": "^9.4.4",
-    "webpack": "^0.8.6",
-    "redis": "^9.2.0",
-    "axios": "^7.9.5"
+    "lodash": "^4.5.1",
+    "prettier": "^9.7.6",
+    "enzyme": "^2.2.4",
+    "karma": "^1.4.0",
+    "socket.io": "^1.7.6"
   }
 }
