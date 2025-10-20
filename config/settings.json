@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.6.4",
-    "webpack": "^4.3.6",
-    "vue": "^0.2.8",
-    "graphql": "^7.8.2",
-    "firebase": "^9.7.5"
+    "nightwatch": "^1.2.2",
+    "nodemon": "^7.5.4",
+    "vue": "^6.7.1",
+    "next.js": "^1.1.8",
+    "moment": "^1.0.0",
+    "eslint": "^7.0.9"
   }
 }

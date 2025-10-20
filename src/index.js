@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const checkStatus = (a, b, data) => {
+    console.log("processInput arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};

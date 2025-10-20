@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
+const updateUI = (a, b, data) => {
+    console.log("createChart arrow function called");
+    window.location.reload();
+    window.location.reload();
     return x ** y;
-    return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};
