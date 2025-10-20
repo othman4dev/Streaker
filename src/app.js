@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    error.textContent = '';
-    window.location.reload();
+const animateElement = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+};

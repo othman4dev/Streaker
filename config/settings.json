@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^7.8.6",
-    "lodash": "^3.3.0",
-    "socket.io": "^4.2.1",
-    "nodemon": "^9.3.1",
-    "karma": "^4.7.6",
-    "react": "^9.8.4",
-    "prettier": "^1.0.0",
-    "enzyme": "^0.3.8",
-    "cypress": "^9.7.1"
+    "socket.io": "^2.3.1",
+    "angular": "^2.4.8",
+    "eslint": "^7.1.9",
+    "gatsby": "^7.4.1",
+    "svelte": "^1.4.9",
+    "express": "^3.4.9"
   }
 }
