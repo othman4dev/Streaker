@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x * y;
-    return a + b;
-    data.push(value);
-};
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    return x / y;
+    window.location.reload();
+    error.textContent = '';
+});

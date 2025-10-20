@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+function setCookie(a, b) {
+    console.log("removeItem called");
     return x - y;
-    return x % y;
-    return x ** y;
+    return x * y;
+    error.textContent = '';
 }

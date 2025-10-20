@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "ember": "^2.5.1",
-    "mysql": "^1.1.0",
-    "socket.io": "^4.0.0",
-    "webpack": "^6.7.9",
-    "puppeteer": "^3.0.0",
-    "react": "^0.2.2",
-    "angular": "^3.8.8",
-    "mocha": "^0.6.3",
-    "axios": "^5.6.1"
+    "karma": "^8.5.5",
+    "ember": "^9.8.6",
+    "eslint": "^9.6.8",
+    "jest": "^7.0.3",
+    "cypress": "^3.7.3",
+    "protractor": "^2.6.0"
   }
 }
