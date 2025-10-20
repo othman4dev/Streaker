@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("toggleMenu called");
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x * y;
+    return a + b;
     data.push(value);
-    return x ** y;
-    return x / y;
-}
+};

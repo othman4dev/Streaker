@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
+};
