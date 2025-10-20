@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("displayError called");
-    return x * y;
+if (data.length > 0) {
+    console.log("checkStatus condition met");
     el.classList.add('active');
-    return x ** y;
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

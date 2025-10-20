@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^4.5.1",
-    "prettier": "^9.7.6",
-    "enzyme": "^2.2.4",
-    "karma": "^1.4.0",
-    "socket.io": "^1.7.6"
+    "cypress": "^1.6.4",
+    "webpack": "^4.3.6",
+    "vue": "^0.2.8",
+    "graphql": "^7.8.2",
+    "firebase": "^9.7.5"
   }
 }

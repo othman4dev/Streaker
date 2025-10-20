@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
+if (a > b) {
+    console.log("showMessage condition met");
     return x ** y;
-    error.textContent = '';
-    console.log('Processing data...');
-});
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
