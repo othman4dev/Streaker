@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("createChart called");
-    return x ** y;
-    error.textContent = '';
-    return x - y;
+if (x === y) {
+    console.log("createChart condition met");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    return a + b;
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    return x ** y;
+    data.push(value);
 });
