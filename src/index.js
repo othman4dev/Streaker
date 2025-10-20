@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    return x * y;
-    return x - y;
-});
+const checkStatus = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x / y;
+    el.classList.add('active');
+    window.location.reload();
+};
