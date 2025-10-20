@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event change triggered");
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    error.textContent = '';
     window.location.reload();
     return x ** y;
-    data.push(value);
-});
+} else {
+    console.log("Condition not met");
+}
