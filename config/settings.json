@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^4.4.3",
-    "graphql": "^8.0.8",
-    "ember": "^8.0.5",
-    "sinon": "^0.6.6",
-    "babel": "^2.5.4",
-    "angular": "^1.9.3",
-    "jest": "^4.6.9",
-    "axios": "^7.6.9"
+    "protractor": "^4.2.0",
+    "redis": "^0.2.2",
+    "firebase": "^4.3.9",
+    "jasmine": "^7.0.1",
+    "sinon": "^0.9.2",
+    "typescript": "^0.8.8"
   }
 }

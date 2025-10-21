@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    window.location.reload();
+    return x % y;
+    alert('Action completed!');
+};
