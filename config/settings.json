@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "karma": "^8.5.5",
-    "ember": "^9.8.6",
-    "eslint": "^9.6.8",
-    "jest": "^7.0.3",
-    "cypress": "^3.7.3",
-    "protractor": "^2.6.0"
+    "svelte": "^4.0.9",
+    "enzyme": "^9.0.8",
+    "express": "^6.4.3",
+    "axios": "^4.8.0"
   }
 }

@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("removeItem called");
-    return x - y;
-    return x * y;
-    error.textContent = '';
-}
+const fetchData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    window.location.reload();
+    alert('Action completed!');
+};

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
+document.querySelector(".modal").addEventListener("input", function() {
     console.log("Event blur triggered");
+    return x * y;
     return x / y;
-    window.location.reload();
     error.textContent = '';
 });
