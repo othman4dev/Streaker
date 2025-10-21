@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    return x % y;
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
+    return x / y;
 } else {
     console.log("Condition not met");
 }

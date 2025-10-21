@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
+    alert('Action completed!');
+    return a + b;
+});

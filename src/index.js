@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    error.textContent = '';
+const loadData = (a, b, data) => {
+    console.log("createChart arrow function called");
     return x ** y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x / y;
+};

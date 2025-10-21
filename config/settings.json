@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "angular": "^8.7.2",
-    "next.js": "^8.0.9",
-    "mocha": "^6.6.1",
-    "moment": "^4.2.3",
-    "svelte": "^0.4.3",
-    "chai": "^0.0.6"
+    "socket.io": "^1.4.5",
+    "puppeteer": "^5.9.8",
+    "angular": "^8.4.5",
+    "vue": "^2.7.7",
+    "nightwatch": "^8.2.7",
+    "lodash": "^6.8.2",
+    "protractor": "^7.2.7",
+    "ember": "^7.5.8"
   }
 }
