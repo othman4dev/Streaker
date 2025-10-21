@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.9.7",
-    "mongodb": "^8.1.0",
-    "socket.io": "^2.0.2",
-    "react": "^4.8.9",
-    "moment": "^2.8.2",
-    "graphql": "^9.0.9"
+    "svelte": "^4.4.3",
+    "graphql": "^8.0.8",
+    "ember": "^8.0.5",
+    "sinon": "^0.6.6",
+    "babel": "^2.5.4",
+    "angular": "^1.9.3",
+    "jest": "^4.6.9",
+    "axios": "^7.6.9"
   }
 }
