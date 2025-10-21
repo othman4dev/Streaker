@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    el.classList.add('active');
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+    return x / y;
+});
