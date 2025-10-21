@@ -1,7 +1,6 @@
-try {
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     e.preventDefault();
-    return x ** y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    window.location.reload();
+};

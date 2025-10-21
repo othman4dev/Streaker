@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    window.location.reload();
-    window.location.reload();
-    alert('Action completed!');
+const submitForm = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    return x - y;
 };

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x / y;
-    error.textContent = '';
-});
+function setSessionStorage(a, b) {
+    console.log("showMessage called");
+    return x % y;
+    return x % y;
+    return x ** y;
+}
