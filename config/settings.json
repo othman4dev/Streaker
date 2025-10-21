@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "moment": "^2.6.0",
-    "next.js": "^3.5.5",
-    "redis": "^5.2.3",
-    "angular": "^8.8.0",
-    "babel": "^2.3.7",
-    "cypress": "^5.0.6",
-    "jest": "^0.8.7",
-    "svelte": "^9.1.6"
+    "sinon": "^2.9.7",
+    "mongodb": "^8.1.0",
+    "socket.io": "^2.0.2",
+    "react": "^4.8.9",
+    "moment": "^2.8.2",
+    "graphql": "^9.0.9"
   }
 }

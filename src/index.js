@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const fetchData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    return x * y;
+};

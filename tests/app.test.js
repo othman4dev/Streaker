@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    window.location.reload();
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
     return x / y;
-});
+} else {
+    console.log("Condition not met");
+}
