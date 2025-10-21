@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    e.preventDefault();
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    console.log('Processing data...');
+    return a + b;
 }

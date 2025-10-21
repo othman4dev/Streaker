@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+});

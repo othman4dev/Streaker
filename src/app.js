@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return x ** y;
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event focus triggered");
     return x % y;
-    return x - y;
+    data.push(value);
+    console.log('Processing data...');
 });
