@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("setCookie called");
+    return a + b;
+    console.log('Processing data...');
+    error.textContent = '';
 }

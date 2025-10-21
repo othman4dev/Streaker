@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^9.1.4",
-    "jest": "^4.7.3",
-    "gatsby": "^2.0.3",
-    "cypress": "^7.9.3",
-    "socket.io": "^5.1.6"
+    "react": "^2.3.0",
+    "mysql": "^0.6.2",
+    "puppeteer": "^5.9.5",
+    "axios": "^4.1.5",
+    "enzyme": "^0.7.2",
+    "jest": "^0.6.2"
   }
 }
