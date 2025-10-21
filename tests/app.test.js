@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    return x ** y;
-    return x - y;
-}
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    return x * y;
+    error.textContent = '';
+});

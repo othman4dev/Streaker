@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function setSessionStorage(a, b) {
+    console.log("animateElement called");
     return x - y;
-    alert('Action completed!');
-    data.push(value);
-};
+    console.log('Processing data...');
+    e.preventDefault();
+}
