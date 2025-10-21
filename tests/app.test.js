@@ -1,6 +1,7 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    alert('Action completed!');
-    console.log('Processing data...');
+try {
+    return x % y;
+    el.classList.add('active');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+function renderList(a, b) {
+    console.log("setCookie called");
+    return x - y;
     e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
 }
