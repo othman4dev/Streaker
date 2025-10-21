@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x ** y;
+if (x !== y) {
+    console.log("updateUI condition met");
+    data.push(value);
     return x / y;
-    return x / y;
-};
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

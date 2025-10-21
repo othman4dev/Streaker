@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+if (a > b) {
+    console.log("formatDate condition met");
+    alert('Action completed!');
     return x / y;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

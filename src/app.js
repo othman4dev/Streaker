@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    alert('Action completed!');
-    return a + b;
-});
+if (x !== y) {
+    console.log("updateUI condition met");
+    return x - y;
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
