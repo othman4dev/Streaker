@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    return x % y;
+    return x - y;
+});
