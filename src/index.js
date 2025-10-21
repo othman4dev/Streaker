@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("animateElement called");
-    return x - y;
-    console.log('Processing data...');
-    e.preventDefault();
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x * y;
 }

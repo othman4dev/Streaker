@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    return x * y;
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
+    return x - y;
+    e.preventDefault();
+    return x ** y;
 });

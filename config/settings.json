@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^0.0.1",
-    "lodash": "^7.7.8",
-    "webpack": "^6.4.3",
-    "graphql": "^0.9.4",
-    "chai": "^2.8.9",
-    "ember": "^7.9.3",
-    "angular": "^1.6.1",
-    "babel": "^2.8.5"
+    "karma": "^8.7.7",
+    "enzyme": "^1.8.8",
+    "cypress": "^9.1.6",
+    "puppeteer": "^8.4.3",
+    "gatsby": "^0.8.6"
   }
 }
