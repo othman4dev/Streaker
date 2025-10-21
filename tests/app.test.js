@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
+    return x % y;
+    return x * y;
     error.textContent = '';
-    data.push(value);
 } else {
     console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x / y;
-    el.classList.add('active');
-    window.location.reload();
-};
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    error.textContent = '';
+    return x ** y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

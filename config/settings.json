@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^5.4.9",
-    "jest": "^3.2.0",
-    "sinon": "^9.3.0",
-    "vue": "^2.3.8",
-    "next.js": "^1.7.1",
-    "babel": "^1.0.5",
-    "socket.io": "^5.3.9",
-    "webpack": "^5.0.9",
-    "prettier": "^3.3.6"
+    "angular": "^8.7.2",
+    "next.js": "^8.0.9",
+    "mocha": "^6.6.1",
+    "moment": "^4.2.3",
+    "svelte": "^0.4.3",
+    "chai": "^0.0.6"
   }
 }
