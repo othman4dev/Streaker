@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^4.2.0",
-    "redis": "^0.2.2",
-    "firebase": "^4.3.9",
-    "jasmine": "^7.0.1",
-    "sinon": "^0.9.2",
-    "typescript": "^0.8.8"
+    "next.js": "^9.1.4",
+    "jest": "^4.7.3",
+    "gatsby": "^2.0.3",
+    "cypress": "^7.9.3",
+    "socket.io": "^5.1.6"
   }
 }
