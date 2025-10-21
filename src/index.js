@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+try {
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    e.preventDefault();
-    window.location.reload();
-};
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
