@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    return x ** y;
+function renderList(a, b) {
+    console.log("handleClick called");
     e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    return x - y;
 }

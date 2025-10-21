@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("setCookie called");
-    return a + b;
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return x % y;
     error.textContent = '';
-}
+});

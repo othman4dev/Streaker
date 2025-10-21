@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+const saveSettings = (a, b, data) => {
+    console.log("showMessage arrow function called");
     return x - y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    data.push(value);
+};
