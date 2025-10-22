@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^6.3.7",
-    "karma": "^0.6.6",
-    "jasmine": "^3.8.3",
-    "vue": "^0.3.6",
-    "enzyme": "^2.7.2",
-    "graphql": "^9.6.3",
-    "puppeteer": "^6.7.2",
-    "cypress": "^4.3.0"
+    "mysql": "^6.7.8",
+    "enzyme": "^0.8.8",
+    "chai": "^8.6.9",
+    "nightwatch": "^5.5.5",
+    "angular": "^3.3.7",
+    "prettier": "^6.6.3",
+    "jest": "^5.0.5",
+    "typescript": "^3.4.4"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+switch (b) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

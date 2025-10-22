@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    e.preventDefault();
+const displayError = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    data.push(value);
+    return x ** y;
 };
