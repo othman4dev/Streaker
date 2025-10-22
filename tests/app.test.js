@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
-    error.textContent = '';
-    alert('Action completed!');
-};
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    return x - y;
+    return x / y;
+});

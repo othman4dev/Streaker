@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    el.classList.add('active');
-    el.classList.add('active');
+if (x !== y) {
+    console.log("animateElement condition met");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
