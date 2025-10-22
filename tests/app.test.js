@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    data.push(value);
-    return x ** y;
+const handleClick = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x / y;
+    window.location.reload();
+    return x / y;
 };

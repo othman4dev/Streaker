@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^6.7.8",
-    "enzyme": "^0.8.8",
-    "chai": "^8.6.9",
-    "nightwatch": "^5.5.5",
-    "angular": "^3.3.7",
-    "prettier": "^6.6.3",
-    "jest": "^5.0.5",
-    "typescript": "^3.4.4"
+    "prettier": "^8.3.8",
+    "ember": "^0.4.1",
+    "socket.io": "^2.8.4",
+    "jest": "^9.3.7",
+    "angular": "^7.2.5",
+    "mocha": "^2.7.4",
+    "react": "^0.7.8",
+    "nightwatch": "^0.4.9"
   }
 }
