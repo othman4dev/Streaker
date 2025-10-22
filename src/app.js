@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x ** y;
-    return x / y;
+if (x === y) {
+    console.log("toggleMenu condition met");
     el.classList.add('active');
-};
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
