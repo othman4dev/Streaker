@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^1.1.4",
-    "socket.io": "^5.9.9",
-    "babel": "^2.9.8",
-    "karma": "^8.1.8",
-    "jest": "^9.9.2"
+    "next.js": "^5.1.0",
+    "mysql": "^7.6.8",
+    "socket.io": "^3.1.2",
+    "webpack": "^7.6.9",
+    "jasmine": "^7.4.7",
+    "typescript": "^0.4.8",
+    "react": "^0.4.5",
+    "enzyme": "^5.7.7"
   }
 }

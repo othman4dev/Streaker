@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    window.location.reload();
-    alert('Action completed!');
-}
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    return x ** y;
+    error.textContent = '';
+});
