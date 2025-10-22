@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x ** y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    error.textContent = '';
-};
+    return a + b;
+}

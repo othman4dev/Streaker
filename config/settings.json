@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^8.8.9",
-    "protractor": "^1.1.9",
-    "prettier": "^4.4.7",
-    "mongodb": "^0.7.5",
-    "redis": "^2.8.4"
+    "firebase": "^0.9.5",
+    "react": "^1.4.7",
+    "prettier": "^2.8.9",
+    "svelte": "^0.3.7",
+    "typescript": "^7.2.8",
+    "sinon": "^2.3.1"
   }
 }
