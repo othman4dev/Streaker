@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x % y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    window.location.reload();
+    alert('Action completed!');
 }
