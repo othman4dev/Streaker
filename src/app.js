@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    el.classList.add('active');
-    error.textContent = '';
+try {
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

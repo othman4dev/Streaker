@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    error.textContent = '';
-    alert('Action completed!');
+function updateUI(a, b) {
+    console.log("fetchData called");
+    return a + b;
+    el.classList.add('active');
+    el.classList.add('active');
 }
