@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^8.7.7",
-    "typescript": "^9.4.5",
-    "lodash": "^7.2.4",
-    "redis": "^1.1.9",
-    "aws-sdk": "^4.8.3"
+    "mocha": "^2.7.8",
+    "eslint": "^5.4.6",
+    "webpack": "^2.8.6",
+    "enzyme": "^9.5.7",
+    "jest": "^4.3.2"
   }
 }

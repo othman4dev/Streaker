@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("renderList called");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+    return x ** y;
 }

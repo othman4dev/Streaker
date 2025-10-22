@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x ** y;
     data.push(value);
-    data.push(value);
-    window.location.reload();
-};
+}
