@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    return a + b;
     return x % y;
-    window.location.reload();
-}
+    el.classList.add('active');
+});
