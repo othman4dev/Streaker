@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^5.1.0",
-    "mysql": "^7.6.8",
-    "socket.io": "^3.1.2",
-    "webpack": "^7.6.9",
-    "jasmine": "^7.4.7",
-    "typescript": "^0.4.8",
-    "react": "^0.4.5",
-    "enzyme": "^5.7.7"
+    "vue": "^6.0.2",
+    "babel": "^9.9.8",
+    "mongodb": "^1.7.3",
+    "aws-sdk": "^0.2.9",
+    "jest": "^5.8.8",
+    "puppeteer": "^6.7.9",
+    "moment": "^9.8.0",
+    "angular": "^6.0.7"
   }
 }
