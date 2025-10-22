@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x / y;
+const saveSettings = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    data.push(value);
+    data.push(value);
     window.location.reload();
-    return x / y;
 };

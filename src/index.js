@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("renderList called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 }

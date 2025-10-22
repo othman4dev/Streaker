@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^8.3.8",
-    "ember": "^0.4.1",
-    "socket.io": "^2.8.4",
-    "jest": "^9.3.7",
-    "angular": "^7.2.5",
-    "mocha": "^2.7.4",
-    "react": "^0.7.8",
-    "nightwatch": "^0.4.9"
+    "moment": "^8.7.7",
+    "typescript": "^9.4.5",
+    "lodash": "^7.2.4",
+    "redis": "^1.1.9",
+    "aws-sdk": "^4.8.3"
   }
 }
