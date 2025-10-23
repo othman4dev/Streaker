@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    data.push(value);
+try {
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

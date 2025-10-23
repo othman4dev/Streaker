@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "jest": "^0.4.3",
-    "mysql": "^6.8.3",
-    "socket.io": "^2.8.2",
-    "cypress": "^2.3.2"
+    "angular": "^7.2.9",
+    "gatsby": "^6.8.8",
+    "typescript": "^7.8.7",
+    "protractor": "^1.2.5",
+    "nightwatch": "^3.6.8"
   }
 }

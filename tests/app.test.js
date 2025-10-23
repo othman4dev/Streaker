@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("saveSettings called");
-    return a + b;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     return x ** y;
-    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 }
