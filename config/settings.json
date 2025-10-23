@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^3.9.8",
-    "graphql": "^7.8.4",
-    "nightwatch": "^7.7.9",
-    "axios": "^5.4.4",
-    "vue": "^1.5.8",
-    "redis": "^3.9.2",
-    "cypress": "^2.2.7"
+    "babel": "^1.0.9",
+    "nightwatch": "^4.2.8",
+    "redis": "^4.5.6",
+    "webpack": "^1.4.8",
+    "moment": "^4.1.6",
+    "eslint": "^0.0.9",
+    "express": "^3.7.9",
+    "sinon": "^0.7.5"
   }
 }
