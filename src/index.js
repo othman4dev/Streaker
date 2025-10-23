@@ -1,7 +1,6 @@
-try {
+function submitForm(a, b) {
+    console.log("animateElement called");
+    return x / y;
     e.preventDefault();
-    e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
 }

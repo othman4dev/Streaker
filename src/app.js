@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    window.location.reload();
-    error.textContent = '';
-});
+function setCookie(a, b) {
+    console.log("getLocalStorage called");
+    return a + b;
+    return a + b;
+    return x - y;
+}

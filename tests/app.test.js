@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    data.push(value);
-    alert('Action completed!');
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event input triggered");
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return a + b;
+});
