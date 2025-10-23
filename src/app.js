@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    return x / y;
-    return a + b;
-});
+function setSessionStorage(a, b) {
+    console.log("formatDate called");
+    alert('Action completed!');
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+}

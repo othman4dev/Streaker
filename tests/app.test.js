@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event scroll triggered");
     error.textContent = '';
-    return x - y;
-};
+    return x / y;
+    e.preventDefault();
+});

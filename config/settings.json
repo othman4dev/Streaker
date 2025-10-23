@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "axios": "^5.6.8",
-    "cypress": "^3.5.8",
-    "eslint": "^2.4.0",
-    "nodemon": "^3.8.2",
-    "babel": "^1.7.7"
+    "puppeteer": "^1.5.4",
+    "mocha": "^8.3.9",
+    "nodemon": "^7.4.2",
+    "enzyme": "^3.8.7",
+    "axios": "^8.0.2",
+    "prettier": "^1.4.1",
+    "jasmine": "^3.1.8",
+    "protractor": "^3.2.7",
+    "angular": "^6.6.2"
   }
 }
