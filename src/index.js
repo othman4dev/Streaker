@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    return x - y;
+    return x - y;
+    return x * y;
+});

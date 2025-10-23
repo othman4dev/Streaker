@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
-    el.classList.add('active');
-}
+const saveSettings = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    error.textContent = '';
+    return x - y;
+};

@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("createChart arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return x / y;
+    return a + b;
+});

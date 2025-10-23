@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^4.7.1",
-    "moment": "^0.7.9",
-    "express": "^6.1.6",
-    "redis": "^9.1.5",
-    "angular": "^3.4.6",
-    "chai": "^2.4.4",
-    "puppeteer": "^8.6.2",
-    "next.js": "^2.2.2"
+    "axios": "^5.6.8",
+    "cypress": "^3.5.8",
+    "eslint": "^2.4.0",
+    "nodemon": "^3.8.2",
+    "babel": "^1.7.7"
   }
 }
