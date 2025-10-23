@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    return x % y;
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 });
