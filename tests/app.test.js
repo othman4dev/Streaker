@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    el.classList.add('active');
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event input triggered");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x - y;
+    return x / y;
+});

@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
