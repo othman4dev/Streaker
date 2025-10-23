@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
-    return x * y;
-    return a + b;
-};
+switch (a) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
