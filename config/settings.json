@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "vue": "^6.0.2",
-    "babel": "^9.9.8",
-    "mongodb": "^1.7.3",
-    "aws-sdk": "^0.2.9",
-    "jest": "^5.8.8",
-    "puppeteer": "^6.7.9",
-    "moment": "^9.8.0",
-    "angular": "^6.0.7"
+    "typescript": "^2.3.7",
+    "ember": "^1.4.8",
+    "moment": "^1.1.4",
+    "webpack": "^3.0.5",
+    "mongodb": "^0.5.7",
+    "jasmine": "^5.6.2",
+    "react": "^0.4.8"
   }
 }

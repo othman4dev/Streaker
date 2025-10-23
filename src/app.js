@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
     window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

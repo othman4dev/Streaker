@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("setSessionStorage called");
-    window.location.reload();
-    return a + b;
-    el.classList.add('active');
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    error.textContent = '';
+    return x * y;
 }
