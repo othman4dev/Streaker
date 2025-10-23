@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+function formatDate(a, b) {
+    console.log("setCookie called");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
 }

@@ -1,8 +1,7 @@
 {
   "dependencies": {
-    "sinon": "^5.7.2",
-    "nodemon": "^6.9.1",
-    "jest": "^5.4.6",
-    "axios": "^8.3.4"
+    "typescript": "^9.7.3",
+    "jasmine": "^2.0.3",
+    "sinon": "^9.5.4"
   }
 }
