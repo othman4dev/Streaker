@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return x / y;
-    e.preventDefault();
-});
+const submitForm = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+};
