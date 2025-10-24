@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
+const checkStatus = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-    return x % y;
-    return a + b;
 };
