@@ -1,7 +1,7 @@
 try {
-    error.textContent = '';
-    console.log('Processing data...');
-    e.preventDefault();
+    return x / y;
+    window.location.reload();
+    el.classList.add('active');
 } catch (error) {
     console.error("Error:", error);
 }

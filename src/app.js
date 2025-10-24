@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    return x / y;
-    window.location.reload();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("createChart called");
+    return x % y;
+    data.push(value);
+    console.log('Processing data...');
 }
