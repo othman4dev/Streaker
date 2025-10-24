@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "axios": "^4.2.8",
-    "karma": "^3.3.9",
-    "sinon": "^9.9.8",
-    "ember": "^2.2.0"
+    "gatsby": "^0.0.0",
+    "socket.io": "^4.5.3",
+    "nightwatch": "^7.6.8",
+    "firebase": "^7.6.3",
+    "jest": "^2.5.8"
   }
 }
