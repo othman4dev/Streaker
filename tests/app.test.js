@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    return x / y;
+function processInput(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
     error.textContent = '';
-});
+    return a + b;
+}
