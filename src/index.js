@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+const handleClick = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return a + b;
-    return x % y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};

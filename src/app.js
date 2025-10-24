@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return x * y;
+    alert('Action completed!');
+});

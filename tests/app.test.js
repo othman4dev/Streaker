@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    return x / y;
+    error.textContent = '';
+});
