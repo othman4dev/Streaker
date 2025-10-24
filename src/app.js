@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("createChart called");
-    return x % y;
-    data.push(value);
-    console.log('Processing data...');
+if (a > b) {
+    console.log("createChart condition met");
+    return x * y;
+    return x * y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    return x - y;
+    alert('Action completed!');
+    return x / y;
+});
