@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    return x / y;
     window.location.reload();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
