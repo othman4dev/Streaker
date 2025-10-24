@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    return x % y;
+    return a + b;
+});

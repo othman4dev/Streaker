@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    return x - y;
-    alert('Action completed!');
+function fetchData(a, b) {
+    console.log("checkStatus called");
     return x / y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+}

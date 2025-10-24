@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
     return x * y;
-    return x * y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }
