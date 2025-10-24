@@ -1,7 +1,8 @@
 {
   "dependencies": {
-    "typescript": "^9.7.3",
-    "jasmine": "^2.0.3",
-    "sinon": "^9.5.4"
+    "jest": "^0.4.3",
+    "mysql": "^6.8.3",
+    "socket.io": "^2.8.2",
+    "cypress": "^2.3.2"
   }
 }

@@ -1,7 +1,8 @@
-switch (el) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("handleClick condition met");
+    data.push(value);
+    error.textContent = '';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
