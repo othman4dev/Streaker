@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
-    return x ** y;
-    alert('Action completed!');
-    return x * y;
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    return x - y;
+    return x / y;
+    window.location.reload();
+});

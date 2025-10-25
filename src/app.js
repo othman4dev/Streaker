@@ -1,6 +1,7 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x - y;
-    return x * y;
+try {
+    e.preventDefault();
+    error.textContent = '';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
