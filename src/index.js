@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x - y;
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    error.textContent = '';
+    return x / y;
+}
