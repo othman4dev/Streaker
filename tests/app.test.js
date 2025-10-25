@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    return x / y;
-};
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+}

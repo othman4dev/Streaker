@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+const renderList = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x * y;
-}
+    e.preventDefault();
+    return x * y;
+};
