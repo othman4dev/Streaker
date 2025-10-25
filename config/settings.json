@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^3.5.0",
-    "eslint": "^2.0.3",
-    "mysql": "^4.7.6",
-    "socket.io": "^0.8.6",
-    "puppeteer": "^2.0.7",
-    "babel": "^3.0.0",
-    "jest": "^3.6.8"
+    "jasmine": "^0.2.1",
+    "gatsby": "^6.9.6",
+    "karma": "^9.2.8",
+    "next.js": "^4.0.6",
+    "nodemon": "^7.7.3"
   }
 }

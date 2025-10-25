@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    e.preventDefault();
-    window.location.reload();
-    window.location.reload();
-};
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    return x ** y;
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

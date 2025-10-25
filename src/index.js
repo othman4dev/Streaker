@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("createChart arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    console.log('Processing data...');
+};
