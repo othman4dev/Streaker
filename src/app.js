@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    error.textContent = '';
-    return x % y;
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    data.push(value);
+    return a + b;
+};

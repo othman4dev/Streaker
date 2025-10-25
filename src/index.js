@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x - y;
-    e.preventDefault();
-}
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});
