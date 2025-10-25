@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
+    error.textContent = '';
     window.location.reload();
-    return x * y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
