@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    window.location.reload();
+    window.location.reload();
 }
