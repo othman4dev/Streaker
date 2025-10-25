@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^8.8.7",
-    "mysql": "^8.4.8",
-    "redis": "^3.7.8",
-    "prettier": "^7.2.2",
-    "svelte": "^4.4.6",
-    "graphql": "^3.8.4",
-    "axios": "^9.2.8"
+    "eslint": "^0.5.6",
+    "redis": "^8.6.6",
+    "ember": "^6.3.3",
+    "nodemon": "^6.1.7",
+    "webpack": "^8.9.3",
+    "sinon": "^6.9.6",
+    "lodash": "^9.5.6"
   }
 }

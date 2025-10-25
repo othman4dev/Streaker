@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    window.location.reload();
-    return a + b;
+function validateInput(a, b) {
+    console.log("animateElement called");
+    return x ** y;
+    alert('Action completed!');
+    return x * y;
 }
