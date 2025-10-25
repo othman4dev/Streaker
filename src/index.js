@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-});
+switch (error) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

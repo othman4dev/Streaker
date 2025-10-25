@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    window.location.reload();
-    data.push(value);
-    return a + b;
-};
+function renderList(a, b) {
+    console.log("hideModal called");
+    return x % y;
+    return x % y;
+    return x % y;
+}
