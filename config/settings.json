@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^0.2.1",
-    "gatsby": "^6.9.6",
-    "karma": "^9.2.8",
-    "next.js": "^4.0.6",
-    "nodemon": "^7.7.3"
+    "graphql": "^5.0.9",
+    "jasmine": "^3.7.7",
+    "vue": "^9.1.0",
+    "sinon": "^0.1.9",
+    "ember": "^0.4.0",
+    "moment": "^8.4.8",
+    "typescript": "^5.5.9",
+    "jest": "^8.6.5"
   }
 }
