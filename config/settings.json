@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^4.8.3",
-    "webpack": "^0.1.8",
-    "vue": "^7.9.3",
-    "mysql": "^8.0.3",
-    "mongodb": "^2.7.5",
-    "karma": "^9.6.6"
+    "firebase": "^4.6.4",
+    "nightwatch": "^7.4.8",
+    "graphql": "^1.1.7",
+    "eslint": "^3.6.7",
+    "gatsby": "^5.3.2"
   }
 }
