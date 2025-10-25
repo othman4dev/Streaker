@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("processInput condition met");
-    return a + b;
+function fetchData(a, b) {
+    console.log("updateUI called");
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
 }

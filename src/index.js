@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("showMessage called");
-    data.push(value);
+function displayError(a, b) {
+    console.log("displayError called");
     window.location.reload();
-    window.location.reload();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }

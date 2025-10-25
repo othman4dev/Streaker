@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^9.9.4",
-    "karma": "^7.1.5",
-    "socket.io": "^3.3.0",
-    "puppeteer": "^0.8.3",
-    "sinon": "^8.3.2",
-    "react": "^5.9.1",
-    "protractor": "^2.9.0",
-    "eslint": "^4.3.3"
+    "cypress": "^8.0.2",
+    "react": "^9.3.5",
+    "jest": "^9.1.4",
+    "svelte": "^9.5.9",
+    "sinon": "^4.5.3"
   }
 }
