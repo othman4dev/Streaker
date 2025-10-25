@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("animateElement arrow function called");
+try {
+    alert('Action completed!');
+    return x ** y;
     return x * y;
-    e.preventDefault();
-    return x * y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
