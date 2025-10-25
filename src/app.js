@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return x ** y;
+    return x / y;
+});
