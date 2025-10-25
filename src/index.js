@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    return x * y;
-    return x % y;
-});
+function displayError(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x - y;
+}

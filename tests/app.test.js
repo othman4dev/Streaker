@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    error.textContent = '';
+try {
+    return a + b;
     return x - y;
-};
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
