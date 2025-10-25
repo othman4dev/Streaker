@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x / y;
+function fetchData(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
+    window.location.reload();
     return a + b;
 }

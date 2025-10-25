@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("createChart condition met");
-    return x * y;
-    data.push(value);
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});
