@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    return x ** y;
-    return x / y;
-});
+const loadData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    window.location.reload();
+};
