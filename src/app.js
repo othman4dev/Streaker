@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    return x ** y;
-    error.textContent = '';
+switch (y) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

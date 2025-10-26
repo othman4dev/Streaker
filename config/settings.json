@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^8.8.0",
-    "jasmine": "^0.5.7",
-    "puppeteer": "^1.7.9",
-    "express": "^6.5.5",
-    "aws-sdk": "^8.6.3",
-    "eslint": "^5.0.8",
-    "lodash": "^4.5.8",
-    "jest": "^9.9.8"
+    "nightwatch": "^3.4.4",
+    "vue": "^2.4.3",
+    "eslint": "^7.1.7",
+    "lodash": "^2.7.2",
+    "next.js": "^7.3.6",
+    "sinon": "^4.0.0",
+    "enzyme": "^1.9.6",
+    "karma": "^9.7.1"
   }
 }
