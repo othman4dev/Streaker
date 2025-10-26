@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "vue": "^1.5.4",
-    "eslint": "^4.6.2",
-    "lodash": "^8.5.7",
-    "babel": "^8.3.9",
-    "express": "^9.0.5"
+    "redis": "^2.3.0",
+    "angular": "^4.3.6",
+    "next.js": "^6.4.6",
+    "vue": "^2.4.7",
+    "mysql": "^2.9.4"
   }
 }

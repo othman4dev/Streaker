@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("updateUI called");
-    return a + b;
+const getLocalStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    return a + b;
-}
+    error.textContent = '';
+};
