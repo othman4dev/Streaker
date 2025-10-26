@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
-    return x % y;
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    alert('Action completed!');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-try {
+const getLocalStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
     console.log('Processing data...');
-    console.log('Processing data...');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
