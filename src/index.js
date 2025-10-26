@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
-    return x * y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (data) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

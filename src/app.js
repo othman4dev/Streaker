@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("processInput arrow function called");
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    console.log('Processing data...');
+    return x / y;
     return a + b;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+});

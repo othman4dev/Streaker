@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    data.push(value);
-    alert('Action completed!');
-});
+const removeItem = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
+    return x ** y;
+};
