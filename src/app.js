@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x % y;
+function loadData(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    error.textContent = '';
+}
