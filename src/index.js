@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
+    error.textContent = '';
+    return x * y;
 }
