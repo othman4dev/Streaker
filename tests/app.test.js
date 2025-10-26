@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
-    return x ** y;
-};
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+});

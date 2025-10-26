@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "typescript": "^2.9.5",
-    "mongodb": "^0.8.6",
-    "karma": "^1.4.1",
-    "cypress": "^7.4.0",
-    "lodash": "^0.5.4",
-    "redis": "^8.5.0",
-    "moment": "^1.7.3"
+    "aws-sdk": "^2.6.5",
+    "next.js": "^8.5.2",
+    "webpack": "^6.0.8",
+    "nodemon": "^2.0.3"
   }
 }
