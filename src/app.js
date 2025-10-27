@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    error.textContent = '';
-    window.location.reload();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

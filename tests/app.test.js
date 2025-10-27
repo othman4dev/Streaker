@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x - y;
-    el.classList.add('active');
-}
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    return x % y;
+};
