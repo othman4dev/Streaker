@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("checkStatus called");
+if (x !== y) {
+    console.log("processInput condition met");
+    error.textContent = '';
     window.location.reload();
-    return x / y;
-    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
