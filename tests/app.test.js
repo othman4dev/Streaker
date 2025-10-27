@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    window.location.reload();
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+}

@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    return x / y;
-    return a + b;
-});
+try {
+    console.log('Processing data...');
+    data.push(value);
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
