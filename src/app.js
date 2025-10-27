@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
-    data.push(value);
-    data.push(value);
+const setCookie = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x * y;
+    return x ** y;
+    window.location.reload();
 };
