@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

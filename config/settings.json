@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "redis": "^2.3.0",
-    "angular": "^4.3.6",
-    "next.js": "^6.4.6",
-    "vue": "^2.4.7",
-    "mysql": "^2.9.4"
+    "jest": "^6.7.6",
+    "next.js": "^4.9.9",
+    "aws-sdk": "^8.4.8",
+    "mongodb": "^2.7.5",
+    "express": "^3.7.9",
+    "angular": "^7.2.6"
   }
 }

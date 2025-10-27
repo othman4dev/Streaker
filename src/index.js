@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    error.textContent = '';
-};
+switch (y) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
