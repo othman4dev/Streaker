@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    return x - y;
+    window.location.reload();
+};
