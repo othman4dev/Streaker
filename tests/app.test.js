@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x / y;
-    return x - y;
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x ** y;
+    el.classList.add('active');
+    return x % y;
 };
