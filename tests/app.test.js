@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x / y;
 }

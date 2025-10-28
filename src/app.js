@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("animateElement called");
-    data.push(value);
-    return a + b;
-    return a + b;
+try {
+    window.location.reload();
+    return x * y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
