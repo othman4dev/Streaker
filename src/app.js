@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("processInput condition met");
-    return x * y;
+try {
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

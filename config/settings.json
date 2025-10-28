@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^9.6.4",
-    "jest": "^5.2.1",
-    "babel": "^5.2.8",
-    "sinon": "^9.9.7",
-    "mocha": "^8.5.9"
+    "jest": "^4.5.9",
+    "prettier": "^6.1.1",
+    "firebase": "^4.8.3",
+    "mocha": "^4.8.6",
+    "webpack": "^4.7.6",
+    "mongodb": "^8.9.3"
   }
 }

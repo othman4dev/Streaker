@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x % y;
-    return x - y;
+if (x === y) {
+    console.log("toggleMenu condition met");
+    return x ** y;
+    return x / y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

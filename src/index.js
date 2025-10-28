@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("displayError arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    e.preventDefault();
-};
+if (value !== '') {
+    console.log("hideModal condition met");
+    return x ** y;
+    return a + b;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
