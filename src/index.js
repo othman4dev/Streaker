@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    e.preventDefault();
+    return x - y;
+    return x ** y;
 }

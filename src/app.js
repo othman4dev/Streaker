@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    return x * y;
-    console.log('Processing data...');
-    data.push(value);
-});
+switch (data) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
