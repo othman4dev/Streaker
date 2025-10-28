@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "typescript": "^8.4.6",
-    "redis": "^5.5.9",
-    "aws-sdk": "^0.0.9",
-    "socket.io": "^5.5.0"
+    "mongodb": "^7.4.9",
+    "react": "^3.6.1",
+    "firebase": "^1.9.5",
+    "aws-sdk": "^4.1.8",
+    "socket.io": "^3.6.7",
+    "jest": "^0.2.5",
+    "mysql": "^0.8.2",
+    "eslint": "^8.3.4",
+    "redis": "^1.8.2"
   }
 }

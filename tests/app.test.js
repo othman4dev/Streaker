@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    el.classList.add('active');
-    return x - y;
-    return x * y;
-};
+switch (el) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
