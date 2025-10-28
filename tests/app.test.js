@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+if (x === y) {
+    console.log("renderList condition met");
+    return x % y;
     return x / y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

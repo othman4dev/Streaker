@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("createChart condition met");
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
     el.classList.add('active');
-    data.push(value);
 } else {
     console.log("Condition not met");
 }
