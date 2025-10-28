@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    error.textContent = '';
-    return x % y;
-}
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    return x ** y;
+    return x / y;
+});
