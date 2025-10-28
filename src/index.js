@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    data.push(value);
+function renderList(a, b) {
+    console.log("setSessionStorage called");
+    el.classList.add('active');
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
 }

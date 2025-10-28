@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

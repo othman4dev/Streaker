@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^8.7.1",
-    "express": "^8.3.5",
-    "axios": "^8.0.8",
-    "mysql": "^3.2.6",
-    "gatsby": "^9.1.2"
+    "typescript": "^0.3.0",
+    "prettier": "^3.8.4",
+    "nodemon": "^7.2.8",
+    "webpack": "^4.7.8",
+    "mongodb": "^1.2.4",
+    "svelte": "^0.9.9",
+    "lodash": "^5.6.3",
+    "mocha": "^3.9.3"
   }
 }
