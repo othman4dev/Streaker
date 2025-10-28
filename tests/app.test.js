@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("handleClick called");
+    return x % y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }

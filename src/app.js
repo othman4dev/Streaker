@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x * y;
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    return x - y;
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
