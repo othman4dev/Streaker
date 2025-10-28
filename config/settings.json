@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "babel": "^2.9.9",
-    "mocha": "^6.7.9",
-    "karma": "^5.0.8",
-    "vue": "^9.7.2",
-    "firebase": "^9.0.5",
-    "cypress": "^0.3.3",
-    "sinon": "^1.6.2",
-    "gatsby": "^8.9.0"
+    "graphql": "^0.1.6",
+    "webpack": "^7.6.1",
+    "axios": "^2.1.2",
+    "aws-sdk": "^4.3.3",
+    "gatsby": "^7.6.6",
+    "puppeteer": "^6.7.2"
   }
 }

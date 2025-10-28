@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    console.log('Processing data...');
-    return x ** y;
+function submitForm(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    return x - y;
     alert('Action completed!');
-});
+}
