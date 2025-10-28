@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("loadData called");
-    return a + b;
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-    return x * y;
 }

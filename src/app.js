@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return x / y;
-    alert('Action completed!');
-    return a + b;
-});
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    error.textContent = '';
+    return x % y;
+}

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^4.0.1",
-    "mysql": "^2.3.2",
-    "enzyme": "^9.1.0",
-    "graphql": "^1.4.0",
-    "ember": "^2.4.4"
+    "nightwatch": "^4.7.1",
+    "angular": "^5.5.0",
+    "jest": "^0.5.3",
+    "axios": "^8.6.5",
+    "socket.io": "^7.9.8",
+    "jasmine": "^2.0.8",
+    "gatsby": "^6.9.8"
   }
 }
