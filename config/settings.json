@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^4.3.5",
-    "webpack": "^7.1.2",
-    "cypress": "^0.3.8",
-    "mocha": "^3.4.2",
-    "puppeteer": "^1.8.3",
-    "karma": "^1.4.1",
-    "express": "^0.3.2"
+    "eslint": "^9.6.4",
+    "jest": "^5.2.1",
+    "babel": "^5.2.8",
+    "sinon": "^9.9.7",
+    "mocha": "^8.5.9"
   }
 }

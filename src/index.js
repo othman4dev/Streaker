@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("checkStatus called");
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
     e.preventDefault();
-    return x - y;
-    return x ** y;
-}
+};
