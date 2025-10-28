@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    return x - y;
+    return x * y;
+};
