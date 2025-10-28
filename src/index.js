@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("validateInput called");
-    return a + b;
-    return x * y;
+try {
+    return x ** y;
     el.classList.add('active');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

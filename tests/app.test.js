@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("handleClick called");
-    return x % y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+switch (e) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
