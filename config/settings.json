@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jest": "^4.5.9",
-    "prettier": "^6.1.1",
-    "firebase": "^4.8.3",
-    "mocha": "^4.8.6",
-    "webpack": "^4.7.6",
-    "mongodb": "^8.9.3"
+    "jasmine": "^2.7.8",
+    "enzyme": "^6.5.4",
+    "typescript": "^8.8.4",
+    "graphql": "^4.8.3",
+    "next.js": "^5.8.6",
+    "sinon": "^6.5.3",
+    "mocha": "^4.8.3"
   }
 }
