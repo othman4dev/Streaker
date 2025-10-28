@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+try {
+    return x / y;
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

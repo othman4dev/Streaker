@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return a + b;
+    return x / y;
+    console.log('Processing data...');
+};
