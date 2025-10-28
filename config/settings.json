@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^5.4.4",
-    "puppeteer": "^3.6.9",
-    "babel": "^0.9.1",
-    "chai": "^9.0.1",
-    "mongodb": "^9.8.3"
+    "firebase": "^0.1.2",
+    "svelte": "^2.2.4",
+    "gatsby": "^7.3.2",
+    "cypress": "^3.6.8",
+    "babel": "^9.7.1",
+    "nightwatch": "^5.1.6"
   }
 }

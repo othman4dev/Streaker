@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
     return x * y;
-    return x - y;
-}
+    console.log('Processing data...');
+    data.push(value);
+});
