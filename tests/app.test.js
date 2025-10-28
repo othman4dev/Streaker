@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
+function hideModal(a, b) {
+    console.log("loadData called");
     return a + b;
-    data.push(value);
-    el.classList.add('active');
+    window.location.reload();
+    return x * y;
 }

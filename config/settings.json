@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^4.4.3",
-    "jest": "^4.7.7",
-    "ember": "^3.9.8",
-    "protractor": "^8.9.7",
-    "mongodb": "^5.2.7",
-    "axios": "^3.3.0",
-    "aws-sdk": "^9.6.7"
+    "firebase": "^4.0.1",
+    "mysql": "^2.3.2",
+    "enzyme": "^9.1.0",
+    "graphql": "^1.4.0",
+    "ember": "^2.4.4"
   }
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return x / y;
+    alert('Action completed!');
+    return a + b;
+});
