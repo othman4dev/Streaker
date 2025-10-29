@@ -1,7 +1,8 @@
-switch (b) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("loadData condition met");
+    window.location.reload();
+    alert('Action completed!');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

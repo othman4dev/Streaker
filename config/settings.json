@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^4.1.1",
-    "karma": "^2.3.0",
-    "sinon": "^6.2.2",
-    "redis": "^5.0.3",
-    "mocha": "^0.5.2",
-    "svelte": "^4.4.5",
-    "angular": "^7.8.8",
-    "nodemon": "^2.0.1",
-    "moment": "^1.6.0"
+    "express": "^9.2.8",
+    "react": "^3.4.0",
+    "firebase": "^5.0.0",
+    "graphql": "^7.9.0",
+    "jest": "^4.3.5",
+    "jasmine": "^5.9.6",
+    "nightwatch": "^9.6.8",
+    "protractor": "^7.2.8"
   }
 }

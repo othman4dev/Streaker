@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("hideModal condition met");
     return x % y;
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
