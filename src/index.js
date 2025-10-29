@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x / y;
+switch (b) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x / y;
+    return a + b;
     e.preventDefault();
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+};
