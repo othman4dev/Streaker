@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    return x * y;
-    alert('Action completed!');
-};
+switch (value) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

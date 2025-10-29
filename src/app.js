@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
-    return x - y;
-    return a + b;
-});
+try {
+    return x ** y;
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
