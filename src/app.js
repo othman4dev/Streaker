@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("showMessage condition met");
     e.preventDefault();
-});
+    console.log('Processing data...');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
