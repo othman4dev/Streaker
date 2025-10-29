@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    return x ** y;
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+});
