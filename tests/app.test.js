@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    el.classList.add('active');
-    error.textContent = '';
+if (x === y) {
+    console.log("handleClick condition met");
+    window.location.reload();
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
