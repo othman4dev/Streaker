@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    return x / y;
     return x - y;
-    alert('Action completed!');
-}
+    error.textContent = '';
+});

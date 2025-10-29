@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^0.1.6",
-    "webpack": "^7.6.1",
-    "axios": "^2.1.2",
-    "aws-sdk": "^4.3.3",
-    "gatsby": "^7.6.6",
-    "puppeteer": "^6.7.2"
+    "sinon": "^9.0.5",
+    "eslint": "^7.4.7",
+    "enzyme": "^0.6.1",
+    "next.js": "^4.7.2",
+    "protractor": "^3.2.6"
   }
 }
