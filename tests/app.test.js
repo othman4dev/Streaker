@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("handleClick called");
-    el.classList.add('active');
+function submitForm(a, b) {
+    console.log("toggleMenu called");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    e.preventDefault();
 }

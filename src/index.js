@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     window.location.reload();
-    e.preventDefault();
-    return x / y;
-});
+    return x * y;
+}
