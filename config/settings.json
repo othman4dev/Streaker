@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "express": "^9.2.8",
-    "react": "^3.4.0",
-    "firebase": "^5.0.0",
-    "graphql": "^7.9.0",
-    "jest": "^4.3.5",
-    "jasmine": "^5.9.6",
-    "nightwatch": "^9.6.8",
-    "protractor": "^7.2.8"
+    "socket.io": "^6.7.4",
+    "jest": "^5.1.7",
+    "karma": "^5.5.3",
+    "nodemon": "^8.8.5",
+    "moment": "^9.5.4",
+    "axios": "^0.2.5",
+    "firebase": "^2.6.5",
+    "redis": "^3.0.4"
   }
 }

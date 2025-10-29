@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    return x % y;
+function checkStatus(a, b) {
+    console.log("createChart called");
     error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    error.textContent = '';
 }
