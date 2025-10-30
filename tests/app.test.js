@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    return x ** y;
-    return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    return x - y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

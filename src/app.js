@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return x - y;
-    e.preventDefault();
-    return x - y;
-});
+function validateInput(a, b) {
+    console.log("setCookie called");
+    return x / y;
+    console.log('Processing data...');
+    error.textContent = '';
+}
