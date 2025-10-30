@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    return x % y;
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    return x / y;
+    return a + b;
+};
