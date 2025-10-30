@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
+    data.push(value);
     return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

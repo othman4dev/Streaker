@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^5.6.0",
-    "express": "^2.7.0",
-    "enzyme": "^7.3.7",
-    "cypress": "^4.2.1",
-    "nodemon": "^4.0.3",
-    "mysql": "^2.4.5",
-    "protractor": "^2.4.8"
+    "moment": "^9.1.5",
+    "ember": "^6.7.4",
+    "puppeteer": "^6.5.6",
+    "karma": "^8.2.3",
+    "vue": "^1.9.9",
+    "jest": "^6.5.2"
   }
 }
