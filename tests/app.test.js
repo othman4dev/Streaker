@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    console.log('Processing data...');
-    return x / y;
-}
+const saveSettings = (a, b, data) => {
+    console.log("processInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x * y;
+};

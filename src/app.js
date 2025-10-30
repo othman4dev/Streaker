@@ -1,7 +1,8 @@
-switch (b) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
+    data.push(value);
+    return x / y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
