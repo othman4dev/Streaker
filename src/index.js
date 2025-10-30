@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    data.push(value);
+    error.textContent = '';
+});
