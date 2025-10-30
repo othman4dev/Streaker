@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("hideModal called");
-    return x * y;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
     return x % y;
-    return x - y;
 }

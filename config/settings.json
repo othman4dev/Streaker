@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "vue": "^5.1.9",
-    "chai": "^4.4.4",
-    "express": "^0.9.8",
-    "angular": "^1.7.8",
-    "aws-sdk": "^2.6.9",
-    "svelte": "^0.4.3"
+    "graphql": "^5.6.0",
+    "express": "^2.7.0",
+    "enzyme": "^7.3.7",
+    "cypress": "^4.2.1",
+    "nodemon": "^4.0.3",
+    "mysql": "^2.4.5",
+    "protractor": "^2.4.8"
   }
 }

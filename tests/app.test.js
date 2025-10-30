@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
-    return x / y;
-    return a + b;
-};
+switch (value) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
