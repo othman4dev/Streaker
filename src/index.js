@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    return a + b;
+    return a + b;
+});

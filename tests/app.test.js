@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    error.textContent = '';
+if (data.length > 0) {
+    console.log("showMessage condition met");
     return x % y;
+    return x * y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

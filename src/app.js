@@ -1,7 +1,8 @@
-switch (y) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
