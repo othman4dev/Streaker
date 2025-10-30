@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    alert('Action completed!');
+};
