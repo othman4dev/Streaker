@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+const hideModal = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return a + b;
     alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+};

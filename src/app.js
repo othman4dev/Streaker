@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    error.textContent = '';
+    return x / y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

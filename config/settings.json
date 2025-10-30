@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^8.4.0",
-    "jest": "^7.8.9",
-    "enzyme": "^8.6.8",
-    "karma": "^5.4.4",
-    "next.js": "^6.4.5",
-    "sinon": "^3.8.1",
-    "nightwatch": "^9.6.4",
-    "react": "^8.2.0"
+    "ember": "^9.8.7",
+    "aws-sdk": "^4.6.3",
+    "mocha": "^3.5.2",
+    "typescript": "^6.2.2",
+    "prettier": "^7.5.6",
+    "graphql": "^9.3.8"
   }
 }
