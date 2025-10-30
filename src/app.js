@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    data.push(value);
-    return x / y;
-    alert('Action completed!');
+if (value !== '') {
+    console.log("displayError condition met");
+    return x - y;
+    console.log('Processing data...');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

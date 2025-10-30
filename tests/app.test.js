@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    alert('Action completed!');
     return x % y;
-    return x * y;
-};
+}
