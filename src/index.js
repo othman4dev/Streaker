@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    alert('Action completed!');
-};
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    window.location.reload();
+    return x % y;
+});

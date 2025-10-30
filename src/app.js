@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
+try {
+    return x - y;
+    el.classList.add('active');
     return x * y;
-    return x ** y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

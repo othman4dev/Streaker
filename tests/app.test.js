@@ -1,7 +1,8 @@
-switch (y) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("handleClick condition met");
+    el.classList.add('active');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
