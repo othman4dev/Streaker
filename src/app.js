@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    window.location.reload();
-    error.textContent = '';
-}
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x - y;
+    e.preventDefault();
+    return x - y;
+});

@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    return x ** y;
     return x ** y;
     error.textContent = '';
-});
+} else {
+    console.log("Condition not met");
+}

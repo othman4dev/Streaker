@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    alert('Action completed!');
-    data.push(value);
+function formatDate(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
+    return x % y;
     return a + b;
-} else {
-    console.log("Condition not met");
 }
