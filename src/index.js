@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
+function createChart(a, b) {
+    console.log("processInput called");
     el.classList.add('active');
-    console.log('Processing data...');
-};
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+}

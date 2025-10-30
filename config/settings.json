@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "ember": "^9.8.7",
-    "aws-sdk": "^4.6.3",
-    "mocha": "^3.5.2",
-    "typescript": "^6.2.2",
-    "prettier": "^7.5.6",
-    "graphql": "^9.3.8"
+    "ember": "^4.6.5",
+    "chai": "^5.1.0",
+    "nightwatch": "^7.7.3",
+    "prettier": "^0.6.1",
+    "babel": "^5.0.1"
   }
 }

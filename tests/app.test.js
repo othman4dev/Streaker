@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
-    alert('Action completed!');
-    data.push(value);
-};
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    console.log('Processing data...');
+    return x / y;
+}
