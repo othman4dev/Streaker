@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("setCookie called");
-    return x / y;
-    console.log('Processing data...');
-    error.textContent = '';
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    data.push(value);
+    return x ** y;
 }
