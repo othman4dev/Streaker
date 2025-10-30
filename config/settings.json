@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^4.8.8",
-    "mongodb": "^0.6.8",
-    "graphql": "^9.7.3",
-    "gatsby": "^2.5.5",
-    "axios": "^0.9.6",
-    "firebase": "^6.4.9",
-    "moment": "^1.7.7"
+    "socket.io": "^8.4.0",
+    "jest": "^7.8.9",
+    "enzyme": "^8.6.8",
+    "karma": "^5.4.4",
+    "next.js": "^6.4.5",
+    "sinon": "^3.8.1",
+    "nightwatch": "^9.6.4",
+    "react": "^8.2.0"
   }
 }

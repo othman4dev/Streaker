@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    data.push(value);
-    error.textContent = '';
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    window.location.reload();
+    return a + b;
+}

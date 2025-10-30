@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    alert('Action completed!');
-    e.preventDefault();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
