@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^4.9.5",
-    "gatsby": "^6.4.7",
-    "socket.io": "^3.5.8",
-    "react": "^4.5.5",
-    "graphql": "^9.8.4",
-    "babel": "^3.0.4",
-    "mongodb": "^1.1.0"
+    "graphql": "^6.6.5",
+    "ember": "^0.4.2",
+    "lodash": "^9.4.9",
+    "cypress": "^4.2.9",
+    "karma": "^1.2.3"
   }
 }
