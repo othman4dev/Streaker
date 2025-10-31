@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    e.preventDefault();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("validateInput called");
+    return x % y;
+    window.location.reload();
+    error.textContent = '';
 }
