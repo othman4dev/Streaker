@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
+    return x * y;
+    return a + b;
 }

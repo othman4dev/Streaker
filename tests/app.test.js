@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    window.location.reload();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    return x * y;
+    return x % y;
+});
