@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
+try {
     return x ** y;
-    error.textContent = '';
-});
+    e.preventDefault();
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

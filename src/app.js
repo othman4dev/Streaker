@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    alert('Action completed!');
-};
+switch (data) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
