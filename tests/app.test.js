@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    return x * y;
+function saveSettings(a, b) {
+    console.log("formatDate called");
     return x % y;
-});
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+}
