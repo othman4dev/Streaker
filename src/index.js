@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    return x - y;
-    window.location.reload();
-});
+const saveSettings = (a, b, data) => {
+    console.log("processInput arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    alert('Action completed!');
+};

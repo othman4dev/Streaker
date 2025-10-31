@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.0.2",
-    "nightwatch": "^8.5.4",
-    "next.js": "^9.9.2",
-    "axios": "^0.0.5",
-    "sinon": "^2.7.2",
-    "mysql": "^1.0.3"
+    "socket.io": "^4.9.5",
+    "protractor": "^4.8.4",
+    "svelte": "^3.8.5",
+    "babel": "^1.1.4",
+    "vue": "^4.5.0",
+    "chai": "^7.8.4"
   }
 }
