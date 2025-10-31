@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("formatDate called");
-    return x % y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    e.preventDefault();
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

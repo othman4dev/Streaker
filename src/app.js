@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-};
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    alert('Action completed!');
+    console.log('Processing data...');
+}
