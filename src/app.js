@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    window.location.reload();
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event change triggered");
+    return x - y;
+    data.push(value);
+    data.push(value);
+});

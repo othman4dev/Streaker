@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    error.textContent = '';
+    data.push(value);
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
