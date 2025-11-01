@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    window.location.reload();
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    return x * y;
+    return x % y;
+    console.log('Processing data...');
+});
