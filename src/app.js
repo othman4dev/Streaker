@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    error.textContent = '';
+    data.push(value);
+    el.classList.add('active');
+};

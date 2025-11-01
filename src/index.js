@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    data.push(value);
-    return x / y;
-    console.log('Processing data...');
-};
+try {
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
