@@ -1,7 +1,6 @@
-try {
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
     data.push(value);
-    el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+    console.log('Processing data...');
+};

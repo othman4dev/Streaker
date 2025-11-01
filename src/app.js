@@ -1,5 +1,5 @@
-switch (y) {
-    case 4:
+switch (x) {
+    case 3:
         console.log("x case 1");
         break;
     default:

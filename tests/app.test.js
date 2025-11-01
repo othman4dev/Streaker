@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x ** y;
+    window.location.reload();
+    error.textContent = '';
+};
