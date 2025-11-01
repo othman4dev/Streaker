@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    error.textContent = '';
-    el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

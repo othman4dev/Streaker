@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("removeItem called");
+try {
     data.push(value);
-    error.textContent = '';
-    e.preventDefault();
+    el.classList.add('active');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
