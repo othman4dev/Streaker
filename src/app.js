@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    e.preventDefault();
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+});

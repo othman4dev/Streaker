@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x ** y;
-    console.log('Processing data...');
+function loadData(a, b) {
+    console.log("removeItem called");
     data.push(value);
-};
+    error.textContent = '';
+    e.preventDefault();
+}
