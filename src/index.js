@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    return x % y;
-    console.log('Processing data...');
-});
+if (value !== '') {
+    console.log("handleClick condition met");
+    return a + b;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

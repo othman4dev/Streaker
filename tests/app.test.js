@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x % y;
+if (x !== y) {
+    console.log("displayError condition met");
     document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
