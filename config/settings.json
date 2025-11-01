@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^6.4.7",
-    "ember": "^4.1.9",
-    "svelte": "^6.7.3",
-    "mocha": "^5.2.3",
-    "prettier": "^3.9.9"
+    "ember": "^2.5.6",
+    "puppeteer": "^0.7.1",
+    "nightwatch": "^3.3.4",
+    "redis": "^6.7.8",
+    "jest": "^8.2.5",
+    "mongodb": "^9.0.4",
+    "eslint": "^2.9.1",
+    "chai": "^7.8.5"
   }
 }

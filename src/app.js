@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    error.textContent = '';
-    data.push(value);
-    el.classList.add('active');
-};
+if (value !== '') {
+    console.log("renderList condition met");
+    window.location.reload();
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
