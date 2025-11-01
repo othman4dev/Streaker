@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("hideModal called");
-    alert('Action completed!');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (y) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

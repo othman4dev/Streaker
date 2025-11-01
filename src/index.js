@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return a + b;
-    alert('Action completed!');
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    window.location.reload();
+    data.push(value);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
