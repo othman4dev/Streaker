@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x * y;
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    console.log('Processing data...');
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
