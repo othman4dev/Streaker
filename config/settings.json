@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^3.8.6",
-    "mongodb": "^0.5.4",
-    "axios": "^8.7.1",
-    "puppeteer": "^0.4.2",
-    "jest": "^2.3.0",
-    "svelte": "^2.9.4",
-    "karma": "^8.2.7",
-    "vue": "^7.2.7"
+    "puppeteer": "^0.1.2",
+    "enzyme": "^2.3.0",
+    "prettier": "^2.0.1",
+    "redis": "^0.5.4",
+    "karma": "^7.2.9",
+    "graphql": "^3.0.7",
+    "next.js": "^6.6.4",
+    "socket.io": "^2.8.6"
   }
 }
