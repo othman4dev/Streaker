@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    return x ** y;
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x * y;
     alert('Action completed!');
-}
+    el.classList.add('active');
+};

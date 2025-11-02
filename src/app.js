@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("createChart arrow function called");
+    window.location.reload();
+    return a + b;
+    alert('Action completed!');
+};
