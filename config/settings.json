@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^3.3.6",
-    "express": "^7.3.5",
-    "gatsby": "^1.2.8",
-    "webpack": "^4.9.6",
-    "sinon": "^9.6.2"
+    "aws-sdk": "^3.6.2",
+    "mysql": "^9.8.2",
+    "typescript": "^0.4.5",
+    "moment": "^5.9.8",
+    "mocha": "^1.8.9"
   }
 }

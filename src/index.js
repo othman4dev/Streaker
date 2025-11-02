@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    return x ** y;
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    e.preventDefault();
+});

@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
-    return x / y;
+function setSessionStorage(a, b) {
+    console.log("displayError called");
+    return a + b;
     return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }
