@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^7.1.5",
-    "nightwatch": "^0.1.0",
-    "karma": "^3.9.2",
-    "aws-sdk": "^6.0.0",
-    "chai": "^0.2.0"
+    "eslint": "^3.7.6",
+    "mocha": "^1.6.5",
+    "redis": "^0.4.4",
+    "nightwatch": "^8.3.8",
+    "mongodb": "^3.2.2",
+    "puppeteer": "^1.4.0",
+    "chai": "^9.1.6"
   }
 }
