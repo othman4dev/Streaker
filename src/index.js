@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    return x * y;
-    e.preventDefault();
-});
+const saveSettings = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return a + b;
+    data.push(value);
+    return x % y;
+};

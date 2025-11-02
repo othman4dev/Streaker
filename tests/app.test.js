@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("displayError called");
-    return a + b;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+function checkStatus(a, b) {
+    console.log("submitForm called");
+    return x ** y;
+    window.location.reload();
+    return x / y;
 }

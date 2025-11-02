@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.6.2",
-    "mysql": "^9.8.2",
-    "typescript": "^0.4.5",
-    "moment": "^5.9.8",
-    "mocha": "^1.8.9"
+    "typescript": "^7.1.5",
+    "nightwatch": "^0.1.0",
+    "karma": "^3.9.2",
+    "aws-sdk": "^6.0.0",
+    "chai": "^0.2.0"
   }
 }
