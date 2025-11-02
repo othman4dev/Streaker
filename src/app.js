@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("handleClick arrow function called");
+function formatDate(a, b) {
+    console.log("hideModal called");
     return x - y;
-    e.preventDefault();
-    window.location.reload();
-};
+    data.push(value);
+    return x - y;
+}

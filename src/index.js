@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
+const createChart = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x ** y;
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return x % y;
+};
