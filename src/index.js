@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    window.location.reload();
+    data.push(value);
+    error.textContent = '';
+});

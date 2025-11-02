@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    return a + b;
-    return x % y;
+if (x !== y) {
+    console.log("checkStatus condition met");
+    error.textContent = '';
     window.location.reload();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

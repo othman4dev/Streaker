@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("animateElement called");
+if (value !== '') {
+    console.log("loadData condition met");
     return x - y;
-    return x - y;
-    console.log('Processing data...');
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
