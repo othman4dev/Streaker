@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    return x ** y;
+function renderList(a, b) {
+    console.log("showMessage called");
     error.textContent = '';
-});
+    return x / y;
+    return x * y;
+}

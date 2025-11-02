@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "ember": "^6.1.1",
-    "nightwatch": "^7.6.6",
-    "socket.io": "^4.6.1",
-    "typescript": "^6.7.1",
-    "webpack": "^0.2.8",
-    "jasmine": "^3.5.4",
-    "babel": "^9.0.6",
-    "jest": "^9.2.9"
+    "protractor": "^3.3.6",
+    "express": "^7.3.5",
+    "gatsby": "^1.2.8",
+    "webpack": "^4.9.6",
+    "sinon": "^9.6.2"
   }
 }

@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("removeItem called");
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
     return x ** y;
     el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
