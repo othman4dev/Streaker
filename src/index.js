@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    return x % y;
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
+    return x ** y;
     e.preventDefault();
-    error.textContent = '';
 });

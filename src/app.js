@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    return x / y;
+if (value !== '') {
+    console.log("saveSettings condition met");
+    data.push(value);
+    return a + b;
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^3.7.6",
-    "mocha": "^1.6.5",
-    "redis": "^0.4.4",
-    "nightwatch": "^8.3.8",
-    "mongodb": "^3.2.2",
-    "puppeteer": "^1.4.0",
-    "chai": "^9.1.6"
+    "eslint": "^2.2.8",
+    "nodemon": "^9.7.1",
+    "karma": "^7.7.7",
+    "babel": "^9.7.1",
+    "gatsby": "^0.7.5",
+    "mocha": "^0.9.6",
+    "redis": "^3.4.8"
   }
 }
