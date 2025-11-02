@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^4.8.6",
-    "chai": "^8.6.6",
-    "lodash": "^8.5.8",
-    "aws-sdk": "^0.0.8",
-    "jasmine": "^7.7.0",
-    "next.js": "^6.6.5",
-    "gatsby": "^3.0.7"
+    "vue": "^9.5.4",
+    "angular": "^5.9.3",
+    "jest": "^5.1.0",
+    "protractor": "^2.3.8",
+    "nodemon": "^4.7.0",
+    "mongodb": "^9.3.5"
   }
 }

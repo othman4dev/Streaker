@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("createChart arrow function called");
-    window.location.reload();
+function updateUI(a, b) {
+    console.log("displayError called");
     return a + b;
-    alert('Action completed!');
-};
+    return x % y;
+    window.location.reload();
+}
