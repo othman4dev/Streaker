@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "puppeteer": "^8.6.0",
-    "vue": "^1.6.5",
-    "lodash": "^6.7.4",
-    "babel": "^3.1.5",
-    "aws-sdk": "^9.3.4",
-    "react": "^1.0.1",
-    "socket.io": "^3.2.8",
-    "protractor": "^6.5.4",
-    "next.js": "^9.4.2"
+    "jest": "^7.1.0",
+    "graphql": "^7.1.9",
+    "react": "^5.4.6",
+    "protractor": "^6.3.9"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
+try {
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+    return x / y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
