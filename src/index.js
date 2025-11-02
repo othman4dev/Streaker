@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
+if (a > b) {
+    console.log("renderList condition met");
     return x ** y;
-    e.preventDefault();
-});
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

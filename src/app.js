@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    data.push(value);
-    return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x - y;
+    e.preventDefault();
+    window.location.reload();
+};
