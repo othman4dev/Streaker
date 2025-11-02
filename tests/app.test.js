@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    return x - y;
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event click triggered");
     el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    error.textContent = '';
+});

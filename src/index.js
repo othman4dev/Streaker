@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event input triggered");
-    window.location.reload();
-    data.push(value);
-    error.textContent = '';
-});
+function getLocalStorage(a, b) {
+    console.log("removeItem called");
+    return x ** y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+}
