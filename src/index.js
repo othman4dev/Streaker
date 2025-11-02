@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    error.textContent = '';
-    return x % y;
-}
+const renderList = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+};

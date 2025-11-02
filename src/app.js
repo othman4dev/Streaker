@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    el.classList.add('active');
-    return x ** y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
     window.location.reload();
-};
+    window.location.reload();
+}

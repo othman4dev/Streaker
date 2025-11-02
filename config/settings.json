@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^0.9.3",
-    "enzyme": "^8.2.2",
-    "next.js": "^3.9.8",
-    "lodash": "^7.8.8"
+    "ember": "^4.1.7",
+    "svelte": "^5.2.5",
+    "mongodb": "^2.2.0",
+    "firebase": "^4.6.6",
+    "react": "^7.6.2",
+    "nodemon": "^2.1.0"
   }
 }

@@ -1,7 +1,6 @@
-try {
+function handleClick(a, b) {
+    console.log("saveSettings called");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    error.textContent = '';
 }
