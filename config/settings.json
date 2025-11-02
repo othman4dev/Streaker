@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "angular": "^4.6.8",
-    "puppeteer": "^3.1.7",
-    "graphql": "^4.3.2",
-    "jest": "^9.4.3",
-    "cypress": "^8.2.2",
-    "redis": "^6.2.7",
-    "enzyme": "^7.5.7",
-    "next.js": "^1.9.5"
+    "puppeteer": "^8.6.0",
+    "vue": "^1.6.5",
+    "lodash": "^6.7.4",
+    "babel": "^3.1.5",
+    "aws-sdk": "^9.3.4",
+    "react": "^1.0.1",
+    "socket.io": "^3.2.8",
+    "protractor": "^6.5.4",
+    "next.js": "^9.4.2"
   }
 }

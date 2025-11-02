@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    data.push(value);
-    return x - y;
-});
+switch (a) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

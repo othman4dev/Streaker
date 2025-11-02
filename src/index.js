@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
-    window.location.reload();
-    return x % y;
-};
+try {
+    error.textContent = '';
+    return a + b;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
