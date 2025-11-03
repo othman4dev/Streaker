@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "ember": "^4.1.7",
-    "svelte": "^5.2.5",
-    "mongodb": "^2.2.0",
-    "firebase": "^4.6.6",
-    "react": "^7.6.2",
-    "nodemon": "^2.1.0"
+    "prettier": "^9.4.4",
+    "gatsby": "^1.1.9",
+    "mysql": "^3.9.7",
+    "sinon": "^0.3.4",
+    "graphql": "^3.5.5",
+    "mocha": "^2.8.4",
+    "moment": "^5.1.5",
+    "firebase": "^7.8.4"
   }
 }

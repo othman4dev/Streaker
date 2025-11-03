@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
+function saveSettings(a, b) {
+    console.log("removeItem called");
+    return x - y;
+    return x % y;
+    return x / y;
 }
