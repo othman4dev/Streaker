@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^0.9.0",
-    "webpack": "^4.6.8",
-    "sinon": "^6.4.8",
-    "mongodb": "^7.8.5",
-    "mocha": "^7.6.5"
+    "next.js": "^9.4.0",
+    "svelte": "^2.0.2",
+    "mocha": "^6.4.2",
+    "webpack": "^4.2.6",
+    "typescript": "^2.2.1",
+    "mongodb": "^1.6.0",
+    "moment": "^9.9.1",
+    "jest": "^3.7.4"
   }
 }

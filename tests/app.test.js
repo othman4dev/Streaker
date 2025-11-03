@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
-    data.push(value);
-    el.classList.add('active');
-    data.push(value);
-}
+const showMessage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x * y;
+    return x - y;
+    e.preventDefault();
+};

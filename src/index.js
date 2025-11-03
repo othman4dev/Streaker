@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+};
