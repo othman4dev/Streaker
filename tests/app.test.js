@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event input triggered");
     return x * y;
+    return a + b;
     return x - y;
-    e.preventDefault();
-};
+});
