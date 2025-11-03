@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("hideModal condition met");
+try {
     el.classList.add('active');
-    return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
