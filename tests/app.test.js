@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("removeItem called");
-    return x - y;
-    return x % y;
-    return x / y;
+function setCookie(a, b) {
+    console.log("submitForm called");
+    data.push(value);
+    el.classList.add('active');
+    data.push(value);
 }

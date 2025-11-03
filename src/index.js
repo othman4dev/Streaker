@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+switch (el) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

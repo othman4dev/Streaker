@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^9.4.4",
-    "gatsby": "^1.1.9",
-    "mysql": "^3.9.7",
-    "sinon": "^0.3.4",
-    "graphql": "^3.5.5",
-    "mocha": "^2.8.4",
-    "moment": "^5.1.5",
-    "firebase": "^7.8.4"
+    "eslint": "^0.9.0",
+    "webpack": "^4.6.8",
+    "sinon": "^6.4.8",
+    "mongodb": "^7.8.5",
+    "mocha": "^7.6.5"
   }
 }
