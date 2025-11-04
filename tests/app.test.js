@@ -1,7 +1,8 @@
-switch (el) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    return a + b;
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

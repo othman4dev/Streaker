@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    data.push(value);
+});

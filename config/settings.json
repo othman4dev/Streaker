@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^8.8.6",
-    "redis": "^2.8.6",
-    "express": "^3.9.3",
-    "vue": "^1.1.8",
-    "babel": "^1.8.4",
-    "axios": "^8.6.1",
-    "sinon": "^8.4.8"
+    "socket.io": "^7.9.9",
+    "eslint": "^7.5.0",
+    "mysql": "^0.2.1",
+    "prettier": "^7.1.4",
+    "gatsby": "^9.5.5",
+    "lodash": "^4.7.0"
   }
 }
