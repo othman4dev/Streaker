@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
+function hideModal(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
     return a + b;
-    return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x - y;
 }
