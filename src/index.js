@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("displayError arrow function called");
-    window.location.reload();
-    return a + b;
-    window.location.reload();
-};
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    return x / y;
+});

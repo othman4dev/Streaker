@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    return x / y;
     return x ** y;
-});
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
