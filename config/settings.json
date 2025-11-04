@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "angular": "^6.2.9",
-    "enzyme": "^9.7.8",
-    "puppeteer": "^0.9.2",
-    "moment": "^8.7.2",
-    "next.js": "^1.2.5",
-    "cypress": "^8.0.6"
+    "karma": "^2.6.5",
+    "enzyme": "^7.7.6",
+    "graphql": "^7.9.9",
+    "socket.io": "^0.5.5",
+    "typescript": "^8.2.0",
+    "chai": "^6.1.6",
+    "express": "^7.9.2",
+    "next.js": "^9.5.5"
   }
 }

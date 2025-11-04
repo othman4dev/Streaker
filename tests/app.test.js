@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    return x % y;
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x / y;
+    alert('Action completed!');
 }
