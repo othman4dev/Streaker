@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "karma": "^3.3.3",
-    "socket.io": "^1.4.2",
-    "prettier": "^6.7.6",
-    "graphql": "^5.0.3",
-    "jest": "^4.3.3",
-    "express": "^4.5.4"
+    "jasmine": "^2.7.2",
+    "vue": "^5.5.0",
+    "axios": "^7.2.8",
+    "ember": "^1.7.8",
+    "protractor": "^9.2.3",
+    "mysql": "^8.2.9",
+    "typescript": "^0.3.7"
   }
 }

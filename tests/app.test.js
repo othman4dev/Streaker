@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    el.classList.add('active');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("renderList called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 }
