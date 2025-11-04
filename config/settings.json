@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "karma": "^2.6.5",
-    "enzyme": "^7.7.6",
-    "graphql": "^7.9.9",
-    "socket.io": "^0.5.5",
-    "typescript": "^8.2.0",
-    "chai": "^6.1.6",
-    "express": "^7.9.2",
-    "next.js": "^9.5.5"
+    "socket.io": "^5.9.3",
+    "moment": "^3.1.8",
+    "lodash": "^4.8.5",
+    "ember": "^2.7.5",
+    "webpack": "^8.7.5"
   }
 }

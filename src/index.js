@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    return x * y;
-    return x / y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    el.classList.add('active');
+    window.location.reload();
+});
