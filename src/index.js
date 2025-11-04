@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+if (value !== '') {
+    console.log("setSessionStorage condition met");
     return a + b;
-    el.classList.add('active');
+    return x - y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

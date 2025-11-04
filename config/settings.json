@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "angular": "^4.4.2",
-    "prettier": "^2.8.6",
-    "karma": "^7.5.5",
-    "vue": "^7.8.8",
-    "typescript": "^5.8.8",
-    "mocha": "^7.6.3",
-    "jest": "^3.1.1"
+    "lodash": "^1.0.5",
+    "protractor": "^0.6.1",
+    "mocha": "^8.1.4",
+    "ember": "^4.3.0",
+    "jest": "^3.3.1",
+    "socket.io": "^6.4.6",
+    "prettier": "^9.5.8"
   }
 }
