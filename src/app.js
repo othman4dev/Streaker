@@ -1,6 +1,7 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    console.log('Processing data...');
-    el.classList.add('active');
+switch (x) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
