@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^5.3.2",
-    "react": "^6.7.7",
-    "vue": "^3.0.7",
-    "karma": "^8.3.8",
-    "mongodb": "^1.4.9",
-    "jasmine": "^8.0.4"
+    "angular": "^4.4.2",
+    "prettier": "^2.8.6",
+    "karma": "^7.5.5",
+    "vue": "^7.8.8",
+    "typescript": "^5.8.8",
+    "mocha": "^7.6.3",
+    "jest": "^3.1.1"
   }
 }
