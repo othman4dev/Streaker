@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("processInput called");
-    return x / y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const animateElement = (a, b, data) => {
+    console.log("displayError arrow function called");
+    window.location.reload();
+    return a + b;
+    window.location.reload();
+};

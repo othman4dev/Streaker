@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^0.1.3",
-    "firebase": "^4.6.1",
-    "mongodb": "^9.9.8",
-    "react": "^8.9.9",
-    "webpack": "^8.7.1"
+    "nightwatch": "^1.4.7",
+    "jest": "^0.4.8",
+    "gatsby": "^0.0.6",
+    "puppeteer": "^2.5.3",
+    "prettier": "^7.8.0",
+    "webpack": "^7.1.3",
+    "axios": "^3.4.7"
   }
 }
