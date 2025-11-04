@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    return x * y;
-    return a + b;
-    return x - y;
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+}
