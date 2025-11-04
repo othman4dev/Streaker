@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+if (value !== '') {
+    console.log("validateInput condition met");
+    return x % y;
     error.textContent = '';
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
