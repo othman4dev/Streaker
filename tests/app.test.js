@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    el.classList.add('active');
-    e.preventDefault();
-}
+const displayError = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x % y;
+    return a + b;
+    return a + b;
+};
