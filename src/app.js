@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x / y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("removeItem called");
+    alert('Action completed!');
+    e.preventDefault();
+    console.log('Processing data...');
 }

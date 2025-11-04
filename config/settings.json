@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "react": "^1.7.7",
-    "next.js": "^3.5.5",
-    "chai": "^4.7.2",
-    "protractor": "^7.9.3",
-    "webpack": "^6.8.8",
-    "cypress": "^0.5.0",
-    "firebase": "^5.3.8",
-    "jest": "^2.7.0"
+    "moment": "^4.7.0",
+    "vue": "^6.1.4",
+    "jest": "^8.1.9",
+    "chai": "^3.5.1"
   }
 }

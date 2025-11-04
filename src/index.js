@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    data.push(value);
+try {
     error.textContent = '';
-    el.classList.add('active');
-};
+    error.textContent = '';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
