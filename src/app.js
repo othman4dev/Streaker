@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("removeItem called");
-    alert('Action completed!');
-    e.preventDefault();
-    console.log('Processing data...');
-}
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x ** y;
+    return x / y;
+    return x ** y;
+});
