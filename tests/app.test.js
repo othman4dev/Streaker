@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+try {
+    alert('Action completed!');
+    window.location.reload();
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

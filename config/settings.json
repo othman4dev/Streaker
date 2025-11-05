@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^2.7.2",
-    "vue": "^5.5.0",
-    "axios": "^7.2.8",
-    "ember": "^1.7.8",
-    "protractor": "^9.2.3",
-    "mysql": "^8.2.9",
-    "typescript": "^0.3.7"
+    "chai": "^5.3.4",
+    "redis": "^3.8.5",
+    "react": "^7.3.7",
+    "socket.io": "^2.4.8",
+    "sinon": "^5.7.8",
+    "mocha": "^8.9.2"
   }
 }
