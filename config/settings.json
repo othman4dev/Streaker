@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^8.8.1",
-    "protractor": "^3.5.9",
-    "eslint": "^9.5.1",
-    "firebase": "^8.9.3",
-    "svelte": "^9.8.5",
-    "jest": "^4.1.3",
-    "next.js": "^5.8.0"
+    "svelte": "^9.0.9",
+    "moment": "^1.6.4",
+    "socket.io": "^5.4.5",
+    "mysql": "^5.6.2",
+    "mocha": "^5.0.3"
   }
 }

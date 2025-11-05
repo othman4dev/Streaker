@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("processInput called");
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
     return x ** y;
-    el.classList.add('active');
-    return x % y;
-}
+    return a + b;
+    data.push(value);
+});
