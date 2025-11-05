@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^6.4.8",
-    "gatsby": "^3.7.6",
-    "socket.io": "^5.5.3",
-    "jest": "^7.3.2",
-    "jasmine": "^7.2.6",
-    "mongodb": "^7.0.7"
+    "typescript": "^1.2.8",
+    "svelte": "^6.9.5",
+    "graphql": "^0.4.3",
+    "socket.io": "^7.1.1",
+    "axios": "^7.7.1",
+    "vue": "^2.9.9"
   }
 }

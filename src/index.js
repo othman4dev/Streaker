@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("displayError called");
-    return a + b;
+try {
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

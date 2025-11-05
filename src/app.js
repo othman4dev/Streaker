@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    return a + b;
-    return x - y;
-}
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event input triggered");
+    return x % y;
+    return x / y;
+    console.log('Processing data...');
+});
