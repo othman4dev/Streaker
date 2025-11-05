@@ -1,7 +1,8 @@
-switch (value) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("createChart condition met");
+    return x - y;
+    el.classList.add('active');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

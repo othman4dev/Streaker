@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "chai": "^4.9.3",
-    "typescript": "^1.6.5",
-    "svelte": "^9.6.6",
-    "jest": "^2.4.8",
-    "express": "^7.0.1",
-    "prettier": "^2.4.9",
-    "aws-sdk": "^8.3.6",
-    "eslint": "^6.1.2"
+    "sinon": "^1.7.7",
+    "ember": "^5.6.3",
+    "puppeteer": "^0.7.1",
+    "graphql": "^6.1.3",
+    "chai": "^5.7.7",
+    "mysql": "^8.7.5",
+    "mongodb": "^0.1.7",
+    "firebase": "^1.0.8"
   }
 }
