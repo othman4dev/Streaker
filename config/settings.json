@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^1.2.8",
-    "svelte": "^6.9.5",
-    "graphql": "^0.4.3",
-    "socket.io": "^7.1.1",
-    "axios": "^7.7.1",
-    "vue": "^2.9.9"
+    "chai": "^4.9.3",
+    "typescript": "^1.6.5",
+    "svelte": "^9.6.6",
+    "jest": "^2.4.8",
+    "express": "^7.0.1",
+    "prettier": "^2.4.9",
+    "aws-sdk": "^8.3.6",
+    "eslint": "^6.1.2"
   }
 }
