@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x * y;
+try {
+    return x - y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

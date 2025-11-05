@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("processInput called");
+    return x ** y;
+    el.classList.add('active');
+    return x % y;
 }
