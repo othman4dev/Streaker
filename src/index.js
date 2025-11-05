@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
+function fetchData(a, b) {
+    console.log("displayError called");
+    return a + b;
     return x / y;
-    return x % y;
-};
+    return x / y;
+}
