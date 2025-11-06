@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    error.textContent = '';
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    return x * y;
     return x % y;
-};
+});

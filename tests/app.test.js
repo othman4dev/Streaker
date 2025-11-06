@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
+if (data.length > 0) {
+    console.log("validateInput condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+    data.push(value);
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

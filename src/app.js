@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    return a + b;
-    return a + b;
-};
+switch (x) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
