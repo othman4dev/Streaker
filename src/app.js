@@ -1,7 +1,6 @@
-try {
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event input triggered");
     data.push(value);
-    e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    window.location.reload();
+});

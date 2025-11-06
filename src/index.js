@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    data.push(value);
-    return a + b;
-    return x * y;
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    error.textContent = '';
+    error.textContent = '';
+    return x ** y;
 });
