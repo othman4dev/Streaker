@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^7.4.8",
-    "gatsby": "^2.4.9",
-    "chai": "^4.5.9",
-    "ember": "^8.6.1",
-    "angular": "^3.0.6",
-    "puppeteer": "^2.8.7",
-    "react": "^6.2.6",
-    "express": "^5.2.0",
-    "karma": "^7.6.5"
+    "nodemon": "^2.3.4",
+    "aws-sdk": "^4.6.2",
+    "angular": "^0.7.3",
+    "gatsby": "^3.1.5",
+    "vue": "^4.3.9",
+    "protractor": "^7.0.0"
   }
 }

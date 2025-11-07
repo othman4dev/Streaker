@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    return x - y;
     el.classList.add('active');
+    return x * y;
 } else {
     console.log("Condition not met");
 }
