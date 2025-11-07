@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
     e.preventDefault();
-}
+    console.log('Processing data...');
+});
