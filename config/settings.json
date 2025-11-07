@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^0.2.6",
-    "svelte": "^7.2.6",
-    "cypress": "^9.6.4",
-    "next.js": "^4.3.6",
-    "moment": "^8.1.7",
-    "ember": "^8.5.3",
-    "babel": "^1.4.4",
-    "protractor": "^1.7.1",
-    "prettier": "^5.7.8"
+    "karma": "^7.2.8",
+    "gatsby": "^6.7.4",
+    "nightwatch": "^6.9.6",
+    "puppeteer": "^2.3.0",
+    "lodash": "^4.2.7",
+    "moment": "^5.5.9",
+    "cypress": "^0.3.0"
   }
 }
