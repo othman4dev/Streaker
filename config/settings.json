@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "vue": "^4.5.0",
-    "next.js": "^3.3.8",
-    "webpack": "^6.0.6",
-    "karma": "^4.4.6",
-    "mongodb": "^9.2.2",
-    "nightwatch": "^5.4.8",
-    "mocha": "^7.5.3",
-    "mysql": "^8.4.8",
-    "typescript": "^6.7.5"
+    "moment": "^6.9.7",
+    "next.js": "^7.5.6",
+    "enzyme": "^5.8.0",
+    "karma": "^3.4.5",
+    "express": "^3.5.9",
+    "jasmine": "^4.5.8"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    return x * y;
-    return x % y;
-});
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
