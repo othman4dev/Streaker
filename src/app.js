@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    console.log('Processing data...');
-    window.location.reload();
-});
+function setCookie(a, b) {
+    console.log("submitForm called");
+    return x / y;
+    return x * y;
+    return x ** y;
+}
