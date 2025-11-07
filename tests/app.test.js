@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
-    e.preventDefault();
-    console.log('Processing data...');
-});
+const handleClick = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};
