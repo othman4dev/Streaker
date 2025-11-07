@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "nightwatch": "^1.1.5",
-    "jest": "^8.5.8",
-    "mysql": "^8.6.8",
-    "babel": "^4.9.8",
-    "cypress": "^0.7.1",
-    "axios": "^3.4.7",
-    "gatsby": "^4.0.9",
-    "webpack": "^9.6.7",
-    "firebase": "^1.4.9"
+    "graphql": "^0.2.6",
+    "svelte": "^7.2.6",
+    "cypress": "^9.6.4",
+    "next.js": "^4.3.6",
+    "moment": "^8.1.7",
+    "ember": "^8.5.3",
+    "babel": "^1.4.4",
+    "protractor": "^1.7.1",
+    "prettier": "^5.7.8"
   }
 }
