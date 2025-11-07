@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    console.log('Processing data...');
-    return x * y;
-};
+switch (a) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
