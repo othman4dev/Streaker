@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "react": "^3.4.9",
+    "mocha": "^7.4.8",
+    "gatsby": "^2.4.9",
+    "chai": "^4.5.9",
+    "ember": "^8.6.1",
+    "angular": "^3.0.6",
+    "puppeteer": "^2.8.7",
+    "react": "^6.2.6",
     "express": "^5.2.0",
-    "enzyme": "^1.7.1",
-    "socket.io": "^6.4.1",
-    "lodash": "^8.2.3",
-    "jest": "^8.1.7",
-    "vue": "^0.6.4"
+    "karma": "^7.6.5"
   }
 }

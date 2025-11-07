@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("formatDate arrow function called");
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    console.log('Processing data...');
+    return a + b;
     el.classList.add('active');
-    data.push(value);
-    error.textContent = '';
-};
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    console.log('Processing data...');
-    return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return a + b;
+    return x ** y;
+    return x ** y;
+});
