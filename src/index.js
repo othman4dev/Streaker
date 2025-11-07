@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("fetchData called");
-    return x - y;
-    return x - y;
-    alert('Action completed!');
-}
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
+    el.classList.add('active');
+    return x / y;
+    return a + b;
+};

@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
-    return x / y;
-    window.location.reload();
-};
+try {
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

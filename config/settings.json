@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^0.0.8",
-    "typescript": "^2.7.7",
-    "moment": "^0.9.7",
-    "prettier": "^8.5.7",
-    "jest": "^9.8.4"
+    "webpack": "^6.7.8",
+    "aws-sdk": "^1.5.1",
+    "prettier": "^9.8.2",
+    "sinon": "^6.6.1",
+    "babel": "^4.7.4"
   }
 }

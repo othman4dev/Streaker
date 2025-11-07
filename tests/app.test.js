@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("saveSettings called");
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    return a + b;
     return x * y;
-    return x % y;
-    return x ** y;
-}
+});
