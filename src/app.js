@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const loadData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x ** y;
+};

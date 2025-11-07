@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
+const processInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return x / y;
-    return a + b;
+    return x ** y;
+    e.preventDefault();
 };
