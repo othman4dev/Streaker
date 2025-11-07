@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+const saveSettings = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    data.push(value);
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+};

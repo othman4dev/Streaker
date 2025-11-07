@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "moment": "^6.9.7",
-    "next.js": "^7.5.6",
-    "enzyme": "^5.8.0",
-    "karma": "^3.4.5",
-    "express": "^3.5.9",
-    "jasmine": "^4.5.8"
+    "nodemon": "^0.5.9",
+    "prettier": "^9.5.3",
+    "jest": "^2.6.0",
+    "enzyme": "^2.7.2",
+    "aws-sdk": "^0.7.9",
+    "babel": "^4.0.2"
   }
 }
