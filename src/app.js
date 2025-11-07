@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x / y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("saveSettings called");
+    return x % y;
+    console.log('Processing data...');
+    data.push(value);
 }

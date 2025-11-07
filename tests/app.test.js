@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    return x ** y;
-    e.preventDefault();
-});
+const submitForm = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    return x * y;
+};

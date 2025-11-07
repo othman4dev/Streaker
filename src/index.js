@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    return x * y;
-    el.classList.add('active');
-});
+try {
+    data.push(value);
+    return x - y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
