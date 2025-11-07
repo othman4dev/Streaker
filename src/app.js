@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
+const removeItem = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
     return x / y;
-    return x * y;
-    return x ** y;
-}
+    window.location.reload();
+};

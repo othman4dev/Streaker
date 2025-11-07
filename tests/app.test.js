@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    return x % y;
+    return x ** y;
 }
