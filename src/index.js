@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+if (x === y) {
+    console.log("fetchData condition met");
+    console.log('Processing data...');
+    return x - y;
     data.push(value);
-    alert('Action completed!');
-    return a + b;
-};
+} else {
+    console.log("Condition not met");
+}

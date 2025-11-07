@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const handleClick = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    error.textContent = '';
+};
