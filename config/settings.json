@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "redis": "^7.1.7",
-    "babel": "^9.2.2",
-    "prettier": "^7.4.8",
-    "jest": "^0.5.7",
-    "mongodb": "^2.0.0"
+    "nightwatch": "^1.1.5",
+    "jest": "^8.5.8",
+    "mysql": "^8.6.8",
+    "babel": "^4.9.8",
+    "cypress": "^0.7.1",
+    "axios": "^3.4.7",
+    "gatsby": "^4.0.9",
+    "webpack": "^9.6.7",
+    "firebase": "^1.4.9"
   }
 }
