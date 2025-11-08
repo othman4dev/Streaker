@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "mongodb": "^2.8.5",
-    "typescript": "^2.0.6",
-    "react": "^8.8.5",
-    "express": "^4.8.4",
-    "eslint": "^7.5.6"
+    "nightwatch": "^2.9.8",
+    "enzyme": "^9.2.0",
+    "sinon": "^3.6.6",
+    "socket.io": "^2.4.0",
+    "react": "^8.1.8",
+    "lodash": "^5.8.0",
+    "jest": "^5.5.8",
+    "jasmine": "^8.9.8",
+    "cypress": "^3.5.5"
   }
 }
