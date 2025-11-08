@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    console.log('Processing data...');
-});
+const animateElement = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
+    error.textContent = '';
+};

@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    alert('Action completed!');
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
