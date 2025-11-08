@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^2.3.0",
-    "chai": "^5.5.8",
-    "mongodb": "^0.0.3",
-    "graphql": "^4.1.9",
-    "lodash": "^8.0.2",
-    "babel": "^7.1.9"
+    "svelte": "^7.0.0",
+    "gatsby": "^5.8.5",
+    "sinon": "^7.7.9",
+    "prettier": "^7.9.2",
+    "puppeteer": "^3.6.7"
   }
 }

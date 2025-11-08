@@ -1,7 +1,6 @@
-try {
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    alert('Action completed!');
     return x ** y;
-    error.textContent = '';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+});

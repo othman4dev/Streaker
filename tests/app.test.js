@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("formatDate called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x % y;
-}
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
+    alert('Action completed!');
+    error.textContent = '';
+};

@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    e.preventDefault();
-    return x - y;
-});
+try {
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
