@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x ** y;
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    data.push(value);
+    return a + b;
+}

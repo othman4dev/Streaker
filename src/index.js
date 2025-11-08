@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
+    e.preventDefault();
+    return x * y;
+});
