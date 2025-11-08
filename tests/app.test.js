@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+function handleClick(a, b) {
+    console.log("formatDate called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
     return x % y;
-    return x % y;
-    data.push(value);
-};
+}

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    return x / y;
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    e.preventDefault();
+    return x - y;
+});

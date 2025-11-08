@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^7.7.3",
-    "enzyme": "^0.4.4",
-    "next.js": "^7.2.0",
-    "lodash": "^4.1.5",
-    "ember": "^7.3.3",
-    "axios": "^6.2.4",
-    "svelte": "^5.7.4"
+    "mysql": "^2.3.0",
+    "chai": "^5.5.8",
+    "mongodb": "^0.0.3",
+    "graphql": "^4.1.9",
+    "lodash": "^8.0.2",
+    "babel": "^7.1.9"
   }
 }

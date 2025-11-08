@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    return x % y;
+try {
     return x ** y;
+    error.textContent = '';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
