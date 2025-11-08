@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x % y;
-    el.classList.add('active');
-});
+function handleClick(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    data.push(value);
+    window.location.reload();
+}
