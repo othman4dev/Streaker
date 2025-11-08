@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
+    return x / y;
+    e.preventDefault();
+});

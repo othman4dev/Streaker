@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    return x / y;
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event submit triggered");
     e.preventDefault();
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    return x / y;
+});
