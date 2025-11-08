@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x / y;
+};

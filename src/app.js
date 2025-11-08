@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
+const updateUI = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    window.location.reload();
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 };
