@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    data.push(value);
-    return a + b;
-}
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    console.log('Processing data...');
+    console.log('Processing data...');
+});

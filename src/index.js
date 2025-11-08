@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
+if (data.length > 0) {
+    console.log("processInput condition met");
     alert('Action completed!');
-    e.preventDefault();
-    return x * y;
-});
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

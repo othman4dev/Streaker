@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^2.2.0",
-    "puppeteer": "^2.1.5",
-    "redis": "^9.8.8",
-    "firebase": "^2.7.9",
-    "protractor": "^6.0.5"
+    "karma": "^8.4.4",
+    "nightwatch": "^1.3.5",
+    "firebase": "^6.8.6",
+    "nodemon": "^2.1.9",
+    "angular": "^9.4.0",
+    "sinon": "^9.0.0",
+    "redis": "^1.4.5",
+    "chai": "^8.7.0"
   }
 }
