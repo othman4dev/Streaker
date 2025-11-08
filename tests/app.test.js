@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x % y;
+    return x % y;
+    data.push(value);
+};

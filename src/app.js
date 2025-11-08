@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return x ** y;
+function checkStatus(a, b) {
+    console.log("hideModal called");
+    return x / y;
     return x % y;
-});
+    return x ** y;
+}
