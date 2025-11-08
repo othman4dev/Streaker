@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("renderList arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x / y;
-};
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    alert('Action completed!');
+    alert('Action completed!');
+}

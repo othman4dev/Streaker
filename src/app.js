@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    window.location.reload();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return x % y;
+    el.classList.add('active');
+});
