@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("animateElement arrow function called");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    error.textContent = '';
     return a + b;
-    e.preventDefault();
-    return x * y;
-};
+}

@@ -1,7 +1,8 @@
-switch (data) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

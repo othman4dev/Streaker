@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^3.4.1",
-    "svelte": "^2.4.3",
-    "next.js": "^6.5.5",
-    "jest": "^5.4.6",
-    "babel": "^9.4.1",
-    "moment": "^1.9.1",
-    "react": "^5.8.8"
+    "gatsby": "^6.7.5",
+    "lodash": "^8.6.1",
+    "aws-sdk": "^3.1.2",
+    "nodemon": "^4.8.8",
+    "mysql": "^5.2.7",
+    "jest": "^0.6.9",
+    "nightwatch": "^1.5.3",
+    "redis": "^0.0.2"
   }
 }
