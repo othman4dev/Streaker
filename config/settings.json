@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^2.8.1",
-    "chai": "^4.7.8",
-    "typescript": "^1.9.6",
-    "axios": "^1.9.2",
-    "webpack": "^1.5.6"
+    "mysql": "^3.4.1",
+    "svelte": "^2.4.3",
+    "next.js": "^6.5.5",
+    "jest": "^5.4.6",
+    "babel": "^9.4.1",
+    "moment": "^1.9.1",
+    "react": "^5.8.8"
   }
 }

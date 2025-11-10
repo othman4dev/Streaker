@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    return x ** y;
-});
+const toggleMenu = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return a + b;
+    e.preventDefault();
+    return x * y;
+};

@@ -1,7 +1,7 @@
-try {
-    error.textContent = '';
-    error.textContent = '';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+switch (data) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
