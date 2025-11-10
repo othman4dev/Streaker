@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("hideModal condition met");
-    return x - y;
-    return x % y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    el.classList.add('active');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
