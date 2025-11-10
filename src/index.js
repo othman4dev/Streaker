@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
-    return x * y;
-    return x ** y;
+try {
+    return x - y;
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

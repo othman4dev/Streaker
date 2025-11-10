@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    e.preventDefault();
-    e.preventDefault();
+if (value !== '') {
+    console.log("hideModal condition met");
     data.push(value);
+    return x - y;
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

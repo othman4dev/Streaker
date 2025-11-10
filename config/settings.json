@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^6.7.5",
-    "lodash": "^8.6.1",
-    "aws-sdk": "^3.1.2",
-    "nodemon": "^4.8.8",
-    "mysql": "^5.2.7",
-    "jest": "^0.6.9",
-    "nightwatch": "^1.5.3",
-    "redis": "^0.0.2"
+    "react": "^1.2.1",
+    "redis": "^0.1.6",
+    "gatsby": "^3.9.0",
+    "graphql": "^5.8.2",
+    "prettier": "^1.9.2",
+    "mocha": "^0.0.7"
   }
 }
