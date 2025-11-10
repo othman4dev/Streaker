@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    e.preventDefault();
-    return x - y;
-    alert('Action completed!');
-};
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return a + b;
+    return x / y;
+}
