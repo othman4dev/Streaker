@@ -1,7 +1,6 @@
-try {
-    return x - y;
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
     window.location.reload();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    return x ** y;
+});

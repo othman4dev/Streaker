@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^5.5.8",
-    "svelte": "^3.6.1",
-    "karma": "^7.1.6",
-    "typescript": "^0.8.1",
-    "mocha": "^3.6.7"
+    "protractor": "^2.8.1",
+    "chai": "^4.7.8",
+    "typescript": "^1.9.6",
+    "axios": "^1.9.2",
+    "webpack": "^1.5.6"
   }
 }
