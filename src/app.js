@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
-    console.log('Processing data...');
-};
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+}

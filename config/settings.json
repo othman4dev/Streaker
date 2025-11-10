@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^3.8.8",
-    "mongodb": "^5.7.8",
-    "gatsby": "^0.7.6",
-    "redis": "^5.9.7",
-    "lodash": "^9.0.5",
-    "axios": "^7.9.5",
-    "karma": "^0.8.9"
+    "sinon": "^5.4.0",
+    "mocha": "^7.4.5",
+    "webpack": "^8.2.1",
+    "mysql": "^2.4.1",
+    "chai": "^9.9.1",
+    "jest": "^1.9.1",
+    "cypress": "^0.2.7",
+    "svelte": "^5.2.0"
   }
 }
