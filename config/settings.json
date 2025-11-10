@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^8.3.1",
-    "jest": "^2.5.3",
-    "firebase": "^8.1.8",
-    "sinon": "^6.9.2"
+    "chai": "^1.6.9",
+    "socket.io": "^5.4.0",
+    "nodemon": "^8.8.4",
+    "prettier": "^8.3.3",
+    "cypress": "^2.6.3",
+    "enzyme": "^8.6.7",
+    "jest": "^0.5.0"
   }
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
+const loadData = (a, b, data) => {
+    console.log("createChart arrow function called");
     return x / y;
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    window.location.reload();
+};
