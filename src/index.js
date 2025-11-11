@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("handleClick arrow function called");
+function displayError(a, b) {
+    console.log("displayError called");
+    return x ** y;
     e.preventDefault();
-    return a + b;
     el.classList.add('active');
-};
+}

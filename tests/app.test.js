@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("checkStatus called");
-    return x % y;
-    return x * y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }

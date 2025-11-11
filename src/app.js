@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event focus triggered");
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
+    window.location.reload();
     return x / y;
-    return x % y;
-    return x - y;
-});
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
