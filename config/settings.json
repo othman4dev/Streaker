@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jest": "^3.2.8",
-    "mongodb": "^5.4.0",
-    "enzyme": "^9.1.4",
-    "graphql": "^7.1.1",
-    "firebase": "^7.7.2",
-    "eslint": "^6.3.4"
+    "express": "^7.3.8",
+    "ember": "^5.6.0",
+    "babel": "^4.3.0",
+    "firebase": "^0.0.3",
+    "jasmine": "^5.4.0",
+    "react": "^9.8.5"
   }
 }
