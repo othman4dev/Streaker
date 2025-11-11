@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    e.preventDefault();
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+});

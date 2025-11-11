@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^4.1.7",
-    "svelte": "^4.6.3",
-    "nightwatch": "^3.4.3",
-    "protractor": "^4.7.5",
-    "mocha": "^4.5.2"
+    "mocha": "^2.7.1",
+    "nightwatch": "^6.7.6",
+    "react": "^3.9.7",
+    "socket.io": "^3.0.4",
+    "express": "^6.8.0",
+    "protractor": "^4.1.7"
   }
 }
