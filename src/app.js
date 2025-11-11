@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("hideModal condition met");
-    data.push(value);
-    return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
