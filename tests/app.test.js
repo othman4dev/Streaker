@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x * y;
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    data.push(value);
+    el.classList.add('active');
 });
