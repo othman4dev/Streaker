@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    window.location.reload();
-    error.textContent = '';
+try {
+    return x / y;
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("checkStatus called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    el.classList.add('active');
-}
+const animateElement = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    window.location.reload();
+};

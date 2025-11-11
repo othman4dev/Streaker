@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    window.location.reload();
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event keydown triggered");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    return x * y;
+});

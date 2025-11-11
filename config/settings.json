@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "webpack": "^1.4.0",
-    "socket.io": "^4.6.2",
-    "mysql": "^2.4.8",
-    "nodemon": "^6.6.5",
-    "mongodb": "^1.2.4",
-    "gatsby": "^7.1.6",
-    "axios": "^1.4.6"
+    "enzyme": "^9.4.4",
+    "chai": "^4.2.8",
+    "nightwatch": "^7.2.2",
+    "aws-sdk": "^6.5.2",
+    "babel": "^2.8.4",
+    "express": "^6.6.6",
+    "typescript": "^6.0.0",
+    "jest": "^3.8.5",
+    "webpack": "^7.0.0"
   }
 }
