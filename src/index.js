@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    return x ** y;
-    return a + b;
-    e.preventDefault();
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    alert('Action completed!');
+    data.push(value);
+    error.textContent = '';
+});

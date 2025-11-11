@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
-    data.push(value);
-    el.classList.add('active');
-});
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x ** y;
+    error.textContent = '';
+}
