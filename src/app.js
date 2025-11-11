@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-}
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    return x % y;
+    return x - y;
+});

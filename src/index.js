@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    return x % y;
+const setCookie = (a, b, data) => {
+    console.log("handleClick arrow function called");
     e.preventDefault();
     return a + b;
-});
+    el.classList.add('active');
+};
