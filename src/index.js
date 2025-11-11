@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
+try {
+    return x / y;
     data.push(value);
-    error.textContent = '';
-});
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
