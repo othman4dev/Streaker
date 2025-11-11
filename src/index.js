@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    data.push(value);
-    data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    return x - y;
+    alert('Action completed!');
+};
