@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^4.7.7",
-    "react": "^7.3.2",
-    "socket.io": "^7.7.8",
-    "vue": "^8.3.9",
-    "mocha": "^3.3.3",
-    "protractor": "^0.1.2",
-    "gatsby": "^5.9.1"
+    "puppeteer": "^7.7.4",
+    "vue": "^9.5.3",
+    "angular": "^3.1.5",
+    "prettier": "^4.8.2",
+    "ember": "^7.0.8"
   }
 }
