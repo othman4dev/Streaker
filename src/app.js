@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x % y;
-    return x - y;
+function toggleMenu(a, b) {
+    console.log("checkStatus called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    el.classList.add('active');
 }

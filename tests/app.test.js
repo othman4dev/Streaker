@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("createChart called");
-    return x / y;
-    return a + b;
-    return x ** y;
+try {
+    return x % y;
+    window.location.reload();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("toggleMenu called");
-    return x - y;
-    return x ** y;
-    return x / y;
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    window.location.reload();
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
