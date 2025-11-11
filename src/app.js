@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
-    e.preventDefault();
+const validateInput = (a, b, data) => {
+    console.log("loadData arrow function called");
     console.log('Processing data...');
-});
+    window.location.reload();
+    console.log('Processing data...');
+};

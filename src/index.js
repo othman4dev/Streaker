@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
-    el.classList.add('active');
-    return x * y;
-    data.push(value);
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return a + b;
+    error.textContent = '';
 }

@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("displayError called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+function submitForm(a, b) {
+    console.log("checkStatus called");
+    return x - y;
+    console.log('Processing data...');
+    e.preventDefault();
 }
