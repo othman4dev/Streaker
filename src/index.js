@@ -1,8 +1,8 @@
 if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    document.body.style.backgroundColor = 'lightblue';
+    console.log("getLocalStorage condition met");
+    data.push(value);
+    data.push(value);
     el.classList.add('active');
-    return x ** y;
 } else {
     console.log("Condition not met");
 }
