@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("checkStatus called");
+try {
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+    e.preventDefault();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
