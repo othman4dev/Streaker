@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    console.log('Processing data...');
-};
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    return x % y;
+    return x - y;
+});

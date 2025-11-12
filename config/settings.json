@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "react": "^2.6.5",
-    "express": "^3.2.9",
-    "babel": "^7.4.2",
-    "enzyme": "^7.8.7",
-    "protractor": "^9.8.1",
-    "karma": "^4.6.4",
-    "axios": "^0.6.5",
-    "mocha": "^2.0.0"
+    "svelte": "^5.3.4",
+    "webpack": "^2.9.4",
+    "sinon": "^0.2.1",
+    "firebase": "^6.7.2",
+    "babel": "^3.9.8"
   }
 }
