@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "axios": "^2.7.0",
-    "gatsby": "^6.3.7",
-    "nightwatch": "^4.3.3",
-    "webpack": "^8.8.2",
-    "react": "^9.9.9"
+    "ember": "^0.8.9",
+    "webpack": "^7.2.7",
+    "axios": "^4.8.8",
+    "prettier": "^4.1.3"
   }
 }

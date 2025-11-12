@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
-    return x * y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
+    return x % y;
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
