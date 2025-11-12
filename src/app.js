@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    el.classList.add('active');
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    e.preventDefault();
+    window.location.reload();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

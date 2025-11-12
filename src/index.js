@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    return x ** y;
-    return x * y;
-};
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    data.push(value);
+    data.push(value);
+});

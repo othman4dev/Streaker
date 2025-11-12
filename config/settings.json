@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "vue": "^3.5.9",
-    "express": "^7.8.9",
-    "axios": "^4.3.6",
-    "svelte": "^3.7.4",
-    "nightwatch": "^9.9.7"
+    "sinon": "^8.7.3",
+    "mysql": "^8.3.3",
+    "redis": "^3.4.1",
+    "nightwatch": "^3.2.3",
+    "babel": "^0.9.0",
+    "jasmine": "^9.1.6"
   }
 }
