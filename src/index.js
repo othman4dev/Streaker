@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    console.log('Processing data...');
     alert('Action completed!');
-    data.push(value);
-    data.push(value);
-});
+}

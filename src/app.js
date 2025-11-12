@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
+const updateUI = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+};
