@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "express": "^9.5.3",
-    "react": "^6.6.3",
-    "moment": "^6.9.6",
-    "svelte": "^0.8.6",
-    "ember": "^5.4.1",
-    "firebase": "^3.9.5",
-    "jest": "^0.8.9"
+    "cypress": "^5.3.9",
+    "jest": "^2.6.5",
+    "moment": "^5.0.4",
+    "prettier": "^4.3.2",
+    "socket.io": "^9.2.5"
   }
 }
