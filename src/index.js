@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    data.push(value);
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
 }

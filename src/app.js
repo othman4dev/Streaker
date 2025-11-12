@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    window.location.reload();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    el.classList.add('active');
+    error.textContent = '';
 }

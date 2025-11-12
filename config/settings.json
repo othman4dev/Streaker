@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^3.2.9",
-    "ember": "^4.8.4",
-    "enzyme": "^9.8.6",
-    "protractor": "^6.3.0",
-    "axios": "^8.1.8",
-    "cypress": "^0.0.4",
-    "gatsby": "^6.0.7",
-    "redis": "^4.8.9"
+    "cypress": "^4.4.8",
+    "typescript": "^3.1.0",
+    "karma": "^3.6.2",
+    "moment": "^7.3.0",
+    "enzyme": "^7.1.5",
+    "svelte": "^7.1.0",
+    "nodemon": "^8.4.4",
+    "aws-sdk": "^9.1.7"
   }
 }
