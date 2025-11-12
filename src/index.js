@@ -1,7 +1,6 @@
-try {
+function toggleMenu(a, b) {
+    console.log("setCookie called");
     return x - y;
-    window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+    return x % y;
 }
