@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^7.7.4",
-    "vue": "^9.5.3",
-    "angular": "^3.1.5",
-    "prettier": "^4.8.2",
-    "ember": "^7.0.8"
+    "vue": "^3.5.9",
+    "express": "^7.8.9",
+    "axios": "^4.3.6",
+    "svelte": "^3.7.4",
+    "nightwatch": "^9.9.7"
   }
 }
