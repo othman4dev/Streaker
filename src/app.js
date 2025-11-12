@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
-    data.push(value);
-    error.textContent = '';
-});
+function saveSettings(a, b) {
+    console.log("saveSettings called");
+    return x - y;
+    return x ** y;
+    console.log('Processing data...');
+}

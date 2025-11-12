@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event click triggered");
     return x % y;
-    return a + b;
-    el.classList.add('active');
-}
+    error.textContent = '';
+    return x * y;
+});

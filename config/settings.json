@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^0.0.6",
-    "vue": "^0.8.5",
-    "mysql": "^1.2.6",
-    "react": "^3.4.2",
-    "lodash": "^1.2.6"
+    "mocha": "^1.9.3",
+    "react": "^3.7.8",
+    "express": "^6.7.9",
+    "graphql": "^8.9.0",
+    "jest": "^3.7.7",
+    "socket.io": "^0.1.1"
   }
 }

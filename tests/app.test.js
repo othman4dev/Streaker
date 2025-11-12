@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
+function hideModal(a, b) {
+    console.log("renderList called");
+    return x * y;
     alert('Action completed!');
-    return x / y;
-    data.push(value);
-});
+    return x % y;
+}
