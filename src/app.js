@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    return a + b;
-    return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+try {
+    e.preventDefault();
+    window.location.reload();
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

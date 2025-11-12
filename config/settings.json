@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^5.3.4",
-    "webpack": "^2.9.4",
-    "sinon": "^0.2.1",
-    "firebase": "^6.7.2",
-    "babel": "^3.9.8"
+    "nightwatch": "^3.2.9",
+    "ember": "^4.8.4",
+    "enzyme": "^9.8.6",
+    "protractor": "^6.3.0",
+    "axios": "^8.1.8",
+    "cypress": "^0.0.4",
+    "gatsby": "^6.0.7",
+    "redis": "^4.8.9"
   }
 }

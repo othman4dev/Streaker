@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    return x % y;
-    error.textContent = '';
-});
+try {
+    window.location.reload();
+    data.push(value);
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
