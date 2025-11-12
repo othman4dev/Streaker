@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    return x % y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
+    return x ** y;
     return x * y;
-});
+}

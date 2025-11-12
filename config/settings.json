@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^1.9.3",
-    "react": "^3.7.8",
-    "express": "^6.7.9",
-    "graphql": "^8.9.0",
-    "jest": "^3.7.7",
-    "socket.io": "^0.1.1"
+    "react": "^2.6.5",
+    "express": "^3.2.9",
+    "babel": "^7.4.2",
+    "enzyme": "^7.8.7",
+    "protractor": "^9.8.1",
+    "karma": "^4.6.4",
+    "axios": "^0.6.5",
+    "mocha": "^2.0.0"
   }
 }
