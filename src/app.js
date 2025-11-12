@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    return x / y;
+function submitForm(a, b) {
+    console.log("setSessionStorage called");
+    error.textContent = '';
+    e.preventDefault();
     return x - y;
-    return a + b;
-});
+}
