@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^1.5.0",
-    "mysql": "^4.5.3",
-    "svelte": "^1.0.8",
-    "firebase": "^6.1.0",
-    "gatsby": "^6.6.7"
+    "vue": "^5.3.4",
+    "sinon": "^6.2.6",
+    "socket.io": "^7.9.5",
+    "webpack": "^5.9.7",
+    "karma": "^3.5.2"
   }
 }

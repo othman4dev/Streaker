@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("setCookie called");
-    return x - y;
-    return x * y;
-    return x % y;
+switch (e) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
