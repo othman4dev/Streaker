@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("processInput called");
-    return x / y;
-    e.preventDefault();
-    return x * y;
-}
+const renderList = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x ** y;
+    alert('Action completed!');
+    data.push(value);
+};

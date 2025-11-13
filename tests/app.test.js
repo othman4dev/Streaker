@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    return a + b;
+};
