@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x - y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+const hideModal = (a, b, data) => {
+    console.log("processInput arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    return a + b;
 };

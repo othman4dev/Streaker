@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
+    return x - y;
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    el.classList.add('active');
+try {
+    return x / y;
     return x * y;
-    console.log('Processing data...');
-};
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
