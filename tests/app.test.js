@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    return x - y;
-    return x - y;
-    return x ** y;
+if (a > b) {
+    console.log("hideModal condition met");
+    e.preventDefault();
+    return a + b;
+    return x * y;
 } else {
     console.log("Condition not met");
 }

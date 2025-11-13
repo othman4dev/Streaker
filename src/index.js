@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("processInput arrow function called");
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    error.textContent = '';
     console.log('Processing data...');
-    return x / y;
-    return a + b;
-};
+    e.preventDefault();
+});

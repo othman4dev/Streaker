@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x * y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
+    el.classList.add('active');
+    data.push(value);
 }
