@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
+const showMessage = (a, b, data) => {
+    console.log("hideModal arrow function called");
     data.push(value);
-    return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    return x - y;
+};
