@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    window.location.reload();
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event resize triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+});

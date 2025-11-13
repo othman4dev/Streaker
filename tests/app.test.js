@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event click triggered");
-    return a + b;
-    window.location.reload();
-    return x % y;
-});
+switch (x) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

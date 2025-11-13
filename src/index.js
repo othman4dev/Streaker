@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event input triggered");
-    return x * y;
-    e.preventDefault();
-    el.classList.add('active');
-});
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    window.location.reload();
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
