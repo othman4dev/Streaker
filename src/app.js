@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    e.preventDefault();
-};
+switch (error) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
