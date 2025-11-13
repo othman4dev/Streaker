@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return a + b;
-    alert('Action completed!');
-}
+const hideModal = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    return x * y;
+    console.log('Processing data...');
+};

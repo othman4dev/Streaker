@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("showMessage arrow function called");
+const showMessage = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x - y;
     return x ** y;
-    alert('Action completed!');
-    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 };

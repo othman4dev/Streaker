@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
-    window.location.reload();
-    return a + b;
-};
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});

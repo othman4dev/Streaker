@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^9.9.6",
-    "mongodb": "^1.4.5",
-    "jest": "^1.2.1",
-    "lodash": "^8.2.7",
-    "express": "^7.5.5",
-    "graphql": "^5.8.2",
-    "enzyme": "^0.2.3"
+    "webpack": "^6.2.1",
+    "sinon": "^9.9.2",
+    "next.js": "^5.3.5",
+    "socket.io": "^1.2.5",
+    "prettier": "^1.2.3"
   }
 }
