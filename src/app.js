@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("setSessionStorage called");
-    return a + b;
-    el.classList.add('active');
-    data.push(value);
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x ** y;
+    alert('Action completed!');
 }

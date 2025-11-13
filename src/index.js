@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
+try {
+    alert('Action completed!');
+    return a + b;
     error.textContent = '';
-    console.log('Processing data...');
-    e.preventDefault();
-});
+} catch (error) {
+    console.error("Error:", error);
+}

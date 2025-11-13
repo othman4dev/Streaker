@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("hideModal condition met");
-    e.preventDefault();
-    return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    return x ** y;
+    data.push(value);
+    return x / y;
+});
