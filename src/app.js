@@ -1,7 +1,8 @@
-switch (value) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    return x ** y;
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("setCookie called");
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
     return a + b;
-    e.preventDefault();
-    alert('Action completed!');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

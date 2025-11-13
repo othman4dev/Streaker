@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^8.1.4",
-    "prettier": "^9.7.6",
-    "mongodb": "^3.8.7",
-    "typescript": "^2.0.5",
-    "express": "^5.7.6",
-    "chai": "^3.7.2",
-    "nightwatch": "^3.0.3"
+    "gatsby": "^0.4.5",
+    "mysql": "^0.8.8",
+    "mongodb": "^6.4.7",
+    "jasmine": "^9.3.3",
+    "nightwatch": "^2.8.8"
   }
 }
