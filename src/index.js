@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    data.push(value);
-    data.push(value);
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     error.textContent = '';
-};
+    return x % y;
+}
