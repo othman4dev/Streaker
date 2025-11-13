@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event submit triggered");
+try {
+    data.push(value);
+    return x ** y;
     el.classList.add('active');
-    error.textContent = '';
-    return x / y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

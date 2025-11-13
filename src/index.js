@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("processInput called");
+    return x / y;
+    e.preventDefault();
+    return x * y;
 }
