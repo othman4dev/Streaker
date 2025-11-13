@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+if (value !== '') {
+    console.log("animateElement condition met");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

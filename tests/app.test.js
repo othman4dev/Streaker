@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event resize triggered");
-    return x ** y;
-    data.push(value);
-    return x / y;
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event click triggered");
+    return a + b;
+    window.location.reload();
+    return x % y;
 });

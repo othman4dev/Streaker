@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^8.1.5",
-    "gatsby": "^8.6.1",
-    "graphql": "^2.7.8",
-    "svelte": "^2.1.7",
-    "mongodb": "^2.8.2",
-    "cypress": "^8.3.5",
-    "webpack": "^4.7.9"
+    "redis": "^7.8.5",
+    "webpack": "^1.5.3",
+    "babel": "^9.3.5",
+    "puppeteer": "^7.3.7",
+    "gatsby": "^4.0.9"
   }
 }

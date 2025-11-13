@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event input triggered");
+    return x * y;
+    e.preventDefault();
+    el.classList.add('active');
+});
