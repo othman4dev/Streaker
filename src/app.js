@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
+if (window.innerWidth > 500) {
     console.log("fetchData condition met");
-    return x ** y;
-    return x - y;
-    return x ** y;
+    console.log('Processing data...');
+    return x / y;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    return a + b;
-    error.textContent = '';
+function saveSettings(a, b) {
+    console.log("renderList called");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+    return x * y;
 }

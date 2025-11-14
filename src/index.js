@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("showMessage condition met");
+    data.push(value);
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
