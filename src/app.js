@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    error.textContent = '';
-    return x * y;
-});
+function submitForm(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    alert('Action completed!');
+}
