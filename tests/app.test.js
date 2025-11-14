@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    el.classList.add('active');
 }

@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^0.0.6",
-    "enzyme": "^5.7.5",
-    "mysql": "^7.3.8",
-    "aws-sdk": "^3.7.9",
-    "jasmine": "^1.6.8",
-    "firebase": "^0.6.3",
-    "gatsby": "^6.6.0"
+    "webpack": "^2.8.3",
+    "ember": "^1.0.1",
+    "moment": "^1.4.7",
+    "gatsby": "^5.7.2",
+    "socket.io": "^8.6.7",
+    "firebase": "^9.2.8"
   }
 }
