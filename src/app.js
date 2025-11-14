@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    return x / y;
+function toggleMenu(a, b) {
+    console.log("removeItem called");
     error.textContent = '';
-};
+    alert('Action completed!');
+    return x % y;
+}

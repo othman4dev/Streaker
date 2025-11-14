@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "express": "^9.4.0",
-    "karma": "^5.8.4",
-    "jest": "^4.3.3",
-    "webpack": "^0.3.3",
-    "prettier": "^0.3.8"
+    "sinon": "^5.1.8",
+    "mongodb": "^2.8.5",
+    "jest": "^0.0.1",
+    "chai": "^2.8.5",
+    "lodash": "^7.9.1"
   }
 }
