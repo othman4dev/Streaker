@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    el.classList.add('active');
+function getLocalStorage(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
     return x / y;
     window.location.reload();
-});
+}

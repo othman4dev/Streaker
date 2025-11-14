@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^2.8.3",
-    "ember": "^1.0.1",
-    "moment": "^1.4.7",
-    "gatsby": "^5.7.2",
-    "socket.io": "^8.6.7",
-    "firebase": "^9.2.8"
+    "gatsby": "^1.7.9",
+    "express": "^9.3.7",
+    "eslint": "^4.8.6",
+    "webpack": "^3.9.0",
+    "enzyme": "^6.2.0"
   }
 }
