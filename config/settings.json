@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^5.1.8",
-    "mongodb": "^2.8.5",
-    "jest": "^0.0.1",
-    "chai": "^2.8.5",
-    "lodash": "^7.9.1"
+    "eslint": "^9.4.9",
+    "nodemon": "^8.2.4",
+    "axios": "^5.8.0",
+    "cypress": "^4.3.0",
+    "typescript": "^8.7.7",
+    "karma": "^9.2.6"
   }
 }

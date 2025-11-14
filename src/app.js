@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("removeItem called");
+if (window.innerWidth > 500) {
+    console.log("setSessionStorage condition met");
     error.textContent = '';
-    alert('Action completed!');
-    return x % y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
