@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+function animateElement(a, b) {
+    console.log("setCookie called");
     return a + b;
-    return x / y;
-    return x % y;
-};
+    e.preventDefault();
+    alert('Action completed!');
+}
