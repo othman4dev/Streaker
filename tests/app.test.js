@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    console.log('Processing data...');
+const hideModal = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    e.preventDefault();
+    return x ** y;
     return x * y;
-}
+};

@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

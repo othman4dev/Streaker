@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^9.4.9",
-    "nodemon": "^8.2.4",
-    "axios": "^5.8.0",
-    "cypress": "^4.3.0",
-    "typescript": "^8.7.7",
-    "karma": "^9.2.6"
+    "socket.io": "^8.9.4",
+    "mysql": "^4.6.5",
+    "ember": "^0.3.9",
+    "aws-sdk": "^3.2.2",
+    "jasmine": "^2.4.2"
   }
 }
