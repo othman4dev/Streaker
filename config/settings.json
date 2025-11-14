@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^9.4.0",
-    "firebase": "^3.3.5",
-    "typescript": "^9.9.6",
-    "protractor": "^7.9.9",
-    "sinon": "^9.2.1",
-    "webpack": "^5.1.9",
-    "svelte": "^9.4.8"
+    "protractor": "^0.0.6",
+    "enzyme": "^5.7.5",
+    "mysql": "^7.3.8",
+    "aws-sdk": "^3.7.9",
+    "jasmine": "^1.6.8",
+    "firebase": "^0.6.3",
+    "gatsby": "^6.6.0"
   }
 }
