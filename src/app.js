@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("checkStatus called");
-    el.classList.add('active');
-    return x - y;
-    alert('Action completed!');
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x / y;
+    return x / y;
+    error.textContent = '';
+};
