@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    alert('Action completed!');
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    e.preventDefault();
+    return a + b;
 }

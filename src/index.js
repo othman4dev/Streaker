@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
+const getLocalStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    error.textContent = '';
     return x - y;
-    return x - y;
-});
+    return x % y;
+};
