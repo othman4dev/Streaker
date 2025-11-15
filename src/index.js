@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    alert('Action completed!');
-    return a + b;
-};
+switch (e) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
