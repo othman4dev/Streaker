@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    window.location.reload();
+const getLocalStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return a + b;
-    el.classList.add('active');
-});
+    console.log('Processing data...');
+    return x % y;
+};
