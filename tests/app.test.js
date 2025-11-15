@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("renderList called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x * y;
-}
+const hideModal = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x - y;
+    return x / y;
+    return x / y;
+};

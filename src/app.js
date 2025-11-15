@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    console.log('Processing data...');
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function handleClick(a, b) {
+    console.log("renderList called");
+    return x ** y;
+    return x * y;
+    el.classList.add('active');
 }

@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    data.push(value);
-    return a + b;
-    return a + b;
+if (x !== y) {
+    console.log("createChart condition met");
+    el.classList.add('active');
+    window.location.reload();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
