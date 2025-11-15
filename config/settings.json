@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "ember": "^0.3.9",
-    "jest": "^4.6.0",
-    "axios": "^3.4.4",
-    "express": "^2.0.8",
-    "next.js": "^4.3.7",
-    "aws-sdk": "^9.8.1",
-    "gatsby": "^6.8.1"
+    "angular": "^4.9.2",
+    "next.js": "^4.8.2",
+    "jest": "^8.8.0",
+    "ember": "^3.9.1",
+    "karma": "^4.3.3",
+    "protractor": "^3.6.7"
   }
 }

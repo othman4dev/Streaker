@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    el.classList.add('active');
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    return x ** y;
 }

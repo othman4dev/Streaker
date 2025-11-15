@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x - y;
-    return x / y;
-    return x / y;
-};
+if (x === y) {
+    console.log("getLocalStorage condition met");
+    data.push(value);
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

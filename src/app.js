@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("renderList called");
+try {
+    return a + b;
     return x ** y;
-    return x * y;
-    el.classList.add('active');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
