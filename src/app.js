@@ -1,7 +1,6 @@
-try {
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    window.location.reload();
     return a + b;
-    return x ** y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+});

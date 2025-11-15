@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("getLocalStorage condition met");
-    data.push(value);
-    e.preventDefault();
+function handleClick(a, b) {
+    console.log("fetchData called");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    data.push(value);
 }
