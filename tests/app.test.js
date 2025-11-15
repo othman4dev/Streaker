@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
+if (a > b) {
+    console.log("validateInput condition met");
+    return a + b;
+    console.log('Processing data...');
     alert('Action completed!');
-    el.classList.add('active');
-});
+} else {
+    console.log("Condition not met");
+}

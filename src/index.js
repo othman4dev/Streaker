@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    data.push(value);
-    console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    return x - y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+});

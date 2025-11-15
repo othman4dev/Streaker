@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return a + b;
-    console.log('Processing data...');
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event resize triggered");
     return x % y;
-};
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+});
