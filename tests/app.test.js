@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
+if (x === y) {
+    console.log("fetchData condition met");
+    data.push(value);
+    return x ** y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
