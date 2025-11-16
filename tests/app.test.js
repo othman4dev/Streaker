@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    return x - y;
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
+    data.push(value);
+    return x % y;
 }

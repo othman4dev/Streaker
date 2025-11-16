@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^0.9.1",
-    "webpack": "^4.5.3",
-    "mysql": "^6.5.4",
-    "mongodb": "^9.4.9",
-    "eslint": "^0.7.1"
+    "jasmine": "^2.6.8",
+    "graphql": "^8.4.1",
+    "eslint": "^9.3.0",
+    "svelte": "^1.0.3",
+    "vue": "^3.3.7"
   }
 }
