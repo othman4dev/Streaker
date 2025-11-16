@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    return x / y;
-    return x - y;
-});
+function handleClick(a, b) {
+    console.log("loadData called");
+    return x * y;
+    return a + b;
+    window.location.reload();
+}
