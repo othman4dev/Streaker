@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+const processInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     data.push(value);
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    return a + b;
+};

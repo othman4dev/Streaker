@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
+if (x === y) {
+    console.log("setCookie condition met");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
