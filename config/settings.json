@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^2.6.8",
-    "graphql": "^8.4.1",
-    "eslint": "^9.3.0",
-    "svelte": "^1.0.3",
-    "vue": "^3.3.7"
+    "karma": "^5.0.8",
+    "puppeteer": "^2.3.4",
+    "enzyme": "^6.0.5",
+    "eslint": "^1.8.5",
+    "mysql": "^8.7.8"
   }
 }

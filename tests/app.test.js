@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    data.push(value);
+const renderList = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x * y;
     return x % y;
-}
+    error.textContent = '';
+};
