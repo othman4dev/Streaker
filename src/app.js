@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("updateUI called");
-    return x - y;
-    console.log('Processing data...');
+try {
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
