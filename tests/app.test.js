@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("loadData called");
-    return x * y;
-    return a + b;
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x - y;
     window.location.reload();
 }

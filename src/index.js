@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    error.textContent = '';
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    return x / y;
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+});
