@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    return a + b;
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

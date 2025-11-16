@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    return x - y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return a + b;
+}
