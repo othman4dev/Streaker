@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    data.push(value);
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }

@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jest": "^8.5.4",
-    "puppeteer": "^7.0.0",
-    "angular": "^7.4.1",
-    "graphql": "^4.1.1",
-    "cypress": "^5.1.4",
-    "aws-sdk": "^8.9.7"
+    "moment": "^6.6.9",
+    "svelte": "^3.3.0",
+    "lodash": "^4.2.3",
+    "karma": "^0.5.2",
+    "graphql": "^8.4.9",
+    "sinon": "^4.4.6",
+    "socket.io": "^4.5.8"
   }
 }

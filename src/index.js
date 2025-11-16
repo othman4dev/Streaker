@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    data.push(value);
+try {
     return x ** y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    return a + b;
-    data.push(value);
+const createChart = (a, b, data) => {
+    console.log("createChart arrow function called");
+    alert('Action completed!');
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+};
