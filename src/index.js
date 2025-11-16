@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("createChart called");
-    return x % y;
+if (data.length > 0) {
+    console.log("hideModal condition met");
+    data.push(value);
     return x ** y;
-    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

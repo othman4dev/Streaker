@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x ** y;
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    return a + b;
+    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
