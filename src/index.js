@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    e.preventDefault();
-    return a + b;
+function displayError(a, b) {
+    console.log("createChart called");
+    return x % y;
+    return x ** y;
+    alert('Action completed!');
 }

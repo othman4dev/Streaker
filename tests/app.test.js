@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    return x ** y;
+    return x % y;
+});
