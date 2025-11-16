@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("updateUI called");
+    error.textContent = '';
+    e.preventDefault();
+    error.textContent = '';
 }
