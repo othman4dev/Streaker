@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    data.push(value);
-    return x ** y;
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+});

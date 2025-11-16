@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event resize triggered");
     data.push(value);
-    el.classList.add('active');
-    return x / y;
-}
+    return a + b;
+    return x * y;
+});
