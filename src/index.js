@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const validateInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x % y;
+    window.location.reload();
+    return x / y;
+};

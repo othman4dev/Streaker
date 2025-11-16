@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    return x - y;
+const toggleMenu = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
     e.preventDefault();
-    return x * y;
-}
+    return a + b;
+};
