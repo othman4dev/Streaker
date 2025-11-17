@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^3.3.8",
-    "react": "^6.1.8",
-    "mongodb": "^0.2.9",
-    "mocha": "^9.0.0",
-    "moment": "^4.9.1"
+    "nodemon": "^2.0.5",
+    "nightwatch": "^8.1.8",
+    "next.js": "^3.7.5",
+    "karma": "^2.4.9",
+    "lodash": "^2.4.0",
+    "typescript": "^5.7.8"
   }
 }

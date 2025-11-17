@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    window.location.reload();
-});
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    return a + b;
+    return a + b;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
