@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
+if (a > b) {
+    console.log("processInput condition met");
+    window.location.reload();
     data.push(value);
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

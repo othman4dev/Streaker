@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event load triggered");
+    return x * y;
+    return x - y;
+    window.location.reload();
+});
