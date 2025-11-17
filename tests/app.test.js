@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    window.location.reload();
-};
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    return x * y;
+    error.textContent = '';
+});
