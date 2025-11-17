@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^8.0.2",
-    "enzyme": "^2.4.8",
-    "svelte": "^3.3.0",
-    "jest": "^7.1.4",
-    "eslint": "^7.5.9",
-    "socket.io": "^8.0.5",
-    "graphql": "^7.4.1"
+    "karma": "^1.9.0",
+    "graphql": "^4.2.6",
+    "chai": "^8.6.6",
+    "express": "^8.6.0",
+    "babel": "^0.0.7",
+    "socket.io": "^1.2.1",
+    "axios": "^6.6.9",
+    "gatsby": "^6.7.5"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x - y;
+const submitForm = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x ** y;
+    console.log('Processing data...');
     window.location.reload();
-}
+};
