@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-}
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    error.textContent = '';
+    e.preventDefault();
+};
