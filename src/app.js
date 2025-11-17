@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    console.log('Processing data...');
-    return a + b;
+function removeItem(a, b) {
+    console.log("processInput called");
+    return x - y;
+    e.preventDefault();
+    return x * y;
 }
