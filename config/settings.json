@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^4.3.1",
-    "webpack": "^4.2.6",
-    "mysql": "^2.0.1",
-    "eslint": "^4.1.5",
-    "svelte": "^3.8.7",
-    "nightwatch": "^8.4.0",
-    "aws-sdk": "^6.2.5"
+    "puppeteer": "^3.3.8",
+    "react": "^6.1.8",
+    "mongodb": "^0.2.9",
+    "mocha": "^9.0.0",
+    "moment": "^4.9.1"
   }
 }

@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("saveSettings called");
-    e.preventDefault();
-    return x * y;
-    el.classList.add('active');
-}
+const fetchData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+};

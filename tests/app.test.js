@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return x * y;
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     return x - y;
-    window.location.reload();
-});
+    el.classList.add('active');
+}
