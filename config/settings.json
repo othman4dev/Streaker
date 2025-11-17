@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.5.1",
-    "axios": "^8.5.7",
-    "babel": "^2.9.1",
-    "jest": "^5.7.7",
-    "nodemon": "^1.7.3"
+    "chai": "^8.2.2",
+    "moment": "^9.7.2",
+    "jest": "^4.8.7",
+    "prettier": "^5.3.4",
+    "jasmine": "^4.1.3",
+    "nightwatch": "^8.8.2"
   }
 }

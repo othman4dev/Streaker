@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    return x * y;
-    return x ** y;
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    data.push(value);
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

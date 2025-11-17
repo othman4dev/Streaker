@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x ** y;
+    e.preventDefault();
+    return x ** y;
+};

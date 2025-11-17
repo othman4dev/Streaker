@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    el.classList.add('active');
-};
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x * y;
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
