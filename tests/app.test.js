@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    alert('Action completed!');
+const setSessionStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return a + b;
+};

@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    e.preventDefault();
-    error.textContent = '';
-    e.preventDefault();
-};
+switch (e) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
