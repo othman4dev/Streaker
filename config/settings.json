@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^2.8.7",
-    "cypress": "^0.9.3",
-    "gatsby": "^3.9.2",
-    "mocha": "^5.1.1",
-    "sinon": "^5.3.5",
-    "mysql": "^5.9.0",
-    "lodash": "^1.2.7"
+    "react": "^8.1.8",
+    "cypress": "^2.9.4",
+    "jest": "^3.9.9",
+    "nodemon": "^6.1.5",
+    "webpack": "^4.2.6",
+    "lodash": "^8.5.8",
+    "chai": "^3.3.8",
+    "express": "^2.0.0"
   }
 }
