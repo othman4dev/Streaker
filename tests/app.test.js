@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("validateInput called");
+    data.push(value);
     e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }
