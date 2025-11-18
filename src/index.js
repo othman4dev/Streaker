@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    return x % y;
-    window.location.reload();
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    return x / y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

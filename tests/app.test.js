@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    e.preventDefault();
-    return x ** y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x - y;
+    return x % y;
 }
