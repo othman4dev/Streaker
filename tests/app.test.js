@@ -1,7 +1,6 @@
-try {
+const showMessage = (a, b, data) => {
+    console.log("animateElement arrow function called");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    return x - y;
+};

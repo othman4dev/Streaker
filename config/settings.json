@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "chai": "^7.6.6",
-    "angular": "^6.0.4",
-    "jest": "^4.3.9",
-    "sinon": "^9.1.5",
-    "webpack": "^0.5.4"
+    "ember": "^2.2.9",
+    "eslint": "^9.6.0",
+    "puppeteer": "^2.2.2",
+    "typescript": "^4.4.2",
+    "socket.io": "^6.5.4",
+    "firebase": "^4.7.5",
+    "enzyme": "^2.8.2"
   }
 }
