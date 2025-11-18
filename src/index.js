@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("fetchData called");
-    alert('Action completed!');
-    return x / y;
-    return x ** y;
+if (value !== '') {
+    console.log("processInput condition met");
+    return x % y;
+    window.location.reload();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

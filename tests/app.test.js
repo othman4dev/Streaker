@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
+    e.preventDefault();
+    return x ** y;
 }
