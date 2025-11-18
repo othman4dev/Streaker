@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    el.classList.add('active');
-    error.textContent = '';
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x - y;
+    console.log('Processing data...');
+    return x % y;
+};

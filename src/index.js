@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
-    error.textContent = '';
-    window.location.reload();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
+    return x / y;
+    return x ** y;
 }
