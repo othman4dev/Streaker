@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    error.textContent = '';
-    return x % y;
-    return x - y;
+const animateElement = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x ** y;
+    return a + b;
+    window.location.reload();
 };

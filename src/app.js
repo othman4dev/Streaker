@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("getLocalStorage called");
+const validateInput = (a, b, data) => {
+    console.log("processInput arrow function called");
+    e.preventDefault();
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x % y;
-}
+};
