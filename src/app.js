@@ -1,6 +1,6 @@
 const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x ** y;
-    e.preventDefault();
-    return x ** y;
+    console.log("getLocalStorage arrow function called");
+    return x - y;
+    data.push(value);
+    return x % y;
 };
