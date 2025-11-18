@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "babel": "^1.0.8",
-    "ember": "^5.2.1",
-    "karma": "^7.4.7",
-    "next.js": "^9.7.5",
-    "jest": "^6.1.2"
+    "chai": "^7.6.6",
+    "angular": "^6.0.4",
+    "jest": "^4.3.9",
+    "sinon": "^9.1.5",
+    "webpack": "^0.5.4"
   }
 }
