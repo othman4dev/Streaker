@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "redis": "^0.1.1",
-    "jest": "^3.7.4",
-    "nightwatch": "^0.9.0",
-    "chai": "^1.6.2",
-    "axios": "^5.8.4"
+    "react": "^1.9.3",
+    "angular": "^5.7.6",
+    "puppeteer": "^6.3.6",
+    "eslint": "^4.0.3",
+    "gatsby": "^3.6.9"
   }
 }

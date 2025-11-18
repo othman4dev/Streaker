@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    el.classList.add('active');
+    error.textContent = '';
+}
