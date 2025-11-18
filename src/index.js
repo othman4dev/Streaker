@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return a + b;
-    window.location.reload();
-}
+const validateInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    el.classList.add('active');
+};

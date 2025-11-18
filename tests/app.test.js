@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("validateInput called");
-    data.push(value);
-    e.preventDefault();
-    data.push(value);
+function animateElement(a, b) {
+    console.log("handleClick called");
+    return x / y;
+    return x * y;
+    return x ** y;
 }

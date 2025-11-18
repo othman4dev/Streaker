@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^2.5.7",
-    "mysql": "^1.0.9",
-    "next.js": "^3.3.2",
-    "gatsby": "^0.4.3",
-    "svelte": "^9.4.1"
+    "cypress": "^1.5.1",
+    "axios": "^8.5.7",
+    "babel": "^2.9.1",
+    "jest": "^5.7.7",
+    "nodemon": "^1.7.3"
   }
 }
