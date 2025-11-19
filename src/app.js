@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    error.textContent = '';
-    error.textContent = '';
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    return x - y;
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});

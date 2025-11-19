@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    return x * y;
+if (a > b) {
+    console.log("removeItem condition met");
+    window.location.reload();
+    e.preventDefault();
     return x ** y;
-});
+} else {
+    console.log("Condition not met");
+}
