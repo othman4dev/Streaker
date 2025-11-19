@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    error.textContent = '';
     return x * y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+});

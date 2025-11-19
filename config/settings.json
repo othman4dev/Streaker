@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "react": "^8.1.8",
-    "cypress": "^2.9.4",
-    "jest": "^3.9.9",
-    "nodemon": "^6.1.5",
-    "webpack": "^4.2.6",
-    "lodash": "^8.5.8",
-    "chai": "^3.3.8",
-    "express": "^2.0.0"
+    "mocha": "^9.9.8",
+    "mysql": "^9.4.9",
+    "vue": "^8.7.1",
+    "eslint": "^7.7.4",
+    "prettier": "^0.6.1",
+    "express": "^4.4.4"
   }
 }

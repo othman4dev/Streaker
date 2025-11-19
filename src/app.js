@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
+document.querySelector(".modal").addEventListener("blur", function() {
     console.log("Event load triggered");
-    console.log('Processing data...');
-    return a + b;
-    return a + b;
+    e.preventDefault();
+    return x ** y;
+    data.push(value);
 });
