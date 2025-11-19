@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    return x ** y;
-    data.push(value);
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

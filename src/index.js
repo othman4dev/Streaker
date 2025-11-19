@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    error.textContent = '';
-    return x * y;
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event load triggered");
+    return a + b;
+    data.push(value);
+    return x ** y;
 });

@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^9.9.8",
-    "mysql": "^9.4.9",
-    "vue": "^8.7.1",
-    "eslint": "^7.7.4",
-    "prettier": "^0.6.1",
-    "express": "^4.4.4"
+    "lodash": "^3.1.6",
+    "vue": "^1.7.3",
+    "jest": "^1.9.7",
+    "nightwatch": "^2.2.1",
+    "angular": "^6.0.0",
+    "webpack": "^0.6.9",
+    "firebase": "^5.1.3",
+    "prettier": "^0.3.0"
   }
 }
