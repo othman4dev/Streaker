@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setSessionStorage called");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+    alert('Action completed!');
+    return x % y;
 }
