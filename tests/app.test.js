@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x % y;
+if (x !== y) {
+    console.log("saveSettings condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

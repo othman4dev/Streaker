@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^5.4.9",
-    "typescript": "^3.3.9",
-    "prettier": "^5.6.0",
-    "nightwatch": "^4.9.4",
-    "sinon": "^6.2.5",
-    "svelte": "^8.9.1",
-    "firebase": "^6.6.8"
+    "jest": "^3.5.0",
+    "babel": "^4.7.3",
+    "nodemon": "^1.4.1",
+    "typescript": "^7.8.5",
+    "sinon": "^9.8.5",
+    "protractor": "^9.8.2"
   }
 }
