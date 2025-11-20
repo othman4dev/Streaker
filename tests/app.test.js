@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x - y;
-});
+function createChart(a, b) {
+    console.log("displayError called");
+    return x % y;
+    window.location.reload();
+    return a + b;
+}
