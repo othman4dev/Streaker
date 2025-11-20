@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^2.5.0",
-    "axios": "^7.9.9",
-    "graphql": "^5.4.9",
-    "express": "^6.1.4",
-    "puppeteer": "^5.7.9",
-    "moment": "^6.0.6"
+    "gatsby": "^6.0.1",
+    "nodemon": "^2.1.6",
+    "svelte": "^1.6.7",
+    "lodash": "^7.3.6",
+    "typescript": "^6.4.6",
+    "nightwatch": "^3.4.8",
+    "jasmine": "^1.8.5"
   }
 }

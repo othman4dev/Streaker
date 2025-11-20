@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
     error.textContent = '';
-    alert('Action completed!');
-    return x * y;
-}
+    return x / y;
+};

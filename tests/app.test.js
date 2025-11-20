@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("displayError called");
-    return x % y;
-    window.location.reload();
-    return a + b;
-}
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return x * y;
+    return x ** y;
+});
