@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    console.log('Processing data...');
-    return x * y;
-});
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    window.location.reload();
+    error.textContent = '';
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
