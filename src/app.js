@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("toggleMenu called");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x % y;
 }

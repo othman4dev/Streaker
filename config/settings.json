@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^7.4.9",
-    "ember": "^0.3.8",
-    "babel": "^8.2.6",
-    "next.js": "^7.6.9",
-    "jest": "^1.7.0",
-    "nodemon": "^8.8.8",
-    "firebase": "^2.7.1",
-    "aws-sdk": "^0.9.9",
-    "axios": "^0.5.8"
+    "webpack": "^8.7.1",
+    "axios": "^7.5.7",
+    "svelte": "^8.0.5",
+    "puppeteer": "^7.5.4",
+    "gatsby": "^7.7.1"
   }
 }
