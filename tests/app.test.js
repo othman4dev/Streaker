@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
+function updateUI(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    data.push(value);
-    return a + b;
-});
+}
