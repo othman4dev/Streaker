@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
