@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("toggleMenu called");
-    return x * y;
-    return x % y;
-    data.push(value);
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
