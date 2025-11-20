@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    alert('Action completed!');
-    return x * y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

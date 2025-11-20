@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    window.location.reload();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x - y;
+});

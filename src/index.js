@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
-    return x - y;
-    return x ** y;
-    alert('Action completed!');
-}
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
+    window.location.reload();
+    error.textContent = '';
+};
