@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+function toggleMenu(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    return x - y;
     return x / y;
 }

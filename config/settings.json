@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^4.2.1",
-    "express": "^1.9.8",
-    "mysql": "^7.7.1",
-    "jasmine": "^2.5.7",
-    "typescript": "^3.7.6",
-    "nodemon": "^2.6.0",
-    "babel": "^6.9.3"
+    "babel": "^9.0.3",
+    "chai": "^6.5.8",
+    "nightwatch": "^7.1.0",
+    "angular": "^7.7.3",
+    "axios": "^2.5.2"
   }
 }
