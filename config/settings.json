@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "babel": "^9.0.3",
-    "chai": "^6.5.8",
-    "nightwatch": "^7.1.0",
-    "angular": "^7.7.3",
-    "axios": "^2.5.2"
+    "sinon": "^8.7.2",
+    "prettier": "^5.8.5",
+    "moment": "^1.8.0",
+    "firebase": "^3.6.4",
+    "webpack": "^1.1.8"
   }
 }

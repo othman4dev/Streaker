@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    return x * y;
-    error.textContent = '';
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    return x ** y;
+    return x % y;
+}

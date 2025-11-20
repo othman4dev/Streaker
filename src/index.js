@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    return x * y;
-    error.textContent = '';
+function getLocalStorage(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    return x - y;
+    return x - y;
 }
