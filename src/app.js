@@ -1,7 +1,8 @@
-switch (error) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("checkStatus condition met");
+    window.location.reload();
+    window.location.reload();
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

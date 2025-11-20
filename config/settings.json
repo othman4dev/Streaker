@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.0.0",
-    "jest": "^8.2.3",
-    "axios": "^0.8.4",
-    "webpack": "^0.6.9",
-    "sinon": "^3.9.6",
-    "mongodb": "^0.6.0",
-    "protractor": "^3.7.2"
+    "moment": "^1.1.8",
+    "prettier": "^7.5.1",
+    "mongodb": "^3.2.3",
+    "lodash": "^0.5.9",
+    "eslint": "^6.0.9",
+    "aws-sdk": "^8.4.7"
   }
 }

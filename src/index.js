@@ -1,7 +1,6 @@
-try {
+const fetchData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x % y;
     window.location.reload();
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+};
