@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    data.push(value);
-    data.push(value);
-});
+if (a > b) {
+    console.log("saveSettings condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

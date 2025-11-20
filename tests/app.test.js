@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("removeItem condition met");
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    alert('Action completed!');
     window.location.reload();
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+});
