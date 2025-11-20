@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    return x / y;
-    return x - y;
-    e.preventDefault();
-});
+try {
+    data.push(value);
+    window.location.reload();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

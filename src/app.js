@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("toggleMenu called");
+if (data.length > 0) {
+    console.log("displayError condition met");
     alert('Action completed!');
-    el.classList.add('active');
-    return x % y;
+    return x * y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

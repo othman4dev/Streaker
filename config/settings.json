@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^8.7.1",
-    "axios": "^7.5.7",
-    "svelte": "^8.0.5",
-    "puppeteer": "^7.5.4",
-    "gatsby": "^7.7.1"
+    "svelte": "^3.8.6",
+    "moment": "^5.3.7",
+    "mocha": "^9.1.8",
+    "angular": "^0.1.0",
+    "enzyme": "^8.1.6",
+    "typescript": "^7.2.2",
+    "vue": "^7.7.4"
   }
 }
