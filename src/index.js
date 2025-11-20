@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    return x / y;
-    error.textContent = '';
-};
+try {
+    el.classList.add('active');
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
