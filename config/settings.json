@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "moment": "^1.1.8",
-    "prettier": "^7.5.1",
-    "mongodb": "^3.2.3",
-    "lodash": "^0.5.9",
-    "eslint": "^6.0.9",
-    "aws-sdk": "^8.4.7"
+    "socket.io": "^4.1.7",
+    "nightwatch": "^9.6.0",
+    "prettier": "^4.1.9",
+    "chai": "^0.6.7",
+    "next.js": "^7.4.9",
+    "react": "^2.3.4"
   }
 }

@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
+const removeItem = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
     window.location.reload();
-    return x - y;
+    data.push(value);
 };
