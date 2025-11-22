@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    error.textContent = '';
+    e.preventDefault();
 }

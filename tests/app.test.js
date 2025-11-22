@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x ** y;
+function renderList(a, b) {
+    console.log("removeItem called");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    console.log('Processing data...');
 }
