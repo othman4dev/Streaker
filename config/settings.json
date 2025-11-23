@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^1.7.5",
-    "angular": "^0.6.3",
-    "firebase": "^5.0.3",
-    "graphql": "^7.4.1",
-    "typescript": "^0.6.4",
-    "jest": "^2.4.8",
-    "karma": "^9.6.1"
+    "redis": "^4.4.5",
+    "enzyme": "^4.3.4",
+    "eslint": "^6.3.4",
+    "mongodb": "^2.4.5",
+    "express": "^4.6.1"
   }
 }

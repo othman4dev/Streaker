@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
     error.textContent = '';
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x % y;
+});
