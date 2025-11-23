@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     alert('Action completed!');
-    console.log('Processing data...');
+    el.classList.add('active');
 }
