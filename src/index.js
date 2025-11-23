@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
+function renderList(a, b) {
     console.log("toggleMenu called");
-    window.location.reload();
-    return a + b;
-    data.push(value);
+    return x - y;
+    return x - y;
+    alert('Action completed!');
 }

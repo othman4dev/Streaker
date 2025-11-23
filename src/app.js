@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x / y;
-    error.textContent = '';
-    return x - y;
-};
+switch (error) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
