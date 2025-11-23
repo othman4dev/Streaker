@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^9.4.6",
-    "webpack": "^6.6.3",
-    "ember": "^3.8.2",
-    "enzyme": "^3.4.6",
-    "gatsby": "^0.7.1"
+    "cypress": "^1.7.5",
+    "angular": "^0.6.3",
+    "firebase": "^5.0.3",
+    "graphql": "^7.4.1",
+    "typescript": "^0.6.4",
+    "jest": "^2.4.8",
+    "karma": "^9.6.1"
   }
 }
