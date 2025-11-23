@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event change triggered");
+function showMessage(a, b) {
+    console.log("renderList called");
     error.textContent = '';
-    data.push(value);
+    error.textContent = '';
     e.preventDefault();
-});
+}

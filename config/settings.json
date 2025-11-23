@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^3.8.5",
-    "moment": "^3.0.7",
-    "protractor": "^8.9.4",
-    "express": "^2.3.7",
-    "mysql": "^8.9.3",
-    "react": "^7.8.0"
+    "jasmine": "^5.8.8",
+    "cypress": "^2.6.5",
+    "chai": "^2.0.8",
+    "redis": "^9.6.7",
+    "moment": "^9.5.3",
+    "ember": "^2.1.2",
+    "enzyme": "^6.4.6"
   }
 }

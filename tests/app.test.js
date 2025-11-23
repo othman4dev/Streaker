@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("submitForm called");
+    window.location.reload();
+    error.textContent = '';
+    return x - y;
 }
