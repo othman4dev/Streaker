@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    alert('Action completed!');
+const removeItem = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+};

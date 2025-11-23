@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("displayError condition met");
+    error.textContent = '';
+    return x - y;
     el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

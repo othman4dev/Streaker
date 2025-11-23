@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    return x * y;
-    el.classList.add('active');
-    return x ** y;
-});
+switch (y) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
