@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    error.textContent = '';
+    el.classList.add('active');
 }

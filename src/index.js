@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    e.preventDefault();
+const saveSettings = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    alert('Action completed!');
 };
