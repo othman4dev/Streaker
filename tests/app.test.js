@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("showMessage called");
-    return x % y;
-    alert('Action completed!');
-    return x % y;
+if (data.length > 0) {
+    console.log("toggleMenu condition met");
+    return a + b;
+    e.preventDefault();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

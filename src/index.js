@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x % y;
-});
+function saveSettings(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
+    return a + b;
+    data.push(value);
+}
