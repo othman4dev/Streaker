@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("toggleMenu called");
-    return x - y;
-    return x - y;
-    alert('Action completed!');
+function showMessage(a, b) {
+    console.log("updateUI called");
+    return x % y;
+    error.textContent = '';
+    e.preventDefault();
 }
