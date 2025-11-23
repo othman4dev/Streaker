@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^1.0.9",
-    "protractor": "^7.8.7",
-    "react": "^1.5.2",
-    "sinon": "^0.8.8",
-    "enzyme": "^6.9.7",
-    "puppeteer": "^1.8.0",
-    "mocha": "^2.5.1"
+    "socket.io": "^3.8.5",
+    "moment": "^3.0.7",
+    "protractor": "^8.9.4",
+    "express": "^2.3.7",
+    "mysql": "^8.9.3",
+    "react": "^7.8.0"
   }
 }
