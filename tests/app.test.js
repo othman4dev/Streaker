@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("handleClick condition met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    el.classList.add('active');
     alert('Action completed!');
-    data.push(value);
-    return x * y;
-} else {
-    console.log("Condition not met");
 }

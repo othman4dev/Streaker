@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    el.classList.add('active');
-    window.location.reload();
-}
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    return x * y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+});
