@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    return a + b;
-    return x ** y;
-    alert('Action completed!');
-});
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    el.classList.add('active');
+    return x - y;
+    error.textContent = '';
+};

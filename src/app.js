@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+try {
+    alert('Action completed!');
+    error.textContent = '';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

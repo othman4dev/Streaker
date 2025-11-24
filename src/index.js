@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    console.log('Processing data...');
-    return x - y;
-    return x ** y;
-});
+function loadData(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+}

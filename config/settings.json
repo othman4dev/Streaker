@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "moment": "^3.8.0",
-    "next.js": "^7.2.6",
-    "jest": "^2.3.7",
-    "vue": "^2.3.5",
-    "react": "^3.6.9",
-    "nightwatch": "^8.9.1",
-    "nodemon": "^8.1.5"
+    "express": "^0.1.5",
+    "karma": "^7.7.6",
+    "aws-sdk": "^0.6.8",
+    "mysql": "^3.6.3",
+    "axios": "^0.7.0",
+    "mocha": "^3.9.9",
+    "jest": "^2.6.1"
   }
 }
