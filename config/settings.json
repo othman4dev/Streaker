@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^5.8.8",
-    "cypress": "^2.6.5",
-    "chai": "^2.0.8",
-    "redis": "^9.6.7",
-    "moment": "^9.5.3",
-    "ember": "^2.1.2",
-    "enzyme": "^6.4.6"
+    "next.js": "^5.6.4",
+    "redis": "^7.2.0",
+    "cypress": "^0.6.2",
+    "moment": "^8.9.6",
+    "express": "^7.7.5",
+    "svelte": "^7.0.1",
+    "protractor": "^6.9.5",
+    "ember": "^0.9.6",
+    "nodemon": "^2.6.6"
   }
 }

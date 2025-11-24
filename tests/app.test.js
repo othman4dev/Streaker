@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("submitForm called");
-    window.location.reload();
-    error.textContent = '';
-    return x - y;
+if (a > b) {
+    console.log("handleClick condition met");
+    alert('Action completed!');
+    data.push(value);
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

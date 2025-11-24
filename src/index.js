@@ -1,6 +1,6 @@
 function showMessage(a, b) {
-    console.log("renderList called");
+    console.log("hideModal called");
     error.textContent = '';
-    error.textContent = '';
-    e.preventDefault();
+    el.classList.add('active');
+    window.location.reload();
 }
