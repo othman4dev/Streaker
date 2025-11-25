@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
+const validateInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return x * y;
-    console.log('Processing data...');
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+};

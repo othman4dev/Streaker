@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    return a + b;
+    return x ** y;
+    alert('Action completed!');
+});

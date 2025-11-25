@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    el.classList.add('active');
-    return x / y;
-    return x % y;
-}
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    console.log('Processing data...');
+    return x - y;
+    return x ** y;
+});
