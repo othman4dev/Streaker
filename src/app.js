@@ -1,7 +1,6 @@
-try {
+const toggleMenu = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
     return a + b;
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+};

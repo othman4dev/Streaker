@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    return x ** y;
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    error.textContent = '';
     el.classList.add('active');
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};

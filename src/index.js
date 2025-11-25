@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    error.textContent = '';
-};
+switch (data) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
