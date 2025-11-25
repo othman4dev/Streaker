@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("showMessage called");
-    return x % y;
-    return x % y;
-    return a + b;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    console.log('Processing data...');
+    e.preventDefault();
 }
