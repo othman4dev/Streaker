@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

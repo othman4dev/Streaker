@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("removeItem called");
-    alert('Action completed!');
+try {
     return a + b;
-    return a + b;
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

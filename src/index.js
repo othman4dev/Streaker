@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x % y;
-    return x - y;
-}
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    error.textContent = '';
+};
