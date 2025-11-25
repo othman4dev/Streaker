@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    return x ** y;
-    error.textContent = '';
-});
+const fetchData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
+    el.classList.add('active');
+};

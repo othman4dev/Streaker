@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^2.8.5",
-    "eslint": "^5.1.4",
-    "jasmine": "^3.0.9",
-    "firebase": "^5.9.3"
+    "jest": "^0.0.3",
+    "lodash": "^0.5.4",
+    "mongodb": "^3.0.4",
+    "puppeteer": "^5.7.1",
+    "graphql": "^7.2.5"
   }
 }
