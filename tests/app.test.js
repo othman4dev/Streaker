@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    return a + b;
-    e.preventDefault();
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    return x - y;
+    return x * y;
 } else {
     console.log("Condition not met");
 }

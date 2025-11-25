@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("validateInput condition met");
     window.location.reload();
-});
+    error.textContent = '';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
