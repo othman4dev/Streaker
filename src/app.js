@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    return x % y;
     console.log('Processing data...');
-    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

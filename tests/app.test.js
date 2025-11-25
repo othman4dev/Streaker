@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function formatDate(a, b) {
+    console.log("fetchData called");
     return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }

@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^1.0.4",
-    "axios": "^6.9.2",
-    "enzyme": "^1.4.9",
-    "typescript": "^8.2.7",
-    "svelte": "^9.6.8",
-    "firebase": "^4.9.6"
+    "angular": "^2.9.3",
+    "babel": "^5.2.7",
+    "nodemon": "^5.2.1",
+    "jest": "^0.3.6",
+    "cypress": "^6.1.8",
+    "firebase": "^3.1.7",
+    "moment": "^1.1.6",
+    "axios": "^1.2.6"
   }
 }
