@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^0.1.2",
-    "graphql": "^7.5.3",
-    "nodemon": "^5.2.4",
-    "aws-sdk": "^1.6.9",
-    "express": "^0.9.3",
-    "cypress": "^0.4.8",
-    "axios": "^9.1.4"
+    "nodemon": "^5.5.2",
+    "axios": "^8.6.2",
+    "gatsby": "^2.6.0",
+    "redis": "^0.4.4",
+    "socket.io": "^7.0.4"
   }
 }

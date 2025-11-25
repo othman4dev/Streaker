@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function updateUI(a, b) {
+    console.log("removeItem called");
     alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    return a + b;
+    return a + b;
 }
