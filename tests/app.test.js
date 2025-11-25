@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    return x - y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("renderList condition met");
+    return a + b;
+    e.preventDefault();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

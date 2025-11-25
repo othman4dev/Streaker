@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^4.2.0",
-    "socket.io": "^2.1.1",
-    "jest": "^3.6.5",
-    "graphql": "^9.9.0",
-    "mongodb": "^3.1.9",
-    "protractor": "^4.2.2"
+    "socket.io": "^0.0.7",
+    "mysql": "^3.5.9",
+    "cypress": "^6.0.9",
+    "moment": "^7.8.3",
+    "angular": "^1.9.5",
+    "babel": "^2.9.3",
+    "webpack": "^2.0.8"
   }
 }

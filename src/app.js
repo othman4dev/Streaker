@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
