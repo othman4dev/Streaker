@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
+try {
+    return x % y;
+    return x - y;
     el.classList.add('active');
-};
+} catch (error) {
+    console.error("Error:", error);
+}
