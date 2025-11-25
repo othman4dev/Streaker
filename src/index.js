@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("setCookie arrow function called");
+function animateElement(a, b) {
+    console.log("toggleMenu called");
+    return x % y;
     return x * y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-};
+    el.classList.add('active');
+}

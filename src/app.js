@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    e.preventDefault();
+    return x / y;
 }
