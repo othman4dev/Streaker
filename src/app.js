@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
-    return a + b;
-    return x % y;
-};
+if (x !== y) {
+    console.log("checkStatus condition met");
+    return x * y;
+    console.log('Processing data...');
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^4.9.0",
-    "svelte": "^5.7.1",
-    "webpack": "^7.6.8",
-    "mysql": "^0.0.6"
+    "protractor": "^6.6.7",
+    "cypress": "^4.6.2",
+    "puppeteer": "^3.7.3",
+    "jest": "^8.1.9",
+    "chai": "^8.8.2",
+    "angular": "^1.1.4"
   }
 }
