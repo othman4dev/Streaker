@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    return x - y;
+    alert('Action completed!');
+});
