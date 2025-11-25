@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    console.log('Processing data...');
-    return a + b;
+if (x === y) {
+    console.log("loadData condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

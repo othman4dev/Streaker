@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^3.0.5",
-    "nightwatch": "^9.4.5",
-    "webpack": "^2.8.2",
-    "nodemon": "^3.9.0",
-    "vue": "^1.2.3",
-    "lodash": "^5.0.6",
-    "express": "^9.0.1"
+    "prettier": "^0.1.2",
+    "graphql": "^7.5.3",
+    "nodemon": "^5.2.4",
+    "aws-sdk": "^1.6.9",
+    "express": "^0.9.3",
+    "cypress": "^0.4.8",
+    "axios": "^9.1.4"
   }
 }
