@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    console.log('Processing data...');
-    return x / y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 }

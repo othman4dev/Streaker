@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x ** y;
-    error.textContent = '';
-    el.classList.add('active');
+const animateElement = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    e.preventDefault();
+    return x / y;
+    console.log('Processing data...');
 };

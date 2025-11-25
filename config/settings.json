@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "moment": "^4.0.6",
-    "jest": "^7.4.8",
-    "graphql": "^5.8.7",
-    "protractor": "^2.9.4",
-    "gatsby": "^9.6.2",
-    "vue": "^9.4.2",
-    "eslint": "^4.2.6",
-    "mysql": "^3.2.1"
+    "prettier": "^2.8.5",
+    "eslint": "^5.1.4",
+    "jasmine": "^3.0.9",
+    "firebase": "^5.9.3"
   }
 }

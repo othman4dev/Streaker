@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     e.preventDefault();
-    return x - y;
-    alert('Action completed!');
+    return x ** y;
+    error.textContent = '';
 });
