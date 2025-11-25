@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    el.classList.add('active');
-    return x - y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const displayError = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    data.push(value);
+    e.preventDefault();
+};

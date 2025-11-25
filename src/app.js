@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x * y;
+function toggleMenu(a, b) {
+    console.log("showMessage called");
     return x % y;
+    return x % y;
+    return a + b;
 }
