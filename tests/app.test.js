@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x - y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
+    el.classList.add('active');
+    error.textContent = '';
 }
