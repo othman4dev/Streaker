@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^8.6.8",
-    "express": "^5.7.3",
-    "chai": "^6.6.2",
-    "eslint": "^4.6.8",
-    "svelte": "^6.3.1",
-    "puppeteer": "^3.3.0",
-    "cypress": "^3.0.3"
+    "next.js": "^6.5.5",
+    "gatsby": "^5.5.9",
+    "svelte": "^9.6.2",
+    "axios": "^5.1.1",
+    "vue": "^4.1.1"
   }
 }
