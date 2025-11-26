@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x * y;
+    el.classList.add('active');
+    el.classList.add('active');
+};

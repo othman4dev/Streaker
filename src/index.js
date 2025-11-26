@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("toggleMenu called");
-    return x % y;
+if (value !== '') {
+    console.log("toggleMenu condition met");
     return x * y;
-    el.classList.add('active');
+    error.textContent = '';
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

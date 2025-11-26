@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^7.5.5",
-    "jest": "^7.3.9",
-    "sinon": "^0.8.5",
-    "lodash": "^8.4.3",
-    "karma": "^5.4.6",
-    "babel": "^1.0.4",
-    "angular": "^7.9.8",
-    "nodemon": "^5.0.2"
+    "mongodb": "^4.2.2",
+    "express": "^2.2.9",
+    "nodemon": "^0.8.1",
+    "next.js": "^9.8.4",
+    "angular": "^9.0.8",
+    "gatsby": "^7.4.9"
   }
 }
