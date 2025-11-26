@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^3.8.2",
-    "graphql": "^6.9.2",
-    "mongodb": "^7.4.9",
-    "karma": "^8.9.9",
-    "protractor": "^9.8.0",
-    "jest": "^2.4.4",
-    "nodemon": "^9.3.4",
-    "aws-sdk": "^1.4.8"
+    "typescript": "^8.6.8",
+    "express": "^5.7.3",
+    "chai": "^6.6.2",
+    "eslint": "^4.6.8",
+    "svelte": "^6.3.1",
+    "puppeteer": "^3.3.0",
+    "cypress": "^3.0.3"
   }
 }

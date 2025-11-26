@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+if (x !== y) {
+    console.log("renderList condition met");
     return x ** y;
-    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

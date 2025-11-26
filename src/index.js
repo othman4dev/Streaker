@@ -1,7 +1,8 @@
-switch (error) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    e.preventDefault();
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
