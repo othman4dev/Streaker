@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^5.3.4",
-    "jest": "^0.9.5",
-    "protractor": "^4.2.4",
-    "sinon": "^9.1.9"
+    "graphql": "^4.5.4",
+    "next.js": "^7.3.3",
+    "nodemon": "^0.1.6",
+    "prettier": "^8.3.7",
+    "karma": "^1.6.8",
+    "nightwatch": "^8.3.2",
+    "puppeteer": "^0.9.0",
+    "eslint": "^3.0.2"
   }
 }

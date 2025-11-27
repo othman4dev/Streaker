@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
-    return x / y;
-    el.classList.add('active');
-    error.textContent = '';
+switch (b) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
