@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const fetchData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    console.log('Processing data...');
+};

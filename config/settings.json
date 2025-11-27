@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^4.5.4",
-    "next.js": "^7.3.3",
-    "nodemon": "^0.1.6",
-    "prettier": "^8.3.7",
-    "karma": "^1.6.8",
-    "nightwatch": "^8.3.2",
-    "puppeteer": "^0.9.0",
-    "eslint": "^3.0.2"
+    "babel": "^7.0.9",
+    "chai": "^8.8.3",
+    "aws-sdk": "^6.1.1",
+    "redis": "^8.5.8",
+    "lodash": "^6.5.2",
+    "react": "^8.2.8",
+    "jest": "^3.7.1",
+    "cypress": "^4.4.3"
   }
 }

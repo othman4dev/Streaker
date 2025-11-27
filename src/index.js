@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    data.push(value);
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x - y;
     e.preventDefault();
-});
+    return x - y;
+};
