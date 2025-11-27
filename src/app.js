@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+function createChart(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    alert('Action completed!');
+    return x / y;
 }

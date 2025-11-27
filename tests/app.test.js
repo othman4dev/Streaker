@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x ** y;
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
+    el.classList.add('active');
+    alert('Action completed!');
+};

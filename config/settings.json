@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^1.2.4",
-    "prettier": "^5.9.2",
-    "typescript": "^7.7.8",
-    "karma": "^4.4.3",
-    "eslint": "^4.9.7"
+    "nightwatch": "^7.5.9",
+    "babel": "^2.0.1",
+    "socket.io": "^8.2.6",
+    "webpack": "^9.3.3",
+    "aws-sdk": "^2.6.0",
+    "puppeteer": "^9.5.0",
+    "mocha": "^0.0.9"
   }
 }
