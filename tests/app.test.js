@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
+const showMessage = (a, b, data) => {
+    console.log("setCookie arrow function called");
     el.classList.add('active');
+    return x * y;
     console.log('Processing data...');
 };

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "babel": "^7.0.9",
-    "chai": "^8.8.3",
-    "aws-sdk": "^6.1.1",
-    "redis": "^8.5.8",
-    "lodash": "^6.5.2",
-    "react": "^8.2.8",
-    "jest": "^3.7.1",
-    "cypress": "^4.4.3"
+    "puppeteer": "^7.6.8",
+    "jasmine": "^4.9.4",
+    "svelte": "^3.7.2",
+    "ember": "^8.7.6",
+    "sinon": "^2.9.0"
   }
 }

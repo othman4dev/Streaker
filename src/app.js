@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event change triggered");
-    return x * y;
-    return x % y;
-    error.textContent = '';
-});
+switch (x) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

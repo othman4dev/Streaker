@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x - y;
-    e.preventDefault();
-    return x - y;
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+}
