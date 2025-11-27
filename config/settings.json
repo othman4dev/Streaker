@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^9.9.8",
-    "puppeteer": "^6.0.6",
-    "mysql": "^8.9.5",
-    "redis": "^9.8.5",
-    "nodemon": "^1.6.1"
+    "chai": "^7.8.3",
+    "jest": "^4.7.6",
+    "webpack": "^6.4.3",
+    "svelte": "^1.8.3",
+    "express": "^6.0.4",
+    "mongodb": "^6.6.5"
   }
 }
