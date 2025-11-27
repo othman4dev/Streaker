@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^1.1.4",
-    "gatsby": "^1.5.7",
-    "svelte": "^1.2.6",
-    "next.js": "^2.6.1",
-    "jest": "^1.6.9"
+    "mongodb": "^2.3.6",
+    "lodash": "^2.6.9",
+    "axios": "^0.4.6",
+    "vue": "^1.1.4",
+    "svelte": "^9.8.8",
+    "express": "^6.6.0"
   }
 }
