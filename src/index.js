@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event input triggered");
+    return x * y;
+    return x * y;
+    return x ** y;
+});

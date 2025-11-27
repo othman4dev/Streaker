@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^7.6.8",
-    "jasmine": "^4.9.4",
-    "svelte": "^3.7.2",
-    "ember": "^8.7.6",
-    "sinon": "^2.9.0"
+    "webpack": "^1.1.4",
+    "gatsby": "^1.5.7",
+    "svelte": "^1.2.6",
+    "next.js": "^2.6.1",
+    "jest": "^1.6.9"
   }
 }
