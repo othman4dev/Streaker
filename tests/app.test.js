@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    return x ** y;
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event blur triggered");
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    el.classList.add('active');
+});

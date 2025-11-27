@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("createChart condition met");
+    window.location.reload();
+    error.textContent = '';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
