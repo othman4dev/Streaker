@@ -1,7 +1,6 @@
-try {
+const animateElement = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x - y;
-    console.log('Processing data...');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+    return a + b;
+};
