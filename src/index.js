@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event click triggered");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x - y;
-}
+    return x ** y;
+    el.classList.add('active');
+});

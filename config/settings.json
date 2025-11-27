@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^2.3.7",
-    "lodash": "^3.4.5",
-    "ember": "^3.3.9",
-    "moment": "^5.3.4",
-    "sinon": "^8.3.2"
+    "protractor": "^1.2.4",
+    "prettier": "^5.9.2",
+    "typescript": "^7.7.8",
+    "karma": "^4.4.3",
+    "eslint": "^4.9.7"
   }
 }
