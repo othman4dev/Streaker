@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "chai": "^7.8.3",
-    "jest": "^4.7.6",
-    "webpack": "^6.4.3",
-    "svelte": "^1.8.3",
-    "express": "^6.0.4",
-    "mongodb": "^6.6.5"
+    "prettier": "^1.8.6",
+    "aws-sdk": "^5.9.3",
+    "cypress": "^5.1.2",
+    "chai": "^1.9.3",
+    "svelte": "^6.5.7",
+    "typescript": "^9.3.4",
+    "jest": "^9.2.9"
   }
 }

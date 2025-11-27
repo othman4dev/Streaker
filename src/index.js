@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("validateInput condition met");
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
     return a + b;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x - y;
 } else {
     console.log("Condition not met");
 }

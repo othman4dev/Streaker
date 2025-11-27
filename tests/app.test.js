@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return a + b;
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x % y;
+    return x - y;
     window.location.reload();
-}
+});
