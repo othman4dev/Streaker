@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("validateInput called");
-    data.push(value);
-    console.log('Processing data...');
-    alert('Action completed!');
+try {
+    return x - y;
+    return x - y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
