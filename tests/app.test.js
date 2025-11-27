@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event load triggered");
-    return x % y;
-    return x - y;
-    window.location.reload();
-});
+const checkStatus = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    return x * y;
+    return x * y;
+};

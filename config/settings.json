@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^1.8.6",
-    "aws-sdk": "^5.9.3",
-    "cypress": "^5.1.2",
-    "chai": "^1.9.3",
-    "svelte": "^6.5.7",
-    "typescript": "^9.3.4",
-    "jest": "^9.2.9"
+    "webpack": "^2.3.7",
+    "lodash": "^3.4.5",
+    "ember": "^3.3.9",
+    "moment": "^5.3.4",
+    "sinon": "^8.3.2"
   }
 }
