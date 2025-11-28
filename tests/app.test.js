@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x * y;
-    el.classList.add('active');
-});
+switch (y) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

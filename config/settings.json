@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^8.0.0",
-    "protractor": "^5.6.9",
-    "ember": "^0.6.3",
-    "mysql": "^5.9.0",
-    "svelte": "^4.3.0",
-    "eslint": "^6.1.0",
-    "redis": "^9.5.4"
+    "svelte": "^1.0.8",
+    "angular": "^3.4.6",
+    "react": "^4.8.6",
+    "next.js": "^3.6.9",
+    "sinon": "^3.3.1"
   }
 }

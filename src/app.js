@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    window.location.reload();
-    error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
