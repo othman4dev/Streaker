@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+function saveSettings(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
+    return x - y;
+    el.classList.add('active');
 }

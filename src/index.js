@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event resize triggered");
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event focus triggered");
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    error.textContent = '';
+    return x / y;
 });
