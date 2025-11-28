@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x ** y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+};

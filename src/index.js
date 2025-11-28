@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    window.location.reload();
-    return x ** y;
-}
+const createChart = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x % y;
+};
