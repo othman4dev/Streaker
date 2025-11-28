@@ -1,7 +1,8 @@
-switch (data) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    console.log('Processing data...');
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

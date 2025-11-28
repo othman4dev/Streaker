@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^3.2.8",
-    "socket.io": "^3.4.3",
-    "ember": "^1.0.3",
-    "typescript": "^0.4.5",
-    "react": "^1.4.4"
+    "mocha": "^1.7.4",
+    "babel": "^4.4.5",
+    "jasmine": "^1.4.7",
+    "protractor": "^8.9.6",
+    "prettier": "^8.6.6",
+    "ember": "^2.1.1",
+    "eslint": "^0.6.6",
+    "typescript": "^3.5.5"
   }
 }
