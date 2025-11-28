@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x / y;
 }
