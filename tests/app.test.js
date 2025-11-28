@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    return x / y;
     e.preventDefault();
-    data.push(value);
-});
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
