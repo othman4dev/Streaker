@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});
