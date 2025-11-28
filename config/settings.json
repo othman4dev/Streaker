@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^5.9.2",
-    "cypress": "^5.3.3",
-    "jest": "^7.3.6",
-    "aws-sdk": "^5.0.2",
-    "chai": "^3.4.1"
+    "graphql": "^5.6.3",
+    "angular": "^7.0.8",
+    "nodemon": "^5.1.9",
+    "mysql": "^1.9.9",
+    "gatsby": "^5.9.0"
   }
 }

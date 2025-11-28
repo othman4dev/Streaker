@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
-    return x - y;
-    alert('Action completed!');
-    data.push(value);
+switch (e) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

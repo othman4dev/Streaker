@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    console.log('Processing data...');
-    return x - y;
-});
+switch (error) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
