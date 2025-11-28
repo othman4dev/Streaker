@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "lodash": "^6.8.1",
-    "enzyme": "^0.9.4",
-    "vue": "^6.8.6",
-    "react": "^2.1.7",
-    "cypress": "^6.0.9"
+    "angular": "^2.0.7",
+    "babel": "^3.5.9",
+    "redis": "^5.4.9",
+    "moment": "^3.5.3",
+    "karma": "^5.3.9",
+    "mocha": "^6.0.8",
+    "ember": "^8.6.3",
+    "protractor": "^0.4.5",
+    "react": "^3.0.4"
   }
 }

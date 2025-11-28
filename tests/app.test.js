@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    error.textContent = '';
-    window.location.reload();
-    window.location.reload();
-};
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    console.log('Processing data...');
+    e.preventDefault();
+    data.push(value);
+});
