@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("setSessionStorage called");
-    return a + b;
-    return x - y;
-    el.classList.add('active');
+try {
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

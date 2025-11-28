@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("getLocalStorage called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-}
+const processInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    window.location.reload();
+};
