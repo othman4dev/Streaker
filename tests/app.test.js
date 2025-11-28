@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    console.log('Processing data...');
     return x - y;
-    el.classList.add('active');
-    alert('Action completed!');
-};
+});

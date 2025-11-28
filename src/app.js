@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
-    return x * y;
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    return x - y;
     alert('Action completed!');
-    return x / y;
+    data.push(value);
 }

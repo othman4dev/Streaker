@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^7.5.9",
-    "babel": "^2.0.1",
-    "socket.io": "^8.2.6",
-    "webpack": "^9.3.3",
-    "aws-sdk": "^2.6.0",
-    "puppeteer": "^9.5.0",
-    "mocha": "^0.0.9"
+    "graphql": "^5.9.2",
+    "cypress": "^5.3.3",
+    "jest": "^7.3.6",
+    "aws-sdk": "^5.0.2",
+    "chai": "^3.4.1"
   }
 }
