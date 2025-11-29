@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
-    alert('Action completed!');
-};
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return x % y;
+    e.preventDefault();
+    error.textContent = '';
+});

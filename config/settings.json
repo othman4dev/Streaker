@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "ember": "^0.5.5",
-    "react": "^2.0.7",
-    "gatsby": "^3.6.4",
-    "mysql": "^0.7.5",
-    "karma": "^7.9.6",
-    "lodash": "^8.0.8",
-    "eslint": "^1.8.6",
-    "moment": "^2.9.4"
+    "moment": "^7.8.4",
+    "mocha": "^4.7.3",
+    "puppeteer": "^6.2.9",
+    "nightwatch": "^1.2.0",
+    "nodemon": "^7.2.1",
+    "chai": "^0.7.5"
   }
 }
