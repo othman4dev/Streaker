@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    return x - y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x % y;
+    e.preventDefault();
+}

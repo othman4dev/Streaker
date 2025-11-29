@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x ** y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-};
+function validateInput(a, b) {
+    console.log("submitForm called");
+    return x * y;
+    return a + b;
+    console.log('Processing data...');
+}
