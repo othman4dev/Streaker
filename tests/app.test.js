@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    el.classList.add('active');
+const displayError = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    alert('Action completed!');
     console.log('Processing data...');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+};
