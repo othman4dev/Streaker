@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return a + b;
-    window.location.reload();
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    data.push(value);
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 });

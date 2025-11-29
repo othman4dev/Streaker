@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    return x - y;
-    return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
