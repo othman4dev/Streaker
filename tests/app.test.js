@@ -1,7 +1,6 @@
-try {
-    return a + b;
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    console.log('Processing data...');
 }

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    el.classList.add('active');
+    return x % y;
+}
