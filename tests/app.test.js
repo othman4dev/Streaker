@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
-    alert('Action completed!');
-    console.log('Processing data...');
-};
+function hideModal(a, b) {
+    console.log("renderList called");
+    return x / y;
+    return x ** y;
+    data.push(value);
+}

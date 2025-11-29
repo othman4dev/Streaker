@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("createChart called");
+    return a + b;
+    window.location.reload();
+    console.log('Processing data...');
 }
