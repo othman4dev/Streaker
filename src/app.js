@@ -1,7 +1,6 @@
-try {
+function fetchData(a, b) {
+    console.log("checkStatus called");
+    return x % y;
+    alert('Action completed!');
     return x / y;
-    return x - y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
 }

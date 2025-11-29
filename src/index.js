@@ -1,7 +1,7 @@
 try {
-    error.textContent = '';
-    return x % y;
-    return x / y;
+    el.classList.add('active');
+    console.log('Processing data...');
+    el.classList.add('active');
 } catch (error) {
     console.error("Error:", error);
 }

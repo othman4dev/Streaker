@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+switch (a) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

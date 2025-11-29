@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^1.4.5",
-    "webpack": "^8.7.0",
-    "aws-sdk": "^7.2.5",
-    "react": "^2.0.5",
-    "moment": "^2.7.6",
-    "vue": "^7.3.3"
+    "lodash": "^7.6.2",
+    "puppeteer": "^6.9.4",
+    "sinon": "^3.0.9",
+    "gatsby": "^5.9.2",
+    "karma": "^0.3.3",
+    "prettier": "^8.8.0"
   }
 }
