@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
-    window.location.reload();
-    data.push(value);
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x * y;
+    el.classList.add('active');
+    return x ** y;
+};

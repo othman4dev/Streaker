@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    console.log('Processing data...');
-    el.classList.add('active');
-});
+switch (y) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
