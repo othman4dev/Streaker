@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("createChart called");
-    return a + b;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    console.log('Processing data...');
+    error.textContent = '';
+    return a + b;
 }

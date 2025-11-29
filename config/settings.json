@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jest": "^0.3.5",
-    "axios": "^1.7.2",
-    "babel": "^6.7.6",
-    "eslint": "^4.2.6",
-    "mocha": "^7.1.7",
-    "cypress": "^3.4.9"
+    "graphql": "^6.4.9",
+    "typescript": "^2.3.1",
+    "gatsby": "^7.5.5",
+    "protractor": "^1.5.1",
+    "svelte": "^2.7.2",
+    "prettier": "^7.4.7",
+    "mysql": "^2.1.4"
   }
 }

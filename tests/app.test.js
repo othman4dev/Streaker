@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("renderList called");
-    return x / y;
-    return x ** y;
-    data.push(value);
+try {
+    return x * y;
+    console.log('Processing data...');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
