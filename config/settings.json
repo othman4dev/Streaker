@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "ember": "^9.7.1",
-    "jest": "^4.7.8",
-    "puppeteer": "^0.3.9",
-    "nightwatch": "^2.5.4",
-    "enzyme": "^2.7.9",
-    "gatsby": "^8.4.7",
-    "lodash": "^4.8.5",
-    "mongodb": "^2.2.2",
-    "react": "^1.7.1"
+    "babel": "^9.4.9",
+    "webpack": "^9.0.2",
+    "lodash": "^8.9.5",
+    "angular": "^4.0.9",
+    "enzyme": "^0.4.5"
   }
 }
