@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "axios": "^8.7.1",
-    "graphql": "^3.9.2",
-    "ember": "^5.2.2",
-    "vue": "^4.2.1",
-    "puppeteer": "^1.2.6"
+    "nightwatch": "^8.8.6",
+    "mongodb": "^0.9.0",
+    "sinon": "^2.5.7",
+    "mocha": "^0.9.6",
+    "cypress": "^5.0.0",
+    "chai": "^7.7.9",
+    "webpack": "^1.6.5",
+    "prettier": "^1.9.1",
+    "jasmine": "^0.0.3"
   }
 }

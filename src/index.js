@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    data.push(value);
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const handleClick = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    console.log('Processing data...');
+    return x - y;
+};

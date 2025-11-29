@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    console.log('Processing data...');
+    el.classList.add('active');
+});

@@ -1,7 +1,8 @@
-switch (e) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("createChart condition met");
+    window.location.reload();
+    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
