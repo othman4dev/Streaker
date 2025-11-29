@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+function createChart(a, b) {
+    console.log("getLocalStorage called");
+    return x - y;
+    return x % y;
     window.location.reload();
-    error.textContent = '';
-    return a + b;
 }

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "graphql": "^6.4.9",
-    "typescript": "^2.3.1",
-    "gatsby": "^7.5.5",
-    "protractor": "^1.5.1",
-    "svelte": "^2.7.2",
-    "prettier": "^7.4.7",
-    "mysql": "^2.1.4"
+    "ember": "^9.7.1",
+    "jest": "^4.7.8",
+    "puppeteer": "^0.3.9",
+    "nightwatch": "^2.5.4",
+    "enzyme": "^2.7.9",
+    "gatsby": "^8.4.7",
+    "lodash": "^4.8.5",
+    "mongodb": "^2.2.2",
+    "react": "^1.7.1"
   }
 }
