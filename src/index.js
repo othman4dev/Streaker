@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    e.preventDefault();
-    error.textContent = '';
-});
+try {
+    window.location.reload();
+    data.push(value);
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

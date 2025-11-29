@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "moment": "^7.8.4",
-    "mocha": "^4.7.3",
-    "puppeteer": "^6.2.9",
-    "nightwatch": "^1.2.0",
-    "nodemon": "^7.2.1",
-    "chai": "^0.7.5"
+    "axios": "^8.7.1",
+    "graphql": "^3.9.2",
+    "ember": "^5.2.2",
+    "vue": "^4.2.1",
+    "puppeteer": "^1.2.6"
   }
 }
