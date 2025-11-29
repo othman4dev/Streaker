@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^6.2.8",
-    "puppeteer": "^5.1.2",
-    "enzyme": "^3.8.8",
-    "vue": "^3.0.0",
-    "angular": "^6.1.6",
-    "lodash": "^2.5.2",
-    "redis": "^3.6.0"
+    "angular": "^5.5.3",
+    "axios": "^2.0.6",
+    "mongodb": "^7.4.7",
+    "cypress": "^8.8.6",
+    "eslint": "^6.2.9",
+    "typescript": "^3.8.8"
   }
 }

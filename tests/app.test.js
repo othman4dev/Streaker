@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("submitForm called");
-    return x * y;
-    return a + b;
-    console.log('Processing data...');
+switch (el) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

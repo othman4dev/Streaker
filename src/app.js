@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    return x * y;
+    return x - y;
     el.classList.add('active');
-    return x % y;
-    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
