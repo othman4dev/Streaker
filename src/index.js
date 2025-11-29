@@ -1,7 +1,6 @@
-try {
+const setSessionStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     el.classList.add('active');
-    console.log('Processing data...');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+};
