@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("loadData called");
-    el.classList.add('active');
-    return x % y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
+    alert('Action completed!');
+    return x - y;
 }

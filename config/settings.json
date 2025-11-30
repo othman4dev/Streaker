@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^3.2.2",
-    "nightwatch": "^3.8.4",
-    "mongodb": "^9.8.3",
-    "webpack": "^1.7.3",
-    "eslint": "^0.2.9",
-    "react": "^3.7.9",
-    "aws-sdk": "^5.9.4"
+    "express": "^4.5.3",
+    "karma": "^2.7.9",
+    "sinon": "^8.8.1",
+    "enzyme": "^2.8.3",
+    "chai": "^1.0.0",
+    "ember": "^8.9.2",
+    "next.js": "^6.0.2"
   }
 }

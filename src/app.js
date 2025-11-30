@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    error.textContent = '';
-    el.classList.add('active');
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    e.preventDefault();
+    return x ** y;
+});
