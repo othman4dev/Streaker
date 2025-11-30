@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^0.6.4",
-    "mysql": "^6.8.8",
-    "vue": "^0.2.9",
-    "protractor": "^9.3.0",
-    "prettier": "^6.3.9",
-    "react": "^9.3.7",
-    "sinon": "^9.4.3"
+    "graphql": "^0.3.5",
+    "enzyme": "^5.3.5",
+    "socket.io": "^8.6.3",
+    "karma": "^2.2.6",
+    "cypress": "^7.0.6",
+    "nightwatch": "^8.3.5",
+    "prettier": "^4.2.8",
+    "axios": "^4.6.2"
   }
 }

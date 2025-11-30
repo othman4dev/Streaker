@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return a + b;
+const checkStatus = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x ** y;
 };

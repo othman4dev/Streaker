@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    return x / y;
+    return x / y;
+});
