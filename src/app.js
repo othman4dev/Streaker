@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    e.preventDefault();
+try {
     return x ** y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
