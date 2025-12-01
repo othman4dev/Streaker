@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    data.push(value);
-    return x ** y;
+try {
+    window.location.reload();
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    window.location.reload();
+function displayError(a, b) {
+    console.log("formatDate called");
     e.preventDefault();
-    return x ** y;
-};
+    return a + b;
+    e.preventDefault();
+}
