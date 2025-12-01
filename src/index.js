@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    console.log('Processing data...');
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x % y;
 }

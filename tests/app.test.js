@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("loadData called");
+    el.classList.add('active');
+    return x % y;
+    console.log('Processing data...');
 }
