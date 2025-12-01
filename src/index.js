@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
+try {
+    window.location.reload();
+    console.log('Processing data...');
     return x ** y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
