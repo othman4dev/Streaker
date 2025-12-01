@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x % y;
 } else {
     console.log("Condition not met");
 }

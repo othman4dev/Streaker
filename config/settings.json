@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "ember": "^7.3.7",
-    "angular": "^1.5.4",
-    "nodemon": "^6.3.1",
-    "vue": "^2.1.8",
-    "sinon": "^9.8.6"
+    "cypress": "^0.6.4",
+    "mysql": "^6.8.8",
+    "vue": "^0.2.9",
+    "protractor": "^9.3.0",
+    "prettier": "^6.3.9",
+    "react": "^9.3.7",
+    "sinon": "^9.4.3"
   }
 }
