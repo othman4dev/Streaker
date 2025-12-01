@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    alert('Action completed!');
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event input triggered");
     return x - y;
-}
+    return x * y;
+    data.push(value);
+});

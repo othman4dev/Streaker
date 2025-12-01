@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("removeItem called");
-    alert('Action completed!');
+try {
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
