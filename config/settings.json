@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "karma": "^1.7.0",
-    "puppeteer": "^7.4.7",
-    "chai": "^3.2.1",
-    "webpack": "^6.9.5",
-    "nodemon": "^2.6.9",
-    "jest": "^0.2.8",
-    "protractor": "^7.8.1"
+    "vue": "^0.4.2",
+    "prettier": "^8.2.9",
+    "socket.io": "^5.9.7",
+    "puppeteer": "^3.1.2",
+    "redis": "^6.9.9",
+    "sinon": "^9.4.6",
+    "next.js": "^5.4.7",
+    "axios": "^8.2.5"
   }
 }
