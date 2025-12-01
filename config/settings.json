@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "express": "^4.5.3",
-    "karma": "^2.7.9",
-    "sinon": "^8.8.1",
-    "enzyme": "^2.8.3",
-    "chai": "^1.0.0",
-    "ember": "^8.9.2",
-    "next.js": "^6.0.2"
+    "enzyme": "^4.7.6",
+    "mocha": "^5.9.6",
+    "axios": "^5.8.3",
+    "babel": "^3.1.9"
   }
 }

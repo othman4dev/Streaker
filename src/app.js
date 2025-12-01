@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    e.preventDefault();
-    return x ** y;
-});
+switch (b) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
