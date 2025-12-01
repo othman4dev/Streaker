@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^4.7.6",
-    "mocha": "^5.9.6",
-    "axios": "^5.8.3",
-    "babel": "^3.1.9"
+    "webpack": "^2.8.4",
+    "protractor": "^8.3.9",
+    "chai": "^7.0.8",
+    "redis": "^5.6.5",
+    "nodemon": "^3.5.4"
   }
 }
