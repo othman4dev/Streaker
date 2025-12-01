@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("formatDate called");
-    e.preventDefault();
-    return a + b;
-    e.preventDefault();
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x - y;
+    return x - y;
+    alert('Action completed!');
+});

@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("processInput arrow function called");
+    console.log('Processing data...');
+    return x - y;
+    data.push(value);
+};

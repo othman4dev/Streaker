@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^4.6.9",
-    "nightwatch": "^5.1.1",
-    "express": "^1.0.2",
-    "aws-sdk": "^2.3.5",
-    "gatsby": "^5.1.6",
-    "chai": "^6.0.6",
-    "prettier": "^1.9.4"
+    "ember": "^7.3.7",
+    "angular": "^1.5.4",
+    "nodemon": "^6.3.1",
+    "vue": "^2.1.8",
+    "sinon": "^9.8.6"
   }
 }
