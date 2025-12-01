@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    error.textContent = '';
     window.location.reload();
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+};

@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    alert('Action completed!');
+const checkStatus = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    window.location.reload();
+    e.preventDefault();
     return x ** y;
-}
+};
