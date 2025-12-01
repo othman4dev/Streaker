@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x - y;
+if (data.length > 0) {
+    console.log("submitForm condition met");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

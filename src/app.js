@@ -1,7 +1,7 @@
 try {
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }
