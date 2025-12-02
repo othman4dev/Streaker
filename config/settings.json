@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "karma": "^2.5.0",
-    "typescript": "^3.3.2",
-    "aws-sdk": "^7.3.7",
-    "socket.io": "^1.5.4",
-    "puppeteer": "^0.5.1",
-    "chai": "^0.1.6",
-    "next.js": "^0.8.8",
-    "svelte": "^2.5.3"
+    "next.js": "^1.9.6",
+    "jasmine": "^8.6.9",
+    "chai": "^2.4.5",
+    "jest": "^3.6.2",
+    "react": "^1.6.0",
+    "babel": "^0.8.2"
   }
 }

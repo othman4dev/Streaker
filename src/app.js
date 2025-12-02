@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    alert('Action completed!');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    data.push(value);
     window.location.reload();
 }

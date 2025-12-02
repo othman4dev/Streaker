@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    return x % y;
-    return x * y;
-}
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});

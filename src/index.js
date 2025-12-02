@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
-    data.push(value);
-    console.log('Processing data...');
+const displayError = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x % y;
+    error.textContent = '';
+    return x % y;
 };
