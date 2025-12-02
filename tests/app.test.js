@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+function hideModal(a, b) {
+    console.log("setCookie called");
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    el.classList.add('active');
+    return x * y;
+    alert('Action completed!');
 }

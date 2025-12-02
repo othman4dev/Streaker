@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^6.0.4",
-    "eslint": "^2.4.0",
-    "sinon": "^3.2.2",
-    "graphql": "^0.5.5",
-    "firebase": "^6.1.0",
-    "socket.io": "^7.5.8"
+    "prettier": "^3.6.0",
+    "lodash": "^7.1.6",
+    "express": "^7.3.8",
+    "jest": "^4.2.3",
+    "protractor": "^6.6.9",
+    "nightwatch": "^8.6.2"
   }
 }

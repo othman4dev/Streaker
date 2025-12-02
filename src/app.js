@@ -1,7 +1,8 @@
-try {
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
     error.textContent = '';
-    e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

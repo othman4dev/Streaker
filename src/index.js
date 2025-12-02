@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function createChart(a, b) {
+    console.log("setSessionStorage called");
+    alert('Action completed!');
     e.preventDefault();
-    window.location.reload();
-    el.classList.add('active');
-};
+    return x * y;
+}
