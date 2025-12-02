@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    return a + b;
-    return x - y;
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    window.location.reload();
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

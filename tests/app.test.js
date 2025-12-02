@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("setSessionStorage called");
-    error.textContent = '';
-    return x % y;
-    return x % y;
+function hideModal(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x * y;
 }

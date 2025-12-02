@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+try {
+    return x - y;
+    e.preventDefault();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
