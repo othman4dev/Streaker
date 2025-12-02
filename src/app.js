@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
     error.textContent = '';
     error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+});

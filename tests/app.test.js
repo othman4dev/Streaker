@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    return x - y;
     return x * y;
-    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
