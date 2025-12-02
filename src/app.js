@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 });

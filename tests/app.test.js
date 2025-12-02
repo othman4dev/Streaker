@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    return x - y;
-    return x * y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("setSessionStorage called");
+    error.textContent = '';
+    return x % y;
+    return x % y;
 }
