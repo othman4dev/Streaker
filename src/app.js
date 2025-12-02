@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+function loadData(a, b) {
+    console.log("loadData called");
+    window.location.reload();
+    alert('Action completed!');
+    window.location.reload();
 }

@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+const formatDate = (a, b, data) => {
+    console.log("animateElement arrow function called");
     console.log('Processing data...');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    console.log('Processing data...');
+};
