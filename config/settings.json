@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^1.9.6",
-    "jasmine": "^8.6.9",
-    "chai": "^2.4.5",
-    "jest": "^3.6.2",
-    "react": "^1.6.0",
-    "babel": "^0.8.2"
+    "gatsby": "^6.0.4",
+    "eslint": "^2.4.0",
+    "sinon": "^3.2.2",
+    "graphql": "^0.5.5",
+    "firebase": "^6.1.0",
+    "socket.io": "^7.5.8"
   }
 }

@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
-    error.textContent = '';
-    return x % y;
+const createChart = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    el.classList.add('active');
 };
