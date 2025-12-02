@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("setCookie called");
+    el.classList.add('active');
+    return x / y;
+    return x / y;
 }

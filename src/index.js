@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x * y;
+};

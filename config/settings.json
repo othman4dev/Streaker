@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "karma": "^8.8.6",
-    "jest": "^9.3.2",
-    "enzyme": "^0.1.6",
-    "mysql": "^1.9.7",
-    "angular": "^5.4.9"
+    "moment": "^3.5.5",
+    "angular": "^4.2.5",
+    "jest": "^1.6.5",
+    "enzyme": "^4.2.8",
+    "jasmine": "^9.8.8"
   }
 }
