@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^0.0.8",
-    "eslint": "^8.2.1",
-    "firebase": "^0.3.3",
-    "mocha": "^7.4.5",
-    "angular": "^7.9.7",
-    "karma": "^9.6.6"
+    "jest": "^1.6.5",
+    "socket.io": "^2.5.7",
+    "mongodb": "^4.3.7",
+    "cypress": "^1.0.6",
+    "aws-sdk": "^3.6.2"
   }
 }

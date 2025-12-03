@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x * y;
+const fetchData = (a, b, data) => {
+    console.log("setCookie arrow function called");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+    return x ** y;
+};
