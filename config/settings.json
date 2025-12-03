@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "moment": "^3.5.5",
-    "angular": "^4.2.5",
-    "jest": "^1.6.5",
-    "enzyme": "^4.2.8",
-    "jasmine": "^9.8.8"
+    "nodemon": "^6.1.4",
+    "socket.io": "^7.6.6",
+    "jest": "^5.3.2",
+    "angular": "^4.1.8",
+    "react": "^1.6.6",
+    "axios": "^1.7.1",
+    "gatsby": "^9.4.4"
   }
 }

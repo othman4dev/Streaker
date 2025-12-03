@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("setCookie called");
-    el.classList.add('active');
-    return x / y;
-    return x / y;
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
