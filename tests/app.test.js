@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    console.log('Processing data...');
+const hideModal = (a, b, data) => {
+    console.log("updateUI arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+    return x / y;
+};

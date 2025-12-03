@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("checkStatus called");
-    return x % y;
-    e.preventDefault();
-    e.preventDefault();
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    return x - y;
+    error.textContent = '';
+});

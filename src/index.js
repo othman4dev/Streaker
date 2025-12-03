@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    alert('Action completed!');
-    alert('Action completed!');
+try {
+    error.textContent = '';
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
