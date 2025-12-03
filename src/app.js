@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

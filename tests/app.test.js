@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+switch (e) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
