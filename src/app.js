@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
     console.log('Processing data...');
-    return a + b;
-    e.preventDefault();
+    data.push(value);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

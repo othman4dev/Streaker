@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x * y;
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    window.location.reload();
 });
