@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    el.classList.add('active');
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    el.classList.add('active');
+});

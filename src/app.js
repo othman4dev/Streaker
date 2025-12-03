@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    return a + b;
-    return x % y;
-    return x ** y;
-});
+function showMessage(a, b) {
+    console.log("animateElement called");
+    return x * y;
+    el.classList.add('active');
+    window.location.reload();
+}

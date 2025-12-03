@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x % y;
-    el.classList.add('active');
-    error.textContent = '';
-};
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    e.preventDefault();
+});
