@@ -1,7 +1,6 @@
-try {
+function showMessage(a, b) {
+    console.log("toggleMenu called");
+    return x % y;
     error.textContent = '';
-    data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
 }

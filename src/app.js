@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-    error.textContent = '';
-});
+    return a + b;
+    console.log('Processing data...');
+}

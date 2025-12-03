@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x / y;
-};
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    return x * y;
+    alert('Action completed!');
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
