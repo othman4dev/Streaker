@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    return x ** y;
-    return a + b;
-});
+try {
+    return x / y;
+    el.classList.add('active');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
