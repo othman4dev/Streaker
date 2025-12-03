@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^4.6.4",
-    "aws-sdk": "^8.9.3",
-    "eslint": "^2.7.1",
-    "nodemon": "^9.7.5",
-    "chai": "^4.6.4"
+    "protractor": "^3.6.9",
+    "typescript": "^3.1.6",
+    "aws-sdk": "^7.8.8",
+    "eslint": "^8.7.7",
+    "mongodb": "^7.6.5",
+    "puppeteer": "^8.5.4"
   }
 }
