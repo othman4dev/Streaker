@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^4.8.3",
-    "vue": "^6.4.2",
-    "babel": "^5.5.0",
-    "next.js": "^2.2.5",
-    "ember": "^6.7.4"
+    "jest": "^4.6.4",
+    "aws-sdk": "^8.9.3",
+    "eslint": "^2.7.1",
+    "nodemon": "^9.7.5",
+    "chai": "^4.6.4"
   }
 }

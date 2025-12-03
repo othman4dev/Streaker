@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    el.classList.add('active');
+    window.location.reload();
 }

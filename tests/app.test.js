@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    return x * y;
-    e.preventDefault();
-    return x % y;
-});
+function toggleMenu(a, b) {
+    console.log("fetchData called");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x ** y;
+}
