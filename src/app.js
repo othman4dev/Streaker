@@ -1,6 +1,7 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    error.textContent = '';
-    e.preventDefault();
+switch (error) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

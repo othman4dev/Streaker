@@ -1,7 +1,8 @@
-try {
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
