@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("checkStatus called");
+    return x % y;
+    e.preventDefault();
+    e.preventDefault();
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    data.push(value);
+function removeItem(a, b) {
+    console.log("updateUI called");
     return a + b;
+    alert('Action completed!');
+    alert('Action completed!');
 }
