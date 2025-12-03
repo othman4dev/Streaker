@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event scroll triggered");
     e.preventDefault();
-    error.textContent = '';
-    return x * y;
-}
+    return x ** y;
+    return a + b;
+});

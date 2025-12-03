@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^9.1.5",
-    "nightwatch": "^2.3.7",
-    "firebase": "^5.0.7",
-    "gatsby": "^0.4.1",
-    "karma": "^8.6.6",
-    "mocha": "^7.5.6",
-    "sinon": "^9.3.4"
+    "react": "^3.0.4",
+    "karma": "^1.9.9",
+    "nodemon": "^9.2.8",
+    "mongodb": "^5.1.4",
+    "prettier": "^6.4.8",
+    "graphql": "^4.5.4"
   }
 }

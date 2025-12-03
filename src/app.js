@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    console.log('Processing data...');
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};
