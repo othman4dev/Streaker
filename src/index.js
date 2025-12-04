@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
+const loadData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    error.textContent = '';
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    error.textContent = '';
+};

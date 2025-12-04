@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x ** y;
-    return x ** y;
-    alert('Action completed!');
-};
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+function loadData(a, b) {
+    console.log("createChart called");
     return a + b;
-    return x ** y;
-    e.preventDefault();
+    alert('Action completed!');
+    el.classList.add('active');
 }
