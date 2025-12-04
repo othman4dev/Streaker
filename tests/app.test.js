@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
-    return x ** y;
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    window.location.reload();
     e.preventDefault();
-    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

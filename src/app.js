@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("createChart called");
-    return x % y;
-    el.classList.add('active');
+const formatDate = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x ** y;
     return a + b;
-}
+    return a + b;
+};
