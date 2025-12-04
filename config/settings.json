@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "angular": "^2.6.5",
-    "mongodb": "^6.9.0",
-    "mocha": "^1.2.5",
-    "puppeteer": "^8.5.8",
-    "protractor": "^0.3.6",
-    "prettier": "^2.8.7",
-    "nodemon": "^5.6.2"
+    "redis": "^7.4.0",
+    "aws-sdk": "^8.0.9",
+    "babel": "^9.6.5",
+    "express": "^0.7.5",
+    "enzyme": "^3.5.4",
+    "axios": "^3.2.2"
   }
 }
