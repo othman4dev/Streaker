@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
-    return x ** y;
-    return x / y;
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 });
