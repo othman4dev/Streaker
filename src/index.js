@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    window.location.reload();
+const saveSettings = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x - y;
+    return a + b;
+    return a + b;
 };

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    data.push(value);
-    return x % y;
+function loadData(a, b) {
+    console.log("updateUI called");
     return x * y;
-} else {
-    console.log("Condition not met");
+    return a + b;
+    error.textContent = '';
 }
