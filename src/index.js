@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    el.classList.add('active');
-};
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    return x ** y;
+    alert('Action completed!');
+    return x * y;
+});

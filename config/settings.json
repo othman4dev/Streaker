@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^8.8.7",
-    "mocha": "^4.3.2",
-    "protractor": "^3.0.2",
-    "nodemon": "^8.0.6",
-    "ember": "^0.2.5",
-    "prettier": "^2.1.7",
-    "aws-sdk": "^7.9.4"
+    "mongodb": "^4.7.0",
+    "puppeteer": "^2.3.6",
+    "moment": "^5.5.8",
+    "aws-sdk": "^0.0.5",
+    "jasmine": "^6.9.2",
+    "firebase": "^8.3.6"
   }
 }
