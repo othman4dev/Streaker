@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^9.2.4",
-    "gatsby": "^3.2.7",
-    "svelte": "^0.6.9",
-    "enzyme": "^5.3.6",
-    "sinon": "^8.9.2"
+    "enzyme": "^1.9.0",
+    "angular": "^8.3.4",
+    "redis": "^7.3.7",
+    "react": "^3.2.3",
+    "mongodb": "^6.5.9"
   }
 }

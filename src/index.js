@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    window.location.reload();
+    alert('Action completed!');
+});
