@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^4.0.4",
-    "prettier": "^8.7.0",
-    "express": "^4.4.4",
-    "nodemon": "^6.0.0",
-    "eslint": "^8.3.9",
-    "typescript": "^5.1.8",
-    "svelte": "^4.9.6",
-    "babel": "^8.1.0"
+    "react": "^8.1.6",
+    "graphql": "^2.9.1",
+    "firebase": "^9.6.9",
+    "gatsby": "^6.1.9",
+    "moment": "^4.7.1",
+    "protractor": "^5.9.6"
   }
 }
