@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("processInput condition met");
-    return x - y;
-    alert('Action completed!');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    console.log('Processing data...');
+    e.preventDefault();
+});

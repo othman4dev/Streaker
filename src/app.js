@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("updateUI called");
-    return x * y;
-    return a + b;
-    error.textContent = '';
+switch (value) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
