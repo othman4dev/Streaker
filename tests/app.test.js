@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    data.push(value);
-    return x ** y;
-}
+const removeItem = (a, b, data) => {
+    console.log("renderList arrow function called");
+    window.location.reload();
+    console.log('Processing data...');
+    el.classList.add('active');
+};

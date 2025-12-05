@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x - y;
+try {
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
