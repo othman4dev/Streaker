@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    console.log('Processing data...');
 }
