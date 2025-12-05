@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    alert('Action completed!');
-    return x * y;
-});
+switch (b) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
