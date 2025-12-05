@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^1.9.0",
-    "angular": "^8.3.4",
-    "redis": "^7.3.7",
-    "react": "^3.2.3",
-    "mongodb": "^6.5.9"
+    "lodash": "^4.3.6",
+    "vue": "^3.5.8",
+    "redis": "^7.2.8",
+    "mongodb": "^5.8.1",
+    "react": "^5.4.2",
+    "express": "^3.3.8"
   }
 }

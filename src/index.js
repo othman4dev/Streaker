@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
+function processInput(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    window.location.reload();
-    alert('Action completed!');
-});
+    return x - y;
+}
