@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^3.3.8",
-    "eslint": "^0.3.3",
-    "gatsby": "^8.0.9",
-    "chai": "^4.5.0",
-    "react": "^0.0.7",
-    "mongodb": "^1.1.0",
-    "protractor": "^4.8.6"
+    "puppeteer": "^9.2.4",
+    "gatsby": "^3.2.7",
+    "svelte": "^0.6.9",
+    "enzyme": "^5.3.6",
+    "sinon": "^8.9.2"
   }
 }
