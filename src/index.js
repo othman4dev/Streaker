@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    return a + b;
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
     el.classList.add('active');
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+};
