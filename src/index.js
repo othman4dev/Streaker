@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("renderList called");
+    return a + b;
+    alert('Action completed!');
+    return x / y;
 }

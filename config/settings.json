@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "ember": "^6.0.3",
-    "jest": "^5.0.7",
-    "puppeteer": "^4.4.8"
+    "express": "^2.2.8",
+    "lodash": "^1.0.6",
+    "svelte": "^5.7.4",
+    "ember": "^4.5.7",
+    "protractor": "^8.4.3"
   }
 }

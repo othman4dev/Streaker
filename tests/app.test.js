@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("showMessage called");
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    console.log('Processing data...');
-}
+    return x * y;
+});
