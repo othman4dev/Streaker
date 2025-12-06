@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    data.push(value);
+const updateUI = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    alert('Action completed!');
     el.classList.add('active');
-}
+    return x * y;
+};

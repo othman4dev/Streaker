@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    console.log('Processing data...');
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
