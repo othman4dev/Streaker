@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    window.location.reload();
+const showMessage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    return x / y;
+};

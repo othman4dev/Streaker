@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    console.log('Processing data...');
-    el.classList.add('active');
-});
+const fetchData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+};
