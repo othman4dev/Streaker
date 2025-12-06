@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    alert('Action completed!');
-    data.push(value);
-    e.preventDefault();
-};
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    return a + b;
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

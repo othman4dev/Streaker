@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^4.9.3",
-    "gatsby": "^3.4.7",
-    "mongodb": "^9.7.7",
-    "svelte": "^9.2.3",
-    "firebase": "^5.3.9"
+    "axios": "^9.3.9",
+    "angular": "^4.9.2",
+    "nodemon": "^1.5.3",
+    "aws-sdk": "^9.0.8",
+    "express": "^5.0.6",
+    "jest": "^9.4.2",
+    "mongodb": "^9.7.4",
+    "lodash": "^4.8.3"
   }
 }

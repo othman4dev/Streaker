@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
     alert('Action completed!');
+    return x ** y;
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
