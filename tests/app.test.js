@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event submit triggered");
+try {
     return x ** y;
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

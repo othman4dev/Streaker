@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("renderList called");
-    return a + b;
-    alert('Action completed!');
-    return x / y;
-}
+const setCookie = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x ** y;
+    el.classList.add('active');
+    window.location.reload();
+};
