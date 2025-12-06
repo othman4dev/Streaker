@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("submitForm arrow function called");
+if (x !== y) {
+    console.log("removeItem condition met");
+    data.push(value);
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+} else {
+    console.log("Condition not met");
+}

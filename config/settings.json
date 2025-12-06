@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^1.4.2",
-    "express": "^6.5.9",
-    "sinon": "^3.7.3",
-    "react": "^8.3.3",
-    "lodash": "^2.8.8",
-    "aws-sdk": "^0.7.1",
-    "protractor": "^2.3.2"
+    "next.js": "^2.7.0",
+    "eslint": "^3.5.8",
+    "nightwatch": "^1.5.3",
+    "sinon": "^9.6.8",
+    "jest": "^3.7.5",
+    "enzyme": "^6.6.7",
+    "mocha": "^5.0.6",
+    "moment": "^4.6.9"
   }
 }

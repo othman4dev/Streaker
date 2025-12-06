@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    data.push(value);
-    return x - y;
-    return x / y;
-};
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    console.log('Processing data...');
+    window.location.reload();
+}
