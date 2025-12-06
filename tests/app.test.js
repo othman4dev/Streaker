@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    console.log('Processing data...');
-    window.location.reload();
-}
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x % y;
+    return a + b;
+    return x ** y;
+};

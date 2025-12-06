@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    data.push(value);
-    alert('Action completed!');
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    console.log('Processing data...');
 }

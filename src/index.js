@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    data.push(value);
-    return x - y;
-}
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    return x / y;
+};
