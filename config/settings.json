@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^8.1.9",
-    "react": "^0.6.4",
-    "lodash": "^7.1.4",
-    "vue": "^3.4.7",
-    "gatsby": "^5.1.8",
-    "jest": "^3.7.8"
+    "lodash": "^7.4.1",
+    "jest": "^5.5.9",
+    "typescript": "^9.2.9",
+    "karma": "^2.8.6",
+    "angular": "^6.8.6",
+    "puppeteer": "^6.7.7",
+    "mysql": "^4.9.1",
+    "cypress": "^4.4.9"
   }
 }
