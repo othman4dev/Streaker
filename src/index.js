@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    return x - y;
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

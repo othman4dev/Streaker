@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^7.5.3",
-    "axios": "^3.4.2",
-    "vue": "^7.4.2",
-    "sinon": "^0.2.4",
-    "lodash": "^0.4.8",
-    "webpack": "^1.8.8",
-    "nodemon": "^1.6.9",
-    "svelte": "^8.1.0"
+    "sinon": "^6.2.6",
+    "jest": "^9.2.7",
+    "babel": "^6.4.9",
+    "aws-sdk": "^0.1.7",
+    "lodash": "^2.9.5"
   }
 }
