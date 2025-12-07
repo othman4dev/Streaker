@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("renderList arrow function called");
-    alert('Action completed!');
-    error.textContent = '';
-    el.classList.add('active');
+const checkStatus = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 };
