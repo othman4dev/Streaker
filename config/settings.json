@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^2.5.7",
-    "redis": "^4.2.6",
-    "sinon": "^0.4.6",
-    "socket.io": "^2.6.8",
-    "graphql": "^6.6.2",
-    "aws-sdk": "^2.7.0",
-    "firebase": "^0.1.0"
+    "cypress": "^7.5.3",
+    "axios": "^3.4.2",
+    "vue": "^7.4.2",
+    "sinon": "^0.2.4",
+    "lodash": "^0.4.8",
+    "webpack": "^1.8.8",
+    "nodemon": "^1.6.9",
+    "svelte": "^8.1.0"
   }
 }
