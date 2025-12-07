@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x / y;
-    window.location.reload();
-}
+const updateUI = (a, b, data) => {
+    console.log("renderList arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    el.classList.add('active');
+};

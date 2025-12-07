@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^6.7.9",
-    "jasmine": "^3.9.4",
-    "sinon": "^9.2.9",
-    "cypress": "^9.1.9",
-    "next.js": "^1.0.5",
-    "jest": "^9.0.5",
-    "typescript": "^7.9.4"
+    "graphql": "^8.3.8",
+    "chai": "^9.6.2",
+    "prettier": "^5.1.0",
+    "eslint": "^7.7.1",
+    "gatsby": "^5.5.2",
+    "react": "^1.6.2"
   }
 }
