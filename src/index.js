@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+const processInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return x % y;
+};
