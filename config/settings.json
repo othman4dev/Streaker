@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "next.js": "^8.3.3",
-    "axios": "^8.4.7",
-    "babel": "^3.8.4",
-    "jasmine": "^8.8.3",
-    "protractor": "^2.1.8",
-    "react": "^8.3.7",
-    "socket.io": "^9.4.9",
-    "express": "^2.7.2"
+    "nightwatch": "^0.9.3",
+    "protractor": "^4.8.0",
+    "lodash": "^7.3.5",
+    "graphql": "^6.7.5"
   }
 }
