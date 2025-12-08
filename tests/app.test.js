@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x - y;
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

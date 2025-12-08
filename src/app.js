@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    data.push(value);
+try {
+    return x / y;
     console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-});
+} catch (error) {
+    console.error("Error:", error);
+}
