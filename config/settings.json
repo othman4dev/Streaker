@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^7.7.8",
-    "sinon": "^3.1.2",
-    "lodash": "^3.7.3",
-    "redis": "^9.5.4",
-    "aws-sdk": "^3.4.7",
-    "next.js": "^4.6.6",
-    "mysql": "^8.5.0",
-    "socket.io": "^8.6.9"
+    "mocha": "^6.6.2",
+    "prettier": "^8.2.5",
+    "react": "^4.9.3",
+    "jasmine": "^7.4.9",
+    "nodemon": "^6.0.2",
+    "aws-sdk": "^9.7.1"
   }
 }
