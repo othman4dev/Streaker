@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    return x - y;
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
     alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});

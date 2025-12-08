@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
+function validateInput(a, b) {
+    console.log("animateElement called");
     return x - y;
-    return x - y;
+    console.log('Processing data...');
     return a + b;
 }
