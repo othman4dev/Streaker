@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^6.6.2",
-    "prettier": "^8.2.5",
-    "react": "^4.9.3",
-    "jasmine": "^7.4.9",
-    "nodemon": "^6.0.2",
-    "aws-sdk": "^9.7.1"
+    "moment": "^1.1.7",
+    "nodemon": "^8.5.4",
+    "mocha": "^2.8.0",
+    "axios": "^8.0.7",
+    "prettier": "^7.8.7",
+    "jasmine": "^8.7.2"
   }
 }
