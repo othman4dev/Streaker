@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("loadData called");
-    el.classList.add('active');
-    return x % y;
-    return x ** y;
+if (x === y) {
+    console.log("createChart condition met");
+    window.location.reload();
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

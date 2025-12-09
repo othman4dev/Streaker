@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
+try {
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    e.preventDefault();
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
