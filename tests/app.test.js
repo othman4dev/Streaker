@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
+const renderList = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     window.location.reload();
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    error.textContent = '';
+};

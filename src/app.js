@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    alert('Action completed!');
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    return x % y;
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

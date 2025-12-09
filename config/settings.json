@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^9.5.3",
-    "eslint": "^9.5.6",
-    "firebase": "^9.9.4",
-    "mongodb": "^6.3.3",
-    "typescript": "^8.8.4"
+    "vue": "^5.3.4",
+    "socket.io": "^4.3.9",
+    "ember": "^8.5.7",
+    "redis": "^6.3.0",
+    "gatsby": "^8.9.2",
+    "nodemon": "^7.9.0",
+    "mongodb": "^9.9.3",
+    "mysql": "^6.2.5",
+    "angular": "^5.6.6"
   }
 }
