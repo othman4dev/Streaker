@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^0.9.3",
-    "protractor": "^4.8.0",
-    "lodash": "^7.3.5",
-    "graphql": "^6.7.5"
+    "sinon": "^2.2.1",
+    "babel": "^1.7.6",
+    "jest": "^5.0.7",
+    "protractor": "^5.1.1",
+    "mocha": "^9.9.6"
   }
 }

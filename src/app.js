@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    error.textContent = '';
-    return x - y;
-});
+function validateInput(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    return x % y;
+    e.preventDefault();
+}
