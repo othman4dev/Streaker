@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "sinon": "^2.2.1",
-    "babel": "^1.7.6",
-    "jest": "^5.0.7",
-    "protractor": "^5.1.1",
-    "mocha": "^9.9.6"
+    "webpack": "^6.4.4",
+    "jest": "^1.3.4",
+    "svelte": "^1.4.5",
+    "firebase": "^4.6.3"
   }
 }

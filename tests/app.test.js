@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    window.location.reload();
-    return x - y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+function saveSettings(a, b) {
+    console.log("loadData called");
+    el.classList.add('active');
+    return x % y;
+    return x ** y;
 }
