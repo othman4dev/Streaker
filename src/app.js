@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+function formatDate(a, b) {
+    console.log("submitForm called");
+    alert('Action completed!');
     return x - y;
-    console.log('Processing data...');
-    return x * y;
+    return x / y;
 }
