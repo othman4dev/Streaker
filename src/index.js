@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event resize triggered");
     return x ** y;
-    data.push(value);
-    error.textContent = '';
+    return x / y;
+    return x * y;
 });

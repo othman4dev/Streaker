@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    error.textContent = '';
+};
