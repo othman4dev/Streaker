@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "mocha": "^5.2.4",
-    "svelte": "^2.6.8",
-    "lodash": "^0.0.7",
-    "babel": "^6.2.3",
-    "ember": "^3.7.2",
-    "sinon": "^8.6.9",
-    "vue": "^5.3.9"
+    "ember": "^3.1.3",
+    "typescript": "^2.5.2",
+    "axios": "^6.1.5",
+    "eslint": "^0.5.9",
+    "karma": "^8.2.3",
+    "redis": "^6.5.8",
+    "lodash": "^9.8.1",
+    "sinon": "^9.8.9",
+    "mysql": "^7.1.0"
   }
 }

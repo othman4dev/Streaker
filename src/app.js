@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    alert('Action completed!');
-});
+try {
+    data.push(value);
+    return x * y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

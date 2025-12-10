@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("hideModal condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
