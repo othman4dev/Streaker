@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event resize triggered");
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    return x / y;
-    return x * y;
+    e.preventDefault();
 });

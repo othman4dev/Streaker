@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    error.textContent = '';
-};
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event scroll triggered");
+    return a + b;
+    el.classList.add('active');
+    alert('Action completed!');
+});

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^1.9.6",
-    "socket.io": "^8.1.5",
-    "lodash": "^4.1.5",
-    "eslint": "^7.0.3",
-    "jest": "^8.9.8"
+    "protractor": "^6.9.5",
+    "gatsby": "^8.2.5",
+    "mongodb": "^1.9.4",
+    "axios": "^7.9.3",
+    "jasmine": "^0.1.2",
+    "svelte": "^9.0.8",
+    "enzyme": "^3.6.6"
   }
 }
