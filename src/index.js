@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+const validateInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return a + b;
+    return a + b;
     window.location.reload();
-    console.log('Processing data...');
-}
+};

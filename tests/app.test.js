@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    e.preventDefault();
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-};
+    return x * y;
+    return x % y;
+}
