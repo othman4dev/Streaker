@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x % y;
+};
