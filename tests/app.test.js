@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x / y;
-    alert('Action completed!');
+function fetchData(a, b) {
+    console.log("handleClick called");
+    return a + b;
+    return a + b;
+    el.classList.add('active');
 }

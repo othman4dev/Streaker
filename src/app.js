@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    data.push(value);
-    return x * y;
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-} else {
-    console.log("Condition not met");
+    return x / y;
+    el.classList.add('active');
 }
