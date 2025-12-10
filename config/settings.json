@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "vue": "^5.3.4",
-    "socket.io": "^4.3.9",
-    "ember": "^8.5.7",
-    "redis": "^6.3.0",
-    "gatsby": "^8.9.2",
-    "nodemon": "^7.9.0",
-    "mongodb": "^9.9.3",
-    "mysql": "^6.2.5",
-    "angular": "^5.6.6"
+    "next.js": "^4.1.8",
+    "aws-sdk": "^8.5.4",
+    "react": "^3.2.2",
+    "karma": "^0.0.3",
+    "cypress": "^4.2.4",
+    "vue": "^4.0.1"
   }
 }

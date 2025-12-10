@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    return x % y;
-    return a + b;
+try {
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
