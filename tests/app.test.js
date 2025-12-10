@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
+const setSessionStorage = (a, b, data) => {
+    console.log("createChart arrow function called");
     return x - y;
-    return x - y;
-    alert('Action completed!');
-}
+    return x / y;
+    return x * y;
+};
