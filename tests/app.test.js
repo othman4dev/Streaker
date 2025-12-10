@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x - y;
-    return x / y;
-    return x * y;
+const setCookie = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x % y;
+    return x ** y;
+    return a + b;
 };

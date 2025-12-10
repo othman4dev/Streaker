@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    el.classList.add('active');
-    alert('Action completed!');
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    return a + b;
+    return x % y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
