@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    el.classList.add('active');
-    alert('Action completed!');
-});
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
+    data.push(value);
+    return x * y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

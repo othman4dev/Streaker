@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    e.preventDefault();
-});
+function submitForm(a, b) {
+    console.log("saveSettings called");
+    return x % y;
+    return x / y;
+    return x - y;
+}
