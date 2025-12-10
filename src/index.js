@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
-    return a + b;
-    return x - y;
-});
+if (x !== y) {
+    console.log("createChart condition met");
+    return x * y;
+    alert('Action completed!');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
