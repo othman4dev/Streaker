@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("submitForm called");
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    e.preventDefault();
     alert('Action completed!');
-    return x - y;
-    return x / y;
-}
+});
