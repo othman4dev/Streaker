@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-    alert('Action completed!');
-    return x * y;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    console.log('Processing data...');
 }

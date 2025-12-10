@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    alert('Action completed!');
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x - y;
+    e.preventDefault();
+    el.classList.add('active');
+};
