@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
     window.location.reload();
-    alert('Action completed!');
+    return x ** y;
 }
