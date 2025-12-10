@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^7.2.8",
-    "nodemon": "^5.8.4",
-    "vue": "^7.5.7",
-    "moment": "^8.4.0"
+    "axios": "^3.3.1",
+    "aws-sdk": "^1.2.7",
+    "karma": "^9.2.3",
+    "ember": "^2.7.9",
+    "prettier": "^7.5.8"
   }
 }

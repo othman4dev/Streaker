@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return a + b;
-    return a + b;
-    window.location.reload();
-};
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
+    data.push(value);
+    error.textContent = '';
+});
