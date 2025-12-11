@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x / y;
-    el.classList.add('active');
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    return a + b;
+    e.preventDefault();
+});

@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("removeItem arrow function called");
+if (x !== y) {
+    console.log("toggleMenu condition met");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+    return x - y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
