@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
+const getLocalStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return a + b;
-    window.location.reload();
-}
+    return x * y;
+    return x * y;
+};

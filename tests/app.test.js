@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("renderList called");
-    return a + b;
+function formatDate(a, b) {
+    console.log("validateInput called");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+    return x - y;
 }

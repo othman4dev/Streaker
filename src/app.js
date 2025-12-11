@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
+try {
     return x * y;
-};
+    return x - y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
