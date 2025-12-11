@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("renderList arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("displayError called");
     return x - y;
-    return x / y;
-};
+    data.push(value);
+    data.push(value);
+}

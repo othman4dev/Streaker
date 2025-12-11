@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("formatDate called");
-    return x / y;
-    return a + b;
-    data.push(value);
-}
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    e.preventDefault();
+    return x - y;
+});

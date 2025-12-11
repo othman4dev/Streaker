@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("setSessionStorage condition met");
+try {
     error.textContent = '';
-    data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
