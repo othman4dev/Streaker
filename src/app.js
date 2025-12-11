@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("displayError called");
-    return x - y;
-    data.push(value);
-    data.push(value);
+function handleClick(a, b) {
+    console.log("animateElement called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }
