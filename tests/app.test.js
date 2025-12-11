@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("formatDate called");
+    return x / y;
+    return a + b;
+    data.push(value);
 }
