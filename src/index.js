@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    e.preventDefault();
-    data.push(value);
-});
+try {
+    error.textContent = '';
+    window.location.reload();
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

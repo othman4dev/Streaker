@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "firebase": "^7.6.3",
-    "webpack": "^8.7.6",
-    "puppeteer": "^2.9.1",
-    "moment": "^5.0.2",
-    "prettier": "^3.2.6",
-    "react": "^7.2.2",
-    "typescript": "^1.5.9"
+    "react": "^6.2.8",
+    "jest": "^7.2.5",
+    "redis": "^4.1.8",
+    "karma": "^7.7.1"
   }
 }
