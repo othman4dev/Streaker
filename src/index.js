@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    return x * y;
+function handleClick(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
+    alert('Action completed!');
     data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
 }

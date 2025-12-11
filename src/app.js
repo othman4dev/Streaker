@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
-    e.preventDefault();
-    el.classList.add('active');
+switch (x) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
