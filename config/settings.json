@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "eslint": "^7.6.6",
-    "mysql": "^6.1.7",
-    "svelte": "^3.1.6",
-    "jest": "^3.8.6"
+    "axios": "^3.8.0",
+    "mysql": "^4.7.9",
+    "firebase": "^0.5.5",
+    "aws-sdk": "^2.9.8",
+    "webpack": "^8.6.7",
+    "nodemon": "^7.5.5",
+    "express": "^0.2.4",
+    "prettier": "^9.5.0",
+    "angular": "^0.8.4"
   }
 }

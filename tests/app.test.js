@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("validateInput called");
+function submitForm(a, b) {
+    console.log("fetchData called");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+    window.location.reload();
+    return x * y;
 }

@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
-    return x * y;
-    return x * y;
+const loadData = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 };
