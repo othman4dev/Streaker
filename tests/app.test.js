@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("renderList called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }

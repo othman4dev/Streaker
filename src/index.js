@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+function loadData(a, b) {
+    console.log("showMessage called");
     window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    window.location.reload();
 }

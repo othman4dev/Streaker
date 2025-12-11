@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
     return x * y;
-}
+};
