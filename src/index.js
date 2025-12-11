@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    return x % y;
-    return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
+    return x ** y;
+    return x * y;
 }

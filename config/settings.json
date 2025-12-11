@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "lodash": "^2.4.1",
-    "graphql": "^3.5.8",
-    "jest": "^6.2.7",
-    "eslint": "^2.3.1",
-    "typescript": "^6.5.9",
-    "ember": "^3.7.1",
-    "socket.io": "^8.8.8"
+    "enzyme": "^5.9.4",
+    "puppeteer": "^9.4.9",
+    "webpack": "^3.9.4",
+    "nodemon": "^9.1.9"
   }
 }

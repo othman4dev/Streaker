@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    data.push(value);
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});

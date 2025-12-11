@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    return a + b;
+try {
     e.preventDefault();
-});
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
