@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (value) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    return x * y;
+    alert('Action completed!');
+    e.preventDefault();
 }
