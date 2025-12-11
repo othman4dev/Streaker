@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-};
+if (x !== y) {
+    console.log("processInput condition met");
+    return x * y;
+    data.push(value);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

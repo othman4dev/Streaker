@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x ** y;
-    return a + b;
-    return x ** y;
-};
+function createChart(a, b) {
+    console.log("checkStatus called");
+    window.location.reload();
+    e.preventDefault();
+    el.classList.add('active');
+}

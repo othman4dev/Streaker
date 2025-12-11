@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("fetchData called");
-    data.push(value);
-    window.location.reload();
+function createChart(a, b) {
+    console.log("toggleMenu called");
     return x * y;
+    data.push(value);
+    return x - y;
 }

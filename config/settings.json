@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "axios": "^3.8.0",
-    "mysql": "^4.7.9",
-    "firebase": "^0.5.5",
-    "aws-sdk": "^2.9.8",
-    "webpack": "^8.6.7",
-    "nodemon": "^7.5.5",
-    "express": "^0.2.4",
-    "prettier": "^9.5.0",
-    "angular": "^0.8.4"
+    "moment": "^8.5.6",
+    "jest": "^2.2.1",
+    "mysql": "^9.2.1",
+    "nightwatch": "^6.6.1"
   }
 }
