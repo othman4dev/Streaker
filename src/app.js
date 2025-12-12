@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+try {
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
