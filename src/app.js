@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event load triggered");
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    error.textContent = '';
+    return x * y;
 });

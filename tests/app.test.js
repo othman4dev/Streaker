@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("formatDate called");
+try {
+    return x * y;
+    error.textContent = '';
     return a + b;
-    el.classList.add('active');
-    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

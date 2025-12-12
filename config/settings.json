@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^1.2.0",
-    "vue": "^8.1.1",
-    "jest": "^3.2.3",
-    "cypress": "^2.8.0",
-    "jasmine": "^8.8.4"
+    "vue": "^3.1.5",
+    "socket.io": "^5.5.2",
+    "express": "^7.1.8",
+    "prettier": "^8.6.2",
+    "cypress": "^4.7.5",
+    "gatsby": "^4.6.3",
+    "lodash": "^1.8.1",
+    "nightwatch": "^7.2.1"
   }
 }
