@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("checkStatus called");
-    console.log('Processing data...');
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }

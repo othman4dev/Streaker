@@ -1,7 +1,8 @@
-switch (a) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    window.location.reload();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
