@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    return x ** y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    return a + b;
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
