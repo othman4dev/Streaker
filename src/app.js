@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x % y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    error.textContent = '';
+});

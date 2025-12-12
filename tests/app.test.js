@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("formatDate called");
+    return a + b;
+    el.classList.add('active');
+    e.preventDefault();
 }

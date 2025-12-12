@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^8.2.3",
-    "webpack": "^3.6.1",
-    "ember": "^2.0.6",
-    "next.js": "^9.0.0",
-    "prettier": "^8.1.1"
+    "graphql": "^1.2.0",
+    "vue": "^8.1.1",
+    "jest": "^3.2.3",
+    "cypress": "^2.8.0",
+    "jasmine": "^8.8.4"
   }
 }
