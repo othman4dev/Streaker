@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    error.textContent = '';
-    return x % y;
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    alert('Action completed!');
+    return a + b;
+});
