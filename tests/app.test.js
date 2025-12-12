@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x / y;
-};
+switch (value) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

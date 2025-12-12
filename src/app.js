@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    error.textContent = '';
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

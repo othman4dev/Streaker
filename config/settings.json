@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^0.2.7",
-    "jest": "^8.4.5",
-    "karma": "^2.6.9",
-    "react": "^3.9.1",
-    "lodash": "^5.2.7",
-    "enzyme": "^1.4.1",
-    "eslint": "^1.0.2",
-    "babel": "^8.8.1",
-    "mocha": "^8.0.7"
+    "axios": "^9.9.1",
+    "angular": "^3.0.3",
+    "aws-sdk": "^4.8.6",
+    "karma": "^2.6.3",
+    "cypress": "^5.9.4"
   }
 }
