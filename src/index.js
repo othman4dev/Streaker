@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("loadData called");
-    return x % y;
-    el.classList.add('active');
-    return x - y;
+switch (el) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
