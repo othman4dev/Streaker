@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    return x * y;
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    error.textContent = '';
+});

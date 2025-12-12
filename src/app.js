@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    window.location.reload();
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    return x / y;
+    return x * y;
 });
