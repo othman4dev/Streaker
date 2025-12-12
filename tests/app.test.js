@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    el.classList.add('active');
-    window.location.reload();
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x % y;
 }
