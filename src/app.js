@@ -1,7 +1,6 @@
-try {
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event submit triggered");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+    window.location.reload();
+});
