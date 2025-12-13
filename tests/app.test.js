@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("renderList called");
+    return x - y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
