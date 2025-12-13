@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("renderList called");
-    return x - y;
-    console.log('Processing data...');
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
 }

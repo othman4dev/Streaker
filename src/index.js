@@ -1,7 +1,8 @@
-switch (value) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("validateInput condition met");
+    error.textContent = '';
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

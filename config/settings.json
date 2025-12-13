@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^6.0.2",
-    "jasmine": "^5.0.1",
-    "axios": "^0.8.4",
-    "mongodb": "^3.6.1",
-    "cypress": "^1.7.1",
-    "next.js": "^4.1.4",
-    "vue": "^6.0.0"
+    "eslint": "^9.8.4",
+    "sinon": "^0.4.3",
+    "mongodb": "^8.6.9",
+    "karma": "^6.2.6",
+    "vue": "^8.6.9",
+    "babel": "^2.2.5",
+    "puppeteer": "^5.0.6"
   }
 }
