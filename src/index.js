@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
 }

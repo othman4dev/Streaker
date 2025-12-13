@@ -1,6 +1,6 @@
 function setCookie(a, b) {
-    console.log("animateElement called");
+    console.log("validateInput called");
     error.textContent = '';
     return x * y;
-    return x % y;
+    return x - y;
 }
