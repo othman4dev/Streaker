@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    return a + b;
     return x * y;
-    return x % y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("createChart called");
+    alert('Action completed!');
+    return x / y;
+    return x % y;
 }
