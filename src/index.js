@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
+function showMessage(a, b) {
+    console.log("handleClick called");
     error.textContent = '';
-    error.textContent = '';
-});
+    return x * y;
+    return x % y;
+}

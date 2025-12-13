@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^3.8.6",
-    "prettier": "^5.8.8",
-    "axios": "^7.6.6",
-    "chai": "^1.6.2"
+    "lodash": "^7.3.2",
+    "firebase": "^8.9.2",
+    "mocha": "^1.1.5",
+    "enzyme": "^7.0.4",
+    "angular": "^8.2.4",
+    "redis": "^5.9.2",
+    "axios": "^1.9.3",
+    "ember": "^9.8.7"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    return x / y;
-    return x * y;
-});
+try {
+    window.location.reload();
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

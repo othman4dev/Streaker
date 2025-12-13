@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
+    window.location.reload();
     alert('Action completed!');
-    data.push(value);
-    data.push(value);
-}
+};
