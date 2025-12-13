@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("animateElement called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+switch (value) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
