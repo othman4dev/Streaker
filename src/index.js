@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x * y;
-    return a + b;
-}
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    data.push(value);
+};

@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    return x / y;
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
     document.body.style.backgroundColor = 'lightblue';
-});
+    return x - y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
