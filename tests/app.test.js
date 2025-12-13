@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+try {
     return x % y;
-} else {
-    console.log("Condition not met");
+    return x % y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
