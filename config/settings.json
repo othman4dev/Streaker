@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^1.9.3",
-    "react": "^2.2.3",
-    "cypress": "^1.6.3",
-    "nightwatch": "^3.4.3",
-    "chai": "^2.7.6",
-    "karma": "^8.4.4",
-    "jasmine": "^6.5.0",
-    "sinon": "^0.8.7"
+    "socket.io": "^6.3.5",
+    "express": "^5.1.9",
+    "redis": "^3.8.3",
+    "enzyme": "^1.2.9",
+    "angular": "^4.9.2",
+    "typescript": "^5.2.0"
   }
 }

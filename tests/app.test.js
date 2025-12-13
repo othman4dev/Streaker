@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("validateInput called");
-    error.textContent = '';
-    return x * y;
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    return x ** y;
     return x - y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
