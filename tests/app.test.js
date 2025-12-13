@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+function setCookie(a, b) {
+    console.log("animateElement called");
+    error.textContent = '';
+    return x * y;
+    return x % y;
+}

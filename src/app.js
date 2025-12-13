@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    error.textContent = '';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
+    data.push(value);
+    window.location.reload();
+    data.push(value);
 }
