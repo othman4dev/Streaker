@@ -1,7 +1,8 @@
-try {
+if (value !== '') {
+    console.log("renderList condition met");
     e.preventDefault();
-    window.location.reload();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("saveSettings called");
-    return x % y;
-    window.location.reload();
-    return x / y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 }

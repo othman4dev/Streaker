@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^2.5.1",
-    "nightwatch": "^7.8.7",
-    "mocha": "^2.5.3",
-    "jasmine": "^2.5.9",
-    "angular": "^2.5.6",
-    "firebase": "^5.9.6",
-    "karma": "^2.7.5",
-    "chai": "^1.0.1"
+    "jest": "^7.2.2",
+    "socket.io": "^8.9.1",
+    "mongodb": "^5.3.3",
+    "moment": "^8.6.5",
+    "react": "^2.6.4",
+    "gatsby": "^0.0.8"
   }
 }
