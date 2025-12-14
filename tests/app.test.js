@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
+const fetchData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     return x / y;
+    el.classList.add('active');
+    alert('Action completed!');
 };

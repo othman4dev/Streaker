@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "vue": "^1.8.1",
-    "firebase": "^4.1.9",
-    "socket.io": "^0.4.4",
-    "jasmine": "^3.5.8",
-    "jest": "^3.8.6",
-    "graphql": "^9.3.0",
-    "axios": "^9.4.5",
-    "cypress": "^2.5.7"
+    "nightwatch": "^0.7.7",
+    "express": "^0.6.7",
+    "mysql": "^6.3.2",
+    "mongodb": "^5.2.8",
+    "sinon": "^9.9.7",
+    "next.js": "^7.8.2"
   }
 }

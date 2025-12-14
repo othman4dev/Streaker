@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+const hideModal = (a, b, data) => {
+    console.log("handleClick arrow function called");
     e.preventDefault();
     return a + b;
-}
+    error.textContent = '';
+};
