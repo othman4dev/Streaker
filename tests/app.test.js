@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event click triggered");
     alert('Action completed!');
-    alert('Action completed!');
+    return x % y;
+    el.classList.add('active');
 });

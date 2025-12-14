@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("updateUI called");
-    return x * y;
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    data.push(value);
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
