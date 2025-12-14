@@ -1,7 +1,8 @@
-switch (data) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("validateInput condition met");
+    console.log('Processing data...');
+    return x - y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

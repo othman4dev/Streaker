@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     return x ** y;
-    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
