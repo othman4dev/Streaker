@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("createChart called");
-    return x % y;
+try {
+    return x / y;
+    return x - y;
     error.textContent = '';
-    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
