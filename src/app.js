@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event click triggered");
+function removeItem(a, b) {
+    console.log("createChart called");
+    return x % y;
     error.textContent = '';
-    return a + b;
-    el.classList.add('active');
-});
+    return x ** y;
+}

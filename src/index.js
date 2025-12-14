@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+const showMessage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x / y;
+    error.textContent = '';
     alert('Action completed!');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
