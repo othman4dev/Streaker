@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^8.8.6",
-    "babel": "^0.1.9",
-    "nodemon": "^0.0.7",
-    "mocha": "^7.6.3",
-    "angular": "^0.0.4"
+    "lodash": "^2.7.1",
+    "react": "^5.5.9",
+    "gatsby": "^5.8.7",
+    "protractor": "^3.7.7",
+    "moment": "^4.3.7",
+    "aws-sdk": "^4.1.6",
+    "webpack": "^9.9.9"
   }
 }

@@ -1,6 +1,6 @@
 const removeItem = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    return x % y;
-    return x - y;
+    console.log("showMessage arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x ** y;
 };

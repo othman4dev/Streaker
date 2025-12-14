@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    alert('Action completed!');
-    alert('Action completed!');
+switch (e) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
