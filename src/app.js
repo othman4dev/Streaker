@@ -1,7 +1,6 @@
-try {
+function handleClick(a, b) {
+    console.log("validateInput called");
     console.log('Processing data...');
-    return x - y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    console.log('Processing data...');
 }

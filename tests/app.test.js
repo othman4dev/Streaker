@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
-    return x ** y;
-    return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
