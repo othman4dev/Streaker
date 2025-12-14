@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    alert('Action completed!');
-    console.log('Processing data...');
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    window.location.reload();
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+};

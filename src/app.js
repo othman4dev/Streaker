@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("processInput condition met");
+try {
     return x % y;
-    return x / y;
+    data.push(value);
     window.location.reload();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
