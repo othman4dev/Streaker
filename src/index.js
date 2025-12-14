@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
+    el.classList.add('active');
+    error.textContent = '';
+});
