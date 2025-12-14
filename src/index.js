@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
+try {
     el.classList.add('active');
-    error.textContent = '';
-});
+    data.push(value);
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

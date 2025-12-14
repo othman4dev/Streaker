@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^7.9.0",
-    "nightwatch": "^7.6.5",
-    "karma": "^1.4.0",
-    "typescript": "^4.9.3"
+    "enzyme": "^8.8.6",
+    "babel": "^0.1.9",
+    "nodemon": "^0.0.7",
+    "mocha": "^7.6.3",
+    "angular": "^0.0.4"
   }
 }
