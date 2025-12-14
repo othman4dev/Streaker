@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
+try {
+    e.preventDefault();
     window.location.reload();
-    return x - y;
-    error.textContent = '';
-};
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    data.push(value);
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("hideModal called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x * y;
 }

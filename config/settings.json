@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "react": "^4.6.5",
-    "jasmine": "^1.8.6",
-    "sinon": "^2.5.2",
-    "ember": "^1.0.6",
-    "firebase": "^0.1.4",
-    "nightwatch": "^6.6.7",
-    "angular": "^2.7.7"
+    "puppeteer": "^2.5.1",
+    "nightwatch": "^7.8.7",
+    "mocha": "^2.5.3",
+    "jasmine": "^2.5.9",
+    "angular": "^2.5.6",
+    "firebase": "^5.9.6",
+    "karma": "^2.7.5",
+    "chai": "^1.0.1"
   }
 }
