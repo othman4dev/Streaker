@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "axios": "^7.1.2",
-    "webpack": "^7.8.3",
-    "puppeteer": "^9.7.5",
-    "react": "^1.7.5",
-    "ember": "^2.8.6"
+    "puppeteer": "^3.5.5",
+    "axios": "^0.1.6",
+    "express": "^1.4.3",
+    "ember": "^5.0.6",
+    "next.js": "^1.8.1",
+    "redis": "^9.9.2",
+    "prettier": "^2.0.7"
   }
 }

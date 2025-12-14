@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x * y;
-    el.classList.add('active');
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    error.textContent = '';
+});
