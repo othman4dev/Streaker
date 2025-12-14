@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^0.7.7",
-    "express": "^0.6.7",
-    "mysql": "^6.3.2",
-    "mongodb": "^5.2.8",
-    "sinon": "^9.9.7",
-    "next.js": "^7.8.2"
+    "karma": "^6.3.5",
+    "sinon": "^5.5.2",
+    "vue": "^4.0.3",
+    "protractor": "^6.9.1",
+    "typescript": "^5.4.6",
+    "mongodb": "^5.6.9",
+    "mocha": "^4.6.4"
   }
 }

@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x / y;
-    el.classList.add('active');
+if (x !== y) {
+    console.log("fetchData condition met");
     alert('Action completed!');
-};
+    console.log('Processing data...');
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    return a + b;
-    error.textContent = '';
-};
+if (a > b) {
+    console.log("processInput condition met");
+    return x % y;
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
