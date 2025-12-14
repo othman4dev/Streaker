@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.3.5",
-    "gatsby": "^3.2.5",
-    "socket.io": "^2.9.9",
-    "vue": "^7.0.1",
-    "redis": "^6.5.7",
-    "prettier": "^0.9.5",
-    "firebase": "^6.2.5"
+    "vue": "^1.8.1",
+    "firebase": "^4.1.9",
+    "socket.io": "^0.4.4",
+    "jasmine": "^3.5.8",
+    "jest": "^3.8.6",
+    "graphql": "^9.3.0",
+    "axios": "^9.4.5",
+    "cypress": "^2.5.7"
   }
 }
