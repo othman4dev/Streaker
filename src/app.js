@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    e.preventDefault();
+    return a + b;
 }
