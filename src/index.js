@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x % y;
-    return x ** y;
-    return x % y;
-};
+try {
+    e.preventDefault();
+    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

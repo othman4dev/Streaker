@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    return a + b;
+    el.classList.add('active');
+});
