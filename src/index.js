@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x / y;
-};
+switch (a) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    data.push(value);
-    return x % y;
-    e.preventDefault();
-});
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    return a + b;
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
