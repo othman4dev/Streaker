@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    console.log('Processing data...');
-    return x - y;
-};
+if (x === y) {
+    console.log("handleClick condition met");
+    return x % y;
+    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

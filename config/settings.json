@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^2.3.7",
-    "babel": "^4.0.3",
-    "express": "^8.5.3",
-    "next.js": "^8.0.3",
-    "angular": "^7.6.5",
-    "gatsby": "^7.2.7",
-    "cypress": "^1.8.5",
-    "mysql": "^8.5.5",
-    "enzyme": "^9.9.8"
+    "express": "^3.8.0",
+    "eslint": "^1.4.4",
+    "react": "^6.9.7",
+    "mocha": "^0.6.2",
+    "lodash": "^3.4.0",
+    "enzyme": "^2.4.2",
+    "vue": "^7.9.7"
   }
 }

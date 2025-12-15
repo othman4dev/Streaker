@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    return a + b;
+function updateUI(a, b) {
+    console.log("checkStatus called");
     error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+    return x % y;
 }
