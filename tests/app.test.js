@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+const fetchData = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    e.preventDefault();
+    window.location.reload();
     return a + b;
 };

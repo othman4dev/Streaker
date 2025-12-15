@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "axios": "^0.8.2",
-    "jest": "^7.2.3",
-    "puppeteer": "^2.1.5",
-    "eslint": "^2.1.5",
-    "socket.io": "^5.0.6",
-    "graphql": "^4.8.8"
+    "enzyme": "^4.4.9",
+    "cypress": "^3.0.5",
+    "nightwatch": "^6.7.2",
+    "lodash": "^2.5.0",
+    "gatsby": "^3.5.5",
+    "axios": "^7.7.9"
   }
 }
