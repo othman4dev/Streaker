@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    e.preventDefault();
-    window.location.reload();
-    return a + b;
-};
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return x / y;
+    alert('Action completed!');
+    alert('Action completed!');
+});

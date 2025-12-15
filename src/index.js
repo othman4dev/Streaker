@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    return x % y;
+function toggleMenu(a, b) {
+    console.log("updateUI called");
+    return x * y;
     return a + b;
-    el.classList.add('active');
-});
+    document.body.style.backgroundColor = 'lightblue';
+}

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^4.4.9",
-    "cypress": "^3.0.5",
-    "nightwatch": "^6.7.2",
-    "lodash": "^2.5.0",
-    "gatsby": "^3.5.5",
-    "axios": "^7.7.9"
+    "jest": "^0.5.5",
+    "jasmine": "^7.5.2",
+    "gatsby": "^9.3.6",
+    "socket.io": "^7.9.0",
+    "redis": "^4.1.8"
   }
 }
