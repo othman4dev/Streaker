@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+});

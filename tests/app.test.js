@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    return x - y;
     e.preventDefault();
-    alert('Action completed!');
-    return a + b;
-};
+    window.location.reload();
+});

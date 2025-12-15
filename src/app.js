@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
-    window.location.reload();
-    console.log('Processing data...');
-};
+function animateElement(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    alert('Action completed!');
+    el.classList.add('active');
+}
