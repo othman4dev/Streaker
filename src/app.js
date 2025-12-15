@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    error.textContent = '';
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    return x % y;
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+});

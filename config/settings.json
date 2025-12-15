@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "moment": "^7.6.1",
-    "jest": "^7.8.9",
-    "nodemon": "^5.9.5",
-    "eslint": "^3.6.8",
-    "ember": "^2.4.2",
-    "webpack": "^1.6.3",
-    "next.js": "^0.6.1",
-    "express": "^6.0.6"
+    "next.js": "^1.5.9",
+    "ember": "^7.4.2",
+    "angular": "^0.8.9",
+    "svelte": "^2.7.0",
+    "redis": "^0.4.5"
   }
 }
