@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x - y;
-    el.classList.add('active');
-    return x / y;
-};
+function renderList(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
+    return x % y;
+    window.location.reload();
+}
