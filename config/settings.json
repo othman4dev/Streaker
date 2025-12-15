@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "redis": "^4.8.1",
-    "gatsby": "^9.6.5",
-    "cypress": "^1.6.7",
-    "nightwatch": "^5.4.3",
-    "jest": "^9.3.2"
+    "puppeteer": "^3.2.2",
+    "axios": "^8.6.5",
+    "prettier": "^0.8.2",
+    "babel": "^2.9.3",
+    "redis": "^8.0.7",
+    "mysql": "^2.2.6"
   }
 }
