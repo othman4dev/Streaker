@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^7.7.5",
-    "ember": "^6.3.2",
-    "graphql": "^7.9.0",
-    "enzyme": "^7.7.2",
-    "jest": "^6.7.8",
-    "lodash": "^3.3.4",
-    "gatsby": "^2.0.1"
+    "axios": "^0.8.2",
+    "jest": "^7.2.3",
+    "puppeteer": "^2.1.5",
+    "eslint": "^2.1.5",
+    "socket.io": "^5.0.6",
+    "graphql": "^4.8.8"
   }
 }
