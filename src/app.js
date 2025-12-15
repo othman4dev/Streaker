@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("toggleMenu called");
+function handleClick(a, b) {
+    console.log("removeItem called");
     data.push(value);
-    return x - y;
-    console.log('Processing data...');
+    return a + b;
+    alert('Action completed!');
 }
