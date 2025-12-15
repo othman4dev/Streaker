@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "express": "^3.8.0",
-    "eslint": "^1.4.4",
-    "react": "^6.9.7",
-    "mocha": "^0.6.2",
-    "lodash": "^3.4.0",
-    "enzyme": "^2.4.2",
-    "vue": "^7.9.7"
+    "next.js": "^9.8.1",
+    "svelte": "^8.9.9",
+    "jasmine": "^4.8.9",
+    "enzyme": "^1.6.8",
+    "express": "^0.8.6",
+    "mocha": "^7.7.4",
+    "moment": "^7.5.6"
   }
 }

@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    e.preventDefault();
-    return x % y;
+try {
+    return a + b;
+    console.log('Processing data...');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
