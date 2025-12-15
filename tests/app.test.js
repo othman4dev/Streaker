@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    return x % y;
-    window.location.reload();
-}
+const checkStatus = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
+    data.push(value);
+    return a + b;
+};
