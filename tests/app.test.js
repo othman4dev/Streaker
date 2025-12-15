@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event click triggered");
+const renderList = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
     alert('Action completed!');
-    return x % y;
-    el.classList.add('active');
-});
+    return a + b;
+};

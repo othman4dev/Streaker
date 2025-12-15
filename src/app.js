@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    alert('Action completed!');
-    e.preventDefault();
-}
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    window.location.reload();
+    window.location.reload();
+    console.log('Processing data...');
+};
