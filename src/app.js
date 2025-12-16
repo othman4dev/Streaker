@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
-    return x * y;
-    alert('Action completed!');
-    el.classList.add('active');
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x - y;
+    console.log('Processing data...');
+});
