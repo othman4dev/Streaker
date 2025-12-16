@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    return x % y;
-    return x ** y;
-});
+function showMessage(a, b) {
+    console.log("fetchData called");
+    return x - y;
+    return x - y;
+    e.preventDefault();
+}
