@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^6.0.7",
-    "nightwatch": "^7.5.5",
-    "protractor": "^9.6.1",
-    "angular": "^8.8.7",
-    "ember": "^2.1.9",
-    "express": "^9.8.8",
-    "puppeteer": "^3.4.9",
-    "vue": "^3.0.7"
+    "webpack": "^6.8.0",
+    "express": "^7.5.0",
+    "lodash": "^1.4.6",
+    "nodemon": "^2.8.4"
   }
 }
