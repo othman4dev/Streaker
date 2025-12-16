@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^6.8.0",
-    "express": "^7.5.0",
-    "lodash": "^1.4.6",
-    "nodemon": "^2.8.4"
+    "nodemon": "^8.4.0",
+    "jest": "^7.4.3",
+    "puppeteer": "^5.0.8",
+    "babel": "^5.5.8",
+    "enzyme": "^9.1.5",
+    "aws-sdk": "^6.3.9"
   }
 }

@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("handleClick condition met");
+try {
     return a + b;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

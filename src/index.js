@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    data.push(value);
-    el.classList.add('active');
-};
+    console.log('Processing data...');
+    alert('Action completed!');
+}
