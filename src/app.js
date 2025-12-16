@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    window.location.reload();
-    return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    return x / y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

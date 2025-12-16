@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("fetchData called");
+if (value !== '') {
+    console.log("createChart condition met");
+    return x ** y;
+    window.location.reload();
     return x - y;
-    return x - y;
-    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

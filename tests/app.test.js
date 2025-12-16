@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    return x - y;
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
     console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    window.location.reload();
+};
