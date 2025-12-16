@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "react": "^8.4.0",
-    "ember": "^9.0.6",
-    "moment": "^0.5.3",
-    "karma": "^9.7.5",
-    "socket.io": "^4.0.9",
-    "webpack": "^9.0.8"
+    "next.js": "^3.3.5",
+    "eslint": "^4.8.6",
+    "lodash": "^8.9.4",
+    "prettier": "^5.7.1",
+    "react": "^8.1.0",
+    "svelte": "^2.5.6"
   }
 }

@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    alert('Action completed!');
-    return x ** y;
-    return x * y;
-};
+try {
+    window.location.reload();
+    return x % y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

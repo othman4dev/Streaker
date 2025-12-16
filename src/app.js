@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
+if (x !== y) {
+    console.log("hideModal condition met");
+    alert('Action completed!');
+    window.location.reload();
     return x * y;
-    return a + b;
+} else {
+    console.log("Condition not met");
 }

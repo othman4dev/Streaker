@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return x % y;
+    return x ** y;
+});
