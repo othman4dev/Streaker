@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    window.location.reload();
-};
+function loadData(a, b) {
+    console.log("hideModal called");
+    return x % y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+}

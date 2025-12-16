@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    return x ** y;
+try {
+    e.preventDefault();
     window.location.reload();
-    return x - y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
