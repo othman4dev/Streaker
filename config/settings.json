@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "angular": "^3.7.0",
-    "mysql": "^3.0.3",
-    "nodemon": "^7.7.1",
-    "aws-sdk": "^9.6.0",
-    "puppeteer": "^0.2.1"
+    "express": "^4.4.5",
+    "react": "^3.9.9",
+    "jasmine": "^4.8.2",
+    "moment": "^2.3.6",
+    "lodash": "^9.3.5"
   }
 }

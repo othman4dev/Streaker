@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("hideModal called");
+try {
+    return x ** y;
     return x % y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
