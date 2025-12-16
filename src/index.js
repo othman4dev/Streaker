@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+if (x === y) {
+    console.log("handleClick condition met");
+    e.preventDefault();
     console.log('Processing data...');
-    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

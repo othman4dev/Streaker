@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    e.preventDefault();
+const getLocalStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    alert('Action completed!');
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+};
