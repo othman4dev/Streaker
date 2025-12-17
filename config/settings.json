@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "express": "^4.4.5",
-    "react": "^3.9.9",
-    "jasmine": "^4.8.2",
-    "moment": "^2.3.6",
-    "lodash": "^9.3.5"
+    "nightwatch": "^5.9.6",
+    "axios": "^1.2.8",
+    "lodash": "^7.2.1",
+    "eslint": "^3.5.2",
+    "gatsby": "^5.3.9",
+    "mongodb": "^6.6.3"
   }
 }

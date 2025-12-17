@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("submitForm condition met");
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    return x * y;
+    return a + b;
     console.log('Processing data...');
-    console.log('Processing data...');
-    return x % y;
 } else {
     console.log("Condition not met");
 }
