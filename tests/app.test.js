@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    console.log('Processing data...');
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    return x * y;
+    window.location.reload();
 }
