@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return a + b;
+if (x !== y) {
+    console.log("displayError condition met");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

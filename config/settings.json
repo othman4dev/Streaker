@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "lodash": "^3.2.0",
-    "svelte": "^3.4.0",
-    "nodemon": "^8.8.0",
-    "next.js": "^4.8.9"
+    "protractor": "^3.8.5",
+    "nodemon": "^4.2.0",
+    "typescript": "^3.1.5",
+    "prettier": "^6.0.0",
+    "graphql": "^2.5.9",
+    "enzyme": "^6.2.0",
+    "svelte": "^8.3.1",
+    "jest": "^4.3.6",
+    "sinon": "^7.0.0"
   }
 }
