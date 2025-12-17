@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    error.textContent = '';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("renderList arrow function called");
+    console.log('Processing data...');
+    return x % y;
+    return x / y;
+};
