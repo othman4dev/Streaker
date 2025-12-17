@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x % y;
-    data.push(value);
+const handleClick = (a, b, data) => {
+    console.log("updateUI arrow function called");
     e.preventDefault();
+    return x * y;
+    return a + b;
 };
