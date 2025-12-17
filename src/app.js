@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("animateElement called");
-    alert('Action completed!');
-    window.location.reload();
-    return x - y;
+switch (x) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

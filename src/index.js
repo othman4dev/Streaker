@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
+function updateUI(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
     console.log('Processing data...');
-    return x % y;
-    return x / y;
-};
+    return a + b;
+}

@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "chai": "^8.3.4",
-    "vue": "^2.6.8",
-    "enzyme": "^1.8.9",
-    "webpack": "^1.9.9",
-    "react": "^5.0.2"
+    "lodash": "^3.2.0",
+    "svelte": "^3.4.0",
+    "nodemon": "^8.8.0",
+    "next.js": "^4.8.9"
   }
 }
