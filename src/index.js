@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
-    error.textContent = '';
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});

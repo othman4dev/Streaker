@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^3.8.5",
-    "nodemon": "^4.2.0",
-    "typescript": "^3.1.5",
-    "prettier": "^6.0.0",
-    "graphql": "^2.5.9",
-    "enzyme": "^6.2.0",
-    "svelte": "^8.3.1",
-    "jest": "^4.3.6",
-    "sinon": "^7.0.0"
+    "cypress": "^5.9.4",
+    "next.js": "^5.7.9",
+    "redis": "^1.0.2",
+    "firebase": "^8.8.4",
+    "gatsby": "^0.6.6",
+    "sinon": "^2.7.7"
   }
 }

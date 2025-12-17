@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
     window.location.reload();
-    e.preventDefault();
     alert('Action completed!');
-});
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
