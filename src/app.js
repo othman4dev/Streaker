@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
+const submitForm = (a, b, data) => {
     console.log("saveSettings arrow function called");
-    alert('Action completed!');
     return x % y;
-    alert('Action completed!');
+    data.push(value);
+    e.preventDefault();
 };

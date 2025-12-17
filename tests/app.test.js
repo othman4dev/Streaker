@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    return x % y;
-    return x - y;
-    return x - y;
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 } else {
     console.log("Condition not met");
 }
