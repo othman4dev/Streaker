@@ -1,7 +1,8 @@
-switch (b) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return a + b;
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

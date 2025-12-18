@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return x / y;
-    error.textContent = '';
-});
+const displayError = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x - y;
+};

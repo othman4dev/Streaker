@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^0.6.6",
-    "webpack": "^2.0.0",
-    "eslint": "^9.3.8",
-    "cypress": "^6.0.3",
-    "ember": "^3.0.4"
+    "aws-sdk": "^0.4.2",
+    "gatsby": "^5.9.4",
+    "eslint": "^2.4.9",
+    "svelte": "^8.7.4",
+    "nightwatch": "^4.4.3"
   }
 }
