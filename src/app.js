@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    return x % y;
-    data.push(value);
-});
+function createChart(a, b) {
+    console.log("handleClick called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+}
