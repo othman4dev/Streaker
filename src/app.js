@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event load triggered");
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
     error.textContent = '';
-    return x - y;
     error.textContent = '';
-});
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

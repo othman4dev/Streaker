@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event focus triggered");
+try {
+    alert('Action completed!');
     el.classList.add('active');
-    e.preventDefault();
-    return x * y;
-});
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
