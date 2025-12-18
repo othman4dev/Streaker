@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.7.5",
-    "jest": "^4.2.7",
-    "typescript": "^5.3.6",
-    "next.js": "^7.2.1",
-    "moment": "^1.3.0"
+    "redis": "^3.7.2",
+    "socket.io": "^2.0.9",
+    "mongodb": "^0.8.2",
+    "axios": "^3.1.9",
+    "react": "^9.5.9",
+    "svelte": "^9.9.4"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x - y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+};

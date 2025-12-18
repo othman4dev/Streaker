@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x ** y;
-    error.textContent = '';
-    alert('Action completed!');
-};
+if (x === y) {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
