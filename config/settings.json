@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jest": "^0.3.6",
-    "mocha": "^5.3.8",
-    "moment": "^8.4.2",
-    "karma": "^2.2.5",
-    "redis": "^2.5.0",
-    "babel": "^8.0.2",
-    "protractor": "^0.7.7"
+    "next.js": "^1.6.6",
+    "firebase": "^8.0.3",
+    "axios": "^9.1.2",
+    "aws-sdk": "^9.5.7",
+    "mysql": "^0.3.8",
+    "moment": "^4.5.7",
+    "redis": "^5.4.6",
+    "karma": "^5.2.4"
   }
 }
