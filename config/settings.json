@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "redis": "^3.7.2",
-    "socket.io": "^2.0.9",
-    "mongodb": "^0.8.2",
-    "axios": "^3.1.9",
-    "react": "^9.5.9",
-    "svelte": "^9.9.4"
+    "enzyme": "^3.0.8",
+    "ember": "^4.0.8",
+    "mysql": "^1.4.0",
+    "babel": "^5.5.3",
+    "aws-sdk": "^7.5.0",
+    "react": "^7.0.2",
+    "webpack": "^7.2.1",
+    "cypress": "^5.0.8",
+    "jest": "^7.3.5"
   }
 }

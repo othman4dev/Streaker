@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("renderList arrow function called");
+function formatDate(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    return x - y;
     return a + b;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-};
+}

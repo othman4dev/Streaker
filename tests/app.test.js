@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
+const submitForm = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     error.textContent = '';
-    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
     document.body.style.backgroundColor = 'lightblue';
 };

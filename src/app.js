@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
+function processInput(a, b) {
+    console.log("checkStatus called");
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }
