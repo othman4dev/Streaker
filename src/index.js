@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    return x - y;
-    return a + b;
-}
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    return x * y;
+});

@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^3.0.8",
-    "ember": "^4.0.8",
-    "mysql": "^1.4.0",
-    "babel": "^5.5.3",
-    "aws-sdk": "^7.5.0",
-    "react": "^7.0.2",
-    "webpack": "^7.2.1",
-    "cypress": "^5.0.8",
-    "jest": "^7.3.5"
+    "webpack": "^2.9.0",
+    "next.js": "^3.4.4",
+    "babel": "^6.1.6",
+    "jasmine": "^9.5.1",
+    "graphql": "^4.5.7",
+    "axios": "^5.3.8"
   }
 }

@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+function toggleMenu(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    return x / y;
+    return x / y;
+}

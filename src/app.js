@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("checkStatus called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-}
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    return x - y;
+    error.textContent = '';
+});
