@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    console.log('Processing data...');
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    return x % y;
+    return a + b;
+    return x ** y;
+});

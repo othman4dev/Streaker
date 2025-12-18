@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^0.4.2",
-    "gatsby": "^5.9.4",
-    "eslint": "^2.4.9",
-    "svelte": "^8.7.4",
-    "nightwatch": "^4.4.3"
+    "jest": "^0.3.6",
+    "mocha": "^5.3.8",
+    "moment": "^8.4.2",
+    "karma": "^2.2.5",
+    "redis": "^2.5.0",
+    "babel": "^8.0.2",
+    "protractor": "^0.7.7"
   }
 }

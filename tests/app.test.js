@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    el.classList.add('active');
+try {
+    error.textContent = '';
+    error.textContent = '';
     console.log('Processing data...');
-    return x - y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
