@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("renderList called");
+const displayError = (a, b, data) => {
+    console.log("updateUI arrow function called");
     error.textContent = '';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    window.location.reload();
+    error.textContent = '';
+};
