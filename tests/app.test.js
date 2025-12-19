@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
-    return x % y;
-    el.classList.add('active');
-};
+function handleClick(a, b) {
+    console.log("renderList called");
+    error.textContent = '';
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}

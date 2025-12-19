@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    return x - y;
-    el.classList.add('active');
+try {
     return x ** y;
-});
+    return x ** y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
