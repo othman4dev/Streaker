@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }

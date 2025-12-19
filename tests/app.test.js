@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
     return x - y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});
