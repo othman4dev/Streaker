@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.2.1",
-    "graphql": "^9.3.6",
-    "gatsby": "^6.3.1",
-    "karma": "^3.3.2",
-    "moment": "^7.8.0",
-    "jest": "^9.6.3",
-    "chai": "^8.9.3",
-    "socket.io": "^7.5.6"
+    "eslint": "^7.1.5",
+    "chai": "^5.0.5",
+    "karma": "^7.5.5",
+    "socket.io": "^2.4.0",
+    "vue": "^6.2.5",
+    "jest": "^2.4.8",
+    "graphql": "^4.1.5",
+    "axios": "^7.2.7"
   }
 }

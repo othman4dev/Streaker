@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    error.textContent = '';
-    error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
