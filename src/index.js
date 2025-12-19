@@ -1,7 +1,6 @@
-try {
-    return a + b;
+function getLocalStorage(a, b) {
+    console.log("showMessage called");
     return x / y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    e.preventDefault();
 }

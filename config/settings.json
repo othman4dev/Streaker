@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^9.7.1",
-    "jest": "^2.0.0",
-    "mysql": "^5.6.6",
-    "babel": "^3.0.0",
-    "puppeteer": "^6.3.5"
+    "mysql": "^2.9.3",
+    "prettier": "^6.5.6",
+    "graphql": "^1.5.8",
+    "puppeteer": "^1.7.9",
+    "jest": "^9.7.0"
   }
 }

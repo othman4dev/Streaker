@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("displayError called");
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event resize triggered");
     return x - y;
-    error.textContent = '';
     el.classList.add('active');
-}
+    return x ** y;
+});

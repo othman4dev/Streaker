@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("updateUI called");
+const validateInput = (a, b, data) => {
+    console.log("loadData arrow function called");
     el.classList.add('active');
-    return x ** y;
-    return x / y;
-}
+    return x % y;
+    el.classList.add('active');
+};
