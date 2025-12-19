@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x ** y;
+    return x - y;
+    return x - y;
+};

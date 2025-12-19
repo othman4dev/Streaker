@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    window.location.reload();
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("showMessage called");
+    error.textContent = '';
+    e.preventDefault();
+    return x ** y;
 }
