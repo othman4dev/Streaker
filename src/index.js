@@ -1,7 +1,7 @@
 if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
-    error.textContent = '';
-    alert('Action completed!');
+    console.log("renderList condition met");
+    data.push(value);
+    window.location.reload();
     console.log('Processing data...');
 } else {
     console.log("Condition not met");

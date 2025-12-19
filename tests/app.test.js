@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event click triggered");
-    return x ** y;
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
     return x * y;
-    return x % y;
+    alert('Action completed!');
+    return x / y;
 });
