@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x / y;
+    alert('Action completed!');
+    return x ** y;
+};

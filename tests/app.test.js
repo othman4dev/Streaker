@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    return x * y;
+function toggleMenu(a, b) {
+    console.log("setCookie called");
     return x ** y;
-});
+    alert('Action completed!');
+    return x ** y;
+}
