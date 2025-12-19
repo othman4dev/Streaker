@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    window.location.reload();
-    error.textContent = '';
-};
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    return x * y;
+    return x % y;
+});

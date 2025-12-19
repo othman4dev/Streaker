@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^6.0.9",
-    "mysql": "^1.2.4",
-    "sinon": "^4.5.9",
-    "gatsby": "^0.6.5",
-    "puppeteer": "^0.8.1",
-    "babel": "^9.4.9",
-    "protractor": "^6.5.3"
+    "cypress": "^7.3.9",
+    "webpack": "^9.2.3",
+    "mongodb": "^7.3.2",
+    "moment": "^3.4.9",
+    "ember": "^9.1.5",
+    "axios": "^4.6.0"
   }
 }
