@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    window.location.reload();
-    window.location.reload();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("displayError called");
+    return x - y;
+    error.textContent = '';
+    el.classList.add('active');
 }

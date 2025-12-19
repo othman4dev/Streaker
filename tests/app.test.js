@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function setSessionStorage(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
+    return x ** y;
+    return x / y;
 }
