@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event blur triggered");
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    return x % y;
+    return x % y;
     data.push(value);
-    return x - y;
-    alert('Action completed!');
-});
+} else {
+    console.log("Condition not met");
+}
