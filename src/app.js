@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
-    console.log('Processing data...');
-    return x ** y;
-});
+function updateUI(a, b) {
+    console.log("createChart called");
+    return x % y;
+    return a + b;
+    el.classList.add('active');
+}
