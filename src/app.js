@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    data.push(value);
-    return a + b;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return x % y;
+    return x * y;
+    el.classList.add('active');
+});
