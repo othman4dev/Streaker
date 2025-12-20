@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
     console.log('Processing data...');
-    return x % y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+});
