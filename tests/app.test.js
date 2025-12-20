@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    return x * y;
-    alert('Action completed!');
-    return x / y;
-});
+const renderList = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    window.location.reload();
+    return x % y;
+    error.textContent = '';
+};
