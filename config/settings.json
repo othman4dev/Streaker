@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "moment": "^8.2.6",
-    "typescript": "^8.9.8",
-    "eslint": "^3.7.4",
-    "socket.io": "^7.6.7",
-    "nodemon": "^5.7.9",
-    "axios": "^2.7.3",
-    "firebase": "^3.4.6"
+    "socket.io": "^6.8.3",
+    "svelte": "^4.5.9",
+    "nightwatch": "^1.6.1",
+    "jest": "^6.6.7"
   }
 }

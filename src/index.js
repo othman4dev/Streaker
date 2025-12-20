@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x ** y;
-    error.textContent = '';
-});
+try {
+    console.log('Processing data...');
+    console.log('Processing data...');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

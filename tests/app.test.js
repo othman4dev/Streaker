@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    window.location.reload();
-    return x % y;
-    error.textContent = '';
-};
+switch (el) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
