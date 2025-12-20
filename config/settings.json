@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^6.8.3",
-    "svelte": "^4.5.9",
-    "nightwatch": "^1.6.1",
-    "jest": "^6.6.7"
+    "vue": "^1.9.4",
+    "jasmine": "^3.5.3",
+    "webpack": "^8.1.2",
+    "redis": "^2.9.4",
+    "protractor": "^4.3.4"
   }
 }
