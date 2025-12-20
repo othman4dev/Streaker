@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    console.log('Processing data...');
     return x % y;
-    return x % y;
-    data.push(value);
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
