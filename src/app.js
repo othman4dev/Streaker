@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("createChart called");
-    return x % y;
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    data.push(value);
     return a + b;
-    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
