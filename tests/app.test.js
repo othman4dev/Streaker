@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    return a + b;
+function createChart(a, b) {
+    console.log("formatDate called");
+    el.classList.add('active');
     window.location.reload();
-    return x - y;
-});
+    return x ** y;
+}

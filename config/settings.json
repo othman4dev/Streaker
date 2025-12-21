@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "socket.io": "^0.7.4",
-    "jasmine": "^7.4.1",
-    "next.js": "^9.7.3",
-    "mongodb": "^5.7.2",
-    "nightwatch": "^0.1.0",
-    "lodash": "^2.5.0",
-    "redis": "^1.9.9"
+    "graphql": "^0.4.1",
+    "puppeteer": "^7.9.2",
+    "babel": "^4.4.9",
+    "next.js": "^0.1.8",
+    "express": "^3.4.2",
+    "socket.io": "^0.2.6",
+    "karma": "^6.1.6",
+    "angular": "^2.7.8",
+    "nightwatch": "^3.1.3"
   }
 }
