@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
+function toggleMenu(a, b) {
+    console.log("validateInput called");
+    window.location.reload();
     return x % y;
-    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

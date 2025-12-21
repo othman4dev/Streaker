@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event click triggered");
+const renderList = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x % y;
-    return x * y;
-    el.classList.add('active');
-});
+    error.textContent = '';
+    window.location.reload();
+};
