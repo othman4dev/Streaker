@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    return x * y;
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    return a + b;
     console.log('Processing data...');
-};
+    el.classList.add('active');
+});

@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return x * y;
     return x ** y;
-    window.location.reload();
-}
+});
