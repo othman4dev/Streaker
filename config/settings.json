@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "redis": "^1.0.8",
-    "firebase": "^3.8.9",
-    "jasmine": "^4.8.8",
-    "jest": "^7.7.1",
-    "puppeteer": "^6.8.3"
+    "cypress": "^5.8.3",
+    "moment": "^1.8.0",
+    "mysql": "^0.0.7",
+    "socket.io": "^6.9.9",
+    "sinon": "^9.5.1"
   }
 }

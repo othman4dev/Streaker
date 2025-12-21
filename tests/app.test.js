@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    return x ** y;
+const loadData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
     data.push(value);
-});
+    return x * y;
+};
