@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
-    data.push(value);
-    window.location.reload();
-});
+if (a > b) {
+    console.log("animateElement condition met");
+    error.textContent = '';
+    alert('Action completed!');
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
