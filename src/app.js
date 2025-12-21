@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    console.log('Processing data...');
-    return x / y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    return x ** y;
+    window.location.reload();
 }
