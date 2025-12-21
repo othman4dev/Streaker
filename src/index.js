@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("toggleMenu called");
-    return x - y;
-    return x * y;
-    data.push(value);
+switch (y) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
