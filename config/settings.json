@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^7.6.6",
-    "next.js": "^1.8.6",
-    "enzyme": "^0.7.3",
-    "angular": "^2.4.8",
-    "mongodb": "^1.5.8",
-    "puppeteer": "^6.5.0",
-    "eslint": "^2.0.5"
+    "redis": "^1.0.8",
+    "firebase": "^3.8.9",
+    "jasmine": "^4.8.8",
+    "jest": "^7.7.1",
+    "puppeteer": "^6.8.3"
   }
 }

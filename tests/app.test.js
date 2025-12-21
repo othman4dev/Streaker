@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("validateInput called");
-    window.location.reload();
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    return x ** y;
+    data.push(value);
+});

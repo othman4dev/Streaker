@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x ** y;
-    return x - y;
-    window.location.reload();
-};
+switch (y) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
