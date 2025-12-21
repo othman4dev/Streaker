@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
     return x % y;
-    alert('Action completed!');
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

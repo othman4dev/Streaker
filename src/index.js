@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
