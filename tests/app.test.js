@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    data.push(value);
-    return x * y;
-};
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    window.location.reload();
+    return x - y;
+});
