@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    return a + b;
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
     console.log('Processing data...');
-    el.classList.add('active');
+    data.push(value);
+    window.location.reload();
 });

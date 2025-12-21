@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    return x * y;
+function removeItem(a, b) {
+    console.log("setCookie called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-});
+}
