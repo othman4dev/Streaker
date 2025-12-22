@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    return x % y;
+    return x % y;
+});

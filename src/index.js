@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    return x / y;
+try {
     e.preventDefault();
-};
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

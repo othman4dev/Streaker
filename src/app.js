@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x * y;
-    e.preventDefault();
+function animateElement(a, b) {
+    console.log("removeItem called");
+    return x - y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
