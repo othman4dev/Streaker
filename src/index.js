@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    error.textContent = '';
+    return x / y;
+    e.preventDefault();
+};

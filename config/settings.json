@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^3.0.7",
-    "react": "^3.7.9",
-    "jest": "^9.4.2",
-    "angular": "^7.6.7",
-    "ember": "^2.5.0",
-    "graphql": "^9.9.5"
+    "karma": "^8.4.5",
+    "react": "^5.2.3",
+    "mongodb": "^0.0.6",
+    "chai": "^1.4.7",
+    "redis": "^6.2.3"
   }
 }
