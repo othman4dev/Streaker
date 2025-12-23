@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("processInput called");
-    return a + b;
-    el.classList.add('active');
-    error.textContent = '';
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    alert('Action completed!');
+    console.log('Processing data...');
 }

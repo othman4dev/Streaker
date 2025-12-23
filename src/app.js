@@ -1,7 +1,6 @@
-try {
+function loadData(a, b) {
+    console.log("hideModal called");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    console.log('Processing data...');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
 }
