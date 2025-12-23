@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
+    e.preventDefault();
+    error.textContent = '';
+    return a + b;
 }

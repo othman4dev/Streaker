@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "express": "^8.5.1",
-    "prettier": "^0.8.5",
-    "typescript": "^9.7.9",
-    "mysql": "^8.2.1",
-    "nightwatch": "^8.1.4",
-    "next.js": "^9.3.0"
+    "ember": "^1.4.9",
+    "express": "^0.0.0",
+    "mongodb": "^4.8.2",
+    "eslint": "^0.8.3",
+    "mocha": "^6.1.6"
   }
 }

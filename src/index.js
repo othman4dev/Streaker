@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    return x / y;
-    error.textContent = '';
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    return x ** y;
     return x % y;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
