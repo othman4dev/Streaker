@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("handleClick called");
+    console.log('Processing data...');
+    error.textContent = '';
+    return a + b;
 }
