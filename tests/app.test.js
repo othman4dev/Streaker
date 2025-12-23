@@ -1,7 +1,6 @@
-try {
-    return x - y;
+function displayError(a, b) {
+    console.log("processInput called");
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    error.textContent = '';
 }
