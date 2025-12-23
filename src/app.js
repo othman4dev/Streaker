@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    el.classList.add('active');
+switch (e) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

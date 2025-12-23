@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^8.1.8",
-    "enzyme": "^3.2.2",
-    "jest": "^4.5.3",
-    "moment": "^1.7.2",
-    "webpack": "^9.8.3",
-    "firebase": "^8.1.9",
-    "socket.io": "^1.7.1"
+    "mongodb": "^8.2.2",
+    "gatsby": "^1.5.3",
+    "aws-sdk": "^6.6.7",
+    "graphql": "^9.7.0",
+    "karma": "^0.5.3",
+    "chai": "^8.3.5"
   }
 }

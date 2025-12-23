@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+function formatDate(a, b) {
+    console.log("displayError called");
     alert('Action completed!');
-    console.log('Processing data...');
+    return x / y;
+    return x - y;
 }
