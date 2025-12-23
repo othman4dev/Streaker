@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    window.location.reload();
-    return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("renderList called");
+    return x ** y;
+    e.preventDefault();
+    return x - y;
 }

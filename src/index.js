@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    e.preventDefault();
 }
