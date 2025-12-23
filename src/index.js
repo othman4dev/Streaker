@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event change triggered");
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    window.location.reload();
+});
