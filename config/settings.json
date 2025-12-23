@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^9.0.1",
-    "typescript": "^6.8.8",
-    "cypress": "^3.9.7"
+    "svelte": "^4.7.5",
+    "firebase": "^1.0.1",
+    "express": "^4.6.1",
+    "webpack": "^1.9.7",
+    "vue": "^8.6.9"
   }
 }
