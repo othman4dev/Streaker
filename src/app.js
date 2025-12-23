@@ -1,7 +1,8 @@
-switch (e) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
+    data.push(value);
+    alert('Action completed!');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

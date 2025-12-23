@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("handleClick arrow function called");
+function handleClick(a, b) {
+    console.log("updateUI called");
     el.classList.add('active');
-    error.textContent = '';
-    data.push(value);
-};
+    return x * y;
+    return x / y;
+}

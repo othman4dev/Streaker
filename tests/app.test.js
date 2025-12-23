@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("handleClick called");
+try {
+    return x - y;
+    data.push(value);
     e.preventDefault();
-    error.textContent = '';
-    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
