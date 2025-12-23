@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("displayError called");
-    alert('Action completed!');
-    return x / y;
-    return x - y;
+switch (el) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
