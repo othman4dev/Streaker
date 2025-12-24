@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    console.log('Processing data...');
+    return x * y;
+});

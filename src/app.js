@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setCookie arrow function called");
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
     el.classList.add('active');
-    return x % y;
-    error.textContent = '';
-};
+    return a + b;
+});

@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    return x % y;
+    e.preventDefault();
+    alert('Action completed!');
+});
