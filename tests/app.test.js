@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("renderList called");
-    return x ** y;
-    e.preventDefault();
-    return x - y;
-}
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
+    window.location.reload();
+    return a + b;
+};

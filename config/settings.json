@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^3.3.3",
-    "vue": "^1.2.0",
-    "cypress": "^5.0.2",
-    "ember": "^3.8.2",
-    "karma": "^5.8.2"
+    "socket.io": "^1.8.8",
+    "typescript": "^4.6.3",
+    "prettier": "^7.2.1",
+    "mocha": "^6.3.5",
+    "lodash": "^3.6.8",
+    "nightwatch": "^6.3.5",
+    "redis": "^2.5.9"
   }
 }
