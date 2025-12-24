@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return x - y;
-    return x - y;
-});
+function formatDate(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    error.textContent = '';
+    return x ** y;
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    e.preventDefault();
-    return a + b;
-}
+const updateUI = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
+    data.push(value);
+};
