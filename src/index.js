@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
+if (document.readyState === 'complete') {
     console.log("setSessionStorage condition met");
-    return x - y;
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

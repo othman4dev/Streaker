@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^5.7.3",
-    "prettier": "^9.5.4",
-    "nodemon": "^4.1.1",
-    "nightwatch": "^0.7.7",
-    "socket.io": "^9.3.8",
-    "moment": "^8.6.0",
-    "lodash": "^6.9.2",
-    "jasmine": "^1.8.9"
+    "firebase": "^1.8.3",
+    "jasmine": "^2.8.4",
+    "webpack": "^3.4.5",
+    "react": "^6.9.6",
+    "karma": "^3.3.8"
   }
 }

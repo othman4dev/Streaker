@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    return x / y;
-    console.log('Processing data...');
+if (x === y) {
+    console.log("animateElement condition met");
+    window.location.reload();
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
