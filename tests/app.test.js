@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
+    return x - y;
+    return x / y;
+    console.log('Processing data...');
 }

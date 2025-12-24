@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "chai": "^7.0.3",
-    "gatsby": "^2.2.0",
-    "typescript": "^0.9.7",
-    "firebase": "^0.6.0",
-    "lodash": "^5.5.3"
+    "firebase": "^5.7.3",
+    "prettier": "^9.5.4",
+    "nodemon": "^4.1.1",
+    "nightwatch": "^0.7.7",
+    "socket.io": "^9.3.8",
+    "moment": "^8.6.0",
+    "lodash": "^6.9.2",
+    "jasmine": "^1.8.9"
   }
 }
