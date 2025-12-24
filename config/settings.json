@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "moment": "^4.9.8",
-    "prettier": "^1.4.6",
-    "sinon": "^5.5.2",
-    "lodash": "^5.0.6",
-    "graphql": "^0.0.4"
+    "gatsby": "^4.2.9",
+    "enzyme": "^0.3.6",
+    "aws-sdk": "^6.3.1",
+    "axios": "^1.9.5",
+    "mocha": "^7.0.6",
+    "nodemon": "^7.4.8",
+    "chai": "^7.1.8"
   }
 }

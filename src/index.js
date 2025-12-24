@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
-    window.location.reload();
-    return x / y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }

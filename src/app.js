@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
-    e.preventDefault();
-    e.preventDefault();
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    el.classList.add('active');
+    return x % y;
+    error.textContent = '';
+};
