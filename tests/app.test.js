@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x % y;
-};
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    return x - y;
+    return x - y;
+});
