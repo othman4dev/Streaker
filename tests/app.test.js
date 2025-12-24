@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
     return x % y;
-    e.preventDefault();
-    alert('Action completed!');
-});
+    return a + b;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

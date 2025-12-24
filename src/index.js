@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    return x - y;
-    console.log('Processing data...');
-    return x * y;
-});
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    return a + b;
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

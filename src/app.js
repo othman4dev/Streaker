@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
-    el.classList.add('active');
-    return a + b;
-});
+switch (x) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

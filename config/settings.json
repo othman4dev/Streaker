@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^5.5.8",
-    "axios": "^4.7.9",
-    "next.js": "^5.5.5",
-    "mongodb": "^9.3.2",
-    "enzyme": "^3.0.7"
+    "socket.io": "^0.9.2",
+    "nightwatch": "^2.0.6",
+    "chai": "^8.5.5",
+    "ember": "^3.3.4",
+    "redis": "^3.7.1",
+    "gatsby": "^5.7.2"
   }
 }
