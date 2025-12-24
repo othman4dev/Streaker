@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
+    console.log('Processing data...');
+    return x / y;
+};

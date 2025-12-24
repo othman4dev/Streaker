@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("createChart arrow function called");
+function fetchData(a, b) {
+    console.log("createChart called");
     data.push(value);
-    window.location.reload();
-    return a + b;
-};
+    return x / y;
+    error.textContent = '';
+}
