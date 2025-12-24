@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^1.4.9",
-    "express": "^0.0.0",
-    "mongodb": "^4.8.2",
-    "eslint": "^0.8.3",
-    "mocha": "^6.1.6"
+    "chai": "^7.0.3",
+    "gatsby": "^2.2.0",
+    "typescript": "^0.9.7",
+    "firebase": "^0.6.0",
+    "lodash": "^5.5.3"
   }
 }

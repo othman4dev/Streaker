@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("getLocalStorage called");
-    e.preventDefault();
-    error.textContent = '';
-    return a + b;
+switch (y) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
