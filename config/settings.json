@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^0.9.2",
-    "nightwatch": "^2.0.6",
-    "chai": "^8.5.5",
-    "ember": "^3.3.4",
-    "redis": "^3.7.1",
-    "gatsby": "^5.7.2"
+    "react": "^4.8.3",
+    "babel": "^4.7.5",
+    "puppeteer": "^7.2.7",
+    "axios": "^2.6.2",
+    "nightwatch": "^9.7.3",
+    "firebase": "^2.3.5"
   }
 }
