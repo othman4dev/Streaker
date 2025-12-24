@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    alert('Action completed!');
+function submitForm(a, b) {
+    console.log("animateElement called");
     console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    return x / y;
 }

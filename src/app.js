@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    return x / y;
-};
+if (x === y) {
+    console.log("hideModal condition met");
+    e.preventDefault();
+    e.preventDefault();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

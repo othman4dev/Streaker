@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    return x / y;
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    return a + b;
     error.textContent = '';
-}
+    return x - y;
+});

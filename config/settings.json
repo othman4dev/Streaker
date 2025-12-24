@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "redis": "^4.5.8",
-    "protractor": "^6.0.4",
-    "sinon": "^8.4.4",
-    "jasmine": "^9.7.2",
-    "enzyme": "^1.6.9",
-    "moment": "^3.7.0",
-    "mocha": "^0.8.9",
-    "gatsby": "^7.0.6",
-    "svelte": "^6.4.4"
+    "moment": "^4.9.8",
+    "prettier": "^1.4.6",
+    "sinon": "^5.5.2",
+    "lodash": "^5.0.6",
+    "graphql": "^0.0.4"
   }
 }
