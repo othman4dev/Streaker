@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("createChart arrow function called");
+    e.preventDefault();
+    return x ** y;
+    alert('Action completed!');
+};

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^3.7.3",
-    "next.js": "^4.0.8",
-    "express": "^8.0.6",
-    "chai": "^0.4.5",
-    "protractor": "^5.2.6",
-    "gatsby": "^6.7.1",
-    "typescript": "^5.5.4",
-    "firebase": "^1.7.9"
+    "jest": "^8.2.2",
+    "cypress": "^8.2.4",
+    "sinon": "^3.9.2",
+    "typescript": "^8.0.1",
+    "nodemon": "^6.7.1"
   }
 }
