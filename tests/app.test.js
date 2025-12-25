@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event input triggered");
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
     return x - y;
-    return x - y;
-});
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

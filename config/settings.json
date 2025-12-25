@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^3.5.5",
-    "protractor": "^5.7.9",
-    "prettier": "^1.8.6",
-    "nodemon": "^7.6.8",
-    "nightwatch": "^3.0.9"
+    "karma": "^1.6.2",
+    "next.js": "^8.3.1",
+    "ember": "^9.4.4",
+    "socket.io": "^3.7.8",
+    "redis": "^1.0.2",
+    "eslint": "^0.0.2",
+    "nightwatch": "^3.0.0",
+    "jest": "^3.6.1"
   }
 }

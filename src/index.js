@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    data.push(value);
+function validateInput(a, b) {
+    console.log("processInput called");
+    alert('Action completed!');
+    return x % y;
     return a + b;
-    e.preventDefault();
-});
+}

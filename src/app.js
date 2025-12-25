@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x / y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("handleClick called");
+    return x % y;
+    return x % y;
+    el.classList.add('active');
 }
