@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("processInput called");
-    alert('Action completed!');
-    return x % y;
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    window.location.reload();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

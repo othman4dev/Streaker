@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("handleClick called");
-    return x % y;
-    return x % y;
-    el.classList.add('active');
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    data.push(value);
+    return x / y;
 }
