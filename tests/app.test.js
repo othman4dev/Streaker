@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("displayError called");
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    console.log('Processing data...');
     return x % y;
-    return x - y;
-    window.location.reload();
-}
+});

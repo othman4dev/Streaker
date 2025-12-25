@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
+for (let i = 0; i < 17; i++) {
     console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
-    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
+    return a + b;
 }
