@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^5.0.0",
-    "react": "^1.8.3",
-    "angular": "^4.7.8",
-    "jest": "^8.4.2",
-    "firebase": "^9.8.5",
-    "express": "^9.8.4",
-    "svelte": "^6.9.1",
-    "socket.io": "^3.8.2"
+    "svelte": "^0.7.0",
+    "mysql": "^7.9.2",
+    "prettier": "^5.3.8",
+    "vue": "^1.9.9",
+    "axios": "^6.4.2",
+    "typescript": "^5.1.8"
   }
 }

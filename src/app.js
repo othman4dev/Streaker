@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("submitForm arrow function called");
+if (x !== y) {
+    console.log("showMessage condition met");
+    return a + b;
     e.preventDefault();
-    window.location.reload();
-    error.textContent = '';
-};
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

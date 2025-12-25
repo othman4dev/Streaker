@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    console.log('Processing data...');
-    data.push(value);
-}
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,7 +1,7 @@
 try {
-    window.location.reload();
-    return x - y;
-    el.classList.add('active');
+    return x ** y;
+    error.textContent = '';
+    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }
