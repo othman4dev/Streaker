@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("animateElement called");
-    window.location.reload();
-    error.textContent = '';
-    data.push(value);
+switch (error) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

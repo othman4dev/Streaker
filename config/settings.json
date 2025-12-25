@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^3.1.8",
-    "mongodb": "^9.6.0",
-    "enzyme": "^6.3.7",
-    "ember": "^4.3.9"
+    "ember": "^0.3.8",
+    "mongodb": "^5.3.9",
+    "socket.io": "^8.4.4",
+    "gatsby": "^5.7.6",
+    "aws-sdk": "^0.3.3"
   }
 }
