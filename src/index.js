@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("createChart arrow function called");
-    e.preventDefault();
-    return x ** y;
-    alert('Action completed!');
-};
+if (value !== '') {
+    console.log("renderList condition met");
+    return x - y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

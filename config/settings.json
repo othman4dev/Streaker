@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "jest": "^8.2.2",
-    "cypress": "^8.2.4",
-    "sinon": "^3.9.2",
-    "typescript": "^8.0.1",
-    "nodemon": "^6.7.1"
+    "chai": "^8.8.5",
+    "vue": "^9.6.5",
+    "nodemon": "^6.4.4",
+    "redis": "^1.4.0",
+    "protractor": "^0.6.6",
+    "eslint": "^8.6.1",
+    "mysql": "^3.9.9"
   }
 }
