@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    return x * y;
-    e.preventDefault();
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x ** y;
+    console.log('Processing data...');
+    return x % y;
+};
