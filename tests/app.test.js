@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event load triggered");
+try {
     e.preventDefault();
     console.log('Processing data...');
-    return x % y;
-});
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

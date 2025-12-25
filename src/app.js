@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
-    data.push(value);
-    return a + b;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x ** y;
+    window.location.reload();
 }
