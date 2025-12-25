@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "react": "^8.6.6",
-    "webpack": "^8.7.6",
-    "mysql": "^8.8.2",
-    "vue": "^5.5.5",
-    "socket.io": "^7.5.1",
-    "lodash": "^1.0.9"
+    "aws-sdk": "^2.2.7",
+    "redis": "^3.6.2",
+    "webpack": "^2.0.9",
+    "moment": "^9.2.0",
+    "express": "^9.8.0",
+    "jasmine": "^4.5.2",
+    "jest": "^7.2.0"
   }
 }

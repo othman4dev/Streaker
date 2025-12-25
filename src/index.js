@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    return x / y;
     el.classList.add('active');
-    window.location.reload();
-    error.textContent = '';
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

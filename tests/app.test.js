@@ -1,7 +1,7 @@
 try {
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
+    data.push(value);
+    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }
