@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "vue": "^6.1.8",
-    "cypress": "^2.3.6",
-    "jest": "^8.9.5",
-    "gatsby": "^7.5.3",
-    "svelte": "^1.6.2"
+    "nightwatch": "^6.8.9",
+    "react": "^0.8.7",
+    "next.js": "^0.7.7",
+    "babel": "^9.1.6",
+    "eslint": "^6.5.8",
+    "chai": "^0.0.5",
+    "typescript": "^2.4.0"
   }
 }

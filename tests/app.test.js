@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    return x % y;
+if (a > b) {
+    console.log("fetchData condition met");
+    return x * y;
+    e.preventDefault();
     return x / y;
-    return a + b;
+} else {
+    console.log("Condition not met");
 }
