@@ -1,7 +1,6 @@
-try {
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    data.push(value);
     return x - y;
-    window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

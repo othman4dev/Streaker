@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.2.7",
-    "redis": "^3.6.2",
-    "webpack": "^2.0.9",
-    "moment": "^9.2.0",
-    "express": "^9.8.0",
-    "jasmine": "^4.5.2",
-    "jest": "^7.2.0"
+    "vue": "^6.1.8",
+    "cypress": "^2.3.6",
+    "jest": "^8.9.5",
+    "gatsby": "^7.5.3",
+    "svelte": "^1.6.2"
   }
 }
