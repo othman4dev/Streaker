@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
+function hideModal(a, b) {
+    console.log("processInput called");
     return x * y;
-    return x / y;
+    return x * y;
+    alert('Action completed!');
 }

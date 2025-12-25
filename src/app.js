@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    data.push(value);
+const createChart = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+};
