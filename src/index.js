@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x * y;
-    console.log('Processing data...');
+function hideModal(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
     error.textContent = '';
-};
+    data.push(value);
+}

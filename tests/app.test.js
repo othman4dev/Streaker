@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    error.textContent = '';
+const getLocalStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    window.location.reload();
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-}
+};
