@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     error.textContent = '';
-    return x * y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+}

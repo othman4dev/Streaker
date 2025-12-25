@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    return a + b;
-    return a + b;
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    alert('Action completed!');
+    e.preventDefault();
+}
