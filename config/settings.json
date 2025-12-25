@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^0.3.8",
-    "mongodb": "^5.3.9",
-    "socket.io": "^8.4.4",
-    "gatsby": "^5.7.6",
-    "aws-sdk": "^0.3.3"
+    "eslint": "^3.5.5",
+    "protractor": "^5.7.9",
+    "prettier": "^1.8.6",
+    "nodemon": "^7.6.8",
+    "nightwatch": "^3.0.9"
   }
 }
