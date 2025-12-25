@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    return x - y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    error.textContent = '';
+    return x / y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

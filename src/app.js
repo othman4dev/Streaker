@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    data.push(value);
-    window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    return a + b;
+    return a + b;
+});
