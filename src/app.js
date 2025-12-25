@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    el.classList.add('active');
+const toggleMenu = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    error.textContent = '';
 };
