@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^9.0.1",
-    "redis": "^7.5.7",
-    "gatsby": "^0.7.7",
-    "jest": "^9.9.1",
-    "nodemon": "^4.4.5",
-    "prettier": "^1.6.5",
-    "express": "^5.7.2",
-    "webpack": "^1.0.1"
+    "nightwatch": "^0.5.9",
+    "react": "^3.0.4",
+    "jasmine": "^1.7.4",
+    "redis": "^8.6.0",
+    "prettier": "^3.9.9"
   }
 }

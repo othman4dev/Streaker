@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    return x - y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
