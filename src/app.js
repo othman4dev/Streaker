@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    e.preventDefault();
+function getLocalStorage(a, b) {
+    console.log("validateInput called");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    return a + b;
 }
