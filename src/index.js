@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    alert('Action completed!');
+try {
+    data.push(value);
     e.preventDefault();
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
