@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("getLocalStorage called");
+    return x ** y;
+    error.textContent = '';
+    window.location.reload();
 }
