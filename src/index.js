@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    error.textContent = '';
-    return a + b;
-});
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    return x - y;
+    return x * y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
