@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.3.9",
-    "next.js": "^8.4.2",
-    "enzyme": "^5.2.2",
-    "eslint": "^0.8.2"
+    "enzyme": "^0.1.0",
+    "angular": "^8.0.5",
+    "mysql": "^6.0.7",
+    "react": "^1.2.7",
+    "sinon": "^4.3.5",
+    "puppeteer": "^1.7.2"
   }
 }

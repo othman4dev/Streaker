@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("getLocalStorage called");
-    return x ** y;
-    error.textContent = '';
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
     window.location.reload();
-}
+    return x / y;
+    error.textContent = '';
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    data.push(value);
-}
+const updateUI = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
+    error.textContent = '';
+};
