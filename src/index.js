@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    return x ** y;
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    error.textContent = '';
     return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+});

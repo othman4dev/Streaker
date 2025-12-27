@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("showMessage condition met");
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
     alert('Action completed!');
+    return a + b;
     return x ** y;
-    return x - y;
 } else {
     console.log("Condition not met");
 }

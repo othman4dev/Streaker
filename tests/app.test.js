@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    window.location.reload();
-    return a + b;
-    console.log('Processing data...');
-};
+switch (b) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

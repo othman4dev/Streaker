@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^8.9.7",
-    "cypress": "^0.7.7",
-    "puppeteer": "^9.6.5",
-    "mongodb": "^9.7.4",
-    "chai": "^8.6.8",
-    "lodash": "^2.6.2"
+    "next.js": "^1.1.6",
+    "mocha": "^2.8.2",
+    "moment": "^8.9.2",
+    "mongodb": "^6.6.8",
+    "svelte": "^4.2.2",
+    "karma": "^3.3.4",
+    "jest": "^4.2.3",
+    "mysql": "^6.6.8"
   }
 }
