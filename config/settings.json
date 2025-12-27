@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^4.2.2",
-    "eslint": "^5.9.5",
-    "gatsby": "^3.3.6",
-    "express": "^2.1.3",
-    "socket.io": "^6.1.4"
+    "protractor": "^0.1.8",
+    "lodash": "^6.7.5",
+    "jest": "^1.0.1",
+    "cypress": "^0.8.6",
+    "mocha": "^9.5.3"
   }
 }
