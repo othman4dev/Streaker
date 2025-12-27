@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
+if (a > b) {
+    console.log("toggleMenu condition met");
     return x ** y;
-    window.location.reload();
-});
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

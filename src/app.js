@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    e.preventDefault();
+if (x !== y) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
     return x ** y;
-    return a + b;
+    return x - y;
 } else {
     console.log("Condition not met");
 }

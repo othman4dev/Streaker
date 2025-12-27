@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^0.0.8",
-    "jasmine": "^0.5.3",
-    "nodemon": "^8.6.2",
-    "enzyme": "^4.9.5",
-    "ember": "^5.5.1",
-    "redis": "^0.4.9",
-    "react": "^5.5.1"
+    "socket.io": "^8.9.7",
+    "cypress": "^0.7.7",
+    "puppeteer": "^9.6.5",
+    "mongodb": "^9.7.4",
+    "chai": "^8.6.8",
+    "lodash": "^2.6.2"
   }
 }

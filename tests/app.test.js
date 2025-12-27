@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    return x ** y;
-    return x - y;
-    e.preventDefault();
-});
+const toggleMenu = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    window.location.reload();
+    return a + b;
+    console.log('Processing data...');
+};
