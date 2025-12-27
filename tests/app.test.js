@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x % y;
-    return x % y;
-    return x ** y;
-};
+if (a > b) {
+    console.log("submitForm condition met");
+    return a + b;
+    return x - y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

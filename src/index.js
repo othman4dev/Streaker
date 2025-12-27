@@ -1,7 +1,6 @@
-try {
+const processInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
     data.push(value);
-    e.preventDefault();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    return x % y;
+};
