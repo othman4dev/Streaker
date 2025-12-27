@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "jest": "^5.5.9",
-    "socket.io": "^9.0.3",
-    "karma": "^9.6.4",
-    "mysql": "^4.7.0"
+    "puppeteer": "^5.8.1",
+    "moment": "^2.0.6",
+    "karma": "^8.5.0",
+    "babel": "^5.7.5",
+    "gatsby": "^7.0.5",
+    "axios": "^0.5.8",
+    "protractor": "^7.2.2",
+    "enzyme": "^6.9.2"
   }
 }
