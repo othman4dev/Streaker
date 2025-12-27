@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("formatDate called");
+    return x * y;
+    alert('Action completed!');
+    return x - y;
 }

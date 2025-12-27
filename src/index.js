@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    el.classList.add('active');
-    console.log('Processing data...');
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+});

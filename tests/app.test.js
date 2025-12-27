@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x ** y;
-    return x ** y;
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-};
+    console.log('Processing data...');
+});

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^0.1.8",
-    "lodash": "^6.7.5",
-    "jest": "^1.0.1",
-    "cypress": "^0.8.6",
-    "mocha": "^9.5.3"
+    "chai": "^3.3.9",
+    "lodash": "^9.7.2",
+    "enzyme": "^8.5.5",
+    "karma": "^4.7.7",
+    "aws-sdk": "^7.2.3",
+    "nodemon": "^8.0.8"
   }
 }
