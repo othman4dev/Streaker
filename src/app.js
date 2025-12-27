@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
-    data.push(value);
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     e.preventDefault();
-};
+});

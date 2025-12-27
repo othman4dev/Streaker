@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    data.push(value);
-    data.push(value);
+switch (y) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
