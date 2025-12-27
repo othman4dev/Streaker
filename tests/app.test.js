@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    return a + b;
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x % y;
+    return x / y;
+}

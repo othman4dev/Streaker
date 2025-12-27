@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("validateInput called");
-    return x - y;
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
     return x % y;
-    return a + b;
-}
+    error.textContent = '';
+});

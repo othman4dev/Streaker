@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "sinon": "^2.8.9",
-    "jest": "^1.9.0",
-    "react": "^9.1.4",
-    "nightwatch": "^0.2.5",
-    "protractor": "^6.9.3",
-    "cypress": "^9.1.8",
-    "jasmine": "^0.9.6"
+    "webpack": "^1.8.8",
+    "aws-sdk": "^9.9.1",
+    "axios": "^0.6.2",
+    "jest": "^8.6.3"
   }
 }
