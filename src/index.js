@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    window.location.reload();
-    console.log('Processing data...');
-});
+switch (data) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

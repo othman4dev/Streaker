@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+function processInput(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
     data.push(value);
-    return x % y;
-    return x / y;
+    data.push(value);
 }

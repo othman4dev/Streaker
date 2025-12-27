@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    return x % y;
-    error.textContent = '';
-});
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x * y;
+    data.push(value);
+    e.preventDefault();
+};
