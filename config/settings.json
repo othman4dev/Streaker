@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "chai": "^3.3.9",
-    "lodash": "^9.7.2",
-    "enzyme": "^8.5.5",
-    "karma": "^4.7.7",
-    "aws-sdk": "^7.2.3",
-    "nodemon": "^8.0.8"
+    "chai": "^4.4.4",
+    "socket.io": "^9.0.7",
+    "firebase": "^8.8.0",
+    "gatsby": "^8.6.4",
+    "cypress": "^0.5.8",
+    "babel": "^6.2.1",
+    "jest": "^3.8.5"
   }
 }

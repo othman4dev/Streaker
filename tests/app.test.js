@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-});
+function updateUI(a, b) {
+    console.log("validateInput called");
+    return a + b;
+    return x / y;
+    return x / y;
+}
