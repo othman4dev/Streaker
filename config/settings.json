@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "angular": "^4.0.9",
-    "typescript": "^4.5.2",
-    "axios": "^6.4.8",
-    "enzyme": "^4.4.0",
-    "redis": "^0.3.2",
-    "protractor": "^9.3.4",
-    "svelte": "^1.8.5",
-    "next.js": "^8.6.4"
+    "next.js": "^8.4.8",
+    "socket.io": "^0.6.0",
+    "enzyme": "^7.2.2",
+    "vue": "^4.3.1",
+    "gatsby": "^7.1.2",
+    "mocha": "^4.8.0"
   }
 }

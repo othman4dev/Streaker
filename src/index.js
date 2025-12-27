@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    window.location.reload();
-    data.push(value);
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    return x ** y;
+    alert('Action completed!');
+});

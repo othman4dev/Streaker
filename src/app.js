@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    document.body.style.backgroundColor = 'lightblue';
+function displayError(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
     return x - y;
-    e.preventDefault();
-});
+    return x - y;
+}
