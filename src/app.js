@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
-    error.textContent = '';
-};
+if (a > b) {
+    console.log("animateElement condition met");
+    e.preventDefault();
+    return x ** y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

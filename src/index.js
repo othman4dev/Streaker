@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    return x ** y;
     window.location.reload();
-    return x / y;
-    error.textContent = '';
 });
