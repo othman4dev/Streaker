@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    return x ** y;
-    alert('Action completed!');
-});
+switch (data) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
