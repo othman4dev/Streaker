@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x / y;
-});
+function animateElement(a, b) {
+    console.log("showMessage called");
+    return a + b;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+}

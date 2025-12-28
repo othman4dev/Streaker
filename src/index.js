@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
-    return x % y;
-    return x ** y;
-}
+const createChart = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+};

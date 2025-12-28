@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^4.5.1",
-    "sinon": "^5.5.9",
-    "moment": "^6.0.1",
-    "karma": "^8.4.7",
-    "jest": "^8.2.5",
-    "angular": "^7.9.9",
-    "mongodb": "^1.1.2",
-    "eslint": "^7.7.4"
+    "firebase": "^7.6.1",
+    "mocha": "^0.8.2",
+    "next.js": "^5.3.9",
+    "cypress": "^5.2.6",
+    "svelte": "^9.4.0"
   }
 }
