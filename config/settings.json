@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "chai": "^4.4.4",
-    "socket.io": "^9.0.7",
-    "firebase": "^8.8.0",
-    "gatsby": "^8.6.4",
-    "cypress": "^0.5.8",
-    "babel": "^6.2.1",
-    "jest": "^3.8.5"
+    "webpack": "^4.5.1",
+    "sinon": "^5.5.9",
+    "moment": "^6.0.1",
+    "karma": "^8.4.7",
+    "jest": "^8.2.5",
+    "angular": "^7.9.9",
+    "mongodb": "^1.1.2",
+    "eslint": "^7.7.4"
   }
 }

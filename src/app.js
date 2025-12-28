@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    error.textContent = '';
-    window.location.reload();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    return x ** y;
+    data.push(value);
 }
