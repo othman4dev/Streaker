@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    window.location.reload();
-    e.preventDefault();
-});
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    return x ** y;
+    return x * y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "webpack": "^9.2.8",
-    "mocha": "^2.3.9",
-    "aws-sdk": "^4.5.7",
-    "svelte": "^6.0.5",
-    "vue": "^2.5.1"
+    "firebase": "^3.0.0",
+    "redis": "^5.6.3",
+    "next.js": "^0.6.0",
+    "graphql": "^0.5.7"
   }
 }
