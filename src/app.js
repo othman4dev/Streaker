@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("getLocalStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-}
+const fetchData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    window.location.reload();
+    return x * y;
+    return a + b;
+};

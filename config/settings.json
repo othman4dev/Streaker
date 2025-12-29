@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^7.6.1",
-    "mocha": "^0.8.2",
-    "next.js": "^5.3.9",
-    "cypress": "^5.2.6",
-    "svelte": "^9.4.0"
+    "typescript": "^0.1.2",
+    "ember": "^5.2.8",
+    "chai": "^7.6.0",
+    "webpack": "^8.7.2",
+    "react": "^9.6.5",
+    "graphql": "^4.2.4",
+    "vue": "^9.0.4",
+    "firebase": "^2.6.8"
   }
 }

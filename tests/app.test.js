@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("showMessage called");
-    return a + b;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (e) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
