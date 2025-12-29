@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^0.1.2",
-    "ember": "^5.2.8",
-    "chai": "^7.6.0",
-    "webpack": "^8.7.2",
-    "react": "^9.6.5",
-    "graphql": "^4.2.4",
-    "vue": "^9.0.4",
-    "firebase": "^2.6.8"
+    "jasmine": "^4.5.8",
+    "angular": "^9.0.0",
+    "mysql": "^2.4.8",
+    "axios": "^2.7.6",
+    "firebase": "^5.2.0",
+    "moment": "^2.2.7"
   }
 }
