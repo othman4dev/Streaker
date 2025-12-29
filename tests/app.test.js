@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    window.location.reload();
+    e.preventDefault();
+});

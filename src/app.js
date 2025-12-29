@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("fetchData called");
-    window.location.reload();
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
     return a + b;
-    error.textContent = '';
-}
+    return a + b;
+    return x / y;
+});

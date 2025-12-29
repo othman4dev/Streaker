@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^4.5.8",
-    "angular": "^9.0.0",
-    "mysql": "^2.4.8",
-    "axios": "^2.7.6",
-    "firebase": "^5.2.0",
-    "moment": "^2.2.7"
+    "webpack": "^9.2.8",
+    "mocha": "^2.3.9",
+    "aws-sdk": "^4.5.7",
+    "svelte": "^6.0.5",
+    "vue": "^2.5.1"
   }
 }
