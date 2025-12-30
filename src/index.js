@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x % y;
+    return x % y;
+}
