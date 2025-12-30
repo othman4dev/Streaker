@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
-    return x % y;
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    e.preventDefault();
+    e.preventDefault();
+});
