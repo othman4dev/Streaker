@@ -1,7 +1,8 @@
-switch (value) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("renderList condition met");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
