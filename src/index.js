@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("animateElement called");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+    window.location.reload();
 }

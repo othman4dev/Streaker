@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^6.0.8",
-    "moment": "^3.0.5",
-    "jest": "^3.5.2",
-    "svelte": "^0.6.8",
-    "graphql": "^0.4.4",
-    "sinon": "^6.1.4",
-    "next.js": "^0.1.8"
+    "redis": "^9.0.4",
+    "sinon": "^8.5.9",
+    "graphql": "^9.1.2",
+    "nodemon": "^5.2.0",
+    "karma": "^4.0.4",
+    "babel": "^2.9.2",
+    "svelte": "^0.1.0",
+    "moment": "^1.8.2"
   }
 }
