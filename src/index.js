@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    return x * y;
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});

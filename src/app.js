@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    window.location.reload();
-    alert('Action completed!');
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    console.log('Processing data...');
+    return x ** y;
 });

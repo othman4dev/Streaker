@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    window.location.reload();
+const createChart = (a, b, data) => {
+    console.log("animateElement arrow function called");
     el.classList.add('active');
-});
+    return x * y;
+    return x % y;
+};
