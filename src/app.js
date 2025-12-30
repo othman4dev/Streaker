@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return a + b;
-    alert('Action completed!');
+function hideModal(a, b) {
+    console.log("handleClick called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    console.log('Processing data...');
 }
