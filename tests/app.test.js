@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    el.classList.add('active');
-    return x * y;
-    return x % y;
-};
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    return x / y;
+    alert('Action completed!');
+    return x - y;
+});

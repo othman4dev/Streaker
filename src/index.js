@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
+document.querySelector("document").addEventListener("focus", function() {
     console.log("Event click triggered");
-    error.textContent = '';
-    window.location.reload();
-    data.push(value);
+    e.preventDefault();
+    el.classList.add('active');
+    console.log('Processing data...');
 });

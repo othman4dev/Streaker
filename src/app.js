@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return x - y;
     console.log('Processing data...');
-    return x ** y;
+    error.textContent = '';
 });
