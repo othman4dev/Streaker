@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    e.preventDefault();
+function renderList(a, b) {
+    console.log("animateElement called");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
 }
