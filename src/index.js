@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    el.classList.add('active');
-});
+switch (b) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
