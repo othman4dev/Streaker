@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+if (a > b) {
+    console.log("processInput condition met");
     window.location.reload();
-    return a + b;
+    return x ** y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

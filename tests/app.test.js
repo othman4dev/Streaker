@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    return x / y;
+};
