@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "mysql": "^7.0.8",
-    "puppeteer": "^2.4.3",
-    "chai": "^8.2.4",
-    "nightwatch": "^6.5.4",
-    "cypress": "^8.5.4",
-    "lodash": "^6.3.0",
-    "next.js": "^8.3.6",
-    "prettier": "^0.2.7",
-    "babel": "^0.4.8"
+    "cypress": "^4.5.2",
+    "sinon": "^4.4.1",
+    "mysql": "^8.2.0",
+    "moment": "^5.7.6",
+    "nightwatch": "^0.3.1",
+    "enzyme": "^9.9.7",
+    "ember": "^4.9.8"
   }
 }

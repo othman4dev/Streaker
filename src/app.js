@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
     e.preventDefault();
-    data.push(value);
-    return a + b;
+    console.log('Processing data...');
+    return x / y;
 } else {
     console.log("Condition not met");
 }
