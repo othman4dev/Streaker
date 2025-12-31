@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("formatDate called");
-    el.classList.add('active');
+const toggleMenu = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    return a + b;
     e.preventDefault();
-    return x ** y;
-}
+};
