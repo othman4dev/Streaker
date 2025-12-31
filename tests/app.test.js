@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    return a + b;
-    error.textContent = '';
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    e.preventDefault();
+    alert('Action completed!');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

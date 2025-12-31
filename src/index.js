@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    console.log('Processing data...');
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     alert('Action completed!');
-    return x % y;
-} else {
-    console.log("Condition not met");
+    return x ** y;
 }
