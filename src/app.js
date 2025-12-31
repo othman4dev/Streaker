@@ -1,7 +1,6 @@
-try {
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
     window.location.reload();
-    return x * y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    error.textContent = '';
+});

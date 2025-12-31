@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
-    window.location.reload();
-    return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x % y;
+    data.push(value);
 }
