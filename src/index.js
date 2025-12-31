@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
     el.classList.add('active');
-    return x % y;
-    data.push(value);
-}
+});

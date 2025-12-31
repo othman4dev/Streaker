@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "jest": "^1.7.2",
-    "babel": "^0.9.9",
-    "prettier": "^9.3.2",
-    "nightwatch": "^0.4.0"
+    "prettier": "^4.9.9",
+    "next.js": "^3.0.9",
+    "socket.io": "^0.2.9",
+    "ember": "^0.9.3",
+    "enzyme": "^5.3.4",
+    "jest": "^9.6.8",
+    "firebase": "^3.5.6",
+    "moment": "^9.3.4"
   }
 }
