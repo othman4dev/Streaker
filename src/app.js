@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x / y;
-    return a + b;
-    e.preventDefault();
-};
+switch (e) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
