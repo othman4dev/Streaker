@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
     alert('Action completed!');
-    el.classList.add('active');
-}
+    return x - y;
+    return x ** y;
+});
