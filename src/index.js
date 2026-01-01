@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x - y;
-    el.classList.add('active');
-}
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});

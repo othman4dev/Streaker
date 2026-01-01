@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("validateInput called");
-    e.preventDefault();
-    console.log('Processing data...');
-    data.push(value);
+function animateElement(a, b) {
+    console.log("handleClick called");
+    alert('Action completed!');
+    window.location.reload();
+    return x / y;
 }
