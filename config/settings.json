@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "express": "^7.7.7",
-    "jasmine": "^9.3.0",
-    "graphql": "^3.5.0",
-    "gatsby": "^1.1.2",
-    "vue": "^6.6.0"
+    "puppeteer": "^4.6.9",
+    "babel": "^7.4.5",
+    "gatsby": "^7.1.2",
+    "nightwatch": "^1.2.6",
+    "jest": "^2.1.8",
+    "vue": "^9.3.7"
   }
 }

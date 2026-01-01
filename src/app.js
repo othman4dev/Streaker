@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    return x - y;
+function displayError(a, b) {
+    console.log("checkStatus called");
     window.location.reload();
     error.textContent = '';
-});
+    return a + b;
+}
