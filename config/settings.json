@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "firebase": "^4.6.1",
-    "react": "^4.9.4",
-    "redis": "^8.5.9",
-    "webpack": "^7.2.5",
-    "protractor": "^6.6.7"
+    "puppeteer": "^0.5.0",
+    "moment": "^8.7.0",
+    "jest": "^4.5.0",
+    "babel": "^1.6.9",
+    "axios": "^7.4.7",
+    "chai": "^4.3.4",
+    "eslint": "^4.9.7",
+    "enzyme": "^5.6.9",
+    "next.js": "^8.2.4"
   }
 }
