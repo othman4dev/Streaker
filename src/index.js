@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    return x % y;
+    return x ** y;
+};
