@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event load triggered");
+function formatDate(a, b) {
+    console.log("fetchData called");
     error.textContent = '';
-    return x - y;
-    data.push(value);
-});
+    console.log('Processing data...');
+    return x * y;
+}

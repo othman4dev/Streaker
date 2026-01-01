@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x ** y;
-    return x * y;
-    return x % y;
-};
+function formatDate(a, b) {
+    console.log("fetchData called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+}
