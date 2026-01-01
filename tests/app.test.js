@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
+    error.textContent = '';
+    return x - y;
+    window.location.reload();
 }
