@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
+try {
+    window.location.reload();
     return x - y;
     return x ** y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

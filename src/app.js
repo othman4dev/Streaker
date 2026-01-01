@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    console.log('Processing data...');
+    data.push(value);
+});
