@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^8.2.8",
-    "mocha": "^0.6.6",
-    "firebase": "^6.9.5",
-    "prettier": "^9.4.2",
-    "nightwatch": "^3.0.0"
+    "jest": "^0.3.8",
+    "redis": "^5.4.6",
+    "svelte": "^3.5.2",
+    "vue": "^0.9.3",
+    "puppeteer": "^0.7.7"
   }
 }
