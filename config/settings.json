@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^7.4.4",
-    "aws-sdk": "^6.5.8",
-    "graphql": "^1.0.5",
-    "next.js": "^7.0.0",
-    "eslint": "^8.2.2"
+    "nightwatch": "^0.4.1",
+    "socket.io": "^2.1.6",
+    "babel": "^9.6.4",
+    "redis": "^1.6.4",
+    "sinon": "^7.7.2",
+    "chai": "^5.4.1",
+    "karma": "^3.2.4"
   }
 }

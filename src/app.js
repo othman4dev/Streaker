@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("formatDate called");
-    error.textContent = '';
+const formatDate = (a, b, data) => {
+    console.log("handleClick arrow function called");
     el.classList.add('active');
-    e.preventDefault();
-}
+    data.push(value);
+    return x % y;
+};
