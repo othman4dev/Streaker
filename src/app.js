@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("renderList arrow function called");
+try {
     return x * y;
-    console.log('Processing data...');
-    window.location.reload();
-};
+    error.textContent = '';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

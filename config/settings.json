@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "jest": "^0.3.8",
-    "redis": "^5.4.6",
-    "svelte": "^3.5.2",
-    "vue": "^0.9.3",
-    "puppeteer": "^0.7.7"
+    "lodash": "^0.1.8",
+    "express": "^4.2.7",
+    "jasmine": "^8.2.5",
+    "webpack": "^6.1.4"
   }
 }
