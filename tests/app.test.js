@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    return x - y;
+    data.push(value);
+});

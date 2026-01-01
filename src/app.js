@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    el.classList.add('active');
+const fetchData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
+    return x * y;
     return x % y;
-    return x - y;
 };
