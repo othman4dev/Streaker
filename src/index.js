@@ -1,7 +1,8 @@
-switch (error) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("fetchData condition met");
+    window.location.reload();
+    return a + b;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("fetchData called");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x * y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    window.location.reload();
+    window.location.reload();
 }
