@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+    window.location.reload();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

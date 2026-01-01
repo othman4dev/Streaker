@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
-    return x * y;
+function loadData(a, b) {
+    console.log("loadData called");
     error.textContent = '';
-    return x ** y;
+    return x - y;
+    e.preventDefault();
 }
