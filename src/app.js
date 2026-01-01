@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-};
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    console.log('Processing data...');
+    error.textContent = '';
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

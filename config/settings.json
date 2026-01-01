@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "express": "^9.7.7",
-    "jest": "^3.6.0",
-    "svelte": "^6.5.2",
-    "socket.io": "^0.6.4",
-    "jasmine": "^3.6.7",
-    "vue": "^3.4.7"
+    "vue": "^7.4.7",
+    "mocha": "^8.2.0",
+    "nodemon": "^4.1.0",
+    "axios": "^3.3.3",
+    "sinon": "^5.0.9",
+    "lodash": "^7.2.0",
+    "graphql": "^9.7.9",
+    "nightwatch": "^1.4.5"
   }
 }
