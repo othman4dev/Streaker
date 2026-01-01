@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    console.log('Processing data...');
-    console.log('Processing data...');
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    return x % y;
+    return x * y;
+    return x - y;
+});

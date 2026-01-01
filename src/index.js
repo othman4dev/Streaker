@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    error.textContent = '';
-    e.preventDefault();
-}
+const displayError = (a, b, data) => {
+    console.log("processInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x * y;
+};
