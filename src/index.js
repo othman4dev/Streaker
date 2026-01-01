@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("processInput arrow function called");
+function loadData(a, b) {
+    console.log("updateUI called");
     document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
     console.log('Processing data...');
-    return x * y;
-};
+}

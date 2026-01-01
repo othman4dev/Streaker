@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "vue": "^7.1.7",
-    "graphql": "^8.8.1",
-    "redis": "^5.3.1",
-    "typescript": "^0.6.8",
-    "next.js": "^5.2.5",
-    "firebase": "^8.4.2",
-    "chai": "^3.6.0",
-    "react": "^1.4.0"
+    "puppeteer": "^8.7.6",
+    "babel": "^4.9.8",
+    "nightwatch": "^8.8.8",
+    "jest": "^3.4.0",
+    "jasmine": "^8.1.2",
+    "firebase": "^2.9.9",
+    "react": "^4.7.5",
+    "gatsby": "^1.4.0"
   }
 }

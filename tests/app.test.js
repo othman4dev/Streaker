@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    return x - y;
-    alert('Action completed!');
-    return x % y;
-});
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x ** y;
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
