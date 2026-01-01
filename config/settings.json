@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^1.3.6",
-    "prettier": "^2.2.0",
-    "mysql": "^4.1.2",
-    "vue": "^5.9.4",
-    "socket.io": "^2.1.7",
-    "jest": "^9.4.0",
-    "babel": "^0.4.1"
+    "jest": "^2.8.7",
+    "mysql": "^3.4.9",
+    "babel": "^6.5.2",
+    "cypress": "^2.6.3",
+    "gatsby": "^1.0.5",
+    "chai": "^3.6.1",
+    "typescript": "^1.9.6"
   }
 }

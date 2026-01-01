@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("fetchData called");
-    return x ** y;
+try {
     return x - y;
-    el.classList.add('active');
+    window.location.reload();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

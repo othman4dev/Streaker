@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    console.log('Processing data...');
 }
