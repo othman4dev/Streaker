@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^6.5.5",
-    "gatsby": "^1.7.9",
-    "eslint": "^8.8.5",
-    "firebase": "^6.4.6",
-    "react": "^6.1.2",
-    "nightwatch": "^6.6.4"
+    "angular": "^3.5.2",
+    "webpack": "^5.1.5",
+    "ember": "^6.4.2",
+    "enzyme": "^3.6.3",
+    "cypress": "^3.3.3"
   }
 }

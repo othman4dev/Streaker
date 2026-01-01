@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    window.location.reload();
-    return a + b;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    return x % y;
+    return x ** y;
+    el.classList.add('active');
+});
