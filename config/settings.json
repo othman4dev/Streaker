@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^0.4.1",
-    "socket.io": "^2.1.6",
-    "babel": "^9.6.4",
-    "redis": "^1.6.4",
-    "sinon": "^7.7.2",
-    "chai": "^5.4.1",
-    "karma": "^3.2.4"
+    "express": "^7.7.7",
+    "jasmine": "^9.3.0",
+    "graphql": "^3.5.0",
+    "gatsby": "^1.1.2",
+    "vue": "^6.6.0"
   }
 }

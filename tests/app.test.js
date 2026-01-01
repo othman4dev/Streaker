@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-};
+switch (y) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

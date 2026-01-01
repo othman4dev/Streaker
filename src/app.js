@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    return x % y;
-};
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    return x - y;
+    window.location.reload();
+    error.textContent = '';
+});
