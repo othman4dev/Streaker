@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "angular": "^3.5.2",
-    "webpack": "^5.1.5",
-    "ember": "^6.4.2",
-    "enzyme": "^3.6.3",
-    "cypress": "^3.3.3"
+    "puppeteer": "^8.2.8",
+    "mocha": "^0.6.6",
+    "firebase": "^6.9.5",
+    "prettier": "^9.4.2",
+    "nightwatch": "^3.0.0"
   }
 }

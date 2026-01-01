@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    return x % y;
-    return x ** y;
-    el.classList.add('active');
-});
+switch (el) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
