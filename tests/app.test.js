@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    error.textContent = '';
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function removeItem(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    console.log('Processing data...');
+    data.push(value);
 }

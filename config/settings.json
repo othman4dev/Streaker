@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^9.6.7",
-    "mocha": "^5.8.9",
-    "nodemon": "^3.5.4",
-    "aws-sdk": "^2.0.2",
-    "enzyme": "^9.5.0",
-    "puppeteer": "^3.3.4",
-    "webpack": "^6.4.5"
+    "karma": "^5.9.7",
+    "eslint": "^6.0.3",
+    "jasmine": "^3.3.0",
+    "svelte": "^6.5.2",
+    "mysql": "^4.0.1"
   }
 }
