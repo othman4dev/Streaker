@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    e.preventDefault();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    window.location.reload();
+    window.location.reload();
+});

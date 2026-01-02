@@ -1,7 +1,8 @@
-switch (value) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("fetchData condition met");
+    error.textContent = '';
+    error.textContent = '';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
