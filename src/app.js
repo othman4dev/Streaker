@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    return x * y;
+    return x * y;
+};
