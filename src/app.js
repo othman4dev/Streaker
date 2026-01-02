@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x * y;
-    return x % y;
+function updateUI(a, b) {
+    console.log("loadData called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return a + b;
 }
