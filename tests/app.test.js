@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+function renderList(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
+    error.textContent = '';
+    return x * y;
+}

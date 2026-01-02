@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    data.push(value);
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
     window.location.reload();
-    alert('Action completed!');
-};
+    el.classList.add('active');
+    return x / y;
+});
