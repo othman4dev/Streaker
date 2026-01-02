@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    el.classList.add('active');
-    error.textContent = '';
-});
+const processInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x ** y;
+    data.push(value);
+    return x / y;
+};
