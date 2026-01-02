@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event submit triggered");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+    return a + b;
+}

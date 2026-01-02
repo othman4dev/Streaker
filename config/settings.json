@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^6.8.8",
-    "protractor": "^7.1.2",
-    "webpack": "^3.3.9",
-    "angular": "^7.1.7",
-    "jest": "^5.3.7",
-    "graphql": "^6.8.2"
+    "mongodb": "^9.4.8",
+    "ember": "^7.2.3",
+    "graphql": "^3.4.4",
+    "firebase": "^8.1.2",
+    "mocha": "^2.1.9"
   }
 }
