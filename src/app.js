@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    data.push(value);
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

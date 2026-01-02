@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^0.8.6",
-    "mongodb": "^0.7.2",
-    "svelte": "^8.3.2",
-    "express": "^2.7.2",
-    "react": "^4.4.7"
+    "firebase": "^4.5.2",
+    "babel": "^3.2.2",
+    "eslint": "^5.8.1",
+    "angular": "^9.2.4",
+    "sinon": "^2.5.8",
+    "mysql": "^6.1.9"
   }
 }

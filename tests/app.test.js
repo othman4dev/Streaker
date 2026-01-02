@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    error.textContent = '';
-    return a + b;
-});
+if (x === y) {
+    console.log("submitForm condition met");
+    e.preventDefault();
+    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
