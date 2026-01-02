@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    return a + b;
-    e.preventDefault();
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x * y;
     el.classList.add('active');
-}
+    return x - y;
+};
