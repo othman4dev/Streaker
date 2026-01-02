@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    data.push(value);
-    return x * y;
-    window.location.reload();
-};
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
+    alert('Action completed!');
+    return x - y;
+});

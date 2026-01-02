@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    window.location.reload();
     data.push(value);
-    return x / y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
