@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
+function checkStatus(a, b) {
+    console.log("createChart called");
     return x * y;
-    alert('Action completed!');
-    return x * y;
-});
+    return a + b;
+    window.location.reload();
+}
