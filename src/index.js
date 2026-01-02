@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x * y;
+function getLocalStorage(a, b) {
+    console.log("submitForm called");
+    return a + b;
     return x ** y;
-    error.textContent = '';
-};
+    return a + b;
+}

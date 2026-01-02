@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x ** y;
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }

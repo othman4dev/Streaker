@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
+if (value !== '') {
+    console.log("updateUI condition met");
     return x * y;
-    return x % y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
