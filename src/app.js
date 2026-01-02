@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    el.classList.add('active');
     error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+});

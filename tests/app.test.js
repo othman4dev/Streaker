@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("removeItem condition met");
+function validateInput(a, b) {
+    console.log("processInput called");
+    return x * y;
+    return x % y;
     alert('Action completed!');
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
 }
