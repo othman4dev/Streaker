@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
-    error.textContent = '';
-    return a + b;
+function createChart(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x ** y;
 }

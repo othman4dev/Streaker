@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return a + b;
-    window.location.reload();
-    error.textContent = '';
-};
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return x * y;
+    return x % y;
+});
