@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^9.4.8",
-    "ember": "^7.2.3",
-    "graphql": "^3.4.4",
-    "firebase": "^8.1.2",
-    "mocha": "^2.1.9"
+    "mongodb": "^8.0.8",
+    "prettier": "^9.4.8",
+    "mocha": "^4.1.8",
+    "babel": "^2.2.8"
   }
 }
