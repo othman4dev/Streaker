@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    return a + b;
+    return a + b;
     el.classList.add('active');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

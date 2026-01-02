@@ -1,7 +1,7 @@
 try {
-    window.location.reload();
-    console.log('Processing data...');
-    console.log('Processing data...');
+    data.push(value);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 } catch (error) {
     console.error("Error:", error);
 }
