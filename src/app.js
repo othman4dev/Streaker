@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    return x ** y;
-    error.textContent = '';
+const renderList = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    data.push(value);
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+};

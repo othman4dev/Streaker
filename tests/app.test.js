@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
+const createChart = (a, b, data) => {
+    console.log("removeItem arrow function called");
     console.log('Processing data...');
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+};
