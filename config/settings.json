@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^2.6.2",
-    "graphql": "^1.1.3",
-    "vue": "^2.6.0",
-    "webpack": "^6.6.4",
-    "chai": "^6.7.2",
-    "aws-sdk": "^7.7.3",
-    "nodemon": "^7.5.2",
-    "jest": "^2.4.8"
+    "mocha": "^1.1.0",
+    "react": "^8.0.2",
+    "jasmine": "^7.9.4",
+    "axios": "^3.0.2",
+    "prettier": "^3.2.4",
+    "socket.io": "^2.7.7",
+    "aws-sdk": "^9.5.1"
   }
 }

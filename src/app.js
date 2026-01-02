@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("saveSettings called");
+try {
+    el.classList.add('active');
     console.log('Processing data...');
-    return x ** y;
     console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
