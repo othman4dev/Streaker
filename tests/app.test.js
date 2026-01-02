@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("processInput called");
-    return x % y;
-    error.textContent = '';
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    console.log('Processing data...');
     console.log('Processing data...');
 }

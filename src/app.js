@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return a + b;
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    data.push(value);
+    console.log('Processing data...');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
