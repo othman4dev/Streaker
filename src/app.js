@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    return x ** y;
-    return x % y;
-});
+function handleClick(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}

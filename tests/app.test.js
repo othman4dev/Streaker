@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
-    return x - y;
-    e.preventDefault();
-}
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    alert('Action completed!');
+    return x * y;
+});
