@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^8.6.6",
-    "cypress": "^2.1.0",
-    "express": "^2.1.9",
-    "svelte": "^3.8.7",
-    "next.js": "^7.3.5",
-    "jest": "^0.1.6",
-    "ember": "^0.9.4"
+    "lodash": "^0.2.3",
+    "mongodb": "^5.8.8",
+    "socket.io": "^7.1.7",
+    "mocha": "^5.4.5"
   }
 }

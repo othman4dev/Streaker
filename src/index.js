@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    return x ** y;
+    error.textContent = '';
+});
