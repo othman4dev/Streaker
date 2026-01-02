@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    return x % y;
-    return a + b;
-});
+switch (e) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
