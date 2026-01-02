@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "chai": "^5.1.4",
-    "nightwatch": "^6.3.1",
-    "vue": "^5.9.2",
-    "moment": "^9.0.1",
-    "prettier": "^9.7.3"
+    "protractor": "^6.8.5",
+    "prettier": "^2.6.4",
+    "vue": "^9.1.2",
+    "graphql": "^7.1.8",
+    "eslint": "^3.0.2",
+    "typescript": "^7.3.3",
+    "next.js": "^5.2.0"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x - y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("showMessage called");
+    return x ** y;
+    error.textContent = '';
+    return x % y;
 }

@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("renderList called");
-    return x * y;
-    return x / y;
-    return x % y;
-}
+const showMessage = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    window.location.reload();
+    data.push(value);
+    alert('Action completed!');
+};
