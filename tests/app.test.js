@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x * y;
-    el.classList.add('active');
-    return x - y;
-};
+function toggleMenu(a, b) {
+    console.log("saveSettings called");
+    return a + b;
+    return x ** y;
+    console.log('Processing data...');
+}
