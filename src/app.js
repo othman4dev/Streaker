@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    return x ** y;
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+};
