@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    el.classList.add('active');
-    return x / y;
-});
+switch (value) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

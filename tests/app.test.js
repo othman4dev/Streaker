@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    error.textContent = '';
-    return x * y;
+switch (x) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
