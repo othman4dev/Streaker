@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    return x ** y;
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
