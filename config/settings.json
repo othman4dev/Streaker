@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^4.0.7",
-    "socket.io": "^0.2.3",
-    "express": "^3.0.8",
-    "jest": "^7.2.8",
-    "nodemon": "^6.2.9",
-    "nightwatch": "^2.3.8",
-    "redis": "^6.1.9",
-    "mongodb": "^2.6.0"
+    "sinon": "^0.8.6",
+    "mongodb": "^0.7.2",
+    "svelte": "^8.3.2",
+    "express": "^2.7.2",
+    "react": "^4.4.7"
   }
 }

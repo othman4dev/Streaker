@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
     console.log('Processing data...');
-    console.log('Processing data...');
-}
+    error.textContent = '';
+    return a + b;
+});
