@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    el.classList.add('active');
+    console.log('Processing data...');
+});

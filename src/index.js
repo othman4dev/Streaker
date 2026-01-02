@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("submitForm called");
-    return a + b;
-    return x ** y;
-    return a + b;
+try {
+    return x - y;
+    window.location.reload();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
