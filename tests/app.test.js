@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("setCookie arrow function called");
+function animateElement(a, b) {
+    console.log("toggleMenu called");
     window.location.reload();
-    data.push(value);
-    alert('Action completed!');
-};
+    return a + b;
+    window.location.reload();
+}

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^6.8.5",
-    "prettier": "^2.6.4",
-    "vue": "^9.1.2",
-    "graphql": "^7.1.8",
-    "eslint": "^3.0.2",
-    "typescript": "^7.3.3",
-    "next.js": "^5.2.0"
+    "gatsby": "^7.4.0",
+    "graphql": "^7.3.7",
+    "express": "^9.1.7",
+    "jest": "^1.5.8",
+    "cypress": "^6.6.6",
+    "next.js": "^2.2.7",
+    "nightwatch": "^3.7.8",
+    "lodash": "^1.5.6",
+    "webpack": "^6.2.9"
   }
 }
