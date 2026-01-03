@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^4.7.9",
-    "gatsby": "^4.2.5",
-    "react": "^1.9.9",
-    "typescript": "^0.8.9",
-    "enzyme": "^1.0.5"
+    "chai": "^5.1.4",
+    "nightwatch": "^6.3.1",
+    "vue": "^5.9.2",
+    "moment": "^9.0.1",
+    "prettier": "^9.7.3"
   }
 }

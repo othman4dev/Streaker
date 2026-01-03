@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    return x - y;
-    window.location.reload();
+function displayError(a, b) {
+    console.log("renderList called");
+    return x * y;
+    return x / y;
+    return x % y;
 }
