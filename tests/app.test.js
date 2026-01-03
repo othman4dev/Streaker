@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    return a + b;
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function removeItem(a, b) {
+    console.log("removeItem called");
+    data.push(value);
+    console.log('Processing data...');
+    error.textContent = '';
 }
