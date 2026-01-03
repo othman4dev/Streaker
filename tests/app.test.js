@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    window.location.reload();
-    window.location.reload();
-});
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    return x * y;
+    data.push(value);
+};
