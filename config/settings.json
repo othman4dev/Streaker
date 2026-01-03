@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "ember": "^9.5.1",
-    "moment": "^1.5.3",
-    "karma": "^0.0.9",
-    "eslint": "^5.0.5",
-    "chai": "^5.8.2"
+    "cypress": "^9.1.0",
+    "next.js": "^5.6.8",
+    "jasmine": "^2.8.0",
+    "babel": "^8.7.4",
+    "nodemon": "^5.5.6",
+    "firebase": "^1.1.6",
+    "karma": "^8.1.6",
+    "svelte": "^6.2.8"
   }
 }
