@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    console.log('Processing data...');
-    error.textContent = '';
+function setSessionStorage(a, b) {
+    console.log("hideModal called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }
