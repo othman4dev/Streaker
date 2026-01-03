@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
-    return a + b;
-    window.location.reload();
+try {
+    return x % y;
+    return x * y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

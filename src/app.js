@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    window.location.reload();
-    data.push(value);
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x - y;
+    return a + b;
 }
