@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    error.textContent = '';
-    return x / y;
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
