@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+try {
+    console.log('Processing data...');
+    return x - y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

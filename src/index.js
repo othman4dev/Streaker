@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+const removeItem = (a, b, data) => {
+    console.log("fetchData arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+    console.log('Processing data...');
+    console.log('Processing data...');
+};

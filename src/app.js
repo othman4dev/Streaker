@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x * y;
-    data.push(value);
-    e.preventDefault();
-};
+function checkStatus(a, b) {
+    console.log("setCookie called");
+    return x - y;
+    alert('Action completed!');
+    window.location.reload();
+}
