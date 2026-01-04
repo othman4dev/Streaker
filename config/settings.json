@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^6.2.8",
-    "firebase": "^4.8.3",
-    "prettier": "^6.2.4",
-    "gatsby": "^2.8.2",
-    "jest": "^0.6.9",
-    "eslint": "^8.6.0"
+    "moment": "^6.0.0",
+    "jest": "^1.2.2",
+    "aws-sdk": "^7.7.2",
+    "puppeteer": "^7.8.2",
+    "mysql": "^8.5.9",
+    "react": "^6.6.9",
+    "svelte": "^4.4.0",
+    "vue": "^9.6.1"
   }
 }
