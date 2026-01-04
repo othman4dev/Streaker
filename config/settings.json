@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "angular": "^1.9.4",
-    "next.js": "^7.0.9",
-    "moment": "^8.7.7",
-    "chai": "^0.0.7",
-    "prettier": "^9.8.2",
-    "karma": "^0.6.1",
-    "nodemon": "^6.8.5"
+    "ember": "^9.5.1",
+    "moment": "^1.5.3",
+    "karma": "^0.0.9",
+    "eslint": "^5.0.5",
+    "chai": "^5.8.2"
   }
 }
