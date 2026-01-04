@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    return x % y;
-    return x - y;
-}
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    console.log('Processing data...');
+    return x / y;
+});

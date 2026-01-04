@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    return x ** y;
+const showMessage = (a, b, data) => {
+    console.log("showMessage arrow function called");
     el.classList.add('active');
+    return a + b;
+    e.preventDefault();
 };
