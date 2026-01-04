@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    data.push(value);
+try {
+    el.classList.add('active');
     alert('Action completed!');
-    return x - y;
-};
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
