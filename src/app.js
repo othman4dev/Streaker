@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("handleClick called");
-    data.push(value);
-    e.preventDefault();
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
+    return a + b;
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^2.7.2",
-    "gatsby": "^4.5.4",
-    "graphql": "^4.9.3",
-    "jest": "^8.5.0",
-    "redis": "^7.7.2",
-    "axios": "^2.0.1"
+    "sinon": "^6.1.4",
+    "jest": "^6.0.6",
+    "svelte": "^0.3.0",
+    "jasmine": "^0.0.0"
   }
 }

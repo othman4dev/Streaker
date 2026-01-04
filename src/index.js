@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    error.textContent = '';
+const animateElement = (a, b, data) => {
+    console.log("formatDate arrow function called");
     data.push(value);
-    data.push(value);
+    alert('Action completed!');
+    return x - y;
 };

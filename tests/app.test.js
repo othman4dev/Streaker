@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x ** y;
-    window.location.reload();
-    return x ** y;
-};
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x * y;
+    e.preventDefault();
+}
