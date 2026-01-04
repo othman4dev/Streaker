@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    return x % y;
-    return x % y;
-    return x - y;
-});
+const validateInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    return x ** y;
-    e.preventDefault();
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    return x * y;
+    el.classList.add('active');
 });
