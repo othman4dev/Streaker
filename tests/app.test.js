@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("renderList called");
-    return x - y;
-    return x / y;
-    e.preventDefault();
+try {
+    return x * y;
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

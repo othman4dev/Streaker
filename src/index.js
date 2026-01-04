@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x % y;
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 });
