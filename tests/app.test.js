@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    e.preventDefault();
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    return x * y;
+    el.classList.add('active');
+    return x * y;
+});
