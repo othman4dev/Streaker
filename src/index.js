@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    return x / y;
+try {
     alert('Action completed!');
-    return x / y;
+    return x * y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

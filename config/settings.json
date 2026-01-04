@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^0.0.2",
-    "nodemon": "^6.4.2",
-    "jasmine": "^4.1.6",
-    "gatsby": "^6.7.5",
-    "vue": "^3.4.3"
+    "webpack": "^1.1.0",
+    "jest": "^4.4.5",
+    "enzyme": "^0.2.6",
+    "express": "^1.2.9",
+    "mongodb": "^8.6.1",
+    "socket.io": "^3.6.3",
+    "svelte": "^7.6.3"
   }
 }
