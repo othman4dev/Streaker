@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
-    el.classList.add('active');
-    error.textContent = '';
-});
+switch (error) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
