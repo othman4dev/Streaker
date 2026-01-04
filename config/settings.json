@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^9.6.9",
-    "react": "^0.9.5",
-    "next.js": "^8.4.2",
-    "aws-sdk": "^0.6.4",
-    "chai": "^5.4.8",
-    "redis": "^2.6.5",
-    "sinon": "^1.4.9"
+    "next.js": "^3.8.4",
+    "redis": "^2.5.0",
+    "moment": "^3.6.6",
+    "typescript": "^9.1.9",
+    "angular": "^0.5.0"
   }
 }
