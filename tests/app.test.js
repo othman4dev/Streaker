@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+if (value !== '') {
+    console.log("saveSettings condition met");
     return x - y;
-    return x * y;
-    data.push(value);
-};
+    console.log('Processing data...');
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
