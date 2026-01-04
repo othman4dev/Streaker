@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^1.1.0",
-    "jest": "^4.4.5",
-    "enzyme": "^0.2.6",
-    "express": "^1.2.9",
-    "mongodb": "^8.6.1",
-    "socket.io": "^3.6.3",
-    "svelte": "^7.6.3"
+    "express": "^6.2.7",
+    "puppeteer": "^9.0.1",
+    "angular": "^6.1.8",
+    "enzyme": "^1.6.2",
+    "mysql": "^5.9.4"
   }
 }
