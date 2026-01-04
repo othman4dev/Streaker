@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    window.location.reload();
     return x ** y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
 });

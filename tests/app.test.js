@@ -1,7 +1,8 @@
-try {
+if (x !== y) {
+    console.log("removeItem condition met");
+    return x - y;
     return x * y;
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
