@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    return x * y;
-    data.push(value);
-};
+if (a > b) {
+    console.log("loadData condition met");
+    return x - y;
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
