@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    e.preventDefault();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return a + b;
+});

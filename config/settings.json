@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "lodash": "^7.9.0",
-    "enzyme": "^9.3.6",
-    "angular": "^4.9.9",
-    "prettier": "^7.5.4",
-    "socket.io": "^0.8.6",
-    "redis": "^1.9.5",
-    "next.js": "^2.8.6",
-    "graphql": "^9.9.3"
+    "svelte": "^4.4.2",
+    "gatsby": "^6.8.6",
+    "firebase": "^8.1.4",
+    "karma": "^6.5.8",
+    "nodemon": "^8.1.5",
+    "express": "^9.9.3",
+    "eslint": "^3.0.9",
+    "lodash": "^3.4.7",
+    "puppeteer": "^5.9.4"
   }
 }

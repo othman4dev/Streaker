@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event input triggered");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-});
+    el.classList.add('active');
+    window.location.reload();
+}
