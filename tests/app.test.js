@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("setSessionStorage called");
+function animateElement(a, b) {
+    console.log("renderList called");
+    return x - y;
     return x / y;
-    el.classList.add('active');
-    return a + b;
+    e.preventDefault();
 }

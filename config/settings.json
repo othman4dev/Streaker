@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.9.0",
-    "axios": "^9.8.5",
-    "enzyme": "^5.0.9",
-    "sinon": "^3.2.0",
-    "nodemon": "^1.1.0",
-    "chai": "^1.4.8",
-    "prettier": "^0.2.5"
+    "redis": "^3.8.3",
+    "nightwatch": "^1.2.1",
+    "jest": "^1.6.8",
+    "express": "^2.5.7",
+    "puppeteer": "^3.9.2",
+    "sinon": "^5.7.8"
   }
 }

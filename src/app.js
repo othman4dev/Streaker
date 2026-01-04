@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    return a + b;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    alert('Action completed!');
     e.preventDefault();
-};
+}

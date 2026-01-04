@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x / y;
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x % y;
 });
