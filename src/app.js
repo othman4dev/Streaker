@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x * y;
+try {
+    window.location.reload();
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
