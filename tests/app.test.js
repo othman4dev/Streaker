@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    return x / y;
+    window.location.reload();
+});

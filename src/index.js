@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    return a + b;
-    return x % y;
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 });
