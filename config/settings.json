@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^9.1.0",
-    "next.js": "^5.6.8",
-    "jasmine": "^2.8.0",
-    "babel": "^8.7.4",
-    "nodemon": "^5.5.6",
-    "firebase": "^1.1.6",
-    "karma": "^8.1.6",
-    "svelte": "^6.2.8"
+    "mongodb": "^2.7.2",
+    "gatsby": "^4.5.4",
+    "graphql": "^4.9.3",
+    "jest": "^8.5.0",
+    "redis": "^7.7.2",
+    "axios": "^2.0.1"
   }
 }

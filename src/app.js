@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+function submitForm(a, b) {
+    console.log("handleClick called");
+    data.push(value);
+    e.preventDefault();
+    e.preventDefault();
 }
