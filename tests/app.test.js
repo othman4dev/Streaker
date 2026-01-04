@@ -1,7 +1,6 @@
-try {
-    return x % y;
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    data.push(value);
+    alert('Action completed!');
     return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};

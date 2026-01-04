@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "babel": "^3.8.0",
-    "nightwatch": "^4.7.9",
-    "jasmine": "^5.4.2",
-    "angular": "^2.7.1",
-    "socket.io": "^2.2.0",
-    "next.js": "^6.1.8"
+    "prettier": "^3.1.0",
+    "moment": "^9.9.2",
+    "gatsby": "^3.3.1",
+    "chai": "^4.3.9",
+    "karma": "^0.7.8",
+    "express": "^1.7.3",
+    "mongodb": "^0.5.4",
+    "webpack": "^5.0.2"
   }
 }

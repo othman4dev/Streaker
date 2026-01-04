@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x - y;
-    return a + b;
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    return x ** y;
+    el.classList.add('active');
+};
