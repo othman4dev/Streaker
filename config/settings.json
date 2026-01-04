@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "express": "^6.2.7",
-    "puppeteer": "^9.0.1",
-    "angular": "^6.1.8",
-    "enzyme": "^1.6.2",
-    "mysql": "^5.9.4"
+    "redis": "^7.0.3",
+    "cypress": "^9.3.6",
+    "aws-sdk": "^9.5.7",
+    "webpack": "^1.9.1",
+    "nodemon": "^3.9.6",
+    "firebase": "^3.0.3",
+    "mocha": "^8.1.5"
   }
 }

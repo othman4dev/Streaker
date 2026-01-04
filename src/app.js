@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    el.classList.add('active');
+    error.textContent = '';
+});
