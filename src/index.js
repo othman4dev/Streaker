@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("createChart arrow function called");
-    window.location.reload();
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    return x % y;
     data.push(value);
-    return x - y;
-};
+});
