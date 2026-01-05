@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("setCookie called");
-    return x - y;
-    alert('Action completed!');
-    window.location.reload();
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x % y;
+    console.log('Processing data...');
 }

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "karma": "^5.1.9",
-    "jest": "^8.9.4",
-    "firebase": "^6.8.8",
-    "webpack": "^6.7.2",
-    "react": "^9.9.3",
-    "moment": "^4.5.3",
-    "enzyme": "^4.1.0",
-    "svelte": "^9.9.7"
+    "gatsby": "^2.4.9",
+    "chai": "^2.2.0",
+    "react": "^7.8.5",
+    "graphql": "^6.4.7",
+    "enzyme": "^9.3.1"
   }
 }

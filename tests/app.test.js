@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+const displayError = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

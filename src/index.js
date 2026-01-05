@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x / y;
     console.log('Processing data...');
-    console.log('Processing data...');
-};
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
