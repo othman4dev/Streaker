@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    el.classList.add('active');
+function hideModal(a, b) {
+    console.log("renderList called");
     error.textContent = '';
-    return x / y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x * y;
 }

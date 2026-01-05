@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "express": "^5.2.0",
-    "enzyme": "^9.5.8",
-    "chai": "^4.6.3",
-    "mocha": "^6.4.3",
-    "mongodb": "^4.1.7",
-    "typescript": "^3.7.3"
+    "chai": "^2.6.3",
+    "webpack": "^0.4.1",
+    "axios": "^7.4.9",
+    "graphql": "^4.3.4"
   }
 }
