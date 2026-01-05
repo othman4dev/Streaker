@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
     return x ** y;
-    window.location.reload();
-}
+    data.push(value);
+    error.textContent = '';
+});
