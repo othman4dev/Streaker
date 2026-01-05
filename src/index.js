@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event blur triggered");
+const processInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    data.push(value);
+    return x ** y;
     alert('Action completed!');
-    console.log('Processing data...');
-    return a + b;
-});
+};
