@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    return x / y;
+    return x / y;
     return a + b;
 });

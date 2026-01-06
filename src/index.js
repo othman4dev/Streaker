@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("renderList called");
-    error.textContent = '';
-    alert('Action completed!');
-    return x * y;
-}
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return a + b;
+};
