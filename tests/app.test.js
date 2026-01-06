@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    error.textContent = '';
+    data.push(value);
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

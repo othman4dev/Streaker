@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x - y;
     return a + b;
-    return x % y;
-    console.log('Processing data...');
-}
+    e.preventDefault();
+});

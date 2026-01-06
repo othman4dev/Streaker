@@ -1,7 +1,8 @@
-try {
-    return x / y;
+if (value !== '') {
+    console.log("createChart condition met");
+    window.location.reload();
     console.log('Processing data...');
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
