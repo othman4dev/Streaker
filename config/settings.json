@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^5.1.9",
-    "aws-sdk": "^3.2.1",
-    "axios": "^7.7.1",
-    "next.js": "^9.5.4",
-    "graphql": "^3.8.8",
-    "typescript": "^5.8.6"
+    "jasmine": "^7.9.2",
+    "next.js": "^1.9.5",
+    "ember": "^6.2.9",
+    "protractor": "^9.1.5"
   }
 }
