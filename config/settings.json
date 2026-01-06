@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "svelte": "^3.5.3",
-    "puppeteer": "^8.6.1",
-    "ember": "^8.8.3",
-    "aws-sdk": "^2.4.7",
-    "nightwatch": "^0.8.7",
-    "socket.io": "^1.4.1",
-    "karma": "^2.5.1"
+    "lodash": "^5.4.0",
+    "aws-sdk": "^0.0.1",
+    "nodemon": "^4.3.2",
+    "chai": "^9.3.1",
+    "prettier": "^9.6.4",
+    "ember": "^4.5.5",
+    "next.js": "^8.0.0",
+    "jasmine": "^1.0.9",
+    "moment": "^0.8.0"
   }
 }
