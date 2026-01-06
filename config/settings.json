@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^6.2.6",
-    "eslint": "^4.7.3",
-    "protractor": "^7.7.2",
-    "aws-sdk": "^1.5.1",
-    "firebase": "^6.2.8",
-    "prettier": "^4.4.8",
-    "babel": "^7.7.9"
+    "graphql": "^1.8.5",
+    "axios": "^5.5.7",
+    "redis": "^0.3.7",
+    "mysql": "^8.5.2",
+    "react": "^2.0.9",
+    "cypress": "^0.1.6"
   }
 }

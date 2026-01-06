@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-}
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    return x / y;
+    return x / y;
+});
