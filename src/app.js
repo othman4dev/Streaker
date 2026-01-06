@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    data.push(value);
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    return x % y;
+};
