@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return a + b;
+const formatDate = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    data.push(value);
+    window.location.reload();
 };

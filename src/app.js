@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    return x % y;
+    return x - y;
+    console.log('Processing data...');
+});
