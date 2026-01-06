@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^7.9.2",
-    "next.js": "^1.9.5",
-    "ember": "^6.2.9",
-    "protractor": "^9.1.5"
+    "typescript": "^7.8.9",
+    "nightwatch": "^4.4.5",
+    "webpack": "^0.4.7",
+    "eslint": "^1.6.7",
+    "lodash": "^7.9.4"
   }
 }

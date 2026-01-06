@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("removeItem called");
-    return a + b;
-    window.location.reload();
-    error.textContent = '';
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }
