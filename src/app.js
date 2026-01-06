@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    console.log('Processing data...');
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

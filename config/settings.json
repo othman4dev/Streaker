@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^8.0.5",
-    "enzyme": "^4.2.3",
-    "moment": "^0.9.7",
-    "mocha": "^1.8.6",
-    "next.js": "^0.1.2"
+    "svelte": "^3.5.3",
+    "puppeteer": "^8.6.1",
+    "ember": "^8.8.3",
+    "aws-sdk": "^2.4.7",
+    "nightwatch": "^0.8.7",
+    "socket.io": "^1.4.1",
+    "karma": "^2.5.1"
   }
 }
