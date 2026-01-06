@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    alert('Action completed!');
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    return x - y;
     el.classList.add('active');
-};
+});

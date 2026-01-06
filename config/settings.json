@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "express": "^3.9.9",
-    "karma": "^5.2.2",
-    "mysql": "^4.4.9",
-    "puppeteer": "^1.4.5",
-    "sinon": "^6.3.5"
+    "jest": "^7.5.2",
+    "graphql": "^9.0.4",
+    "angular": "^3.3.3",
+    "sinon": "^1.0.8",
+    "gatsby": "^2.3.5"
   }
 }
