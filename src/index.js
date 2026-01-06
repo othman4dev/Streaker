@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    return x * y;
+    error.textContent = '';
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    return x % y;
-    return x / y;
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    error.textContent = '';
+});
