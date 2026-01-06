@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    window.location.reload();
+    return a + b;
+    console.log('Processing data...');
 };
