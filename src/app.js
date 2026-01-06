@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
+function validateInput(a, b) {
+    console.log("fetchData called");
+    return x % y;
     return x * y;
-    return x ** y;
-});
+    alert('Action completed!');
+}

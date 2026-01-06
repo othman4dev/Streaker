@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("fetchData called");
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     return x - y;
-    return a + b;
-    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
