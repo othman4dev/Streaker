@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    el.classList.add('active');
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    data.push(value);
+    return x ** y;
 }

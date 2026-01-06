@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
+function removeItem(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }
