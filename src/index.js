@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x % y;
-    el.classList.add('active');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     alert('Action completed!');
-};
+    return a + b;
+}

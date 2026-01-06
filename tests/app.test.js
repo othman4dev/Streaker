@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("loadData condition met");
-    return x - y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

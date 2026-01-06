@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^2.2.1",
-    "moment": "^0.5.9",
-    "webpack": "^2.3.2",
-    "axios": "^7.6.1",
-    "jest": "^3.7.5"
+    "mongodb": "^5.1.9",
+    "aws-sdk": "^3.2.1",
+    "axios": "^7.7.1",
+    "next.js": "^9.5.4",
+    "graphql": "^3.8.8",
+    "typescript": "^5.8.6"
   }
 }
