@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "vue": "^6.8.9",
-    "jest": "^7.8.0",
-    "axios": "^1.7.6",
-    "gatsby": "^1.2.2",
-    "svelte": "^2.0.2",
-    "aws-sdk": "^8.2.9"
+    "cypress": "^9.8.8",
+    "mysql": "^8.5.2",
+    "vue": "^6.1.1",
+    "nodemon": "^5.3.5",
+    "react": "^5.3.8",
+    "webpack": "^5.7.2"
   }
 }

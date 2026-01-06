@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function checkStatus(a, b) {
+    console.log("setCookie called");
+    return x / y;
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
 }
