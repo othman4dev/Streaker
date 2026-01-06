@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    return x - y;
-    e.preventDefault();
-};
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x ** y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

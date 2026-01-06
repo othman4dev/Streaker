@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x - y;
-    return x % y;
-    return x / y;
-};
+try {
+    console.log('Processing data...');
+    return x ** y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

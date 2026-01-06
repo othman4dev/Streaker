@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    return x ** y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }
