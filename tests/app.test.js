@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    data.push(value);
     e.preventDefault();
-    alert('Action completed!');
+    return x % y;
 } else {
     console.log("Condition not met");
 }
