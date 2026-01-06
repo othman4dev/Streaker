@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    alert('Action completed!');
+    return x % y;
 }

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^7.8.9",
-    "nightwatch": "^4.4.5",
-    "webpack": "^0.4.7",
-    "eslint": "^1.6.7",
-    "lodash": "^7.9.4"
+    "eslint": "^7.5.9",
+    "socket.io": "^6.3.2",
+    "express": "^2.5.1",
+    "aws-sdk": "^2.2.5",
+    "lodash": "^5.9.5"
   }
 }
