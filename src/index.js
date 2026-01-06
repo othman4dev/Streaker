@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    data.push(value);
-    window.location.reload();
-};
+function showMessage(a, b) {
+    console.log("submitForm called");
+    return x - y;
+    e.preventDefault();
+    return x / y;
+}
