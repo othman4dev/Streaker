@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("renderList called");
-    e.preventDefault();
-    return x * y;
-    window.location.reload();
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x ** y;
+    return a + b;
 }

@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
+    el.classList.add('active');
     return a + b;
-    error.textContent = '';
-    return x * y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

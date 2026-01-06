@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "redis": "^0.2.3",
-    "jest": "^4.4.1",
-    "babel": "^2.5.4",
-    "axios": "^2.9.1",
-    "protractor": "^7.7.1"
+    "firebase": "^8.0.5",
+    "enzyme": "^4.2.3",
+    "moment": "^0.9.7",
+    "mocha": "^1.8.6",
+    "next.js": "^0.1.2"
   }
 }
