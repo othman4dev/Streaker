@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^0.3.6",
-    "nodemon": "^2.1.9",
-    "angular": "^0.9.6",
-    "prettier": "^5.8.9",
-    "eslint": "^0.3.3"
+    "express": "^3.9.9",
+    "karma": "^5.2.2",
+    "mysql": "^4.4.9",
+    "puppeteer": "^1.4.5",
+    "sinon": "^6.3.5"
   }
 }

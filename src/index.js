@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    data.push(value);
-    return x ** y;
+const setCookie = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x / y;
     alert('Action completed!');
+    el.classList.add('active');
 };
