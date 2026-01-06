@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^5.7.5",
-    "jasmine": "^1.7.5",
-    "typescript": "^2.0.6",
-    "eslint": "^1.2.3",
-    "next.js": "^8.4.2",
-    "express": "^5.0.9",
-    "jest": "^4.0.0"
+    "nightwatch": "^7.4.7",
+    "babel": "^9.5.5",
+    "redis": "^9.9.7",
+    "protractor": "^0.4.6",
+    "eslint": "^7.8.4",
+    "mocha": "^3.4.9"
   }
 }
