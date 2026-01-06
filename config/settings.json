@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^9.8.8",
-    "mysql": "^8.5.2",
-    "vue": "^6.1.1",
-    "nodemon": "^5.3.5",
-    "react": "^5.3.8",
-    "webpack": "^5.7.2"
+    "typescript": "^4.3.6",
+    "svelte": "^3.8.0",
+    "socket.io": "^2.8.5",
+    "sinon": "^2.0.5",
+    "mocha": "^7.1.8",
+    "mongodb": "^4.5.3",
+    "jest": "^9.8.6"
   }
 }

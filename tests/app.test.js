@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    error.textContent = '';
-    return x - y;
-    return x / y;
-};
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    el.classList.add('active');
+    return x ** y;
+});

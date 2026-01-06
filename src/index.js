@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("renderList condition met");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
