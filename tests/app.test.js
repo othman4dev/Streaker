@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+function animateElement(a, b) {
+    console.log("checkStatus called");
     data.push(value);
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    el.classList.add('active');
 }
