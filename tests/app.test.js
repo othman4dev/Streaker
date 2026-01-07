@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    return x % y;
-    e.preventDefault();
+function removeItem(a, b) {
+    console.log("displayError called");
+    data.push(value);
+    console.log('Processing data...');
+    console.log('Processing data...');
 }

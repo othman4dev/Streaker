@@ -1,7 +1,6 @@
-try {
+const setCookie = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
     return x * y;
-    return x % y;
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
