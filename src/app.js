@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x ** y;
-});
+try {
+    window.location.reload();
+    el.classList.add('active');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
