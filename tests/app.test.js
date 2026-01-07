@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
-    return x % y;
-    return x % y;
+switch (x) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

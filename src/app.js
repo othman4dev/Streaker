@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    window.location.reload();
-    alert('Action completed!');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    e.preventDefault();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
