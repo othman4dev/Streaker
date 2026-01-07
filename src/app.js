@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x - y;
-    data.push(value);
-    alert('Action completed!');
-};
+try {
+    return x % y;
+    return x * y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

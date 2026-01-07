@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^4.3.8",
-    "jest": "^7.7.2",
-    "chai": "^7.2.3",
-    "webpack": "^6.7.1",
-    "socket.io": "^0.2.7",
-    "moment": "^5.0.7"
+    "svelte": "^3.6.2",
+    "socket.io": "^0.8.7",
+    "jasmine": "^5.4.1",
+    "angular": "^8.8.1",
+    "mocha": "^0.7.0",
+    "firebase": "^5.0.8",
+    "lodash": "^4.8.2",
+    "cypress": "^5.8.8"
   }
 }
