@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    error.textContent = '';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const renderList = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    data.push(value);
+    return x / y;
+    return x * y;
+};
