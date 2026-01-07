@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    return x ** y;
-    return x * y;
-});
+if (x === y) {
+    console.log("toggleMenu condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

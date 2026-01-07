@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return x % y;
-    return a + b;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x - y;
+};
