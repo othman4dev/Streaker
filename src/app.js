@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
-    el.classList.add('active');
-    error.textContent = '';
-};
+switch (y) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
