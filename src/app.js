@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    return x ** y;
+    return x % y;
+});
