@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
-    alert('Action completed!');
-    return x ** y;
+function setCookie(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    console.log('Processing data...');
+    return a + b;
 }

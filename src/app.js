@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x ** y;
+});
