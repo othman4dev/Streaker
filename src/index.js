@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("formatDate called");
-    error.textContent = '';
-    return x % y;
-    alert('Action completed!');
-}
+const showMessage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    window.location.reload();
+    return x ** y;
+    console.log('Processing data...');
+};

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "moment": "^6.2.9",
-    "prettier": "^8.1.6",
-    "express": "^3.3.8",
-    "sinon": "^9.8.3",
-    "svelte": "^6.4.5",
-    "chai": "^6.4.9",
-    "mocha": "^3.2.1"
+    "gatsby": "^8.8.8",
+    "prettier": "^0.7.3",
+    "cypress": "^2.6.3",
+    "nodemon": "^8.8.1",
+    "ember": "^4.6.3",
+    "react": "^9.9.2",
+    "jasmine": "^3.5.0",
+    "sinon": "^6.7.5",
+    "redis": "^9.8.8"
   }
 }
