@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.2.9",
-    "chai": "^7.4.2",
-    "nightwatch": "^5.2.6",
-    "puppeteer": "^9.9.0",
-    "webpack": "^3.0.8",
-    "jest": "^2.5.6",
-    "jasmine": "^7.2.1",
-    "lodash": "^2.0.1"
+    "gatsby": "^0.2.8",
+    "graphql": "^9.4.7",
+    "aws-sdk": "^3.2.9",
+    "svelte": "^5.9.2",
+    "nightwatch": "^5.5.4",
+    "axios": "^3.4.1"
   }
 }

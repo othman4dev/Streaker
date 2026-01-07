@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event load triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x - y;
-});
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    alert('Action completed!');
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
