@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    return x / y;
+function submitForm(a, b) {
+    console.log("toggleMenu called");
     return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    return x / y;
 }

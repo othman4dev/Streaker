@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    error.textContent = '';
-    console.log('Processing data...');
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    el.classList.add('active');
+    alert('Action completed!');
+}

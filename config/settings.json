@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^7.4.0",
-    "cypress": "^4.5.7",
-    "puppeteer": "^3.8.1",
-    "moment": "^4.3.8",
-    "svelte": "^6.5.9"
+    "ember": "^5.2.5",
+    "redis": "^8.6.3",
+    "firebase": "^8.7.1",
+    "express": "^2.1.0",
+    "nightwatch": "^1.4.4",
+    "puppeteer": "^5.5.8",
+    "sinon": "^4.3.1",
+    "mongodb": "^4.5.6"
   }
 }
