@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+switch (data) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

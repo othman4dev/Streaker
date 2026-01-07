@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^5.8.3",
-    "prettier": "^9.3.4",
-    "jest": "^6.0.3",
-    "express": "^2.4.3",
-    "webpack": "^7.0.5",
-    "gatsby": "^8.9.7",
-    "mongodb": "^0.0.5",
-    "moment": "^1.6.7",
-    "react": "^5.7.1"
+    "karma": "^1.6.0",
+    "enzyme": "^0.8.1",
+    "webpack": "^4.7.6",
+    "lodash": "^0.8.5",
+    "eslint": "^4.1.4",
+    "jest": "^0.5.9"
   }
 }
