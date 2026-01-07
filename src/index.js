@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("checkStatus called");
-    el.classList.add('active');
+const createChart = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return x % y;
-    return x * y;
-}
+    alert('Action completed!');
+    return x ** y;
+};
