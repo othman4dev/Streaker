@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "express": "^3.5.0",
-    "aws-sdk": "^2.4.8",
-    "jest": "^2.1.2",
-    "axios": "^5.3.2",
-    "cypress": "^1.4.8",
-    "typescript": "^8.3.6",
-    "lodash": "^7.8.3",
-    "socket.io": "^8.9.3"
+    "enzyme": "^4.6.4",
+    "aws-sdk": "^3.2.2",
+    "nodemon": "^3.8.1",
+    "jest": "^3.7.8",
+    "vue": "^3.6.2",
+    "axios": "^0.2.4"
   }
 }

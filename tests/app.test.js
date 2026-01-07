@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    e.preventDefault();
-    return a + b;
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    window.location.reload();
     return x - y;
-};
+});

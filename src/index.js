@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    error.textContent = '';
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    el.classList.add('active');
 }
