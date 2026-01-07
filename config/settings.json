@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^8.8.8",
-    "prettier": "^0.7.3",
-    "cypress": "^2.6.3",
-    "nodemon": "^8.8.1",
-    "ember": "^4.6.3",
-    "react": "^9.9.2",
-    "jasmine": "^3.5.0",
-    "sinon": "^6.7.5",
-    "redis": "^9.8.8"
+    "lodash": "^2.6.8",
+    "karma": "^7.1.7",
+    "axios": "^9.6.0",
+    "jest": "^9.2.4",
+    "eslint": "^8.7.2",
+    "aws-sdk": "^2.4.7",
+    "jasmine": "^9.1.8",
+    "webpack": "^9.7.8"
   }
 }
