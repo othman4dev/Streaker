@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    return a + b;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     return x % y;
-});
+    return x ** y;
+}
