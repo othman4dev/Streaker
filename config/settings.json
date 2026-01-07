@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^2.6.8",
-    "karma": "^7.1.7",
-    "axios": "^9.6.0",
-    "jest": "^9.2.4",
-    "eslint": "^8.7.2",
-    "aws-sdk": "^2.4.7",
-    "jasmine": "^9.1.8",
-    "webpack": "^9.7.8"
+    "express": "^1.5.9",
+    "nightwatch": "^6.7.5",
+    "webpack": "^7.6.5",
+    "babel": "^0.0.4",
+    "redis": "^5.0.1",
+    "ember": "^7.2.9",
+    "lodash": "^9.2.9",
+    "chai": "^9.2.2"
   }
 }

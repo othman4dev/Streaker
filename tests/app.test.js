@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("getLocalStorage called");
-    data.push(value);
-    console.log('Processing data...');
-    console.log('Processing data...');
+try {
+    return a + b;
+    error.textContent = '';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

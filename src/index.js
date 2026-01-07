@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x / y;
-    window.location.reload();
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    return a + b;
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
