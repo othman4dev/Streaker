@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x % y;
-    el.classList.add('active');
+function removeItem(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }

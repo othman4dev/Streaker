@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x ** y;
-    data.push(value);
-    return x / y;
-};
+if (data.length > 0) {
+    console.log("submitForm condition met");
+    return x % y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
