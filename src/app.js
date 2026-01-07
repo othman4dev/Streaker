@@ -1,8 +1,8 @@
 if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    return x ** y;
+    console.log("removeItem condition met");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return a + b;
 } else {
     console.log("Condition not met");
 }

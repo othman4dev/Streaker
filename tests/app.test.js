@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+function displayError(a, b) {
+    console.log("processInput called");
     return x - y;
+    el.classList.add('active');
+    return x * y;
 }
