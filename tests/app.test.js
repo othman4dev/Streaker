@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    data.push(value);
-});
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    alert('Action completed!');
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x / y;
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    window.location.reload();
+    return x - y;
+    e.preventDefault();
+};
