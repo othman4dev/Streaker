@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    el.classList.add('active');
+try {
+    window.location.reload();
+    console.log('Processing data...');
     alert('Action completed!');
-    return x - y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

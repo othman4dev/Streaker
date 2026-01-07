@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    el.classList.add('active');
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
     alert('Action completed!');
+    return x / y;
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+});

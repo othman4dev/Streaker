@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("displayError called");
-    return x * y;
-    return x % y;
-    console.log('Processing data...');
-}
+const displayError = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x - y;
+    return x ** y;
+    el.classList.add('active');
+};
