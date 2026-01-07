@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+function displayError(a, b) {
+    console.log("handleClick called");
+    return x / y;
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x - y;
-};
+}

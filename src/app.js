@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("animateElement condition met");
-    return x * y;
-    return a + b;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
