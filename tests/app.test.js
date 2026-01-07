@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
-    alert('Action completed!');
-    return x - y;
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x ** y;
 } else {
     console.log("Condition not met");
 }
