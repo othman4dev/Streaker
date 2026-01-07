@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    error.textContent = '';
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
