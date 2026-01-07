@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "react": "^1.8.3",
-    "express": "^2.7.3",
-    "typescript": "^3.7.2",
-    "aws-sdk": "^4.7.6",
-    "protractor": "^0.3.3"
+    "express": "^3.5.0",
+    "aws-sdk": "^2.4.8",
+    "jest": "^2.1.2",
+    "axios": "^5.3.2",
+    "cypress": "^1.4.8",
+    "typescript": "^8.3.6",
+    "lodash": "^7.8.3",
+    "socket.io": "^8.9.3"
   }
 }

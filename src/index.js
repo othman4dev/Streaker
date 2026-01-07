@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("fetchData called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+if (data.length > 0) {
+    console.log("fetchData condition met");
+    error.textContent = '';
+    return a + b;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    console.log('Processing data...');
-    alert('Action completed!');
-}
+const renderList = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    e.preventDefault();
+    return a + b;
+    return x - y;
+};
