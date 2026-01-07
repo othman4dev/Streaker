@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("getLocalStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
+    return a + b;
+    e.preventDefault();
+});

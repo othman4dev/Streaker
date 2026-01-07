@@ -1,7 +1,8 @@
-switch (b) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    return x % y;
+    return a + b;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

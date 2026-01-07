@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    error.textContent = '';
-    el.classList.add('active');
-}
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x / y;
+});
