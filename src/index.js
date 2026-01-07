@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
+function checkStatus(a, b) {
+    console.log("fetchData called");
     el.classList.add('active');
-    el.classList.add('active');
-};
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+}
