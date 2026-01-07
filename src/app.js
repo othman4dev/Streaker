@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    data.push(value);
-    return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    error.textContent = '';
+    console.log('Processing data...');
 }

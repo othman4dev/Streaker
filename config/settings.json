@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^2.2.5",
-    "babel": "^3.7.2",
-    "eslint": "^0.8.7",
-    "gatsby": "^1.5.7",
-    "graphql": "^3.5.6",
-    "aws-sdk": "^3.5.2",
-    "mysql": "^7.5.0",
-    "express": "^8.8.2",
-    "axios": "^1.9.3"
+    "nightwatch": "^7.8.1",
+    "ember": "^7.5.2",
+    "jest": "^8.7.0",
+    "moment": "^2.7.3",
+    "cypress": "^5.6.6",
+    "firebase": "^1.6.3",
+    "socket.io": "^8.7.8",
+    "mocha": "^6.8.1",
+    "aws-sdk": "^3.3.0"
   }
 }
