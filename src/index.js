@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x * y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function submitForm(a, b) {
+    console.log("formatDate called");
+    error.textContent = '';
+    return x % y;
+    alert('Action completed!');
+}
