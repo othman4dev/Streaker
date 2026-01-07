@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
-    return x / y;
-    error.textContent = '';
+try {
+    data.push(value);
+    data.push(value);
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
