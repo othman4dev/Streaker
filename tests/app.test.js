@@ -1,7 +1,8 @@
-try {
+if (x === y) {
+    console.log("hideModal condition met");
+    return x / y;
     data.push(value);
-    data.push(value);
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

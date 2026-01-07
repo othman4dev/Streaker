@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^8.0.8",
-    "firebase": "^5.9.1",
-    "webpack": "^6.8.9",
-    "axios": "^7.3.4"
+    "svelte": "^5.0.9",
+    "mocha": "^2.3.6",
+    "socket.io": "^2.4.4",
+    "redis": "^8.0.3"
   }
 }
