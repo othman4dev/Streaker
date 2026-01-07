@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
+    return x ** y;
+    el.classList.add('active');
+};

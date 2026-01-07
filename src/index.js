@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+function displayError(a, b) {
+    console.log("fetchData called");
+    window.location.reload();
     return x % y;
-    return x ** y;
+    return x - y;
 }

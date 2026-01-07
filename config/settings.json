@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^7.4.3",
-    "socket.io": "^1.7.6",
-    "webpack": "^8.4.3",
-    "mongodb": "^6.2.4",
-    "prettier": "^3.8.2",
-    "svelte": "^7.5.0",
-    "jasmine": "^6.6.2",
-    "redis": "^3.1.5",
-    "mocha": "^1.7.0"
+    "sinon": "^2.3.6",
+    "ember": "^7.6.1",
+    "chai": "^4.9.9",
+    "aws-sdk": "^5.0.9"
   }
 }
