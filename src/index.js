@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
+function loadData(a, b) {
+    console.log("processInput called");
     return x ** y;
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    el.classList.add('active');
 }

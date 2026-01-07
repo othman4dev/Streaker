@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^7.8.8",
-    "babel": "^6.2.2",
-    "svelte": "^9.7.9",
-    "firebase": "^8.5.7",
-    "redis": "^1.0.9"
+    "mongodb": "^2.6.8",
+    "aws-sdk": "^0.5.5",
+    "graphql": "^5.9.5",
+    "nodemon": "^8.6.9"
   }
 }
