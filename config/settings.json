@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "karma": "^0.5.9",
-    "jasmine": "^2.9.8",
-    "socket.io": "^1.7.1",
-    "cypress": "^1.7.3",
-    "firebase": "^8.8.7",
-    "nightwatch": "^2.6.6",
-    "axios": "^7.7.7",
-    "lodash": "^2.5.5",
-    "svelte": "^5.1.7"
+    "next.js": "^4.5.4",
+    "gatsby": "^2.4.5",
+    "graphql": "^5.3.0",
+    "moment": "^4.2.3",
+    "react": "^3.0.4",
+    "webpack": "^9.1.1",
+    "eslint": "^0.6.2",
+    "ember": "^3.0.3",
+    "nodemon": "^6.4.3"
   }
 }

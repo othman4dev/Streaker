@@ -1,6 +1,7 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+try {
     return x * y;
     return x % y;
-    return x - y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
