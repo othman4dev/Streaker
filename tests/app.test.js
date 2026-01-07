@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("displayError called");
+function fetchData(a, b) {
+    console.log("setSessionStorage called");
     return x - y;
-    return a + b;
-    return x - y;
+    return x % y;
+    return x / y;
 }
