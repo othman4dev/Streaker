@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^0.2.8",
-    "graphql": "^9.4.7",
-    "aws-sdk": "^3.2.9",
-    "svelte": "^5.9.2",
-    "nightwatch": "^5.5.4",
-    "axios": "^3.4.1"
+    "nodemon": "^2.6.0",
+    "eslint": "^5.9.0",
+    "prettier": "^3.3.6",
+    "jest": "^4.7.0",
+    "ember": "^4.4.7"
   }
 }

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    alert('Action completed!');
-    return x / y;
+const showMessage = (a, b, data) => {
+    console.log("showMessage arrow function called");
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return a + b;
+};
