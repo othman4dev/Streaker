@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x % y;
-    alert('Action completed!');
-    return x ** y;
-};
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    error.textContent = '';
+    console.log('Processing data...');
+});

@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return a + b;
-};
+switch (value) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
