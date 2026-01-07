@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event change triggered");
-    return x * y;
-    data.push(value);
+function showMessage(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
     window.location.reload();
-});
+    return x / y;
+}

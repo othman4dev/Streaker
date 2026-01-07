@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "react": "^3.2.6",
-    "socket.io": "^1.2.1",
-    "vue": "^7.9.1",
-    "karma": "^9.6.3",
-    "enzyme": "^1.8.8",
-    "express": "^2.4.6"
+    "jasmine": "^9.6.2",
+    "chai": "^6.0.4",
+    "ember": "^9.0.5",
+    "enzyme": "^2.2.8",
+    "protractor": "^9.6.6"
   }
 }
