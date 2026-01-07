@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "angular": "^2.7.6",
-    "eslint": "^1.4.6",
-    "enzyme": "^7.2.8",
-    "nightwatch": "^7.8.0",
-    "svelte": "^5.7.3",
-    "prettier": "^5.2.2",
-    "webpack": "^3.1.6"
+    "next.js": "^3.9.2",
+    "babel": "^2.8.6",
+    "nightwatch": "^0.6.0",
+    "eslint": "^4.7.3",
+    "graphql": "^3.5.2",
+    "karma": "^7.0.4"
   }
 }

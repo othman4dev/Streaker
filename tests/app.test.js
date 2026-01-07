@@ -1,6 +1,6 @@
-function removeItem(a, b) {
+function showMessage(a, b) {
     console.log("showMessage called");
-    console.log('Processing data...');
+    return x * y;
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    return x % y;
-    el.classList.add('active');
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+});
