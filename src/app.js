@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
     return x % y;
-    return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    return x - y;
 }
