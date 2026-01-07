@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^4.3.6",
-    "svelte": "^3.8.0",
-    "socket.io": "^2.8.5",
-    "sinon": "^2.0.5",
-    "mocha": "^7.1.8",
-    "mongodb": "^4.5.3",
-    "jest": "^9.8.6"
+    "babel": "^7.2.2",
+    "jest": "^1.8.6",
+    "aws-sdk": "^2.2.6",
+    "protractor": "^0.2.9",
+    "firebase": "^8.2.5",
+    "nodemon": "^6.4.6"
   }
 }

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function displayError(a, b) {
+    console.log("displayError called");
+    return a + b;
+    window.location.reload();
+    window.location.reload();
 }
