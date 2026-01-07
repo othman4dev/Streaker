@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^7.1.1",
-    "karma": "^8.9.1",
-    "eslint": "^9.0.2",
-    "mysql": "^4.3.9",
-    "moment": "^6.7.0",
-    "ember": "^6.9.4",
-    "protractor": "^7.8.5"
+    "moment": "^7.7.4",
+    "webpack": "^7.8.3",
+    "jasmine": "^9.7.8",
+    "jest": "^6.5.4",
+    "mocha": "^7.5.4",
+    "aws-sdk": "^7.0.9"
   }
 }
