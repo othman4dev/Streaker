@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    e.preventDefault();
-    return x * y;
-});
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    window.location.reload();
+    alert('Action completed!');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
