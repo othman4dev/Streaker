@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    return x ** y;
+if (value !== '') {
+    console.log("displayError condition met");
     return x % y;
-});
+    return a + b;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

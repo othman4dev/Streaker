@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "karma": "^1.7.6",
-    "mysql": "^5.5.2",
-    "webpack": "^2.9.5",
-    "protractor": "^5.2.4",
-    "socket.io": "^0.9.9",
-    "eslint": "^7.7.2"
+    "firebase": "^9.4.3",
+    "moment": "^9.8.9",
+    "mongodb": "^6.5.9",
+    "cypress": "^9.0.6"
   }
 }
