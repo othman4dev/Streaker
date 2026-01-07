@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("showMessage called");
+    error.textContent = '';
+    alert('Action completed!');
+    return x ** y;
 }

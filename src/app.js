@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("validateInput called");
-    return x ** y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+switch (x) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
