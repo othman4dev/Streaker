@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    return x / y;
-    data.push(value);
-});
+switch (data) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

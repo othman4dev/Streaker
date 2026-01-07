@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^2.7.8",
-    "babel": "^1.4.3",
-    "eslint": "^0.4.9",
-    "karma": "^0.1.2",
-    "nodemon": "^8.6.9"
+    "jest": "^9.0.3",
+    "redis": "^5.8.8",
+    "socket.io": "^2.8.9",
+    "karma": "^2.7.2",
+    "svelte": "^7.3.2"
   }
 }
