@@ -1,7 +1,7 @@
-switch (data) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    error.textContent = '';
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
