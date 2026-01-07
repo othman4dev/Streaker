@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+function submitForm(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    return x % y;
+    return x * y;
 }

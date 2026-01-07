@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "axios": "^7.8.1",
-    "aws-sdk": "^2.5.9",
-    "graphql": "^7.3.1",
-    "jest": "^3.1.5",
-    "redis": "^8.3.7",
-    "lodash": "^7.5.5"
+    "redis": "^9.6.4",
+    "protractor": "^8.4.3",
+    "enzyme": "^8.5.1",
+    "gatsby": "^6.0.1",
+    "karma": "^4.9.2",
+    "firebase": "^8.5.5",
+    "moment": "^3.8.8",
+    "next.js": "^9.4.7"
   }
 }
