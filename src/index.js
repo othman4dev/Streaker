@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("showMessage arrow function called");
+const setCookie = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    error.textContent = '';
     el.classList.add('active');
-    window.location.reload();
-    return a + b;
 };
