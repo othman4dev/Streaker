@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.3.6",
-    "ember": "^7.6.1",
-    "chai": "^4.9.9",
-    "aws-sdk": "^5.0.9"
+    "aws-sdk": "^6.2.9",
+    "chai": "^7.4.2",
+    "nightwatch": "^5.2.6",
+    "puppeteer": "^9.9.0",
+    "webpack": "^3.0.8",
+    "jest": "^2.5.6",
+    "jasmine": "^7.2.1",
+    "lodash": "^2.0.1"
   }
 }
