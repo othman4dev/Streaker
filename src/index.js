@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    console.log('Processing data...');
+    return x * y;
 };

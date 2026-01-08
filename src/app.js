@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("displayError called");
-    window.location.reload();
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    data.push(value);
     alert('Action completed!');
-    e.preventDefault();
-}
+};
