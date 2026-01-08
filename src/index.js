@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    console.log('Processing data...');
+function handleClick(a, b) {
+    console.log("loadData called");
     window.location.reload();
     return a + b;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }

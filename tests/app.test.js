@@ -1,6 +1,7 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x / y;
+switch (el) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
