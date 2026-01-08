@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("loadData called");
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
     window.location.reload();
-    return a + b;
-    el.classList.add('active');
+    console.log('Processing data...');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

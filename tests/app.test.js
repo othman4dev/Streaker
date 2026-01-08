@@ -1,7 +1,8 @@
-switch (el) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    e.preventDefault();
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+function showMessage(a, b) {
+    console.log("showMessage called");
     return x / y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
