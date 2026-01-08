@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("displayError called");
-    data.push(value);
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    console.log('Processing data...');
+    el.classList.add('active');
+    return x / y;
 }

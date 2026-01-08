@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^5.5.1",
-    "jest": "^8.7.8",
-    "mongodb": "^2.9.9",
-    "karma": "^7.1.2",
-    "ember": "^1.4.3",
-    "jasmine": "^2.8.5",
-    "nodemon": "^2.9.4"
+    "karma": "^7.7.4",
+    "mongodb": "^1.8.5",
+    "react": "^4.1.2",
+    "cypress": "^7.0.9",
+    "redis": "^5.5.7"
   }
 }

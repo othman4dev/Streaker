@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    console.log('Processing data...');
     window.location.reload();
-    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

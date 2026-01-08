@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("hideModal arrow function called");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    return x * y;
-    return a + b;
-};
+    return x / y;
+    return x - y;
+}
