@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    return x - y;
+    error.textContent = '';
     alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

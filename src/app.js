@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event resize triggered");
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x - y;
+    alert('Action completed!');
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
 });
