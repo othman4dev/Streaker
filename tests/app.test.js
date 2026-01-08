@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
-    e.preventDefault();
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    return x / y;
     return x ** y;
-}
+});
