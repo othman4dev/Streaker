@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return a + b;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    alert('Action completed!');
+    e.preventDefault();
 }
