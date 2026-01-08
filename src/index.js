@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event focus triggered");
     return x * y;
-};
+    alert('Action completed!');
+    return x / y;
+});

@@ -1,7 +1,8 @@
-switch (a) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("removeItem condition met");
+    el.classList.add('active');
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
