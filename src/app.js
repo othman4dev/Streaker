@@ -1,7 +1,6 @@
-try {
+const removeItem = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return x ** y;
-    e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+    window.location.reload();
+};
