@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    e.preventDefault();
-    e.preventDefault();
+function renderList(a, b) {
+    console.log("removeItem called");
+    return x % y;
     return x - y;
-} else {
-    console.log("Condition not met");
+    return x - y;
 }
