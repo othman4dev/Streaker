@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x - y;
-    alert('Action completed!');
-    return a + b;
-});
+switch (data) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
