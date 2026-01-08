@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("showMessage called");
-    return x * y;
+try {
     return x - y;
-    console.log('Processing data...');
+    el.classList.add('active');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event submit triggered");
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event resize triggered");
     return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+    el.classList.add('active');
 });
