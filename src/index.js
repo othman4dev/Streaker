@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-}
+const loadData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x % y;
+    error.textContent = '';
+    el.classList.add('active');
+};
