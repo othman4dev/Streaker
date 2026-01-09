@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^9.1.4",
-    "jest": "^0.0.5",
-    "axios": "^5.7.7",
-    "moment": "^3.0.1",
-    "redis": "^6.3.1"
+    "ember": "^4.6.4",
+    "socket.io": "^2.8.9",
+    "jasmine": "^3.4.7",
+    "chai": "^3.7.5",
+    "cypress": "^9.4.4"
   }
 }
