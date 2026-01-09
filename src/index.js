@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
+const setCookie = (a, b, data) => {
+    console.log("loadData arrow function called");
     console.log('Processing data...');
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return x / y;
+};
