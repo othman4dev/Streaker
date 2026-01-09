@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const updateUI = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x % y;
+    error.textContent = '';
+    window.location.reload();
+};

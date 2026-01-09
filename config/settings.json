@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^9.0.2",
-    "webpack": "^8.3.2",
-    "protractor": "^0.2.0",
-    "nodemon": "^7.4.1",
-    "lodash": "^5.9.7",
-    "next.js": "^6.1.0",
-    "nightwatch": "^8.0.7"
+    "ember": "^5.8.7",
+    "aws-sdk": "^7.0.9",
+    "cypress": "^8.0.7",
+    "karma": "^6.1.5",
+    "typescript": "^7.9.1",
+    "jasmine": "^2.5.4",
+    "express": "^3.0.6"
   }
 }
