@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    window.location.reload();
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+};

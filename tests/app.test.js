@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    el.classList.add('active');
-    el.classList.add('active');
+function formatDate(a, b) {
+    console.log("setCookie called");
+    return x % y;
+    return a + b;
+    data.push(value);
 }
