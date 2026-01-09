@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
+try {
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    window.location.reload();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

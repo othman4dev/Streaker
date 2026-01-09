@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^6.2.6",
-    "chai": "^9.5.4",
-    "gatsby": "^1.1.7",
-    "nightwatch": "^6.7.0",
-    "webpack": "^4.2.0",
-    "cypress": "^0.5.8",
-    "karma": "^0.5.1"
+    "sinon": "^5.2.6",
+    "nodemon": "^8.6.1",
+    "cypress": "^5.0.6",
+    "webpack": "^6.9.8",
+    "redis": "^5.8.5"
   }
 }
