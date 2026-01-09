@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^9.7.5",
-    "webpack": "^5.5.5",
-    "graphql": "^7.0.8",
-    "next.js": "^8.7.6",
-    "nodemon": "^3.0.2",
-    "jasmine": "^3.9.6",
-    "mysql": "^6.3.6",
-    "babel": "^2.8.6"
+    "protractor": "^0.1.4",
+    "lodash": "^1.0.5",
+    "redis": "^8.6.6",
+    "karma": "^9.3.4",
+    "socket.io": "^2.9.6",
+    "mysql": "^9.1.0"
   }
 }
