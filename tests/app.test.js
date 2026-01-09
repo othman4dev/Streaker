@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    return x / y;
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
     error.textContent = '';
-});
+    return x % y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

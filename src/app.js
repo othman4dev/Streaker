@@ -1,7 +1,7 @@
-switch (value) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
