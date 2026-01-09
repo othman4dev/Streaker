@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^7.0.6",
-    "aws-sdk": "^0.9.8",
-    "webpack": "^5.0.9",
-    "express": "^0.4.3",
-    "typescript": "^1.2.8"
+    "socket.io": "^9.3.7",
+    "karma": "^6.9.4",
+    "chai": "^7.1.4",
+    "enzyme": "^5.9.1",
+    "moment": "^3.3.8",
+    "mocha": "^1.1.5"
   }
 }
