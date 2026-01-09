@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("submitForm condition met");
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    el.classList.add('active');
+    return x % y;
 } else {
     console.log("Condition not met");
 }
