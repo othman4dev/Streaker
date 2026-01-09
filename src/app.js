@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    e.preventDefault();
-    el.classList.add('active');
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
