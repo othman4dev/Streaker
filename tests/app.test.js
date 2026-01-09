@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    error.textContent = '';
-    return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x ** y;
+    return x - y;
 }
