@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("showMessage called");
-    el.classList.add('active');
-    return x % y;
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
     e.preventDefault();
-}
+    el.classList.add('active');
+    data.push(value);
+});
