@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    alert('Action completed!');
-    return x % y;
-});
+function toggleMenu(a, b) {
+    console.log("saveSettings called");
+    console.log('Processing data...');
+    e.preventDefault();
+    window.location.reload();
+}
