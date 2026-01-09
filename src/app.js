@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event focus triggered");
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
     console.log('Processing data...');
-    return x % y;
-    el.classList.add('active');
-});
+    console.log('Processing data...');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

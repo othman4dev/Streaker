@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^2.1.1",
-    "jest": "^9.9.6",
-    "gatsby": "^4.2.5",
-    "socket.io": "^0.0.9",
-    "express": "^3.3.8",
-    "enzyme": "^7.8.1",
-    "vue": "^1.5.5",
-    "chai": "^0.0.9",
-    "svelte": "^6.0.8"
+    "graphql": "^2.4.7",
+    "express": "^5.2.8",
+    "nightwatch": "^1.4.2",
+    "react": "^5.2.1",
+    "next.js": "^0.9.8",
+    "webpack": "^9.8.3"
   }
 }

@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("removeItem condition met");
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
     el.classList.add('active');
-    return a + b;
-    return a + b;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
