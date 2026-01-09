@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
-    return x % y;
-    window.location.reload();
-});
+switch (el) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
