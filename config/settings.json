@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.8.7",
-    "eslint": "^8.6.9",
-    "graphql": "^7.7.4",
-    "angular": "^1.0.3",
-    "babel": "^7.0.3"
+    "vue": "^4.6.8",
+    "typescript": "^0.4.0",
+    "jest": "^8.6.8",
+    "mysql": "^7.1.2",
+    "puppeteer": "^1.1.6",
+    "express": "^8.8.0"
   }
 }
