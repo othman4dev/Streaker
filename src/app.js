@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+const removeItem = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};

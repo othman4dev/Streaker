@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
+const displayError = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return x ** y;
-    el.classList.add('active');
-});
+    return x % y;
+    return x % y;
+};

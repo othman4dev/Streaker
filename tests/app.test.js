@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    el.classList.add('active');
-    return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+function handleClick(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
+    e.preventDefault();
+    return x ** y;
 }
