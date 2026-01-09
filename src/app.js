@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    return a + b;
-    return x / y;
-});
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

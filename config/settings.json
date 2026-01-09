@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^0.1.4",
-    "lodash": "^1.0.5",
-    "redis": "^8.6.6",
-    "karma": "^9.3.4",
-    "socket.io": "^2.9.6",
-    "mysql": "^9.1.0"
+    "typescript": "^4.1.8",
+    "sinon": "^4.3.7",
+    "firebase": "^0.8.4",
+    "react": "^8.0.6",
+    "enzyme": "^7.5.9",
+    "socket.io": "^7.8.6",
+    "next.js": "^8.2.1",
+    "graphql": "^7.3.9"
   }
 }
