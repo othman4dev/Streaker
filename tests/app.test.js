@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    console.log('Processing data...');
-    return a + b;
-}
+const processInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+};
