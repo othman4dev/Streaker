@@ -1,7 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("hideModal condition met");
+    alert('Action completed!');
+    return x / y;
     window.location.reload();
 } else {
     console.log("Condition not met");
