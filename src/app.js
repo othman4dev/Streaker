@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    return x ** y;
+    return a + b;
+};
