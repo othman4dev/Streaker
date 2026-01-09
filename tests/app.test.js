@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    el.classList.add('active');
+    e.preventDefault();
 });

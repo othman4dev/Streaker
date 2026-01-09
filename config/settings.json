@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^9.3.4",
-    "protractor": "^2.0.0",
-    "axios": "^7.8.9",
-    "react": "^4.4.4",
-    "express": "^3.3.5",
-    "socket.io": "^9.0.4",
-    "puppeteer": "^9.0.8",
-    "graphql": "^3.0.6"
+    "mysql": "^9.1.4",
+    "jest": "^0.0.5",
+    "axios": "^5.7.7",
+    "moment": "^3.0.1",
+    "redis": "^6.3.1"
   }
 }
