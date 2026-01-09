@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^5.4.2",
-    "express": "^7.0.5",
-    "redis": "^9.7.1",
-    "webpack": "^2.8.4",
-    "jasmine": "^3.6.0",
-    "mocha": "^5.1.9"
+    "jest": "^8.7.4",
+    "svelte": "^2.4.8",
+    "firebase": "^5.9.9",
+    "nodemon": "^9.5.9",
+    "ember": "^1.9.6",
+    "react": "^7.6.8",
+    "nightwatch": "^3.4.7",
+    "socket.io": "^3.4.1"
   }
 }

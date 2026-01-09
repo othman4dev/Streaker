@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    e.preventDefault();
-    window.location.reload();
+if (value !== '') {
+    console.log("setCookie condition met");
+    return x % y;
+    data.push(value);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
