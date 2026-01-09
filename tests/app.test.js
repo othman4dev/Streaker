@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x * y;
-    e.preventDefault();
-    e.preventDefault();
-};
+function validateInput(a, b) {
+    console.log("displayError called");
+    alert('Action completed!');
+    return x - y;
+    return x / y;
+}

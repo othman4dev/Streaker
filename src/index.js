@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("submitForm called");
-    return x % y;
-    el.classList.add('active');
-    data.push(value);
+try {
+    return x - y;
+    return x ** y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

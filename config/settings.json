@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^4.6.4",
-    "socket.io": "^2.8.9",
-    "jasmine": "^3.4.7",
-    "chai": "^3.7.5",
-    "cypress": "^9.4.4"
+    "nightwatch": "^4.8.1",
+    "mocha": "^0.5.1",
+    "svelte": "^2.0.6",
+    "axios": "^3.8.8",
+    "sinon": "^9.9.6"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x ** y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
 }
