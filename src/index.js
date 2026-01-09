@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("renderList condition met");
-    return x / y;
-    window.location.reload();
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

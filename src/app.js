@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    el.classList.add('active');
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     data.push(value);
-});
+    return x * y;
+}

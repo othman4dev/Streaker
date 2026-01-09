@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^2.7.4",
-    "express": "^6.4.8",
-    "ember": "^7.4.4",
-    "vue": "^5.0.2",
-    "svelte": "^4.5.3"
+    "protractor": "^9.7.5",
+    "webpack": "^5.5.5",
+    "graphql": "^7.0.8",
+    "next.js": "^8.7.6",
+    "nodemon": "^3.0.2",
+    "jasmine": "^3.9.6",
+    "mysql": "^6.3.6",
+    "babel": "^2.8.6"
   }
 }
