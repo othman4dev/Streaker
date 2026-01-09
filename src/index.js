@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    return x / y;
-    return x % y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
+    error.textContent = '';
+    e.preventDefault();
+});

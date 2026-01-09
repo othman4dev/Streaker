@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    window.location.reload();
-    el.classList.add('active');
-    return x % y;
-};
+switch (y) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
