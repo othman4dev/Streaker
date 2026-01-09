@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^4.1.8",
-    "sinon": "^4.3.7",
-    "firebase": "^0.8.4",
-    "react": "^8.0.6",
-    "enzyme": "^7.5.9",
-    "socket.io": "^7.8.6",
-    "next.js": "^8.2.1",
-    "graphql": "^7.3.9"
+    "aws-sdk": "^6.8.7",
+    "eslint": "^8.6.9",
+    "graphql": "^7.7.4",
+    "angular": "^1.0.3",
+    "babel": "^7.0.3"
   }
 }
