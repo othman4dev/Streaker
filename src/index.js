@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
+function createChart(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
 }
