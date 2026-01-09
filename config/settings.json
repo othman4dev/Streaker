@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "ember": "^5.8.7",
-    "aws-sdk": "^7.0.9",
-    "cypress": "^8.0.7",
-    "karma": "^6.1.5",
-    "typescript": "^7.9.1",
-    "jasmine": "^2.5.4",
-    "express": "^3.0.6"
+    "enzyme": "^6.2.6",
+    "chai": "^9.5.4",
+    "gatsby": "^1.1.7",
+    "nightwatch": "^6.7.0",
+    "webpack": "^4.2.0",
+    "cypress": "^0.5.8",
+    "karma": "^0.5.1"
   }
 }

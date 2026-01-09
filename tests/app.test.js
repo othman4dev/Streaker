@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x % y;
-    error.textContent = '';
-    window.location.reload();
-};
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});
