@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    alert('Action completed!');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("submitForm called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }

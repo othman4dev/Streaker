@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
+    return x ** y;
+    console.log('Processing data...');
 }
