@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    return x * y;
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    return x - y;
     alert('Action completed!');
-    alert('Action completed!');
-}
+    return x % y;
+});
