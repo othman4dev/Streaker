@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("fetchData called");
-    alert('Action completed!');
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
     return x ** y;
-    console.log('Processing data...');
-}
+    return x / y;
+    error.textContent = '';
+});
