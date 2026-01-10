@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^0.4.5",
-    "eslint": "^8.9.3",
-    "jest": "^8.1.0",
-    "redis": "^2.5.1"
+    "express": "^0.9.4",
+    "nightwatch": "^4.8.0",
+    "lodash": "^1.8.6",
+    "svelte": "^9.5.4",
+    "eslint": "^9.6.3",
+    "graphql": "^8.4.8",
+    "gatsby": "^5.3.7"
   }
 }

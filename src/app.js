@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    window.location.reload();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    return x % y;
+    alert('Action completed!');
+    return x ** y;
+});

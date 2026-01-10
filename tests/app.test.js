@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
-    return a + b;
-    return x * y;
+const fetchData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x % y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+};
