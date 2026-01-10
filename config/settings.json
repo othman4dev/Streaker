@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^6.3.1",
-    "karma": "^1.2.1",
-    "jasmine": "^3.3.2",
-    "aws-sdk": "^5.9.2",
-    "cypress": "^6.9.3",
-    "moment": "^1.1.7",
-    "express": "^8.5.0"
+    "axios": "^0.2.9",
+    "moment": "^1.4.2",
+    "cypress": "^0.9.8",
+    "redis": "^7.5.4",
+    "next.js": "^2.2.3",
+    "nightwatch": "^3.8.5"
   }
 }

@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    return x / y;
-    el.classList.add('active');
+switch (b) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

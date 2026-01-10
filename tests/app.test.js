@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    el.classList.add('active');
-}
+const displayError = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
+    return x * y;
+    alert('Action completed!');
+};
