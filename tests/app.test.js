@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    error.textContent = '';
+});

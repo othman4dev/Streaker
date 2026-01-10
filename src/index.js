@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    return x - y;
-    error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x % y;
+    console.log('Processing data...');
 }
