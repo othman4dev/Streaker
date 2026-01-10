@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    e.preventDefault();
-    return x ** y;
-}
+const setCookie = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x / y;
+    return a + b;
+    return x - y;
+};
