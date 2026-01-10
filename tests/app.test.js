@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+switch (data) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
