@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    data.push(value);
+const hideModal = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 };
