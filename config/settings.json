@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "vue": "^2.3.2",
-    "react": "^4.0.5",
-    "karma": "^8.5.0",
-    "socket.io": "^4.1.8",
-    "webpack": "^5.8.2",
-    "sinon": "^9.9.0"
+    "puppeteer": "^2.8.5",
+    "react": "^4.1.4",
+    "express": "^2.8.0",
+    "ember": "^6.8.5",
+    "enzyme": "^6.5.4",
+    "chai": "^3.0.1",
+    "protractor": "^6.8.6",
+    "jest": "^8.2.2"
   }
 }

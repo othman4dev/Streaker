@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
+    return a + b;
     alert('Action completed!');
-}
+};
