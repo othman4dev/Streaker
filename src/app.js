@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
-    alert('Action completed!');
-    console.log('Processing data...');
-};
+switch (y) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

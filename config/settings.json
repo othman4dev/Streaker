@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^8.8.6",
-    "socket.io": "^6.4.9",
-    "vue": "^1.5.7",
-    "jest": "^7.7.6",
-    "babel": "^3.7.8",
-    "lodash": "^1.7.3",
-    "cypress": "^7.6.0"
+    "protractor": "^5.9.9",
+    "sinon": "^2.8.6",
+    "aws-sdk": "^8.6.5",
+    "mongodb": "^2.9.0",
+    "next.js": "^2.0.2",
+    "svelte": "^3.7.3",
+    "babel": "^5.2.7"
   }
 }
