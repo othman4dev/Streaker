@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
-    return x / y;
-    alert('Action completed!');
-};
+function displayError(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    el.classList.add('active');
+}

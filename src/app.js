@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    error.textContent = '';
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     window.location.reload();
-    return x - y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
 }
