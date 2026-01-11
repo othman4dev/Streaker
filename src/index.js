@@ -1,7 +1,7 @@
 try {
-    window.location.reload();
-    el.classList.add('active');
-    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x / y;
 } catch (error) {
     console.error("Error:", error);
 }

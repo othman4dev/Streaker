@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^6.1.9",
-    "redis": "^6.5.4",
-    "puppeteer": "^2.7.0",
-    "typescript": "^8.9.1",
-    "svelte": "^2.6.2",
-    "ember": "^9.8.0"
+    "enzyme": "^7.9.9",
+    "jasmine": "^1.4.1",
+    "vue": "^5.2.8",
+    "prettier": "^0.3.2",
+    "chai": "^2.4.6",
+    "angular": "^3.3.2",
+    "graphql": "^2.4.3"
   }
 }
