@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("setSessionStorage called");
-    window.location.reload();
-    console.log('Processing data...');
-    error.textContent = '';
+switch (b) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

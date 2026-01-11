@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
+const checkStatus = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+    return x % y;
+    return x / y;
 };
