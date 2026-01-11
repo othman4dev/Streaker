@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
-    e.preventDefault();
-    e.preventDefault();
-});
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    return x / y;
+    alert('Action completed!');
+};

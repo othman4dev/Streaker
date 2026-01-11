@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^4.0.3",
-    "socket.io": "^7.0.3",
-    "karma": "^6.8.7",
-    "cypress": "^2.6.7",
-    "lodash": "^9.3.0"
+    "express": "^2.4.8",
+    "lodash": "^7.6.7",
+    "webpack": "^9.9.0",
+    "sinon": "^5.1.9",
+    "moment": "^1.0.4",
+    "enzyme": "^3.1.0",
+    "axios": "^3.1.2",
+    "svelte": "^9.4.8"
   }
 }
