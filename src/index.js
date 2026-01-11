@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
-    window.location.reload();
+if (x !== y) {
+    console.log("submitForm condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

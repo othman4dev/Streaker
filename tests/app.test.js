@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     e.preventDefault();
-    window.location.reload();
-});
+    document.body.style.backgroundColor = 'lightblue';
+}
