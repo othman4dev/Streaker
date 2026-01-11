@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("removeItem condition met");
+    return a + b;
     return x * y;
-    alert('Action completed!');
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
