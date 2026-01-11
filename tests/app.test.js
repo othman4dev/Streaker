@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("setSessionStorage called");
+    window.location.reload();
+    console.log('Processing data...');
+    error.textContent = '';
 }

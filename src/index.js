@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
-    error.textContent = '';
-    return a + b;
-}
+const toggleMenu = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+};
