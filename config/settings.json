@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "redis": "^2.2.0",
-    "socket.io": "^8.8.2",
-    "moment": "^9.0.3",
-    "typescript": "^0.7.1",
-    "jasmine": "^7.9.6"
+    "react": "^9.0.3",
+    "prettier": "^3.7.9",
+    "webpack": "^9.9.4",
+    "jest": "^6.5.4",
+    "vue": "^0.1.6",
+    "angular": "^6.3.5",
+    "express": "^4.4.0",
+    "firebase": "^8.9.5"
   }
 }

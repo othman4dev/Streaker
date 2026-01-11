@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+const hideModal = (a, b, data) => {
+    console.log("loadData arrow function called");
     e.preventDefault();
-    alert('Action completed!');
-}
+    window.location.reload();
+    return x % y;
+};

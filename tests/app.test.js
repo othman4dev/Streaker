@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    data.push(value);
-    alert('Action completed!');
-    error.textContent = '';
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
