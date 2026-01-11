@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x % y;
-    window.location.reload();
+if (x === y) {
+    console.log("handleClick condition met");
+    console.log('Processing data...');
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

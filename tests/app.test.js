@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("showMessage called");
+const updateUI = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    data.push(value);
     console.log('Processing data...');
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+};
