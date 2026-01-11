@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return a + b;
-    return x ** y;
-}
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event input triggered");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+});

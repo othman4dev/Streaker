@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    error.textContent = '';
-    return x % y;
-}
+const validateInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    data.push(value);
+    return x / y;
+    window.location.reload();
+};

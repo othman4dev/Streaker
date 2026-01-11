@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return a + b;
-    return x / y;
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+});
