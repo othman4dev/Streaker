@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    data.push(value);
-    e.preventDefault();
-    data.push(value);
-};
+function setCookie(a, b) {
+    console.log("removeItem called");
+    return x ** y;
+    window.location.reload();
+    return x * y;
+}

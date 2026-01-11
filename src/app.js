@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("processInput called");
-    e.preventDefault();
-    return x ** y;
-    console.log('Processing data...');
-}
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    return x / y;
+    return x * y;
+    data.push(value);
+});
