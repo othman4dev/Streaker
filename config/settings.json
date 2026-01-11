@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^1.2.1",
-    "jest": "^7.4.0",
-    "aws-sdk": "^4.9.6",
-    "lodash": "^8.1.4",
-    "mysql": "^0.9.4",
-    "gatsby": "^2.4.4"
+    "webpack": "^8.8.6",
+    "socket.io": "^6.4.9",
+    "vue": "^1.5.7",
+    "jest": "^7.7.6",
+    "babel": "^3.7.8",
+    "lodash": "^1.7.3",
+    "cypress": "^7.6.0"
   }
 }

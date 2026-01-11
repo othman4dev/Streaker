@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+try {
+    return x % y;
     return x * y;
-});
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

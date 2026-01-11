@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    el.classList.add('active');
-    return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    console.log('Processing data...');
+};
