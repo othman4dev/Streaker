@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("getLocalStorage called");
+function formatDate(a, b) {
+    console.log("fetchData called");
     el.classList.add('active');
-    return x - y;
-    return x * y;
+    window.location.reload();
+    alert('Action completed!');
 }
