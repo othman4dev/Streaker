@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    return x / y;
-    data.push(value);
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return a + b;
+    e.preventDefault();
 });
