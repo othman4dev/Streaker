@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    return x % y;
-    window.location.reload();
-};
+try {
+    return x * y;
+    return x - y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    return x ** y;
-    error.textContent = '';
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return a + b;
+    return x * y;
 });
