@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    alert('Action completed!');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }

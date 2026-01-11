@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("createChart called");
-    return x * y;
-    return x / y;
-    window.location.reload();
-}
+const formatDate = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    console.log('Processing data...');
+};

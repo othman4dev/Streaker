@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^8.9.4",
-    "svelte": "^3.9.3",
-    "ember": "^1.2.3",
-    "prettier": "^0.4.9",
-    "sinon": "^2.8.8",
-    "jasmine": "^7.1.5",
-    "angular": "^2.2.4",
-    "webpack": "^8.8.4"
+    "prettier": "^9.2.4",
+    "lodash": "^5.7.5",
+    "babel": "^5.5.8",
+    "moment": "^8.1.2",
+    "chai": "^2.6.7",
+    "gatsby": "^4.8.7"
   }
 }
