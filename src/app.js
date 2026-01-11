@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    data.push(value);
-    el.classList.add('active');
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    error.textContent = '';
+    return x - y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+});

@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const animateElement = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x % y;
+    return a + b;
+    el.classList.add('active');
+};
