@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    data.push(value);
-    return x / y;
-    window.location.reload();
-};
+switch (y) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

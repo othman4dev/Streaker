@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event input triggered");
-    return x / y;
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event keydown triggered");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+    e.preventDefault();
+    return x * y;
 });
