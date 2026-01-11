@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    error.textContent = '';
-});
+switch (data) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
