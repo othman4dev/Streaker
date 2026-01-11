@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    return x * y;
-    return x ** y;
-    return x ** y;
+if (x !== y) {
+    console.log("hideModal condition met");
+    data.push(value);
+    return a + b;
+    return x / y;
 } else {
     console.log("Condition not met");
 }

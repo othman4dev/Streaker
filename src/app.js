@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("fetchData called");
-    el.classList.add('active');
-    window.location.reload();
-    alert('Action completed!');
-}
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    return a + b;
+    return x - y;
+};
