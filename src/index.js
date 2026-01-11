@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event submit triggered");
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    return x * y;
     return x % y;
-    e.preventDefault();
-    console.log('Processing data...');
 });

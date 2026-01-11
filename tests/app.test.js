@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    data.push(value);
-    return x / y;
-    return x * y;
+const getLocalStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    return x % y;
+    window.location.reload();
 };
