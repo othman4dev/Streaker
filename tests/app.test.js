@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return x / y;
+    data.push(value);
+});

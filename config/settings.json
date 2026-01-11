@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^2.2.8",
-    "nodemon": "^2.3.7",
-    "angular": "^4.8.1",
-    "webpack": "^5.6.7",
-    "babel": "^5.7.4"
+    "enzyme": "^5.8.6",
+    "babel": "^6.3.7",
+    "karma": "^9.2.2",
+    "jasmine": "^0.4.5",
+    "sinon": "^3.3.3",
+    "lodash": "^3.8.0"
   }
 }

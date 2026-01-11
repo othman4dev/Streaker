@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x ** y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+});
