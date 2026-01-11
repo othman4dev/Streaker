@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
-    console.log('Processing data...');
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event input triggered");
     e.preventDefault();
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
