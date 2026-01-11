@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event input triggered");
-    return a + b;
-    alert('Action completed!');
-    data.push(value);
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
+    error.textContent = '';
+    e.preventDefault();
+    e.preventDefault();
 });
