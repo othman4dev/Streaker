@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "express": "^0.9.4",
-    "nightwatch": "^4.8.0",
-    "lodash": "^1.8.6",
-    "svelte": "^9.5.4",
-    "eslint": "^9.6.3",
-    "graphql": "^8.4.8",
-    "gatsby": "^5.3.7"
+    "redis": "^8.0.5",
+    "enzyme": "^4.7.8",
+    "svelte": "^3.8.3",
+    "graphql": "^4.5.8",
+    "lodash": "^8.1.1",
+    "express": "^4.8.3"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    alert('Action completed!');
+function createChart(a, b) {
+    console.log("handleClick called");
+    window.location.reload();
     return x ** y;
-});
+    return x / y;
+}

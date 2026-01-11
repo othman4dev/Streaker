@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x % y;
-    error.textContent = '';
-    error.textContent = '';
-};
+function animateElement(a, b) {
+    console.log("fetchData called");
+    return x * y;
+    return x - y;
+    return x ** y;
+}
