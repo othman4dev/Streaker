@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    return x % y;
-    return x / y;
-};
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    el.classList.add('active');
+});
