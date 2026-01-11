@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("loadData arrow function called");
-    e.preventDefault();
-    window.location.reload();
-    return x % y;
-};
+switch (y) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

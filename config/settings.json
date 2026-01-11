@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "react": "^9.0.3",
-    "prettier": "^3.7.9",
-    "webpack": "^9.9.4",
-    "jest": "^6.5.4",
-    "vue": "^0.1.6",
-    "angular": "^6.3.5",
-    "express": "^4.4.0",
-    "firebase": "^8.9.5"
+    "cypress": "^8.9.4",
+    "svelte": "^3.9.3",
+    "ember": "^1.2.3",
+    "prettier": "^0.4.9",
+    "sinon": "^2.8.8",
+    "jasmine": "^7.1.5",
+    "angular": "^2.2.4",
+    "webpack": "^8.8.4"
   }
 }
