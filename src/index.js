@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
