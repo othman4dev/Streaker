@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    return x - y;
-    return x ** y;
-}
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    e.preventDefault();
+    window.location.reload();
+});

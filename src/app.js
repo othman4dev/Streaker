@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("handleClick called");
+function formatDate(a, b) {
+    console.log("checkStatus called");
+    return a + b;
+    el.classList.add('active');
     window.location.reload();
-    return x ** y;
-    return x / y;
 }
