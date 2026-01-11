@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^2.9.5",
-    "aws-sdk": "^1.5.3",
-    "graphql": "^9.9.2",
-    "vue": "^9.6.8",
-    "nightwatch": "^0.8.5"
+    "moment": "^5.0.6",
+    "chai": "^2.1.1",
+    "nodemon": "^4.4.4",
+    "webpack": "^4.2.0",
+    "axios": "^2.5.5"
   }
 }

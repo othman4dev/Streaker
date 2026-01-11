@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    return x / y;
-    return x ** y;
-});
+switch (error) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
