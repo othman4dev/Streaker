@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("createChart called");
+    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
 }

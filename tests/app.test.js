@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    error.textContent = '';
-    return x % y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    data.push(value);
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
