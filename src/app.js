@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event submit triggered");
-    return x / y;
-    return x * y;
-    data.push(value);
-});
+function fetchData(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
+    return x ** y;
+    alert('Action completed!');
+}

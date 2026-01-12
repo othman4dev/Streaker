@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "eslint": "^5.9.5",
-    "mongodb": "^5.1.4",
-    "socket.io": "^9.1.8",
-    "webpack": "^7.5.6",
-    "graphql": "^8.2.7",
-    "cypress": "^9.4.8"
+    "mocha": "^0.3.8",
+    "ember": "^1.0.2",
+    "webpack": "^9.8.0",
+    "redis": "^2.9.4",
+    "prettier": "^5.2.8",
+    "vue": "^4.7.9",
+    "nodemon": "^3.0.1",
+    "enzyme": "^2.0.0",
+    "typescript": "^9.1.4"
   }
 }

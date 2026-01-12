@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("removeItem called");
-    return x ** y;
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x - y;
     window.location.reload();
-    return x * y;
-}
+    alert('Action completed!');
+};
