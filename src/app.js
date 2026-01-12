@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    return x * y;
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    return x % y;
     console.log('Processing data...');
-    el.classList.add('active');
+    return a + b;
 });

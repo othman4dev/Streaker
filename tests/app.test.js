@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    return x * y;
-    error.textContent = '';
-});
+if (x !== y) {
+    console.log("loadData condition met");
+    return x / y;
+    data.push(value);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

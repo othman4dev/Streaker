@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^9.4.6",
-    "mocha": "^7.5.4",
-    "chai": "^4.4.6",
-    "angular": "^6.7.1",
-    "karma": "^3.7.6",
-    "sinon": "^7.5.9",
-    "enzyme": "^6.5.6"
+    "mysql": "^8.5.0",
+    "eslint": "^4.1.8",
+    "redis": "^7.3.4",
+    "mongodb": "^2.4.2",
+    "axios": "^9.5.9",
+    "jest": "^3.3.8"
   }
 }
