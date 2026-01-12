@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    return x / y;
-    return x * y;
+if (value !== '') {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    error.textContent = '';
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

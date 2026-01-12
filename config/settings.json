@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^7.9.7",
-    "webpack": "^9.1.1",
-    "jest": "^8.6.2",
-    "redis": "^5.1.0",
-    "express": "^3.8.7",
-    "karma": "^2.2.2",
-    "socket.io": "^8.1.8",
-    "graphql": "^2.8.5"
+    "karma": "^0.3.7",
+    "express": "^2.8.0",
+    "eslint": "^2.9.9",
+    "lodash": "^5.9.2",
+    "nightwatch": "^7.6.5",
+    "chai": "^1.7.7",
+    "typescript": "^1.5.8"
   }
 }
