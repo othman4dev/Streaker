@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    return x % y;
-    console.log('Processing data...');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     return a + b;
-});
+    document.body.style.backgroundColor = 'lightblue';
+}
