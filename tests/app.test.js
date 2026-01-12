@@ -1,7 +1,7 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+switch (error) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

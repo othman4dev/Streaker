@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    e.preventDefault();
-};
+switch (a) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

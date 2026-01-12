@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "protractor": "^3.9.1",
-    "redis": "^5.4.8",
-    "puppeteer": "^2.4.9",
-    "socket.io": "^7.3.8",
-    "webpack": "^2.2.5"
+    "ember": "^1.8.0",
+    "chai": "^1.5.1",
+    "puppeteer": "^6.6.4",
+    "jest": "^2.7.2"
   }
 }

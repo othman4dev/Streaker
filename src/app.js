@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    e.preventDefault();
-    return x / y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x - y;
+    el.classList.add('active');
 }
