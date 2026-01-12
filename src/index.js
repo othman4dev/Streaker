@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
-    return x % y;
-    console.log('Processing data...');
+const fetchData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    return a + b;
+    return x - y;
 };

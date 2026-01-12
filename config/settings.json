@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^0.3.8",
-    "ember": "^1.0.2",
-    "webpack": "^9.8.0",
-    "redis": "^2.9.4",
-    "prettier": "^5.2.8",
-    "vue": "^4.7.9",
-    "nodemon": "^3.0.1",
-    "enzyme": "^2.0.0",
-    "typescript": "^9.1.4"
+    "mocha": "^4.0.5",
+    "typescript": "^8.2.4",
+    "react": "^0.5.2",
+    "nightwatch": "^6.9.4",
+    "redis": "^7.7.4",
+    "firebase": "^8.7.9",
+    "express": "^9.0.7",
+    "prettier": "^7.8.0"
   }
 }

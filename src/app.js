@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
-    return x ** y;
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event input triggered");
+    error.textContent = '';
     alert('Action completed!');
-}
+    alert('Action completed!');
+});
