@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    return x ** y;
-    el.classList.add('active');
+function updateUI(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
+    e.preventDefault();
+    return x / y;
 }

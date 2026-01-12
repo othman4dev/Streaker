@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("getLocalStorage called");
-    return x / y;
-    e.preventDefault();
-    alert('Action completed!');
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

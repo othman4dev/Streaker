@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^2.1.8",
-    "axios": "^3.7.1",
-    "jest": "^5.9.6",
-    "karma": "^4.4.2",
-    "moment": "^3.9.4"
+    "protractor": "^3.9.1",
+    "redis": "^5.4.8",
+    "puppeteer": "^2.4.9",
+    "socket.io": "^7.3.8",
+    "webpack": "^2.2.5"
   }
 }
