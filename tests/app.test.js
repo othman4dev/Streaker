@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event blur triggered");
     console.log('Processing data...');
-    return x - y;
-}
+    return x % y;
+    return x % y;
+});
