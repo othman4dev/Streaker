@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^4.9.8",
-    "aws-sdk": "^9.2.6",
-    "lodash": "^4.4.1",
-    "mongodb": "^0.8.2",
-    "enzyme": "^8.2.5",
-    "express": "^1.4.3",
-    "typescript": "^2.2.4",
-    "graphql": "^1.9.7"
+    "svelte": "^9.4.6",
+    "mocha": "^7.5.4",
+    "chai": "^4.4.6",
+    "angular": "^6.7.1",
+    "karma": "^3.7.6",
+    "sinon": "^7.5.9",
+    "enzyme": "^6.5.6"
   }
 }

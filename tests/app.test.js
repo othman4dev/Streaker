@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    data.push(value);
-    return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    return x * y;
+    error.textContent = '';
+});

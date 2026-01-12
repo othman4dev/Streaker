@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
+if (value !== '') {
+    console.log("submitForm condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
