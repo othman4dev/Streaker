@@ -1,7 +1,7 @@
-try {
-    error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+switch (data) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

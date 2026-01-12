@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "redis": "^2.3.0",
-    "svelte": "^5.2.5",
-    "react": "^9.0.3",
-    "vue": "^0.4.8",
-    "angular": "^8.7.4",
-    "protractor": "^4.6.1",
-    "jest": "^6.8.2"
+    "next.js": "^0.9.5",
+    "chai": "^8.0.6",
+    "svelte": "^0.4.1",
+    "sinon": "^2.2.5",
+    "vue": "^1.1.4",
+    "angular": "^0.0.4"
   }
 }
