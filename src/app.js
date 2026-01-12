@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    data.push(value);
-    data.push(value);
-    return x % y;
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    return x ** y;
+    console.log('Processing data...');
 }
