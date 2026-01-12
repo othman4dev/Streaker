@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    return x % y;
+const displayError = (a, b, data) => {
+    console.log("submitForm arrow function called");
     window.location.reload();
+    console.log('Processing data...');
+    return x / y;
 };

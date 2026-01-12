@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return a + b;
-    e.preventDefault();
+function validateInput(a, b) {
+    console.log("displayError called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    el.classList.add('active');
 }
