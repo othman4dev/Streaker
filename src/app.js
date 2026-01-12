@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    return x / y;
+};

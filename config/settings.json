@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "babel": "^4.2.8",
-    "protractor": "^9.8.1",
-    "firebase": "^2.9.6",
-    "mongodb": "^5.5.6",
-    "prettier": "^9.1.0",
-    "next.js": "^6.5.2"
+    "jasmine": "^8.4.4",
+    "chai": "^6.4.5",
+    "gatsby": "^7.3.1",
+    "karma": "^5.5.0",
+    "cypress": "^5.0.3",
+    "angular": "^6.8.4",
+    "axios": "^3.7.4",
+    "redis": "^6.9.0",
+    "babel": "^4.1.3"
   }
 }

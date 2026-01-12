@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event focus triggered");
     return a + b;
-    return x / y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+});
