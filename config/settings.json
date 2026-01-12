@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^0.3.6",
-    "webpack": "^3.9.7",
-    "ember": "^0.7.1",
-    "nightwatch": "^0.9.0",
-    "vue": "^6.5.6",
-    "prettier": "^1.1.4"
+    "mongodb": "^3.5.1",
+    "chai": "^5.1.5",
+    "lodash": "^7.2.5",
+    "gatsby": "^1.2.0",
+    "axios": "^7.4.3",
+    "webpack": "^6.9.9",
+    "firebase": "^2.5.2"
   }
 }
