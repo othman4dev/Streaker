@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("checkStatus called");
+    return x % y;
+    return x - y;
+    window.location.reload();
 }
