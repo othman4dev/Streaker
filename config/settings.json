@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^8.0.0",
-    "graphql": "^6.0.4",
-    "enzyme": "^2.9.4",
-    "jasmine": "^2.6.6",
-    "cypress": "^6.2.5",
-    "sinon": "^6.6.5",
-    "angular": "^7.3.3"
+    "protractor": "^2.1.8",
+    "axios": "^3.7.1",
+    "jest": "^5.9.6",
+    "karma": "^4.4.2",
+    "moment": "^3.9.4"
   }
 }

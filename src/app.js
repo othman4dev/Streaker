@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    return x ** y;
+    el.classList.add('active');
 }
