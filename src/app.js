@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    window.location.reload();
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+};
