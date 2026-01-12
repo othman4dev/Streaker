@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("animateElement called");
-    return a + b;
-    return x ** y;
-    data.push(value);
+try {
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

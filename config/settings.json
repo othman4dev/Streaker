@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.7.0",
-    "jasmine": "^7.5.7",
-    "firebase": "^5.2.1",
-    "graphql": "^7.3.5"
+    "svelte": "^0.3.6",
+    "webpack": "^3.9.7",
+    "ember": "^0.7.1",
+    "nightwatch": "^0.9.0",
+    "vue": "^6.5.6",
+    "prettier": "^1.1.4"
   }
 }
