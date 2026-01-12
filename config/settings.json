@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "ember": "^1.8.0",
-    "chai": "^1.5.1",
-    "puppeteer": "^6.6.4",
-    "jest": "^2.7.2"
+    "jasmine": "^9.3.0",
+    "typescript": "^8.0.1",
+    "mongodb": "^0.3.6",
+    "gatsby": "^7.1.9",
+    "redis": "^5.9.8",
+    "mysql": "^3.2.5"
   }
 }

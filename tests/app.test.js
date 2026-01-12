@@ -1,7 +1,8 @@
-switch (error) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    return x - y;
+    return x / y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
