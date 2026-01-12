@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("animateElement arrow function called");
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
     return x / y;
-    console.log('Processing data...');
-    return x - y;
-};
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

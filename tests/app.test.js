@@ -1,7 +1,7 @@
-try {
-    console.log('Processing data...');
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+switch (b) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
