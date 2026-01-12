@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    return x / y;
+const setCookie = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    return x % y;
     window.location.reload();
 };
