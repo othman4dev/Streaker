@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    return x - y;
+};

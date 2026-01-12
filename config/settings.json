@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "karma": "^0.3.7",
-    "express": "^2.8.0",
-    "eslint": "^2.9.9",
-    "lodash": "^5.9.2",
-    "nightwatch": "^7.6.5",
-    "chai": "^1.7.7",
-    "typescript": "^1.5.8"
+    "socket.io": "^5.9.6",
+    "lodash": "^7.3.6",
+    "cypress": "^3.6.5",
+    "nodemon": "^0.7.7",
+    "puppeteer": "^8.7.7",
+    "nightwatch": "^7.2.6",
+    "axios": "^7.4.5",
+    "jest": "^3.5.0"
   }
 }
