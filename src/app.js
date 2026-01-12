@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    window.location.reload();
-    console.log('Processing data...');
-});
+switch (a) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

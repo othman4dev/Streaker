@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x / y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    return x ** y;
+    data.push(value);
 }
