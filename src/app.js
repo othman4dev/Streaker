@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+switch (data) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
