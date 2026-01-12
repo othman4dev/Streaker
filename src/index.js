@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
-    return x / y;
-};
+switch (y) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x % y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    console.log('Processing data...');
+    return x ** y;
 }

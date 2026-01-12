@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("displayError called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    el.classList.add('active');
+if (x !== y) {
+    console.log("showMessage condition met");
+    data.push(value);
+    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
