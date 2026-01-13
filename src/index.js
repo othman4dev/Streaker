@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("renderList called");
-    return a + b;
-    e.preventDefault();
-    e.preventDefault();
-}
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event click triggered");
+    return x % y;
+    alert('Action completed!');
+    console.log('Processing data...');
+});

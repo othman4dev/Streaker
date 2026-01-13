@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^0.4.2",
-    "graphql": "^8.7.1",
-    "react": "^0.0.3",
-    "enzyme": "^3.3.0",
-    "express": "^3.2.1",
-    "socket.io": "^2.8.3",
-    "typescript": "^9.5.6",
-    "mocha": "^3.4.5"
+    "socket.io": "^3.1.6",
+    "eslint": "^5.1.4",
+    "mysql": "^9.4.6",
+    "chai": "^8.2.3",
+    "angular": "^5.7.8",
+    "gatsby": "^6.9.6"
   }
 }
