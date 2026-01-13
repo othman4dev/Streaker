@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    window.location.reload();
-    e.preventDefault();
-});
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    return a + b;
+    return x - y;
+};
