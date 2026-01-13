@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x - y;
-    return x * y;
-    console.log('Processing data...');
-};
+try {
+    alert('Action completed!');
+    data.push(value);
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

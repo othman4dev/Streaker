@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setCookie condition met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     alert('Action completed!');
-    window.location.reload();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x * y;
 }

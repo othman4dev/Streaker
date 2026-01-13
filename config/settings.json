@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^2.5.4",
-    "protractor": "^6.5.0",
-    "redis": "^3.7.5",
-    "axios": "^1.9.9",
-    "react": "^1.0.0",
-    "firebase": "^7.7.9"
+    "jest": "^4.3.5",
+    "express": "^5.3.1",
+    "svelte": "^3.1.7",
+    "chai": "^5.1.2",
+    "react": "^6.7.7"
   }
 }
