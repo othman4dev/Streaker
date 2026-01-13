@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    return x / y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const checkStatus = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x - y;
+    return x * y;
+    console.log('Processing data...');
+};
