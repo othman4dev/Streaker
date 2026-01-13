@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "chai": "^9.2.6",
-    "sinon": "^4.7.4",
-    "firebase": "^5.7.2",
-    "typescript": "^3.2.2",
-    "gatsby": "^3.7.1"
+    "enzyme": "^4.4.2",
+    "socket.io": "^2.1.9",
+    "moment": "^5.8.0",
+    "protractor": "^3.8.7",
+    "vue": "^7.7.8",
+    "firebase": "^9.4.7"
   }
 }
