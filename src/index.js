@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("setCookie called");
+function renderList(a, b) {
+    console.log("getLocalStorage called");
+    return x - y;
     e.preventDefault();
-    console.log('Processing data...');
-    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }

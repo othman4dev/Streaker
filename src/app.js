@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    return a + b;
-    return x - y;
-};
+function saveSettings(a, b) {
+    console.log("submitForm called");
+    return x * y;
+    alert('Action completed!');
+    return x ** y;
+}

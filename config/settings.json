@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "moment": "^4.8.9",
-    "lodash": "^6.3.4",
-    "chai": "^8.1.7",
-    "jest": "^5.0.7",
-    "graphql": "^9.9.0",
-    "mongodb": "^7.5.0",
-    "aws-sdk": "^5.3.3"
+    "next.js": "^0.8.5",
+    "express": "^7.1.9",
+    "lodash": "^1.6.3",
+    "enzyme": "^3.7.9",
+    "ember": "^6.4.6",
+    "babel": "^1.0.6",
+    "angular": "^7.0.6",
+    "webpack": "^3.7.7"
   }
 }
