@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "vue": "^4.6.1",
-    "nightwatch": "^1.9.5",
-    "karma": "^0.4.4",
-    "mocha": "^5.1.7",
-    "mongodb": "^3.8.2"
+    "sinon": "^1.6.2",
+    "mocha": "^2.1.4",
+    "babel": "^0.2.9",
+    "vue": "^4.0.0",
+    "svelte": "^2.7.5",
+    "protractor": "^4.1.5",
+    "lodash": "^1.7.4",
+    "jest": "^1.6.7",
+    "moment": "^0.6.9"
   }
 }
