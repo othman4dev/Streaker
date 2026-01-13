@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("updateUI arrow function called");
+if (x !== y) {
+    console.log("fetchData condition met");
     window.location.reload();
-    return x ** y;
-    alert('Action completed!');
-};
+    el.classList.add('active');
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

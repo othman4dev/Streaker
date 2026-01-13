@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    data.push(value);
+if (value !== '') {
+    console.log("validateInput condition met");
+    e.preventDefault();
+    el.classList.add('active');
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

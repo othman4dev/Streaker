@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    return x - y;
-    return x % y;
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    error.textContent = '';
+    e.preventDefault();
 });
