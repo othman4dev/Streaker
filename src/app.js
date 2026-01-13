@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("createChart arrow function called");
+function setCookie(a, b) {
+    console.log("loadData called");
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    alert('Action completed!');
-};
+    window.location.reload();
+    el.classList.add('active');
+}

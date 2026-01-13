@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^4.4.2",
-    "socket.io": "^2.1.9",
-    "moment": "^5.8.0",
-    "protractor": "^3.8.7",
-    "vue": "^7.7.8",
-    "firebase": "^9.4.7"
+    "chai": "^6.6.6",
+    "axios": "^5.7.4",
+    "gatsby": "^5.1.1",
+    "react": "^1.6.7",
+    "mocha": "^9.9.8",
+    "svelte": "^9.4.1",
+    "express": "^9.0.9"
   }
 }

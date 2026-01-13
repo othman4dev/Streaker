@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    data.push(value);
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
