@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    window.location.reload();
+    e.preventDefault();
+});

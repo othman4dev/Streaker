@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
+    return x % y;
+    return x % y;
+};
