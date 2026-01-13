@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    return x / y;
-    alert('Action completed!');
+try {
     window.location.reload();
+    error.textContent = '';
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

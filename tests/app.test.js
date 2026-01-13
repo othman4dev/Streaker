@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("checkStatus called");
-    alert('Action completed!');
+const getLocalStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    el.classList.add('active');
+    return x - y;
+};
