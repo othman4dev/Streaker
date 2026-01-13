@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("displayError called");
+    return x / y;
+    alert('Action completed!');
+    window.location.reload();
 }

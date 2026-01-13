@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event click triggered");
-    return x % y;
-    alert('Action completed!');
-    console.log('Processing data...');
-});
+switch (a) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
