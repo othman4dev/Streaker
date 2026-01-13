@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^6.6.9",
-    "next.js": "^5.6.0",
-    "nodemon": "^4.7.2",
-    "mongodb": "^8.1.6",
-    "sinon": "^8.6.2",
-    "express": "^9.7.1"
+    "gatsby": "^3.2.9",
+    "svelte": "^7.7.8",
+    "karma": "^3.4.4",
+    "mongodb": "^5.5.8",
+    "enzyme": "^8.3.5"
   }
 }

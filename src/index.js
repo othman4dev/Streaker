@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return a + b;
-};
+switch (b) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

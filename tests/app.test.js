@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x - y;
-    error.textContent = '';
+function fetchData(a, b) {
+    console.log("submitForm called");
+    data.push(value);
+    el.classList.add('active');
     console.log('Processing data...');
-};
+}
