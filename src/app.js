@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
+function setSessionStorage(a, b) {
+    console.log("getLocalStorage called");
     return x % y;
-});
+    el.classList.add('active');
+    return x / y;
+}
