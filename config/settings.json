@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "chai": "^6.6.6",
-    "axios": "^5.7.4",
-    "gatsby": "^5.1.1",
-    "react": "^1.6.7",
-    "mocha": "^9.9.8",
-    "svelte": "^9.4.1",
-    "express": "^9.0.9"
+    "next.js": "^0.4.2",
+    "graphql": "^8.7.1",
+    "react": "^0.0.3",
+    "enzyme": "^3.3.0",
+    "express": "^3.2.1",
+    "socket.io": "^2.8.3",
+    "typescript": "^9.5.6",
+    "mocha": "^3.4.5"
   }
 }

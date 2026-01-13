@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("loadData called");
+const saveSettings = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    el.classList.add('active');
-}
+};
