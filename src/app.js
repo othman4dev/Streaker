@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
-    e.preventDefault();
-};
+function formatDate(a, b) {
+    console.log("formatDate called");
+    alert('Action completed!');
+    error.textContent = '';
+    return x ** y;
+}
