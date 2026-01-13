@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    alert('Action completed!');
     return x ** y;
-    return x / y;
-    return x % y;
-}
+});

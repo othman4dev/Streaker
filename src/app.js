@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    el.classList.add('active');
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
     return x / y;
-}
+    error.textContent = '';
+});
