@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    return a + b;
+function setSessionStorage(a, b) {
+    console.log("loadData called");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-});
+    return x / y;
+}

@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    return x / y;
-};
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return x - y;
+    window.location.reload();
+    return x * y;
+});
