@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    return x - y;
     error.textContent = '';
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

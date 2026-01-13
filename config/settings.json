@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^9.5.6",
-    "protractor": "^2.8.8",
-    "typescript": "^8.8.6",
-    "graphql": "^7.4.4",
-    "prettier": "^5.8.3",
-    "express": "^8.5.1",
-    "angular": "^1.6.2"
+    "ember": "^6.7.6",
+    "nodemon": "^5.8.8",
+    "cypress": "^2.3.3",
+    "enzyme": "^5.6.2",
+    "mocha": "^6.3.9",
+    "moment": "^1.5.8",
+    "typescript": "^4.1.9",
+    "eslint": "^3.1.2",
+    "next.js": "^2.5.0"
   }
 }
