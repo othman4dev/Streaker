@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("getLocalStorage called");
-    return x - y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("formatDate condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

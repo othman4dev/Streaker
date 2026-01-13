@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "next.js": "^0.8.5",
-    "express": "^7.1.9",
-    "lodash": "^1.6.3",
-    "enzyme": "^3.7.9",
-    "ember": "^6.4.6",
-    "babel": "^1.0.6",
-    "angular": "^7.0.6",
-    "webpack": "^3.7.7"
+    "sinon": "^8.1.7",
+    "redis": "^0.4.8",
+    "aws-sdk": "^3.6.3",
+    "karma": "^5.9.6"
   }
 }

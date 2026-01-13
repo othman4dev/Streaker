@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("submitForm called");
-    return x * y;
-    alert('Action completed!');
-    return x ** y;
-}
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    return x - y;
+    return x % y;
+});

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
+const hideModal = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    window.location.reload();
+    return x ** y;
     alert('Action completed!');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+};
