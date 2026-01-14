@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^6.2.8",
-    "jasmine": "^3.6.4",
-    "jest": "^7.3.8",
-    "karma": "^2.0.6",
-    "express": "^9.3.9"
+    "protractor": "^5.0.8",
+    "moment": "^5.1.0",
+    "mongodb": "^3.4.9",
+    "angular": "^7.7.7",
+    "redis": "^1.5.9",
+    "mysql": "^5.4.4",
+    "jest": "^6.1.4",
+    "cypress": "^1.0.5"
   }
 }

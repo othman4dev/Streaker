@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
-    return x % y;
-}
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    console.log('Processing data...');
+});

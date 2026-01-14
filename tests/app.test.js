@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x % y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});
