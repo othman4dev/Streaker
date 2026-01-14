@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    data.push(value);
+    el.classList.add('active');
     return x / y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-};
+} else {
+    console.log("Condition not met");
+}

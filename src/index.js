@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x / y;
+const createChart = (a, b, data) => {
+    console.log("handleClick arrow function called");
     error.textContent = '';
     el.classList.add('active');
-});
+    return x * y;
+};
