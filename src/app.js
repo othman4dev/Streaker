@@ -1,7 +1,6 @@
-try {
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
     e.preventDefault();
-    e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+});
