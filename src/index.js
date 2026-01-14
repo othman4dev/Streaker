@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return x ** y;
-    window.location.reload();
-    return x * y;
-});
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+}

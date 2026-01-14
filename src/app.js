@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
+try {
+    window.location.reload();
     return x * y;
-    e.preventDefault();
-    return x ** y;
-});
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
