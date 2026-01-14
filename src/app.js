@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event click triggered");
+function loadData(a, b) {
+    console.log("formatDate called");
     return x ** y;
-    error.textContent = '';
-    e.preventDefault();
-});
+    return x - y;
+    return x * y;
+}

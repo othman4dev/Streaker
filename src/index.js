@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    e.preventDefault();
-    el.classList.add('active');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    alert('Action completed!');
+    window.location.reload();
+    return x - y;
+});
