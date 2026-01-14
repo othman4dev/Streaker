@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^3.5.1",
-    "chai": "^5.1.5",
-    "lodash": "^7.2.5",
-    "gatsby": "^1.2.0",
-    "axios": "^7.4.3",
-    "webpack": "^6.9.9",
-    "firebase": "^2.5.2"
+    "angular": "^9.8.1",
+    "mocha": "^6.8.8",
+    "axios": "^7.1.0",
+    "chai": "^2.4.9",
+    "gatsby": "^0.7.4",
+    "enzyme": "^7.4.0",
+    "puppeteer": "^7.9.7"
   }
 }

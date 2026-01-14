@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("createChart called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+switch (y) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

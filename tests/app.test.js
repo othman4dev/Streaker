@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return x - y;
-    return x * y;
-});
+const checkStatus = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x ** y;
+    window.location.reload();
+    return x ** y;
+};
