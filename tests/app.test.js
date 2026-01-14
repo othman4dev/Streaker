@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
-    return x / y;
-    el.classList.add('active');
-});
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+}
