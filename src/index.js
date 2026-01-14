@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("loadData called");
-    return x / y;
-    data.push(value);
-    return x ** y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    alert('Action completed!');
+    el.classList.add('active');
 }

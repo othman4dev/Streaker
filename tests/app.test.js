@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("setSessionStorage called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return a + b;
+switch (value) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
