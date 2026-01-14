@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    return x / y;
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    console.log('Processing data...');
     error.textContent = '';
-});
+}

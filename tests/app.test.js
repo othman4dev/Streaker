@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    alert('Action completed!');
-    return x ** y;
-});
+switch (x) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
