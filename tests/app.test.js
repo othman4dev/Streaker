@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return a + b;
-});
+switch (b) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "karma": "^4.3.4",
-    "aws-sdk": "^8.4.9",
-    "eslint": "^1.2.6",
-    "sinon": "^2.1.4",
-    "enzyme": "^4.1.8",
-    "chai": "^8.1.1",
-    "vue": "^2.2.3",
-    "svelte": "^2.6.8",
-    "lodash": "^0.3.3"
+    "lodash": "^6.2.8",
+    "jasmine": "^3.6.4",
+    "jest": "^7.3.8",
+    "karma": "^2.0.6",
+    "express": "^9.3.9"
   }
 }
