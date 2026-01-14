@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function loadData(a, b) {
+    console.log("createChart called");
+    return x / y;
+    return a + b;
+    return x ** y;
 }

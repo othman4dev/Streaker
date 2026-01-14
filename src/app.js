@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    error.textContent = '';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("submitForm called");
+    e.preventDefault();
+    data.push(value);
+    data.push(value);
 }

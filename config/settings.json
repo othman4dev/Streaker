@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^7.0.4",
-    "vue": "^8.2.7",
-    "lodash": "^4.1.2",
-    "aws-sdk": "^7.0.1",
-    "graphql": "^4.1.9"
+    "enzyme": "^7.4.2",
+    "jasmine": "^5.9.3",
+    "sinon": "^3.3.9",
+    "gatsby": "^3.6.7",
+    "svelte": "^2.9.7",
+    "graphql": "^1.9.3",
+    "typescript": "^6.2.3",
+    "cypress": "^7.4.5"
   }
 }
