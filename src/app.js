@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    data.push(value);
+    e.preventDefault();
+});

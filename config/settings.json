@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "karma": "^8.4.3",
-    "sinon": "^3.6.5",
-    "babel": "^1.9.1",
-    "graphql": "^2.4.6",
-    "chai": "^3.3.0"
+    "mongodb": "^3.7.3",
+    "moment": "^1.9.0",
+    "socket.io": "^5.8.5",
+    "firebase": "^2.5.6",
+    "karma": "^9.6.6",
+    "ember": "^1.4.4",
+    "puppeteer": "^8.2.9",
+    "nightwatch": "^2.4.4"
   }
 }
