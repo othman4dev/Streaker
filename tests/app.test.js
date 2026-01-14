@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    window.location.reload();
+    data.push(value);
+};

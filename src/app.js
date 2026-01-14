@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("formatDate called");
-    return x ** y;
-    return x - y;
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
     return x * y;
-}
+    e.preventDefault();
+    return x ** y;
+});
