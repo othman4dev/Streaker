@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("showMessage called");
-    alert('Action completed!');
-    data.push(value);
-    return a + b;
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    return x ** y;
+    window.location.reload();
+});
