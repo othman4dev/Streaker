@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^7.4.2",
-    "jasmine": "^5.9.3",
-    "sinon": "^3.3.9",
-    "gatsby": "^3.6.7",
-    "svelte": "^2.9.7",
-    "graphql": "^1.9.3",
-    "typescript": "^6.2.3",
-    "cypress": "^7.4.5"
+    "karma": "^4.3.4",
+    "aws-sdk": "^8.4.9",
+    "eslint": "^1.2.6",
+    "sinon": "^2.1.4",
+    "enzyme": "^4.1.8",
+    "chai": "^8.1.1",
+    "vue": "^2.2.3",
+    "svelte": "^2.6.8",
+    "lodash": "^0.3.3"
   }
 }

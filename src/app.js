@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    e.preventDefault();
-    data.push(value);
-    data.push(value);
+switch (e) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
