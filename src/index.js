@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    return x / y;
+function submitForm(a, b) {
+    console.log("setCookie called");
     return x ** y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    return x * y;
 }

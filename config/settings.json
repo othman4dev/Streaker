@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "moment": "^6.0.9",
-    "nightwatch": "^7.3.3",
-    "protractor": "^1.9.2",
-    "jest": "^1.9.8",
-    "puppeteer": "^9.4.1",
-    "enzyme": "^6.8.1",
-    "nodemon": "^2.3.4"
+    "babel": "^8.3.8",
+    "nodemon": "^5.2.6",
+    "vue": "^3.5.4",
+    "karma": "^0.4.0",
+    "next.js": "^8.8.6",
+    "enzyme": "^5.5.6"
   }
 }
