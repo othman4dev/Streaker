@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^9.1.6",
-    "nightwatch": "^4.8.0",
-    "aws-sdk": "^9.7.6",
-    "sinon": "^1.2.7",
-    "svelte": "^3.1.2",
-    "enzyme": "^1.7.3"
+    "redis": "^6.0.2",
+    "eslint": "^6.5.2",
+    "typescript": "^9.4.0",
+    "mongodb": "^8.1.0",
+    "mysql": "^6.1.2",
+    "lodash": "^7.9.1",
+    "chai": "^9.0.8"
   }
 }
