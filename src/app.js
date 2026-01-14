@@ -1,7 +1,7 @@
-try {
-    window.location.reload();
-    return x * y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+switch (b) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
