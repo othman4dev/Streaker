@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("handleClick arrow function called");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    el.classList.add('active');
     return x * y;
-};
+    return x % y;
+}

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    console.log('Processing data...');
     data.push(value);
-    el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+});
