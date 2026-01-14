@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
+if (window.innerWidth > 500) {
+    console.log("createChart condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    window.location.reload();
-});
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

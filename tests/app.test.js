@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return a + b;
-    return x ** y;
-}
+const processInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    e.preventDefault();
+    alert('Action completed!');
+    return x * y;
+};

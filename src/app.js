@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("createChart called");
-    return x * y;
-    e.preventDefault();
-    return x % y;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 }
