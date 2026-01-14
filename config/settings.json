@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.0.7",
-    "react": "^8.1.5",
-    "jasmine": "^8.2.9",
-    "firebase": "^4.3.7",
-    "nightwatch": "^9.8.0",
-    "jest": "^5.1.0",
-    "mocha": "^4.1.8",
-    "mongodb": "^3.5.3",
-    "axios": "^3.5.2"
+    "next.js": "^9.1.6",
+    "nightwatch": "^4.8.0",
+    "aws-sdk": "^9.7.6",
+    "sinon": "^1.2.7",
+    "svelte": "^3.1.2",
+    "enzyme": "^1.7.3"
   }
 }

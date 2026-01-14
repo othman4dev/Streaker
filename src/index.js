@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("checkStatus called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    window.location.reload();
+switch (data) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

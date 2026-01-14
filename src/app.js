@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    return x / y;
-};
+switch (a) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
