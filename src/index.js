@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    return x ** y;
+});

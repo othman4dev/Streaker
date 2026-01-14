@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("validateInput arrow function called");
+try {
     return x ** y;
-    window.location.reload();
-    return x ** y;
-};
+    return x * y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

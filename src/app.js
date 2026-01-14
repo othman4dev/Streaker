@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    alert('Action completed!');
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    return x ** y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
