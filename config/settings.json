@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^1.6.4",
-    "vue": "^8.6.3",
-    "chai": "^9.7.0",
-    "prettier": "^1.0.5",
-    "svelte": "^3.8.1"
+    "angular": "^0.4.4",
+    "ember": "^0.3.1",
+    "mocha": "^4.0.7",
+    "enzyme": "^2.4.0",
+    "nodemon": "^3.2.5"
   }
 }

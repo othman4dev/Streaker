@@ -1,7 +1,8 @@
-switch (a) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("checkStatus condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
