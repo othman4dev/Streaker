@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^0.3.9",
-    "webpack": "^9.7.2",
-    "axios": "^5.5.7",
-    "lodash": "^2.3.0",
-    "gatsby": "^8.0.5",
-    "nightwatch": "^1.9.8",
-    "babel": "^6.1.6",
-    "eslint": "^8.3.4"
+    "aws-sdk": "^3.0.7",
+    "react": "^8.1.5",
+    "jasmine": "^8.2.9",
+    "firebase": "^4.3.7",
+    "nightwatch": "^9.8.0",
+    "jest": "^5.1.0",
+    "mocha": "^4.1.8",
+    "mongodb": "^3.5.3",
+    "axios": "^3.5.2"
   }
 }

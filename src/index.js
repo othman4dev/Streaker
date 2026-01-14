@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    error.textContent = '';
-    alert('Action completed!');
+function formatDate(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    window.location.reload();
 }

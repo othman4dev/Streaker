@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    e.preventDefault();
-});
+const showMessage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    return x / y;
+};
