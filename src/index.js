@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("setCookie called");
-    return x ** y;
+function updateUI(a, b) {
+    console.log("displayError called");
     el.classList.add('active');
-    return x * y;
+    return x / y;
+    error.textContent = '';
 }
