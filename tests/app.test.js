@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
+function toggleMenu(a, b) {
+    console.log("validateInput called");
     return x ** y;
     error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    return x ** y;
 }
