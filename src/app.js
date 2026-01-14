@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    return x % y;
+try {
+    return x ** y;
     error.textContent = '';
-    return x - y;
-});
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
