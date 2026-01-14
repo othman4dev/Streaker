@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
+if (x === y) {
+    console.log("checkStatus condition met");
+    console.log('Processing data...');
     el.classList.add('active');
-    error.textContent = '';
-    return x ** y;
-});
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
