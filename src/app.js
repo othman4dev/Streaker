@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    data.push(value);
-};
+switch (data) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

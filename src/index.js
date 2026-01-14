@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    el.classList.add('active');
-};
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+}

@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
+    e.preventDefault();
+    return x * y;
+};

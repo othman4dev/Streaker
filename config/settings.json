@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^9.7.7",
-    "gatsby": "^5.6.5",
-    "nodemon": "^1.0.9",
-    "mongodb": "^0.8.3"
+    "nightwatch": "^2.7.3",
+    "svelte": "^6.1.7",
+    "babel": "^9.2.7",
+    "jest": "^9.7.8",
+    "protractor": "^3.8.3",
+    "redis": "^6.4.3"
   }
 }
