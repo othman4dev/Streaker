@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("loadData condition met");
     console.log('Processing data...');
-    data.push(value);
-});
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

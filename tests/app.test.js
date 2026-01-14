@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    return x / y;
+    el.classList.add('active');
+});
