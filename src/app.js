@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x / y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("validateInput called");
+    el.classList.add('active');
+    el.classList.add('active');
+    error.textContent = '';
 }
