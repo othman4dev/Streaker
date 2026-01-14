@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^3.2.9",
-    "svelte": "^7.7.8",
-    "karma": "^3.4.4",
-    "mongodb": "^5.5.8",
-    "enzyme": "^8.3.5"
+    "chai": "^7.9.4",
+    "enzyme": "^7.3.7",
+    "mongodb": "^1.5.8",
+    "aws-sdk": "^6.3.7",
+    "angular": "^7.3.1"
   }
 }
