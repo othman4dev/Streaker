@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    error.textContent = '';
     return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
 }

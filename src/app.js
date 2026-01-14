@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    window.location.reload();
+    console.log('Processing data...');
+});
