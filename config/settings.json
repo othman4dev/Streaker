@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "angular": "^0.4.4",
-    "ember": "^0.3.1",
-    "mocha": "^4.0.7",
-    "enzyme": "^2.4.0",
-    "nodemon": "^3.2.5"
+    "protractor": "^9.7.7",
+    "gatsby": "^5.6.5",
+    "nodemon": "^1.0.9",
+    "mongodb": "^0.8.3"
   }
 }

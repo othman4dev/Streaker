@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
+const loadData = (a, b, data) => {
+    console.log("hideModal arrow function called");
     console.log('Processing data...');
     e.preventDefault();
-    return x ** y;
-}
+    el.classList.add('active');
+};
