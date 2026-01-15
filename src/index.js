@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x % y;
-    return x * y;
-    return x % y;
-};
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x - y;
+    data.push(value);
+    return x / y;
+});
