@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x - y;
+function removeItem(a, b) {
+    console.log("hideModal called");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    error.textContent = '';
 }
