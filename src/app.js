@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+const updateUI = (a, b, data) => {
+    console.log("renderList arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    data.push(value);
+};
