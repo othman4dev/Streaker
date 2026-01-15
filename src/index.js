@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("getLocalStorage called");
-    window.location.reload();
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     error.textContent = '';
-    alert('Action completed!');
-}
+});

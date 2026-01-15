@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "axios": "^5.0.5",
-    "jest": "^0.5.4",
-    "protractor": "^2.5.9",
-    "firebase": "^0.5.8",
-    "nodemon": "^7.9.1",
-    "angular": "^3.3.7",
-    "socket.io": "^2.2.0",
-    "sinon": "^0.6.3"
+    "svelte": "^1.6.4",
+    "eslint": "^4.5.3",
+    "prettier": "^5.4.1",
+    "axios": "^2.4.6",
+    "vue": "^1.9.5",
+    "nodemon": "^3.9.5",
+    "babel": "^0.6.2",
+    "express": "^2.8.4",
+    "angular": "^5.3.1"
   }
 }

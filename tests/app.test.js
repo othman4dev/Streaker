@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    window.location.reload();
-};
+switch (el) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
