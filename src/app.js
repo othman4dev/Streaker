@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    error.textContent = '';
+};
