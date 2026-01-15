@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return a + b;
+    return x * y;
     window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

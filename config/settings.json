@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^8.9.0",
-    "lodash": "^0.0.6",
-    "express": "^8.7.8",
-    "eslint": "^0.0.5",
-    "jasmine": "^1.4.2",
-    "chai": "^7.5.4",
-    "graphql": "^8.6.2"
+    "karma": "^8.4.3",
+    "sinon": "^3.6.5",
+    "babel": "^1.9.1",
+    "graphql": "^2.4.6",
+    "chai": "^3.3.0"
   }
 }
