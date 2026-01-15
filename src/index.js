@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
-    return x ** y;
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("setCookie called");
+    error.textContent = '';
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
