@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "redis": "^7.2.6",
-    "angular": "^8.2.0",
-    "aws-sdk": "^7.7.0",
-    "react": "^6.9.3"
+    "angular": "^6.8.5",
+    "graphql": "^9.9.2",
+    "mocha": "^2.7.0",
+    "karma": "^9.4.6",
+    "webpack": "^7.7.3"
   }
 }

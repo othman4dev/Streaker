@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    window.location.reload();
+const loadData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
+    e.preventDefault();
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};

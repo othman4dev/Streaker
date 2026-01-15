@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    alert('Action completed!');
-    return x / y;
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    return a + b;
+    e.preventDefault();
     el.classList.add('active');
-});
+} else {
+    console.log("Condition not met");
+}
