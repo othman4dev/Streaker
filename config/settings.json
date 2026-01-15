@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^8.9.4",
-    "enzyme": "^8.3.4",
-    "vue": "^8.7.3",
-    "aws-sdk": "^3.4.0",
-    "moment": "^4.6.1"
+    "eslint": "^3.4.5",
+    "sinon": "^1.8.2",
+    "cypress": "^6.8.7",
+    "react": "^7.5.7",
+    "mysql": "^4.3.2",
+    "express": "^6.7.9",
+    "nodemon": "^4.1.2",
+    "puppeteer": "^6.5.6"
   }
 }
