@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "jest": "^0.2.8",
-    "socket.io": "^8.8.5",
-    "svelte": "^8.6.2",
-    "sinon": "^0.0.3",
-    "nodemon": "^7.7.7",
-    "next.js": "^9.2.8"
+    "redis": "^7.3.1",
+    "socket.io": "^5.1.2",
+    "moment": "^4.0.1",
+    "nightwatch": "^7.0.9"
   }
 }

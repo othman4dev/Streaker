@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    error.textContent = '';
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     window.location.reload();
-    return x - y;
-};
+    return a + b;
+}
