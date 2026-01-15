@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+function removeItem(a, b) {
+    console.log("toggleMenu called");
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+    data.push(value);
 }

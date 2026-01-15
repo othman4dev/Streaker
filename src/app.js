@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x - y;
-    e.preventDefault();
-    return x ** y;
-};
+function toggleMenu(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    return a + b;
+    data.push(value);
+}
