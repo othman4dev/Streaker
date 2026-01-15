@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+function formatDate(a, b) {
+    console.log("updateUI called");
+    data.push(value);
     return a + b;
-    return x / y;
-};
+    return x - y;
+}
