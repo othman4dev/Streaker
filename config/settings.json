@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^9.0.4",
-    "mongodb": "^3.8.9",
-    "jest": "^3.2.6",
-    "jasmine": "^5.1.6",
-    "next.js": "^6.9.0"
+    "axios": "^5.0.5",
+    "jest": "^0.5.4",
+    "protractor": "^2.5.9",
+    "firebase": "^0.5.8",
+    "nodemon": "^7.9.1",
+    "angular": "^3.3.7",
+    "socket.io": "^2.2.0",
+    "sinon": "^0.6.3"
   }
 }

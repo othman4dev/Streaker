@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    return x / y;
-    return x - y;
-});
+function processInput(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    error.textContent = '';
+    alert('Action completed!');
+}
