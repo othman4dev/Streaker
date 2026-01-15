@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    console.log('Processing data...');
-    el.classList.add('active');
+if (x !== y) {
+    console.log("handleClick condition met");
     document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

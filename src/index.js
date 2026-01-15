@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x % y;
+    return x * y;
     console.log('Processing data...');
-    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
