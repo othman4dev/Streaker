@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("fetchData called");
-    data.push(value);
-    return a + b;
-    data.push(value);
+if (x !== y) {
+    console.log("formatDate condition met");
+    return x ** y;
+    el.classList.add('active');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

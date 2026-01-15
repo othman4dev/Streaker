@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("displayError called");
-    data.push(value);
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event click triggered");
     alert('Action completed!');
-    return a + b;
-}
+    window.location.reload();
+    return x / y;
+});

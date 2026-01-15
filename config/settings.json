@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "axios": "^8.3.0",
-    "socket.io": "^3.1.8",
-    "react": "^9.4.3",
-    "vue": "^1.6.2",
-    "gatsby": "^6.8.3",
-    "enzyme": "^1.4.2",
-    "typescript": "^3.3.1",
-    "prettier": "^0.2.3"
+    "protractor": "^9.6.4",
+    "redis": "^9.4.3",
+    "cypress": "^0.2.6",
+    "axios": "^6.4.8",
+    "nightwatch": "^5.4.4"
   }
 }

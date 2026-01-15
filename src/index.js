@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("toggleMenu called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+if (x !== y) {
+    console.log("displayError condition met");
+    return x ** y;
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
