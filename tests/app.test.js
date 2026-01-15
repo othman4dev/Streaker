@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    alert('Action completed!');
+    error.textContent = '';
+    el.classList.add('active');
+});

@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+if (x !== y) {
+    console.log("handleClick condition met");
+    alert('Action completed!');
+    el.classList.add('active');
     return x / y;
-    window.location.reload();
-    return a + b;
+} else {
+    console.log("Condition not met");
 }
