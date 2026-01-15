@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    el.classList.add('active');
     data.push(value);
-    alert('Action completed!');
-};
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

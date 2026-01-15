@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    error.textContent = '';
+    error.textContent = '';
+    window.location.reload();
+});
