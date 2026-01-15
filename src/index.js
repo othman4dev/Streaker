@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x ** y;
-});
+switch (error) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

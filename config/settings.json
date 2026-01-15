@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^7.7.8",
-    "babel": "^5.3.6",
-    "karma": "^5.2.2",
-    "firebase": "^0.5.2",
-    "axios": "^3.4.8",
-    "jasmine": "^2.8.0",
-    "prettier": "^6.6.8",
-    "protractor": "^1.5.7"
+    "jest": "^0.2.8",
+    "socket.io": "^8.8.5",
+    "svelte": "^8.6.2",
+    "sinon": "^0.0.3",
+    "nodemon": "^7.7.7",
+    "next.js": "^9.2.8"
   }
 }

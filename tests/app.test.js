@@ -1,7 +1,7 @@
 try {
+    e.preventDefault();
     return x % y;
-    alert('Action completed!');
-    el.classList.add('active');
+    return x ** y;
 } catch (error) {
     console.error("Error:", error);
 }

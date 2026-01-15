@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+const processInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    return x - y;
 };
