@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^4.7.0",
-    "nodemon": "^9.3.8",
-    "enzyme": "^3.7.6",
-    "jest": "^2.5.4",
-    "puppeteer": "^5.6.5"
+    "moment": "^5.5.6",
+    "vue": "^0.0.5",
+    "typescript": "^2.1.2",
+    "angular": "^2.7.6",
+    "nodemon": "^3.6.1"
   }
 }

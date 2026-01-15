@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("formatDate called");
+    return x ** y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 }
