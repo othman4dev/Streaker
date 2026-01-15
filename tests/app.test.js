@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    return x * y;
-    return x - y;
-    return x - y;
+try {
+    return x / y;
+    error.textContent = '';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

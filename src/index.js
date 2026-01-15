@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-});
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    return x - y;
+    data.push(value);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
