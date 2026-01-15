@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    return a + b;
-    return x - y;
+switch (e) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

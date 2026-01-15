@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x % y;
-    return x % y;
-    return x * y;
-};
+function animateElement(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+}

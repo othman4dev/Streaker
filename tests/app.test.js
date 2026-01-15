@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    el.classList.add('active');
+const removeItem = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    window.location.reload();
     return x % y;
-}
+    return x % y;
+};
