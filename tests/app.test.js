@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    error.textContent = '';
-    data.push(value);
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    return x / y;
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+});

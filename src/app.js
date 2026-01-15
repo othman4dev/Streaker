@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    data.push(value);
-    e.preventDefault();
-});
+try {
+    return x % y;
+    window.location.reload();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
