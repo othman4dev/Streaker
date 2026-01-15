@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("toggleMenu called");
-    return x % y;
-    data.push(value);
-    return x ** y;
+switch (el) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
