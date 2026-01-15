@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event keydown triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    error.textContent = '';
+    alert('Action completed!');
+    return x ** y;
 });

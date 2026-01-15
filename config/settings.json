@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^1.6.4",
-    "eslint": "^4.5.3",
-    "prettier": "^5.4.1",
-    "axios": "^2.4.6",
-    "vue": "^1.9.5",
-    "nodemon": "^3.9.5",
-    "babel": "^0.6.2",
-    "express": "^2.8.4",
-    "angular": "^5.3.1"
+    "cypress": "^7.7.8",
+    "babel": "^5.3.6",
+    "karma": "^5.2.2",
+    "firebase": "^0.5.2",
+    "axios": "^3.4.8",
+    "jasmine": "^2.8.0",
+    "prettier": "^6.6.8",
+    "protractor": "^1.5.7"
   }
 }
