@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x % y;
-    alert('Action completed!');
-    return x % y;
-};
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    return x * y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

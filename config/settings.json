@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^8.0.0",
-    "ember": "^8.0.2",
-    "lodash": "^0.2.1",
-    "mocha": "^4.4.9",
-    "mongodb": "^3.2.2"
+    "protractor": "^0.4.5",
+    "cypress": "^8.8.1",
+    "aws-sdk": "^8.3.8",
+    "typescript": "^5.0.3",
+    "graphql": "^3.8.4",
+    "ember": "^3.5.4",
+    "enzyme": "^3.5.8"
   }
 }
