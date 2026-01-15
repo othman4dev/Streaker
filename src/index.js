@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    el.classList.add('active');
+const hideModal = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x % y;
     return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+};

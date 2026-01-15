@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
     el.classList.add('active');
-    window.location.reload();
-}
+    return x % y;
+    e.preventDefault();
+});
