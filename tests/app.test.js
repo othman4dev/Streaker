@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    return x - y;
-    alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

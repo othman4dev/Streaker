@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("renderList arrow function called");
-    error.textContent = '';
-    window.location.reload();
-    data.push(value);
-};
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
