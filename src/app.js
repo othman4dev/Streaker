@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    return x * y;
     data.push(value);
-    console.log('Processing data...');
 };

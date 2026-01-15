@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("setCookie called");
+try {
+    data.push(value);
+    return x - y;
     error.textContent = '';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
