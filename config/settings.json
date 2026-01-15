@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^2.7.3",
-    "svelte": "^6.1.7",
-    "babel": "^9.2.7",
-    "jest": "^9.7.8",
-    "protractor": "^3.8.3",
-    "redis": "^6.4.3"
+    "enzyme": "^8.0.0",
+    "ember": "^8.0.2",
+    "lodash": "^0.2.1",
+    "mocha": "^4.4.9",
+    "mongodb": "^3.2.2"
   }
 }

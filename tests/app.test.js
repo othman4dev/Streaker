@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x % y;
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     e.preventDefault();
-    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 };
