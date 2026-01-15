@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    alert('Action completed!');
+};
