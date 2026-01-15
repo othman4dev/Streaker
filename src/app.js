@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
     document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+};
