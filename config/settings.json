@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "typescript": "^4.8.2",
-    "svelte": "^6.8.0",
-    "nightwatch": "^0.3.0",
-    "protractor": "^9.3.2",
-    "gatsby": "^2.0.2",
-    "jest": "^4.5.2",
-    "mysql": "^4.8.2",
-    "moment": "^5.7.3"
+    "cypress": "^1.6.1",
+    "angular": "^5.9.4",
+    "ember": "^9.0.9",
+    "aws-sdk": "^2.8.2"
   }
 }

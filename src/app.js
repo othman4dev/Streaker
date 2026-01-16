@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("formatDate called");
-    return a + b;
-    e.preventDefault();
-    el.classList.add('active');
-}
+const showMessage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x ** y;
+    alert('Action completed!');
+    error.textContent = '';
+};
