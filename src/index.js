@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    console.log('Processing data...');
+function createChart(a, b) {
+    console.log("handleClick called");
+    return x ** y;
+    data.push(value);
+    return x / y;
 }
