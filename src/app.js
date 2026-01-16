@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event focus triggered");
     console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    window.location.reload();
+});
