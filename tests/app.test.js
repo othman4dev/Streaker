@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return a + b;
-    return x ** y;
-}
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    return x * y;
+    return x * y;
+};

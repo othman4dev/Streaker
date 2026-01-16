@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("removeItem called");
-    return a + b;
-    alert('Action completed!');
-    window.location.reload();
+function getLocalStorage(a, b) {
+    console.log("formatDate called");
+    e.preventDefault();
+    error.textContent = '';
+    console.log('Processing data...');
 }

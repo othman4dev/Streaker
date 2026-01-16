@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    window.location.reload();
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
 });
