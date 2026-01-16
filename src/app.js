@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("handleClick condition met");
-    data.push(value);
-    return x ** y;
+try {
+    alert('Action completed!');
+    return x % y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

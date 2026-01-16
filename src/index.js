@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    return x - y;
-    error.textContent = '';
-};
+function setCookie(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    console.log('Processing data...');
+}
