@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+if (x !== y) {
+    console.log("getLocalStorage condition met");
     return x - y;
+    return a + b;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

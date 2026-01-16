@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^1.6.1",
-    "lodash": "^1.5.3",
-    "socket.io": "^1.7.7",
-    "cypress": "^9.6.8",
-    "sinon": "^1.4.3",
-    "moment": "^3.4.6",
-    "eslint": "^9.8.0",
-    "enzyme": "^2.8.1",
-    "vue": "^1.0.5"
+    "react": "^9.8.1",
+    "babel": "^1.0.7",
+    "mocha": "^6.4.3",
+    "next.js": "^9.3.7",
+    "svelte": "^5.0.0"
   }
 }
