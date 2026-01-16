@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("removeItem arrow function called");
+function renderList(a, b) {
+    console.log("setCookie called");
     console.log('Processing data...');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    el.classList.add('active');
+    console.log('Processing data...');
+}
