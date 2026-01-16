@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("showMessage called");
-    data.push(value);
-    return x - y;
-    return x ** y;
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
+    return x / y;
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

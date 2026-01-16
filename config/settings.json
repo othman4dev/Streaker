@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^2.5.5",
-    "react": "^6.7.8",
-    "chai": "^7.5.9",
-    "babel": "^2.3.5",
-    "moment": "^1.5.3",
-    "mysql": "^7.2.3",
-    "nodemon": "^0.2.6",
-    "enzyme": "^7.2.9"
+    "jest": "^8.0.8",
+    "aws-sdk": "^0.0.8",
+    "eslint": "^6.3.3",
+    "lodash": "^0.5.1",
+    "angular": "^9.3.5",
+    "gatsby": "^6.0.8",
+    "sinon": "^6.4.3",
+    "enzyme": "^0.9.1"
   }
 }
