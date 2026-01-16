@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^9.8.1",
-    "babel": "^1.0.7",
-    "mocha": "^6.4.3",
-    "next.js": "^9.3.7",
-    "svelte": "^5.0.0"
+    "firebase": "^0.1.9",
+    "cypress": "^0.6.2",
+    "mocha": "^8.6.5",
+    "mysql": "^3.9.3",
+    "react": "^1.2.5"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
-    el.classList.add('active');
-    return x ** y;
-});
+if (value !== '') {
+    console.log("submitForm condition met");
+    e.preventDefault();
+    return x - y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
