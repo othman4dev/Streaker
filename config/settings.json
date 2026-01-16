@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "ember": "^2.9.9",
-    "graphql": "^2.5.8",
-    "next.js": "^7.5.7",
-    "redis": "^4.9.2",
-    "karma": "^7.4.1",
-    "eslint": "^8.1.5",
-    "socket.io": "^9.4.5"
+    "graphql": "^5.3.2",
+    "jest": "^3.2.7",
+    "mongodb": "^4.1.7",
+    "prettier": "^7.4.6",
+    "jasmine": "^8.4.3",
+    "nodemon": "^7.2.0"
   }
 }
