@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});

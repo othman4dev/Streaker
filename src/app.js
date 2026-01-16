@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    return x ** y;
-    e.preventDefault();
+function displayError(a, b) {
+    console.log("removeItem called");
+    return a + b;
+    alert('Action completed!');
+    window.location.reload();
 }
