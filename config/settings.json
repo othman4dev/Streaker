@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^2.9.6",
-    "ember": "^7.5.7",
-    "react": "^2.3.3",
-    "nightwatch": "^8.2.5",
-    "babel": "^0.9.1",
-    "jest": "^5.7.4"
+    "jest": "^1.5.4",
+    "moment": "^6.6.5",
+    "aws-sdk": "^7.4.3",
+    "angular": "^9.0.8",
+    "mongodb": "^2.9.7",
+    "express": "^5.5.0",
+    "mysql": "^7.9.1"
   }
 }

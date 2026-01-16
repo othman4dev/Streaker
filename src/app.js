@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    e.preventDefault();
-    return x % y;
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x / y;
+    console.log('Processing data...');
+}
