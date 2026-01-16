@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^5.5.6",
-    "vue": "^0.0.5",
-    "typescript": "^2.1.2",
-    "angular": "^2.7.6",
-    "nodemon": "^3.6.1"
+    "webpack": "^0.3.3",
+    "mongodb": "^7.7.4",
+    "ember": "^3.1.6",
+    "axios": "^9.3.8",
+    "mysql": "^9.2.3"
   }
 }
