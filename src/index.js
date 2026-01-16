@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    window.location.reload();
+    alert('Action completed!');
+});

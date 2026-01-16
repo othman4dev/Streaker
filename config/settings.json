@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "karma": "^4.6.4",
-    "react": "^5.2.0",
-    "nightwatch": "^5.9.2",
-    "sinon": "^2.4.1",
-    "socket.io": "^2.0.2",
-    "puppeteer": "^3.0.7",
-    "typescript": "^8.5.7",
-    "next.js": "^5.1.8"
+    "svelte": "^7.8.0",
+    "firebase": "^4.8.8",
+    "lodash": "^5.9.4",
+    "socket.io": "^6.6.1",
+    "sinon": "^2.9.0",
+    "nightwatch": "^7.6.0",
+    "redis": "^3.4.1",
+    "enzyme": "^9.2.9"
   }
 }
