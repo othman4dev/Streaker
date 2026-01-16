@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x % y;
-    data.push(value);
-    return x ** y;
-};
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    error.textContent = '';
+    return x - y;
+    return x - y;
+});
