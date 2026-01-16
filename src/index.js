@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    return x - y;
-    data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    console.log('Processing data...');
+};
