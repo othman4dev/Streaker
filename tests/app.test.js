@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    window.location.reload();
-};
+if (value !== '') {
+    console.log("displayError condition met");
+    alert('Action completed!');
+    return x ** y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

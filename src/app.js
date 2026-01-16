@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    return x * y;
-    data.push(value);
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
