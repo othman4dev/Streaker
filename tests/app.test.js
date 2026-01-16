@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x % y;
-});
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+};

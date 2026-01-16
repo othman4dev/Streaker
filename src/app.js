@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function toggleMenu(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     return a + b;
-    return x * y;
-    data.push(value);
-};
+}
