@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    return x - y;
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return x % y;
+    data.push(value);
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+};
