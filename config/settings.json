@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "ember": "^6.4.8",
-    "angular": "^3.0.7",
-    "jest": "^5.0.8",
-    "protractor": "^2.2.0"
+    "svelte": "^2.9.6",
+    "ember": "^7.5.7",
+    "react": "^2.3.3",
+    "nightwatch": "^8.2.5",
+    "babel": "^0.9.1",
+    "jest": "^5.7.4"
   }
 }

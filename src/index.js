@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    data.push(value);
+function getLocalStorage(a, b) {
+    console.log("renderList called");
+    e.preventDefault();
     return x * y;
-    return x % y;
-};
+    window.location.reload();
+}
