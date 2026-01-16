@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    alert('Action completed!');
-    data.push(value);
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

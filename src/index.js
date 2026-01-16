@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("removeItem called");
-    return x - y;
-    return x * y;
-    return x - y;
+switch (y) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

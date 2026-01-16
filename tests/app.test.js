@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event load triggered");
+function displayError(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    return x * y;
     return x / y;
-    alert('Action completed!');
-    return x / y;
-});
+}
