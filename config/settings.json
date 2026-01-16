@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^1.6.1",
-    "angular": "^5.9.4",
-    "ember": "^9.0.9",
-    "aws-sdk": "^2.8.2"
+    "socket.io": "^3.9.8",
+    "prettier": "^9.1.6",
+    "gatsby": "^9.5.5",
+    "angular": "^5.7.3",
+    "react": "^6.4.1",
+    "jasmine": "^7.8.3",
+    "nightwatch": "^5.5.7",
+    "protractor": "^8.5.8"
   }
 }

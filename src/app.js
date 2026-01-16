@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x ** y;
-    alert('Action completed!');
-    error.textContent = '';
-};
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

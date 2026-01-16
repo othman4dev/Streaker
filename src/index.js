@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};
