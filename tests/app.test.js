@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+switch (y) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

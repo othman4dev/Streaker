@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "moment": "^2.1.0",
-    "redis": "^9.3.8",
-    "eslint": "^6.8.7",
-    "protractor": "^8.1.6",
-    "chai": "^7.4.9",
-    "cypress": "^9.7.3",
-    "mongodb": "^6.7.2"
+    "ember": "^2.9.9",
+    "graphql": "^2.5.8",
+    "next.js": "^7.5.7",
+    "redis": "^4.9.2",
+    "karma": "^7.4.1",
+    "eslint": "^8.1.5",
+    "socket.io": "^9.4.5"
   }
 }

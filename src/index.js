@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-}
+});
