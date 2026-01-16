@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.0.8",
-    "aws-sdk": "^0.0.8",
-    "eslint": "^6.3.3",
-    "lodash": "^0.5.1",
-    "angular": "^9.3.5",
-    "gatsby": "^6.0.8",
-    "sinon": "^6.4.3",
-    "enzyme": "^0.9.1"
+    "react": "^9.5.1",
+    "svelte": "^8.2.1",
+    "karma": "^1.8.2",
+    "aws-sdk": "^1.4.2",
+    "gatsby": "^0.8.9",
+    "angular": "^7.3.1"
   }
 }
