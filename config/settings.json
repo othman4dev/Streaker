@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "socket.io": "^3.9.8",
-    "prettier": "^9.1.6",
-    "gatsby": "^9.5.5",
-    "angular": "^5.7.3",
-    "react": "^6.4.1",
-    "jasmine": "^7.8.3",
-    "nightwatch": "^5.5.7",
-    "protractor": "^8.5.8"
+    "jasmine": "^1.6.1",
+    "lodash": "^1.5.3",
+    "socket.io": "^1.7.7",
+    "cypress": "^9.6.8",
+    "sinon": "^1.4.3",
+    "moment": "^3.4.6",
+    "eslint": "^9.8.0",
+    "enzyme": "^2.8.1",
+    "vue": "^1.0.5"
   }
 }

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("saveSettings condition met");
-    return x * y;
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x - y;
 }

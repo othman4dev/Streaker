@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
     el.classList.add('active');
+    data.push(value);
     el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
 }
