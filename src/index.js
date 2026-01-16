@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    console.log('Processing data...');
-}
+const formatDate = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
+    return x - y;
+    error.textContent = '';
+};
