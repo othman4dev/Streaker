@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    return x % y;
-    return x % y;
+if (a > b) {
+    console.log("validateInput condition met");
+    return x - y;
+    alert('Action completed!');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
