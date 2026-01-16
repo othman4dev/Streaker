@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    e.preventDefault();
+const getLocalStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    return x % y;
+};
