@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^1.9.7",
-    "ember": "^1.6.0",
-    "jest": "^8.2.4",
-    "vue": "^9.1.7",
-    "firebase": "^1.6.3",
-    "moment": "^2.9.9",
-    "chai": "^8.5.8"
+    "mocha": "^0.6.7",
+    "prettier": "^2.9.8",
+    "angular": "^0.5.3",
+    "graphql": "^6.6.3",
+    "puppeteer": "^2.4.9",
+    "socket.io": "^6.8.6"
   }
 }
