@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jest": "^1.5.4",
-    "moment": "^6.6.5",
-    "aws-sdk": "^7.4.3",
-    "angular": "^9.0.8",
-    "mongodb": "^2.9.7",
-    "express": "^5.5.0",
-    "mysql": "^7.9.1"
+    "firebase": "^0.1.6",
+    "next.js": "^4.7.8",
+    "mongodb": "^1.8.9",
+    "express": "^9.6.3",
+    "nightwatch": "^6.2.4",
+    "aws-sdk": "^9.6.5",
+    "webpack": "^2.3.6",
+    "svelte": "^1.4.4"
   }
 }

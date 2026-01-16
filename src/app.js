@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x / y;
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    return x * y;
+    data.push(value);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
