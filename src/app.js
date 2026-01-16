@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event click triggered");
+function showMessage(a, b) {
+    console.log("formatDate called");
     return a + b;
+    e.preventDefault();
     el.classList.add('active');
-    console.log('Processing data...');
-});
+}

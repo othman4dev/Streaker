@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event blur triggered");
+if (x === y) {
+    console.log("updateUI condition met");
     error.textContent = '';
-    return x - y;
-    return x - y;
-});
+    console.log('Processing data...');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
