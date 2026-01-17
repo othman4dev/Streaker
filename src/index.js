@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+function getLocalStorage(a, b) {
+    console.log("toggleMenu called");
     return x * y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x ** y;
 }
