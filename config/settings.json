@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^4.6.4",
-    "lodash": "^6.3.1",
-    "nightwatch": "^7.1.4",
-    "karma": "^4.6.5",
-    "cypress": "^4.6.5",
-    "protractor": "^0.6.8",
-    "react": "^5.2.6"
+    "karma": "^4.6.4",
+    "react": "^5.2.0",
+    "nightwatch": "^5.9.2",
+    "sinon": "^2.4.1",
+    "socket.io": "^2.0.2",
+    "puppeteer": "^3.0.7",
+    "typescript": "^8.5.7",
+    "next.js": "^5.1.8"
   }
 }
