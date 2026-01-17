@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "vue": "^8.0.1",
-    "aws-sdk": "^7.6.2",
-    "cypress": "^8.7.8",
-    "gatsby": "^6.1.0",
-    "nightwatch": "^7.9.9"
+    "prettier": "^2.4.6",
+    "karma": "^7.8.5",
+    "jasmine": "^4.8.4",
+    "moment": "^3.9.0",
+    "chai": "^8.9.5"
   }
 }
