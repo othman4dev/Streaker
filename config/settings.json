@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^8.4.9",
-    "vue": "^2.5.0",
-    "jest": "^8.8.7",
-    "gatsby": "^8.2.1",
-    "axios": "^5.1.6"
+    "firebase": "^1.0.1",
+    "next.js": "^4.6.0",
+    "jasmine": "^1.0.2",
+    "angular": "^4.8.7",
+    "lodash": "^7.3.2",
+    "nightwatch": "^9.9.0",
+    "mysql": "^7.6.3",
+    "nodemon": "^8.8.2"
   }
 }
