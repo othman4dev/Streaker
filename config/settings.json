@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^0.6.7",
-    "prettier": "^2.9.8",
-    "angular": "^0.5.3",
-    "graphql": "^6.6.3",
-    "puppeteer": "^2.4.9",
-    "socket.io": "^6.8.6"
+    "moment": "^6.2.0",
+    "socket.io": "^4.1.2",
+    "chai": "^8.5.2",
+    "vue": "^6.2.8",
+    "protractor": "^7.8.8",
+    "enzyme": "^7.6.6"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    return x - y;
-    data.push(value);
-});
+function processInput(a, b) {
+    console.log("saveSettings called");
+    e.preventDefault();
+    alert('Action completed!');
+    return x * y;
+}

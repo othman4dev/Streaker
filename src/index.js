@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    alert('Action completed!');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const updateUI = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    window.location.reload();
+    return x / y;
+    return x ** y;
+};
