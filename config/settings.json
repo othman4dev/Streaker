@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^8.7.7",
-    "chai": "^2.2.6",
-    "jest": "^6.3.6",
-    "prettier": "^9.0.0",
-    "webpack": "^7.4.6"
+    "eslint": "^0.7.9",
+    "chai": "^5.3.1",
+    "lodash": "^6.1.6",
+    "svelte": "^8.4.9",
+    "webpack": "^7.7.2"
   }
 }

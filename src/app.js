@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    el.classList.add('active');
-    return x % y;
-});
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    error.textContent = '';
+    window.location.reload();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

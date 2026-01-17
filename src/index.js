@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("processInput arrow function called");
-    window.location.reload();
-    window.location.reload();
-    return x * y;
+const formatDate = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x ** y;
+    console.log('Processing data...');
+    return a + b;
 };
