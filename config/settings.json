@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "moment": "^7.2.5",
-    "mongodb": "^3.0.4",
-    "chai": "^2.7.4",
-    "gatsby": "^6.1.9",
-    "next.js": "^3.0.6"
+    "jasmine": "^9.6.0",
+    "gatsby": "^0.7.8",
+    "next.js": "^7.2.4",
+    "chai": "^6.8.7"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    return x * y;
+if (a > b) {
+    console.log("saveSettings condition met");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-});
+    data.push(value);
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
