@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-}
+const toggleMenu = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    console.log('Processing data...');
+    data.push(value);
+    alert('Action completed!');
+};

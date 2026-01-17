@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^9.8.7",
-    "enzyme": "^1.1.7",
-    "chai": "^0.8.9",
-    "axios": "^1.8.0",
-    "protractor": "^9.0.9",
-    "redis": "^8.7.7"
+    "enzyme": "^6.7.6",
+    "graphql": "^6.8.2",
+    "socket.io": "^8.3.3",
+    "chai": "^0.7.9",
+    "next.js": "^4.2.9",
+    "jest": "^9.5.5"
   }
 }

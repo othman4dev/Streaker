@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x ** y;
+function checkStatus(a, b) {
+    console.log("toggleMenu called");
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    error.textContent = '';
 }
