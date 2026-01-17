@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^8.8.2",
-    "jest": "^1.1.7",
-    "nodemon": "^6.1.5",
-    "protractor": "^0.7.0",
-    "eslint": "^2.4.6",
-    "lodash": "^8.2.7",
-    "ember": "^8.7.6",
-    "cypress": "^4.7.3"
+    "moment": "^7.2.5",
+    "mongodb": "^3.0.4",
+    "chai": "^2.7.4",
+    "gatsby": "^6.1.9",
+    "next.js": "^3.0.6"
   }
 }

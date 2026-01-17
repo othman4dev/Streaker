@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    return x * y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+});
