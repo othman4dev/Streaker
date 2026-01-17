@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+const processInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
     console.log('Processing data...');
-    console.log('Processing data...');
-}
+};

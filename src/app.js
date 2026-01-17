@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    e.preventDefault();
-    data.push(value);
+const handleClick = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+};
