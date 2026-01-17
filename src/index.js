@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    window.location.reload();
-    return x / y;
-    return x ** y;
-};
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return a + b;
+    e.preventDefault();
+}

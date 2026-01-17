@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("saveSettings called");
-    e.preventDefault();
-    alert('Action completed!');
-    return x * y;
+try {
+    return x % y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
