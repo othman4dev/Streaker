@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    error.textContent = '';
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    alert('Action completed!');
+    el.classList.add('active');
 }

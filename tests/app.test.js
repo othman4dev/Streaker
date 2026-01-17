@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x - y;
-};
+try {
+    return x ** y;
+    return x ** y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "eslint": "^0.7.9",
-    "chai": "^5.3.1",
-    "lodash": "^6.1.6",
-    "svelte": "^8.4.9",
-    "webpack": "^7.7.2"
+    "eslint": "^9.0.5",
+    "karma": "^3.9.0",
+    "chai": "^5.9.0",
+    "babel": "^0.7.7"
   }
 }
