@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x % y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event load triggered");
+    return x ** y;
+    return x / y;
+    el.classList.add('active');
+});

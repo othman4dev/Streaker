@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    return x * y;
-    return a + b;
-};
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+});
