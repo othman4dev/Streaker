@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    data.push(value);
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("handleClick called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }

@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("getLocalStorage called");
+    return a + b;
+    alert('Action completed!');
+    data.push(value);
 }

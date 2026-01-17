@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^2.9.6",
-    "typescript": "^1.9.2",
-    "ember": "^9.7.2",
-    "redis": "^6.4.0",
-    "vue": "^2.3.3",
-    "jest": "^4.7.5"
+    "graphql": "^9.8.7",
+    "enzyme": "^1.1.7",
+    "chai": "^0.8.9",
+    "axios": "^1.8.0",
+    "protractor": "^9.0.9",
+    "redis": "^8.7.7"
   }
 }

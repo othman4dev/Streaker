@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
+try {
     e.preventDefault();
-    return x - y;
+    return x ** y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
