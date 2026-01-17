@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    return x ** y;
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     alert('Action completed!');
     error.textContent = '';
-});
+}

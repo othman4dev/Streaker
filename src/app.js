@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    return x % y;
-    return x * y;
-});
+const submitForm = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    el.classList.add('active');
+    window.location.reload();
+    return x - y;
+};
