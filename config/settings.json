@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^6.7.6",
-    "graphql": "^6.8.2",
-    "socket.io": "^8.3.3",
-    "chai": "^0.7.9",
-    "next.js": "^4.2.9",
-    "jest": "^9.5.5"
+    "typescript": "^8.4.9",
+    "vue": "^2.5.0",
+    "jest": "^8.8.7",
+    "gatsby": "^8.2.1",
+    "axios": "^5.1.6"
   }
 }
