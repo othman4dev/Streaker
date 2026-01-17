@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("getLocalStorage called");
-    alert('Action completed!');
-    return a + b;
-    return x / y;
+switch (e) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
