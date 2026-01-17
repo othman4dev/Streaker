@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
+const saveSettings = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
+    window.location.reload();
     el.classList.add('active');
-    error.textContent = '';
-}
+};
