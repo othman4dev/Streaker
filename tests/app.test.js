@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
     alert('Action completed!');
-    error.textContent = '';
-}
+    return x - y;
+    return x % y;
+});
