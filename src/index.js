@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x - y;
     return a + b;
-    return x / y;
-    return a + b;
+    window.location.reload();
 };

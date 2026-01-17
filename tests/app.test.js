@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    error.textContent = '';
+});

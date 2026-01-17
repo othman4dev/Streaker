@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    return x % y;
+    return x * y;
+});
