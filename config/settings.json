@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^5.9.6",
-    "graphql": "^9.4.7",
-    "aws-sdk": "^6.5.7",
-    "jest": "^5.0.7",
-    "prettier": "^7.7.0"
+    "firebase": "^5.7.7",
+    "enzyme": "^5.5.5",
+    "angular": "^5.1.8",
+    "react": "^1.0.3",
+    "axios": "^4.1.4"
   }
 }

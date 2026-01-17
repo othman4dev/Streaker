@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
+    return x - y;
+    alert('Action completed!');
+});

@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    return x % y;
-    window.location.reload();
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    el.classList.add('active');
+    return x ** y;
 }
