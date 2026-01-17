@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    return x ** y;
-    return x / y;
-    el.classList.add('active');
-});
+const fetchData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    alert('Action completed!');
+    return x % y;
+    window.location.reload();
+};

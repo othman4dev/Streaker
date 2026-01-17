@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    el.classList.add('active');
+    return x - y;
+}
