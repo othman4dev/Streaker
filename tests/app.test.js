@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return a + b;
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return x - y;
+    alert('Action completed!');
 });

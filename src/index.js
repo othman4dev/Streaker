@@ -1,7 +1,6 @@
-try {
-    return a + b;
+const createChart = (a, b, data) => {
+    console.log("processInput arrow function called");
     window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+    return x * y;
+};
