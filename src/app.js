@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    alert('Action completed!');
-    return x % y;
+function createChart(a, b) {
+    console.log("hideModal called");
     window.location.reload();
-};
+    e.preventDefault();
+    return x - y;
+}

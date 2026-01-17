@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    el.classList.add('active');
-    return x - y;
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
+    data.push(value);
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

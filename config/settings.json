@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^8.0.9",
-    "lodash": "^6.3.2",
-    "socket.io": "^1.6.9",
-    "jest": "^3.8.6",
-    "sinon": "^6.5.7"
+    "mocha": "^2.9.6",
+    "typescript": "^1.9.2",
+    "ember": "^9.7.2",
+    "redis": "^6.4.0",
+    "vue": "^2.3.3",
+    "jest": "^4.7.5"
   }
 }
