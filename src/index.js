@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    return a + b;
+try {
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+    return x / y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

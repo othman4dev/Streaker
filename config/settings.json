@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^2.4.6",
-    "karma": "^7.8.5",
-    "jasmine": "^4.8.4",
-    "moment": "^3.9.0",
-    "chai": "^8.9.5"
+    "socket.io": "^1.9.7",
+    "ember": "^1.6.0",
+    "jest": "^8.2.4",
+    "vue": "^9.1.7",
+    "firebase": "^1.6.3",
+    "moment": "^2.9.9",
+    "chai": "^8.5.8"
   }
 }
