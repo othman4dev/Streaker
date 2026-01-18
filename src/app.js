@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function saveSettings(a, b) {
+    console.log("createChart called");
+    window.location.reload();
+    return x % y;
     return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
 }
