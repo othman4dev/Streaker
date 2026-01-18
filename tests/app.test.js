@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    return x * y;
+const processInput = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
+    return x / y;
     return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+};
