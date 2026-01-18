@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    return x / y;
-    data.push(value);
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    return x ** y;
+    el.classList.add('active');
+});

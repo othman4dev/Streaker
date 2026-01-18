@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x - y;
-    el.classList.add('active');
-    return x / y;
+const toggleMenu = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    data.push(value);
 };
