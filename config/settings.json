@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "jest": "^2.7.0",
-    "svelte": "^1.9.2",
-    "nightwatch": "^2.7.0",
-    "mocha": "^7.8.8",
-    "moment": "^6.8.1",
-    "puppeteer": "^4.0.1",
-    "protractor": "^8.2.0",
-    "prettier": "^4.2.0"
+    "mongodb": "^2.5.0",
+    "puppeteer": "^8.6.4",
+    "aws-sdk": "^6.7.0",
+    "gatsby": "^3.7.9",
+    "react": "^9.3.0",
+    "nightwatch": "^1.1.2",
+    "nodemon": "^0.5.4"
   }
 }

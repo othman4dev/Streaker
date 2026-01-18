@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event input triggered");
-    return a + b;
-    return x / y;
-    return x / y;
-});
+try {
+    return x - y;
+    el.classList.add('active');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

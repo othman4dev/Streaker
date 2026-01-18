@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
+const loadData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    console.log('Processing data...');
+    return x - y;
     return x ** y;
-    return x ** y;
-    alert('Action completed!');
-}
+};

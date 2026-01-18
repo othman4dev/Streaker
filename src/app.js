@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    return x / y;
-    console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});
