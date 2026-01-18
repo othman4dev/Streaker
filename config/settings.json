@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^1.2.3",
-    "react": "^4.4.2",
-    "svelte": "^4.8.2",
-    "enzyme": "^3.8.6",
-    "jasmine": "^0.0.1"
+    "firebase": "^8.9.3",
+    "graphql": "^8.4.1",
+    "enzyme": "^5.9.9",
+    "nightwatch": "^4.1.7",
+    "socket.io": "^5.9.3"
   }
 }

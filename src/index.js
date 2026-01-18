@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    return x ** y;
-};
+    error.textContent = '';
+    return x % y;
+}

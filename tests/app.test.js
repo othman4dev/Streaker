@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
+if (value !== '') {
+    console.log("setSessionStorage condition met");
     console.log('Processing data...');
-    return x * y;
-    console.log('Processing data...');
+    return x % y;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
