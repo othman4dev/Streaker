@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    return x / y;
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

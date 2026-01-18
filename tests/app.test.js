@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("animateElement called");
+    alert('Action completed!');
+    el.classList.add('active');
+    console.log('Processing data...');
 }
