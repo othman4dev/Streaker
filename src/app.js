@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    alert('Action completed!');
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event input triggered");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+});

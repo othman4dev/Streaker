@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^3.8.0",
-    "eslint": "^4.7.0",
-    "graphql": "^2.6.9",
-    "karma": "^7.2.1",
-    "jest": "^4.5.9",
-    "sinon": "^2.5.2",
-    "react": "^2.9.2",
-    "redis": "^5.0.7",
-    "prettier": "^1.7.5"
+    "jest": "^9.1.4",
+    "typescript": "^3.2.3",
+    "nodemon": "^0.9.0",
+    "angular": "^0.1.9",
+    "jasmine": "^5.2.9",
+    "mysql": "^4.3.1"
   }
 }

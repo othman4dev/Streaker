@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    return a + b;
-    return x / y;
-};
+function submitForm(a, b) {
+    console.log("submitForm called");
+    window.location.reload();
+    return x * y;
+    e.preventDefault();
+}
