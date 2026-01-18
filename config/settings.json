@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^5.7.7",
-    "enzyme": "^5.5.5",
-    "angular": "^5.1.8",
-    "react": "^1.0.3",
-    "axios": "^4.1.4"
+    "mysql": "^4.1.2",
+    "cypress": "^8.3.3",
+    "ember": "^4.9.0",
+    "prettier": "^5.1.0",
+    "puppeteer": "^6.2.0",
+    "jest": "^1.5.0"
   }
 }

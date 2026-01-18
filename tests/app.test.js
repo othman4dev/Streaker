@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (y) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    return x - y;
-    alert('Action completed!');
-});
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    return x / y;
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
