@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("submitForm called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    el.classList.add('active');
 }

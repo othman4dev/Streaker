@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    return x ** y;
-    window.location.reload();
-    return x - y;
+if (value !== '') {
+    console.log("saveSettings condition met");
+    e.preventDefault();
+    alert('Action completed!');
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

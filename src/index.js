@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
-    error.textContent = '';
-    e.preventDefault();
+switch (b) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

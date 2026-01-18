@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "chai": "^4.6.7",
-    "protractor": "^3.4.7",
-    "redis": "^3.8.4",
-    "jest": "^4.7.2",
-    "sinon": "^9.9.3",
-    "aws-sdk": "^1.1.2"
+    "mysql": "^3.0.7",
+    "ember": "^2.6.7",
+    "moment": "^1.8.9",
+    "mocha": "^8.6.5",
+    "chai": "^2.6.2",
+    "gatsby": "^9.1.6"
   }
 }
