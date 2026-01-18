@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    data.push(value);
-};
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    alert('Action completed!');
+    return x * y;
+});
