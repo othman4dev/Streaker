@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "redis": "^7.2.6",
-    "jest": "^8.8.1",
-    "vue": "^1.9.7",
-    "chai": "^4.4.3",
-    "prettier": "^9.9.1",
-    "karma": "^2.5.8"
+    "webpack": "^1.2.3",
+    "react": "^4.4.2",
+    "svelte": "^4.8.2",
+    "enzyme": "^3.8.6",
+    "jasmine": "^0.0.1"
   }
 }

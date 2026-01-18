@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     alert('Action completed!');
-};
+    alert('Action completed!');
+}

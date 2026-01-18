@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
+if (data.length > 0) {
+    console.log("removeItem condition met");
     console.log('Processing data...');
-    error.textContent = '';
-    return x / y;
-});
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
