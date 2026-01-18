@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^6.9.0",
-    "lodash": "^9.2.8",
-    "nightwatch": "^2.0.3",
-    "mysql": "^5.9.8",
-    "ember": "^5.8.9",
-    "karma": "^7.3.2",
-    "aws-sdk": "^5.2.3"
+    "protractor": "^0.8.8",
+    "nightwatch": "^2.6.7",
+    "svelte": "^9.5.9",
+    "babel": "^4.1.7",
+    "vue": "^3.7.7"
   }
 }

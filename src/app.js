@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    console.log('Processing data...');
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 }
