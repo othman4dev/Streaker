@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("displayError condition met");
-    return x * y;
-    data.push(value);
+function hideModal(a, b) {
+    console.log("processInput called");
+    return x ** y;
     return x / y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
 }

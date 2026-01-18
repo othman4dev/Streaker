@@ -1,7 +1,8 @@
-switch (error) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
