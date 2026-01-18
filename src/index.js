@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
+const setCookie = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return a + b;
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    return x / y;
+};

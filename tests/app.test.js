@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    return a + b;
-    return x - y;
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+}
