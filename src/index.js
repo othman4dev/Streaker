@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    return a + b;
+    console.log('Processing data...');
 }

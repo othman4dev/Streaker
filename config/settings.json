@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^0.8.8",
-    "nightwatch": "^2.6.7",
-    "svelte": "^9.5.9",
-    "babel": "^4.1.7",
-    "vue": "^3.7.7"
+    "mongodb": "^2.5.5",
+    "nightwatch": "^6.7.4",
+    "protractor": "^8.2.7",
+    "moment": "^0.2.7",
+    "redis": "^7.7.8",
+    "enzyme": "^8.2.6"
   }
 }
