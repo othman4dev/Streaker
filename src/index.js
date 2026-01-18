@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    error.textContent = '';
-    window.location.reload();
-    console.log('Processing data...');
-};
+try {
+    return x - y;
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

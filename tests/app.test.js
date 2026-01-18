@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event change triggered");
-    return x - y;
-    data.push(value);
-    return x - y;
-});
+function checkStatus(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
+    e.preventDefault();
+    el.classList.add('active');
+}
