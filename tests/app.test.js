@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    console.log('Processing data...');
-    return x % y;
-    window.location.reload();
+if (x === y) {
+    console.log("submitForm condition met");
+    data.push(value);
+    e.preventDefault();
+    return a + b;
 } else {
     console.log("Condition not met");
 }

@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^8.9.3",
-    "graphql": "^8.4.1",
-    "enzyme": "^5.9.9",
-    "nightwatch": "^4.1.7",
-    "socket.io": "^5.9.3"
+    "puppeteer": "^8.1.9",
+    "ember": "^9.9.9",
+    "jasmine": "^9.7.7",
+    "webpack": "^9.1.1",
+    "mysql": "^7.5.4",
+    "express": "^5.9.1",
+    "gatsby": "^7.3.4",
+    "socket.io": "^6.2.0"
   }
 }
