@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    return a + b;
-    alert('Action completed!');
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
+function setSessionStorage(a, b) {
+    console.log("createChart called");
     console.log('Processing data...');
-};
+    el.classList.add('active');
+    return a + b;
+}

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^8.6.6",
-    "eslint": "^2.2.5",
-    "axios": "^8.9.5",
-    "vue": "^3.7.6",
-    "nodemon": "^5.6.7",
-    "prettier": "^0.5.6",
-    "nightwatch": "^4.3.1",
-    "jest": "^7.5.3"
+    "chai": "^6.2.6",
+    "axios": "^0.7.3",
+    "moment": "^5.1.3",
+    "sinon": "^6.2.8",
+    "mysql": "^3.7.9",
+    "puppeteer": "^8.1.1"
   }
 }
