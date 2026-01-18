@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     return x / y;
-    error.textContent = '';
-});
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+}

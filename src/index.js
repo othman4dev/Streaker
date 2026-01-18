@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    alert('Action completed!');
-    return a + b;
-    return a + b;
+if (data.length > 0) {
+    console.log("processInput condition met");
+    return x % y;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }

@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "ember": "^1.9.3",
-    "nodemon": "^7.3.6",
-    "moment": "^5.5.7",
-    "cypress": "^5.9.1",
-    "typescript": "^0.6.1"
+    "graphql": "^4.5.8",
+    "sinon": "^5.9.4",
+    "svelte": "^5.0.0",
+    "firebase": "^0.1.8",
+    "eslint": "^3.5.4",
+    "moment": "^8.2.7",
+    "vue": "^4.9.4",
+    "lodash": "^5.5.2"
   }
 }
