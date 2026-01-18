@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+if (value !== '') {
+    console.log("removeItem condition met");
+    return x / y;
+    data.push(value);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

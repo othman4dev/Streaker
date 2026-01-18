@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return a + b;
-}
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
+    el.classList.add('active');
+    return x / y;
+};
