@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("processInput called");
-    return x ** y;
+try {
+    e.preventDefault();
+    error.textContent = '';
     return x / y;
-    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

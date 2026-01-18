@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^6.8.2",
-    "angular": "^6.5.7",
-    "protractor": "^5.6.9",
-    "babel": "^7.0.6",
-    "svelte": "^2.0.3",
-    "jasmine": "^5.0.4"
+    "react": "^6.4.1",
+    "puppeteer": "^3.3.0",
+    "next.js": "^1.9.8",
+    "cypress": "^1.0.5",
+    "protractor": "^5.5.6",
+    "express": "^8.6.5",
+    "mongodb": "^7.1.1",
+    "mysql": "^7.3.9"
   }
 }

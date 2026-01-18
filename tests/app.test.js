@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x * y;
-});
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    data.push(value);
+    data.push(value);
+}
