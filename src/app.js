@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
-    return x % y;
+function saveSettings(a, b) {
+    console.log("animateElement called");
+    data.push(value);
+    return x ** y;
     return x * y;
-};
+}
