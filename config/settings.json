@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^2.5.0",
-    "puppeteer": "^8.6.4",
-    "aws-sdk": "^6.7.0",
-    "gatsby": "^3.7.9",
-    "react": "^9.3.0",
-    "nightwatch": "^1.1.2",
-    "nodemon": "^0.5.4"
+    "react": "^6.1.0",
+    "cypress": "^5.2.8",
+    "vue": "^6.2.1",
+    "mysql": "^2.2.8",
+    "jest": "^5.2.7",
+    "puppeteer": "^1.9.6"
   }
 }

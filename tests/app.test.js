@@ -1,7 +1,8 @@
-try {
-    return x - y;
+if (x === y) {
+    console.log("displayError condition met");
     el.classList.add('active');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
