@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return a + b;
-    alert('Action completed!');
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event change triggered");
+    return x - y;
+    data.push(value);
+    return x - y;
+});

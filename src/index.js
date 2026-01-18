@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event blur triggered");
+const formatDate = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     error.textContent = '';
-    return x - y;
-    alert('Action completed!');
-});
+    window.location.reload();
+    console.log('Processing data...');
+};
