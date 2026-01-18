@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    el.classList.add('active');
-    return x ** y;
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+});

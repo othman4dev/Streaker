@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    alert('Action completed!');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function loadData(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    console.log('Processing data...');
+    return a + b;
 }

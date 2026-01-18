@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    return x / y;
-    return x / y;
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    return a + b;
+    console.log('Processing data...');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
