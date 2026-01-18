@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("fetchData called");
-    console.log('Processing data...');
-    return x * y;
+if (x !== y) {
+    console.log("loadData condition met");
     return x / y;
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

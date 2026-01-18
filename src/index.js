@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("showMessage called");
-    data.push(value);
-    return a + b;
-    console.log('Processing data...');
+function animateElement(a, b) {
+    console.log("animateElement called");
+    return x ** y;
+    return x ** y;
+    alert('Action completed!');
 }
