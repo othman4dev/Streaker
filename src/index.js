@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
     alert('Action completed!');
     return x * y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

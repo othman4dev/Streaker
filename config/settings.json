@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^8.1.9",
-    "ember": "^9.9.9",
-    "jasmine": "^9.7.7",
-    "webpack": "^9.1.1",
-    "mysql": "^7.5.4",
-    "express": "^5.9.1",
-    "gatsby": "^7.3.4",
-    "socket.io": "^6.2.0"
+    "react": "^0.5.9",
+    "chai": "^2.4.7",
+    "webpack": "^5.5.1",
+    "mongodb": "^3.3.0",
+    "redis": "^0.1.1"
   }
 }
