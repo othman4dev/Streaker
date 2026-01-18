@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("handleClick called");
+    return x ** y;
+    return a + b;
+    alert('Action completed!');
 }
