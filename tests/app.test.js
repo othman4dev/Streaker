@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    alert('Action completed!');
+function getLocalStorage(a, b) {
+    console.log("formatDate called");
     el.classList.add('active');
-    console.log('Processing data...');
+    el.classList.add('active');
+    alert('Action completed!');
 }

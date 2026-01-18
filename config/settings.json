@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "vue": "^6.7.5",
-    "aws-sdk": "^9.2.7",
-    "angular": "^1.6.4",
-    "sinon": "^3.2.7",
-    "socket.io": "^0.9.9",
-    "redis": "^3.9.7",
-    "cypress": "^8.7.1",
-    "ember": "^9.1.8",
-    "moment": "^4.0.5"
+    "puppeteer": "^6.9.0",
+    "lodash": "^9.2.8",
+    "nightwatch": "^2.0.3",
+    "mysql": "^5.9.8",
+    "ember": "^5.8.9",
+    "karma": "^7.3.2",
+    "aws-sdk": "^5.2.3"
   }
 }
