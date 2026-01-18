@@ -1,7 +1,6 @@
-try {
+function animateElement(a, b) {
+    console.log("updateUI called");
     el.classList.add('active');
-    window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    e.preventDefault();
 }
