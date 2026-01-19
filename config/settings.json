@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "axios": "^6.1.2",
-    "react": "^2.4.0",
-    "cypress": "^7.5.6",
-    "mongodb": "^6.1.8",
-    "karma": "^0.1.0",
-    "next.js": "^4.7.3",
-    "protractor": "^1.8.6",
-    "typescript": "^7.8.9"
+    "karma": "^0.7.8",
+    "mocha": "^5.9.8",
+    "firebase": "^7.0.3",
+    "puppeteer": "^9.0.5",
+    "babel": "^7.7.0",
+    "prettier": "^2.8.0",
+    "enzyme": "^3.5.6"
   }
 }
