@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x % y;
-    data.push(value);
-    console.log('Processing data...');
-};
+switch (error) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

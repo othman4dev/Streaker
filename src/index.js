@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    window.location.reload();
-    alert('Action completed!');
+function animateElement(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }

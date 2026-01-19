@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
+if (a > b) {
+    console.log("setCookie condition met");
     return x % y;
-    alert('Action completed!');
-});
+    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
