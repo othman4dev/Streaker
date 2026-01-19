@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
-    return x * y;
-    el.classList.add('active');
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 });

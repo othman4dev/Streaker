@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("processInput called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }
