@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("showMessage called");
-    el.classList.add('active');
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-}
+const processInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
+    window.location.reload();
+    return x / y;
+};

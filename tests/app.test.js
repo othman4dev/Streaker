@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    return x * y;
-    return x * y;
-    data.push(value);
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    return x ** y;
+    e.preventDefault();
+});

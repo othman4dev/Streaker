@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^4.7.1",
-    "ember": "^5.4.3",
-    "mongodb": "^3.1.0",
-    "mysql": "^2.3.7",
-    "protractor": "^4.1.4",
-    "chai": "^3.3.1",
-    "graphql": "^3.7.5",
-    "react": "^4.8.3"
+    "mocha": "^0.9.9",
+    "cypress": "^0.4.8",
+    "firebase": "^5.9.9",
+    "jest": "^8.7.8",
+    "karma": "^1.9.7"
   }
 }
