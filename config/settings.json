@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^3.0.7",
-    "ember": "^2.6.7",
-    "moment": "^1.8.9",
-    "mocha": "^8.6.5",
-    "chai": "^2.6.2",
-    "gatsby": "^9.1.6"
+    "puppeteer": "^4.7.1",
+    "ember": "^5.4.3",
+    "mongodb": "^3.1.0",
+    "mysql": "^2.3.7",
+    "protractor": "^4.1.4",
+    "chai": "^3.3.1",
+    "graphql": "^3.7.5",
+    "react": "^4.8.3"
   }
 }

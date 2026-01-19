@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    e.preventDefault();
-    alert('Action completed!');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("animateElement called");
+    return x * y;
+    return x * y;
+    data.push(value);
 }

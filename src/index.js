@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("showMessage called");
+    el.classList.add('active');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }
