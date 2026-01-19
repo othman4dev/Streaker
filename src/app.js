@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    error.textContent = '';
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    return x * y;
+    e.preventDefault();
+    e.preventDefault();
+});

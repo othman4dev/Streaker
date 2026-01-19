@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^1.6.9",
-    "mysql": "^2.6.9",
-    "next.js": "^3.7.0",
-    "moment": "^7.3.6",
-    "mongodb": "^5.8.9"
+    "karma": "^5.4.5",
+    "react": "^2.7.1",
+    "axios": "^2.1.2",
+    "angular": "^4.8.2",
+    "ember": "^9.1.7",
+    "chai": "^2.6.4"
   }
 }
