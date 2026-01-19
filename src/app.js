@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    return x * y;
-    e.preventDefault();
-    e.preventDefault();
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    data.push(value);
+    data.push(value);
+}
