@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x - y;
-});
+try {
+    return x * y;
+    console.log('Processing data...');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
