@@ -1,7 +1,7 @@
 try {
-    return x * y;
-    console.log('Processing data...');
     return a + b;
+    return x % y;
+    e.preventDefault();
 } catch (error) {
     console.error("Error:", error);
 }

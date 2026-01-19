@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
-    return x * y;
-    el.classList.add('active');
-};
+if (a > b) {
+    console.log("saveSettings condition met");
+    return x / y;
+    error.textContent = '';
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x - y;
-    e.preventDefault();
-    alert('Action completed!');
-};
+if (value !== '') {
+    console.log("handleClick condition met");
+    window.location.reload();
+    return x ** y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
