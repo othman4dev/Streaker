@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
+if (x === y) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
     return x % y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

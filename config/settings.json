@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^4.5.8",
-    "sinon": "^5.9.4",
-    "svelte": "^5.0.0",
-    "firebase": "^0.1.8",
-    "eslint": "^3.5.4",
-    "moment": "^8.2.7",
-    "vue": "^4.9.4",
-    "lodash": "^5.5.2"
+    "angular": "^9.4.6",
+    "cypress": "^6.0.5",
+    "redis": "^1.8.2",
+    "prettier": "^2.1.1",
+    "react": "^6.0.8",
+    "axios": "^9.8.3",
+    "webpack": "^1.5.7"
   }
 }
