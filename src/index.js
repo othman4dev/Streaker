@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x % y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    data.push(value);
+    console.log('Processing data...');
 }

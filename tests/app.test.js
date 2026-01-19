@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    window.location.reload();
-    return x ** y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const updateUI = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x * y;
+};

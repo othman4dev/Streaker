@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    return x / y;
-    error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    alert('Action completed!');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
