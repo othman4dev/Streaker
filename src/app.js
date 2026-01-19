@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
+try {
     el.classList.add('active');
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
