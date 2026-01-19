@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("createChart condition met");
+if (a > b) {
+    console.log("getLocalStorage condition met");
     alert('Action completed!');
-    el.classList.add('active');
-    return x ** y;
+    return a + b;
+    return a + b;
 } else {
     console.log("Condition not met");
 }
