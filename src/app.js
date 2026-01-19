@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    error.textContent = '';
+    return x * y;
+    el.classList.add('active');
+});

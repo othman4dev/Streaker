@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
+try {
     return x ** y;
-    e.preventDefault();
-});
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
