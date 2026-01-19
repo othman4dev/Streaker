@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^3.7.1",
-    "aws-sdk": "^4.1.4",
-    "socket.io": "^4.2.7",
-    "redis": "^1.1.0",
-    "express": "^7.0.8",
-    "mysql": "^2.9.2"
+    "jest": "^0.5.9",
+    "redis": "^2.8.3",
+    "moment": "^4.6.8",
+    "chai": "^7.4.3",
+    "nodemon": "^0.7.9",
+    "typescript": "^1.1.3"
   }
 }

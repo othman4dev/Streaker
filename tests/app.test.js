@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    alert('Action completed!');
-    el.classList.add('active');
-});
+switch (b) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
