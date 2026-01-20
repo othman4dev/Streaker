@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    data.push(value);
-    e.preventDefault();
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    return x * y;
+    console.log('Processing data...');
+};
