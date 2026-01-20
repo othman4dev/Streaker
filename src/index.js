@@ -1,7 +1,6 @@
-try {
+const validateInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    el.classList.add('active');
+};
