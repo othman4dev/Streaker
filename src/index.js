@@ -1,7 +1,8 @@
-try {
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    el.classList.add('active');
     window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
