@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+if (value !== '') {
+    console.log("displayError condition met");
+    return a + b;
     window.location.reload();
-    return x ** y;
-    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

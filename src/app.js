@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("fetchData arrow function called");
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
     alert('Action completed!');
-    e.preventDefault();
-    data.push(value);
-};
+    console.log('Processing data...');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

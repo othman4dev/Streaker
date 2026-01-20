@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "redis": "^2.1.6",
-    "eslint": "^9.3.7",
-    "aws-sdk": "^6.5.2",
-    "mocha": "^9.3.6",
-    "enzyme": "^1.8.1",
-    "protractor": "^2.9.0"
+    "nodemon": "^4.6.4",
+    "jest": "^0.7.8",
+    "react": "^1.7.2",
+    "jasmine": "^4.5.3",
+    "svelte": "^0.6.3",
+    "mocha": "^8.7.0",
+    "prettier": "^2.1.4"
   }
 }
