@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+try {
     data.push(value);
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
