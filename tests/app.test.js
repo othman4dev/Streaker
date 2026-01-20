@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    return x * y;
+const removeItem = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    e.preventDefault();
     return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};

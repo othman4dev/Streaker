@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    alert('Action completed!');
-    return x % y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

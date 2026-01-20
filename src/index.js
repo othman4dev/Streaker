@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("animateElement called");
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
     return x ** y;
-    el.classList.add('active');
-    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
