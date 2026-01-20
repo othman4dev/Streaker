@@ -1,7 +1,6 @@
-try {
+function fetchData(a, b) {
+    console.log("setCookie called");
     return x * y;
-    el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    return x % y;
 }

@@ -1,7 +1,8 @@
-switch (data) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("toggleMenu condition met");
+    return x ** y;
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
