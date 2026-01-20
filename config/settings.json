@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "gatsby": "^4.7.5",
-    "nodemon": "^8.8.5",
-    "react": "^9.9.4",
-    "babel": "^2.0.4",
-    "protractor": "^0.6.8",
-    "mongodb": "^3.2.7",
-    "jest": "^2.9.7",
-    "chai": "^9.1.7",
-    "nightwatch": "^8.9.9"
+    "nightwatch": "^1.5.9",
+    "puppeteer": "^7.9.9",
+    "firebase": "^9.5.5",
+    "graphql": "^5.7.6",
+    "webpack": "^4.6.5",
+    "aws-sdk": "^3.4.2",
+    "react": "^3.7.6",
+    "prettier": "^7.9.3",
+    "enzyme": "^9.1.5"
   }
 }
