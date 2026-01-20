@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "lodash": "^9.5.6",
-    "eslint": "^5.6.2",
-    "express": "^3.9.9",
-    "jest": "^4.6.1",
-    "protractor": "^4.0.2",
-    "vue": "^0.1.6",
-    "jasmine": "^8.0.6"
+    "next.js": "^4.0.8",
+    "enzyme": "^4.6.0",
+    "cypress": "^7.9.7",
+    "typescript": "^9.3.5"
   }
 }
