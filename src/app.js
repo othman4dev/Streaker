@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
+function animateElement(a, b) {
+    console.log("processInput called");
+    window.location.reload();
+    data.push(value);
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} else {
-    console.log("Condition not met");
 }

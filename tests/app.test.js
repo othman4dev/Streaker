@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("saveSettings called");
-    return x % y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    return x / y;
+    return x - y;
+    alert('Action completed!');
 }

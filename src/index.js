@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    alert('Action completed!');
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    e.preventDefault();
+    return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
