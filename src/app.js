@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    data.push(value);
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});

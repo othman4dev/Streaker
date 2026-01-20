@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    el.classList.add('active');
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event change triggered");
+    return a + b;
     window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+});
