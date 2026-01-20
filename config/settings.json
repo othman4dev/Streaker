@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^1.5.5",
-    "gatsby": "^2.3.0",
-    "mocha": "^4.5.3",
-    "moment": "^0.0.2",
-    "react": "^0.0.7",
-    "chai": "^5.5.3",
-    "cypress": "^5.3.7"
+    "firebase": "^7.1.0",
+    "socket.io": "^6.1.6",
+    "jest": "^7.9.4",
+    "aws-sdk": "^6.9.6"
   }
 }

@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    data.push(value);
+    e.preventDefault();
     return x / y;
-    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

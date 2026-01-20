@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    error.textContent = '';
-    return x % y;
+function validateInput(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
     window.location.reload();
-};
+    return x * y;
+}
