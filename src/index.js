@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("animateElement called");
+if (x !== y) {
+    console.log("updateUI condition met");
     error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

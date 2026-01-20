@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^4.6.4",
-    "jest": "^0.7.8",
-    "react": "^1.7.2",
-    "jasmine": "^4.5.3",
-    "svelte": "^0.6.3",
-    "mocha": "^8.7.0",
-    "prettier": "^2.1.4"
+    "angular": "^1.0.8",
+    "graphql": "^7.9.0",
+    "puppeteer": "^8.2.4",
+    "vue": "^5.7.0",
+    "moment": "^0.0.8",
+    "next.js": "^4.6.4",
+    "jest": "^0.1.4",
+    "nodemon": "^2.1.5"
   }
 }

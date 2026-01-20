@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    return x % y;
+    return x - y;
+    e.preventDefault();
+});

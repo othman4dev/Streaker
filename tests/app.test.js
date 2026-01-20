@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return a + b;
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x - y;
+};
