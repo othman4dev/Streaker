@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("processInput condition met");
+if (window.innerWidth > 500) {
+    console.log("createChart condition met");
+    return x * y;
     return a + b;
-    console.log('Processing data...');
-    error.textContent = '';
+    return x * y;
 } else {
     console.log("Condition not met");
 }

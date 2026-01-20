@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+function hideModal(a, b) {
+    console.log("animateElement called");
+    return x ** y;
+    el.classList.add('active');
+    e.preventDefault();
+}
