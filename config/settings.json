@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "webpack": "^7.5.5",
-    "react": "^6.5.0",
-    "prettier": "^6.9.6",
-    "redis": "^9.3.3",
-    "babel": "^1.9.4"
+    "gatsby": "^4.7.5",
+    "nodemon": "^8.8.5",
+    "react": "^9.9.4",
+    "babel": "^2.0.4",
+    "protractor": "^0.6.8",
+    "mongodb": "^3.2.7",
+    "jest": "^2.9.7",
+    "chai": "^9.1.7",
+    "nightwatch": "^8.9.9"
   }
 }
