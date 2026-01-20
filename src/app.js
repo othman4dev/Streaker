@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("handleClick called");
-    return x % y;
-    return x / y;
-    return a + b;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    el.classList.add('active');
+    console.log('Processing data...');
 }

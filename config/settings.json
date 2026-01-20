@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "graphql": "^2.3.0",
-    "lodash": "^4.4.8",
-    "socket.io": "^1.7.9",
-    "puppeteer": "^8.8.1",
-    "enzyme": "^2.5.8",
-    "angular": "^7.1.6",
-    "ember": "^2.3.2"
+    "angular": "^2.5.8",
+    "vue": "^9.7.6",
+    "nodemon": "^7.1.2",
+    "chai": "^8.4.2",
+    "protractor": "^0.6.6",
+    "karma": "^9.2.1",
+    "redis": "^8.0.6",
+    "moment": "^9.3.2",
+    "gatsby": "^7.5.1"
   }
 }

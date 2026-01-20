@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    data.push(value);
-    e.preventDefault();
-    return x - y;
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
+    window.location.reload();
+    return a + b;
+    return a + b;
 } else {
     console.log("Condition not met");
 }
