@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    el.classList.add('active');
-    el.classList.add('active');
-}
+const submitForm = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x - y;
+    return x ** y;
+    return x / y;
+};

@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^2.8.0",
-    "prettier": "^6.4.9",
-    "ember": "^9.9.8",
-    "puppeteer": "^3.4.7",
-    "graphql": "^3.6.5",
-    "karma": "^1.9.8",
-    "angular": "^5.5.9"
+    "jasmine": "^0.2.1",
+    "sinon": "^9.4.2",
+    "express": "^9.6.4",
+    "jest": "^8.7.2",
+    "chai": "^4.3.3"
   }
 }

@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
+    return x * y;
+    return x ** y;
+});
