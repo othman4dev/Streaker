@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x * y;
-    e.preventDefault();
-    el.classList.add('active');
+const processInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 };
