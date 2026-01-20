@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("setSessionStorage called");
-    return x ** y;
-    alert('Action completed!');
-    return x % y;
+switch (b) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

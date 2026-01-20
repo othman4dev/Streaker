@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    data.push(value);
-    return x ** y;
-});
+switch (x) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,7 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
+    alert('Action completed!');
     return a + b;
 } else {
     console.log("Condition not met");
