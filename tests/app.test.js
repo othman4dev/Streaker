@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+switch (b) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

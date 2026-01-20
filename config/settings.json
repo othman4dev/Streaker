@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^6.4.7",
-    "babel": "^1.4.8",
-    "prettier": "^8.7.6",
-    "nodemon": "^8.9.7",
-    "gatsby": "^7.7.4",
-    "socket.io": "^5.7.1",
-    "firebase": "^7.3.5"
+    "typescript": "^6.8.1",
+    "mysql": "^6.3.2",
+    "jest": "^2.7.9",
+    "svelte": "^4.4.0",
+    "react": "^7.3.8"
   }
 }
