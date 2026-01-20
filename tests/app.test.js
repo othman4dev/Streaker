@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("showMessage called");
+const loadData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
+    window.location.reload();
     return x % y;
-    alert('Action completed!');
-    return x * y;
-}
+};

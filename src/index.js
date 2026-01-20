@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("validateInput called");
+if (a > b) {
+    console.log("toggleMenu condition met");
+    return x - y;
+    console.log('Processing data...');
     return x ** y;
-    error.textContent = '';
-    return x % y;
+} else {
+    console.log("Condition not met");
 }
