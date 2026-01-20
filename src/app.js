@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    data.push(value);
+};

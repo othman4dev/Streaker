@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x - y;
+    el.classList.add('active');
 }
