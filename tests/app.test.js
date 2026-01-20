@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    return x * y;
-    return x ** y;
-});
+try {
+    return x - y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

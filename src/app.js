@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    return x / y;
-    return x * y;
+const createChart = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
+    console.log('Processing data...');
+    alert('Action completed!');
 };
