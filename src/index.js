@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
-    return a + b;
-    error.textContent = '';
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    el.classList.add('active');
+    el.classList.add('active');
+}

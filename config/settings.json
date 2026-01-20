@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^0.1.3",
-    "cypress": "^3.7.0",
-    "redis": "^5.1.9",
-    "svelte": "^1.5.4",
-    "sinon": "^1.9.6",
-    "mongodb": "^4.5.9",
-    "react": "^8.5.7",
-    "socket.io": "^6.1.6"
+    "firebase": "^2.8.0",
+    "prettier": "^6.4.9",
+    "ember": "^9.9.8",
+    "puppeteer": "^3.4.7",
+    "graphql": "^3.6.5",
+    "karma": "^1.9.8",
+    "angular": "^5.5.9"
   }
 }
