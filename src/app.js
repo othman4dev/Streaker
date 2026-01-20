@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("loadData called");
+    return x % y;
+    return x * y;
+    data.push(value);
 }
