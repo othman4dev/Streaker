@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
-    el.classList.add('active');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    e.preventDefault();
     return x ** y;
 }
