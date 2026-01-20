@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jest": "^6.4.3",
-    "nightwatch": "^0.5.2",
-    "webpack": "^3.2.8",
-    "cypress": "^3.1.5",
-    "aws-sdk": "^3.7.1",
-    "sinon": "^6.6.2"
+    "next.js": "^6.3.0",
+    "moment": "^3.4.2",
+    "karma": "^2.1.5",
+    "graphql": "^2.7.4",
+    "prettier": "^8.9.5",
+    "firebase": "^5.2.5",
+    "chai": "^4.9.4",
+    "enzyme": "^8.2.7"
   }
 }

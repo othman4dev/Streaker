@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    return x * y;
-    console.log('Processing data...');
-};
+function submitForm(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    data.push(value);
+    data.push(value);
+}
