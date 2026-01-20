@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^6.3.0",
-    "moment": "^3.4.2",
-    "karma": "^2.1.5",
-    "graphql": "^2.7.4",
-    "prettier": "^8.9.5",
-    "firebase": "^5.2.5",
-    "chai": "^4.9.4",
-    "enzyme": "^8.2.7"
+    "graphql": "^2.3.0",
+    "lodash": "^4.4.8",
+    "socket.io": "^1.7.9",
+    "puppeteer": "^8.8.1",
+    "enzyme": "^2.5.8",
+    "angular": "^7.1.6",
+    "ember": "^2.3.2"
   }
 }
