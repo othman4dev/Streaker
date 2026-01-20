@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return x ** y;
 }

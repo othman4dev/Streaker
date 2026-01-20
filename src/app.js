@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event keydown triggered");
+function removeItem(a, b) {
+    console.log("updateUI called");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+    return x * y;
+    return x * y;
+}
