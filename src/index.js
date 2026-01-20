@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    window.location.reload();
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+};

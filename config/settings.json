@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "angular": "^2.5.8",
-    "vue": "^9.7.6",
-    "nodemon": "^7.1.2",
-    "chai": "^8.4.2",
-    "protractor": "^0.6.6",
-    "karma": "^9.2.1",
-    "redis": "^8.0.6",
-    "moment": "^9.3.2",
-    "gatsby": "^7.5.1"
+    "svelte": "^6.9.4",
+    "angular": "^4.9.1",
+    "moment": "^3.7.7",
+    "enzyme": "^7.5.7",
+    "mysql": "^5.0.6",
+    "nodemon": "^5.8.1"
   }
 }

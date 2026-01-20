@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    el.classList.add('active');
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

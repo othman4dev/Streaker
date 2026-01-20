@@ -1,7 +1,6 @@
-try {
-    return x / y;
+function validateInput(a, b) {
+    console.log("saveSettings called");
     return x % y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    return x / y;
 }
