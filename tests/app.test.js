@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event change triggered");
+if (a > b) {
+    console.log("saveSettings condition met");
+    e.preventDefault();
     return x / y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

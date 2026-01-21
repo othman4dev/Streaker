@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^2.8.7",
-    "mocha": "^3.2.3",
-    "ember": "^1.2.1",
-    "nodemon": "^0.1.7",
-    "axios": "^5.2.9",
-    "graphql": "^1.1.4",
-    "redis": "^9.9.5"
+    "aws-sdk": "^0.0.1",
+    "karma": "^5.2.7",
+    "jest": "^3.6.3",
+    "webpack": "^6.6.7",
+    "react": "^0.0.8",
+    "express": "^5.8.7"
   }
 }
