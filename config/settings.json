@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "babel": "^8.0.4",
-    "react": "^0.4.4",
-    "eslint": "^1.9.8",
-    "sinon": "^7.2.3",
-    "ember": "^4.4.1",
-    "protractor": "^8.7.2",
-    "cypress": "^9.8.9"
+    "cypress": "^6.3.7",
+    "nodemon": "^2.9.6",
+    "enzyme": "^6.0.3",
+    "gatsby": "^8.8.1",
+    "protractor": "^8.9.9",
+    "sinon": "^8.7.1",
+    "babel": "^6.7.8"
   }
 }
