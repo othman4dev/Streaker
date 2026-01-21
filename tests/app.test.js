@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    return x / y;
-    el.classList.add('active');
-    data.push(value);
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    window.location.reload();
 });

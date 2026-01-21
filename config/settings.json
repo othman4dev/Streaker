@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "react": "^2.7.7",
-    "socket.io": "^9.4.3",
-    "aws-sdk": "^1.6.2",
-    "jest": "^3.3.5",
-    "next.js": "^4.9.3",
-    "nightwatch": "^6.4.3"
+    "enzyme": "^8.5.2",
+    "lodash": "^0.7.8",
+    "eslint": "^3.3.9",
+    "mongodb": "^1.7.1",
+    "jest": "^9.2.6",
+    "mysql": "^6.4.2",
+    "socket.io": "^9.2.1"
   }
 }
