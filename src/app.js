@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    return x % y;
-    e.preventDefault();
+try {
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    window.location.reload();
+    return x ** y;
+};
