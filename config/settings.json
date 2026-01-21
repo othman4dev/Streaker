@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^6.8.1",
-    "mysql": "^6.3.2",
-    "jest": "^2.7.9",
-    "svelte": "^4.4.0",
-    "react": "^7.3.8"
+    "react": "^3.6.6",
+    "moment": "^6.1.2",
+    "puppeteer": "^7.5.4",
+    "mongodb": "^4.5.1",
+    "socket.io": "^3.7.7",
+    "nightwatch": "^9.1.0",
+    "jasmine": "^3.8.5",
+    "gatsby": "^9.6.0"
   }
 }
