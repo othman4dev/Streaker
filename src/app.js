@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
     alert('Action completed!');
+    window.location.reload();
     console.log('Processing data...');
 });

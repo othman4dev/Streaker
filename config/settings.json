@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "react": "^7.5.0",
-    "moment": "^3.5.8",
-    "aws-sdk": "^0.3.0",
-    "redis": "^6.4.8",
-    "vue": "^6.4.4",
-    "svelte": "^7.8.2"
+    "babel": "^8.0.4",
+    "react": "^0.4.4",
+    "eslint": "^1.9.8",
+    "sinon": "^7.2.3",
+    "ember": "^4.4.1",
+    "protractor": "^8.7.2",
+    "cypress": "^9.8.9"
   }
 }
