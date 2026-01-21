@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    error.textContent = '';
-    e.preventDefault();
-});
+switch (x) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

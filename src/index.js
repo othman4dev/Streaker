@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    return x - y;
-    el.classList.add('active');
+function saveSettings(a, b) {
+    console.log("formatDate called");
+    return x * y;
     return x % y;
-});
+    data.push(value);
+}

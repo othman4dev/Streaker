@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x / y;
+    error.textContent = '';
 }
