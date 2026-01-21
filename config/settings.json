@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^0.0.1",
-    "karma": "^5.2.7",
-    "jest": "^3.6.3",
-    "webpack": "^6.6.7",
-    "react": "^0.0.8",
-    "express": "^5.8.7"
+    "react": "^2.7.7",
+    "socket.io": "^9.4.3",
+    "aws-sdk": "^1.6.2",
+    "jest": "^3.3.5",
+    "next.js": "^4.9.3",
+    "nightwatch": "^6.4.3"
   }
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    e.preventDefault();
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
     return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    data.push(value);
+});
