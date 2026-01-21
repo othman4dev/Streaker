@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
-    window.location.reload();
+if (x !== y) {
+    console.log("saveSettings condition met");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

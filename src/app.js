@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+if (a > b) {
+    console.log("updateUI condition met");
+    return x % y;
+    e.preventDefault();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
