@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x / y;
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
