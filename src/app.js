@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    e.preventDefault();
-    return a + b;
+const updateUI = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
+    return x ** y;
     return x / y;
 };

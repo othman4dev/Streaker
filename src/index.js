@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    return x - y;
-    return x * y;
+if (x === y) {
+    console.log("fetchData condition met");
     el.classList.add('active');
+    return x * y;
+    return x / y;
 } else {
     console.log("Condition not met");
 }

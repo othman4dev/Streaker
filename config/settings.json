@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "angular": "^8.5.4",
-    "firebase": "^2.3.8",
-    "svelte": "^1.1.5",
-    "eslint": "^5.5.5",
-    "moment": "^6.2.2",
-    "babel": "^7.6.7",
-    "react": "^7.8.0"
+    "eslint": "^9.2.9",
+    "angular": "^4.5.6",
+    "jasmine": "^9.7.4",
+    "webpack": "^4.8.4",
+    "babel": "^9.6.5"
   }
 }
