@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    return x ** y;
+function formatDate(a, b) {
+    console.log("loadData called");
     return x * y;
-});
+    data.push(value);
+    return x - y;
+}
