@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^5.1.8",
-    "graphql": "^6.1.6",
-    "socket.io": "^3.4.4",
-    "protractor": "^1.5.5",
-    "webpack": "^0.5.9"
+    "typescript": "^0.4.8",
+    "mocha": "^5.1.7",
+    "nodemon": "^2.8.9",
+    "mysql": "^1.5.9",
+    "socket.io": "^4.5.0",
+    "jest": "^2.8.8"
   }
 }

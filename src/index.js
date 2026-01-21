@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     el.classList.add('active');
-    return x / y;
-    return x / y;
-};
+    e.preventDefault();
+}
