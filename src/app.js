@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
-    return x * y;
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    return a + b;
     error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+});

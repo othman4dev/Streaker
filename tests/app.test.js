@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    data.push(value);
-    window.location.reload();
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
