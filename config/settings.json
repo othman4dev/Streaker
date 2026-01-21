@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "babel": "^8.9.9",
-    "moment": "^0.4.6",
-    "jest": "^2.4.7",
-    "mongodb": "^7.1.9",
-    "redis": "^7.8.2"
+    "protractor": "^4.3.1",
+    "mongodb": "^4.5.5",
+    "axios": "^1.0.4",
+    "cypress": "^3.1.3",
+    "prettier": "^1.6.7"
   }
 }
