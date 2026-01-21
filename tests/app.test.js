@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};
