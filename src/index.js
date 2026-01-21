@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
-    console.log('Processing data...');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-});
+    data.push(value);
+    alert('Action completed!');
+}

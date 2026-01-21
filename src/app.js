@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    console.log('Processing data...');
+};
