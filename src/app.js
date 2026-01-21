@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    return x ** y;
-    window.location.reload();
-};
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
+    return x % y;
+    return a + b;
+});

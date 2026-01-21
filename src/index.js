@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    window.location.reload();
-    data.push(value);
-});
+const getLocalStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    return x / y;
+    return x / y;
+};

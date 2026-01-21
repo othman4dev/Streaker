@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+if (x === y) {
+    console.log("saveSettings condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

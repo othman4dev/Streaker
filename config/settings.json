@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "redis": "^8.4.4",
-    "angular": "^4.8.6",
-    "jasmine": "^1.9.5",
-    "mongodb": "^0.6.4"
+    "cypress": "^5.1.8",
+    "graphql": "^6.1.6",
+    "socket.io": "^3.4.4",
+    "protractor": "^1.5.5",
+    "webpack": "^0.5.9"
   }
 }
