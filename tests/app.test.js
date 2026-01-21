@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event input triggered");
-    return x * y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-});
+function hideModal(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    alert('Action completed!');
+    alert('Action completed!');
+}

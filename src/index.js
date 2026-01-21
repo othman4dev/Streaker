@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event change triggered");
-    return a + b;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    return x ** y;
+    return x * y;
 });

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
     return x / y;
-});
+}
