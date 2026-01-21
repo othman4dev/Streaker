@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^9.2.9",
-    "angular": "^4.5.6",
-    "jasmine": "^9.7.4",
-    "webpack": "^4.8.4",
-    "babel": "^9.6.5"
+    "ember": "^5.1.7",
+    "karma": "^9.9.0",
+    "nightwatch": "^2.9.5",
+    "puppeteer": "^6.7.0",
+    "angular": "^1.4.2"
   }
 }

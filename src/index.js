@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    el.classList.add('active');
-    return x * y;
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    alert('Action completed!');
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+});
