@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    data.push(value);
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x - y;
+    return x * y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

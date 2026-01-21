@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    window.location.reload();
+const setSessionStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
     e.preventDefault();
-    console.log('Processing data...');
+    return a + b;
+    return x / y;
 };

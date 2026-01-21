@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^5.0.9",
-    "angular": "^8.4.8",
-    "moment": "^8.1.4",
-    "axios": "^9.4.3",
-    "mocha": "^1.0.5",
-    "typescript": "^6.8.8",
-    "redis": "^8.3.3",
-    "express": "^7.3.6"
+    "angular": "^8.5.4",
+    "firebase": "^2.3.8",
+    "svelte": "^1.1.5",
+    "eslint": "^5.5.5",
+    "moment": "^6.2.2",
+    "babel": "^7.6.7",
+    "react": "^7.8.0"
   }
 }
