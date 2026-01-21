@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    window.location.reload();
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return x / y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+});
