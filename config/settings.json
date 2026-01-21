@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "ember": "^5.1.7",
-    "karma": "^9.9.0",
-    "nightwatch": "^2.9.5",
-    "puppeteer": "^6.7.0",
-    "angular": "^1.4.2"
+    "moment": "^6.4.7",
+    "babel": "^1.4.8",
+    "prettier": "^8.7.6",
+    "nodemon": "^8.9.7",
+    "gatsby": "^7.7.4",
+    "socket.io": "^5.7.1",
+    "firebase": "^7.3.5"
   }
 }
