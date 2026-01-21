@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    data.push(value);
+    window.location.reload();
+}

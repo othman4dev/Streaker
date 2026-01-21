@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("toggleMenu called");
-    return x % y;
-    return x % y;
-    window.location.reload();
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }

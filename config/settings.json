@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^2.8.2",
-    "cypress": "^0.8.6",
-    "eslint": "^7.0.0",
-    "express": "^6.8.3",
-    "typescript": "^7.9.7",
-    "axios": "^4.7.4",
-    "sinon": "^6.6.2",
-    "mongodb": "^7.5.0"
+    "typescript": "^6.3.2",
+    "enzyme": "^5.3.9",
+    "jasmine": "^5.9.3",
+    "express": "^8.7.6",
+    "aws-sdk": "^8.8.9",
+    "protractor": "^5.1.3"
   }
 }

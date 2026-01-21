@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
+try {
+    return x % y;
     alert('Action completed!');
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
