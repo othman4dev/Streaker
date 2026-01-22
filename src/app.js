@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    return x / y;
-});
+const validateInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
+    alert('Action completed!');
+    return x - y;
+};

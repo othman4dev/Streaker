@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
     error.textContent = '';
-    return x - y;
-});
+    return x % y;
+    data.push(value);
+};
