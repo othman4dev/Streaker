@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    return x - y;
-    return x / y;
+function displayError(a, b) {
+    console.log("toggleMenu called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x * y;
 }
