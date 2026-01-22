@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    error.textContent = '';
-    return x % y;
-    data.push(value);
-};
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    e.preventDefault();
+    return x * y;
+});

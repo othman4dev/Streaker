@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^3.3.8",
-    "nodemon": "^8.0.9",
-    "typescript": "^4.7.6",
-    "cypress": "^1.5.2",
-    "svelte": "^2.2.8",
-    "aws-sdk": "^7.8.9",
-    "express": "^6.4.4"
+    "jest": "^7.6.9",
+    "cypress": "^5.8.4",
+    "protractor": "^3.7.6",
+    "babel": "^7.4.1",
+    "aws-sdk": "^1.6.8"
   }
 }

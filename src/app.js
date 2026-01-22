@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    window.location.reload();
-    alert('Action completed!');
-    return x - y;
-};
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x ** y;
+    e.preventDefault();
+}
