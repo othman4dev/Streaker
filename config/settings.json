@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^0.1.9",
-    "babel": "^4.7.5",
-    "gatsby": "^1.4.2",
-    "ember": "^1.2.4",
-    "nightwatch": "^3.5.1",
-    "webpack": "^9.1.7",
-    "protractor": "^6.9.5"
+    "eslint": "^9.4.2",
+    "moment": "^2.6.9",
+    "typescript": "^0.8.5",
+    "firebase": "^2.4.2",
+    "webpack": "^0.9.8",
+    "protractor": "^9.3.7",
+    "svelte": "^0.1.9"
   }
 }
