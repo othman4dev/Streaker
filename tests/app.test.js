@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
     window.location.reload();
-});
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
