@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    el.classList.add('active');
-    return x / y;
-};
+try {
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

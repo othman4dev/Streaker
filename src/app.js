@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x % y;
-});
+try {
+    console.log('Processing data...');
+    return x - y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
