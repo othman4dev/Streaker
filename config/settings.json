@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^9.4.2",
-    "moment": "^2.6.9",
-    "typescript": "^0.8.5",
-    "firebase": "^2.4.2",
-    "webpack": "^0.9.8",
-    "protractor": "^9.3.7",
-    "svelte": "^0.1.9"
+    "nodemon": "^4.9.7",
+    "aws-sdk": "^9.3.2",
+    "protractor": "^8.3.5",
+    "jasmine": "^2.1.0",
+    "graphql": "^7.3.9"
   }
 }
