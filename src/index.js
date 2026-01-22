@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event keydown triggered");
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event change triggered");
     console.log('Processing data...');
-    return x ** y;
+    alert('Action completed!');
     return x % y;
 });

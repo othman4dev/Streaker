@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("formatDate called");
-    return x % y;
-    return x / y;
-    return x * y;
+try {
+    window.location.reload();
+    data.push(value);
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
