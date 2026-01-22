@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^4.9.7",
-    "aws-sdk": "^9.3.2",
-    "protractor": "^8.3.5",
-    "jasmine": "^2.1.0",
-    "graphql": "^7.3.9"
+    "vue": "^3.6.1",
+    "mocha": "^0.6.6",
+    "typescript": "^3.4.3",
+    "axios": "^7.2.6",
+    "gatsby": "^6.4.2",
+    "sinon": "^6.8.1",
+    "mongodb": "^6.5.5",
+    "next.js": "^6.1.3"
   }
 }

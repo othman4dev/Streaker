@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    el.classList.add('active');
-    error.textContent = '';
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    return x - y;
+    return x - y;
+    return x ** y;
 }
