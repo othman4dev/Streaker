@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x % y;
-});
+function displayError(a, b) {
+    console.log("processInput called");
+    window.location.reload();
+    el.classList.add('active');
+    return x - y;
+}

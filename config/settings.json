@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "express": "^4.5.4",
-    "gatsby": "^8.2.0",
-    "typescript": "^2.5.7",
-    "mocha": "^6.1.3"
+    "next.js": "^1.2.5",
+    "gatsby": "^7.9.3",
+    "angular": "^6.0.9",
+    "typescript": "^4.7.7",
+    "sinon": "^8.7.2",
+    "mocha": "^4.8.2",
+    "jest": "^6.4.4",
+    "protractor": "^8.0.4"
   }
 }

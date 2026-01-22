@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    data.push(value);
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event focus triggered");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    return x / y;
+});
