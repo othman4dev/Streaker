@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("displayError arrow function called");
-    window.location.reload();
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    return x / y;
     return x - y;
-};
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
