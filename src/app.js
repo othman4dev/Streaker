@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    return x - y;
+    return x / y;
 }
