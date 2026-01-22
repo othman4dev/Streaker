@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    return x ** y;
     return x % y;
-    error.textContent = '';
-}
+});

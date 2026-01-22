@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^9.2.3",
-    "cypress": "^5.6.7",
-    "enzyme": "^7.0.9",
-    "mongodb": "^8.1.7",
-    "next.js": "^1.9.7",
-    "sinon": "^9.8.5"
+    "redis": "^4.9.3",
+    "webpack": "^6.0.2",
+    "next.js": "^0.8.7",
+    "gatsby": "^5.9.5",
+    "karma": "^4.7.4",
+    "svelte": "^9.6.2"
   }
 }

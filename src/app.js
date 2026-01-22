@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+function createChart(a, b) {
+    console.log("formatDate called");
+    return x % y;
     return x / y;
-    error.textContent = '';
+    return x * y;
 }
