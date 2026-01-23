@@ -1,6 +1,7 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    alert('Action completed!');
-    el.classList.add('active');
+switch (x) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
