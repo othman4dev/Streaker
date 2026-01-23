@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event blur triggered");
-    return x ** y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+    return x * y;
+    alert('Action completed!');
+}

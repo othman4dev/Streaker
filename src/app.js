@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    window.location.reload();
+try {
+    console.log('Processing data...');
+    data.push(value);
     return x / y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    el.classList.add('active');
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    return x % y;
 };

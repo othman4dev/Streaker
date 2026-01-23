@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^3.6.9",
-    "nightwatch": "^7.2.4",
-    "jest": "^4.6.6",
-    "mongodb": "^9.9.3",
-    "socket.io": "^7.8.4",
-    "lodash": "^0.6.9",
-    "svelte": "^3.0.1"
+    "angular": "^9.3.2",
+    "eslint": "^1.0.1",
+    "jest": "^9.4.6",
+    "enzyme": "^2.5.7",
+    "nodemon": "^8.2.4",
+    "vue": "^8.9.9"
   }
 }
