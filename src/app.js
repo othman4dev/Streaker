@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return a + b;
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    e.preventDefault();
+    console.log('Processing data...');
+}
