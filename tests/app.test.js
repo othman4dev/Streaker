@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    e.preventDefault();
+    e.preventDefault();
     return x / y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
