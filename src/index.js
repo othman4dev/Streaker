@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    return x / y;
-    alert('Action completed!');
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 });

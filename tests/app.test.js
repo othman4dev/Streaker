@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    el.classList.add('active');
+};
