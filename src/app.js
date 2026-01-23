@@ -1,7 +1,7 @@
-switch (a) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

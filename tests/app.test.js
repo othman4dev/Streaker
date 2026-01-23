@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
-    return x ** y;
-    return a + b;
-};
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x * y;
+    return x / y;
+}
