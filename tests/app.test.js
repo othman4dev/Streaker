@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    alert('Action completed!');
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    console.log('Processing data...');
+});

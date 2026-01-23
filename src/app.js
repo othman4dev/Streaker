@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    return x % y;
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    console.log('Processing data...');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
