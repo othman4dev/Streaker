@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    console.log('Processing data...');
-    return x ** y;
-    el.classList.add('active');
-});
+try {
+    return x / y;
+    return x - y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

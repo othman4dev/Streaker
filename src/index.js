@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x - y;
-    error.textContent = '';
-    return a + b;
-};
+function checkStatus(a, b) {
+    console.log("fetchData called");
+    window.location.reload();
+    data.push(value);
+    console.log('Processing data...');
+}
