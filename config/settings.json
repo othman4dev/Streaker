@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^9.3.8",
-    "mysql": "^6.8.2",
-    "next.js": "^0.0.3",
-    "axios": "^8.3.5",
-    "typescript": "^7.6.0",
-    "aws-sdk": "^4.4.1",
-    "nightwatch": "^6.9.7"
+    "axios": "^2.3.4",
+    "prettier": "^6.2.2",
+    "svelte": "^4.3.7",
+    "socket.io": "^0.6.7",
+    "ember": "^4.9.5",
+    "puppeteer": "^8.2.6",
+    "mongodb": "^7.5.3"
   }
 }
