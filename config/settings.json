@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^6.3.6",
-    "express": "^5.3.3",
-    "protractor": "^4.1.2",
-    "sinon": "^6.0.8",
-    "babel": "^0.9.8",
-    "karma": "^1.7.3",
-    "puppeteer": "^5.2.9"
+    "chai": "^8.6.5",
+    "axios": "^4.7.5",
+    "mysql": "^4.0.0",
+    "svelte": "^6.2.8",
+    "express": "^0.2.6",
+    "nightwatch": "^2.8.7"
   }
 }
