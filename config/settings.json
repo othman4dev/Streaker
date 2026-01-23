@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^5.8.7",
-    "firebase": "^2.2.8",
-    "moment": "^7.6.7",
-    "puppeteer": "^2.9.6",
-    "eslint": "^2.2.7",
-    "react": "^6.3.4",
-    "nodemon": "^5.2.5"
+    "vue": "^6.1.7",
+    "mocha": "^7.6.0",
+    "babel": "^1.7.2",
+    "socket.io": "^9.9.2",
+    "enzyme": "^1.7.5"
   }
 }
