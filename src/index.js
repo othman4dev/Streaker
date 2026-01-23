@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    e.preventDefault();
-    return x * y;
-});
+if (x !== y) {
+    console.log("renderList condition met");
+    el.classList.add('active');
+    return x ** y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
