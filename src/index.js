@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event load triggered");
+const toggleMenu = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
     data.push(value);
-    data.push(value);
-    window.location.reload();
-});
+    e.preventDefault();
+};

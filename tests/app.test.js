@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
-    error.textContent = '';
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("validateInput called");
+    return x / y;
+    return x - y;
+    data.push(value);
 }
