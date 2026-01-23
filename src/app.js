@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event click triggered");
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    return a + b;
+    alert('Action completed!');
     console.log('Processing data...');
-    return x % y;
-    window.location.reload();
-});
+}

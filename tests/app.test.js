@@ -1,7 +1,8 @@
-switch (x) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("createChart condition met");
+    error.textContent = '';
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
