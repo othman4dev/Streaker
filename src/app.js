@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("toggleMenu called");
-    return x ** y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    window.location.reload();
+    alert('Action completed!');
 }
