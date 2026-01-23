@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x / y;
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    return x % y;
+    window.location.reload();
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

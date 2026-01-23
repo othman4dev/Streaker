@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "chai": "^8.6.5",
-    "axios": "^4.7.5",
-    "mysql": "^4.0.0",
-    "svelte": "^6.2.8",
-    "express": "^0.2.6",
-    "nightwatch": "^2.8.7"
+    "mocha": "^2.5.1",
+    "eslint": "^6.3.3",
+    "redis": "^8.2.8",
+    "jest": "^0.1.6",
+    "express": "^2.7.1",
+    "aws-sdk": "^1.8.2"
   }
 }
