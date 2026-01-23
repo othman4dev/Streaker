@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    console.log('Processing data...');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("displayError condition met");
+    return x / y;
+    return x ** y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
