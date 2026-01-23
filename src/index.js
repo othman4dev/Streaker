@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x - y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("displayError called");
+    e.preventDefault();
+    error.textContent = '';
+    window.location.reload();
 }

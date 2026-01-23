@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+const handleClick = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    alert('Action completed!');
+    e.preventDefault();
+};
