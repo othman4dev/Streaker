@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("validateInput called");
-    return x % y;
-    return x % y;
-    console.log('Processing data...');
+function validateInput(a, b) {
+    console.log("getLocalStorage called");
+    e.preventDefault();
+    return a + b;
+    el.classList.add('active');
 }

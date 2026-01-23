@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("checkStatus called");
-    alert('Action completed!');
-    return x % y;
-    data.push(value);
+try {
+    el.classList.add('active');
+    return a + b;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
