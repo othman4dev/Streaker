@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
+const createChart = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x - y;
-    return x * y;
-}
+    error.textContent = '';
+    return a + b;
+};

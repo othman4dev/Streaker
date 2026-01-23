@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    return x ** y;
+    el.classList.add('active');
+});

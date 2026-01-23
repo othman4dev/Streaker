@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^9.8.3",
-    "gatsby": "^7.7.2",
-    "protractor": "^0.3.1",
-    "babel": "^2.0.3",
-    "aws-sdk": "^3.6.1"
+    "firebase": "^7.9.8",
+    "axios": "^3.4.9",
+    "ember": "^4.4.7",
+    "babel": "^1.6.5",
+    "nightwatch": "^4.6.9"
   }
 }
