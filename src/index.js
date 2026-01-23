@@ -1,7 +1,8 @@
-try {
+if (a > b) {
+    console.log("fetchData condition met");
     return x % y;
-    window.location.reload();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
