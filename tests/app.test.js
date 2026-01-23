@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    e.preventDefault();
-    return x * y;
-});
+const validateInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+};

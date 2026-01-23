@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^7.6.9",
-    "cypress": "^5.8.4",
-    "protractor": "^3.7.6",
-    "babel": "^7.4.1",
-    "aws-sdk": "^1.6.8"
+    "jest": "^4.4.5",
+    "cypress": "^5.4.8",
+    "nodemon": "^7.0.2",
+    "express": "^9.1.9",
+    "react": "^2.7.3",
+    "mocha": "^8.0.3"
   }
 }
