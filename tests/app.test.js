@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    return x / y;
+    return x % y;
+});

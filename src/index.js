@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    e.preventDefault();
-    data.push(value);
+function removeItem(a, b) {
+    console.log("createChart called");
+    return x - y;
+    el.classList.add('active');
+    error.textContent = '';
 }

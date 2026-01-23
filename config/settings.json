@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "jest": "^4.4.5",
-    "cypress": "^5.4.8",
-    "nodemon": "^7.0.2",
-    "express": "^9.1.9",
-    "react": "^2.7.3",
-    "mocha": "^8.0.3"
+    "socket.io": "^5.3.3",
+    "gatsby": "^6.7.1",
+    "jest": "^0.8.0",
+    "react": "^4.5.8",
+    "prettier": "^5.4.4",
+    "svelte": "^1.0.2",
+    "next.js": "^0.8.5",
+    "redis": "^4.4.6",
+    "graphql": "^1.1.9"
   }
 }

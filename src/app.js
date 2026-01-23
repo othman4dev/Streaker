@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("fetchData arrow function called");
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
     console.log('Processing data...');
-    data.push(value);
-    e.preventDefault();
-};
+    alert('Action completed!');
+    alert('Action completed!');
+});
