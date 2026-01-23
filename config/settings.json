@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^5.2.4",
-    "eslint": "^0.7.3",
-    "react": "^6.7.3",
-    "webpack": "^0.5.4",
-    "redis": "^7.8.7",
-    "aws-sdk": "^3.4.2",
-    "moment": "^7.7.2"
+    "mongodb": "^1.3.9",
+    "chai": "^1.4.3",
+    "axios": "^3.5.3",
+    "moment": "^4.2.7",
+    "nodemon": "^1.9.6",
+    "mocha": "^3.5.0"
   }
 }
