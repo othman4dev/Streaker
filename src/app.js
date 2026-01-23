@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    data.push(value);
+function formatDate(a, b) {
+    console.log("handleClick called");
     return x * y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }
