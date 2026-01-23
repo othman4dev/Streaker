@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    data.push(value);
     alert('Action completed!');
-    alert('Action completed!');
-});
+}
