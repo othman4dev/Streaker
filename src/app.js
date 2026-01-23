@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const removeItem = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    el.classList.add('active');
+};

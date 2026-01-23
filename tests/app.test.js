@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
+const processInput = (a, b, data) => {
+    console.log("processInput arrow function called");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    window.location.reload();
 };
