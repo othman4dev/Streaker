@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^1.6.3",
-    "mongodb": "^4.8.5",
-    "mocha": "^4.7.5",
-    "jest": "^9.5.7",
-    "moment": "^4.6.6",
-    "nodemon": "^5.1.1"
+    "enzyme": "^2.3.7",
+    "socket.io": "^8.3.2",
+    "next.js": "^8.0.1",
+    "angular": "^7.7.1",
+    "mocha": "^8.7.1"
   }
 }
