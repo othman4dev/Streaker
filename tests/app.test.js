@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return a + b;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const updateUI = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+};
