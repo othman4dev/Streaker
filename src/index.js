@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    alert('Action completed!');
-    return x - y;
-}
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    window.location.reload();
+    console.log('Processing data...');
+});

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    return x / y;
+function handleClick(a, b) {
+    console.log("updateUI called");
+    console.log('Processing data...');
     data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }

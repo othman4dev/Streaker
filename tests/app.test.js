@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x ** y;
+if (x === y) {
+    console.log("displayError condition met");
     el.classList.add('active');
-    return x / y;
-};
+    console.log('Processing data...');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
