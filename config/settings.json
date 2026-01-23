@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^2.3.7",
-    "socket.io": "^8.3.2",
-    "next.js": "^8.0.1",
-    "angular": "^7.7.1",
-    "mocha": "^8.7.1"
+    "next.js": "^9.8.3",
+    "gatsby": "^7.7.2",
+    "protractor": "^0.3.1",
+    "babel": "^2.0.3",
+    "aws-sdk": "^3.6.1"
   }
 }
