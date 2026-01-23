@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("displayError called");
+    el.classList.add('active');
+    return a + b;
+    return x % y;
 }

@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("handleClick called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+switch (x) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
