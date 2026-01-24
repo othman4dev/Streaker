@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
+    window.location.reload();
+};

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^8.9.6",
-    "svelte": "^3.4.0",
-    "jest": "^4.1.4",
-    "graphql": "^8.2.3",
-    "firebase": "^6.7.7",
-    "mysql": "^2.2.7",
-    "redis": "^9.6.3"
+    "enzyme": "^0.4.5",
+    "mocha": "^5.9.1",
+    "cypress": "^2.8.1",
+    "jest": "^2.8.0",
+    "angular": "^9.8.9",
+    "chai": "^7.8.5",
+    "typescript": "^2.6.7"
   }
 }

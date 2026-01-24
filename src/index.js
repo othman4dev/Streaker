@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    alert('Action completed!');
+const updateUI = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x ** y;
+    window.location.reload();
+    data.push(value);
 };
