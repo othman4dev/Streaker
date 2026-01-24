@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
-    window.location.reload();
-    return x - y;
-    return x / y;
+switch (value) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
