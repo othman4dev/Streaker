@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "redis": "^6.6.4",
-    "puppeteer": "^2.5.8",
-    "protractor": "^2.8.0",
-    "moment": "^4.3.5",
-    "cypress": "^0.7.3",
-    "socket.io": "^0.9.0",
-    "jest": "^5.0.9"
+    "aws-sdk": "^6.0.1",
+    "lodash": "^4.3.7",
+    "redis": "^6.6.0",
+    "jasmine": "^3.3.5",
+    "enzyme": "^5.7.8",
+    "ember": "^8.5.9",
+    "mysql": "^8.3.6",
+    "gatsby": "^1.5.2"
   }
 }

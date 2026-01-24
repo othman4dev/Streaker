@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
+if (x !== y) {
+    console.log("formatDate condition met");
     console.log('Processing data...');
-    return x ** y;
-    return x - y;
-});
+    return x / y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
