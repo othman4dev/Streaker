@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x ** y;
-    return x % y;
-    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 };
