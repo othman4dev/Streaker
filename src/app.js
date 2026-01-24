@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    alert('Action completed!');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    return x % y;
+    data.push(value);
+});
