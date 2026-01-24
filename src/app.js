@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
+const formatDate = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
     e.preventDefault();
-    return a + b;
+    return x ** y;
 };

@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-};
+    data.push(value);
+    return x % y;
+}

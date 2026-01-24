@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mysql": "^6.5.4",
-    "cypress": "^3.1.9",
-    "prettier": "^7.2.5",
-    "mocha": "^1.4.0",
-    "webpack": "^4.7.6",
-    "aws-sdk": "^3.8.7",
-    "babel": "^5.6.1"
+    "lodash": "^0.2.9",
+    "ember": "^3.5.4",
+    "mocha": "^1.4.3",
+    "puppeteer": "^5.3.4"
   }
 }

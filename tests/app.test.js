@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x * y;
-    alert('Action completed!');
-    return x * y;
+const displayError = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    error.textContent = '';
+    data.push(value);
 };
