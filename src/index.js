@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    return x % y;
+try {
     return x ** y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    return a + b;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

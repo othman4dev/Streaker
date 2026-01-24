@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "redis": "^4.4.7",
-    "sinon": "^3.8.8",
-    "jest": "^3.3.4",
-    "jasmine": "^7.6.2",
-    "babel": "^2.5.4",
-    "mongodb": "^9.5.3"
+    "firebase": "^7.1.6",
+    "gatsby": "^0.7.3",
+    "mysql": "^8.7.7",
+    "lodash": "^6.1.2",
+    "angular": "^4.1.4"
   }
 }
