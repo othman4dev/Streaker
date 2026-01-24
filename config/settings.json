@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^6.6.9",
-    "graphql": "^1.1.6",
-    "jest": "^2.6.7",
-    "typescript": "^0.3.8",
-    "jasmine": "^4.0.6",
-    "moment": "^4.5.9",
-    "protractor": "^8.8.1"
+    "aws-sdk": "^9.7.7",
+    "next.js": "^9.7.5",
+    "mysql": "^7.8.4",
+    "nightwatch": "^7.8.9",
+    "enzyme": "^6.8.9",
+    "chai": "^0.1.1",
+    "angular": "^6.5.7",
+    "puppeteer": "^6.7.6"
   }
 }

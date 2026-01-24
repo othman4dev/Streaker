@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    error.textContent = '';
     window.location.reload();
-    alert('Action completed!');
-}
+    return x ** y;
+};
