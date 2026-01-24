@@ -1,6 +1,7 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    alert('Action completed!');
-    console.log('Processing data...');
+try {
+    return x % y;
+    window.location.reload();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
