@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
-    alert('Action completed!');
+const displayError = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    el.classList.add('active');
     error.textContent = '';
-    error.textContent = '';
-}
+    data.push(value);
+};

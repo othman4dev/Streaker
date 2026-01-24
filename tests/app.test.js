@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
+    alert('Action completed!');
+    return x * y;
+};

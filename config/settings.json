@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "redis": "^8.1.2",
-    "mocha": "^3.5.3",
-    "aws-sdk": "^3.1.5",
-    "ember": "^7.4.0",
-    "babel": "^9.2.2",
-    "moment": "^9.0.9",
-    "nodemon": "^8.3.9",
-    "typescript": "^3.6.1"
+    "mysql": "^6.5.4",
+    "cypress": "^3.1.9",
+    "prettier": "^7.2.5",
+    "mocha": "^1.4.0",
+    "webpack": "^4.7.6",
+    "aws-sdk": "^3.8.7",
+    "babel": "^5.6.1"
   }
 }

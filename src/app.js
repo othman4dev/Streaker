@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    e.preventDefault();
+const checkStatus = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    return a + b;
+};
