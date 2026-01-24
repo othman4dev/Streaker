@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    window.location.reload();
-    error.textContent = '';
-}
+const updateUI = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    e.preventDefault();
+};
