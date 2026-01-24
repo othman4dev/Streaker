@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+switch (el) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

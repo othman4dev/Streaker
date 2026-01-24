@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    e.preventDefault();
-};
+switch (x) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
