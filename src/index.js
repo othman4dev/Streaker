@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("setCookie arrow function called");
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
+    window.location.reload();
     console.log('Processing data...');
-    console.log('Processing data...');
-    e.preventDefault();
-};
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
