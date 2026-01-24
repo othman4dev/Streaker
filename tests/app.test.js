@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
-    data.push(value);
-    el.classList.add('active');
+try {
+    console.log('Processing data...');
+    return x ** y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
