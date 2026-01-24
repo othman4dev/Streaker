@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event resize triggered");
+if (a > b) {
+    console.log("hideModal condition met");
     error.textContent = '';
     return x * y;
-    console.log('Processing data...');
-});
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

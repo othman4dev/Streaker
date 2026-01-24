@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    window.location.reload();
     alert('Action completed!');
-};
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
