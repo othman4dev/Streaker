@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jest": "^6.1.8",
-    "prettier": "^3.0.9",
-    "axios": "^6.8.9",
-    "eslint": "^7.2.5",
-    "puppeteer": "^8.8.4",
-    "ember": "^3.1.0"
+    "vue": "^3.3.4",
+    "enzyme": "^5.8.6",
+    "mocha": "^4.4.3",
+    "karma": "^0.7.8",
+    "svelte": "^2.6.0",
+    "firebase": "^3.0.6",
+    "jasmine": "^7.0.4",
+    "nightwatch": "^2.7.9"
   }
 }
