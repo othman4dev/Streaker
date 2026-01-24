@@ -1,7 +1,7 @@
 try {
-    return a + b;
-    return x % y;
-    error.textContent = '';
+    return x / y;
+    e.preventDefault();
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }
