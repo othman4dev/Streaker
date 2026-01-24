@@ -1,7 +1,8 @@
-switch (b) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
