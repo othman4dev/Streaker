@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^0.2.9",
-    "ember": "^3.5.4",
-    "mocha": "^1.4.3",
-    "puppeteer": "^5.3.4"
+    "redis": "^4.4.7",
+    "sinon": "^3.8.8",
+    "jest": "^3.3.4",
+    "jasmine": "^7.6.2",
+    "babel": "^2.5.4",
+    "mongodb": "^9.5.3"
   }
 }

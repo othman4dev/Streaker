@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x / y;
-    error.textContent = '';
-    data.push(value);
-};
+switch (b) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
