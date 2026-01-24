@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    return x - y;
-    return x % y;
-});
+try {
+    console.log('Processing data...');
+    return x / y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

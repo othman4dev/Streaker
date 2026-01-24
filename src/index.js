@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    return a + b;
-    return x ** y;
-    return x - y;
-});
+const animateElement = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    return x % y;
+};

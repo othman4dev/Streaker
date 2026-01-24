@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};
