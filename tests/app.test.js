@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
     e.preventDefault();
-    return a + b;
-}
+};

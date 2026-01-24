@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    return x - y;
-    error.textContent = '';
-}
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});

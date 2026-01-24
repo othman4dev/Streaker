@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "ember": "^3.0.8",
-    "nightwatch": "^9.6.5",
-    "eslint": "^4.6.8",
-    "karma": "^8.9.2",
-    "aws-sdk": "^4.4.8"
+    "mysql": "^3.5.0",
+    "enzyme": "^0.8.9",
+    "lodash": "^1.9.5",
+    "axios": "^5.1.5",
+    "eslint": "^8.8.4",
+    "babel": "^7.6.8"
   }
 }
