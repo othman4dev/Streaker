@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    error.textContent = '';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("processInput called");
+    data.push(value);
+    return x % y;
+    return x / y;
 }

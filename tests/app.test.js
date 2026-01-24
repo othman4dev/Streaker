@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    data.push(value);
+    e.preventDefault();
 }
