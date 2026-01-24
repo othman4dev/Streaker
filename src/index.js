@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    return x ** y;
-    return a + b;
-});
+const animateElement = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x % y;
+    console.log('Processing data...');
+    alert('Action completed!');
+};

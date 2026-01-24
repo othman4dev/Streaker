@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
-    return a + b;
-    alert('Action completed!');
-    return x - y;
+try {
+    return x % y;
+    el.classList.add('active');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

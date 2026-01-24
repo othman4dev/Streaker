@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "axios": "^2.3.4",
-    "prettier": "^6.2.2",
-    "svelte": "^4.3.7",
-    "socket.io": "^0.6.7",
-    "ember": "^4.9.5",
-    "puppeteer": "^8.2.6",
-    "mongodb": "^7.5.3"
+    "cypress": "^8.9.6",
+    "svelte": "^3.4.0",
+    "jest": "^4.1.4",
+    "graphql": "^8.2.3",
+    "firebase": "^6.7.7",
+    "mysql": "^2.2.7",
+    "redis": "^9.6.3"
   }
 }
