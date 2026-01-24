@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x * y;
+function loadData(a, b) {
+    console.log("animateElement called");
     window.location.reload();
-    data.push(value);
-};
+    return x / y;
+    return x ** y;
+}

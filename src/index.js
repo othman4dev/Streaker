@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x ** y;
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    window.location.reload();
+    return x * y;
+    return x * y;
 } else {
     console.log("Condition not met");
 }
