@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    return x / y;
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x * y;
+    window.location.reload();
+    data.push(value);
+};

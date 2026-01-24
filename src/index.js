@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
-    data.push(value);
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    alert('Action completed!');
     console.log('Processing data...');
-};
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
