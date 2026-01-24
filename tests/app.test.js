@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("checkStatus called");
-    return x ** y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    error.textContent = '';
+    e.preventDefault();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+const createChart = (a, b, data) => {
+    console.log("createChart arrow function called");
     return x % y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    return x % y;
+};

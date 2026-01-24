@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^6.1.5",
-    "ember": "^0.4.8",
-    "jest": "^1.2.3",
-    "chai": "^5.5.9",
-    "prettier": "^4.5.2"
+    "moment": "^1.0.5",
+    "graphql": "^4.1.4",
+    "express": "^3.6.0",
+    "enzyme": "^0.7.1",
+    "gatsby": "^4.7.3"
   }
 }
