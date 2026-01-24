@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
-    return x % y;
-    return x % y;
-};
+function createChart(a, b) {
+    console.log("toggleMenu called");
+    return x ** y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}
