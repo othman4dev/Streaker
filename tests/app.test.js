@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
     return a + b;
-    alert('Action completed!');
+    data.push(value);
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

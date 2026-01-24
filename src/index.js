@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("animateElement called");
-    error.textContent = '';
-    alert('Action completed!');
-    return x / y;
+try {
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
