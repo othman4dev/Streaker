@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("hideModal condition met");
-    error.textContent = '';
-    return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function removeItem(a, b) {
+    console.log("setCookie called");
+    data.push(value);
+    console.log('Processing data...');
+    return x - y;
 }

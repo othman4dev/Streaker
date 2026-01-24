@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "karma": "^1.7.9",
-    "mysql": "^8.0.9",
-    "graphql": "^6.5.1",
-    "webpack": "^4.8.9",
-    "chai": "^5.3.4"
+    "jest": "^2.6.9",
+    "karma": "^4.4.6",
+    "webpack": "^4.4.4",
+    "nightwatch": "^5.0.9",
+    "gatsby": "^4.9.0",
+    "enzyme": "^8.4.1",
+    "redis": "^0.4.8"
   }
 }

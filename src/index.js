@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const fetchData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x / y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};
