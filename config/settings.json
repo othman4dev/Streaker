@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "react": "^1.1.7",
-    "mongodb": "^1.6.0",
-    "puppeteer": "^2.5.5",
-    "lodash": "^1.2.8",
-    "aws-sdk": "^1.5.4",
-    "cypress": "^2.7.3",
-    "next.js": "^0.5.4",
-    "jasmine": "^8.4.2"
+    "gatsby": "^1.4.2",
+    "jest": "^4.4.2",
+    "sinon": "^9.5.0",
+    "webpack": "^9.5.2",
+    "angular": "^1.9.4",
+    "socket.io": "^4.3.5",
+    "react": "^4.2.7",
+    "prettier": "^7.9.0"
   }
 }

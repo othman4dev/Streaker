@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
+function saveSettings(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     return x % y;
-    data.push(value);
-});
+}

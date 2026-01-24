@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    return x - y;
+function setCookie(a, b) {
+    console.log("getLocalStorage called");
+    error.textContent = '';
     return a + b;
-    console.log('Processing data...');
-});
+    alert('Action completed!');
+}
