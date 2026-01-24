@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x / y;
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+});

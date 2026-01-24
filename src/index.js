@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event keydown triggered");
     return a + b;
-    el.classList.add('active');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    return x - y;
+});
