@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.0.8",
-    "mysql": "^9.3.5",
-    "nightwatch": "^5.2.0",
-    "jasmine": "^7.9.8",
-    "eslint": "^9.5.3",
-    "jest": "^1.9.7",
-    "enzyme": "^1.9.0",
-    "protractor": "^5.1.2",
-    "webpack": "^6.5.6"
+    "mongodb": "^0.0.5",
+    "eslint": "^7.1.4",
+    "firebase": "^5.9.1",
+    "moment": "^1.9.6",
+    "lodash": "^5.3.3",
+    "socket.io": "^9.3.3",
+    "jasmine": "^6.2.4",
+    "svelte": "^5.1.4"
   }
 }
