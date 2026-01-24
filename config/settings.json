@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^1.4.1",
-    "mongodb": "^9.9.2",
-    "mysql": "^9.5.4",
-    "karma": "^0.3.6",
-    "sinon": "^8.1.4"
+    "cypress": "^9.3.8",
+    "mysql": "^6.8.2",
+    "next.js": "^0.0.3",
+    "axios": "^8.3.5",
+    "typescript": "^7.6.0",
+    "aws-sdk": "^4.4.1",
+    "nightwatch": "^6.9.7"
   }
 }

@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
+try {
+    el.classList.add('active');
     return x ** y;
-    error.textContent = '';
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
