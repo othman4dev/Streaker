@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("loadData called");
+    error.textContent = '';
+    data.push(value);
+    el.classList.add('active');
 }

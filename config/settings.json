@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^5.1.2",
-    "enzyme": "^3.9.0",
-    "nodemon": "^9.3.5",
-    "puppeteer": "^7.9.1",
-    "angular": "^5.9.7",
-    "express": "^3.3.5",
-    "ember": "^0.5.4",
-    "prettier": "^8.3.0"
+    "socket.io": "^0.0.2",
+    "moment": "^6.8.2",
+    "typescript": "^2.7.6",
+    "jest": "^5.8.2",
+    "mongodb": "^8.8.0"
   }
 }
