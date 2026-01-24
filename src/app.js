@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("fetchData called");
-    alert('Action completed!');
+function formatDate(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    return x ** y;
     return a + b;
-    return x % y;
 }

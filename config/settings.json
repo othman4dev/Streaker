@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^9.1.5",
-    "babel": "^3.1.9",
-    "protractor": "^6.8.7",
-    "react": "^7.7.6",
-    "puppeteer": "^7.1.0",
-    "mongodb": "^9.0.7",
-    "mocha": "^0.4.0",
-    "enzyme": "^2.9.5",
-    "firebase": "^4.0.9"
+    "angular": "^8.7.0",
+    "next.js": "^4.0.6",
+    "axios": "^0.0.6",
+    "express": "^3.1.9"
   }
 }
