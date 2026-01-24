@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^2.6.9",
-    "jest": "^7.6.4",
-    "sinon": "^6.1.2",
-    "angular": "^7.4.0",
-    "chai": "^8.2.6",
-    "next.js": "^1.6.4",
-    "eslint": "^9.3.3",
-    "mysql": "^6.4.6"
+    "angular": "^4.8.0",
+    "protractor": "^9.6.8",
+    "babel": "^4.1.9",
+    "socket.io": "^9.2.8",
+    "redis": "^8.0.4",
+    "prettier": "^8.8.0",
+    "mongodb": "^0.0.6"
   }
 }
