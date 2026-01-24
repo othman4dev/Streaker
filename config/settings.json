@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^0.0.5",
-    "eslint": "^7.1.4",
-    "firebase": "^5.9.1",
-    "moment": "^1.9.6",
-    "lodash": "^5.3.3",
-    "socket.io": "^9.3.3",
-    "jasmine": "^6.2.4",
-    "svelte": "^5.1.4"
+    "redis": "^6.6.4",
+    "puppeteer": "^2.5.8",
+    "protractor": "^2.8.0",
+    "moment": "^4.3.5",
+    "cypress": "^0.7.3",
+    "socket.io": "^0.9.0",
+    "jest": "^5.0.9"
   }
 }
