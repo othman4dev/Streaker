@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    console.log('Processing data...');
-    return x - y;
+try {
+    error.textContent = '';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

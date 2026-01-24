@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x / y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    return x * y;
+    error.textContent = '';
+    return a + b;
+});

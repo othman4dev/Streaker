@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jest": "^2.6.9",
-    "karma": "^4.4.6",
-    "webpack": "^4.4.4",
-    "nightwatch": "^5.0.9",
-    "gatsby": "^4.9.0",
-    "enzyme": "^8.4.1",
-    "redis": "^0.4.8"
+    "enzyme": "^2.6.9",
+    "jest": "^7.6.4",
+    "sinon": "^6.1.2",
+    "angular": "^7.4.0",
+    "chai": "^8.2.6",
+    "next.js": "^1.6.4",
+    "eslint": "^9.3.3",
+    "mysql": "^6.4.6"
   }
 }
