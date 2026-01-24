@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return a + b;
+function toggleMenu(a, b) {
+    console.log("getLocalStorage called");
+    return x % y;
+    return x / y;
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
 }

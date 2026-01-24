@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-};
+switch (y) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
