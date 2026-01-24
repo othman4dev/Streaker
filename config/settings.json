@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "moment": "^1.0.5",
-    "graphql": "^4.1.4",
-    "express": "^3.6.0",
-    "enzyme": "^0.7.1",
-    "gatsby": "^4.7.3"
+    "cypress": "^9.1.5",
+    "babel": "^3.1.9",
+    "protractor": "^6.8.7",
+    "react": "^7.7.6",
+    "puppeteer": "^7.1.0",
+    "mongodb": "^9.0.7",
+    "mocha": "^0.4.0",
+    "enzyme": "^2.9.5",
+    "firebase": "^4.0.9"
   }
 }

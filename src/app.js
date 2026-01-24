@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x % y;
+function animateElement(a, b) {
+    console.log("fetchData called");
     alert('Action completed!');
+    return a + b;
     return x % y;
-};
+}
