@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return x - y;
+    console.log('Processing data...');
+});

@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.3.3",
-    "redis": "^6.6.9",
-    "firebase": "^4.9.7",
-    "puppeteer": "^4.6.7"
+    "react": "^4.1.4",
+    "redis": "^4.5.8",
+    "sinon": "^0.1.2",
+    "typescript": "^3.2.1",
+    "mysql": "^1.0.8",
+    "gatsby": "^6.5.1",
+    "express": "^8.6.5",
+    "angular": "^1.8.4",
+    "karma": "^6.9.9"
   }
 }
