@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    data.push(value);
-    console.log('Processing data...');
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

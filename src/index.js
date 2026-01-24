@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    window.location.reload();
-    console.log('Processing data...');
-});
+function submitForm(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    return x ** y;
+    error.textContent = '';
+}
