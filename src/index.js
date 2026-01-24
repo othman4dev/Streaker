@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    window.location.reload();
-    return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
+    error.textContent = '';
+    error.textContent = '';
 }
