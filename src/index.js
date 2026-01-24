@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    data.push(value);
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
     return x / y;
-    e.preventDefault();
-};
+    el.classList.add('active');
+});

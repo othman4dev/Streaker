@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    el.classList.add('active');
-    window.location.reload();
-});
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    data.push(value);
+    return x * y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
