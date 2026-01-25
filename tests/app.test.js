@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("formatDate called");
+const createChart = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    e.preventDefault();
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-}
+    return x % y;
+};

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^7.7.3",
-    "vue": "^1.8.8",
-    "firebase": "^6.3.5",
-    "mongodb": "^7.3.4",
-    "redis": "^1.9.0"
+    "nodemon": "^1.4.2",
+    "webpack": "^1.5.5",
+    "axios": "^2.9.6",
+    "socket.io": "^4.7.6",
+    "chai": "^4.1.9"
   }
 }

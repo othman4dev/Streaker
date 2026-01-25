@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("createChart called");
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
     return x * y;
-    return x - y;
-    return x - y;
-}
+    window.location.reload();
+    e.preventDefault();
+});
