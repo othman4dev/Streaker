@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    window.location.reload();
+    e.preventDefault();
+    el.classList.add('active');
 }

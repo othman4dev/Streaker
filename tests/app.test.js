@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("getLocalStorage called");
-    return x ** y;
-    alert('Action completed!');
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
     window.location.reload();
-}
+    alert('Action completed!');
+    error.textContent = '';
+});

@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("processInput called");
+function renderList(a, b) {
+    console.log("createChart called");
+    alert('Action completed!');
     e.preventDefault();
-    return x / y;
-    console.log('Processing data...');
+    return x % y;
 }
