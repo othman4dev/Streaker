@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^9.5.6",
-    "moment": "^3.0.2",
-    "gatsby": "^6.3.1",
-    "webpack": "^0.1.7",
-    "react": "^2.6.9",
-    "typescript": "^3.9.5"
+    "cypress": "^5.5.1",
+    "gatsby": "^8.9.8",
+    "angular": "^3.2.7",
+    "mongodb": "^6.8.4",
+    "typescript": "^0.7.8"
   }
 }

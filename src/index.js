@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x % y;
+    console.log('Processing data...');
+    return x % y;
+};

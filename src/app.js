@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    el.classList.add('active');
+const formatDate = (a, b, data) => {
+    console.log("renderList arrow function called");
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+    error.textContent = '';
+};
