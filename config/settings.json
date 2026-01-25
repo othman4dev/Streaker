@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^7.0.4",
-    "jasmine": "^4.2.2",
-    "nightwatch": "^8.7.9",
-    "ember": "^1.0.6",
-    "svelte": "^1.5.7",
-    "cypress": "^7.7.6",
-    "protractor": "^5.9.1",
-    "mongodb": "^2.5.4"
+    "graphql": "^4.3.1",
+    "redis": "^5.3.7",
+    "firebase": "^5.6.0",
+    "mongodb": "^8.4.4",
+    "protractor": "^7.1.8"
   }
 }

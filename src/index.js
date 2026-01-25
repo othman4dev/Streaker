@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("formatDate called");
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event change triggered");
     data.push(value);
-    return a + b;
+    return x * y;
     return x / y;
-}
+});

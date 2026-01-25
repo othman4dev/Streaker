@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("displayError called");
+    alert('Action completed!');
+    alert('Action completed!');
+    return x / y;
 }
