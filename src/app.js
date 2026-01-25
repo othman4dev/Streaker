@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("createChart arrow function called");
+try {
+    data.push(value);
     return a + b;
-    return x * y;
-    return x / y;
-};
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

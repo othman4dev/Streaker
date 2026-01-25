@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("processInput called");
-    data.push(value);
-    return x % y;
-    return x / y;
+switch (data) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
