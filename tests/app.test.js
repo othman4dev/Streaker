@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    alert('Action completed!');
-    error.textContent = '';
-});
+switch (value) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

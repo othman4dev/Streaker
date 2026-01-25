@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("setCookie called");
-    window.location.reload();
-    e.preventDefault();
+try {
     el.classList.add('active');
+    console.log('Processing data...');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
