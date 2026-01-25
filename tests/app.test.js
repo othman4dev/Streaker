@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("submitForm called");
-    return x / y;
+if (x !== y) {
+    console.log("removeItem condition met");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-    data.push(value);
+} else {
+    console.log("Condition not met");
 }
