@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
+try {
+    error.textContent = '';
+    return x % y;
     alert('Action completed!');
-    return x * y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}
