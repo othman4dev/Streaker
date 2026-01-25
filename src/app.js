@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+};

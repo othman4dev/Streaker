@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    return x % y;
+function createChart(a, b) {
+    console.log("submitForm called");
+    return x / y;
     return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }
