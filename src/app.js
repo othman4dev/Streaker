@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    alert('Action completed!');
-    alert('Action completed!');
+function animateElement(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
     return x / y;
+    console.log('Processing data...');
 }

@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    error.textContent = '';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function removeItem(a, b) {
+    console.log("getLocalStorage called");
+    return x ** y;
+    alert('Action completed!');
+    window.location.reload();
 }
