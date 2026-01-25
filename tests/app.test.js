@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    e.preventDefault();
-    return x * y;
-    return x % y;
+function setCookie(a, b) {
+    console.log("formatDate called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }

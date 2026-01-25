@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    error.textContent = '';
-    error.textContent = '';
-};
+function saveSettings(a, b) {
+    console.log("createChart called");
+    return x * y;
+    return x - y;
+    return x - y;
+}
