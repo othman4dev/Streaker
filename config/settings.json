@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^4.0.7",
-    "mongodb": "^9.4.4",
-    "puppeteer": "^3.3.9",
-    "axios": "^4.9.1",
-    "nodemon": "^6.5.6",
-    "graphql": "^7.1.1"
+    "karma": "^9.5.4",
+    "chai": "^1.7.3",
+    "moment": "^3.9.0",
+    "cypress": "^4.7.9",
+    "typescript": "^3.9.4",
+    "jasmine": "^0.8.6",
+    "eslint": "^6.2.0",
+    "next.js": "^2.5.5"
   }
 }
