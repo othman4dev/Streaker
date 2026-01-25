@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+const displayError = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    error.textContent = '';
+    window.location.reload();
     alert('Action completed!');
-});
+};
