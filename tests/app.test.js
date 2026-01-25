@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("formatDate called");
-    el.classList.add('active');
-    return x - y;
-    el.classList.add('active');
-}
+const removeItem = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x ** y;
+    alert('Action completed!');
+    return a + b;
+};
