@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x / y;
-};
+switch (el) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

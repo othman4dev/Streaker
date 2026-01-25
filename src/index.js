@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-}
+    return x / y;
+    alert('Action completed!');
+});

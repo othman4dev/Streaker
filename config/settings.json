@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^7.0.5",
-    "moment": "^7.8.3",
-    "webpack": "^6.3.8",
-    "nodemon": "^9.0.5",
-    "protractor": "^3.1.2",
-    "prettier": "^0.0.3",
-    "aws-sdk": "^1.0.6",
-    "redis": "^7.2.4"
+    "aws-sdk": "^1.7.3",
+    "jasmine": "^1.6.3",
+    "sinon": "^5.0.3",
+    "webpack": "^3.1.4",
+    "typescript": "^5.0.6",
+    "enzyme": "^0.3.8",
+    "mongodb": "^4.2.3",
+    "gatsby": "^9.3.0"
   }
 }
