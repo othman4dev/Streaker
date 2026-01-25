@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^6.7.3",
-    "webpack": "^1.5.3",
-    "axios": "^1.8.9",
-    "graphql": "^9.5.4",
-    "svelte": "^4.0.7",
-    "jest": "^9.8.1",
-    "nightwatch": "^9.6.7"
+    "nodemon": "^0.1.1",
+    "aws-sdk": "^3.6.6",
+    "eslint": "^5.9.8",
+    "svelte": "^3.3.1",
+    "prettier": "^5.3.1",
+    "babel": "^3.6.9"
   }
 }

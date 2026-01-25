@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("removeItem called");
-    return x / y;
+try {
     return x * y;
-    error.textContent = '';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
