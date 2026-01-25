@@ -1,7 +1,7 @@
-try {
-    return x / y;
-    return a + b;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+switch (a) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
