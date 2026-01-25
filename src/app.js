@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const saveSettings = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    window.location.reload();
+    data.push(value);
+    return x % y;
+};
