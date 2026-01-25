@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("displayError called");
+try {
+    e.preventDefault();
     alert('Action completed!');
-    return x % y;
-    alert('Action completed!');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

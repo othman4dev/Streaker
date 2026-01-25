@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    error.textContent = '';
-    window.location.reload();
-    alert('Action completed!');
-};
+switch (a) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
