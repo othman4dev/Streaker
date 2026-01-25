@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    return x / y;
-    el.classList.add('active');
-});
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x ** y;
+    alert('Action completed!');
+    return a + b;
+};
