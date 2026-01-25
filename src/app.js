@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event change triggered");
+if (a > b) {
+    console.log("hideModal condition met");
+    error.textContent = '';
     e.preventDefault();
-    alert('Action completed!');
-    return x ** y;
-});
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
