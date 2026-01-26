@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    alert('Action completed!');
-    window.location.reload();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    return x - y;
+    return a + b;
+    return a + b;
+});

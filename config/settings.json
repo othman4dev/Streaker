@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "redis": "^6.0.1",
-    "vue": "^5.8.5",
-    "babel": "^8.3.3",
-    "react": "^2.6.7",
-    "webpack": "^9.3.3",
-    "cypress": "^0.7.7",
-    "nightwatch": "^9.8.4"
+    "moment": "^0.8.5",
+    "lodash": "^0.1.6",
+    "aws-sdk": "^7.6.9",
+    "sinon": "^6.5.8",
+    "nightwatch": "^4.4.8",
+    "firebase": "^0.0.5",
+    "angular": "^2.6.3"
   }
 }

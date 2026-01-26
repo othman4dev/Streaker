@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("setCookie called");
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    el.classList.add('active');
     console.log('Processing data...');
-    return x % y;
-    data.push(value);
-}
+});
