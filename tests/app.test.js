@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("displayError called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+function formatDate(a, b) {
+    console.log("createChart called");
+    data.push(value);
+    data.push(value);
+    alert('Action completed!');
 }

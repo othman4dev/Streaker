@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^6.1.0",
-    "socket.io": "^7.5.9",
-    "jasmine": "^8.7.9",
-    "angular": "^7.9.7",
-    "karma": "^9.2.4"
+    "mocha": "^3.3.2",
+    "jest": "^3.7.6",
+    "vue": "^7.4.6",
+    "jasmine": "^3.2.2",
+    "express": "^8.3.5",
+    "puppeteer": "^2.8.7",
+    "protractor": "^6.4.4",
+    "prettier": "^8.7.0"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x ** y;
-    return x ** y;
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});
