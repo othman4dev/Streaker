@@ -1,6 +1,7 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+switch (y) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

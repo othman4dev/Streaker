@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+function animateElement(a, b) {
+    console.log("displayError called");
     return x % y;
-    console.log('Processing data...');
-    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }
