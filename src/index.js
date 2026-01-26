@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    error.textContent = '';
-    console.log('Processing data...');
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }
