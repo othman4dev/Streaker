@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    error.textContent = '';
     console.log('Processing data...');
-    alert('Action completed!');
-};
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("showMessage called");
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
     data.push(value);
-    return x ** y;
-    e.preventDefault();
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});

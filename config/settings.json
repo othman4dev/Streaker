@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "angular": "^2.0.6",
-    "sinon": "^1.7.5",
-    "mongodb": "^1.6.1",
-    "cypress": "^9.0.5",
-    "socket.io": "^2.2.2",
-    "jest": "^3.5.5",
-    "react": "^8.7.6"
+    "jest": "^5.2.1",
+    "chai": "^4.6.5",
+    "mocha": "^8.0.6",
+    "mongodb": "^1.7.3",
+    "ember": "^7.3.9"
   }
 }
