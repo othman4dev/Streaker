@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    data.push(value);
-    error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("toggleMenu called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }
