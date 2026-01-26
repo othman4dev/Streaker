@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^9.1.5",
-    "jest": "^7.8.0",
-    "graphql": "^0.6.5",
-    "firebase": "^3.4.2",
-    "typescript": "^1.8.6",
-    "webpack": "^4.9.7",
-    "next.js": "^0.8.3"
+    "vue": "^8.3.4",
+    "protractor": "^7.9.5",
+    "axios": "^9.5.3",
+    "nightwatch": "^1.6.6",
+    "svelte": "^2.2.1"
   }
 }

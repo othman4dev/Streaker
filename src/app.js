@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("animateElement called");
-    return x - y;
+if (x === y) {
+    console.log("submitForm condition met");
     return a + b;
-    window.location.reload();
+    error.textContent = '';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
