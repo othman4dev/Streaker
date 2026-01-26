@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("submitForm called");
+    return x - y;
+    error.textContent = '';
+    data.push(value);
 }
