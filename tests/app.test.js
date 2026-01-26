@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x - y;
-    return x * y;
-    return x - y;
-};
+switch (x) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

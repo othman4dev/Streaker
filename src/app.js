@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("setSessionStorage called");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x - y;
+switch (x) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
