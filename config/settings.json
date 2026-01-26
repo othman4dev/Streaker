@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "sinon": "^9.4.9",
-    "babel": "^1.1.8",
-    "firebase": "^8.9.5",
-    "eslint": "^9.4.7",
-    "redis": "^2.1.7"
+    "sinon": "^6.2.9",
+    "socket.io": "^6.8.0",
+    "redis": "^9.4.4",
+    "chai": "^9.8.9"
   }
 }
