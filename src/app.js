@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+    data.push(value);
+}

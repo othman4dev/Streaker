@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x - y;
-    return x / y;
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    alert('Action completed!');
     return x ** y;
-};
+} else {
+    console.log("Condition not met");
+}

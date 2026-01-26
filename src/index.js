@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return a + b;
+try {
+    error.textContent = '';
     return x - y;
-    alert('Action completed!');
-});
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
