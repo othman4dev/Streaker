@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^1.2.6",
-    "sinon": "^6.2.0",
-    "ember": "^2.6.7",
-    "gatsby": "^3.4.0",
-    "chai": "^6.1.2",
-    "vue": "^1.5.9",
-    "puppeteer": "^2.9.8"
+    "socket.io": "^4.7.6",
+    "nodemon": "^3.4.7",
+    "vue": "^4.8.1",
+    "graphql": "^7.0.2",
+    "puppeteer": "^1.0.3"
   }
 }

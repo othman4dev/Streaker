@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("checkStatus called");
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x * y;
     data.push(value);
-    window.location.reload();
-    return a + b;
-}
+    return x * y;
+});
