@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x - y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    data.push(value);
+    error.textContent = '';
+});
