@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^4.7.6",
-    "nodemon": "^3.4.7",
-    "vue": "^4.8.1",
-    "graphql": "^7.0.2",
-    "puppeteer": "^1.0.3"
+    "typescript": "^3.8.8",
+    "eslint": "^0.4.6",
+    "socket.io": "^9.0.3",
+    "express": "^8.5.3",
+    "ember": "^3.5.6",
+    "svelte": "^7.5.8",
+    "nightwatch": "^9.7.0"
   }
 }

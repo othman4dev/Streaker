@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
+function removeItem(a, b) {
+    console.log("handleClick called");
     return x * y;
-    data.push(value);
-    return x * y;
-});
+    return x - y;
+    e.preventDefault();
+}
