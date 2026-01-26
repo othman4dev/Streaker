@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x / y;
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
 }

@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    data.push(value);
-    error.textContent = '';
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event click triggered");
+    return x - y;
+    return x * y;
+    return x % y;
 });

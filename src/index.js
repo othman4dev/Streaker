@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    window.location.reload();
-    return x / y;
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
     return x ** y;
+    return x ** y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
