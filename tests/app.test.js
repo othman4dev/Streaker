@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    alert('Action completed!');
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    data.push(value);
+    e.preventDefault();
+    e.preventDefault();
+};

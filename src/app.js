@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    e.preventDefault();
-    return x / y;
+function fetchData(a, b) {
+    console.log("animateElement called");
+    return x - y;
+    return a + b;
+    window.location.reload();
 }

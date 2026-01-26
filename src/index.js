@@ -1,6 +1,6 @@
 for (let i = 0; i < 10; i++) {
     console.log("Loop iteration: " + i);
-    return x ** y;
-    data.push(value);
+    error.textContent = '';
+    console.log('Processing data...');
     console.log('Processing data...');
 }
