@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
     data.push(value);
     error.textContent = '';
+    e.preventDefault();
 });
