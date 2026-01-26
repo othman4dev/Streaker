@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
-    return x / y;
-};
+switch (value) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

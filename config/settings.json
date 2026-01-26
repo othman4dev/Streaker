@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^1.9.2",
-    "socket.io": "^6.4.0",
-    "protractor": "^8.1.5",
-    "puppeteer": "^3.7.1",
-    "vue": "^5.8.9",
-    "redis": "^9.4.1",
-    "karma": "^2.5.0"
+    "protractor": "^6.8.2",
+    "vue": "^8.5.1",
+    "nodemon": "^9.0.9",
+    "gatsby": "^6.3.9",
+    "babel": "^9.2.0",
+    "express": "^6.3.5"
   }
 }

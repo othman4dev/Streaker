@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    return a + b;
+    e.preventDefault();
 }
