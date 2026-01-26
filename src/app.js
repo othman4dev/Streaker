@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    return x / y;
-    return a + b;
-    console.log('Processing data...');
-});
+const handleClick = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x ** y;
+    e.preventDefault();
+    alert('Action completed!');
+};

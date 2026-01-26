@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "moment": "^2.4.9",
-    "chai": "^9.9.1",
-    "mongodb": "^8.8.1",
-    "next.js": "^2.2.9",
-    "puppeteer": "^4.4.9",
-    "nightwatch": "^0.7.1",
-    "express": "^1.7.5"
+    "nightwatch": "^9.3.2",
+    "firebase": "^7.3.7",
+    "lodash": "^7.0.9",
+    "next.js": "^4.2.8",
+    "svelte": "^1.9.5"
   }
 }

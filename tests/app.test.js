@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    return a + b;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x ** y;
+    return x * y;
+    el.classList.add('active');
+};
