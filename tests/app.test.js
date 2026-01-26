@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    return x / y;
-    return x % y;
-    e.preventDefault();
+if (data.length > 0) {
+    console.log("renderList condition met");
+    return a + b;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
