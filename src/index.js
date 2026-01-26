@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    console.log('Processing data...');
-    error.textContent = '';
+function displayError(a, b) {
+    console.log("hideModal called");
+    return x % y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 }

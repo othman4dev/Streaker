@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    e.preventDefault();
+switch (el) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
