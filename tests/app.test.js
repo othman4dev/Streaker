@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+const fetchData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
     return x / y;
-    error.textContent = '';
-}
+    return x ** y;
+};

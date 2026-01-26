@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^8.7.0",
-    "redis": "^9.2.6",
-    "cypress": "^8.6.4",
-    "karma": "^8.1.7",
-    "nodemon": "^8.6.7"
+    "redis": "^2.0.1",
+    "jasmine": "^4.5.0",
+    "firebase": "^0.2.1",
+    "aws-sdk": "^0.4.8",
+    "vue": "^5.1.2",
+    "karma": "^9.0.7",
+    "express": "^2.2.4",
+    "next.js": "^3.9.4"
   }
 }

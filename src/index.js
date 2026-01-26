@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    return x * y;
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return a + b;
     return x - y;
-    el.classList.add('active');
+    alert('Action completed!');
 });

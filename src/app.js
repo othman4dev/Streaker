@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("checkStatus called");
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    error.textContent = '';
+};
