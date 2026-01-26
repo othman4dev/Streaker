@@ -1,7 +1,8 @@
-switch (x) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("showMessage condition met");
+    window.location.reload();
+    return x / y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
