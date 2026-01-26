@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return a + b;
-    return a + b;
-});
+function getLocalStorage(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    return x ** y;
+    e.preventDefault();
+}
