@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "aws-sdk": "^4.8.8",
-    "webpack": "^2.2.9",
-    "chai": "^7.0.7",
-    "prettier": "^0.9.2",
-    "angular": "^7.3.9",
-    "next.js": "^6.6.5"
+    "chai": "^7.2.8",
+    "prettier": "^3.9.5",
+    "gatsby": "^6.3.5",
+    "ember": "^0.4.5",
+    "protractor": "^0.4.9",
+    "nodemon": "^9.5.9",
+    "typescript": "^9.2.1",
+    "sinon": "^6.6.8",
+    "firebase": "^6.7.1"
   }
 }

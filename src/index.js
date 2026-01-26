@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    error.textContent = '';
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     console.log('Processing data...');
-};
+} catch (error) {
+    console.error("Error:", error);
+}
