@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^3.3.2",
-    "jest": "^3.7.6",
-    "vue": "^7.4.6",
-    "jasmine": "^3.2.2",
-    "express": "^8.3.5",
-    "puppeteer": "^2.8.7",
-    "protractor": "^6.4.4",
-    "prettier": "^8.7.0"
+    "aws-sdk": "^4.8.8",
+    "webpack": "^2.2.9",
+    "chai": "^7.0.7",
+    "prettier": "^0.9.2",
+    "angular": "^7.3.9",
+    "next.js": "^6.6.5"
   }
 }

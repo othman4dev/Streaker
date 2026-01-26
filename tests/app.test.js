@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("createChart called");
-    data.push(value);
+function processInput(a, b) {
+    console.log("showMessage called");
     data.push(value);
     alert('Action completed!');
+    el.classList.add('active');
 }
