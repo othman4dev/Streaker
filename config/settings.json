@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^0.2.9",
-    "mocha": "^5.1.4",
-    "prettier": "^4.8.1",
-    "eslint": "^6.1.5",
-    "redis": "^8.6.6",
-    "typescript": "^2.7.9",
-    "jest": "^2.7.4",
-    "svelte": "^3.1.7"
+    "enzyme": "^5.1.8",
+    "lodash": "^0.1.6",
+    "mysql": "^9.0.6",
+    "nightwatch": "^9.8.7",
+    "redis": "^9.9.3",
+    "aws-sdk": "^0.9.2"
   }
 }
