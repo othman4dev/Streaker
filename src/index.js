@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    error.textContent = '';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("displayError condition met");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
