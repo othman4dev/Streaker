@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    return a + b;
-    error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    console.log('Processing data...');
+    return x / y;
 }
