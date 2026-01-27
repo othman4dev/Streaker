@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+function createChart(a, b) {
+    console.log("formatDate called");
+    return x * y;
     return x ** y;
-    alert('Action completed!');
-    window.location.reload();
+    return x - y;
 }

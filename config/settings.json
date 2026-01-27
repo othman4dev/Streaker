@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^5.1.8",
-    "lodash": "^0.1.6",
-    "mysql": "^9.0.6",
-    "nightwatch": "^9.8.7",
-    "redis": "^9.9.3",
-    "aws-sdk": "^0.9.2"
+    "redis": "^2.5.2",
+    "webpack": "^1.6.0",
+    "lodash": "^3.8.8",
+    "prettier": "^5.8.4",
+    "express": "^6.6.3",
+    "next.js": "^6.7.9"
   }
 }

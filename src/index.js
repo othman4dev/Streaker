@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("updateUI arrow function called");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    el.classList.add('active');
     e.preventDefault();
-    data.push(value);
-    return x * y;
-};
+}
