@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-}
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    return x - y;
+    error.textContent = '';
+});

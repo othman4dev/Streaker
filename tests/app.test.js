@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+function fetchData(a, b) {
+    console.log("updateUI called");
+    return x ** y;
+    return x - y;
     console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
 }
