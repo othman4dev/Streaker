@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    return a + b;
+try {
+    window.location.reload();
     alert('Action completed!');
-});
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
