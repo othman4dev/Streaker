@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
