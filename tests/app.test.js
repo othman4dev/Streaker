@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
+try {
+    error.textContent = '';
     console.log('Processing data...');
-    e.preventDefault();
-    return a + b;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    alert('Action completed!');
-    return x - y;
-});
+switch (error) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
