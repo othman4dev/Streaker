@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    return x - y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    window.location.reload();
 }

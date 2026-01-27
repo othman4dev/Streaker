@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^6.8.2",
-    "vue": "^8.5.1",
-    "nodemon": "^9.0.9",
-    "gatsby": "^6.3.9",
-    "babel": "^9.2.0",
-    "express": "^6.3.5"
+    "moment": "^5.8.6",
+    "prettier": "^2.6.8",
+    "chai": "^9.5.0",
+    "redis": "^9.7.4",
+    "socket.io": "^7.6.7"
   }
 }

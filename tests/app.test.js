@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("checkStatus called");
+if (data.length > 0) {
+    console.log("animateElement condition met");
     el.classList.add('active');
     return a + b;
-    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
