@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    el.classList.add('active');
-}
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    return a + b;
+    return a + b;
+});

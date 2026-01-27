@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^4.9.2",
-    "gatsby": "^4.9.3",
-    "socket.io": "^4.7.5",
-    "karma": "^3.8.3",
-    "graphql": "^1.1.9",
-    "babel": "^5.3.7",
-    "typescript": "^2.1.1",
-    "react": "^5.3.9"
+    "gatsby": "^9.0.7",
+    "aws-sdk": "^2.8.0",
+    "graphql": "^4.7.3",
+    "puppeteer": "^9.0.3",
+    "lodash": "^5.8.8",
+    "prettier": "^7.1.8"
   }
 }
