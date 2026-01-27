@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("formatDate called");
-    return x * y;
-    return x ** y;
-    return x - y;
-}
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x % y;
+    error.textContent = '';
+    return a + b;
+};

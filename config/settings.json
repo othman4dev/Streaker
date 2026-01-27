@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "redis": "^2.5.2",
-    "webpack": "^1.6.0",
-    "lodash": "^3.8.8",
-    "prettier": "^5.8.4",
-    "express": "^6.6.3",
-    "next.js": "^6.7.9"
+    "puppeteer": "^0.7.7",
+    "typescript": "^0.7.5",
+    "next.js": "^8.8.5",
+    "vue": "^3.0.8",
+    "lodash": "^3.3.8"
   }
 }
