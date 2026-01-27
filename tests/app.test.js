@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    el.classList.add('active');
     e.preventDefault();
-};
+});
