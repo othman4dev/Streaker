@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^7.8.9",
-    "mocha": "^6.4.6",
-    "mongodb": "^2.6.7",
-    "next.js": "^2.6.4"
+    "mysql": "^9.2.5",
+    "express": "^8.8.6",
+    "sinon": "^7.0.2",
+    "graphql": "^2.3.0",
+    "nodemon": "^3.0.5",
+    "cypress": "^7.1.2",
+    "jest": "^2.6.1"
   }
 }
