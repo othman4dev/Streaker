@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x % y;
-    error.textContent = '';
-    return a + b;
-};
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    console.log('Processing data...');
+    return x - y;
+});

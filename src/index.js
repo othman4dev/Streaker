@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("getLocalStorage called");
-    return x / y;
-    e.preventDefault();
-    data.push(value);
+switch (e) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
