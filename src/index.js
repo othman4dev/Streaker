@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    return a + b;
-    return a + b;
-});
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    return x % y;
+    console.log('Processing data...');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

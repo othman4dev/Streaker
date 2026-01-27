@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^9.0.7",
-    "aws-sdk": "^2.8.0",
-    "graphql": "^4.7.3",
-    "puppeteer": "^9.0.3",
-    "lodash": "^5.8.8",
-    "prettier": "^7.1.8"
+    "lodash": "^6.4.7",
+    "react": "^8.6.2",
+    "sinon": "^2.8.5",
+    "nodemon": "^4.7.0",
+    "prettier": "^2.1.3",
+    "webpack": "^2.5.3",
+    "mocha": "^6.1.4"
   }
 }
