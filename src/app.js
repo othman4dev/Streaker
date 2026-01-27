@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }
