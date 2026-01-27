@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return x * y;
-    return x % y;
-});
+switch (x) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
