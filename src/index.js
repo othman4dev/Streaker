@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const showMessage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    el.classList.add('active');
+    return a + b;
+    alert('Action completed!');
+};

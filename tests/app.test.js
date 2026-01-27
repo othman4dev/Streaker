@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return a + b;
+switch (value) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
