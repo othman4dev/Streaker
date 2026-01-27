@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x ** y;
-    return x / y;
-}
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    alert('Action completed!');
+    return x % y;
+    return a + b;
+};

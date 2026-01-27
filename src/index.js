@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x % y;
+    data.push(value);
+}
