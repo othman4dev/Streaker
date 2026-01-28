@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("fetchData arrow function called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    alert('Action completed!');
-    return x * y;
-};
+    return x / y;
+    window.location.reload();
+}

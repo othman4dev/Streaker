@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^3.4.8",
-    "sinon": "^1.7.7",
-    "enzyme": "^3.0.8",
-    "firebase": "^3.3.6",
-    "eslint": "^2.9.3"
+    "jest": "^3.7.1",
+    "lodash": "^0.2.3",
+    "chai": "^7.8.8",
+    "eslint": "^8.2.1",
+    "ember": "^2.3.1",
+    "axios": "^4.0.9",
+    "gatsby": "^7.3.2"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    e.preventDefault();
+function fetchData(a, b) {
+    console.log("animateElement called");
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    error.textContent = '';
 }

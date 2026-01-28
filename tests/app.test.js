@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    return x / y;
-    return x - y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const showMessage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};
