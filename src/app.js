@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    data.push(value);
+    error.textContent = '';
+    return x ** y;
+};

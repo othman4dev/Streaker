@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x * y;
+const showMessage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    e.preventDefault();
     error.textContent = '';
-    return x % y;
 };

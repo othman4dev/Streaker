@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    return a + b;
+    window.location.reload();
     e.preventDefault();
-    return x / y;
-    return x * y;
-}
+});
