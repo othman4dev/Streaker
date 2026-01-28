@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+function formatDate(a, b) {
+    console.log("validateInput called");
     return x / y;
-    return x / y;
-    return x ** y;
+    data.push(value);
+    el.classList.add('active');
 }

@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
-    e.preventDefault();
+if (x !== y) {
+    console.log("validateInput condition met");
     console.log('Processing data...');
-};
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
