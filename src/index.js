@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x * y;
-    el.classList.add('active');
-    error.textContent = '';
-};
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x % y;
+    window.location.reload();
+    return a + b;
+});

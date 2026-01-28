@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
-    e.preventDefault();
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x - y;
     return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

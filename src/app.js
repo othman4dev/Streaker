@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("validateInput called");
-    return x % y;
-    error.textContent = '';
-    el.classList.add('active');
+if (x === y) {
+    console.log("fetchData condition met");
+    window.location.reload();
+    console.log('Processing data...');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
