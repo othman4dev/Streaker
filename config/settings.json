@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^5.8.6",
-    "prettier": "^2.6.8",
-    "chai": "^9.5.0",
-    "redis": "^9.7.4",
-    "socket.io": "^7.6.7"
+    "jest": "^6.9.0",
+    "chai": "^6.1.6",
+    "socket.io": "^3.4.5",
+    "sinon": "^2.6.9",
+    "react": "^8.8.2"
   }
 }

@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
+try {
     el.classList.add('active');
-    return a + b;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x / y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
