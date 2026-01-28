@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^9.7.2",
-    "react": "^2.9.3",
-    "firebase": "^5.5.0",
-    "sinon": "^1.6.1",
-    "vue": "^6.9.7"
+    "jasmine": "^0.3.9",
+    "angular": "^6.7.9",
+    "jest": "^0.2.5",
+    "protractor": "^2.5.5",
+    "redis": "^3.7.0"
   }
 }

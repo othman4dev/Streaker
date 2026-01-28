@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    return x - y;
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return x / y;
+    el.classList.add('active');
+    console.log('Processing data...');
+});
