@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("setCookie called");
-    return x % y;
-    return x ** y;
-    alert('Action completed!');
-}
+const updateUI = (a, b, data) => {
+    console.log("loadData arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    console.log('Processing data...');
+};

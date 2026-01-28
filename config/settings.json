@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "redis": "^9.8.2",
-    "next.js": "^1.6.6",
-    "vue": "^7.6.6",
-    "protractor": "^1.8.0",
-    "puppeteer": "^3.6.0",
-    "graphql": "^1.8.9",
-    "aws-sdk": "^9.9.9",
-    "axios": "^2.7.4"
+    "angular": "^0.2.7",
+    "express": "^8.9.1",
+    "graphql": "^7.8.0",
+    "jasmine": "^5.2.0",
+    "nightwatch": "^0.3.5",
+    "ember": "^6.4.3",
+    "socket.io": "^9.7.1",
+    "next.js": "^9.0.5"
   }
 }
