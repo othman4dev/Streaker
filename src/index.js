@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+const loadData = (a, b, data) => {
+    console.log("formatDate arrow function called");
     error.textContent = '';
-    return x / y;
-}
+    alert('Action completed!');
+    alert('Action completed!');
+};
