@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^2.0.7",
-    "jest": "^4.8.3",
-    "prettier": "^6.5.8",
-    "firebase": "^2.3.5",
-    "vue": "^0.8.9",
-    "mocha": "^8.7.0",
-    "moment": "^0.5.1",
-    "axios": "^4.6.3",
-    "ember": "^0.8.5"
+    "ember": "^7.0.7",
+    "protractor": "^9.6.5",
+    "mongodb": "^8.4.0",
+    "redis": "^3.6.7",
+    "axios": "^4.2.9",
+    "webpack": "^6.3.1"
   }
 }

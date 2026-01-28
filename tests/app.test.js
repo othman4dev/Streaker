@@ -1,7 +1,8 @@
-switch (a) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("handleClick condition met");
+    data.push(value);
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

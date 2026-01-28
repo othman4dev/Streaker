@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("createChart called");
-    return x % y;
-    return x / y;
-    console.log('Processing data...');
+switch (a) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

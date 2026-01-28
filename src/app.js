@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    data.push(value);
-    console.log('Processing data...');
+if (a > b) {
+    console.log("showMessage condition met");
     return x - y;
+    alert('Action completed!');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
