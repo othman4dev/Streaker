@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^6.1.9",
-    "firebase": "^3.3.0",
-    "puppeteer": "^4.5.2",
-    "protractor": "^0.7.3",
-    "nodemon": "^7.8.0",
-    "webpack": "^3.4.3",
-    "babel": "^0.4.3",
-    "ember": "^2.1.9",
-    "prettier": "^2.4.2"
+    "moment": "^9.9.8",
+    "chai": "^3.7.1",
+    "next.js": "^2.8.3",
+    "webpack": "^1.4.5",
+    "aws-sdk": "^6.0.1",
+    "axios": "^6.4.8"
   }
 }

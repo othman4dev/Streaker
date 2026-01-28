@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("hideModal arrow function called");
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event click triggered");
     window.location.reload();
-    e.preventDefault();
-    error.textContent = '';
-};
+    return x % y;
+    alert('Action completed!');
+});

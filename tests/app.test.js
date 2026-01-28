@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    return a + b;
-    window.location.reload();
-    e.preventDefault();
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x / y;
 });
