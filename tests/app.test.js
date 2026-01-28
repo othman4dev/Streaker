@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
     return x / y;
-    error.textContent = '';
-    e.preventDefault();
-};
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

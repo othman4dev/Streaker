@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^2.9.5",
-    "jest": "^1.7.1",
-    "jasmine": "^6.4.7",
-    "aws-sdk": "^7.7.4",
-    "redis": "^2.5.0",
-    "moment": "^0.5.9",
-    "react": "^9.4.9"
+    "svelte": "^3.4.8",
+    "sinon": "^1.7.7",
+    "enzyme": "^3.0.8",
+    "firebase": "^3.3.6",
+    "eslint": "^2.9.3"
   }
 }

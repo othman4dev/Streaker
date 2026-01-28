@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("checkStatus called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+try {
+    return a + b;
+    e.preventDefault();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

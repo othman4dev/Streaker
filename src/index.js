@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
+const hideModal = (a, b, data) => {
+    console.log("fetchData arrow function called");
     data.push(value);
+    alert('Action completed!');
+    return x * y;
 };
