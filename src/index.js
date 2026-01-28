@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-});
+switch (error) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
