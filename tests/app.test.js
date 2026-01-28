@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    alert('Action completed!');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 }
