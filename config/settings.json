@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "axios": "^8.2.6",
-    "prettier": "^3.8.3",
-    "graphql": "^2.6.7",
-    "puppeteer": "^1.2.4",
-    "socket.io": "^8.7.3",
-    "moment": "^4.7.1",
-    "aws-sdk": "^1.6.5"
+    "eslint": "^3.0.5",
+    "nightwatch": "^2.8.0",
+    "mysql": "^0.2.1",
+    "vue": "^1.0.0",
+    "webpack": "^7.4.0"
   }
 }
