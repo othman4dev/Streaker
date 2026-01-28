@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x * y;
     el.classList.add('active');
-    return a + b;
-    alert('Action completed!');
+    error.textContent = '';
 };

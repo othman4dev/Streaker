@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^3.7.5",
-    "aws-sdk": "^8.2.9",
-    "angular": "^6.1.6",
-    "karma": "^7.2.1",
-    "jest": "^7.0.4"
+    "socket.io": "^9.3.4",
+    "eslint": "^1.4.6",
+    "webpack": "^9.7.5",
+    "prettier": "^4.8.9",
+    "babel": "^6.0.1",
+    "lodash": "^5.7.4",
+    "vue": "^5.0.9"
   }
 }

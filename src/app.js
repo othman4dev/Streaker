@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    e.preventDefault();
-    return a + b;
+function processInput(a, b) {
+    console.log("validateInput called");
+    return x % y;
+    error.textContent = '';
+    el.classList.add('active');
 }

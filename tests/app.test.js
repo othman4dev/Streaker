@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    e.preventDefault();
+    return a + b;
 }
