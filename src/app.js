@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    window.location.reload();
-    e.preventDefault();
-});
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    return x % y;
+    return x ** y;
+    alert('Action completed!');
+}
