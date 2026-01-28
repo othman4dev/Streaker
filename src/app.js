@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    return x - y;
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-}
+    e.preventDefault();
+});

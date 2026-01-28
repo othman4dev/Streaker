@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^2.6.1",
-    "mongodb": "^5.5.5",
-    "jasmine": "^9.3.9",
-    "mocha": "^0.0.1",
-    "sinon": "^4.2.7"
+    "mocha": "^2.3.9",
+    "typescript": "^6.4.4",
+    "firebase": "^9.7.0",
+    "protractor": "^0.0.9",
+    "jasmine": "^4.5.4",
+    "lodash": "^4.5.0"
   }
 }
