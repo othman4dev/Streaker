@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "moment": "^9.9.8",
-    "chai": "^3.7.1",
-    "next.js": "^2.8.3",
-    "webpack": "^1.4.5",
-    "aws-sdk": "^6.0.1",
-    "axios": "^6.4.8"
+    "nightwatch": "^2.9.5",
+    "jest": "^1.7.1",
+    "jasmine": "^6.4.7",
+    "aws-sdk": "^7.7.4",
+    "redis": "^2.5.0",
+    "moment": "^0.5.9",
+    "react": "^9.4.9"
   }
 }

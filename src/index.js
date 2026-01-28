@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return x % y;
-    alert('Action completed!');
-});
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
+    data.push(value);
+};
