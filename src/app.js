@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    return x - y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
