@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.7.2",
-    "graphql": "^6.3.1",
-    "firebase": "^4.1.4",
-    "vue": "^2.9.2",
-    "karma": "^1.4.5",
-    "chai": "^9.4.2"
+    "webpack": "^2.8.3",
+    "moment": "^1.9.0",
+    "lodash": "^9.2.2",
+    "enzyme": "^7.4.5",
+    "gatsby": "^1.0.7",
+    "vue": "^7.0.3"
   }
 }

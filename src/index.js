@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    return x / y;
+const showMessage = (a, b, data) => {
+    console.log("setCookie arrow function called");
     error.textContent = '';
-}
+    alert('Action completed!');
+    data.push(value);
+};
