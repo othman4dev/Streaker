@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^7.1.2",
-    "karma": "^7.3.7",
-    "mysql": "^6.5.9",
-    "sinon": "^3.3.7"
+    "express": "^5.3.9",
+    "vue": "^7.5.0",
+    "ember": "^0.6.3",
+    "typescript": "^0.5.5",
+    "axios": "^7.6.3",
+    "prettier": "^2.4.7",
+    "gatsby": "^5.0.2",
+    "jasmine": "^3.8.0"
   }
 }
