@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    data.push(value);
-    alert('Action completed!');
-    window.location.reload();
-});
+switch (y) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

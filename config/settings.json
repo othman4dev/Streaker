@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^8.1.9",
-    "jasmine": "^2.7.6",
-    "lodash": "^8.1.9",
-    "sinon": "^7.3.9",
-    "next.js": "^7.2.2",
-    "typescript": "^0.6.2",
-    "jest": "^2.9.9",
-    "socket.io": "^0.0.6"
+    "eslint": "^7.9.5",
+    "svelte": "^3.7.7",
+    "puppeteer": "^6.7.3",
+    "lodash": "^9.7.5",
+    "webpack": "^4.2.1",
+    "mongodb": "^2.3.2",
+    "sinon": "^0.2.9"
   }
 }
