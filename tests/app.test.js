@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("removeItem called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x % y;
+function hideModal(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    return x / y;
+    return x - y;
 }
