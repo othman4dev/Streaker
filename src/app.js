@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("formatDate arrow function called");
+if (value !== '') {
+    console.log("animateElement condition met");
+    return x * y;
     e.preventDefault();
-    alert('Action completed!');
-    window.location.reload();
-};
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

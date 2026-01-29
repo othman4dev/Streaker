@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event input triggered");
+function validateInput(a, b) {
+    console.log("checkStatus called");
+    alert('Action completed!');
     return x / y;
-    return x - y;
-    data.push(value);
-});
+    return x ** y;
+}

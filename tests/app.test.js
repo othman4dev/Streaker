@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("handleClick called");
+    el.classList.add('active');
+    el.classList.add('active');
+    e.preventDefault();
 }
