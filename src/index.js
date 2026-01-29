@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    return x / y;
-    console.log('Processing data...');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    window.location.reload();
+    alert('Action completed!');
+    return a + b;
+});

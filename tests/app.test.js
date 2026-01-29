@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return a + b;
-    el.classList.add('active');
-    data.push(value);
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    return x * y;
+    e.preventDefault();
 };
