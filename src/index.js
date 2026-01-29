@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    error.textContent = '';
-    alert('Action completed!');
-    alert('Action completed!');
-};
+switch (el) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

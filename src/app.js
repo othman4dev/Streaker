@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-});
+switch (x) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^9.1.8",
-    "mysql": "^9.8.7",
-    "jest": "^2.1.7",
-    "firebase": "^2.7.7",
-    "babel": "^6.6.5",
-    "webpack": "^4.0.5",
-    "graphql": "^4.4.9",
-    "prettier": "^9.7.9"
+    "nightwatch": "^1.8.2",
+    "angular": "^6.6.4",
+    "lodash": "^7.6.1",
+    "vue": "^8.4.9",
+    "graphql": "^7.9.1",
+    "sinon": "^8.0.1",
+    "redis": "^0.5.4",
+    "puppeteer": "^6.9.7",
+    "gatsby": "^9.5.0"
   }
 }
