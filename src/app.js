@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return a + b;
-}
+const handleClick = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
+    data.push(value);
+};
