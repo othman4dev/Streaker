@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    return x / y;
-    return x / y;
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    el.classList.add('active');
 });

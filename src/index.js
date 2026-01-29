@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    alert('Action completed!');
-    e.preventDefault();
+function hideModal(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x ** y;
 }
