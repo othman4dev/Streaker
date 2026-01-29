@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "angular": "^7.1.5",
-    "typescript": "^3.0.6",
-    "moment": "^3.1.0",
-    "graphql": "^5.1.6",
-    "axios": "^9.0.3",
-    "redis": "^0.2.8",
-    "sinon": "^6.3.1",
-    "nodemon": "^5.0.0"
+    "mysql": "^3.9.4",
+    "angular": "^5.5.0",
+    "mongodb": "^0.6.6",
+    "jest": "^9.8.6",
+    "moment": "^4.0.8"
   }
 }

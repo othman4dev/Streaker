@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    e.preventDefault();
-    e.preventDefault();
-    return x / y;
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return a + b;
 }
