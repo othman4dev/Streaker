@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^0.3.9",
-    "react": "^5.5.2",
-    "nodemon": "^5.6.1",
-    "karma": "^3.0.7",
-    "babel": "^1.5.8",
-    "firebase": "^1.0.6",
-    "sinon": "^8.7.4",
-    "mongodb": "^2.5.2"
+    "nightwatch": "^6.9.1",
+    "react": "^4.0.7",
+    "jest": "^6.6.3",
+    "chai": "^9.6.8",
+    "nodemon": "^9.1.0",
+    "eslint": "^4.4.2",
+    "karma": "^8.3.1",
+    "enzyme": "^2.2.6"
   }
 }
