@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "axios": "^2.7.2",
-    "prettier": "^1.7.1",
-    "ember": "^2.5.1",
-    "svelte": "^9.5.6",
-    "lodash": "^4.1.0",
-    "express": "^8.7.8",
-    "puppeteer": "^6.5.1",
-    "next.js": "^0.9.2"
+    "next.js": "^1.4.5",
+    "puppeteer": "^3.4.6",
+    "webpack": "^8.8.8",
+    "react": "^2.7.0",
+    "graphql": "^9.3.1",
+    "firebase": "^2.2.8",
+    "jasmine": "^4.9.3",
+    "mongodb": "^7.0.6"
   }
 }
