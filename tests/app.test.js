@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
+const animateElement = (a, b, data) => {
+    console.log("updateUI arrow function called");
     e.preventDefault();
-    window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    console.log('Processing data...');
+};

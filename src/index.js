@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
+function submitForm(a, b) {
+    console.log("formatDate called");
+    alert('Action completed!');
+    return a + b;
     return x % y;
-    return x ** y;
 }

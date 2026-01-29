@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^9.3.3",
-    "cypress": "^8.4.5",
-    "eslint": "^1.4.8",
-    "jest": "^0.0.1",
-    "mocha": "^1.0.3"
+    "axios": "^6.6.5",
+    "react": "^0.1.7",
+    "protractor": "^3.5.0",
+    "redis": "^6.8.8",
+    "puppeteer": "^8.1.7"
   }
 }
