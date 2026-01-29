@@ -1,7 +1,7 @@
 if (x !== y) {
-    console.log("fetchData condition met");
-    alert('Action completed!');
-    alert('Action completed!');
+    console.log("formatDate condition met");
+    return x - y;
+    return x % y;
     data.push(value);
 } else {
     console.log("Condition not met");

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^6.9.1",
-    "react": "^4.0.7",
-    "jest": "^6.6.3",
-    "chai": "^9.6.8",
-    "nodemon": "^9.1.0",
-    "eslint": "^4.4.2",
-    "karma": "^8.3.1",
-    "enzyme": "^2.2.6"
+    "mocha": "^3.4.8",
+    "redis": "^4.0.7",
+    "jest": "^4.0.4",
+    "lodash": "^1.8.7",
+    "express": "^6.1.9",
+    "babel": "^3.4.7"
   }
 }

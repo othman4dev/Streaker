@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("createChart called");
-    e.preventDefault();
-    return x - y;
-    e.preventDefault();
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x / y;
+    console.log('Processing data...');
+    return x / y;
+});

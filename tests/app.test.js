@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x / y;
+function getLocalStorage(a, b) {
+    console.log("validateInput called");
+    data.push(value);
     el.classList.add('active');
+    return x - y;
 }
