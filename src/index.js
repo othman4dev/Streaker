@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    return a + b;
-    return x * y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("showMessage called");
+    return x / y;
+    e.preventDefault();
+    return x / y;
 }

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    return x / y;
+    alert('Action completed!');
+    return x * y;
+});
