@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    return x / y;
-    alert('Action completed!');
-    return x * y;
-});
+switch (b) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

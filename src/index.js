@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("showMessage called");
-    return x / y;
+const displayError = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     e.preventDefault();
-    return x / y;
-}
+    window.location.reload();
+    return a + b;
+};

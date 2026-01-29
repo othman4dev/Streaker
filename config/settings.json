@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "axios": "^0.1.4",
-    "svelte": "^8.1.7",
-    "jest": "^2.1.4",
-    "typescript": "^4.7.6",
-    "next.js": "^1.2.1"
+    "next.js": "^5.2.9",
+    "moment": "^5.0.0",
+    "mocha": "^2.7.4",
+    "firebase": "^5.5.2",
+    "babel": "^7.6.8",
+    "lodash": "^7.8.7",
+    "redis": "^0.9.4"
   }
 }
