@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "mocha": "^0.6.8",
-    "socket.io": "^5.2.8",
-    "aws-sdk": "^3.5.9",
-    "sinon": "^6.2.9",
-    "redis": "^1.2.3",
-    "jest": "^4.3.2"
+    "eslint": "^2.0.7",
+    "jest": "^4.8.3",
+    "prettier": "^6.5.8",
+    "firebase": "^2.3.5",
+    "vue": "^0.8.9",
+    "mocha": "^8.7.0",
+    "moment": "^0.5.1",
+    "axios": "^4.6.3",
+    "ember": "^0.8.5"
   }
 }

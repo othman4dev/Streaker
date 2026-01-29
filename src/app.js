@@ -1,7 +1,8 @@
-switch (x) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    data.push(value);
+    console.log('Processing data...');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

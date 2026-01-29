@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("fetchData called");
-    error.textContent = '';
-    error.textContent = '';
+function setCookie(a, b) {
+    console.log("createChart called");
     return x % y;
+    return x / y;
+    console.log('Processing data...');
 }
