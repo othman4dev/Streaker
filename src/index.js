@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
+    e.preventDefault();
+    console.log('Processing data...');
 });

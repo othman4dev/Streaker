@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x ** y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const updateUI = (a, b, data) => {
+    console.log("createChart arrow function called");
+    e.preventDefault();
+    alert('Action completed!');
+    el.classList.add('active');
+};

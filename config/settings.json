@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^2.5.4",
-    "sinon": "^0.9.7",
-    "typescript": "^3.5.3",
-    "mongodb": "^7.0.2",
-    "jest": "^8.9.8",
-    "puppeteer": "^9.4.8"
+    "nightwatch": "^6.7.1",
+    "next.js": "^8.4.8",
+    "chai": "^8.5.4",
+    "firebase": "^9.0.8",
+    "moment": "^4.5.6",
+    "puppeteer": "^3.2.3",
+    "mongodb": "^2.3.7",
+    "graphql": "^5.5.1"
   }
 }
