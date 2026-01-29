@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("validateInput called");
-    data.push(value);
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event blur triggered");
     el.classList.add('active');
-    return x - y;
-}
+    e.preventDefault();
+    return a + b;
+});

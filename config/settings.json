@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^3.4.8",
-    "redis": "^4.0.7",
-    "jest": "^4.0.4",
-    "lodash": "^1.8.7",
-    "express": "^6.1.9",
-    "babel": "^3.4.7"
+    "enzyme": "^5.2.7",
+    "aws-sdk": "^0.7.2",
+    "lodash": "^8.1.2",
+    "nodemon": "^1.6.3",
+    "protractor": "^6.2.1",
+    "next.js": "^5.3.3"
   }
 }

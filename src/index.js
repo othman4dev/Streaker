@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    return x - y;
+const setCookie = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+};
