@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    e.preventDefault();
-    console.log('Processing data...');
-});
+switch (error) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

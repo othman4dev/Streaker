@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-};
+    data.push(value);
+    data.push(value);
+}

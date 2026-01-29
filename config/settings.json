@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^6.7.1",
-    "next.js": "^8.4.8",
-    "chai": "^8.5.4",
-    "firebase": "^9.0.8",
-    "moment": "^4.5.6",
-    "puppeteer": "^3.2.3",
-    "mongodb": "^2.3.7",
-    "graphql": "^5.5.1"
+    "enzyme": "^7.1.7",
+    "babel": "^9.5.2",
+    "karma": "^7.9.4",
+    "eslint": "^1.0.2",
+    "cypress": "^4.6.1",
+    "mysql": "^5.9.5",
+    "next.js": "^4.5.7"
   }
 }

@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("createChart arrow function called");
-    e.preventDefault();
-    alert('Action completed!');
-    el.classList.add('active');
-};
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
+    return x / y;
+    error.textContent = '';
+});
