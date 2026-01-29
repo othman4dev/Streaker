@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x * y;
     data.push(value);
-};
+    return a + b;
+});
