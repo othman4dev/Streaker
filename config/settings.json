@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "next.js": "^5.2.9",
-    "moment": "^5.0.0",
-    "mocha": "^2.7.4",
-    "firebase": "^5.5.2",
-    "babel": "^7.6.8",
-    "lodash": "^7.8.7",
-    "redis": "^0.9.4"
+    "angular": "^0.9.4",
+    "express": "^2.1.8",
+    "chai": "^0.8.3",
+    "axios": "^1.0.1",
+    "graphql": "^2.2.3",
+    "jasmine": "^5.2.7",
+    "enzyme": "^7.3.8",
+    "next.js": "^8.5.7",
+    "svelte": "^7.1.8"
   }
 }

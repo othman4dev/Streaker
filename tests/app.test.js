@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    data.push(value);
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
     window.location.reload();
-}
+};
