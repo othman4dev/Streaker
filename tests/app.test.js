@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    return x / y;
-    error.textContent = '';
-});
+switch (y) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
