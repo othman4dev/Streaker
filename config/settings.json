@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^1.8.2",
-    "angular": "^6.6.4",
-    "lodash": "^7.6.1",
-    "vue": "^8.4.9",
-    "graphql": "^7.9.1",
-    "sinon": "^8.0.1",
-    "redis": "^0.5.4",
-    "puppeteer": "^6.9.7",
-    "gatsby": "^9.5.0"
+    "ember": "^3.4.4",
+    "lodash": "^6.1.6",
+    "moment": "^4.3.3",
+    "redis": "^0.0.8",
+    "puppeteer": "^2.7.6",
+    "mocha": "^0.0.3"
   }
 }
