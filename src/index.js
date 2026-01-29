@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    alert('Action completed!');
-    data.push(value);
-};
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    window.location.reload();
+    return x ** y;
+}

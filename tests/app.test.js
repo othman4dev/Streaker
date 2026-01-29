@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+const displayError = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x - y;
     console.log('Processing data...');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};

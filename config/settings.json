@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^2.8.3",
-    "moment": "^1.9.0",
-    "lodash": "^9.2.2",
-    "enzyme": "^7.4.5",
-    "gatsby": "^1.0.7",
-    "vue": "^7.0.3"
+    "angular": "^7.1.5",
+    "typescript": "^3.0.6",
+    "moment": "^3.1.0",
+    "graphql": "^5.1.6",
+    "axios": "^9.0.3",
+    "redis": "^0.2.8",
+    "sinon": "^6.3.1",
+    "nodemon": "^5.0.0"
   }
 }
