@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("handleClick condition met");
+try {
+    return x / y;
+    return x ** y;
     data.push(value);
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

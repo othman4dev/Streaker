@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    return x - y;
-    alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

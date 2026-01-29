@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "ember": "^7.0.7",
-    "protractor": "^9.6.5",
-    "mongodb": "^8.4.0",
-    "redis": "^3.6.7",
-    "axios": "^4.2.9",
-    "webpack": "^6.3.1"
+    "socket.io": "^2.5.4",
+    "sinon": "^0.9.7",
+    "typescript": "^3.5.3",
+    "mongodb": "^7.0.2",
+    "jest": "^8.9.8",
+    "puppeteer": "^9.4.8"
   }
 }
