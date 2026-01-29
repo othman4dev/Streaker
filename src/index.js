@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    el.classList.add('active');
-    window.location.reload();
+function showMessage(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
+    error.textContent = '';
+    return x % y;
 }

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^1.4.5",
-    "puppeteer": "^3.4.6",
-    "webpack": "^8.8.8",
-    "react": "^2.7.0",
-    "graphql": "^9.3.1",
-    "firebase": "^2.2.8",
-    "jasmine": "^4.9.3",
-    "mongodb": "^7.0.6"
+    "mocha": "^0.6.8",
+    "socket.io": "^5.2.8",
+    "aws-sdk": "^3.5.9",
+    "sinon": "^6.2.9",
+    "redis": "^1.2.3",
+    "jest": "^4.3.2"
   }
 }

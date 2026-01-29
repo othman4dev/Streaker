@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("submitForm condition met");
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
     return x * y;
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    return x - y;
 }
