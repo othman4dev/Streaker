@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    console.log('Processing data...');
-    return x % y;
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event click triggered");
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    error.textContent = '';
+});

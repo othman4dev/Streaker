@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("validateInput called");
-    return x / y;
-    data.push(value);
-    el.classList.add('active');
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event change triggered");
+    return a + b;
+    return a + b;
+    return a + b;
+});
