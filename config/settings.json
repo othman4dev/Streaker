@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^7.9.5",
-    "svelte": "^3.7.7",
-    "puppeteer": "^6.7.3",
-    "lodash": "^9.7.5",
-    "webpack": "^4.2.1",
-    "mongodb": "^2.3.2",
-    "sinon": "^0.2.9"
+    "eslint": "^9.8.6",
+    "puppeteer": "^3.2.8",
+    "graphql": "^1.1.1",
+    "protractor": "^3.2.4",
+    "lodash": "^6.1.0",
+    "mongodb": "^5.7.8"
   }
 }

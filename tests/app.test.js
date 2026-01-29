@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    el.classList.add('active');
+    data.push(value);
+};

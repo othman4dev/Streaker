@@ -1,7 +1,8 @@
-switch (y) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("fetchData condition met");
+    return x / y;
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
