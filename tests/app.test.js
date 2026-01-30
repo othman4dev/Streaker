@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("removeItem called");
-    return x * y;
-    e.preventDefault();
-    return a + b;
+function animateElement(a, b) {
+    console.log("createChart called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }

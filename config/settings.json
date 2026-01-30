@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "express": "^4.6.9",
-    "jest": "^3.4.7",
-    "lodash": "^0.0.4",
-    "vue": "^4.3.9",
-    "gatsby": "^6.1.9"
+    "nightwatch": "^0.5.2",
+    "lodash": "^7.4.4",
+    "svelte": "^7.6.4",
+    "express": "^7.1.7",
+    "moment": "^3.2.1",
+    "aws-sdk": "^4.1.1"
   }
 }

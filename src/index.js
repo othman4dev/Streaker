@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    return x / y;
+if (a > b) {
+    console.log("updateUI condition met");
+    alert('Action completed!');
     error.textContent = '';
-    return x / y;
+    return x ** y;
 } else {
     console.log("Condition not met");
 }
