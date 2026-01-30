@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^9.2.1",
-    "aws-sdk": "^7.2.5",
-    "cypress": "^1.7.6",
-    "react": "^8.8.9",
-    "mongodb": "^3.1.5",
-    "express": "^4.6.3"
+    "gatsby": "^5.5.5",
+    "vue": "^5.8.1",
+    "axios": "^4.4.1",
+    "puppeteer": "^3.2.0",
+    "enzyme": "^2.6.7"
   }
 }
