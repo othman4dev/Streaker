@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    el.classList.add('active');
+function processInput(a, b) {
+    console.log("formatDate called");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x - y;
+    error.textContent = '';
+}

@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^4.5.4",
-    "jasmine": "^8.4.3",
-    "moment": "^4.3.7",
-    "graphql": "^0.9.4",
-    "gatsby": "^9.4.2",
-    "babel": "^8.6.3"
+    "socket.io": "^7.7.1",
+    "mocha": "^2.4.2",
+    "jasmine": "^9.3.4",
+    "typescript": "^1.0.8"
   }
 }
