@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x ** y;
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+}
