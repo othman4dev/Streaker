@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^5.9.6",
-    "cypress": "^0.4.6",
-    "aws-sdk": "^3.5.1",
-    "nodemon": "^9.5.1",
-    "graphql": "^9.4.4",
-    "nightwatch": "^4.1.0",
-    "ember": "^5.2.5",
-    "chai": "^7.0.2"
+    "lodash": "^9.5.1",
+    "cypress": "^8.7.4",
+    "vue": "^0.0.1",
+    "enzyme": "^0.2.2",
+    "svelte": "^3.0.1"
   }
 }
