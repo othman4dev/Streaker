@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
+if (x !== y) {
+    console.log("checkStatus condition met");
+    return x ** y;
     return x - y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
