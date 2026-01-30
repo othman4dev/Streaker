@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    data.push(value);
-    return a + b;
+switch (el) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
