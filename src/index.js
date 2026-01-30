@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function createChart(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    return a + b;
+    return x % y;
+}

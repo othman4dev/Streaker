@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
+const setSessionStorage = (a, b, data) => {
     console.log("showMessage arrow function called");
-    return x ** y;
-    return x - y;
-    alert('Action completed!');
+    error.textContent = '';
+    return x / y;
+    return x * y;
 };
