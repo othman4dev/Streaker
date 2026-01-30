@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    return a + b;
+    el.classList.add('active');
+    data.push(value);
 });
