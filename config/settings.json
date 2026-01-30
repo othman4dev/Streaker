@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^5.2.7",
-    "aws-sdk": "^0.7.2",
-    "lodash": "^8.1.2",
-    "nodemon": "^1.6.3",
-    "protractor": "^6.2.1",
-    "next.js": "^5.3.3"
+    "enzyme": "^7.3.6",
+    "puppeteer": "^4.0.7",
+    "karma": "^0.0.7",
+    "moment": "^3.9.1",
+    "mongodb": "^9.3.2",
+    "socket.io": "^8.8.8"
   }
 }

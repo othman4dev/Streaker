@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x / y;
-};
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x - y;
+    return x ** y;
+    console.log('Processing data...');
+});
