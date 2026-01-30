@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^9.2.3",
-    "prettier": "^4.7.3",
-    "moment": "^0.8.5",
-    "babel": "^9.9.5",
-    "graphql": "^0.5.8",
-    "socket.io": "^4.5.7"
+    "mongodb": "^2.0.8",
+    "mocha": "^0.1.9",
+    "protractor": "^6.4.4",
+    "gatsby": "^8.7.1",
+    "svelte": "^7.5.6",
+    "aws-sdk": "^2.5.1"
   }
 }

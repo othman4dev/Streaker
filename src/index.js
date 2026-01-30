@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
-});
+function handleClick(a, b) {
+    console.log("formatDate called");
+    return x - y;
+    return a + b;
+    data.push(value);
+}

@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    data.push(value);
-    error.textContent = '';
-    return x / y;
-};
+switch (a) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
