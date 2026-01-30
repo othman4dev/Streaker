@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    error.textContent = '';
+    return x % y;
+    return x - y;
+});
