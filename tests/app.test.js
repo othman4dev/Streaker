@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+try {
+    return x ** y;
+    data.push(value);
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

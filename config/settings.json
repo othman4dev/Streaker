@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^4.9.4",
-    "babel": "^6.6.6",
-    "karma": "^4.4.4",
-    "eslint": "^6.0.6",
-    "gatsby": "^4.2.2"
+    "nodemon": "^4.3.7",
+    "firebase": "^8.1.7",
+    "express": "^8.3.9",
+    "protractor": "^7.3.4",
+    "mocha": "^2.3.9",
+    "graphql": "^7.4.6",
+    "svelte": "^0.0.1",
+    "socket.io": "^0.0.3",
+    "redis": "^3.9.7"
   }
 }
