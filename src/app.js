@@ -1,7 +1,8 @@
-try {
-    return x - y;
-    data.push(value);
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return x ** y;
+    e.preventDefault();
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

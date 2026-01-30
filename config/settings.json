@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^7.3.6",
-    "puppeteer": "^4.0.7",
-    "karma": "^0.0.7",
-    "moment": "^3.9.1",
-    "mongodb": "^9.3.2",
-    "socket.io": "^8.8.8"
+    "protractor": "^4.9.4",
+    "babel": "^6.6.6",
+    "karma": "^4.4.4",
+    "eslint": "^6.0.6",
+    "gatsby": "^4.2.2"
   }
 }

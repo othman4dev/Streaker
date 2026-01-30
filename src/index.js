@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    return x ** y;
-    console.log('Processing data...');
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return a + b;
+    return a + b;
+}
