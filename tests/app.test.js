@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
-    return a + b;
-    console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x ** y;
+    return x - y;
+    alert('Action completed!');
+};

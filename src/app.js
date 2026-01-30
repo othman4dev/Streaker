@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    return a + b;
-    el.classList.add('active');
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    e.preventDefault();
     data.push(value);
-});
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
