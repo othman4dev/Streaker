@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    error.textContent = '';
-    return x % y;
-    return x - y;
-});
+function setSessionStorage(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    e.preventDefault();
+    return a + b;
+}

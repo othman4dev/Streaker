@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^3.7.5",
-    "cypress": "^7.2.5",
-    "jest": "^7.6.1",
-    "typescript": "^5.4.7",
-    "enzyme": "^7.9.8",
-    "axios": "^7.6.3",
-    "ember": "^9.5.7",
-    "aws-sdk": "^3.0.4"
+    "express": "^4.6.9",
+    "jest": "^3.4.7",
+    "lodash": "^0.0.4",
+    "vue": "^4.3.9",
+    "gatsby": "^6.1.9"
   }
 }

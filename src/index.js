@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x * y;
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
     return x / y;
-};
+    error.textContent = '';
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
