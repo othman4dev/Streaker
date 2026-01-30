@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (el) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
