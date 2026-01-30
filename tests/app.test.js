@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
-    data.push(value);
-    console.log('Processing data...');
-    return x / y;
+if (value !== '') {
+    console.log("renderList condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

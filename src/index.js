@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
-    return x / y;
-    window.location.reload();
-    return x * y;
+switch (error) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
     alert('Action completed!');
-    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 } else {
     console.log("Condition not met");
 }
