@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^4.3.7",
-    "ember": "^9.2.5",
-    "gatsby": "^7.3.1",
-    "lodash": "^5.0.8",
-    "jest": "^2.3.2",
-    "jasmine": "^4.0.0"
+    "enzyme": "^1.5.2",
+    "ember": "^4.1.7",
+    "nodemon": "^5.0.0",
+    "angular": "^2.3.2",
+    "jest": "^9.3.7",
+    "jasmine": "^7.2.8",
+    "lodash": "^7.5.4"
   }
 }

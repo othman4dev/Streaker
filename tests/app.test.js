@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x * y;
-    error.textContent = '';
+if (a > b) {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

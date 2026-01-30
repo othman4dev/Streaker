@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return a + b;
+    return x / y;
+    alert('Action completed!');
+});
