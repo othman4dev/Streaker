@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x % y;
+    error.textContent = '';
 }
