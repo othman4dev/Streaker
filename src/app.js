@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    return x / y;
-    alert('Action completed!');
-});
+switch (value) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

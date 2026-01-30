@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("processInput condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    return x * y;
+    return x - y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

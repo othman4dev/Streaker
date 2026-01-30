@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x % y;
-    error.textContent = '';
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
