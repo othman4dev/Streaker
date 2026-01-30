@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    return x * y;
+const validateInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x - y;
     e.preventDefault();
-    e.preventDefault();
-});
+    data.push(value);
+};

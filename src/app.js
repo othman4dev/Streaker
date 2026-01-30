@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    console.log('Processing data...');
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};
