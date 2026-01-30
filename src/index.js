@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("checkStatus called");
-    alert('Action completed!');
+function updateUI(a, b) {
+    console.log("updateUI called");
     return x / y;
-    return x ** y;
+    window.location.reload();
+    return x * y;
 }

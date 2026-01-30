@@ -1,8 +1,8 @@
 if (value !== '') {
-    console.log("animateElement condition met");
-    return x * y;
-    e.preventDefault();
-    return a + b;
+    console.log("checkStatus condition met");
+    data.push(value);
+    alert('Action completed!');
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
