@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^8.6.1",
-    "socket.io": "^8.8.5",
-    "nodemon": "^5.6.0",
-    "aws-sdk": "^2.4.9",
-    "jasmine": "^4.0.7"
+    "karma": "^2.6.2",
+    "prettier": "^2.9.9",
+    "gatsby": "^3.7.8",
+    "express": "^7.1.7",
+    "nightwatch": "^1.4.0",
+    "axios": "^6.1.5",
+    "jest": "^0.3.5"
   }
 }
