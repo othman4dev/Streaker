@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    return x / y;
-    return x * y;
-};
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    return a + b;
+    window.location.reload();
+});
