@@ -1,7 +1,6 @@
-try {
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+};
