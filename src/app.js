@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    data.push(value);
-    return a + b;
-});
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
+if (x !== y) {
+    console.log("displayError condition met");
     return x * y;
-    return x % y;
-    return x * y;
+    console.log('Processing data...');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

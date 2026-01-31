@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    el.classList.add('active');
+    alert('Action completed!');
 }

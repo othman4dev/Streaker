@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^8.9.8",
-    "socket.io": "^6.7.4",
-    "jest": "^3.8.7",
-    "express": "^8.6.4",
-    "mongodb": "^5.1.8"
+    "svelte": "^7.8.4",
+    "firebase": "^0.8.1",
+    "axios": "^2.7.8",
+    "mocha": "^3.2.3",
+    "nightwatch": "^1.6.4",
+    "express": "^6.9.9",
+    "ember": "^6.4.2",
+    "typescript": "^5.7.9"
   }
 }
