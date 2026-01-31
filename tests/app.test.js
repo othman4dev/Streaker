@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    e.preventDefault();
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    return x % y;
 }

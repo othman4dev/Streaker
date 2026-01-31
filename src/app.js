@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    window.location.reload();
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    error.textContent = '';
+});

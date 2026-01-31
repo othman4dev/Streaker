@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x ** y;
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
     return a + b;
-    el.classList.add('active');
 };
