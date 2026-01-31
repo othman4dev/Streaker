@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+const loadData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+};
