@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    return x * y;
 }
