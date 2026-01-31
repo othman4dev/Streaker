@@ -1,7 +1,8 @@
-switch (e) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("setCookie condition met");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
