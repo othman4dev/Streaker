@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^4.2.8",
-    "socket.io": "^0.1.9",
-    "mocha": "^7.4.5",
-    "aws-sdk": "^1.7.2",
-    "moment": "^9.9.7"
+    "jasmine": "^0.6.5",
+    "ember": "^0.2.7",
+    "webpack": "^7.1.2",
+    "karma": "^7.2.8",
+    "lodash": "^7.1.4",
+    "chai": "^7.5.4",
+    "vue": "^9.0.5"
   }
 }

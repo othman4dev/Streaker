@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    return x ** y;
-    data.push(value);
-}
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    e.preventDefault();
+};

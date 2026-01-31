@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    alert('Action completed!');
+try {
+    return x * y;
     console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
