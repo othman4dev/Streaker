@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("loadData condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
