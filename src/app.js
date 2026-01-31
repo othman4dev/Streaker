@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    error.textContent = '';
-});
+if (a > b) {
+    console.log("displayError condition met");
+    return x - y;
+    return a + b;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
