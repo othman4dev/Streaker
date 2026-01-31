@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("processInput called");
-    return x / y;
-    error.textContent = '';
-    return x * y;
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    window.location.reload();
+    return x - y;
+});
