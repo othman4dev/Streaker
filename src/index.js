@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    return x / y;
-    return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
