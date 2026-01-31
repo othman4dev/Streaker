@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    data.push(value);
+    return a + b;
+});

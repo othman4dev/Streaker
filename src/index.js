@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    return x % y;
-    return x / y;
+try {
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

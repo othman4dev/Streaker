@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    e.preventDefault();
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    return x * y;
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
