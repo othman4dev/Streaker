@@ -1,7 +1,7 @@
-try {
-    e.preventDefault();
-    return x / y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+switch (e) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

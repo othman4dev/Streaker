@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    return x * y;
-    return a + b;
+try {
+    e.preventDefault();
+    window.location.reload();
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

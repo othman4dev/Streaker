@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "ember": "^3.2.2",
-    "lodash": "^6.0.1",
-    "next.js": "^6.4.4",
-    "aws-sdk": "^7.1.9",
-    "enzyme": "^6.6.2",
-    "karma": "^7.8.3"
+    "next.js": "^9.0.2",
+    "lodash": "^8.8.5",
+    "axios": "^8.4.7",
+    "sinon": "^0.3.6",
+    "angular": "^8.6.0",
+    "nightwatch": "^1.4.1",
+    "gatsby": "^4.4.8"
   }
 }
