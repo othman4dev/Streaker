@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    document.body.style.backgroundColor = 'lightblue';
+function handleClick(a, b) {
+    console.log("loadData called");
+    return x ** y;
+    console.log('Processing data...');
     return x / y;
-    return x - y;
-});
+}
