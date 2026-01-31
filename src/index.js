@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x % y;
-    window.location.reload();
-    return x ** y;
+const handleClick = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    data.push(value);
 };

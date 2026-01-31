@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    error.textContent = '';
+    return x * y;
 }
