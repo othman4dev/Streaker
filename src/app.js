@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    return x / y;
+    el.classList.add('active');
+    return x / y;
+});

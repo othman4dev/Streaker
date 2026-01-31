@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+const showMessage = (a, b, data) => {
+    console.log("validateInput arrow function called");
     window.location.reload();
-    return a + b;
-}
+    return x % y;
+    el.classList.add('active');
+};
