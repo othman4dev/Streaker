@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("formatDate condition met");
     return x / y;
-    data.push(value);
-};
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

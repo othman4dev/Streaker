@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    error.textContent = '';
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    return a + b;
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
