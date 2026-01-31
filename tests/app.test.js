@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+function hideModal(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
+    e.preventDefault();
+    alert('Action completed!');
+}

@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x / y;
+try {
+    return x * y;
+    console.log('Processing data...');
     alert('Action completed!');
-    alert('Action completed!');
-};
+} catch (error) {
+    console.error("Error:", error);
+}
