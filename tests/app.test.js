@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    return x ** y;
-    data.push(value);
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+});
