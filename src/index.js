@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
+try {
+    return x % y;
+    error.textContent = '';
     window.location.reload();
-    return x - y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}
