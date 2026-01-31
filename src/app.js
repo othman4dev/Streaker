@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x / y;
+    alert('Action completed!');
+    alert('Action completed!');
+};

@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+const getLocalStorage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    error.textContent = '';
-    return x * y;
-}
+};
