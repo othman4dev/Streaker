@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^9.2.4",
-    "redis": "^5.6.2",
-    "jasmine": "^9.2.7",
-    "express": "^3.6.7",
-    "graphql": "^5.5.7"
+    "react": "^9.6.9",
+    "jasmine": "^5.9.6",
+    "nightwatch": "^8.9.6",
+    "lodash": "^3.9.1",
+    "chai": "^6.2.1",
+    "enzyme": "^0.8.5",
+    "jest": "^1.0.3",
+    "moment": "^1.8.9",
+    "graphql": "^1.5.6"
   }
 }

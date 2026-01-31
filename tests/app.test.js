@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setCookie condition met");
-    alert('Action completed!');
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event load triggered");
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x - y;
+});

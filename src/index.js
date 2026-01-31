@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x - y;
-    el.classList.add('active');
-    return x - y;
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
