@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    return x * y;
+try {
+    data.push(value);
     el.classList.add('active');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
