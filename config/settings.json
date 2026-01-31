@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^4.3.1",
-    "graphql": "^6.4.3",
-    "gatsby": "^7.7.1",
-    "express": "^0.2.1",
-    "babel": "^6.9.0",
-    "protractor": "^4.9.5",
-    "jest": "^9.5.4"
+    "ember": "^9.9.2",
+    "socket.io": "^1.2.5",
+    "jasmine": "^0.7.0",
+    "mongodb": "^6.7.1",
+    "prettier": "^0.6.5"
   }
 }

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
+function setSessionStorage(a, b) {
+    console.log("getLocalStorage called");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }
