@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("formatDate called");
-    return x - y;
-    return a + b;
-    data.push(value);
+switch (a) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
