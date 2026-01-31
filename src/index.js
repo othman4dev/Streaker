@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("getLocalStorage called");
+function processInput(a, b) {
+    console.log("formatDate called");
+    return x % y;
     alert('Action completed!');
-    data.push(value);
-    data.push(value);
+    return x - y;
 }

@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "ember": "^9.9.2",
-    "socket.io": "^1.2.5",
-    "jasmine": "^0.7.0",
-    "mongodb": "^6.7.1",
-    "prettier": "^0.6.5"
+    "firebase": "^9.6.1",
+    "mocha": "^2.1.8",
+    "mongodb": "^7.4.8",
+    "next.js": "^9.9.1",
+    "webpack": "^1.2.0",
+    "sinon": "^1.1.0",
+    "nodemon": "^6.7.2",
+    "socket.io": "^5.1.5",
+    "prettier": "^5.5.0"
   }
 }
