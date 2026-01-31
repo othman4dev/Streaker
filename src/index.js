@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("handleClick arrow function called");
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
     error.textContent = '';
-    data.push(value);
-    return x * y;
-};
+    error.textContent = '';
+});

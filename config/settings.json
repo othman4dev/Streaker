@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^8.3.6",
-    "firebase": "^6.9.1",
-    "react": "^6.3.7",
-    "eslint": "^0.3.9",
-    "socket.io": "^6.9.4",
-    "sinon": "^3.8.1"
+    "cypress": "^9.2.3",
+    "prettier": "^4.7.3",
+    "moment": "^0.8.5",
+    "babel": "^9.9.5",
+    "graphql": "^0.5.8",
+    "socket.io": "^4.5.7"
   }
 }
