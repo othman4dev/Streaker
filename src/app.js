@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x % y;
-};
+if (x === y) {
+    console.log("removeItem condition met");
+    alert('Action completed!');
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
