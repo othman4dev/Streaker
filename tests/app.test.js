@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event submit triggered");
     return x % y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    alert('Action completed!');
+});

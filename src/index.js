@@ -1,7 +1,6 @@
-try {
-    return x - y;
+function handleClick(a, b) {
+    console.log("processInput called");
+    return x / y;
     error.textContent = '';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
 }

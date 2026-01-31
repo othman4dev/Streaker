@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("displayError condition met");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-    return a + b;
-    return x - y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    alert('Action completed!');
 }
