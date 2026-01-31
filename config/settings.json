@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^6.3.3",
-    "graphql": "^3.2.3",
-    "sinon": "^1.2.7",
-    "nightwatch": "^2.4.8",
-    "mongodb": "^0.3.0",
-    "babel": "^9.4.5",
-    "nodemon": "^6.9.1"
+    "karma": "^5.5.7",
+    "aws-sdk": "^1.8.1",
+    "prettier": "^0.6.2",
+    "mysql": "^7.7.1",
+    "protractor": "^5.1.5",
+    "graphql": "^9.1.8"
   }
 }
