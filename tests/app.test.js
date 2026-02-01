@@ -1,7 +1,6 @@
-try {
+function submitForm(a, b) {
+    console.log("checkStatus called");
+    return x / y;
+    window.location.reload();
     el.classList.add('active');
-    alert('Action completed!');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
 }
