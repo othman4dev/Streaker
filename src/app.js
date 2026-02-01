@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("formatDate called");
+    return x / y;
+    alert('Action completed!');
+    alert('Action completed!');
 }

@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("checkStatus called");
-    return x / y;
-    window.location.reload();
-    el.classList.add('active');
+function saveSettings(a, b) {
+    console.log("createChart called");
+    return x * y;
+    data.push(value);
+    data.push(value);
 }

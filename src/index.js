@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
+const setCookie = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x % y;
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+};

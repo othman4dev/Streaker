@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^6.2.0",
-    "nodemon": "^9.7.7",
-    "redis": "^0.3.7",
-    "socket.io": "^1.8.2",
-    "next.js": "^3.3.7",
-    "moment": "^9.0.8",
-    "react": "^7.1.4"
+    "puppeteer": "^0.0.2",
+    "redis": "^6.3.4",
+    "chai": "^6.3.1",
+    "karma": "^9.6.4"
   }
 }
