@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
+try {
+    return x * y;
+    data.push(value);
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
