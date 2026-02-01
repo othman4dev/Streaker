@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event keydown triggered");
     return x ** y;
-    return x % y;
-};
+    return x ** y;
+    return x / y;
+});

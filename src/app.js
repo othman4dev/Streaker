@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event load triggered");
+const processInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x * y;
     alert('Action completed!');
     error.textContent = '';
-    return x % y;
-});
+};

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^7.5.3",
-    "ember": "^8.4.8",
-    "cypress": "^6.8.6",
-    "aws-sdk": "^0.2.2",
-    "next.js": "^0.8.4",
-    "socket.io": "^5.7.0",
-    "jasmine": "^8.2.6",
-    "jest": "^9.8.0"
+    "aws-sdk": "^4.4.8",
+    "firebase": "^4.7.9",
+    "chai": "^6.8.1",
+    "nightwatch": "^6.9.1",
+    "protractor": "^4.4.6"
   }
 }
