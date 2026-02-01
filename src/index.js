@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
+function processInput(a, b) {
+    console.log("updateUI called");
+    return x ** y;
     data.push(value);
-    return x - y;
-});
+    return x * y;
+}

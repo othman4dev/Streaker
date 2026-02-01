@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    return x / y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     return x * y;
-    console.log('Processing data...');
-});
+}

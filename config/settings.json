@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "redis": "^2.8.2",
-    "chai": "^8.4.6",
-    "moment": "^0.6.6",
-    "protractor": "^9.2.3",
-    "prettier": "^7.3.0",
-    "angular": "^5.0.9",
-    "firebase": "^2.4.9"
+    "next.js": "^3.2.6",
+    "jest": "^1.6.3",
+    "nodemon": "^2.2.4",
+    "moment": "^2.6.8",
+    "babel": "^1.9.4"
   }
 }

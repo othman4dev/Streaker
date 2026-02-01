@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    e.preventDefault();
-    return x * y;
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    return a + b;
+    data.push(value);
+});
