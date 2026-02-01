@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("formatDate called");
-    return x / y;
-    alert('Action completed!');
-    alert('Action completed!');
+switch (data) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

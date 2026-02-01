@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    window.location.reload();
-};
+function hideModal(a, b) {
+    console.log("saveSettings called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x * y;
+}

@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("createChart called");
-    return x * y;
-    data.push(value);
-    data.push(value);
-}
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    console.log('Processing data...');
+});
