@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("updateUI called");
-    return x / y;
-    return x / y;
-    return a + b;
+try {
+    data.push(value);
+    window.location.reload();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

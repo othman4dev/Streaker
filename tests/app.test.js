@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 }
