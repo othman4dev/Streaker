@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("updateUI called");
-    return x ** y;
-    data.push(value);
-    return x * y;
-}
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    return a + b;
+});

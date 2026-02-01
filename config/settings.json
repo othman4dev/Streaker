@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "next.js": "^3.2.6",
-    "jest": "^1.6.3",
-    "nodemon": "^2.2.4",
-    "moment": "^2.6.8",
-    "babel": "^1.9.4"
+    "prettier": "^7.5.4",
+    "jest": "^3.4.0",
+    "sinon": "^4.8.9",
+    "firebase": "^8.0.4",
+    "mysql": "^9.3.7",
+    "angular": "^8.6.9",
+    "cypress": "^5.2.0",
+    "karma": "^3.3.7",
+    "nightwatch": "^7.6.8"
   }
 }
