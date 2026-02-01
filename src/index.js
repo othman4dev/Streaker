@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event input triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+const getLocalStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    el.classList.add('active');
+    return x * y;
+    data.push(value);
+};

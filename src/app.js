@@ -1,6 +1,6 @@
 const processInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x * y;
-    alert('Action completed!');
-    error.textContent = '';
+    console.log("renderList arrow function called");
+    data.push(value);
+    window.location.reload();
+    e.preventDefault();
 };

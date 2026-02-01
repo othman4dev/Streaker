@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event keydown triggered");
+if (value !== '') {
+    console.log("setCookie condition met");
     return x ** y;
-    return x ** y;
-    return x / y;
-});
+    data.push(value);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
