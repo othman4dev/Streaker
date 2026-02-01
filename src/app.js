@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    return x ** y;
-    return x - y;
-});
+const renderList = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    alert('Action completed!');
+};

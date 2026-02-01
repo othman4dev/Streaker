@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "vue": "^5.5.3",
-    "sinon": "^6.7.9",
-    "puppeteer": "^5.2.6",
-    "next.js": "^4.6.7",
-    "aws-sdk": "^7.8.5",
-    "karma": "^0.8.7"
+    "ember": "^4.7.5",
+    "mocha": "^6.8.4",
+    "protractor": "^6.5.0",
+    "cypress": "^6.0.8",
+    "next.js": "^4.5.3"
   }
 }
