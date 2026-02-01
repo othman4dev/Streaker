@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
-    return x - y;
+function validateInput(a, b) {
+    console.log("updateUI called");
     el.classList.add('active');
-};
+    return x % y;
+    return x / y;
+}

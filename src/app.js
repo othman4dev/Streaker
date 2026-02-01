@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x ** y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("hideModal called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x % y;
 }

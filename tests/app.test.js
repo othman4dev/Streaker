@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
-    data.push(value);
-    data.push(value);
-}
+const checkStatus = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x - y;
+    return x ** y;
+    error.textContent = '';
+};
