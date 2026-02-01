@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("displayError called");
+    el.classList.add('active');
+    alert('Action completed!');
+    el.classList.add('active');
 }

@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("hideModal called");
-    error.textContent = '';
-    data.push(value);
-    window.location.reload();
+try {
+    return x - y;
+    return x % y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
