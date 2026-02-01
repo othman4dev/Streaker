@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x ** y;
-    return x % y;
-    return x - y;
-};
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});

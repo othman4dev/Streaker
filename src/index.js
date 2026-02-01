@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    return x - y;
-    return x ** y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    console.log('Processing data...');
+    window.location.reload();
 }
