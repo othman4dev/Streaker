@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return x / y;
     return x * y;
     console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+});

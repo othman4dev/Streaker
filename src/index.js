@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
-    el.classList.add('active');
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event input triggered");
     alert('Action completed!');
-}
+    data.push(value);
+    return x - y;
+});
