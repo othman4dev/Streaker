@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x * y;
+    error.textContent = '';
+    console.log('Processing data...');
+};

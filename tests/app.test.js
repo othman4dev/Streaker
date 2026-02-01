@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event resize triggered");
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    alert('Action completed!');
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    el.classList.add('active');
-});
+};
