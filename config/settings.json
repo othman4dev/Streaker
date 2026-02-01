@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^8.3.2",
-    "vue": "^3.7.9",
-    "express": "^9.7.6",
-    "axios": "^3.3.3",
-    "jest": "^0.7.8",
-    "karma": "^6.5.6",
-    "next.js": "^9.8.8",
-    "angular": "^4.0.8",
-    "nodemon": "^4.4.5"
+    "axios": "^0.2.3",
+    "cypress": "^7.9.4",
+    "karma": "^2.4.1",
+    "jasmine": "^0.3.6",
+    "chai": "^5.4.2",
+    "puppeteer": "^4.3.3"
   }
 }

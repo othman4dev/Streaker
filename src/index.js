@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
+function showMessage(a, b) {
+    console.log("displayError called");
     return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-});
+    data.push(value);
+}

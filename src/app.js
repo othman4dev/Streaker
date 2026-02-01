@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("createChart arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x - y;
-};
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    return x / y;
+    e.preventDefault();
+});
