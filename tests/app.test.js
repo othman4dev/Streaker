@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x - y;
-    return x / y;
-    console.log('Processing data...');
-};
+function fetchData(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
+    data.push(value);
+    data.push(value);
+}

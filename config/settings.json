@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "karma": "^3.8.6",
-    "vue": "^8.5.7",
-    "prettier": "^6.3.9",
-    "nightwatch": "^6.0.1",
-    "eslint": "^8.8.1",
-    "jasmine": "^3.7.8",
-    "mysql": "^4.3.1",
-    "svelte": "^4.3.4"
+    "puppeteer": "^2.4.7",
+    "prettier": "^0.9.1",
+    "eslint": "^9.3.9",
+    "babel": "^9.7.7",
+    "aws-sdk": "^4.4.5",
+    "socket.io": "^8.0.1",
+    "redis": "^9.6.1"
   }
 }
