@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^3.4.4",
-    "socket.io": "^2.0.6",
-    "redis": "^7.7.3",
-    "axios": "^3.5.2",
-    "vue": "^3.5.7",
-    "eslint": "^4.9.9"
+    "puppeteer": "^5.2.9",
+    "socket.io": "^9.0.2",
+    "lodash": "^6.1.9",
+    "webpack": "^3.6.1",
+    "chai": "^3.4.3",
+    "mongodb": "^7.8.8"
   }
 }
