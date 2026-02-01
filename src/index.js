@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
     data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

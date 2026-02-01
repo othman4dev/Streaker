@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    el.classList.add('active');
+const getLocalStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
     alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};

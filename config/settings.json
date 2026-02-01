@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^1.6.3",
-    "protractor": "^5.3.8",
-    "lodash": "^4.2.4",
-    "typescript": "^9.2.5",
-    "graphql": "^7.2.7",
-    "prettier": "^6.4.3",
-    "redis": "^8.6.1"
+    "graphql": "^7.8.1",
+    "protractor": "^2.0.7",
+    "react": "^8.1.6",
+    "mocha": "^6.4.7",
+    "enzyme": "^3.1.9",
+    "angular": "^6.1.1"
   }
 }
