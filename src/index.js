@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    e.preventDefault();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const renderList = (a, b, data) => {
+    console.log("processInput arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    error.textContent = '';
+};

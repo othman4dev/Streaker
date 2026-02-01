@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    return x % y;
-    alert('Action completed!');
+const processInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
     console.log('Processing data...');
-});
+    el.classList.add('active');
+};
