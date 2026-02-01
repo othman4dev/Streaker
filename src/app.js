@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    alert('Action completed!');
-    return x ** y;
+function setSessionStorage(a, b) {
+    console.log("createChart called");
     error.textContent = '';
-};
+    e.preventDefault();
+    error.textContent = '';
+}

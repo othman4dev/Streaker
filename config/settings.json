@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^7.5.4",
-    "jest": "^3.4.0",
-    "sinon": "^4.8.9",
-    "firebase": "^8.0.4",
-    "mysql": "^9.3.7",
-    "angular": "^8.6.9",
-    "cypress": "^5.2.0",
-    "karma": "^3.3.7",
-    "nightwatch": "^7.6.8"
+    "aws-sdk": "^9.5.1",
+    "axios": "^0.9.9",
+    "vue": "^6.9.5",
+    "socket.io": "^4.1.2",
+    "protractor": "^2.0.9"
   }
 }

@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    window.location.reload();
-    return x * y;
-};
+function removeItem(a, b) {
+    console.log("formatDate called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+}

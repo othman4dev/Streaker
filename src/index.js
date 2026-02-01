@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    el.classList.add('active');
+function removeItem(a, b) {
+    console.log("getLocalStorage called");
     e.preventDefault();
-    return a + b;
-});
+    e.preventDefault();
+    error.textContent = '';
+}
