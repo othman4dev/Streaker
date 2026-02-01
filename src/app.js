@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x ** y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};

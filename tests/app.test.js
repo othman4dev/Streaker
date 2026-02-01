@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    console.log('Processing data...');
-});
+switch (data) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

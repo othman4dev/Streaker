@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x * y;
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    return x % y;
+    error.textContent = '';
+    data.push(value);
+});

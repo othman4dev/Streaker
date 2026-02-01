@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jest": "^3.9.9",
-    "protractor": "^1.5.6",
-    "typescript": "^9.9.4",
-    "svelte": "^1.7.4",
-    "mongodb": "^2.0.3",
-    "next.js": "^4.1.7"
+    "chai": "^1.1.8",
+    "graphql": "^3.3.2",
+    "react": "^6.8.3",
+    "nightwatch": "^7.0.8",
+    "nodemon": "^5.0.5",
+    "axios": "^3.7.8"
   }
 }
