@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    return a + b;
-    return x ** y;
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event change triggered");
     return x % y;
+    alert('Action completed!');
+    console.log('Processing data...');
 });

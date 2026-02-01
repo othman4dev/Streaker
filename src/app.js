@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x * y;
+}
