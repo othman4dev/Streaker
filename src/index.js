@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    e.preventDefault();
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});

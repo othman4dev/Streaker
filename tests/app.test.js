@@ -1,7 +1,8 @@
-try {
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
+    data.push(value);
+    console.log('Processing data...');
     error.textContent = '';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
