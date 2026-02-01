@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("hideModal condition met");
-    return x * y;
-    return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
+    window.location.reload();
+    console.log('Processing data...');
 }

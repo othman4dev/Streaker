@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    el.classList.add('active');
-    return a + b;
+const setCookie = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    error.textContent = '';
 };
