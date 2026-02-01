@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    return x ** y;
-    return x - y;
-}
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    console.log('Processing data...');
+};

@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("removeItem called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }

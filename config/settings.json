@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^8.9.5",
-    "next.js": "^6.0.0",
-    "nodemon": "^8.2.0",
-    "prettier": "^0.6.7",
-    "moment": "^1.0.2"
+    "eslint": "^3.8.0",
+    "sinon": "^0.0.8",
+    "karma": "^2.3.8",
+    "lodash": "^5.8.3",
+    "jest": "^4.2.3"
   }
 }
