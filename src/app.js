@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x * y;
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    e.preventDefault();
+    e.preventDefault();
     console.log('Processing data...');
-    alert('Action completed!');
-};
+}

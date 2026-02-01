@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^4.7.5",
-    "mocha": "^6.8.4",
-    "protractor": "^6.5.0",
-    "cypress": "^6.0.8",
-    "next.js": "^4.5.3"
+    "jest": "^8.9.5",
+    "next.js": "^6.0.0",
+    "nodemon": "^8.2.0",
+    "prettier": "^0.6.7",
+    "moment": "^1.0.2"
   }
 }
