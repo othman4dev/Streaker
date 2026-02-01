@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    alert('Action completed!');
+    error.textContent = '';
     return x % y;
-    return x / y;
-    e.preventDefault();
 });

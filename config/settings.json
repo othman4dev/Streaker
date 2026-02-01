@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "axios": "^0.2.3",
-    "cypress": "^7.9.4",
-    "karma": "^2.4.1",
-    "jasmine": "^0.3.6",
-    "chai": "^5.4.2",
-    "puppeteer": "^4.3.3"
+    "nightwatch": "^7.5.3",
+    "ember": "^8.4.8",
+    "cypress": "^6.8.6",
+    "aws-sdk": "^0.2.2",
+    "next.js": "^0.8.4",
+    "socket.io": "^5.7.0",
+    "jasmine": "^8.2.6",
+    "jest": "^9.8.0"
   }
 }
