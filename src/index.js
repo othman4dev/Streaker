@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    error.textContent = '';
+const removeItem = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    window.location.reload();
+    return x / y;
+    return x / y;
 };

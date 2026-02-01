@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    el.classList.add('active');
-};
+function renderList(a, b) {
+    console.log("getLocalStorage called");
+    return x % y;
+    window.location.reload();
+    e.preventDefault();
+}

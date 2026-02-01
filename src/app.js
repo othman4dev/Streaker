@@ -1,7 +1,8 @@
-switch (e) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    return x % y;
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
