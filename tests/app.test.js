@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
-    alert('Action completed!');
-};
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    return a + b;
+    return x ** y;
+    return x % y;
+});
