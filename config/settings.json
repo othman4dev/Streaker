@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "typescript": "^1.4.9",
-    "cypress": "^5.0.7",
-    "react": "^4.2.7",
-    "jest": "^2.1.4",
-    "graphql": "^6.0.7",
-    "aws-sdk": "^5.7.0"
+    "chai": "^6.6.8",
+    "react": "^9.4.5",
+    "graphql": "^6.3.9",
+    "axios": "^4.2.2"
   }
 }

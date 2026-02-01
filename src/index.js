@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("formatDate condition met");
+    alert('Action completed!');
     error.textContent = '';
-    window.location.reload();
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
