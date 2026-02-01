@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^3.8.0",
-    "sinon": "^0.0.8",
-    "karma": "^2.3.8",
-    "lodash": "^5.8.3",
-    "jest": "^4.2.3"
+    "karma": "^1.6.3",
+    "protractor": "^5.3.8",
+    "lodash": "^4.2.4",
+    "typescript": "^9.2.5",
+    "graphql": "^7.2.7",
+    "prettier": "^6.4.3",
+    "redis": "^8.6.1"
   }
 }

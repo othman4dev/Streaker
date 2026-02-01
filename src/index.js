@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
+if (x !== y) {
+    console.log("validateInput condition met");
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+    data.push(value);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    console.log('Processing data...');
-};
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
