@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x - y;
-    return x ** y;
+function saveSettings(a, b) {
+    console.log("hideModal called");
     error.textContent = '';
-};
+    data.push(value);
+    window.location.reload();
+}
