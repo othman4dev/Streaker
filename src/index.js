@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return a + b;
-    el.classList.add('active');
-    alert('Action completed!');
-};
+function processInput(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    return x * y;
+    return x % y;
+}
