@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    window.location.reload();
-    return x / y;
-    return x / y;
+const renderList = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return a + b;
+    el.classList.add('active');
+    alert('Action completed!');
 };

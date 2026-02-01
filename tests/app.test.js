@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    window.location.reload();
-    e.preventDefault();
+switch (error) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
