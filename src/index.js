@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    el.classList.add('active');
-    alert('Action completed!');
-    el.classList.add('active');
+switch (a) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

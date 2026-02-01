@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
-    console.log('Processing data...');
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    return x ** y;
+    return x - y;
+});
