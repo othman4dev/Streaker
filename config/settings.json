@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "vue": "^6.9.2",
-    "moment": "^6.0.2",
-    "prettier": "^1.5.2",
-    "firebase": "^7.9.0",
-    "react": "^4.2.6",
-    "nightwatch": "^2.6.4",
-    "next.js": "^5.5.8"
+    "mongodb": "^2.2.3",
+    "react": "^9.4.0",
+    "webpack": "^0.0.6",
+    "babel": "^5.8.7",
+    "chai": "^3.6.0",
+    "enzyme": "^2.4.6"
   }
 }
