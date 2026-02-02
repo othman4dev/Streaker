@@ -1,7 +1,7 @@
-switch (data) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

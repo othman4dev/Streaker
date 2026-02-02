@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    error.textContent = '';
-    el.classList.add('active');
-}
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
+    return x ** y;
+    e.preventDefault();
+});
