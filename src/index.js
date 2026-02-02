@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("setSessionStorage called");
-    return x * y;
-    return x * y;
-    return x % y;
-}
+const validateInput = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    data.push(value);
+};
