@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^7.5.5",
-    "graphql": "^2.9.7",
-    "react": "^6.3.4",
-    "ember": "^9.6.9",
-    "mocha": "^6.5.6"
+    "svelte": "^1.9.4",
+    "mysql": "^0.4.4",
+    "sinon": "^6.1.8",
+    "jest": "^1.9.6",
+    "chai": "^6.6.5"
   }
 }
