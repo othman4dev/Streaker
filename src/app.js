@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+const getLocalStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
     window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return x - y;
+};

@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    data.push(value);
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    return x ** y;
+};
