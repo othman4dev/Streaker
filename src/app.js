@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
+if (x === y) {
+    console.log("toggleMenu condition met");
     window.location.reload();
-    return a + b;
-    return x - y;
-};
+    window.location.reload();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

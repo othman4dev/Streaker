@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    return x ** y;
-};
+switch (data) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

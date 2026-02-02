@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "redis": "^3.1.7",
-    "mocha": "^4.1.2",
-    "jest": "^1.5.4",
-    "lodash": "^9.5.7",
-    "axios": "^9.7.5",
-    "vue": "^7.3.0",
-    "typescript": "^1.1.6",
-    "svelte": "^5.0.4"
+    "nightwatch": "^4.9.4",
+    "cypress": "^2.4.9",
+    "prettier": "^9.4.3",
+    "sinon": "^1.5.3",
+    "typescript": "^2.9.3",
+    "redis": "^3.0.4"
   }
 }
