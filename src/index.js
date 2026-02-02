@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("animateElement called");
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
     return x % y;
-    error.textContent = '';
-    error.textContent = '';
-}
+    return a + b;
+});

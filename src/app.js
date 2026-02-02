@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+function saveSettings(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    return x / y;
+    return a + b;
 }
