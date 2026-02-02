@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
+    e.preventDefault();
+    return a + b;
 }
