@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    console.log('Processing data...');
-    return x ** y;
-    e.preventDefault();
-});
+function checkStatus(a, b) {
+    console.log("displayError called");
+    return x - y;
+    alert('Action completed!');
+    el.classList.add('active');
+}

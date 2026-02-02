@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
     e.preventDefault();
-    alert('Action completed!');
-});
+    window.location.reload();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
