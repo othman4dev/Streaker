@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event submit triggered");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
     e.preventDefault();
-    return a + b;
     return x ** y;
-});
+}

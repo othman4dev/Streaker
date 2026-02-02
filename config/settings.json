@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^4.5.4",
-    "react": "^2.3.7",
-    "lodash": "^8.0.4",
-    "webpack": "^1.5.7",
-    "nightwatch": "^7.8.6",
-    "gatsby": "^2.3.6",
-    "typescript": "^9.9.4"
+    "react": "^2.0.3",
+    "jest": "^3.4.7",
+    "enzyme": "^8.8.8",
+    "angular": "^6.4.0",
+    "protractor": "^4.9.0"
   }
 }

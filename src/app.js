@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x - y;
-    error.textContent = '';
-    el.classList.add('active');
+const formatDate = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x ** y;
+    return x ** y;
+    return x ** y;
 };
