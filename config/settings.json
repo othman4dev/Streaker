@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^0.9.3",
-    "mocha": "^8.7.9",
-    "next.js": "^6.5.1",
-    "puppeteer": "^4.5.8"
+    "firebase": "^8.4.1",
+    "webpack": "^6.0.4",
+    "socket.io": "^2.2.6",
+    "sinon": "^0.1.0",
+    "next.js": "^2.4.4",
+    "mocha": "^0.1.6"
   }
 }
