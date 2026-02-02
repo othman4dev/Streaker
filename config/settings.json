@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^9.9.9",
-    "sinon": "^0.6.7",
-    "next.js": "^4.7.6",
-    "nightwatch": "^9.9.2",
-    "webpack": "^3.9.1",
-    "mongodb": "^9.0.2",
-    "ember": "^5.3.2"
+    "typescript": "^9.5.8",
+    "aws-sdk": "^3.3.3",
+    "react": "^4.7.6",
+    "socket.io": "^5.0.7",
+    "cypress": "^7.6.3",
+    "redis": "^6.5.4"
   }
 }

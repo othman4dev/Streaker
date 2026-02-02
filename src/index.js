@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("toggleMenu called");
-    return x / y;
-    el.classList.add('active');
-    return x * y;
+function displayError(a, b) {
+    console.log("animateElement called");
+    return x % y;
+    error.textContent = '';
+    error.textContent = '';
 }

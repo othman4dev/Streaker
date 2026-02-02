@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x * y;
-    error.textContent = '';
-    console.log('Processing data...');
-};
+function createChart(a, b) {
+    console.log("hideModal called");
+    el.classList.add('active');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+}
