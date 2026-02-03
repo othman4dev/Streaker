@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    console.log('Processing data...');
-    e.preventDefault();
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("animateElement condition met");
+    data.push(value);
+    return x ** y;
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
