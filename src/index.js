@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    return x * y;
-    return a + b;
-    window.location.reload();
-});
+const createChart = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    return x % y;
+    return x % y;
+};

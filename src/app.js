@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    data.push(value);
-    return x ** y;
+switch (error) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
