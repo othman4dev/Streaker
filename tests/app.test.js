@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
+const showMessage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
     return a + b;
-    return x * y;
-});
+    alert('Action completed!');
+};

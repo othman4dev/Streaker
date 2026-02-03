@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^2.9.2",
-    "axios": "^8.0.4",
-    "puppeteer": "^5.2.4",
-    "gatsby": "^4.5.5",
-    "react": "^5.0.9",
-    "protractor": "^9.2.1"
+    "webpack": "^5.2.9",
+    "svelte": "^6.4.9",
+    "mocha": "^7.0.0",
+    "mongodb": "^0.4.6",
+    "puppeteer": "^5.4.8",
+    "mysql": "^0.1.3"
   }
 }
