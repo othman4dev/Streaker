@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    return a + b;
+    return x ** y;
+});

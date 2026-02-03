@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x - y;
+    error.textContent = '';
+    el.classList.add('active');
+};
