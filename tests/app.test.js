@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
-    return x - y;
-    alert('Action completed!');
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    console.log('Processing data...');
+    el.classList.add('active');
+}

@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("getLocalStorage called");
+    error.textContent = '';
+    data.push(value);
+    return x ** y;
 }

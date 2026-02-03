@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.8.1",
-    "socket.io": "^1.1.9",
-    "jest": "^7.7.0",
-    "protractor": "^6.4.0",
-    "vue": "^0.0.0",
-    "nodemon": "^7.1.8"
+    "next.js": "^3.3.6",
+    "mocha": "^6.0.2",
+    "vue": "^7.9.6",
+    "ember": "^4.0.5",
+    "lodash": "^1.6.4",
+    "axios": "^2.2.3",
+    "typescript": "^0.4.5"
   }
 }
