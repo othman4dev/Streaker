@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return a + b;
-    return a + b;
-    return x / y;
+const createChart = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x % y;
 };
