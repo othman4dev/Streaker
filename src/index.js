@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("fetchData arrow function called");
+function checkStatus(a, b) {
+    console.log("createChart called");
     window.location.reload();
-    return x % y;
+    data.push(value);
     alert('Action completed!');
-};
+}

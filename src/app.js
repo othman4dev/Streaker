@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    return x / y;
-    return x % y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
 }

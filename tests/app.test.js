@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    return x * y;
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    console.log('Processing data...');
+    window.location.reload();
 });
