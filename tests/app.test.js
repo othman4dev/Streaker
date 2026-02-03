@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    alert('Action completed!');
-    return a + b;
-    alert('Action completed!');
-};
+if (value !== '') {
+    console.log("processInput condition met");
+    error.textContent = '';
+    window.location.reload();
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

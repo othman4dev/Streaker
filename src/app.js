@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    window.location.reload();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};
