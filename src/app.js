@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
+    return x - y;
     console.log('Processing data...');
-    return a + b;
-    return a + b;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
