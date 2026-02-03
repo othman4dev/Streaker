@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+function createChart(a, b) {
+    console.log("loadData called");
+    el.classList.add('active');
     return x % y;
-};
+    console.log('Processing data...');
+}

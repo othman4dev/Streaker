@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^8.9.8",
-    "jest": "^4.0.4",
-    "jasmine": "^1.4.4",
-    "protractor": "^2.5.4",
-    "webpack": "^6.9.5",
-    "mysql": "^3.9.2",
-    "redis": "^0.6.0"
+    "eslint": "^5.3.7",
+    "express": "^7.1.5",
+    "mongodb": "^0.2.7",
+    "enzyme": "^0.3.9",
+    "vue": "^6.3.6"
   }
 }

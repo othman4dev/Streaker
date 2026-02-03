@@ -1,7 +1,6 @@
-try {
+const setSessionStorage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
     return x - y;
-    error.textContent = '';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+};

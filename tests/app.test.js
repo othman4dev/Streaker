@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+const fetchData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return a + b;
     data.push(value);
-}
+    e.preventDefault();
+};
