@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("displayError called");
-    return x - y;
-    alert('Action completed!');
-    el.classList.add('active');
+try {
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
-    e.preventDefault();
-    window.location.reload();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    return x * y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
