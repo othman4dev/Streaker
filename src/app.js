@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return x * y;
-    error.textContent = '';
-});
+switch (a) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

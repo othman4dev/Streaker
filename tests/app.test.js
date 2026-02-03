@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
     e.preventDefault();
-    return x - y;
-};
+    data.push(value);
+});
