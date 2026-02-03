@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    window.location.reload();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }

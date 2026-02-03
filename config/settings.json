@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^4.9.4",
-    "cypress": "^2.4.9",
-    "prettier": "^9.4.3",
-    "sinon": "^1.5.3",
-    "typescript": "^2.9.3",
-    "redis": "^3.0.4"
+    "express": "^2.9.2",
+    "axios": "^8.0.4",
+    "puppeteer": "^5.2.4",
+    "gatsby": "^4.5.5",
+    "react": "^5.0.9",
+    "protractor": "^9.2.1"
   }
 }
