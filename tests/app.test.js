@@ -1,7 +1,8 @@
-try {
+if (value !== '') {
+    console.log("checkStatus condition met");
+    return x / y;
+    el.classList.add('active');
     console.log('Processing data...');
-    return x - y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

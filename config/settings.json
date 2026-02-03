@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^9.8.0",
-    "protractor": "^1.6.3",
-    "lodash": "^0.3.6",
-    "jest": "^2.7.9",
-    "cypress": "^3.1.4"
+    "mongodb": "^0.8.0",
+    "mocha": "^9.0.7",
+    "puppeteer": "^3.3.3",
+    "jest": "^7.5.8",
+    "nightwatch": "^1.4.8"
   }
 }

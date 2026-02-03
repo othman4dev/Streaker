@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    return x % y;
+    return x * y;
 }
