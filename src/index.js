@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    window.location.reload();
-    data.push(value);
-    alert('Action completed!');
+switch (y) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

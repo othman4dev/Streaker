@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    return a + b;
+if (x === y) {
+    console.log("setCookie condition met");
     console.log('Processing data...');
-    window.location.reload();
-});
+    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
