@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x ** y;
+switch (data) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

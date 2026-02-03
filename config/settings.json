@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^1.2.5",
-    "babel": "^7.2.9",
-    "firebase": "^6.6.4",
-    "mongodb": "^9.5.3",
-    "moment": "^9.0.9",
-    "puppeteer": "^6.9.3",
-    "express": "^3.9.3",
-    "jest": "^4.3.2"
+    "aws-sdk": "^1.8.1",
+    "socket.io": "^1.1.9",
+    "jest": "^7.7.0",
+    "protractor": "^6.4.0",
+    "vue": "^0.0.0",
+    "nodemon": "^7.1.8"
   }
 }
