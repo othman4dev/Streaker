@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    return x % y;
+    alert('Action completed!');
+};
