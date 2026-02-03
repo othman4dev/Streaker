@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    data.push(value);
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    return a + b;
+    return x - y;
+});
