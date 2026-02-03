@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    data.push(value);
+if (x === y) {
+    console.log("submitForm condition met");
+    console.log('Processing data...');
     e.preventDefault();
-};
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

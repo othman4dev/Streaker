@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^5.3.7",
-    "express": "^7.1.5",
-    "mongodb": "^0.2.7",
-    "enzyme": "^0.3.9",
-    "vue": "^6.3.6"
+    "ember": "^5.4.1",
+    "lodash": "^3.7.4",
+    "react": "^5.8.0",
+    "express": "^0.1.0",
+    "puppeteer": "^4.6.5",
+    "graphql": "^4.8.7"
   }
 }

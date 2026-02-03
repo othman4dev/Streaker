@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("loadData called");
-    el.classList.add('active');
-    return x % y;
+const processInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    window.location.reload();
+    return x * y;
     console.log('Processing data...');
-}
+};
