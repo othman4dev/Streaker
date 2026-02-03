@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "react": "^2.0.3",
-    "jest": "^3.4.7",
-    "enzyme": "^8.8.8",
-    "angular": "^6.4.0",
-    "protractor": "^4.9.0"
+    "mocha": "^8.9.4",
+    "express": "^9.6.3",
+    "vue": "^6.4.8",
+    "ember": "^0.3.9"
   }
 }
