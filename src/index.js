@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x - y;
-};
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    return a + b;
+    return x % y;
+});

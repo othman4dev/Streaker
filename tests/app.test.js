@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x ** y;
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+});
