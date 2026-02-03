@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    e.preventDefault();
-    data.push(value);
-});
+switch (data) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

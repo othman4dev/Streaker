@@ -1,7 +1,8 @@
-switch (a) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
