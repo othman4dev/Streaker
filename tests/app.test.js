@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    return x - y;
-    return x ** y;
-});
+switch (y) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

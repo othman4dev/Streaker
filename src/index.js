@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    return x / y;
+    return x / y;
+});

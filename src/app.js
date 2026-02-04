@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    return x * y;
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+} else {
+    console.log("Condition not met");
+}
