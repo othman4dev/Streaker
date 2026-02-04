@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x / y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x % y;
+    return x % y;
+}
