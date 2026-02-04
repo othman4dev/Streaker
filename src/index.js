@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
-    alert('Action completed!');
-    alert('Action completed!');
-});
+const handleClick = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+};

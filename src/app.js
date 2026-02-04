@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    return a + b;
-    window.location.reload();
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const updateUI = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+};
