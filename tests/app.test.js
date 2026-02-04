@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event load triggered");
-    return x * y;
-    return x ** y;
-    return x % y;
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    return a + b;
+    error.textContent = '';
 });

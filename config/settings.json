@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "lodash": "^8.3.6",
-    "redis": "^6.7.9",
-    "sinon": "^9.9.5",
-    "firebase": "^9.7.4",
-    "gatsby": "^8.3.5"
+    "typescript": "^2.4.0",
+    "nodemon": "^7.6.0",
+    "enzyme": "^1.1.0",
+    "gatsby": "^7.5.6"
   }
 }
