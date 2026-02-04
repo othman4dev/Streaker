@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    return a + b;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function displayError(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    console.log('Processing data...');
+    return x * y;
+}
