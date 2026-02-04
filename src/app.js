@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     return x * y;
-    return x / y;
-    return x * y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+}

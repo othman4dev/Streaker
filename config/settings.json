@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^0.4.6",
-    "karma": "^4.0.1",
-    "nightwatch": "^7.0.7",
-    "angular": "^1.6.2",
-    "mysql": "^2.8.3",
-    "puppeteer": "^3.0.6"
+    "eslint": "^6.4.1",
+    "aws-sdk": "^2.4.9",
+    "cypress": "^5.5.1",
+    "redis": "^4.6.6",
+    "express": "^5.3.9",
+    "webpack": "^5.8.7",
+    "gatsby": "^5.0.1"
   }
 }
