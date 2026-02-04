@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    e.preventDefault();
-    error.textContent = '';
-};
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    data.push(value);
+    console.log('Processing data...');
+}

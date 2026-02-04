@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("checkStatus called");
-    return x - y;
+const displayError = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
     window.location.reload();
-    return x ** y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
