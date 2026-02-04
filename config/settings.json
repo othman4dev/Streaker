@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^3.1.9",
-    "moment": "^0.8.8",
-    "firebase": "^7.7.1",
-    "ember": "^8.8.3",
-    "chai": "^5.5.6",
-    "jasmine": "^9.8.3"
+    "jest": "^4.8.9",
+    "puppeteer": "^3.8.5",
+    "next.js": "^2.7.4",
+    "enzyme": "^6.8.3",
+    "lodash": "^6.7.0",
+    "redis": "^4.0.6",
+    "karma": "^5.0.6",
+    "graphql": "^5.4.6"
   }
 }
