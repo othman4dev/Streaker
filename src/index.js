@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    return x % y;
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

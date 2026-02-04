@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    return a + b;
-    return a + b;
-    error.textContent = '';
-});
+try {
+    console.log('Processing data...');
+    return x - y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
