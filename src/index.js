@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event resize triggered");
-    return x - y;
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    return x / y;
-});
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
