@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
+try {
+    return a + b;
+    data.push(value);
     return x * y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-};
+} catch (error) {
+    console.error("Error:", error);
+}

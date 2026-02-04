@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
+    return a + b;
+    alert('Action completed!');
+};
