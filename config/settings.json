@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "express": "^1.1.2",
-    "socket.io": "^5.7.5",
-    "karma": "^7.3.3",
-    "chai": "^6.1.2",
-    "nightwatch": "^7.7.3",
-    "eslint": "^1.9.2"
+    "svelte": "^9.1.6",
+    "moment": "^8.2.6",
+    "webpack": "^3.9.7",
+    "react": "^5.1.0",
+    "express": "^2.7.8",
+    "mysql": "^4.8.1",
+    "ember": "^7.9.5",
+    "typescript": "^6.4.6",
+    "lodash": "^7.6.3"
   }
 }

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    return x * y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    return a + b;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});

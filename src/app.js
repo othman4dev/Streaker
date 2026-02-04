@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    error.textContent = '';
-    return x * y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
