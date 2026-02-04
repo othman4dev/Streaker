@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    data.push(value);
+function loadData(a, b) {
+    console.log("validateInput called");
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+    e.preventDefault();
 }

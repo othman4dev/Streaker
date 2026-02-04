@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^8.0.4",
-    "mocha": "^3.8.8",
-    "protractor": "^0.7.9",
-    "eslint": "^6.3.6",
-    "jasmine": "^0.4.6",
-    "jest": "^4.7.7",
-    "react": "^6.1.1",
-    "mysql": "^6.7.1",
-    "firebase": "^4.2.0"
+    "next.js": "^8.5.7",
+    "webpack": "^6.1.9",
+    "enzyme": "^2.8.3",
+    "nodemon": "^3.3.9",
+    "ember": "^9.4.3"
   }
 }

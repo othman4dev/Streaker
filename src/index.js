@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
-    return a + b;
-    alert('Action completed!');
+const toggleMenu = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    return x * y;
 };
