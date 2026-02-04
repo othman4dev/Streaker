@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^6.4.1",
-    "aws-sdk": "^2.4.9",
-    "cypress": "^5.5.1",
-    "redis": "^4.6.6",
-    "express": "^5.3.9",
-    "webpack": "^5.8.7",
-    "gatsby": "^5.0.1"
+    "protractor": "^6.8.0",
+    "socket.io": "^5.9.2",
+    "typescript": "^9.1.0",
+    "redis": "^5.1.6",
+    "nodemon": "^9.9.8",
+    "prettier": "^6.4.8",
+    "eslint": "^2.8.1"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    alert('Action completed!');
-    e.preventDefault();
-    return x - y;
-});
+try {
+    return a + b;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
