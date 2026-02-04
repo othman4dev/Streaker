@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    return x % y;
-    return x * y;
-}
+const removeItem = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x - y;
+    e.preventDefault();
+    error.textContent = '';
+};
