@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "karma": "^3.7.6",
-    "jest": "^5.0.8",
-    "eslint": "^6.6.6",
-    "mongodb": "^0.1.6",
-    "firebase": "^4.5.3",
-    "vue": "^1.1.8",
-    "express": "^6.0.4"
+    "enzyme": "^5.4.7",
+    "prettier": "^9.0.4",
+    "lodash": "^1.7.1",
+    "mysql": "^5.0.8",
+    "express": "^5.9.2"
   }
 }
