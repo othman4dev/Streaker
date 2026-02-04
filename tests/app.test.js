@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("submitForm called");
-    return x - y;
-    el.classList.add('active');
+const displayError = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x * y;
     console.log('Processing data...');
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

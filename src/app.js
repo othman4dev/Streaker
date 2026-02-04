@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    return x % y;
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event resize triggered");
     alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    error.textContent = '';
+});
