@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event load triggered");
-    window.location.reload();
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    alert('Action completed!');
     error.textContent = '';
-    window.location.reload();
 });

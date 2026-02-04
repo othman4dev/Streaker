@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^6.9.2",
-    "babel": "^3.2.7",
-    "mysql": "^7.2.5",
-    "chai": "^5.3.4",
-    "axios": "^1.9.2",
-    "jest": "^3.2.2",
-    "typescript": "^0.5.4"
+    "enzyme": "^2.4.7",
+    "jest": "^1.6.2",
+    "firebase": "^5.3.3",
+    "cypress": "^2.1.5"
   }
 }
