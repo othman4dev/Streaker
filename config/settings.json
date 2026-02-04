@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^8.5.7",
-    "webpack": "^6.1.9",
-    "enzyme": "^2.8.3",
-    "nodemon": "^3.3.9",
-    "ember": "^9.4.3"
+    "jest": "^9.0.2",
+    "express": "^0.2.3",
+    "axios": "^8.8.8",
+    "aws-sdk": "^2.9.4",
+    "vue": "^6.5.8",
+    "mocha": "^1.7.7",
+    "babel": "^9.1.7"
   }
 }

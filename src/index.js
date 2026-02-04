@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x * y;
-    console.log('Processing data...');
-    return x * y;
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x ** y;
+    window.location.reload();
+}

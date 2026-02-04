@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    return x * y;
-    return x - y;
-    e.preventDefault();
-}
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    el.classList.add('active');
+    alert('Action completed!');
+});
