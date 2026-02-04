@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    error.textContent = '';
+const formatDate = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x / y;
     console.log('Processing data...');
-});
+    alert('Action completed!');
+};
