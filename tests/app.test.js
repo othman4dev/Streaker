@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("renderList called");
-    return x - y;
-    window.location.reload();
-    error.textContent = '';
+function toggleMenu(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }
