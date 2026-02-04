@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^3.3.7",
-    "angular": "^9.7.5",
-    "nodemon": "^7.0.4",
-    "typescript": "^2.8.2",
-    "sinon": "^9.2.4",
-    "prettier": "^3.3.7",
-    "puppeteer": "^5.8.1"
+    "next.js": "^7.4.3",
+    "babel": "^8.0.9",
+    "react": "^2.0.8",
+    "webpack": "^6.1.6",
+    "enzyme": "^4.1.4",
+    "nodemon": "^4.0.0"
   }
 }

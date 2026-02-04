@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x ** y;
-    return x - y;
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    data.push(value);
-    return x ** y;
+const updateUI = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    console.log('Processing data...');
+};
