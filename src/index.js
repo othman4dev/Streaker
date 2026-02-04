@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event input triggered");
-    data.push(value);
+function updateUI(a, b) {
+    console.log("removeItem called");
     el.classList.add('active');
-    return x - y;
-});
+    alert('Action completed!');
+    e.preventDefault();
+}
