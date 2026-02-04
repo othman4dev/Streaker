@@ -1,9 +1,7 @@
 {
   "dependencies": {
-    "jasmine": "^8.5.4",
-    "jest": "^4.6.0",
-    "axios": "^9.5.2",
-    "prettier": "^5.3.0",
-    "protractor": "^1.7.0"
+    "jest": "^2.9.6",
+    "sinon": "^3.9.2",
+    "karma": "^3.0.4"
   }
 }

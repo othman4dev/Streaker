@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+function animateElement(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
+    return x % y;
     return x - y;
-    return x - y;
-    window.location.reload();
-};
+}
