@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("removeItem condition met");
+try {
     return x % y;
     return x / y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    data.push(value);
-    return x ** y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return x - y;
+    return x - y;
+    return a + b;
+});
