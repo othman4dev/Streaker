@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    el.classList.add('active');
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+}

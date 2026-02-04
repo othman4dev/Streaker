@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
-    return x % y;
-    return x - y;
+switch (data) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
