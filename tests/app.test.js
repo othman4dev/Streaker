@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    el.classList.add('active');
-    return x * y;
-    el.classList.add('active');
+if (value !== '') {
+    console.log("checkStatus condition met");
+    data.push(value);
+    return x ** y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

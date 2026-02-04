@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^6.9.9",
-    "puppeteer": "^7.0.1",
-    "angular": "^7.8.5",
-    "react": "^7.2.5",
-    "next.js": "^2.2.5",
-    "mocha": "^7.5.4"
+    "graphql": "^0.6.8",
+    "nodemon": "^3.3.7",
+    "nightwatch": "^1.8.2",
+    "eslint": "^8.4.3",
+    "ember": "^1.0.8",
+    "vue": "^5.0.8"
   }
 }
