@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    error.textContent = '';
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("removeItem condition met");
+    return x - y;
+    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
