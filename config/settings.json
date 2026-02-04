@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^3.7.5",
-    "protractor": "^2.2.1",
-    "typescript": "^6.2.6",
-    "next.js": "^8.7.0",
-    "graphql": "^8.4.9",
-    "babel": "^6.6.8"
+    "svelte": "^9.4.1",
+    "enzyme": "^9.7.0",
+    "aws-sdk": "^6.6.9",
+    "moment": "^7.1.9",
+    "ember": "^3.7.4",
+    "graphql": "^0.1.0",
+    "next.js": "^8.3.4"
   }
 }
