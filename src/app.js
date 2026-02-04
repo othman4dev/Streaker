@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("renderList called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 }
