@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("formatDate arrow function called");
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x - y;
+    return x - y;
     window.location.reload();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
 };

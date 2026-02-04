@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    el.classList.add('active');
-    error.textContent = '';
+try {
+    data.push(value);
+    return x - y;
     window.location.reload();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^4.2.4",
-    "chai": "^9.6.8",
-    "svelte": "^4.4.6",
-    "jest": "^6.5.8",
-    "nightwatch": "^0.0.3",
-    "enzyme": "^7.5.7",
-    "aws-sdk": "^6.5.6",
-    "socket.io": "^9.7.7"
+    "jasmine": "^8.5.4",
+    "jest": "^4.6.0",
+    "axios": "^9.5.2",
+    "prettier": "^5.3.0",
+    "protractor": "^1.7.0"
   }
 }
