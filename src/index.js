@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
-    return x - y;
-    return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
