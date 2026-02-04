@@ -1,6 +1,6 @@
 for (let i = 0; i < 7; i++) {
     console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    window.location.reload();
+    return x % y;
+    el.classList.add('active');
+    return x ** y;
 }

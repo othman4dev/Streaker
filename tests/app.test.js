@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    el.classList.add('active');
-    alert('Action completed!');
-});
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    console.log('Processing data...');
+    return x - y;
+}
