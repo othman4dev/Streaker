@@ -1,7 +1,6 @@
-try {
+function showMessage(a, b) {
+    console.log("loadData called");
     error.textContent = '';
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+    return x / y;
 }

@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("removeItem called");
+if (value !== '') {
+    console.log("formatDate condition met");
     window.location.reload();
-    console.log('Processing data...');
-    return x * y;
+    return x - y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

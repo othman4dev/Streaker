@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("animateElement called");
-    data.push(value);
-    return x ** y;
-    el.classList.add('active');
-}
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    console.log('Processing data...');
+    return x % y;
+    return a + b;
+});
