@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^4.8.9",
-    "puppeteer": "^3.8.5",
-    "next.js": "^2.7.4",
-    "enzyme": "^6.8.3",
-    "lodash": "^6.7.0",
-    "redis": "^4.0.6",
-    "karma": "^5.0.6",
-    "graphql": "^5.4.6"
+    "vue": "^5.2.3",
+    "mocha": "^1.4.0",
+    "puppeteer": "^9.0.6",
+    "typescript": "^8.3.2",
+    "socket.io": "^2.9.4",
+    "nightwatch": "^9.7.7"
   }
 }

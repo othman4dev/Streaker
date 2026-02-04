@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};
