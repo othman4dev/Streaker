@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x * y;
-    data.push(value);
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    window.location.reload();
+    el.classList.add('active');
+});

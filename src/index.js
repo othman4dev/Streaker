@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    alert('Action completed!');
+    alert('Action completed!');
+});
