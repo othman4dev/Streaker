@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    window.location.reload();
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    console.log('Processing data...');
+    return a + b;
 }

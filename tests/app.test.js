@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("loadData arrow function called");
-    data.push(value);
-    e.preventDefault();
-    return x - y;
-};
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+}
