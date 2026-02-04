@@ -1,7 +1,8 @@
-try {
-    return x - y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("saveSettings condition met");
+    return x / y;
+    console.log('Processing data...');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
