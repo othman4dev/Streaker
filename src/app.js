@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    console.log('Processing data...');
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    return x % y;
+    el.classList.add('active');
+});

@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event load triggered");
+function saveSettings(a, b) {
+    console.log("renderList called");
     return x - y;
-    return x - y;
-    return a + b;
-});
+    window.location.reload();
+    error.textContent = '';
+}
