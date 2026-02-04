@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("createChart arrow function called");
+if (x !== y) {
+    console.log("saveSettings condition met");
+    error.textContent = '';
+    return x * y;
     return x / y;
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+} else {
+    console.log("Condition not met");
+}

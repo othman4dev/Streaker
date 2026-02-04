@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    el.classList.add('active');
-    data.push(value);
-    data.push(value);
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    return x * y;
+    console.log('Processing data...');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
