@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+try {
+    window.location.reload();
+    return x / y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

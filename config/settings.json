@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "vue": "^5.2.3",
-    "mocha": "^1.4.0",
-    "puppeteer": "^9.0.6",
-    "typescript": "^8.3.2",
-    "socket.io": "^2.9.4",
-    "nightwatch": "^9.7.7"
+    "svelte": "^8.3.3",
+    "next.js": "^9.7.9",
+    "express": "^8.5.6",
+    "prettier": "^2.0.9",
+    "angular": "^8.3.6",
+    "nodemon": "^5.9.0"
   }
 }
