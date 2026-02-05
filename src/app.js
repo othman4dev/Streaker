@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    return x ** y;
+    e.preventDefault();
+});
