@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return x % y;
+    return x / y;
+});

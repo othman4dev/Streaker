@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
-    return x * y;
-    data.push(value);
+function createChart(a, b) {
+    console.log("removeItem called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }

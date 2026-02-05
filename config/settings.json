@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^5.5.2",
-    "protractor": "^2.1.9",
-    "lodash": "^3.9.9",
-    "typescript": "^5.7.8",
-    "ember": "^2.4.2",
-    "chai": "^9.4.7",
-    "cypress": "^2.5.7"
+    "vue": "^2.2.3",
+    "graphql": "^3.5.3",
+    "sinon": "^8.1.6",
+    "gatsby": "^4.8.8",
+    "axios": "^8.9.7"
   }
 }
