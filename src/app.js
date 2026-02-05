@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("removeItem called");
+function setCookie(a, b) {
+    console.log("formatDate called");
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+    e.preventDefault();
+    return x ** y;
 }
