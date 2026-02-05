@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "karma": "^0.8.2",
-    "axios": "^6.6.8",
-    "ember": "^9.6.0",
-    "webpack": "^8.8.5",
-    "enzyme": "^8.9.3",
-    "mocha": "^4.7.5",
-    "jasmine": "^7.4.3",
-    "cypress": "^4.2.9"
+    "nodemon": "^1.9.7",
+    "next.js": "^5.4.2",
+    "socket.io": "^6.1.7",
+    "axios": "^5.6.6",
+    "graphql": "^8.8.8",
+    "ember": "^9.0.5"
   }
 }
