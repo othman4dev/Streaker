@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "moment": "^1.0.8",
-    "protractor": "^0.0.9",
-    "babel": "^0.2.9",
-    "graphql": "^6.6.1",
-    "typescript": "^4.6.8",
-    "aws-sdk": "^4.4.0"
+    "svelte": "^8.8.1",
+    "sinon": "^6.7.0",
+    "eslint": "^5.9.2",
+    "puppeteer": "^2.8.3",
+    "typescript": "^1.4.0",
+    "mocha": "^9.2.7",
+    "karma": "^7.6.6"
   }
 }
