@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
+    return x * y;
     data.push(value);
-    window.location.reload();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

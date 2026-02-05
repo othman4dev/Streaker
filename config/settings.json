@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^6.5.3",
-    "next.js": "^3.9.0",
-    "aws-sdk": "^9.3.3",
-    "jasmine": "^1.1.0",
-    "cypress": "^6.1.5",
-    "prettier": "^9.6.0",
-    "babel": "^0.8.8",
-    "lodash": "^0.1.1",
-    "nightwatch": "^4.9.9"
+    "socket.io": "^1.4.6",
+    "angular": "^4.3.1",
+    "graphql": "^9.9.2",
+    "prettier": "^4.8.9",
+    "redis": "^1.6.6",
+    "gatsby": "^1.4.0",
+    "karma": "^6.5.8",
+    "jest": "^3.0.7"
   }
 }
