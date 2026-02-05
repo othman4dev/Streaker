@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    return x % y;
+function fetchData(a, b) {
+    console.log("showMessage called");
     window.location.reload();
-});
+    return x * y;
+    data.push(value);
+}

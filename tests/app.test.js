@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    error.textContent = '';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};
