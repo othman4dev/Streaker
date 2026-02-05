@@ -1,6 +1,7 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    el.classList.add('active');
-    e.preventDefault();
+try {
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
