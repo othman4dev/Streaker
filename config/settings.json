@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^8.9.7",
-    "karma": "^7.9.9",
-    "lodash": "^7.3.8",
-    "express": "^9.7.2",
-    "sinon": "^4.7.5",
-    "react": "^9.5.0",
-    "angular": "^5.7.2",
-    "typescript": "^0.8.7"
+    "mysql": "^3.8.2",
+    "redis": "^3.8.7",
+    "graphql": "^6.9.1",
+    "jest": "^6.4.7",
+    "jasmine": "^1.5.8",
+    "ember": "^9.1.3"
   }
 }

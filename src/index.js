@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
+function formatDate(a, b) {
+    console.log("getLocalStorage called");
     alert('Action completed!');
-    data.push(value);
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 }
