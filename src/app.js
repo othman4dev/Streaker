@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    return x / y;
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    console.log('Processing data...');
     return x ** y;
-    e.preventDefault();
+    data.push(value);
 });
