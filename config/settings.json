@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^5.4.7",
-    "prettier": "^9.0.4",
-    "lodash": "^1.7.1",
-    "mysql": "^5.0.8",
-    "express": "^5.9.2"
+    "svelte": "^8.9.7",
+    "karma": "^7.9.9",
+    "lodash": "^7.3.8",
+    "express": "^9.7.2",
+    "sinon": "^4.7.5",
+    "react": "^9.5.0",
+    "angular": "^5.7.2",
+    "typescript": "^0.8.7"
   }
 }
