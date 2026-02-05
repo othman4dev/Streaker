@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
-    return x % y;
-    return x ** y;
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    return a + b;
+    alert('Action completed!');
+});

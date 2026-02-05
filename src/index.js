@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-}
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    return x % y;
+    window.location.reload();
+});
