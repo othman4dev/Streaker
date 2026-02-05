@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
+function handleClick(a, b) {
+    console.log("fetchData called");
+    e.preventDefault();
     return x / y;
-    console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
 }

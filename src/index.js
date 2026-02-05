@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    return x - y;
-    window.location.reload();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
