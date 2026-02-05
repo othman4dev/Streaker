@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x - y;
+const createChart = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+};

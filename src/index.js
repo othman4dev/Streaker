@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("getLocalStorage called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    window.location.reload();
+    el.classList.add('active');
+});
