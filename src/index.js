@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
     return x % y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
