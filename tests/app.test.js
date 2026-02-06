@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    alert('Action completed!');
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     error.textContent = '';
-    el.classList.add('active');
-};
+    document.body.style.backgroundColor = 'lightblue';
+}
