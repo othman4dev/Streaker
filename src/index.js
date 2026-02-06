@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("getLocalStorage condition met");
-    data.push(value);
-    window.location.reload();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x * y;
+    return x / y;
+    return x * y;
+};

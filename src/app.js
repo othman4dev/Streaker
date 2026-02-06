@@ -1,6 +1,6 @@
 for (let i = 0; i < 11; i++) {
     console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x - y;
     el.classList.add('active');
-    console.log('Processing data...');
-    alert('Action completed!');
 }
