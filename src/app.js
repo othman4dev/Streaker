@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x - y;
+});

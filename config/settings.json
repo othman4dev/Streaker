@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "angular": "^3.0.9",
-    "redis": "^1.2.6",
-    "axios": "^9.3.9",
-    "vue": "^1.2.0",
-    "eslint": "^1.0.5",
-    "webpack": "^1.5.8"
+    "next.js": "^7.0.4",
+    "jest": "^5.1.6",
+    "lodash": "^1.5.3",
+    "ember": "^3.1.1",
+    "mysql": "^4.0.2"
   }
 }
