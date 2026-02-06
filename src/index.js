@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event change triggered");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});

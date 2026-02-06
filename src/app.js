@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    return x - y;
-    return x - y;
-}
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x * y;
+    e.preventDefault();
+    return x / y;
+};
