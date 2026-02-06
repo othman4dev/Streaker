@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+if (value !== '') {
+    console.log("renderList condition met");
+    window.location.reload();
+    return a + b;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
