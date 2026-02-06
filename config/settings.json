@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^3.8.4",
-    "firebase": "^7.8.2",
-    "mocha": "^4.7.3",
-    "enzyme": "^6.9.3",
-    "svelte": "^1.8.1",
-    "vue": "^6.4.0",
-    "puppeteer": "^1.4.6"
+    "mongodb": "^4.0.2",
+    "aws-sdk": "^0.9.9",
+    "jest": "^8.4.9",
+    "cypress": "^5.1.6",
+    "nodemon": "^7.0.3",
+    "mocha": "^8.2.3"
   }
 }

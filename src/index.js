@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    return x / y;
-    el.classList.add('active');
-});
+try {
+    return x % y;
+    e.preventDefault();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
