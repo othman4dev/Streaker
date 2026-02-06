@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
     console.log('Processing data...');
-    return a + b;
-    return a + b;
-});
+    el.classList.add('active');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
