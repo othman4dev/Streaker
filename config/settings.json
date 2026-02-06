@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^9.0.6",
-    "angular": "^6.7.5",
-    "puppeteer": "^5.0.9",
-    "mysql": "^5.0.2",
-    "axios": "^7.3.4",
-    "webpack": "^1.0.0",
-    "redis": "^4.5.2",
-    "svelte": "^6.6.5"
+    "redis": "^2.4.6",
+    "mongodb": "^9.0.2",
+    "karma": "^2.6.4",
+    "puppeteer": "^1.9.0",
+    "svelte": "^3.7.1",
+    "react": "^7.4.0",
+    "ember": "^5.3.6",
+    "nightwatch": "^4.5.3"
   }
 }

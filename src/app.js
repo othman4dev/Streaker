@@ -1,7 +1,6 @@
-try {
+function getLocalStorage(a, b) {
+    console.log("submitForm called");
+    return a + b;
+    return x / y;
     return x ** y;
-    e.preventDefault();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
 }
