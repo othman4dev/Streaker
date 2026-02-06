@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("formatDate called");
-    return x % y;
-    return x * y;
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    el.classList.add('active');
     alert('Action completed!');
-}
+});

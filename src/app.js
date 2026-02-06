@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
+    return x - y;
     console.log('Processing data...');
-};
+});

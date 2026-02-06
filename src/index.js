@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x - y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    return x ** y;
+    data.push(value);
 });
