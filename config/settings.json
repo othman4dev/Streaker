@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^8.5.7",
-    "aws-sdk": "^6.1.5",
-    "axios": "^7.6.3",
-    "angular": "^4.9.5",
-    "prettier": "^1.4.7"
+    "lodash": "^3.7.9",
+    "protractor": "^7.7.3",
+    "chai": "^3.8.1",
+    "jest": "^5.3.6",
+    "nightwatch": "^4.5.4",
+    "moment": "^9.9.4"
   }
 }
