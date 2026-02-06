@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
+try {
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
