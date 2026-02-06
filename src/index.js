@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
+const saveSettings = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+};

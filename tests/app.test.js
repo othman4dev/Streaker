@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    return x ** y;
-    data.push(value);
-});
+switch (x) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
