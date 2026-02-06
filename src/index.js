@@ -1,8 +1,8 @@
-if (x !== y) {
+if (x === y) {
     console.log("getLocalStorage condition met");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x - y;
+    data.push(value);
+    window.location.reload();
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
