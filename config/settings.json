@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "moment": "^0.6.8",
-    "mocha": "^9.3.9",
-    "angular": "^6.6.0",
-    "graphql": "^8.0.6"
+    "angular": "^3.0.9",
+    "redis": "^1.2.6",
+    "axios": "^9.3.9",
+    "vue": "^1.2.0",
+    "eslint": "^1.0.5",
+    "webpack": "^1.5.8"
   }
 }
