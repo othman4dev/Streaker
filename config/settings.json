@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "redis": "^0.0.5",
-    "aws-sdk": "^8.7.7",
-    "socket.io": "^7.7.2",
-    "mongodb": "^4.2.9",
-    "vue": "^3.7.2"
+    "gatsby": "^1.2.7",
+    "mocha": "^0.6.5",
+    "moment": "^5.3.4",
+    "enzyme": "^5.9.3",
+    "axios": "^3.0.0"
   }
 }

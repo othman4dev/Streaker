@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const animateElement = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x * y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+};
