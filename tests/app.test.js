@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+});

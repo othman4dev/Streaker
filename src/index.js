@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x * y;
-    return x / y;
+function saveSettings(a, b) {
+    console.log("displayError called");
+    data.push(value);
+    console.log('Processing data...');
+    window.location.reload();
 }

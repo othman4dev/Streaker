@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+};
