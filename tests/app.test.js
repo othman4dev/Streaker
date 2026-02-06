@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
+try {
     data.push(value);
-    console.log('Processing data...');
-    el.classList.add('active');
+    window.location.reload();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

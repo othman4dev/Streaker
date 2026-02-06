@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^5.3.7",
-    "jasmine": "^3.8.4",
-    "react": "^4.2.0",
-    "graphql": "^9.5.4",
-    "babel": "^4.4.1"
+    "nightwatch": "^9.0.6",
+    "angular": "^6.7.5",
+    "puppeteer": "^5.0.9",
+    "mysql": "^5.0.2",
+    "axios": "^7.3.4",
+    "webpack": "^1.0.0",
+    "redis": "^4.5.2",
+    "svelte": "^6.6.5"
   }
 }

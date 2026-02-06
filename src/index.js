@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x * y;
-    return x / y;
-    return x * y;
-};
+function getLocalStorage(a, b) {
+    console.log("renderList called");
+    return a + b;
+    return x ** y;
+    console.log('Processing data...');
+}
