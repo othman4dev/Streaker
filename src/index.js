@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     el.classList.add('active');
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    return x - y;
 }

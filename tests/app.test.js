@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x * y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    return a + b;
+    e.preventDefault();
+};
