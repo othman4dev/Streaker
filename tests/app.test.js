@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    error.textContent = '';
-    alert('Action completed!');
-};
+function removeItem(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    return x / y;
+    console.log('Processing data...');
+}

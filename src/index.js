@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("loadData called");
-    return a + b;
-    e.preventDefault();
+if (x !== y) {
+    console.log("getLocalStorage condition met");
     console.log('Processing data...');
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
