@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event scroll triggered");
+if (value !== '') {
+    console.log("submitForm condition met");
+    el.classList.add('active');
+    return x / y;
     window.location.reload();
-    console.log('Processing data...');
-    error.textContent = '';
-});
+} else {
+    console.log("Condition not met");
+}
