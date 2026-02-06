@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    window.location.reload();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("formatDate called");
+    return x % y;
+    return x * y;
+    alert('Action completed!');
 }

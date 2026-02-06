@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    return x * y;
-    e.preventDefault();
-});
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
+    console.log('Processing data...');
+};
