@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    error.textContent = '';
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     el.classList.add('active');
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};
