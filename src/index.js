@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x ** y;
-    error.textContent = '';
-    alert('Action completed!');
-};
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x % y;
+});

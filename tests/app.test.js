@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    return x / y;
+try {
+    return a + b;
     window.location.reload();
-});
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
