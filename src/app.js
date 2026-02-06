@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    alert('Action completed!');
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x / y;
+    e.preventDefault();
 }

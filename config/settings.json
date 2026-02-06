@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "typescript": "^9.6.6",
-    "nightwatch": "^3.4.0",
-    "lodash": "^5.5.2",
-    "mongodb": "^8.3.3",
-    "svelte": "^0.9.1",
-    "mysql": "^3.9.4"
+    "eslint": "^6.5.3",
+    "next.js": "^3.9.0",
+    "aws-sdk": "^9.3.3",
+    "jasmine": "^1.1.0",
+    "cypress": "^6.1.5",
+    "prettier": "^9.6.0",
+    "babel": "^0.8.8",
+    "lodash": "^0.1.1",
+    "nightwatch": "^4.9.9"
   }
 }
