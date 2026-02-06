@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
-    return x / y;
-    alert('Action completed!');
-};
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    e.preventDefault();
+    return x * y;
+});
