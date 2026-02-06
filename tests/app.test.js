@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    return x % y;
+if (x !== y) {
+    console.log("showMessage condition met");
+    error.textContent = '';
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
