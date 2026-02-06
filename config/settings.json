@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "ember": "^8.1.7",
-    "webpack": "^2.8.3",
-    "svelte": "^0.2.9",
-    "chai": "^4.2.2",
-    "jasmine": "^8.2.4"
+    "karma": "^3.8.4",
+    "firebase": "^7.8.2",
+    "mocha": "^4.7.3",
+    "enzyme": "^6.9.3",
+    "svelte": "^1.8.1",
+    "vue": "^6.4.0",
+    "puppeteer": "^1.4.6"
   }
 }
