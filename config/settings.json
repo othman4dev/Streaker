@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "babel": "^5.8.3",
-    "axios": "^3.4.4",
-    "puppeteer": "^7.4.3",
-    "moment": "^2.4.1",
-    "next.js": "^2.3.0",
-    "cypress": "^3.9.8",
-    "webpack": "^3.9.9",
-    "jest": "^7.7.8"
+    "typescript": "^9.6.6",
+    "nightwatch": "^3.4.0",
+    "lodash": "^5.5.2",
+    "mongodb": "^8.3.3",
+    "svelte": "^0.9.1",
+    "mysql": "^3.9.4"
   }
 }

@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("submitForm arrow function called");
+function setCookie(a, b) {
+    console.log("validateInput called");
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    return x * y;
     alert('Action completed!');
-};
+}

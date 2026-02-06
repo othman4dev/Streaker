@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
+if (value !== '') {
+    console.log("setSessionStorage condition met");
     alert('Action completed!');
-    window.location.reload();
+    e.preventDefault();
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
