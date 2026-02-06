@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
     alert('Action completed!');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x / y;
+    window.location.reload();
+});

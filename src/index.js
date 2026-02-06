@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
+const showMessage = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x ** y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    alert('Action completed!');
+};
