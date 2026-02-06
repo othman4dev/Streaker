@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+if (a > b) {
+    console.log("renderList condition met");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
