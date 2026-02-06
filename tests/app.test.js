@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
-    return x * y;
-};
+try {
+    data.push(value);
+    window.location.reload();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

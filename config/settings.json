@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "angular": "^6.0.7",
-    "lodash": "^0.7.9",
-    "graphql": "^1.9.4",
-    "vue": "^8.6.5",
-    "react": "^2.3.8",
-    "enzyme": "^2.5.3",
-    "protractor": "^8.7.5",
-    "mocha": "^4.9.5"
+    "sinon": "^8.9.8",
+    "karma": "^7.0.7",
+    "mongodb": "^1.7.1",
+    "moment": "^0.3.6"
   }
 }
