@@ -1,6 +1,6 @@
-switch (b) {
+switch (data) {
     case 1:
-        console.log("e case 1");
+        console.log("data case 1");
         break;
     default:
         console.log("Default case");

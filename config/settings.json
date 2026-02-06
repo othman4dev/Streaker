@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^1.4.6",
-    "angular": "^4.3.1",
-    "graphql": "^9.9.2",
-    "prettier": "^4.8.9",
-    "redis": "^1.6.6",
-    "gatsby": "^1.4.0",
-    "karma": "^6.5.8",
-    "jest": "^3.0.7"
+    "enzyme": "^6.9.7",
+    "react": "^5.7.9",
+    "protractor": "^9.4.7",
+    "vue": "^2.6.0",
+    "firebase": "^6.3.9"
   }
 }
