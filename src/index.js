@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("removeItem called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    window.location.reload();
+    return a + b;
+});
