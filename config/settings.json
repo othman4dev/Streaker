@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "next.js": "^0.7.8",
-    "cypress": "^3.8.5",
-    "jasmine": "^3.3.1",
-    "enzyme": "^2.2.4",
-    "express": "^2.5.5",
-    "ember": "^1.6.7",
-    "typescript": "^6.2.6",
-    "mocha": "^5.9.8"
+    "jasmine": "^3.8.8",
+    "axios": "^4.3.3",
+    "jest": "^1.0.2",
+    "mysql": "^6.4.3",
+    "mongodb": "^0.8.5",
+    "vue": "^7.8.8",
+    "ember": "^1.1.6",
+    "cypress": "^7.5.3",
+    "redis": "^2.2.0"
   }
 }

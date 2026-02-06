@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("loadData called");
+try {
     return x - y;
-    el.classList.add('active');
-    e.preventDefault();
+    error.textContent = '';
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

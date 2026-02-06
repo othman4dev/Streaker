@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("toggleMenu condition met");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
