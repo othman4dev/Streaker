@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    window.location.reload();
-    return a + b;
-});
+switch (b) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

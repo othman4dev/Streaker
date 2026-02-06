@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x ** y;
-    el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
