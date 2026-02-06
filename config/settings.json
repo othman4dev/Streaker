@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^4.2.0",
-    "chai": "^7.1.0",
-    "aws-sdk": "^4.5.1",
-    "karma": "^5.1.6",
-    "vue": "^2.6.3",
-    "enzyme": "^1.2.8",
-    "typescript": "^9.1.4",
-    "svelte": "^1.8.8"
+    "moment": "^4.7.3",
+    "mocha": "^2.1.2",
+    "jasmine": "^1.5.2",
+    "aws-sdk": "^2.1.1",
+    "socket.io": "^8.2.9",
+    "cypress": "^8.7.6",
+    "nodemon": "^4.5.8",
+    "vue": "^0.8.6"
   }
 }
