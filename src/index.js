@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("displayError called");
-    data.push(value);
-    console.log('Processing data...');
-    window.location.reload();
+switch (error) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    e.preventDefault();
+const animateElement = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
     data.push(value);
-});
+};

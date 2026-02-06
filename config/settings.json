@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "babel": "^1.4.0",
-    "nodemon": "^7.9.1",
-    "react": "^5.5.1",
-    "typescript": "^6.2.2",
-    "firebase": "^6.4.0"
+    "eslint": "^9.5.9",
+    "webpack": "^1.2.7",
+    "enzyme": "^3.8.3",
+    "vue": "^9.6.8"
   }
 }
