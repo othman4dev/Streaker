@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    data.push(value);
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
     el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+};
