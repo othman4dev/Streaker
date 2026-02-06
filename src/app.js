@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    e.preventDefault();
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
