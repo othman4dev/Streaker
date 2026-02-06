@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    e.preventDefault();
+const showMessage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
+    return x * y;
     alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};

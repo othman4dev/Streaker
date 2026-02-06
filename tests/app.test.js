@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    data.push(value);
+function loadData(a, b) {
+    console.log("hideModal called");
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    window.location.reload();
 }
