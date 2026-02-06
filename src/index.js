@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x * y;
     return x / y;
-    data.push(value);
-};
+}
