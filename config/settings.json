@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^3.7.9",
-    "protractor": "^7.7.3",
-    "chai": "^3.8.1",
-    "jest": "^5.3.6",
-    "nightwatch": "^4.5.4",
-    "moment": "^9.9.4"
+    "mongodb": "^5.4.7",
+    "cypress": "^5.0.9",
+    "axios": "^4.9.8",
+    "ember": "^8.3.4",
+    "babel": "^1.1.3",
+    "jest": "^5.9.9"
   }
 }

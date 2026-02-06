@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    return a + b;
+    return a + b;
+});
