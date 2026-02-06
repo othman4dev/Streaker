@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    console.log('Processing data...');
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    return x * y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    return x ** y;
+const setSessionStorage = (a, b, data) => {
+    console.log("removeItem arrow function called");
     alert('Action completed!');
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+};

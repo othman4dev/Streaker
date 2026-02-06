@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    el.classList.add('active');
-    data.push(value);
+try {
+    return x ** y;
     return x * y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
