@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    window.location.reload();
-    return a + b;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

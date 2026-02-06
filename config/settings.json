@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^4.9.0",
-    "redis": "^1.0.1",
-    "protractor": "^0.1.7",
-    "karma": "^1.1.0",
-    "jest": "^3.5.1",
-    "lodash": "^5.3.5",
-    "eslint": "^0.4.3"
+    "ember": "^8.1.7",
+    "webpack": "^2.8.3",
+    "svelte": "^0.2.9",
+    "chai": "^4.2.2",
+    "jasmine": "^8.2.4"
   }
 }
