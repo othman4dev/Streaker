@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    error.textContent = '';
+    e.preventDefault();
+    e.preventDefault();
+});
