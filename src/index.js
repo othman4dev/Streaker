@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("checkStatus called");
+function saveSettings(a, b) {
+    console.log("loadData called");
+    return a + b;
+    e.preventDefault();
     console.log('Processing data...');
-    return x * y;
-    data.push(value);
 }

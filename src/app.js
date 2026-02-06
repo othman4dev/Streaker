@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
+try {
+    alert('Action completed!');
+    el.classList.add('active');
     e.preventDefault();
-    return x ** y;
-    console.log('Processing data...');
-});
+} catch (error) {
+    console.error("Error:", error);
+}
