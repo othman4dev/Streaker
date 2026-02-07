@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    alert('Action completed!');
-    return a + b;
-    window.location.reload();
-};
+function validateInput(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    return x - y;
+    error.textContent = '';
+}
