@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("saveSettings called");
+    return x / y;
+    return x % y;
+    return x % y;
 }

@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
+    return x % y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
