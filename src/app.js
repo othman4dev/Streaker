@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    return x % y;
     window.location.reload();
-    return x * y;
-    data.push(value);
-});
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
