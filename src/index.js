@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-};
+    return x % y;
+    alert('Action completed!');
+}

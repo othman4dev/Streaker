@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    data.push(value);
-    return x / y;
-    data.push(value);
+const displayError = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    alert('Action completed!');
+    return a + b;
+    window.location.reload();
 };
