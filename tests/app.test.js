@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
+function fetchData(a, b) {
+    console.log("toggleMenu called");
+    e.preventDefault();
     alert('Action completed!');
-    data.push(value);
+    error.textContent = '';
 }
