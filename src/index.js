@@ -1,8 +1,8 @@
 if (a > b) {
     console.log("handleClick condition met");
-    e.preventDefault();
-    data.push(value);
-    window.location.reload();
+    return x % y;
+    console.log('Processing data...');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
