@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

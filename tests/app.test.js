@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("updateUI arrow function called");
+try {
+    alert('Action completed!');
     return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+} catch (error) {
+    console.error("Error:", error);
+}
