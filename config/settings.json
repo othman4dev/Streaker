@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^9.5.9",
-    "webpack": "^1.2.7",
-    "enzyme": "^3.8.3",
-    "vue": "^9.6.8"
+    "firebase": "^0.0.3",
+    "chai": "^5.6.8",
+    "react": "^7.1.1",
+    "eslint": "^4.3.2",
+    "puppeteer": "^7.8.5",
+    "jest": "^6.0.6"
   }
 }
