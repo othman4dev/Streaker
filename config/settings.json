@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^6.9.7",
-    "react": "^5.7.9",
-    "protractor": "^9.4.7",
-    "vue": "^2.6.0",
-    "firebase": "^6.3.9"
+    "mysql": "^6.7.7",
+    "aws-sdk": "^7.1.1",
+    "cypress": "^6.7.8",
+    "gatsby": "^4.7.8",
+    "protractor": "^2.1.3"
   }
 }

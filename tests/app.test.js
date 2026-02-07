@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    data.push(value);
 }

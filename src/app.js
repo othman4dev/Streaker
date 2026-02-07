@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    return x % y;
-    return a + b;
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+}
