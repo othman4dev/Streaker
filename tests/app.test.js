@@ -1,7 +1,6 @@
-try {
-    return x % y;
+function formatDate(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
     el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
 }

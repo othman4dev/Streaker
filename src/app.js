@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
-    return a + b;
-    data.push(value);
+try {
+    error.textContent = '';
+    return x * y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

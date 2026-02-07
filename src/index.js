@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("checkStatus called");
-    e.preventDefault();
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
     return x % y;
-    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
