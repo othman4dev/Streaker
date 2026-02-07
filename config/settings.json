@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "ember": "^8.8.4",
-    "next.js": "^9.3.6",
-    "typescript": "^6.5.7",
-    "redis": "^5.4.0"
+    "socket.io": "^7.9.9",
+    "webpack": "^1.7.8",
+    "mysql": "^9.3.4",
+    "aws-sdk": "^1.7.7",
+    "protractor": "^3.0.9",
+    "vue": "^4.1.9",
+    "nightwatch": "^7.5.1"
   }
 }

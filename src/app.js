@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    return x - y;
-    error.textContent = '';
+function getLocalStorage(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
+    return x % y;
+    el.classList.add('active');
 }
