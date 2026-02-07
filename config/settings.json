@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "react": "^1.5.2",
-    "mongodb": "^7.2.5",
-    "vue": "^0.4.3",
-    "jest": "^7.8.7",
-    "typescript": "^8.2.3",
-    "babel": "^4.1.6"
+    "graphql": "^8.6.2",
+    "cypress": "^7.0.0",
+    "enzyme": "^9.9.2",
+    "mocha": "^6.8.5",
+    "protractor": "^7.6.3",
+    "express": "^6.2.8"
   }
 }

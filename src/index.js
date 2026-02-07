@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return a + b;
-    data.push(value);
-}
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    return x / y;
+    return x % y;
+    alert('Action completed!');
+});
