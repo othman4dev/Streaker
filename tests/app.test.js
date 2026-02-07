@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("fetchData called");
-    error.textContent = '';
-    el.classList.add('active');
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event change triggered");
     window.location.reload();
-}
+    return x * y;
+    return x * y;
+});
