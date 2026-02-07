@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^3.4.9",
-    "karma": "^7.3.6",
-    "webpack": "^3.2.8",
-    "redis": "^5.2.9",
-    "gatsby": "^2.1.7",
-    "socket.io": "^4.6.5"
+    "lodash": "^4.3.5",
+    "chai": "^8.4.5",
+    "aws-sdk": "^6.1.4",
+    "protractor": "^0.2.3",
+    "enzyme": "^4.8.4"
   }
 }

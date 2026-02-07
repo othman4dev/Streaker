@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x / y;
-    data.push(value);
+function setSessionStorage(a, b) {
+    console.log("formatDate called");
+    e.preventDefault();
     alert('Action completed!');
-};
+    console.log('Processing data...');
+}

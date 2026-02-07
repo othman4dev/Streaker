@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+function updateUI(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    alert('Action completed!');
+    el.classList.add('active');
 }

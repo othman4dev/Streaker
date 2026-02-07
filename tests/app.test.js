@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("toggleMenu called");
-    e.preventDefault();
-    alert('Action completed!');
-    error.textContent = '';
-}
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    data.push(value);
+    return x % y;
+    return x - y;
+};
