@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x - y;
-    return x % y;
-    window.location.reload();
-};
+function handleClick(a, b) {
+    console.log("loadData called");
+    el.classList.add('active');
+    return x * y;
+    el.classList.add('active');
+}

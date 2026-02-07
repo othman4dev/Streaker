@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
+if (x !== y) {
+    console.log("formatDate condition met");
+    error.textContent = '';
     return x % y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
