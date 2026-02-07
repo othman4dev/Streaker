@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^6.9.0",
-    "react": "^0.2.5",
-    "karma": "^3.1.5",
-    "jest": "^6.8.9",
-    "babel": "^4.6.2"
+    "mongodb": "^0.6.8",
+    "jasmine": "^3.6.4",
+    "jest": "^4.5.2",
+    "lodash": "^6.9.9",
+    "express": "^2.5.9",
+    "babel": "^0.7.3"
   }
 }

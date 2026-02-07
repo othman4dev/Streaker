@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};
