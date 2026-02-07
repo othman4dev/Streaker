@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("formatDate called");
-    e.preventDefault();
-    alert('Action completed!');
-    console.log('Processing data...');
+try {
+    el.classList.add('active');
+    return x / y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

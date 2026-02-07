@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    window.location.reload();
-    alert('Action completed!');
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    return x - y;
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

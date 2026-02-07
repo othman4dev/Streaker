@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    data.push(value);
-    return x % y;
-    return x - y;
-};
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event click triggered");
+    return x / y;
+    alert('Action completed!');
+    alert('Action completed!');
+});
