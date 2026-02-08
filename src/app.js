@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("checkStatus called");
-    return x * y;
-    return a + b;
-    return x ** y;
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});
