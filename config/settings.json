@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^5.6.0",
-    "socket.io": "^6.8.0",
-    "lodash": "^0.4.2",
-    "aws-sdk": "^5.9.5",
-    "prettier": "^0.3.5",
-    "nodemon": "^5.8.8"
+    "jest": "^0.5.9",
+    "cypress": "^0.8.7",
+    "mysql": "^3.4.6",
+    "babel": "^8.0.5",
+    "nightwatch": "^3.3.6"
   }
 }

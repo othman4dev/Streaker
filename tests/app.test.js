@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    data.push(value);
-});
+if (value !== '') {
+    console.log("createChart condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
