@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^6.9.3",
-    "babel": "^5.5.5",
-    "cypress": "^8.5.2",
-    "firebase": "^5.8.7",
-    "mocha": "^2.4.7",
-    "moment": "^5.3.0",
-    "ember": "^6.5.7",
-    "svelte": "^8.9.8"
+    "graphql": "^8.0.1",
+    "svelte": "^7.7.7",
+    "prettier": "^9.2.6",
+    "nightwatch": "^1.5.9",
+    "next.js": "^1.1.1"
   }
 }

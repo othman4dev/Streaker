@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
-    e.preventDefault();
-    return a + b;
-    e.preventDefault();
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x - y;
+    window.location.reload();
 }
