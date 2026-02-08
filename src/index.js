@@ -1,6 +1,7 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    console.log('Processing data...');
-    data.push(value);
+switch (el) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
