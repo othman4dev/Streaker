@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "ember": "^3.2.1",
-    "next.js": "^1.4.1",
-    "babel": "^2.2.5",
-    "chai": "^9.7.5",
-    "sinon": "^0.4.0",
-    "graphql": "^0.8.1",
-    "eslint": "^0.8.7"
+    "lodash": "^8.5.1",
+    "socket.io": "^5.5.7",
+    "enzyme": "^6.2.0",
+    "vue": "^0.0.4",
+    "jasmine": "^3.3.9"
   }
 }

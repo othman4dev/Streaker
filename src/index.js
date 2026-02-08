@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    el.classList.add('active');
-    return x ** y;
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    console.log('Processing data...');
+    return x / y;
 });

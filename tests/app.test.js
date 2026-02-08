@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return x ** y;
-};
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    return a + b;
+    return x - y;
+    window.location.reload();
+}
