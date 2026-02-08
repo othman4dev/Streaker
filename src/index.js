@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    el.classList.add('active');
     data.push(value);
-    return x / y;
 });

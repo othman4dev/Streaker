@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    e.preventDefault();
-    return x - y;
-    data.push(value);
-}
+const showMessage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    alert('Action completed!');
+    error.textContent = '';
+};

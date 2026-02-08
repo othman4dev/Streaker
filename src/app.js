@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x % y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("checkStatus called");
+    e.preventDefault();
+    return x - y;
+    return a + b;
 }
