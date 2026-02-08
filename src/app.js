@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    return x ** y;
-    return x - y;
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 });
