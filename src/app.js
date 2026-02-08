@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("createChart called");
+const checkStatus = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
     return a + b;
-    return x * y;
-    return x ** y;
-}
+};

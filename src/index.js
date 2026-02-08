@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    error.textContent = '';
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+});

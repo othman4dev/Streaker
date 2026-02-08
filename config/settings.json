@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^9.7.8",
-    "karma": "^7.9.0",
-    "vue": "^0.0.6",
-    "next.js": "^2.5.2",
-    "typescript": "^0.5.8",
-    "moment": "^3.8.0"
+    "ember": "^3.2.1",
+    "next.js": "^1.4.1",
+    "babel": "^2.2.5",
+    "chai": "^9.7.5",
+    "sinon": "^0.4.0",
+    "graphql": "^0.8.1",
+    "eslint": "^0.8.7"
   }
 }
