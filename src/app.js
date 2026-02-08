@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    return x - y;
-    error.textContent = '';
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
+    return x / y;
+    console.log('Processing data...');
+};

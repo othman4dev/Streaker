@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^9.4.1",
-    "axios": "^1.0.5",
-    "socket.io": "^9.7.3",
-    "angular": "^8.2.5",
-    "gatsby": "^9.5.4",
-    "nodemon": "^6.7.4",
-    "eslint": "^5.0.7",
-    "nightwatch": "^5.2.1"
+    "next.js": "^4.5.9",
+    "mysql": "^4.6.3",
+    "aws-sdk": "^0.8.3",
+    "vue": "^2.2.9"
   }
 }
