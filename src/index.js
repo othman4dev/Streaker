@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    el.classList.add('active');
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    data.push(value);
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

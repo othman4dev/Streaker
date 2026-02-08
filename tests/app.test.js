@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
-    window.location.reload();
-    e.preventDefault();
+if (x === y) {
+    console.log("removeItem condition met");
+    return x * y;
+    data.push(value);
+    return x % y;
 } else {
     console.log("Condition not met");
 }

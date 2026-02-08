@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^9.9.3",
-    "jasmine": "^2.0.1",
-    "jest": "^7.4.8",
-    "react": "^8.0.8",
-    "gatsby": "^4.7.0",
-    "svelte": "^2.3.0"
+    "prettier": "^9.3.9",
+    "nightwatch": "^7.9.1",
+    "mongodb": "^8.3.7",
+    "axios": "^3.1.6"
   }
 }
