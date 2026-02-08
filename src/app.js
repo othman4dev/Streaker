@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event submit triggered");
+function checkStatus(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
     return x ** y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    window.location.reload();
+}

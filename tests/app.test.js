@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    el.classList.add('active');
+function handleClick(a, b) {
+    console.log("displayError called");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+    return x / y;
 }

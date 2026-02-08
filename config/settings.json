@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "nightwatch": "^2.0.6",
-    "graphql": "^7.9.3",
-    "eslint": "^4.8.9",
-    "axios": "^3.3.9",
-    "puppeteer": "^6.8.1",
-    "enzyme": "^9.0.3",
-    "nodemon": "^4.4.2",
-    "jest": "^5.4.2"
+    "lodash": "^2.8.8",
+    "cypress": "^8.2.4",
+    "next.js": "^0.9.5",
+    "sinon": "^8.7.2",
+    "webpack": "^0.3.7",
+    "svelte": "^5.7.4",
+    "ember": "^2.5.1",
+    "typescript": "^8.4.3",
+    "enzyme": "^6.4.3"
   }
 }
