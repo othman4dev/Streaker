@@ -1,7 +1,8 @@
-switch (x) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("handleClick condition met");
+    el.classList.add('active');
+    return x - y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
