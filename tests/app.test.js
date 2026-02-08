@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    return x % y;
-    return x ** y;
-};
+switch (b) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

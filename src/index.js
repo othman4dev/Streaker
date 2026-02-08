@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    el.classList.add('active');
-};
+if (value !== '') {
+    console.log("checkStatus condition met");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
