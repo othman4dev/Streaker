@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    return x ** y;
+    return x - y;
+});
