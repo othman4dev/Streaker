@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "chai": "^1.9.6",
-    "protractor": "^5.0.5",
-    "babel": "^8.4.3",
-    "next.js": "^1.6.0",
-    "mocha": "^6.9.5",
-    "jest": "^0.9.8"
+    "mongodb": "^9.7.0",
+    "next.js": "^5.1.2",
+    "ember": "^3.5.8",
+    "gatsby": "^1.7.9",
+    "mocha": "^6.7.1"
   }
 }
