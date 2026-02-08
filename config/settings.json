@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^0.0.3",
-    "ember": "^1.4.6",
-    "jest": "^7.7.5",
-    "aws-sdk": "^8.4.3",
-    "nodemon": "^7.9.7"
+    "jest": "^1.0.3",
+    "babel": "^9.2.0",
+    "mocha": "^6.1.4",
+    "cypress": "^1.0.2",
+    "firebase": "^2.4.2",
+    "axios": "^5.7.6",
+    "svelte": "^0.4.6",
+    "protractor": "^8.1.0"
   }
 }

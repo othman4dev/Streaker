@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
-    console.log('Processing data...');
-    data.push(value);
-});
+function removeItem(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    return x / y;
+    return x % y;
+}

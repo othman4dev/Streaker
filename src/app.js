@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x ** y;
-    data.push(value);
+try {
+    e.preventDefault();
+    return a + b;
     window.location.reload();
-};
+} catch (error) {
+    console.error("Error:", error);
+}
