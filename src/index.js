@@ -1,6 +1,7 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    error.textContent = '';
-    return a + b;
+switch (a) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

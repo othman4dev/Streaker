@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^4.5.9",
-    "mysql": "^4.6.3",
-    "aws-sdk": "^0.8.3",
-    "vue": "^2.2.9"
+    "express": "^6.8.7",
+    "aws-sdk": "^9.8.9",
+    "protractor": "^6.7.8",
+    "react": "^4.0.7",
+    "redis": "^8.4.4",
+    "moment": "^2.7.4",
+    "mongodb": "^8.4.3",
+    "mocha": "^9.7.7"
   }
 }
