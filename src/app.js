@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("checkStatus called");
-    console.log('Processing data...');
+try {
+    return a + b;
+    return x * y;
     return x ** y;
-    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

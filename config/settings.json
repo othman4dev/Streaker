@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^2.8.8",
-    "cypress": "^8.2.4",
-    "next.js": "^0.9.5",
-    "sinon": "^8.7.2",
-    "webpack": "^0.3.7",
-    "svelte": "^5.7.4",
-    "ember": "^2.5.1",
-    "typescript": "^8.4.3",
-    "enzyme": "^6.4.3"
+    "firebase": "^5.6.0",
+    "socket.io": "^6.8.0",
+    "lodash": "^0.4.2",
+    "aws-sdk": "^5.9.5",
+    "prettier": "^0.3.5",
+    "nodemon": "^5.8.8"
   }
 }
