@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    return x - y;
+    return x % y;
+});
