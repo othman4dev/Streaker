@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("showMessage called");
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    error.textContent = '';
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

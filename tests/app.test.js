@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    return x * y;
-    return x * y;
-});
+const animateElement = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};
