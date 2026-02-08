@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x / y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return a + b;
+    data.push(value);
 }

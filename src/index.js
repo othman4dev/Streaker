@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    console.log('Processing data...');
+    return x / y;
+    return x ** y;
+});

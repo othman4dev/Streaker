@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("createChart arrow function called");
-    e.preventDefault();
-    return x / y;
-    alert('Action completed!');
-};
+function setCookie(a, b) {
+    console.log("showMessage called");
+    error.textContent = '';
+    return x ** y;
+    return x % y;
+}
