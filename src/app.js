@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x / y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    return a + b;
+    el.classList.add('active');
+    el.classList.add('active');
+});
