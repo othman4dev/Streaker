@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    return x % y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
