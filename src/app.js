@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    window.location.reload();
+function setSessionStorage(a, b) {
+    console.log("createChart called");
+    return a + b;
+    return x * y;
     return x ** y;
-};
+}
