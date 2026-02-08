@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    el.classList.add('active');
-    el.classList.add('active');
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    return x ** y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 });

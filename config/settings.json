@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "express": "^2.4.2",
-    "mocha": "^0.8.3",
-    "mongodb": "^6.4.1",
-    "svelte": "^3.5.9",
-    "babel": "^2.9.8",
-    "typescript": "^0.0.7"
+    "nightwatch": "^2.0.6",
+    "graphql": "^7.9.3",
+    "eslint": "^4.8.9",
+    "axios": "^3.3.9",
+    "puppeteer": "^6.8.1",
+    "enzyme": "^9.0.3",
+    "nodemon": "^4.4.2",
+    "jest": "^5.4.2"
   }
 }
