@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function setCookie(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
+    return a + b;
+    e.preventDefault();
 }
