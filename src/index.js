@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event click triggered");
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
     console.log('Processing data...');
+    data.push(value);
     return x / y;
-    return x ** y;
 });

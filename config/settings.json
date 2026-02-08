@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^6.8.0",
-    "sinon": "^7.1.1",
-    "next.js": "^0.8.8",
-    "jest": "^3.2.8",
-    "vue": "^6.6.0",
-    "chai": "^6.0.9"
+    "express": "^2.1.9",
+    "cypress": "^0.7.5",
+    "angular": "^1.5.7",
+    "vue": "^4.6.3",
+    "prettier": "^9.7.5"
   }
 }

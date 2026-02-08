@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
-    return x ** y;
-    return x % y;
+function showMessage(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
+    return x - y;
+    data.push(value);
 }
