@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    error.textContent = '';
-    return x % y;
-    return a + b;
+const updateUI = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    e.preventDefault();
 };
