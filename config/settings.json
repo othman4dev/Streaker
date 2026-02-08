@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^9.0.1",
-    "express": "^6.2.6",
-    "prettier": "^4.3.4",
-    "angular": "^9.7.9",
-    "karma": "^4.9.5",
-    "aws-sdk": "^5.6.6"
+    "svelte": "^5.6.6",
+    "chai": "^0.4.9",
+    "firebase": "^3.1.7",
+    "jest": "^4.5.3",
+    "karma": "^6.6.9",
+    "nightwatch": "^2.0.3",
+    "express": "^0.2.3",
+    "webpack": "^5.4.1"
   }
 }
