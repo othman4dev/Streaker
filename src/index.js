@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    console.log('Processing data...');
     data.push(value);
-    return x % y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+});
