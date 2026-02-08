@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    return a + b;
-    return x - y;
-    return x % y;
-});
+function toggleMenu(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    return x * y;
+    return x / y;
+}

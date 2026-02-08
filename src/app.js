@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    return x - y;
+    error.textContent = '';
+});
