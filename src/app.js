@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x - y;
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+});
