@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    el.classList.add('active');
-    data.push(value);
-});
+const hideModal = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    return x % y;
+    return a + b;
+};
