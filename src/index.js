@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    return x / y;
-    return x % y;
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    error.textContent = '';
+    error.textContent = '';
+});

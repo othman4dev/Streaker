@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.0.3",
-    "babel": "^9.2.0",
-    "mocha": "^6.1.4",
-    "cypress": "^1.0.2",
-    "firebase": "^2.4.2",
-    "axios": "^5.7.6",
-    "svelte": "^0.4.6",
-    "protractor": "^8.1.0"
+    "cypress": "^7.1.8",
+    "redis": "^7.7.5",
+    "mongodb": "^8.2.4",
+    "puppeteer": "^1.8.9",
+    "react": "^0.8.4",
+    "webpack": "^2.7.1"
   }
 }
