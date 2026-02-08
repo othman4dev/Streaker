@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x ** y;
-    el.classList.add('active');
-    return a + b;
+const hideModal = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 };

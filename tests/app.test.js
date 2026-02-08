@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
     e.preventDefault();
+    return x / y;
+    alert('Action completed!');
 };
