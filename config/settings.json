@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^8.6.2",
-    "cypress": "^7.0.0",
-    "enzyme": "^9.9.2",
-    "mocha": "^6.8.5",
-    "protractor": "^7.6.3",
-    "express": "^6.2.8"
+    "chai": "^1.9.6",
+    "protractor": "^5.0.5",
+    "babel": "^8.4.3",
+    "next.js": "^1.6.0",
+    "mocha": "^6.9.5",
+    "jest": "^0.9.8"
   }
 }
