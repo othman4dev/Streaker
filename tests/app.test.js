@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
+const showMessage = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return x % y;
-    window.location.reload();
-});
+    e.preventDefault();
+    return x - y;
+};
