@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    return x ** y;
+    window.location.reload();
+    data.push(value);
+});

@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    error.textContent = '';
-    el.classList.add('active');
-});
+switch (data) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

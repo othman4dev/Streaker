@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
-    data.push(value);
-    e.preventDefault();
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}
