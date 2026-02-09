@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("createChart arrow function called");
-    e.preventDefault();
-    return x - y;
-    console.log('Processing data...');
-};
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    error.textContent = '';
+    el.classList.add('active');
+});

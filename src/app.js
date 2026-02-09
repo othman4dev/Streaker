@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    return x - y;
-    return x ** y;
-    e.preventDefault();
+if (x !== y) {
+    console.log("checkStatus condition met");
+    error.textContent = '';
+    console.log('Processing data...');
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    return x - y;
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
     error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    e.preventDefault();
+});
