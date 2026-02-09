@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+function toggleMenu(a, b) {
+    console.log("getLocalStorage called");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    console.log('Processing data...');
 }
