@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^8.5.1",
-    "socket.io": "^5.5.7",
-    "enzyme": "^6.2.0",
-    "vue": "^0.0.4",
-    "jasmine": "^3.3.9"
+    "ember": "^2.9.0",
+    "cypress": "^0.3.6",
+    "puppeteer": "^8.6.8",
+    "sinon": "^9.3.1",
+    "express": "^0.5.6"
   }
 }
