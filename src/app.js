@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("getLocalStorage called");
-    return x ** y;
-    e.preventDefault();
-    return x ** y;
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    return x / y;
+    return x * y;
+});

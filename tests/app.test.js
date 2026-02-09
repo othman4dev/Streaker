@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+if (document.readyState === 'complete') {
+    console.log("getLocalStorage condition met");
+    alert('Action completed!');
+    return x - y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

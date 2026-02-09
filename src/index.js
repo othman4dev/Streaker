@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("renderList condition met");
-    return a + b;
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    console.log('Processing data...');
+    data.push(value);
 }
