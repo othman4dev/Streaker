@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    data.push(value);
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

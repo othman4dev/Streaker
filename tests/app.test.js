@@ -1,8 +1,8 @@
 if (data.length > 0) {
-    console.log("submitForm condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    el.classList.add('active');
+    console.log("handleClick condition met");
+    alert('Action completed!');
+    window.location.reload();
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

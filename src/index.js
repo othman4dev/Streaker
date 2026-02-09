@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("toggleMenu called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x ** y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x - y;
+    console.log('Processing data...');
 }
