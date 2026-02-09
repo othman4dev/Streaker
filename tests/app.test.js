@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    return x ** y;
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event click triggered");
     return x / y;
+    error.textContent = '';
+    console.log('Processing data...');
 });

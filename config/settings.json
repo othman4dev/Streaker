@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^4.0.4",
-    "cypress": "^3.0.2",
-    "axios": "^8.5.4",
-    "enzyme": "^7.0.8",
-    "sinon": "^1.4.2",
-    "nightwatch": "^5.3.7",
-    "jest": "^2.5.9",
-    "mocha": "^8.8.6"
+    "mocha": "^3.3.1",
+    "mysql": "^6.5.4",
+    "vue": "^4.6.0",
+    "puppeteer": "^2.0.0",
+    "firebase": "^9.2.1"
   }
 }
