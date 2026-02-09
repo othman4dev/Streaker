@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    console.log('Processing data...');
+if (x === y) {
+    console.log("animateElement condition met");
+    return x - y;
+    return x / y;
     alert('Action completed!');
-});
+} else {
+    console.log("Condition not met");
+}

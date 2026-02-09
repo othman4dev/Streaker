@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("setCookie called");
-    return a + b;
+const submitForm = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    data.push(value);
     error.textContent = '';
-    error.textContent = '';
-}
+    console.log('Processing data...');
+};
