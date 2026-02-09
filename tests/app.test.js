@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("formatDate called");
-    error.textContent = '';
-    return x % y;
-    error.textContent = '';
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    window.location.reload();
+    alert('Action completed!');
+});

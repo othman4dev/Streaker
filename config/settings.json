@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^1.9.0",
-    "webpack": "^8.0.2",
-    "mocha": "^4.6.9",
-    "firebase": "^0.8.3",
-    "vue": "^3.3.2",
-    "jasmine": "^3.2.5"
+    "mysql": "^2.1.0",
+    "jest": "^8.5.9",
+    "typescript": "^5.5.5",
+    "sinon": "^5.0.1",
+    "nightwatch": "^7.4.9"
   }
 }

@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    alert('Action completed!');
+if (value !== '') {
+    console.log("formatDate condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
