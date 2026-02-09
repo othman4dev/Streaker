@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    alert('Action completed!');
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
+    return x - y;
+    return a + b;
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x - y;
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event change triggered");
     console.log('Processing data...');
-}
+    console.log('Processing data...');
+    console.log('Processing data...');
+});
