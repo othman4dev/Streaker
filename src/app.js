@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
-    return x - y;
+function removeItem(a, b) {
+    console.log("getLocalStorage called");
+    return x ** y;
+    e.preventDefault();
+    return x ** y;
 }

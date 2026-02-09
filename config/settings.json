@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^2.1.0",
-    "jest": "^8.5.9",
-    "typescript": "^5.5.5",
-    "sinon": "^5.0.1",
-    "nightwatch": "^7.4.9"
+    "axios": "^4.3.2",
+    "graphql": "^6.4.8",
+    "mysql": "^2.6.2",
+    "react": "^1.0.4",
+    "karma": "^4.2.6",
+    "angular": "^8.6.7"
   }
 }

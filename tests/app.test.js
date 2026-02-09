@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    window.location.reload();
-    alert('Action completed!');
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 });
