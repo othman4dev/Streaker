@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^3.5.8",
-    "ember": "^2.1.6",
-    "graphql": "^2.1.2",
-    "eslint": "^9.0.2",
-    "jest": "^0.8.2"
+    "puppeteer": "^1.9.0",
+    "webpack": "^8.0.2",
+    "mocha": "^4.6.9",
+    "firebase": "^0.8.3",
+    "vue": "^3.3.2",
+    "jasmine": "^3.2.5"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event change triggered");
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    e.preventDefault();
     console.log('Processing data...');
-    console.log('Processing data...');
-    console.log('Processing data...');
-});
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

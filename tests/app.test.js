@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    return x - y;
-    return a + b;
-});
+function showMessage(a, b) {
+    console.log("formatDate called");
+    error.textContent = '';
+    return x % y;
+    error.textContent = '';
+}
