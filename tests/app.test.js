@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function formatDate(a, b) {
+    console.log("fetchData called");
+    e.preventDefault();
+    return x % y;
+    return x / y;
 }
