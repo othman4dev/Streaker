@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("toggleMenu called");
-    return x / y;
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    alert('Action completed!');
+});

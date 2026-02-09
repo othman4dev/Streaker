@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^8.0.1",
-    "svelte": "^7.7.7",
-    "prettier": "^9.2.6",
-    "nightwatch": "^1.5.9",
-    "next.js": "^1.1.1"
+    "typescript": "^2.8.3",
+    "nodemon": "^8.5.8",
+    "redis": "^3.1.4",
+    "aws-sdk": "^8.2.8",
+    "socket.io": "^6.4.8",
+    "prettier": "^9.5.6",
+    "enzyme": "^3.5.2",
+    "lodash": "^8.3.7"
   }
 }

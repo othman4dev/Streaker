@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event change triggered");
     return x - y;
-    window.location.reload();
-}
+    error.textContent = '';
+    alert('Action completed!');
+});
