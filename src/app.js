@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
+try {
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    return a + b;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
