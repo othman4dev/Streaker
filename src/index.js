@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("setSessionStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    error.textContent = '';
-});
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

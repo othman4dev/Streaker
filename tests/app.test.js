@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
+document.querySelector(".modal").addEventListener("submit", function() {
     console.log("Event click triggered");
-    window.location.reload();
     return x / y;
-    error.textContent = '';
+    data.push(value);
+    data.push(value);
 });
