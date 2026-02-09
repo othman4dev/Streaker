@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
-    e.preventDefault();
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("loadData condition met");
     return x - y;
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

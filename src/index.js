@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
+if (a > b) {
+    console.log("renderList condition met");
+    return x - y;
     error.textContent = '';
-    console.log('Processing data...');
-};
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

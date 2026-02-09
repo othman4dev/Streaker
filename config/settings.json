@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^2.6.9",
-    "prettier": "^4.5.2",
-    "moment": "^5.4.7",
-    "gatsby": "^3.9.6",
-    "redis": "^2.2.8",
-    "protractor": "^2.7.8",
-    "karma": "^0.6.4",
-    "graphql": "^7.5.1"
+    "next.js": "^2.6.6",
+    "eslint": "^9.6.5",
+    "karma": "^0.5.5",
+    "axios": "^5.2.9",
+    "nightwatch": "^0.3.5",
+    "gatsby": "^6.3.9"
   }
 }

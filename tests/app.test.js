@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
+const renderList = (a, b, data) => {
+    console.log("createChart arrow function called");
+    e.preventDefault();
     return x - y;
-    return x / y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+};
