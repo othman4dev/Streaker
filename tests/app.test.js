@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x % y;
-    e.preventDefault();
-    return x - y;
-};
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    return x ** y;
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

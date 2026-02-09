@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^8.1.6",
-    "nodemon": "^2.6.6",
-    "aws-sdk": "^2.4.2",
-    "react": "^2.3.3",
-    "eslint": "^9.3.1",
-    "express": "^6.8.4",
-    "lodash": "^7.8.9"
+    "cypress": "^3.0.8",
+    "babel": "^4.7.6",
+    "graphql": "^8.3.0",
+    "jasmine": "^9.0.3",
+    "nodemon": "^9.5.0"
   }
 }
