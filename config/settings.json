@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^7.9.0",
-    "lodash": "^1.6.5",
-    "nightwatch": "^7.3.9",
-    "mongodb": "^1.5.3",
-    "moment": "^3.9.0",
-    "prettier": "^2.9.8",
-    "nodemon": "^4.7.7"
+    "socket.io": "^5.7.0",
+    "vue": "^6.1.1",
+    "redis": "^7.4.5",
+    "jest": "^6.2.2",
+    "mysql": "^6.6.3",
+    "nightwatch": "^1.1.7",
+    "aws-sdk": "^7.1.7",
+    "jasmine": "^1.4.3"
   }
 }
