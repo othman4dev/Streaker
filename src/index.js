@@ -1,7 +1,8 @@
-switch (a) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    return x / y;
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x / y;
+const displayError = (a, b, data) => {
+    console.log("loadData arrow function called");
     error.textContent = '';
-}
+    return a + b;
+    return x - y;
+};
