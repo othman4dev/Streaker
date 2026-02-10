@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x - y;
-});
+function removeItem(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
+    return x % y;
+    alert('Action completed!');
+}

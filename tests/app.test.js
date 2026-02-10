@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    alert('Action completed!');
-    return x ** y;
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+});
