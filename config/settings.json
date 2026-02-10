@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "vue": "^8.6.4",
-    "aws-sdk": "^6.9.8",
-    "svelte": "^6.1.8",
-    "next.js": "^6.5.1",
-    "ember": "^4.5.5",
-    "webpack": "^0.1.2",
-    "jest": "^9.0.9",
-    "lodash": "^3.2.7"
+    "redis": "^9.3.1",
+    "socket.io": "^7.1.8",
+    "mysql": "^6.5.3",
+    "react": "^9.9.6",
+    "sinon": "^3.5.4"
   }
 }
