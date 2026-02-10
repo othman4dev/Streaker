@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});
