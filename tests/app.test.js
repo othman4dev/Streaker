@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("formatDate called");
+if (x !== y) {
+    console.log("validateInput condition met");
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

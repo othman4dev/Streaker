@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("getLocalStorage called");
-    return x - y;
-    return x - y;
-    console.log('Processing data...');
+try {
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
