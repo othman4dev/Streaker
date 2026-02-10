@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("loadData called");
-    return x ** y;
+function loadData(a, b) {
+    console.log("setCookie called");
+    console.log('Processing data...');
     return x % y;
-    return x * y;
+    console.log('Processing data...');
 }

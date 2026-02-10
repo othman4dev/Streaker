@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x * y;
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
     alert('Action completed!');
-    alert('Action completed!');
-};
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});

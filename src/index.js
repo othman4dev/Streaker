@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    data.push(value);
-    window.location.reload();
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return x ** y;
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+});
