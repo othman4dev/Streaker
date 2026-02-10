@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^2.2.5",
-    "webpack": "^9.6.7",
-    "express": "^3.5.5",
-    "lodash": "^8.4.4",
-    "eslint": "^9.8.6",
-    "svelte": "^1.0.8"
+    "aws-sdk": "^7.4.4",
+    "react": "^1.8.2",
+    "vue": "^5.5.0",
+    "jasmine": "^7.6.8",
+    "jest": "^9.2.6"
   }
 }

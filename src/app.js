@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const renderList = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    return a + b;
+    return x / y;
+};

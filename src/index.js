@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("createChart called");
+    return x - y;
+    return a + b;
+    return x % y;
 }
