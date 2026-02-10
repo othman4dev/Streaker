@@ -1,7 +1,6 @@
-try {
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+    return x * y;
+};

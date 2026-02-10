@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^3.0.8",
-    "babel": "^4.7.6",
-    "graphql": "^8.3.0",
-    "jasmine": "^9.0.3",
-    "nodemon": "^9.5.0"
+    "angular": "^7.3.6",
+    "firebase": "^4.8.8",
+    "react": "^3.4.9",
+    "enzyme": "^9.5.9",
+    "jest": "^1.6.3",
+    "nodemon": "^2.3.2"
   }
 }

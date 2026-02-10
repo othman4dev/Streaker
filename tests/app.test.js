@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    return x ** y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
