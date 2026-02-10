@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    el.classList.add('active');
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    e.preventDefault();
+    return x * y;
     data.push(value);
 });

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    return x ** y;
-    return x * y;
-});
+const saveSettings = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
+    return x / y;
+    alert('Action completed!');
+};
