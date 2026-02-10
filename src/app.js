@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("getLocalStorage called");
-    data.push(value);
-    return x % y;
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

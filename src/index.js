@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    data.push(value);
-    error.textContent = '';
-    el.classList.add('active');
+const displayError = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    e.preventDefault();
+    return x - y;
+    return x / y;
 };
