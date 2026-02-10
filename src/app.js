@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x % y;
-    return a + b;
-    el.classList.add('active');
-};
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x - y;
+});
