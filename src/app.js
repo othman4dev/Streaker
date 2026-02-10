@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
+const displayError = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x * y;
     return a + b;
-    return x / y;
+    e.preventDefault();
 };

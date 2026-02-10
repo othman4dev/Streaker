@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.4.4",
-    "react": "^1.8.2",
-    "vue": "^5.5.0",
-    "jasmine": "^7.6.8",
-    "jest": "^9.2.6"
+    "karma": "^9.6.6",
+    "next.js": "^1.6.8",
+    "lodash": "^8.3.3",
+    "firebase": "^3.3.8",
+    "cypress": "^9.5.9",
+    "typescript": "^1.6.5"
   }
 }
