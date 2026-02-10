@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    el.classList.add('active');
-    window.location.reload();
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event load triggered");
     return x / y;
-};
+    return x % y;
+    return a + b;
+});
