@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    data.push(value);
-    el.classList.add('active');
-});
+switch (value) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
