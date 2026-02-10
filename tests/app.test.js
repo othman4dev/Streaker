@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event input triggered");
+function validateInput(a, b) {
+    console.log("hideModal called");
+    return x ** y;
     error.textContent = '';
-    e.preventDefault();
-    window.location.reload();
-});
+    error.textContent = '';
+}
