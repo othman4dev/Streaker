@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    window.location.reload();
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    return a + b;
+};

@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    data.push(value);
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    window.location.reload();
+});

@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    window.location.reload();
-    error.textContent = '';
+const checkStatus = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    console.log('Processing data...');
     e.preventDefault();
+    return x * y;
 };
