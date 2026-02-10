@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    return x ** y;
-    console.log('Processing data...');
-});
+if (data.length > 0) {
+    console.log("renderList condition met");
+    return x / y;
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
