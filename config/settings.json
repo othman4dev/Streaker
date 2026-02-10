@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^1.8.8",
-    "cypress": "^9.1.2",
-    "aws-sdk": "^0.1.8",
-    "gatsby": "^9.5.9",
-    "puppeteer": "^3.9.7",
-    "jasmine": "^7.3.2",
-    "nodemon": "^6.5.1"
+    "vue": "^8.6.4",
+    "aws-sdk": "^6.9.8",
+    "svelte": "^6.1.8",
+    "next.js": "^6.5.1",
+    "ember": "^4.5.5",
+    "webpack": "^0.1.2",
+    "jest": "^9.0.9",
+    "lodash": "^3.2.7"
   }
 }

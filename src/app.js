@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x / y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function removeItem(a, b) {
+    console.log("renderList called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }

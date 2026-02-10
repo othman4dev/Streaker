@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
-    return x % y;
-    e.preventDefault();
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    return x * y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 });
