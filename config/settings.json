@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^5.2.4",
-    "jasmine": "^7.2.2",
-    "mongodb": "^6.6.2",
-    "moment": "^7.5.9",
-    "puppeteer": "^1.0.1",
-    "karma": "^5.3.8"
+    "nodemon": "^6.4.9",
+    "protractor": "^2.2.3",
+    "socket.io": "^5.3.5",
+    "nightwatch": "^2.3.1",
+    "express": "^6.3.2"
   }
 }

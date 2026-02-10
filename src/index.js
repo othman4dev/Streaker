@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
+const validateInput = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
     return x - y;
-    return x / y;
+    error.textContent = '';
 };

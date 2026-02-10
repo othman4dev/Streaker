@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    e.preventDefault();
+const validateInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

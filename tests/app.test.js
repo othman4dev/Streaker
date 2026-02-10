@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
+try {
+    el.classList.add('active');
     return x % y;
-    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
