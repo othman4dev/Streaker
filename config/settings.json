@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "karma": "^6.3.7",
-    "jest": "^0.1.2",
-    "cypress": "^2.6.7",
-    "webpack": "^3.1.0",
-    "angular": "^7.8.9",
-    "aws-sdk": "^7.3.8",
-    "axios": "^5.4.0"
+    "lodash": "^4.4.1",
+    "jasmine": "^2.1.1",
+    "typescript": "^8.8.0",
+    "sinon": "^5.9.6",
+    "aws-sdk": "^6.8.6",
+    "enzyme": "^4.6.1",
+    "chai": "^8.8.0",
+    "babel": "^0.9.6"
   }
 }
