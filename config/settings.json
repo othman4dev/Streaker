@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^5.3.1",
-    "jasmine": "^0.5.4",
-    "vue": "^4.2.8",
-    "jest": "^3.4.6",
-    "mongodb": "^0.9.9",
-    "socket.io": "^1.7.1",
-    "babel": "^7.6.7"
+    "protractor": "^0.4.8",
+    "jasmine": "^1.9.9",
+    "puppeteer": "^9.3.2",
+    "lodash": "^6.8.5",
+    "jest": "^5.5.3"
   }
 }

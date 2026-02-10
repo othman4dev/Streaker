@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("updateUI called");
-    error.textContent = '';
-    data.push(value);
-    return x / y;
+function renderList(a, b) {
+    console.log("loadData called");
+    return x ** y;
+    return x % y;
+    return x * y;
 }

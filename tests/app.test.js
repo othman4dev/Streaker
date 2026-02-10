@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("fetchData called");
-    e.preventDefault();
-    return x % y;
-    return x / y;
-}
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
+};
