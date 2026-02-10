@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x ** y;
-    return x - y;
-});
+if (x !== y) {
+    console.log("checkStatus condition met");
+    data.push(value);
+    el.classList.add('active');
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
