@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event click triggered");
+function showMessage(a, b) {
+    console.log("updateUI called");
+    console.log('Processing data...');
     return x ** y;
-    error.textContent = '';
-    return a + b;
-});
+    console.log('Processing data...');
+}
