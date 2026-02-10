@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^9.2.6",
-    "chai": "^1.0.3",
-    "express": "^6.2.2",
-    "nodemon": "^4.7.6",
-    "redis": "^5.8.4",
-    "gatsby": "^4.3.3",
-    "cypress": "^5.4.0",
-    "sinon": "^4.4.4"
+    "typescript": "^9.6.6",
+    "puppeteer": "^4.9.7",
+    "nightwatch": "^0.6.4",
+    "babel": "^1.5.0",
+    "protractor": "^4.9.2",
+    "redis": "^3.8.0",
+    "prettier": "^2.7.0"
   }
 }
