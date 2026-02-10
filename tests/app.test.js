@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    window.location.reload();
+    return x ** y;
+    return a + b;
+};
