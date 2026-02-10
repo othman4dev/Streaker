@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "karma": "^0.7.3",
-    "sinon": "^5.8.3",
-    "react": "^3.4.9",
-    "mongodb": "^9.8.7",
-    "express": "^1.8.0"
+    "sinon": "^3.4.9",
+    "lodash": "^4.5.2",
+    "angular": "^5.0.9",
+    "eslint": "^3.6.1",
+    "svelte": "^1.1.7",
+    "ember": "^6.2.7"
   }
 }

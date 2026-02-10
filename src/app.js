@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    return a + b;
-    console.log('Processing data...');
-    window.location.reload();
-});
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    data.push(value);
+    return x - y;
+}
