@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    el.classList.add('active');
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-});
+} else {
+    console.log("Condition not met");
+}
