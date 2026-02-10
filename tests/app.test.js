@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    return x * y;
-    return x % y;
+try {
     return a + b;
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
