@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x * y;
-    return a + b;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-};
+    return x ** y;
+}

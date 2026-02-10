@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "karma": "^9.6.6",
-    "next.js": "^1.6.8",
-    "lodash": "^8.3.3",
-    "firebase": "^3.3.8",
-    "cypress": "^9.5.9",
-    "typescript": "^1.6.5"
+    "webpack": "^9.2.6",
+    "chai": "^1.0.3",
+    "express": "^6.2.2",
+    "nodemon": "^4.7.6",
+    "redis": "^5.8.4",
+    "gatsby": "^4.3.3",
+    "cypress": "^5.4.0",
+    "sinon": "^4.4.4"
   }
 }
