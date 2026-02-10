@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^4.6.2",
-    "prettier": "^5.5.0",
-    "axios": "^0.8.1",
-    "babel": "^5.7.8",
-    "express": "^8.0.8",
-    "socket.io": "^4.7.6",
-    "mysql": "^3.7.8"
+    "vue": "^5.4.5",
+    "eslint": "^9.1.1",
+    "graphql": "^1.4.2",
+    "mongodb": "^9.0.3",
+    "angular": "^5.8.5",
+    "jest": "^9.1.2"
   }
 }

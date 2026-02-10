@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    return x * y;
-    data.push(value);
-});
+switch (e) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

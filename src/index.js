@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function hideModal(a, b) {
+    console.log("displayError called");
+    return x - y;
     return x % y;
-    return x / y;
-    alert('Action completed!');
-};
+    data.push(value);
+}
