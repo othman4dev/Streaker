@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    window.location.reload();
-    data.push(value);
+function showMessage(a, b) {
+    console.log("fetchData called");
+    console.log('Processing data...');
+    return x - y;
+    return x - y;
 }

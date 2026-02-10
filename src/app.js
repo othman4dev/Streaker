@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    return x * y;
-    e.preventDefault();
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    return a + b;
+    return a + b;
 });
