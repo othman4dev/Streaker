@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    error.textContent = '';
+    e.preventDefault();
+};
