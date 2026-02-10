@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("hideModal called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    el.classList.add('active');
 }
