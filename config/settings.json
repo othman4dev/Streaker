@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^3.3.1",
-    "mysql": "^6.5.4",
-    "vue": "^4.6.0",
-    "puppeteer": "^2.0.0",
-    "firebase": "^9.2.1"
+    "gatsby": "^6.9.9",
+    "sinon": "^8.7.6",
+    "cypress": "^8.2.7",
+    "nightwatch": "^7.1.6",
+    "svelte": "^0.7.9",
+    "express": "^1.0.6",
+    "ember": "^2.6.3",
+    "mongodb": "^3.6.2"
   }
 }
