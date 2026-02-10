@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x - y;
-    alert('Action completed!');
-}
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    data.push(value);
+    el.classList.add('active');
+});
