@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    e.preventDefault();
-    return a + b;
-});
+try {
+    return x ** y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

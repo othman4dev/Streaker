@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x - y;
+const handleClick = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    alert('Action completed!');
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+};

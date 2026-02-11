@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^1.9.9",
-    "enzyme": "^5.3.2",
-    "nightwatch": "^4.0.4",
-    "socket.io": "^5.2.4",
-    "axios": "^2.5.1"
+    "karma": "^6.7.9",
+    "axios": "^2.9.6",
+    "next.js": "^1.5.8",
+    "nodemon": "^8.8.2",
+    "sinon": "^3.6.6"
   }
 }
