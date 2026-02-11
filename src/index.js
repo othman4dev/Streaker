@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    window.location.reload();
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    console.log('Processing data...');
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+});

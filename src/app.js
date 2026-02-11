@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    window.location.reload();
+    window.location.reload();
+});

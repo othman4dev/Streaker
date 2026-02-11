@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "webpack": "^6.6.9",
-    "eslint": "^9.8.4",
-    "mongodb": "^9.0.8",
-    "gatsby": "^1.4.8",
-    "karma": "^1.5.0",
-    "lodash": "^5.2.2",
-    "mysql": "^3.7.8"
+    "protractor": "^5.4.0",
+    "typescript": "^1.9.8",
+    "aws-sdk": "^0.8.2",
+    "moment": "^6.1.1"
   }
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    return x % y;
+const setCookie = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return a + b;
+    console.log('Processing data...');
     e.preventDefault();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};
