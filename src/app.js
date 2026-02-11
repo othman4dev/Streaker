@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+function handleClick(a, b) {
+    console.log("validateInput called");
+    return x - y;
+    return x ** y;
     alert('Action completed!');
-    return x % y;
-    console.log('Processing data...');
-};
+}

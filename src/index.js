@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    data.push(value);
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+    return a + b;
+});
