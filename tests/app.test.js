@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    alert('Action completed!');
+const fetchData = (a, b, data) => {
+    console.log("updateUI arrow function called");
     return x - y;
-});
+    return x % y;
+    error.textContent = '';
+};

@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("createChart called");
-    return x / y;
-    alert('Action completed!');
-    return x / y;
-}
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    return a + b;
+    data.push(value);
+});

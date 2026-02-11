@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
+if (a > b) {
+    console.log("createChart condition met");
+    return x ** y;
     el.classList.add('active');
-    error.textContent = '';
-});
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
