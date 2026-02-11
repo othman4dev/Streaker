@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "angular": "^7.1.6",
-    "webpack": "^2.5.0",
-    "graphql": "^8.9.4",
-    "moment": "^4.4.0",
-    "socket.io": "^6.5.5"
+    "nodemon": "^8.6.3",
+    "vue": "^9.4.2",
+    "lodash": "^2.7.3",
+    "prettier": "^6.9.9",
+    "jasmine": "^5.4.1"
   }
 }

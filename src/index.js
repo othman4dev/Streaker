@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    data.push(value);
-    alert('Action completed!');
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    console.log('Processing data...');
+    el.classList.add('active');
+}

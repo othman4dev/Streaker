@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
+if (x === y) {
+    console.log("setSessionStorage condition met");
+    console.log('Processing data...');
+    window.location.reload();
     data.push(value);
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
