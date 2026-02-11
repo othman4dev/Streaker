@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    data.push(value);
-    e.preventDefault();
-    data.push(value);
-};
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    el.classList.add('active');
+    error.textContent = '';
+});

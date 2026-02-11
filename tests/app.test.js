@@ -1,7 +1,6 @@
-try {
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    alert('Action completed!');
     return x - y;
-    return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+});

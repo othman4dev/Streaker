@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("createChart called");
+    return x / y;
+    alert('Action completed!');
+    return x / y;
 }
