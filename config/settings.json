@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "react": "^0.0.1",
-    "vue": "^3.9.3",
-    "moment": "^3.3.7",
-    "lodash": "^4.8.3"
+    "graphql": "^6.2.4",
+    "jest": "^4.5.0",
+    "moment": "^9.7.9",
+    "chai": "^1.4.8",
+    "webpack": "^5.8.4",
+    "lodash": "^4.3.0",
+    "next.js": "^0.6.4",
+    "firebase": "^7.3.3"
   }
 }

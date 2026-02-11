@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+function validateInput(a, b) {
+    console.log("loadData called");
+    data.push(value);
     return x / y;
-} else {
-    console.log("Condition not met");
+    return a + b;
 }

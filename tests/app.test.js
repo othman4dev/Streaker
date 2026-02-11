@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    error.textContent = '';
-    window.location.reload();
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    return x - y;
+    return a + b;
+    console.log('Processing data...');
+});
