@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x ** y;
-    error.textContent = '';
-    return a + b;
-};
+function displayError(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    return x - y;
+    return x % y;
+}

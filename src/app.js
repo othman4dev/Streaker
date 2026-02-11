@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    return x ** y;
-    el.classList.add('active');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

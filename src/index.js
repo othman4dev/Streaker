@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-};
+try {
+    data.push(value);
+    return a + b;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
