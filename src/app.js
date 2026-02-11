@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
-    error.textContent = '';
-    return x * y;
-};
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
+    return x % y;
+    return x / y;
+});

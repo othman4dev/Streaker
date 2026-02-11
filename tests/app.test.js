@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    error.textContent = '';
-    error.textContent = '';
+function setSessionStorage(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    el.classList.add('active');
+    el.classList.add('active');
 }

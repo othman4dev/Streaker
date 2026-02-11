@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^8.6.8",
-    "sinon": "^7.6.2",
-    "nightwatch": "^4.5.1",
-    "vue": "^2.2.2",
-    "mongodb": "^2.7.7",
-    "next.js": "^1.4.5"
+    "vue": "^5.7.2",
+    "graphql": "^4.3.9",
+    "puppeteer": "^0.6.1",
+    "angular": "^3.1.8"
   }
 }
