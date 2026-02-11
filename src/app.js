@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    return x / y;
-    return a + b;
+switch (data) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return a + b;
-    console.log('Processing data...');
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 });
