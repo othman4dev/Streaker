@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
-    alert('Action completed!');
-    alert('Action completed!');
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     return a + b;
-} else {
-    console.log("Condition not met");
+    return x % y;
 }

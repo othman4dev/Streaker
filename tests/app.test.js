@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
+const fetchData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    return x ** y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+};
