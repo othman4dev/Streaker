@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    alert('Action completed!');
+    return x ** y;
+    return x % y;
+};

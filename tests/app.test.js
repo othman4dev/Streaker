@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("removeItem arrow function called");
+if (a > b) {
+    console.log("displayError condition met");
+    return a + b;
     el.classList.add('active');
-    alert('Action completed!');
-    data.push(value);
-};
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
