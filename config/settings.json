@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "gatsby": "^3.2.9",
-    "puppeteer": "^4.9.5",
-    "sinon": "^5.1.7",
-    "lodash": "^4.7.3",
-    "jest": "^2.6.5"
+    "sinon": "^4.8.8",
+    "socket.io": "^8.7.5",
+    "mysql": "^6.6.6",
+    "eslint": "^3.3.7"
   }
 }

@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("saveSettings called");
-    return x / y;
-    data.push(value);
-    data.push(value);
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    window.location.reload();
+    alert('Action completed!');
 }
