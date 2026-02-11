@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+const setCookie = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     el.classList.add('active');
-}
+    window.location.reload();
+    return x / y;
+};

@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^9.5.2",
-    "enzyme": "^0.6.5",
-    "mongodb": "^5.3.6",
-    "jasmine": "^9.6.3",
-    "aws-sdk": "^0.1.7",
-    "ember": "^6.7.7",
-    "express": "^6.8.2",
-    "react": "^0.5.4",
-    "prettier": "^1.6.9"
+    "nightwatch": "^2.5.1",
+    "chai": "^3.4.9",
+    "gatsby": "^6.8.0",
+    "prettier": "^6.7.2",
+    "cypress": "^0.2.1",
+    "socket.io": "^2.3.4",
+    "babel": "^6.4.3"
   }
 }

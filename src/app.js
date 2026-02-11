@@ -1,7 +1,8 @@
-switch (el) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("showMessage condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
