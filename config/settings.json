@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "chai": "^7.1.2",
-    "redis": "^2.0.9",
-    "vue": "^0.4.9",
-    "gatsby": "^5.3.9",
-    "graphql": "^3.2.7",
-    "karma": "^5.1.6"
+    "gatsby": "^3.2.9",
+    "puppeteer": "^4.9.5",
+    "sinon": "^5.1.7",
+    "lodash": "^4.7.3",
+    "jest": "^2.6.5"
   }
 }
