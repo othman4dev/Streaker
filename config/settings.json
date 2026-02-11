@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "react": "^0.6.5",
-    "vue": "^5.5.1",
-    "axios": "^9.8.5",
-    "next.js": "^0.7.6",
-    "moment": "^1.6.0",
-    "express": "^4.6.6",
-    "karma": "^2.5.4",
-    "puppeteer": "^6.7.4"
+    "puppeteer": "^3.6.7",
+    "jest": "^1.8.0",
+    "next.js": "^4.0.8",
+    "protractor": "^2.9.0",
+    "mocha": "^4.0.9"
   }
 }

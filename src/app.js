@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    data.push(value);
-    e.preventDefault();
-});
+if (a > b) {
+    console.log("animateElement condition met");
+    return x * y;
+    return x - y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
