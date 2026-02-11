@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "vue": "^0.0.6",
-    "gatsby": "^5.5.2",
-    "karma": "^7.4.7",
-    "redis": "^5.2.1",
-    "lodash": "^6.8.6",
-    "ember": "^9.2.4",
-    "prettier": "^4.8.1",
-    "express": "^8.2.7"
+    "react": "^9.1.7",
+    "moment": "^7.3.8",
+    "jest": "^2.4.6",
+    "jasmine": "^7.2.7",
+    "enzyme": "^7.5.8"
   }
 }

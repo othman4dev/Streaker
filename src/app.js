@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    return x * y;
-    error.textContent = '';
-    data.push(value);
-}
+const animateElement = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+};
