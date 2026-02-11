@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    alert('Action completed!');
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     data.push(value);
-    error.textContent = '';
+    e.preventDefault();
+    data.push(value);
 };
