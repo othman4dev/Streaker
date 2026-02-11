@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    window.location.reload();
-    error.textContent = '';
-};
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    return x ** y;
+    return x - y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
