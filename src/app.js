@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    el.classList.add('active');
-});
+function submitForm(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    console.log('Processing data...');
+    console.log('Processing data...');
+}
