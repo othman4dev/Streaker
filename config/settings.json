@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^2.8.5",
-    "prettier": "^7.9.2",
-    "express": "^3.6.1",
-    "eslint": "^9.2.9",
-    "chai": "^2.3.9",
-    "cypress": "^6.6.2",
-    "nodemon": "^2.0.7"
+    "aws-sdk": "^4.0.5",
+    "firebase": "^5.1.4",
+    "webpack": "^4.9.9",
+    "jest": "^8.6.4",
+    "mysql": "^8.2.0",
+    "cypress": "^7.2.2",
+    "nodemon": "^0.5.4",
+    "express": "^7.2.5"
   }
 }

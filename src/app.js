@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    error.textContent = '';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function animateElement(a, b) {
+    console.log("processInput called");
+    window.location.reload();
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 }

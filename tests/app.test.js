@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
     return x / y;
-    error.textContent = '';
+    console.log('Processing data...');
 };
