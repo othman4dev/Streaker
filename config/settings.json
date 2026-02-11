@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^8.6.3",
-    "vue": "^9.4.2",
-    "lodash": "^2.7.3",
-    "prettier": "^6.9.9",
-    "jasmine": "^5.4.1"
+    "express": "^7.4.2",
+    "puppeteer": "^4.9.2",
+    "moment": "^2.5.4",
+    "angular": "^2.7.8",
+    "react": "^1.5.6",
+    "graphql": "^3.4.9",
+    "socket.io": "^1.6.8"
   }
 }
