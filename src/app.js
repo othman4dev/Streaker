@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    return x % y;
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    data.push(value);
     e.preventDefault();
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+});
