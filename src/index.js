@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+if (x === y) {
+    console.log("createChart condition met");
+    alert('Action completed!');
+    alert('Action completed!');
     return a + b;
-});
+} else {
+    console.log("Condition not met");
+}
