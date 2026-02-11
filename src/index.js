@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("displayError arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};

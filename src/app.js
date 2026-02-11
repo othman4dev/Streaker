@@ -1,7 +1,8 @@
-switch (e) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("formatDate condition met");
+    return x ** y;
+    el.classList.add('active');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

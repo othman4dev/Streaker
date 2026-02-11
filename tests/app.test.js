@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x / y;
+const handleClick = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x ** y;
+    error.textContent = '';
     return a + b;
-    el.classList.add('active');
 };
