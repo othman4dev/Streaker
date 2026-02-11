@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    data.push(value);
-    el.classList.add('active');
-    data.push(value);
+if (x === y) {
+    console.log("processInput condition met");
+    e.preventDefault();
+    return x * y;
+    return x - y;
 } else {
     console.log("Condition not met");
 }

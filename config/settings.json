@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^3.9.8",
-    "lodash": "^3.6.5",
-    "jasmine": "^0.0.3",
-    "enzyme": "^6.9.1",
-    "react": "^8.4.1",
-    "jest": "^6.2.6",
-    "babel": "^5.4.4"
+    "aws-sdk": "^5.5.4",
+    "nodemon": "^7.3.1",
+    "express": "^4.1.4",
+    "puppeteer": "^6.2.0",
+    "eslint": "^6.3.9"
   }
 }

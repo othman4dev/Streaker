@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    e.preventDefault();
-    el.classList.add('active');
-});
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x / y;
+    return x * y;
+}
