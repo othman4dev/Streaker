@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

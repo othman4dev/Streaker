@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^2.6.6",
-    "lodash": "^6.5.2",
-    "moment": "^9.8.3",
-    "socket.io": "^7.2.0",
-    "next.js": "^5.0.8",
-    "redis": "^9.5.3",
-    "graphql": "^5.7.0"
+    "react": "^0.0.1",
+    "vue": "^3.9.3",
+    "moment": "^3.3.7",
+    "lodash": "^4.8.3"
   }
 }
