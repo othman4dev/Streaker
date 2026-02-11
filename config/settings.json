@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "jasmine": "^2.0.4",
-    "axios": "^5.2.4",
-    "enzyme": "^2.5.4",
-    "mongodb": "^8.3.3",
-    "babel": "^2.8.3"
+    "jasmine": "^5.9.9",
+    "protractor": "^0.0.7",
+    "enzyme": "^2.6.1",
+    "angular": "^2.1.7",
+    "babel": "^2.8.1",
+    "next.js": "^9.0.9",
+    "moment": "^9.1.8"
   }
 }
