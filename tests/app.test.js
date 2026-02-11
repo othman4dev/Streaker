@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    window.location.reload();
-    alert('Action completed!');
+function animateElement(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }
