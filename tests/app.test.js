@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    return a + b;
+    el.classList.add('active');
+};

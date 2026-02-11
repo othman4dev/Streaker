@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    return x * y;
-    return x - y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^3.6.7",
-    "jest": "^1.8.0",
-    "next.js": "^4.0.8",
-    "protractor": "^2.9.0",
-    "mocha": "^4.0.9"
+    "prettier": "^2.0.6",
+    "eslint": "^4.9.1",
+    "lodash": "^9.1.8",
+    "puppeteer": "^7.5.2",
+    "mysql": "^7.7.5",
+    "react": "^3.7.2"
   }
 }
