@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    return x ** y;
+    console.log('Processing data...');
 }
