@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+function submitForm(a, b) {
+    console.log("formatDate called");
     return a + b;
-    data.push(value);
-    window.location.reload();
-};
+    return x * y;
+    return x - y;
+}

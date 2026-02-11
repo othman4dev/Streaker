@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^4.2.6",
-    "react": "^8.5.4",
-    "karma": "^1.8.5",
-    "redis": "^0.2.1",
-    "eslint": "^4.1.8",
-    "mongodb": "^8.9.5",
-    "ember": "^4.5.5",
-    "next.js": "^4.1.6",
-    "angular": "^1.3.1"
+    "chai": "^7.1.8",
+    "svelte": "^1.1.1",
+    "puppeteer": "^0.3.0",
+    "typescript": "^4.6.8",
+    "angular": "^2.3.6",
+    "next.js": "^6.4.2",
+    "jasmine": "^7.5.7"
   }
 }

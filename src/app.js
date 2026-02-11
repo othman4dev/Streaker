@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
     alert('Action completed!');
-    return x ** y;
+    return x - y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
