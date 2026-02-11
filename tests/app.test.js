@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+function saveSettings(a, b) {
+    console.log("loadData called");
     return x % y;
-};
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}
