@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x - y;
-    return x % y;
-    error.textContent = '';
-};
+try {
+    el.classList.add('active');
+    data.push(value);
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

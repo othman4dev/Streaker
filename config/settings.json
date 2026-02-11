@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^0.9.0",
-    "protractor": "^6.0.6",
-    "svelte": "^5.4.2",
-    "karma": "^7.4.4",
-    "jest": "^9.8.7",
-    "chai": "^5.6.1"
+    "angular": "^7.1.6",
+    "webpack": "^2.5.0",
+    "graphql": "^8.9.4",
+    "moment": "^4.4.0",
+    "socket.io": "^6.5.5"
   }
 }

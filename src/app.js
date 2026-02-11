@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
-    return x ** y;
-    el.classList.add('active');
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function formatDate(a, b) {
+    console.log("setCookie called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }
