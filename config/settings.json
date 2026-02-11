@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^6.4.9",
-    "protractor": "^2.2.3",
-    "socket.io": "^5.3.5",
-    "nightwatch": "^2.3.1",
-    "express": "^6.3.2"
+    "react": "^9.5.5",
+    "nodemon": "^0.0.1",
+    "sinon": "^7.9.1",
+    "socket.io": "^6.0.5",
+    "nightwatch": "^8.9.0"
   }
 }

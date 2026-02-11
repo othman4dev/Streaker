@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
     document.body.style.backgroundColor = 'lightblue';
-};
+    window.location.reload();
+}
