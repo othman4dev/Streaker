@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("processInput called");
-    window.location.reload();
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    el.classList.add('active');
+});
