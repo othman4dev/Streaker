@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
     error.textContent = '';
-}
+    e.preventDefault();
+    return a + b;
+});

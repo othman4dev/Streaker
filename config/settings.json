@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "vue": "^5.7.2",
-    "graphql": "^4.3.9",
-    "puppeteer": "^0.6.1",
-    "angular": "^3.1.8"
+    "eslint": "^1.9.9",
+    "enzyme": "^5.3.2",
+    "nightwatch": "^4.0.4",
+    "socket.io": "^5.2.4",
+    "axios": "^2.5.1"
   }
 }
