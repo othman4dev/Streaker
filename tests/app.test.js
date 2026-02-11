@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-    error.textContent = '';
-    e.preventDefault();
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

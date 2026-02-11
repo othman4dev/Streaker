@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+const getLocalStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x % y;
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+    return x ** y;
 };
