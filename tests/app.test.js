@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    e.preventDefault();
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
