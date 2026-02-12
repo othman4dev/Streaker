@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
-    window.location.reload();
-    window.location.reload();
-});
+try {
+    console.log('Processing data...');
+    console.log('Processing data...');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
