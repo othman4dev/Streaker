@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    e.preventDefault();
+});

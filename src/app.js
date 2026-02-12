@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
     el.classList.add('active');
-    return x ** y;
-    return a + b;
-};
+    e.preventDefault();
+});
