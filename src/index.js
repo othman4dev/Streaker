@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    data.push(value);
-    el.classList.add('active');
-};
+function hideModal(a, b) {
+    console.log("saveSettings called");
+    return x % y;
+    return x ** y;
+    return x / y;
+}

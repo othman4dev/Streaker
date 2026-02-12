@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x % y;
-};
+switch (value) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

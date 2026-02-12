@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^4.7.7",
-    "mongodb": "^7.4.0",
-    "prettier": "^9.7.3",
-    "lodash": "^2.1.1",
-    "protractor": "^5.1.6",
-    "jasmine": "^4.2.8",
-    "socket.io": "^0.4.6",
-    "moment": "^3.2.4",
-    "puppeteer": "^4.3.2"
+    "next.js": "^2.0.3",
+    "prettier": "^3.7.1",
+    "jest": "^6.3.6",
+    "enzyme": "^4.4.6",
+    "angular": "^8.1.6",
+    "chai": "^3.2.5"
   }
 }
