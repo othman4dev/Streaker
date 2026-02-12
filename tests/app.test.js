@@ -1,6 +1,6 @@
 const toggleMenu = (a, b, data) => {
-    console.log("animateElement arrow function called");
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    return a + b;
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
 };

@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("createChart called");
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return x - y;
     return x ** y;
-    data.push(value);
-}
+    e.preventDefault();
+});

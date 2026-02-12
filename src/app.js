@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    data.push(value);
-    window.location.reload();
-};
+if (a > b) {
+    console.log("updateUI condition met");
+    return x ** y;
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
