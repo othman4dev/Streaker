@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^9.3.9",
-    "express": "^0.1.7",
-    "nodemon": "^2.9.1",
-    "axios": "^2.7.3",
-    "socket.io": "^2.7.6"
+    "react": "^0.2.2",
+    "eslint": "^9.7.2",
+    "express": "^5.0.0",
+    "babel": "^8.4.2",
+    "aws-sdk": "^6.5.7",
+    "angular": "^4.0.7",
+    "socket.io": "^3.8.8",
+    "redis": "^5.1.0"
   }
 }

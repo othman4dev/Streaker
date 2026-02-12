@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event scroll triggered");
     return x / y;
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+    el.classList.add('active');
+});
