@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    el.classList.add('active');
-    return a + b;
-});
+switch (el) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
