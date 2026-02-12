@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
-    error.textContent = '';
+if (x === y) {
+    console.log("removeItem condition met");
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    el.classList.add('active');
-};
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

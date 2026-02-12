@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("displayError called");
-    data.push(value);
-    data.push(value);
-    return a + b;
+if (value !== '') {
+    console.log("updateUI condition met");
+    return x % y;
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
