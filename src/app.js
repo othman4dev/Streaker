@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+function loadData(a, b) {
+    console.log("removeItem called");
+    return x * y;
     return x - y;
-    el.classList.add('active');
-    console.log('Processing data...');
+    window.location.reload();
 }

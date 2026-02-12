@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    window.location.reload();
-    e.preventDefault();
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 });

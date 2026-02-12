@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^8.7.7",
-    "mocha": "^9.6.0",
-    "moment": "^2.5.3",
-    "angular": "^8.2.7"
+    "cypress": "^7.6.6",
+    "jest": "^4.1.5",
+    "prettier": "^0.7.4",
+    "protractor": "^0.7.2",
+    "lodash": "^3.9.4",
+    "react": "^4.6.1"
   }
 }
