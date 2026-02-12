@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^5.2.6",
-    "jasmine": "^5.2.0",
-    "socket.io": "^6.8.6",
-    "jest": "^9.8.1",
-    "protractor": "^6.7.4",
-    "mocha": "^5.4.5",
-    "axios": "^5.3.3"
+    "mocha": "^5.1.6",
+    "gatsby": "^5.3.8",
+    "express": "^2.8.1",
+    "socket.io": "^7.1.0",
+    "svelte": "^2.6.3",
+    "graphql": "^6.3.9"
   }
 }

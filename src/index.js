@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
-    data.push(value);
+if (a > b) {
+    console.log("checkStatus condition met");
+    error.textContent = '';
     return x * y;
     return x * y;
+} else {
+    console.log("Condition not met");
 }
