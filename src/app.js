@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("formatDate called");
-    window.location.reload();
-    console.log('Processing data...');
-    alert('Action completed!');
+switch (a) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

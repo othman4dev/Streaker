@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return x / y;
-    return x % y;
-    el.classList.add('active');
-});
+if (value !== '') {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

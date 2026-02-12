@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
     el.classList.add('active');
-    alert('Action completed!');
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

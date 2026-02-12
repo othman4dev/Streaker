@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "react": "^0.2.2",
-    "eslint": "^9.7.2",
-    "express": "^5.0.0",
-    "babel": "^8.4.2",
-    "aws-sdk": "^6.5.7",
-    "angular": "^4.0.7",
-    "socket.io": "^3.8.8",
-    "redis": "^5.1.0"
+    "lodash": "^6.0.0",
+    "ember": "^5.9.4",
+    "redis": "^5.1.4",
+    "eslint": "^0.7.9",
+    "chai": "^4.9.5"
   }
 }
