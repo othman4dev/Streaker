@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("animateElement called");
-    return x * y;
-    return a + b;
-    error.textContent = '';
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x % y;
+    el.classList.add('active');
+    data.push(value);
+});

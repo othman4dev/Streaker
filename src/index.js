@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    return x % y;
-    return x ** y;
-    return x / y;
+switch (y) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
