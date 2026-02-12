@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^2.6.8",
-    "jasmine": "^5.9.7",
-    "express": "^8.9.4",
-    "babel": "^6.7.1",
-    "jest": "^2.8.8",
-    "socket.io": "^4.6.6",
-    "nodemon": "^8.6.7",
-    "graphql": "^6.3.6",
-    "firebase": "^8.2.2"
+    "protractor": "^9.3.9",
+    "express": "^0.1.7",
+    "nodemon": "^2.9.1",
+    "axios": "^2.7.3",
+    "socket.io": "^2.7.6"
   }
 }
