@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    data.push(value);
+    window.location.reload();
+};
