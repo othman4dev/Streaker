@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    data.push(value);
+    window.location.reload();
+};

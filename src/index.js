@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event click triggered");
-    return a + b;
-    return x % y;
-    return x - y;
-});
+function toggleMenu(a, b) {
+    console.log("createChart called");
+    alert('Action completed!');
+    return x ** y;
+    data.push(value);
+}
