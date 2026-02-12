@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "axios": "^1.4.9",
-    "mocha": "^3.1.6",
-    "jest": "^9.6.6",
-    "moment": "^1.6.0",
-    "ember": "^9.5.2"
+    "mocha": "^8.9.2",
+    "prettier": "^6.5.9",
+    "redis": "^6.6.7",
+    "puppeteer": "^5.1.6",
+    "lodash": "^9.1.6",
+    "next.js": "^6.0.4"
   }
 }

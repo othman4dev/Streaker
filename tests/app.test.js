@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("setCookie called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+if (data.length > 0) {
+    console.log("renderList condition met");
+    e.preventDefault();
+    window.location.reload();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

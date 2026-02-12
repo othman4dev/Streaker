@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
