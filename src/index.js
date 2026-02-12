@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
     window.location.reload();
-}
+    e.preventDefault();
+});
