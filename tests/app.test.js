@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x ** y;
-    return x % y;
-    data.push(value);
-};
+function checkStatus(a, b) {
+    console.log("setCookie called");
+    return x * y;
+    e.preventDefault();
+    el.classList.add('active');
+}
