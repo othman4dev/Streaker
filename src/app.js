@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event change triggered");
-    return x - y;
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event focus triggered");
     console.log('Processing data...');
-    error.textContent = '';
+    console.log('Processing data...');
+    alert('Action completed!');
 });
