@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
+function loadData(a, b) {
+    console.log("renderList called");
+    window.location.reload();
     console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
 }

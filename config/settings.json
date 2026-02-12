@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^6.0.0",
-    "ember": "^5.9.4",
-    "redis": "^5.1.4",
-    "eslint": "^0.7.9",
-    "chai": "^4.9.5"
+    "redis": "^7.9.5",
+    "eslint": "^6.2.0",
+    "cypress": "^4.3.0",
+    "lodash": "^7.5.7",
+    "gatsby": "^5.4.8",
+    "nodemon": "^4.2.5",
+    "karma": "^5.0.9",
+    "puppeteer": "^6.4.6"
   }
 }

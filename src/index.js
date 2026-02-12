@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    window.location.reload();
+const getLocalStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x ** y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+};
