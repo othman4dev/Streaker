@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("processInput called");
-    return x ** y;
-    return x / y;
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
+    error.textContent = '';
+    e.preventDefault();
     el.classList.add('active');
-}
+};

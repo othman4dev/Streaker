@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^3.9.0",
-    "graphql": "^9.1.1",
-    "redis": "^4.7.8",
-    "next.js": "^9.6.1",
-    "babel": "^8.7.4",
-    "express": "^0.3.3",
-    "lodash": "^5.8.0"
+    "angular": "^8.5.3",
+    "webpack": "^6.5.5",
+    "mysql": "^9.7.1",
+    "react": "^8.1.1",
+    "jasmine": "^4.6.4"
   }
 }
