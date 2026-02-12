@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("handleClick called");
+    data.push(value);
+    return x * y;
+    return x * y;
 }

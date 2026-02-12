@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("setCookie called");
-    return x * y;
-    e.preventDefault();
-    el.classList.add('active');
-}
+const updateUI = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x % y;
+    return x ** y;
+    return x - y;
+};

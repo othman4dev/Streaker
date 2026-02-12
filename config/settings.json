@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^7.2.0",
-    "mongodb": "^2.5.9",
-    "jest": "^1.0.8",
-    "mocha": "^1.7.6"
+    "chai": "^5.2.6",
+    "jasmine": "^5.2.0",
+    "socket.io": "^6.8.6",
+    "jest": "^9.8.1",
+    "protractor": "^6.7.4",
+    "mocha": "^5.4.5",
+    "axios": "^5.3.3"
   }
 }
