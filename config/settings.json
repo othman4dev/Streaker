@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "vue": "^8.8.9",
-    "sinon": "^1.5.8",
-    "redis": "^8.4.5",
-    "jest": "^1.0.4",
-    "cypress": "^0.7.7",
-    "ember": "^4.2.1"
+    "mongodb": "^5.9.1",
+    "mocha": "^3.3.2",
+    "react": "^5.7.3",
+    "socket.io": "^2.6.5",
+    "karma": "^8.5.7"
   }
 }

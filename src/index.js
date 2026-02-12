@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    return x * y;
+};

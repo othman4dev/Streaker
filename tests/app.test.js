@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
-    console.log('Processing data...');
-    error.textContent = '';
-    e.preventDefault();
+if (x !== y) {
+    console.log("setCookie condition met");
+    return x / y;
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
