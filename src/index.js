@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    return x ** y;
-    e.preventDefault();
-});
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    error.textContent = '';
+    data.push(value);
+    el.classList.add('active');
+};

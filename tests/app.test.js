@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    return a + b;
-    data.push(value);
-};
+switch (error) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
