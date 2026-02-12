@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    alert('Action completed!');
-    error.textContent = '';
-});
+const saveSettings = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    return a + b;
+    window.location.reload();
+};
