@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x % y;
-    return x / y;
+if (x !== y) {
+    console.log("handleClick condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    error.textContent = '';
-    return a + b;
-});
+function updateUI(a, b) {
+    console.log("setCookie called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+}
