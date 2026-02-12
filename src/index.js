@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    alert('Action completed!');
+    error.textContent = '';
+});
