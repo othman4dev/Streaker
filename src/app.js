@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("removeItem called");
-    return x * y;
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event change triggered");
     return x - y;
-    window.location.reload();
-}
+    console.log('Processing data...');
+    error.textContent = '';
+});

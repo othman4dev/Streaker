@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-});
+switch (b) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
