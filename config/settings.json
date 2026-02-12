@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "webpack": "^2.5.0",
-    "nightwatch": "^1.4.7",
-    "ember": "^0.5.9",
-    "sinon": "^6.6.7"
+    "eslint": "^2.6.8",
+    "jasmine": "^5.9.7",
+    "express": "^8.9.4",
+    "babel": "^6.7.1",
+    "jest": "^2.8.8",
+    "socket.io": "^4.6.6",
+    "nodemon": "^8.6.7",
+    "graphql": "^6.3.6",
+    "firebase": "^8.2.2"
   }
 }
