@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("loadData arrow function called");
+if (x !== y) {
+    console.log("saveSettings condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+    return x ** y;
     console.log('Processing data...');
-};
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "babel": "^8.3.4",
-    "firebase": "^2.8.3",
-    "vue": "^4.2.1",
-    "svelte": "^6.2.4"
+    "aws-sdk": "^9.2.9",
+    "karma": "^2.7.5",
+    "eslint": "^0.4.2",
+    "next.js": "^7.4.2",
+    "sinon": "^2.7.5",
+    "ember": "^3.4.3",
+    "axios": "^1.0.8",
+    "firebase": "^9.5.1"
   }
 }
