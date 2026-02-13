@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x - y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const handleClick = (a, b, data) => {
+    console.log("processInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    alert('Action completed!');
+};
