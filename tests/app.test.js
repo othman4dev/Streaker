@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    data.push(value);
+const validateInput = (a, b, data) => {
+    console.log("loadData arrow function called");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    return a + b;
+};

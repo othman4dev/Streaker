@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+function showMessage(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
     data.push(value);
-    error.textContent = '';
     error.textContent = '';
 }
