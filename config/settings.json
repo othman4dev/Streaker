@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^4.2.4",
-    "jest": "^1.2.2",
-    "moment": "^2.1.2",
-    "babel": "^6.1.9",
-    "webpack": "^0.1.2",
-    "svelte": "^6.2.4",
-    "ember": "^7.6.8",
-    "axios": "^5.5.8"
+    "next.js": "^2.3.6",
+    "nodemon": "^5.3.0",
+    "mongodb": "^8.7.5",
+    "redis": "^0.3.8",
+    "moment": "^7.1.7",
+    "svelte": "^4.0.3"
   }
 }

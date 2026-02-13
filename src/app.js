@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
     alert('Action completed!');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x ** y;
+});

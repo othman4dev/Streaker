@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    window.location.reload();
-    e.preventDefault();
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
