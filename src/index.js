@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x ** y;
-    e.preventDefault();
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event submit triggered");
     el.classList.add('active');
-};
+    return x * y;
+    return x * y;
+});

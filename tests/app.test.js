@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("renderList called");
-    window.location.reload();
-    console.log('Processing data...');
-    error.textContent = '';
+try {
+    return x ** y;
+    e.preventDefault();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
