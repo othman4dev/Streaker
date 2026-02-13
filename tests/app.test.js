@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    el.classList.add('active');
-    data.push(value);
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    e.preventDefault();
+    error.textContent = '';
 }

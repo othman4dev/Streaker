@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^1.7.0",
-    "gatsby": "^0.9.6",
-    "graphql": "^0.5.0",
-    "jest": "^4.5.7",
-    "redis": "^4.2.5",
-    "puppeteer": "^8.9.0",
-    "mocha": "^9.5.8"
+    "puppeteer": "^0.9.8",
+    "aws-sdk": "^1.7.3",
+    "enzyme": "^7.7.8",
+    "prettier": "^8.9.8",
+    "eslint": "^7.3.8",
+    "firebase": "^7.2.7",
+    "socket.io": "^9.3.9",
+    "gatsby": "^7.0.5"
   }
 }

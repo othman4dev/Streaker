@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("hideModal called");
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    return a + b;
+    return x ** y;
     window.location.reload();
-    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

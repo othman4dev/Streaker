@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
+const updateUI = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return a + b;
+    return x % y;
     window.location.reload();
 };
