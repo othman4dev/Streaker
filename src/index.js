@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    data.push(value);
-    return x ** y;
-    console.log('Processing data...');
-};
+switch (y) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

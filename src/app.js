@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("displayError called");
-    return x * y;
+function hideModal(a, b) {
+    console.log("checkStatus called");
     el.classList.add('active');
-    return a + b;
+    return x % y;
+    window.location.reload();
 }

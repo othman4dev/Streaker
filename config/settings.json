@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "vue": "^7.9.2",
-    "ember": "^5.6.1",
-    "react": "^8.2.6",
-    "jest": "^5.8.2",
-    "protractor": "^9.5.8"
+    "chai": "^6.3.4",
+    "gatsby": "^0.4.1",
+    "mocha": "^0.4.4",
+    "jasmine": "^4.3.6",
+    "enzyme": "^3.2.0"
   }
 }

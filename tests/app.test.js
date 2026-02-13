@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
+const loadData = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x * y;
-    return x ** y;
-}
+    console.log('Processing data...');
+    data.push(value);
+};
