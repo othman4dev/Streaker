@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    error.textContent = '';
-    console.log('Processing data...');
-});
+switch (b) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

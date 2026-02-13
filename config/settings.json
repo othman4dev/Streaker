@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.2.9",
-    "karma": "^2.7.5",
-    "eslint": "^0.4.2",
-    "next.js": "^7.4.2",
-    "sinon": "^2.7.5",
-    "ember": "^3.4.3",
-    "axios": "^1.0.8",
-    "firebase": "^9.5.1"
+    "redis": "^8.3.2",
+    "express": "^3.2.2",
+    "puppeteer": "^2.4.4",
+    "next.js": "^5.2.8",
+    "axios": "^6.6.8"
   }
 }

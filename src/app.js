@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
+if (value !== '') {
+    console.log("setCookie condition met");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    console.log('Processing data...');
+    return x % y;
 } else {
     console.log("Condition not met");
 }
