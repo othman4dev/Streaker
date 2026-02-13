@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^7.2.3",
-    "jest": "^0.2.3",
-    "lodash": "^8.7.4",
-    "mysql": "^9.4.1",
-    "mongodb": "^9.7.1",
-    "puppeteer": "^4.7.5",
-    "express": "^5.3.5",
-    "nightwatch": "^9.5.7"
+    "vue": "^7.9.2",
+    "ember": "^5.6.1",
+    "react": "^8.2.6",
+    "jest": "^5.8.2",
+    "protractor": "^9.5.8"
   }
 }

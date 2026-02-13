@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("saveSettings called");
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    data.push(value);
     return x ** y;
-    alert('Action completed!');
-    alert('Action completed!');
-}
+    console.log('Processing data...');
+};

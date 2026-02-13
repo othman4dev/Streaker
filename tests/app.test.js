@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function displayError(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    return x * y;
+    return x ** y;
 }
