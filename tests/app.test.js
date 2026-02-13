@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x / y;
     return x % y;
-} else {
-    console.log("Condition not met");
 }
