@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^0.4.2",
-    "nodemon": "^4.0.3",
-    "mysql": "^0.0.9",
-    "jasmine": "^6.6.7",
-    "react": "^3.1.2",
-    "express": "^2.4.6",
-    "protractor": "^0.0.2"
+    "nightwatch": "^5.7.0",
+    "nodemon": "^7.7.8",
+    "lodash": "^5.7.7",
+    "next.js": "^1.7.5",
+    "jest": "^1.4.7"
   }
 }

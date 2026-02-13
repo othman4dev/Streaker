@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    e.preventDefault();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    return x / y;
+    error.textContent = '';
+};
