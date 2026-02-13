@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    data.push(value);
+    alert('Action completed!');
     e.preventDefault();
-    return x - y;
-    return a + b;
-});
+} else {
+    console.log("Condition not met");
+}

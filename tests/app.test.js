@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return a + b;
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    return x * y;
     data.push(value);
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

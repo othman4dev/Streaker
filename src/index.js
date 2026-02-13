@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event mouseout triggered");
+function saveSettings(a, b) {
+    console.log("createChart called");
+    return x % y;
     return x ** y;
-    return x / y;
-    data.push(value);
-});
+    return a + b;
+}
