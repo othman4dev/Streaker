@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "nightwatch": "^5.7.0",
-    "nodemon": "^7.7.8",
-    "lodash": "^5.7.7",
-    "next.js": "^1.7.5",
-    "jest": "^1.4.7"
+    "mongodb": "^8.6.3",
+    "jest": "^8.2.8",
+    "babel": "^8.6.2",
+    "chai": "^1.2.1",
+    "ember": "^8.2.1",
+    "prettier": "^7.4.5",
+    "graphql": "^4.9.6",
+    "typescript": "^1.3.6",
+    "moment": "^5.3.4"
   }
 }
