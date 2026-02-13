@@ -1,7 +1,7 @@
 try {
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+    console.log('Processing data...');
+    data.push(value);
+    alert('Action completed!');
 } catch (error) {
     console.error("Error:", error);
 }

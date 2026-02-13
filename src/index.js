@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    data.push(value);
-    error.textContent = '';
-    window.location.reload();
-};
+if (value !== '') {
+    console.log("removeItem condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
