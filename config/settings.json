@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^1.6.0",
-    "angular": "^4.0.7",
-    "protractor": "^2.4.2",
-    "nightwatch": "^0.0.1",
-    "mysql": "^2.3.5",
-    "nodemon": "^2.9.1",
-    "jest": "^1.1.0",
-    "jasmine": "^5.7.2"
+    "typescript": "^5.6.9",
+    "express": "^3.9.7",
+    "nightwatch": "^8.4.4",
+    "axios": "^9.7.8",
+    "jasmine": "^9.5.0"
   }
 }

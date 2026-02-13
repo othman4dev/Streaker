@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
+try {
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

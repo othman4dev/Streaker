@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
+const fetchData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    data.push(value);
     error.textContent = '';
-    return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+};
