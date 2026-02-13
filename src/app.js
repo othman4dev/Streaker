@@ -1,8 +1,8 @@
 if (value !== '') {
-    console.log("setCookie condition met");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+    console.log("getLocalStorage condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

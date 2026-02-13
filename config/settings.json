@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "redis": "^8.3.2",
-    "express": "^3.2.2",
-    "puppeteer": "^2.4.4",
-    "next.js": "^5.2.8",
-    "axios": "^6.6.8"
+    "firebase": "^2.0.3",
+    "karma": "^1.7.2",
+    "nightwatch": "^4.3.1",
+    "protractor": "^3.8.6",
+    "typescript": "^9.9.6",
+    "angular": "^8.0.8",
+    "vue": "^5.1.0"
   }
 }
