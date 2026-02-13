@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("validateInput arrow function called");
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x % y;
-};
+    window.location.reload();
+});
