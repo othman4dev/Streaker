@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
-    alert('Action completed!');
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
     e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    return a + b;
+});
