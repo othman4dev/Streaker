@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("createChart called");
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    console.log('Processing data...');
+    data.push(value);
     return x % y;
-    return x ** y;
-    return a + b;
-}
+};

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    return x * y;
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
     data.push(value);
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+});
