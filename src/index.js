@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("saveSettings called");
+    return x ** y;
+    alert('Action completed!');
+    alert('Action completed!');
 }

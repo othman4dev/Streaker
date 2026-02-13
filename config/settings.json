@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^8.1.4",
-    "cypress": "^3.2.8",
-    "vue": "^2.1.9",
-    "mysql": "^3.6.5",
-    "puppeteer": "^3.3.6"
+    "jasmine": "^7.2.3",
+    "jest": "^0.2.3",
+    "lodash": "^8.7.4",
+    "mysql": "^9.4.1",
+    "mongodb": "^9.7.1",
+    "puppeteer": "^4.7.5",
+    "express": "^5.3.5",
+    "nightwatch": "^9.5.7"
   }
 }
