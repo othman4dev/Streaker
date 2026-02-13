@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
-}
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return x - y;
+    return x / y;
+    return x * y;
+});
