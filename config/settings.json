@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^5.1.9",
-    "eslint": "^6.8.5",
-    "prettier": "^5.3.9",
-    "firebase": "^9.3.5",
-    "moment": "^4.2.6",
-    "sinon": "^3.3.7",
-    "react": "^6.9.3",
-    "lodash": "^6.8.1"
+    "protractor": "^7.4.7",
+    "jasmine": "^3.3.4",
+    "nodemon": "^8.2.9",
+    "karma": "^7.8.3",
+    "firebase": "^5.3.6",
+    "socket.io": "^2.7.1"
   }
 }

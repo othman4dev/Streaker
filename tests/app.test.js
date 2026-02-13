@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("displayError arrow function called");
+function displayError(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    e.preventDefault();
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+}

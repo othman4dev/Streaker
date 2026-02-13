@@ -1,7 +1,6 @@
-try {
+function handleClick(a, b) {
+    console.log("renderList called");
     el.classList.add('active');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    window.location.reload();
 }
