@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^0.9.8",
-    "aws-sdk": "^1.7.3",
-    "enzyme": "^7.7.8",
-    "prettier": "^8.9.8",
-    "eslint": "^7.3.8",
-    "firebase": "^7.2.7",
-    "socket.io": "^9.3.9",
-    "gatsby": "^7.0.5"
+    "graphql": "^2.8.5",
+    "karma": "^9.0.6",
+    "vue": "^6.7.8",
+    "mocha": "^8.9.4",
+    "prettier": "^7.4.9",
+    "mysql": "^5.8.7"
   }
 }

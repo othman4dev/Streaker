@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+const toggleMenu = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    error.textContent = '';
-}
+    return x % y;
+};

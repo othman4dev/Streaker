@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    return a + b;
-    return x ** y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function processInput(a, b) {
+    console.log("setCookie called");
+    return x % y;
+    return x / y;
+    el.classList.add('active');
 }
