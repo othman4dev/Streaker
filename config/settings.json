@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^0.4.2",
-    "vue": "^9.1.3",
-    "protractor": "^9.9.0",
-    "eslint": "^8.3.1",
-    "jest": "^4.6.2",
-    "chai": "^7.1.6"
+    "jest": "^5.1.9",
+    "eslint": "^6.8.5",
+    "prettier": "^5.3.9",
+    "firebase": "^9.3.5",
+    "moment": "^4.2.6",
+    "sinon": "^3.3.7",
+    "react": "^6.9.3",
+    "lodash": "^6.8.1"
   }
 }
