@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    return x - y;
-    el.classList.add('active');
-    return x * y;
-});
+try {
+    console.log('Processing data...');
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

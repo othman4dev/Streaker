@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    return x / y;
-    console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x * y;
+    return x - y;
 }

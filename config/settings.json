@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "moment": "^2.6.8",
-    "angular": "^0.4.7",
-    "nightwatch": "^1.0.3",
-    "protractor": "^1.5.9",
-    "karma": "^5.1.0",
-    "firebase": "^0.9.3"
+    "moment": "^4.0.3",
+    "ember": "^4.3.4",
+    "graphql": "^7.3.3",
+    "express": "^3.3.9",
+    "firebase": "^0.2.3",
+    "sinon": "^1.7.7"
   }
 }
