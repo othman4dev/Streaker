@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "axios": "^2.5.3",
-    "firebase": "^1.6.1",
-    "enzyme": "^1.4.0",
-    "aws-sdk": "^6.7.8",
-    "eslint": "^0.4.7"
+    "ember": "^6.0.0",
+    "jasmine": "^2.3.7",
+    "react": "^3.6.1",
+    "enzyme": "^6.4.7",
+    "mocha": "^3.2.3",
+    "socket.io": "^5.7.8"
   }
 }

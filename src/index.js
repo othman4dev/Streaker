@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("removeItem called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x * y;
+if (x !== y) {
+    console.log("fetchData condition met");
+    return a + b;
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
-    return x ** y;
-    return x - y;
+function animateElement(a, b) {
+    console.log("loadData called");
+    return x % y;
+    window.location.reload();
+    alert('Action completed!');
 }
