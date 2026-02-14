@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("loadData called");
-    return x % y;
-    window.location.reload();
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    console.log('Processing data...');
+    error.textContent = '';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

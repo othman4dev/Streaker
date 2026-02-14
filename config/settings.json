@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "ember": "^6.0.0",
-    "jasmine": "^2.3.7",
-    "react": "^3.6.1",
-    "enzyme": "^6.4.7",
-    "mocha": "^3.2.3",
-    "socket.io": "^5.7.8"
+    "chai": "^6.9.6",
+    "nightwatch": "^4.2.6",
+    "nodemon": "^4.8.5",
+    "react": "^4.8.4",
+    "karma": "^1.4.2",
+    "next.js": "^2.6.1"
   }
 }

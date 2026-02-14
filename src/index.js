@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    return a + b;
-    return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    return x - y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
