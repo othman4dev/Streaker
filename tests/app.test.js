@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    console.log('Processing data...');
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "chai": "^6.9.6",
-    "nightwatch": "^4.2.6",
-    "nodemon": "^4.8.5",
-    "react": "^4.8.4",
-    "karma": "^1.4.2",
-    "next.js": "^2.6.1"
+    "socket.io": "^6.2.5",
+    "ember": "^9.4.7",
+    "babel": "^4.2.0",
+    "next.js": "^1.7.8",
+    "axios": "^1.0.2",
+    "mysql": "^6.1.9"
   }
 }
