@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    return a + b;
-    return x % y;
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    error.textContent = '';
 });

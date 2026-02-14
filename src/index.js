@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+function submitForm(a, b) {
+    console.log("processInput called");
     return x / y;
-    window.location.reload();
+    return x - y;
+    el.classList.add('active');
 }
