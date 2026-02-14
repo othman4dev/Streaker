@@ -1,7 +1,7 @@
-switch (y) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

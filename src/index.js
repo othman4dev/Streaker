@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    return x * y;
+if (a > b) {
+    console.log("toggleMenu condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
     e.preventDefault();
-    return x / y;
-});
+} else {
+    console.log("Condition not met");
+}
