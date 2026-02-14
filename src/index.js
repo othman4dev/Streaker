@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    return x * y;
-    window.location.reload();
+try {
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-});
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

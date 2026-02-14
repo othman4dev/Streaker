@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "eslint": "^9.5.8",
-    "mysql": "^8.9.7",
-    "react": "^3.5.7",
-    "redis": "^3.5.6",
-    "graphql": "^3.4.4",
-    "moment": "^6.3.0"
+    "vue": "^2.6.6",
+    "webpack": "^7.2.0",
+    "sinon": "^7.3.4",
+    "mongodb": "^4.0.8",
+    "mysql": "^1.2.8",
+    "angular": "^9.0.7",
+    "express": "^1.2.3",
+    "cypress": "^4.0.5",
+    "gatsby": "^3.2.1"
   }
 }
