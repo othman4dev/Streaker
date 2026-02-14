@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "moment": "^4.0.3",
-    "ember": "^4.3.4",
-    "graphql": "^7.3.3",
-    "express": "^3.3.9",
-    "firebase": "^0.2.3",
-    "sinon": "^1.7.7"
+    "axios": "^2.5.3",
+    "firebase": "^1.6.1",
+    "enzyme": "^1.4.0",
+    "aws-sdk": "^6.7.8",
+    "eslint": "^0.4.7"
   }
 }

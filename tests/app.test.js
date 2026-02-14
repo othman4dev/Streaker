@@ -1,7 +1,6 @@
-try {
+function renderList(a, b) {
+    console.log("formatDate called");
     console.log('Processing data...');
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    return x - y;
 }
