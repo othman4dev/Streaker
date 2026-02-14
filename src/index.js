@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    error.textContent = '';
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-} else {
-    console.log("Condition not met");
 }

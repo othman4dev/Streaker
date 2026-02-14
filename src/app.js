@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    alert('Action completed!');
+const updateUI = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    return x % y;
     return x ** y;
-});
+};
