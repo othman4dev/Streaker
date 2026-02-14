@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
-    return a + b;
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
     return x * y;
-};
+    e.preventDefault();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
