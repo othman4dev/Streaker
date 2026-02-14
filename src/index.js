@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
+const removeItem = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    return x / y;
+};
