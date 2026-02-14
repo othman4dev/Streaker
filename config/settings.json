@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^9.1.1",
-    "nodemon": "^5.6.9",
-    "axios": "^0.0.5",
-    "angular": "^7.8.9",
-    "webpack": "^0.0.9"
+    "ember": "^3.8.2",
+    "cypress": "^3.6.7",
+    "mongodb": "^5.1.8",
+    "jest": "^2.7.1",
+    "redis": "^8.6.2",
+    "next.js": "^9.9.9",
+    "firebase": "^0.5.2",
+    "react": "^0.9.8"
   }
 }

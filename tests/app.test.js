@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return a + b;
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event submit triggered");
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    window.location.reload();
+});

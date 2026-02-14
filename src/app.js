@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    window.location.reload();
+    return x - y;
 }

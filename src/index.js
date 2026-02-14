@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x % y;
-    return x - y;
-    return a + b;
-};
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
+    error.textContent = '';
+    e.preventDefault();
+});
