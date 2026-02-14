@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^2.2.1",
-    "puppeteer": "^7.4.7",
-    "redis": "^5.9.5",
-    "cypress": "^2.7.7",
-    "chai": "^9.0.2",
-    "react": "^8.7.0",
-    "karma": "^8.4.6"
+    "moment": "^2.6.8",
+    "angular": "^0.4.7",
+    "nightwatch": "^1.0.3",
+    "protractor": "^1.5.9",
+    "karma": "^5.1.0",
+    "firebase": "^0.9.3"
   }
 }

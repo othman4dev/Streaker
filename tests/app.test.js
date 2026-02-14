@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    error.textContent = '';
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    el.classList.add('active');
+    return x * y;
 });

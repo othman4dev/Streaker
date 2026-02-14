@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("processInput called");
-    return x / y;
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
     return x - y;
     el.classList.add('active');
-}
+});
