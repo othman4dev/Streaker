@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+};

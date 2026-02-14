@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
     return a + b;
-};
+    return a + b;
+    return x % y;
+});
