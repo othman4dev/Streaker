@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x - y;
+if (data.length > 0) {
+    console.log("displayError condition met");
     return a + b;
-    error.textContent = '';
-};
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
