@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^1.4.5",
-    "webpack": "^0.5.2",
-    "react": "^3.9.7",
-    "svelte": "^6.6.4",
-    "mocha": "^4.4.2"
+    "next.js": "^6.2.4",
+    "lodash": "^7.0.8",
+    "axios": "^2.3.3",
+    "express": "^9.4.7",
+    "chai": "^6.4.9",
+    "mysql": "^2.5.2",
+    "angular": "^5.4.6",
+    "ember": "^4.5.1"
   }
 }
