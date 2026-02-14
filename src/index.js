@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("fetchData called");
-    window.location.reload();
-    el.classList.add('active');
-    e.preventDefault();
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});
