@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    return x * y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     console.log('Processing data...');
-    return x - y;
-});
+    e.preventDefault();
+}
