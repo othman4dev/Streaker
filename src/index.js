@@ -1,7 +1,7 @@
 try {
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
+    return a + b;
+    return a + b;
 } catch (error) {
     console.error("Error:", error);
 }

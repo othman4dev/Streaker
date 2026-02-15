@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^9.1.9",
-    "ember": "^7.6.4",
-    "nightwatch": "^2.8.1",
-    "react": "^6.6.5",
-    "babel": "^2.9.1",
-    "nodemon": "^7.7.0",
-    "enzyme": "^9.3.2",
-    "mysql": "^2.3.4"
+    "redis": "^9.2.4",
+    "aws-sdk": "^6.8.8",
+    "moment": "^3.4.9",
+    "svelte": "^5.3.5",
+    "gatsby": "^1.7.3",
+    "socket.io": "^6.3.6"
   }
 }

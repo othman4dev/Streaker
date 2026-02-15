@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    return x / y;
-    return x * y;
+switch (x) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
