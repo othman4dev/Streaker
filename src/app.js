@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
+if (a > b) {
+    console.log("processInput condition met");
+    alert('Action completed!');
+    return x * y;
     return x % y;
-};
+} else {
+    console.log("Condition not met");
+}
