@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
     return x / y;
-};
+    return a + b;
+});

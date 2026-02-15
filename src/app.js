@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
     return x % y;
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+};

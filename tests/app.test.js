@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
+try {
+    return x * y;
     error.textContent = '';
-    el.classList.add('active');
-    alert('Action completed!');
-});
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
