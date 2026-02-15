@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("toggleMenu called");
-    alert('Action completed!');
-    window.location.reload();
-    return x - y;
+switch (y) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

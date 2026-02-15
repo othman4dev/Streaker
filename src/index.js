@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    el.classList.add('active');
+function loadData(a, b) {
+    console.log("setCookie called");
     return x % y;
-});
+    return x - y;
+    return x - y;
+}
