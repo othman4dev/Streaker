@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    return x * y;
+function loadData(a, b) {
+    console.log("renderList called");
+    error.textContent = '';
     return x % y;
-    window.location.reload();
-});
+    alert('Action completed!');
+}

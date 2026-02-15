@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    window.location.reload();
-    return x - y;
+function renderList(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }

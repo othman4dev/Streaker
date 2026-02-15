@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "ember": "^3.8.2",
-    "cypress": "^3.6.7",
-    "mongodb": "^5.1.8",
-    "jest": "^2.7.1",
-    "redis": "^8.6.2",
-    "next.js": "^9.9.9",
-    "firebase": "^0.5.2",
-    "react": "^0.9.8"
+    "puppeteer": "^4.7.9",
+    "sinon": "^4.3.8",
+    "firebase": "^6.8.7",
+    "mongodb": "^5.8.9",
+    "angular": "^1.1.6",
+    "jest": "^4.9.4",
+    "moment": "^8.0.9"
   }
 }
