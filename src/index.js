@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    return x / y;
+};

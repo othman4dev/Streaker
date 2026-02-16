@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    error.textContent = '';
-};
+if (data.length > 0) {
+    console.log("displayError condition met");
+    console.log('Processing data...');
+    data.push(value);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
