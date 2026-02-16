@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("renderList called");
-    return x / y;
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    console.log('Processing data...');
+    data.push(value);
     return x - y;
-    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
