@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return a + b;
+    e.preventDefault();
 }

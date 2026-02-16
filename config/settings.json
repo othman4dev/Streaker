@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^9.4.3",
-    "aws-sdk": "^3.1.2",
-    "puppeteer": "^5.0.9",
-    "vue": "^1.6.0",
-    "mocha": "^8.0.1",
-    "babel": "^6.7.1",
-    "socket.io": "^1.8.1"
+    "sinon": "^1.9.8",
+    "graphql": "^1.6.4",
+    "firebase": "^4.7.9",
+    "nodemon": "^6.3.2",
+    "react": "^3.9.8",
+    "jest": "^0.8.4"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    window.location.reload();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("displayError arrow function called");
+    alert('Action completed!');
+    return x ** y;
+    return x * y;
+};
