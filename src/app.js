@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    return a + b;
+};
