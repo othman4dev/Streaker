@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jest": "^9.0.2",
-    "mongodb": "^8.6.6",
-    "angular": "^7.3.2",
-    "typescript": "^4.4.9",
-    "gatsby": "^9.2.7",
-    "protractor": "^9.1.8",
-    "firebase": "^9.0.2",
-    "eslint": "^2.1.6"
+    "jest": "^7.7.6",
+    "firebase": "^5.0.8",
+    "ember": "^5.5.6",
+    "prettier": "^0.0.2",
+    "svelte": "^0.0.0",
+    "aws-sdk": "^1.8.7",
+    "nightwatch": "^3.3.8",
+    "axios": "^2.2.0"
   }
 }

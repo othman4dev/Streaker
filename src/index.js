@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("animateElement called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x % y;
+switch (x) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
