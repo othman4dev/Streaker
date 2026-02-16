@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("showMessage called");
+const getLocalStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return a + b;
-    return a + b;
-}
+    el.classList.add('active');
+};
