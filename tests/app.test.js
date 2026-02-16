@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+function submitForm(a, b) {
+    console.log("validateInput called");
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    return x % y;
-    return x - y;
+    return x ** y;
 }
