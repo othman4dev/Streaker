@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("setCookie called");
-    return x % y;
-    return x - y;
-    return x - y;
+try {
+    console.log('Processing data...');
+    window.location.reload();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^3.7.6",
-    "firebase": "^2.9.4",
-    "svelte": "^0.5.7",
-    "ember": "^4.3.2",
-    "lodash": "^3.0.9",
-    "vue": "^8.3.8",
-    "mongodb": "^7.4.3"
+    "karma": "^9.4.3",
+    "aws-sdk": "^3.1.2",
+    "puppeteer": "^5.0.9",
+    "vue": "^1.6.0",
+    "mocha": "^8.0.1",
+    "babel": "^6.7.1",
+    "socket.io": "^1.8.1"
   }
 }

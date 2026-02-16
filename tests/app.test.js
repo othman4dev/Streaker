@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("showMessage called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }
