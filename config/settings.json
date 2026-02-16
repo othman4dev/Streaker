@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "vue": "^1.1.6",
-    "babel": "^1.9.8",
-    "aws-sdk": "^0.9.6",
-    "angular": "^9.1.3",
-    "express": "^6.6.5"
+    "lodash": "^1.6.3",
+    "react": "^9.9.9",
+    "jasmine": "^8.7.0",
+    "babel": "^5.9.5",
+    "redis": "^6.4.0"
   }
 }
