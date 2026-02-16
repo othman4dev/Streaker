@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^1.6.3",
-    "react": "^9.9.9",
-    "jasmine": "^8.7.0",
-    "babel": "^5.9.5",
-    "redis": "^6.4.0"
+    "ember": "^8.5.7",
+    "puppeteer": "^9.3.4",
+    "firebase": "^0.4.7",
+    "eslint": "^3.2.7",
+    "axios": "^8.4.0"
   }
 }

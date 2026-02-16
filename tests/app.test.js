@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
-    data.push(value);
-};
+try {
+    return a + b;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
