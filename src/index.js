@@ -1,7 +1,6 @@
-try {
+const fetchData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
     window.location.reload();
-    return a + b;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+};
