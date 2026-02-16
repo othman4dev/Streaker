@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("hideModal called");
+    data.push(value);
+    return x * y;
+    error.textContent = '';
 }

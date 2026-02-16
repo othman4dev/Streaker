@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^2.0.4",
-    "gatsby": "^5.3.4",
-    "babel": "^1.1.0",
-    "chai": "^3.0.7",
-    "eslint": "^3.2.5",
-    "express": "^1.7.3"
+    "express": "^3.9.6",
+    "gatsby": "^9.3.6",
+    "babel": "^0.5.4",
+    "jasmine": "^4.0.0",
+    "mongodb": "^8.1.6",
+    "angular": "^7.4.9"
   }
 }
