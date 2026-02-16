@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+function submitForm(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     error.textContent = '';
-    e.preventDefault();
-    return a + b;
-};
+}
