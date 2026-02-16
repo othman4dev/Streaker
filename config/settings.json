@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^8.5.7",
-    "puppeteer": "^9.3.4",
-    "firebase": "^0.4.7",
-    "eslint": "^3.2.7",
-    "axios": "^8.4.0"
+    "mongodb": "^5.3.6",
+    "protractor": "^8.8.8",
+    "jasmine": "^4.8.3",
+    "angular": "^6.1.7",
+    "socket.io": "^7.1.1"
   }
 }

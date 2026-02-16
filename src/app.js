@@ -1,7 +1,8 @@
-try {
-    return x * y;
+if (data.length > 0) {
+    console.log("validateInput condition met");
     error.textContent = '';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
