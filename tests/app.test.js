@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("createChart called");
-    return x * y;
-    return x / y;
-    return x - y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    error.textContent = '';
+    el.classList.add('active');
 }

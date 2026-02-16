@@ -1,7 +1,7 @@
-try {
-    data.push(value);
-    window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+switch (error) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
