@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
+const showMessage = (a, b, data) => {
+    console.log("displayError arrow function called");
     document.body.style.backgroundColor = 'lightblue';
     data.push(value);
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+};

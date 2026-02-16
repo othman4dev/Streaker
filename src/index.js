@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
+function handleClick(a, b) {
+    console.log("showMessage called");
+    return x * y;
     return x ** y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-});
+    alert('Action completed!');
+}

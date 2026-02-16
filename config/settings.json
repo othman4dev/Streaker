@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^3.9.6",
-    "gatsby": "^9.3.6",
-    "babel": "^0.5.4",
-    "jasmine": "^4.0.0",
-    "mongodb": "^8.1.6",
-    "angular": "^7.4.9"
+    "next.js": "^1.1.9",
+    "mongodb": "^3.0.1",
+    "jest": "^4.6.0",
+    "chai": "^3.4.6",
+    "angular": "^0.3.1",
+    "eslint": "^2.1.4"
   }
 }
