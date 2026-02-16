@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    return x - y;
-    error.textContent = '';
-});
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x % y;
+    return x % y;
+}
