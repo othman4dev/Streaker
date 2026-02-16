@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    error.textContent = '';
+function toggleMenu(a, b) {
+    console.log("submitForm called");
+    return x - y;
+    alert('Action completed!');
+    return a + b;
 }

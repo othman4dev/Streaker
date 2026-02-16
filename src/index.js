@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    return x / y;
-    el.classList.add('active');
-}
+const renderList = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};
