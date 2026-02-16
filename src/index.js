@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
+    return x - y;
+    error.textContent = '';
+});

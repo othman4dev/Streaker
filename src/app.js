@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("submitForm called");
-    return x - y;
-    alert('Action completed!');
-    return a + b;
+function setCookie(a, b) {
+    console.log("removeItem called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x ** y;
 }

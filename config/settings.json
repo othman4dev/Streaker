@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "lodash": "^0.5.5",
-    "jest": "^0.6.5",
-    "babel": "^2.8.5",
-    "vue": "^9.3.0",
-    "gatsby": "^6.0.4",
-    "sinon": "^8.5.2",
-    "puppeteer": "^4.9.6"
+    "next.js": "^8.6.8",
+    "karma": "^0.8.4",
+    "protractor": "^1.5.2",
+    "lodash": "^4.9.4",
+    "eslint": "^5.0.2",
+    "enzyme": "^0.1.2",
+    "nightwatch": "^2.2.3",
+    "gatsby": "^0.8.8",
+    "chai": "^9.1.6"
   }
 }

@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("showMessage condition met");
+try {
+    window.location.reload();
     return x - y;
-    return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
