@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
-    return x * y;
-    return x ** y;
-    alert('Action completed!');
+switch (value) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

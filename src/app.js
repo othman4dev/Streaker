@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    error.textContent = '';
-    e.preventDefault();
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
+    data.push(value);
+    return x % y;
+    el.classList.add('active');
 });
