@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
     error.textContent = '';
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+};
