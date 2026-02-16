@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    e.preventDefault();
+};

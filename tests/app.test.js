@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    error.textContent = '';
-    el.classList.add('active');
-}
+const validateInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
+    return x ** y;
+    return x * y;
+};
