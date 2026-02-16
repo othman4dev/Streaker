@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event submit triggered");
+function renderList(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+    return x ** y;
+}

@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x * y;
-};
+switch (a) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

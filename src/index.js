@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    error.textContent = '';
+function handleClick(a, b) {
+    console.log("animateElement called");
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
 }
