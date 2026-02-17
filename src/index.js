@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    return x / y;
+function checkStatus(a, b) {
+    console.log("toggleMenu called");
+    e.preventDefault();
+    error.textContent = '';
     return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
 }

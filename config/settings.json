@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "ember": "^3.8.5",
-    "axios": "^1.2.0",
-    "cypress": "^9.9.8",
-    "prettier": "^2.3.1",
-    "lodash": "^4.2.5",
-    "mysql": "^9.2.8",
-    "firebase": "^2.9.5",
-    "mongodb": "^0.5.1",
-    "react": "^3.1.8"
+    "nightwatch": "^9.3.1",
+    "protractor": "^6.8.8",
+    "axios": "^3.2.1",
+    "typescript": "^0.1.3",
+    "webpack": "^6.0.4",
+    "mocha": "^2.5.4",
+    "jest": "^4.8.6"
   }
 }
