@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "axios": "^5.2.4",
-    "sinon": "^9.5.0",
-    "protractor": "^9.7.9",
-    "aws-sdk": "^2.9.1",
-    "webpack": "^1.4.4",
-    "lodash": "^9.8.1",
-    "nightwatch": "^5.1.0",
-    "jasmine": "^3.6.4",
-    "firebase": "^1.4.0"
+    "jasmine": "^0.4.2",
+    "redis": "^2.3.9",
+    "ember": "^4.1.2",
+    "aws-sdk": "^9.8.6",
+    "jest": "^3.8.9"
   }
 }

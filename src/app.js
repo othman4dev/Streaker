@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    window.location.reload();
-    alert('Action completed!');
+function animateElement(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
+    return x % y;
+    return a + b;
 }
