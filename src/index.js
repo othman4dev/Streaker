@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return x / y;
     return a + b;
-    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

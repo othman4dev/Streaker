@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event click triggered");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    error.textContent = '';
+});
