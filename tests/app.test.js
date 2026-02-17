@@ -1,7 +1,6 @@
-try {
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    data.push(value);
 }

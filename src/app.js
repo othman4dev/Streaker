@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    e.preventDefault();
-    return x % y;
-    return a + b;
+switch (y) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
