@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x ** y;
+const setCookie = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
