@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

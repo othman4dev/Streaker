@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "protractor": "^5.1.8",
-    "babel": "^5.4.1",
-    "enzyme": "^9.5.2",
-    "karma": "^1.8.0",
-    "eslint": "^6.4.8",
-    "gatsby": "^8.2.8",
-    "moment": "^3.7.4",
-    "jasmine": "^7.1.9"
+    "lodash": "^6.3.0",
+    "webpack": "^8.5.4",
+    "mongodb": "^6.5.8",
+    "jasmine": "^5.9.9"
   }
 }
