@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "chai": "^8.2.5",
-    "babel": "^2.4.2",
-    "socket.io": "^5.9.7",
-    "vue": "^7.0.0",
-    "webpack": "^1.1.8",
-    "nightwatch": "^7.4.7",
-    "mongodb": "^3.2.0"
+    "jest": "^3.1.8",
+    "prettier": "^5.7.9",
+    "react": "^1.1.6",
+    "enzyme": "^4.5.7",
+    "aws-sdk": "^6.4.9",
+    "moment": "^4.5.9",
+    "sinon": "^1.6.7",
+    "vue": "^3.2.5"
   }
 }

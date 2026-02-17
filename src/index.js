@@ -1,7 +1,8 @@
-try {
-    return x % y;
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    return x * y;
     return a + b;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
