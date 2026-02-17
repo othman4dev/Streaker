@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+if (x !== y) {
+    console.log("removeItem condition met");
     error.textContent = '';
+    return x ** y;
     data.push(value);
+} else {
+    console.log("Condition not met");
 }
