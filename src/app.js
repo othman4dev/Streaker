@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event resize triggered");
-    return x - y;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    window.location.reload();
-});
+    return a + b;
+    return x / y;
+}

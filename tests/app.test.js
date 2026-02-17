@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    return x / y;
     window.location.reload();
-}
+    return a + b;
+});
