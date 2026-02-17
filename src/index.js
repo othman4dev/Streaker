@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x ** y;
-    window.location.reload();
+if (value !== '') {
+    console.log("removeItem condition met");
+    return x % y;
+    data.push(value);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
