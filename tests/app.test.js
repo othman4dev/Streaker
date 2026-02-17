@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    el.classList.add('active');
-});
+switch (y) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

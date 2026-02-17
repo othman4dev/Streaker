@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    data.push(value);
-    return x % y;
-}
+const createChart = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    return a + b;
+    return x / y;
+};
