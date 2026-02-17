@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("handleClick called");
-    return x / y;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    el.classList.add('active');
+    return x ** y;
+    window.location.reload();
 }

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
+function saveSettings(a, b) {
+    console.log("submitForm called");
     return x * y;
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+    return x ** y;
 }

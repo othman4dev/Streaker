@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^4.6.2",
-    "express": "^0.1.5",
-    "aws-sdk": "^3.2.1",
-    "eslint": "^4.2.0",
-    "firebase": "^7.7.2",
-    "svelte": "^8.5.0",
-    "nodemon": "^2.1.9",
-    "vue": "^5.9.8",
-    "angular": "^6.9.7"
+    "vue": "^1.4.6",
+    "mocha": "^8.8.9",
+    "enzyme": "^8.8.7",
+    "mysql": "^2.6.0"
   }
 }
