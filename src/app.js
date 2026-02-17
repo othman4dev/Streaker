@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    return x % y;
+};

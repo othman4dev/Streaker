@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("showMessage called");
-    alert('Action completed!');
-    window.location.reload();
-    return a + b;
-}
+const renderList = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x % y;
+    data.push(value);
+    return x % y;
+};
