@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("displayError called");
-    alert('Action completed!');
-    return x - y;
-    error.textContent = '';
+try {
+    el.classList.add('active');
+    return x ** y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

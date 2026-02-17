@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x * y;
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    return x - y;
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+});
