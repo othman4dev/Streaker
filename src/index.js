@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    e.preventDefault();
-    error.textContent = '';
-});
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    return x % y;
+    return x * y;
+};

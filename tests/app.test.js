@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    return x * y;
+function checkStatus(a, b) {
+    console.log("renderList called");
+    return x ** y;
+    return x ** y;
     return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
 }
