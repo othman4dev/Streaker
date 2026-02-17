@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^7.9.4",
-    "jasmine": "^7.6.0",
-    "sinon": "^9.3.2",
-    "moment": "^0.3.6",
-    "jest": "^8.7.5",
-    "next.js": "^7.9.1"
+    "react": "^6.1.6",
+    "protractor": "^5.3.7",
+    "mongodb": "^8.6.5",
+    "karma": "^3.9.4",
+    "mysql": "^0.2.9"
   }
 }

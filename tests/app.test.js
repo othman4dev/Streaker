@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x - y;
-    el.classList.add('active');
-    data.push(value);
-};
+switch (b) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
