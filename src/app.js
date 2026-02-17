@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    return a + b;
-    return x / y;
-};
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    return x ** y;
+    console.log('Processing data...');
+    window.location.reload();
+});

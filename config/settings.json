@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^5.7.3",
-    "nodemon": "^1.1.2",
-    "webpack": "^7.0.2",
-    "axios": "^2.2.4"
+    "gatsby": "^4.3.5",
+    "angular": "^1.8.5",
+    "sinon": "^2.8.8",
+    "eslint": "^3.8.9",
+    "aws-sdk": "^0.7.4",
+    "jest": "^3.3.1",
+    "ember": "^1.0.5",
+    "axios": "^3.0.4"
   }
 }
