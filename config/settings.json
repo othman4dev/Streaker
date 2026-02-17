@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^6.1.6",
-    "protractor": "^5.3.7",
-    "mongodb": "^8.6.5",
-    "karma": "^3.9.4",
-    "mysql": "^0.2.9"
+    "moment": "^6.4.7",
+    "protractor": "^0.9.2",
+    "graphql": "^9.4.9",
+    "jest": "^2.9.3",
+    "nightwatch": "^8.7.5"
   }
 }
