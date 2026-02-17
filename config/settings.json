@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "express": "^7.7.6",
-    "chai": "^2.5.9",
-    "mysql": "^6.1.4",
-    "eslint": "^3.1.4",
-    "typescript": "^7.8.1",
-    "ember": "^9.7.5"
+    "enzyme": "^4.6.2",
+    "express": "^0.1.5",
+    "aws-sdk": "^3.2.1",
+    "eslint": "^4.2.0",
+    "firebase": "^7.7.2",
+    "svelte": "^8.5.0",
+    "nodemon": "^2.1.9",
+    "vue": "^5.9.8",
+    "angular": "^6.9.7"
   }
 }

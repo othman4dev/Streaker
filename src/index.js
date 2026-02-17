@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x % y;
+function setSessionStorage(a, b) {
+    console.log("handleClick called");
+    return x / y;
+    e.preventDefault();
     el.classList.add('active');
 }

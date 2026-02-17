@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event change triggered");
-    return x % y;
-    return a + b;
-    return x - y;
-});
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    return x * y;
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
