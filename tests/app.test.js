@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("renderList called");
-    return x ** y;
-    return x ** y;
-    return a + b;
+switch (el) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

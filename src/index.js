@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    return x % y;
-    return x * y;
-};
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+});
