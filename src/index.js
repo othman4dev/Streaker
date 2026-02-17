@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    alert('Action completed!');
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+    window.location.reload();
+    data.push(value);
 };
