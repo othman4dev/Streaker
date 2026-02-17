@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^4.3.5",
-    "angular": "^1.8.5",
-    "sinon": "^2.8.8",
-    "eslint": "^3.8.9",
-    "aws-sdk": "^0.7.4",
-    "jest": "^3.3.1",
-    "ember": "^1.0.5",
-    "axios": "^3.0.4"
+    "cypress": "^7.9.4",
+    "jasmine": "^7.6.0",
+    "sinon": "^9.3.2",
+    "moment": "^0.3.6",
+    "jest": "^8.7.5",
+    "next.js": "^7.9.1"
   }
 }

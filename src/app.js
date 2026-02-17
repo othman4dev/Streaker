@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event submit triggered");
+function hideModal(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
     return x ** y;
-    console.log('Processing data...');
-    window.location.reload();
-});
+    return x ** y;
+}
