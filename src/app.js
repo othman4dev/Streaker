@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+const setSessionStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    return x % y;
 };

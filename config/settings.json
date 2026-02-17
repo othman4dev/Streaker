@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.2.9",
-    "eslint": "^6.5.7",
-    "prettier": "^4.6.7",
-    "jasmine": "^0.7.5",
-    "svelte": "^4.2.1",
-    "jest": "^5.7.9",
-    "sinon": "^7.0.7"
+    "typescript": "^9.2.5",
+    "eslint": "^1.8.3",
+    "jest": "^2.0.6",
+    "next.js": "^9.6.6",
+    "chai": "^1.5.2",
+    "prettier": "^2.3.7",
+    "karma": "^2.0.6"
   }
 }

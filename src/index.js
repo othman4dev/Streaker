@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("saveSettings called");
-    return a + b;
-    return x / y;
-    return a + b;
+if (x !== y) {
+    console.log("handleClick condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
