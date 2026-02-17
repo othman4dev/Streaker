@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^9.2.5",
-    "eslint": "^1.8.3",
-    "jest": "^2.0.6",
-    "next.js": "^9.6.6",
-    "chai": "^1.5.2",
-    "prettier": "^2.3.7",
-    "karma": "^2.0.6"
+    "nightwatch": "^8.1.7",
+    "sinon": "^3.0.2",
+    "socket.io": "^5.4.5",
+    "eslint": "^5.3.1",
+    "graphql": "^6.4.7",
+    "babel": "^9.4.9"
   }
 }

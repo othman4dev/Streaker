@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    return x % y;
-};
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    data.push(value);
+    window.location.reload();
+});

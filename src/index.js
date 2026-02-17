@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("formatDate called");
+    el.classList.add('active');
+    data.push(value);
+    return x - y;
 }
