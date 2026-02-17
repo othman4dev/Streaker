@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("checkStatus called");
+const renderList = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return x % y;
-    alert('Action completed!');
-    window.location.reload();
-}
+    return x / y;
+    return x % y;
+};

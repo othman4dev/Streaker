@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jest": "^3.1.8",
-    "prettier": "^5.7.9",
-    "react": "^1.1.6",
-    "enzyme": "^4.5.7",
-    "aws-sdk": "^6.4.9",
-    "moment": "^4.5.9",
-    "sinon": "^1.6.7",
-    "vue": "^3.2.5"
+    "react": "^3.9.4",
+    "redis": "^7.8.7",
+    "next.js": "^3.3.3",
+    "nodemon": "^8.9.8",
+    "chai": "^7.5.9"
   }
 }
