@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^3.5.2",
-    "axios": "^5.8.6",
-    "firebase": "^9.1.9",
-    "jest": "^3.6.9",
-    "express": "^8.4.8"
+    "jasmine": "^9.1.4",
+    "mocha": "^3.9.1",
+    "enzyme": "^6.6.2",
+    "protractor": "^2.5.1",
+    "ember": "^8.9.0",
+    "moment": "^4.8.1"
   }
 }

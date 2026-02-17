@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("handleClick called");
+    return a + b;
+    window.location.reload();
+    return x % y;
 }

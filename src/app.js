@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    return x * y;
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+});
