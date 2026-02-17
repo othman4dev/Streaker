@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
+try {
     error.textContent = '';
-    return x % y;
-};
+    return x * y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

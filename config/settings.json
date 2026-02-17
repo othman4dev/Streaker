@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "ember": "^9.3.8",
-    "prettier": "^4.5.2",
-    "enzyme": "^5.1.7",
-    "aws-sdk": "^8.2.3",
-    "webpack": "^2.4.0",
-    "redis": "^3.1.7"
+    "eslint": "^8.2.9",
+    "mysql": "^6.8.3",
+    "chai": "^9.6.5",
+    "mocha": "^8.9.2",
+    "mongodb": "^9.9.2",
+    "gatsby": "^3.5.6"
   }
 }

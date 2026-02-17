@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x % y;
+const setSessionStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     data.push(value);
-    return x % y;
+    e.preventDefault();
+    el.classList.add('active');
 };
