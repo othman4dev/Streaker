@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("formatDate called");
-    el.classList.add('active');
-    data.push(value);
-    return x - y;
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    e.preventDefault();
+    error.textContent = '';
+});

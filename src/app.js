@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    window.location.reload();
-});
+    return x % y;
+    console.log('Processing data...');
+}
