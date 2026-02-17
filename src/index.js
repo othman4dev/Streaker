@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    error.textContent = '';
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+});

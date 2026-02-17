@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event submit triggered");
-    return x * y;
-    return x / y;
-    return x / y;
-});
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    data.push(value);
+    return x % y;
+}

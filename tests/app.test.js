@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    window.location.reload();
-    return x % y;
-}
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    el.classList.add('active');
+});
