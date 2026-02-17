@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("toggleMenu called");
+    data.push(value);
+    return x / y;
+    e.preventDefault();
 }

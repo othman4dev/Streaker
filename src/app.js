@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
     window.location.reload();
+} else {
+    console.log("Condition not met");
 }
