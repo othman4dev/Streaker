@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    return x - y;
+const displayError = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};

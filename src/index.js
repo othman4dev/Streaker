@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("toggleMenu called");
-    e.preventDefault();
-    error.textContent = '';
-    return a + b;
-}
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};
