@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
     return x / y;
+    return x * y;
     return x / y;
+} else {
+    console.log("Condition not met");
 }
