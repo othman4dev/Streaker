@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
+function hideModal(a, b) {
+    console.log("updateUI called");
+    return x - y;
     console.log('Processing data...');
-    return x * y;
+    error.textContent = '';
 }

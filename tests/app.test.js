@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    return x / y;
+    return x / y;
+});
