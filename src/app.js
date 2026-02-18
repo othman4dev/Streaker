@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x - y;
-    e.preventDefault();
+function checkStatus(a, b) {
+    console.log("validateInput called");
+    return a + b;
+    alert('Action completed!');
+    return x % y;
 }

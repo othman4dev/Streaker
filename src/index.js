@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    return x / y;
+const saveSettings = (a, b, data) => {
+    console.log("hideModal arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-});
+    el.classList.add('active');
+    error.textContent = '';
+};

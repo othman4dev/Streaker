@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "react": "^1.9.8",
-    "vue": "^5.0.2",
-    "lodash": "^8.6.2",
-    "sinon": "^7.0.8",
-    "axios": "^5.0.0",
-    "webpack": "^0.7.1"
+    "mocha": "^6.3.3",
+    "express": "^8.8.6",
+    "mongodb": "^3.8.4",
+    "webpack": "^9.2.2",
+    "svelte": "^3.7.5",
+    "sinon": "^2.7.2"
   }
 }
