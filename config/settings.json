@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "redis": "^5.9.8",
-    "nightwatch": "^6.8.1",
-    "chai": "^4.7.2",
-    "protractor": "^6.9.8",
-    "babel": "^3.9.8",
-    "enzyme": "^0.7.9",
-    "socket.io": "^3.5.7",
-    "jasmine": "^6.3.5"
+    "babel": "^4.1.1",
+    "chai": "^2.5.1",
+    "redis": "^4.2.5",
+    "svelte": "^1.0.7",
+    "nodemon": "^3.9.1",
+    "enzyme": "^6.1.5",
+    "gatsby": "^9.8.9"
   }
 }
