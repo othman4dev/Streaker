@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    return x % y;
+    console.log('Processing data...');
+};
