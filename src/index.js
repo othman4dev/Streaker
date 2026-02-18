@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    return x % y;
-    console.log('Processing data...');
-    alert('Action completed!');
-});
+switch (el) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
