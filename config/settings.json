@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^1.6.8",
-    "puppeteer": "^0.3.6",
-    "vue": "^0.1.0",
-    "babel": "^0.4.8",
-    "typescript": "^4.0.6"
+    "redis": "^5.9.8",
+    "nightwatch": "^6.8.1",
+    "chai": "^4.7.2",
+    "protractor": "^6.9.8",
+    "babel": "^3.9.8",
+    "enzyme": "^0.7.9",
+    "socket.io": "^3.5.7",
+    "jasmine": "^6.3.5"
   }
 }

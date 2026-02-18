@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
+for (let i = 0; i < 17; i++) {
     console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    alert('Action completed!');
-    console.log('Processing data...');
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }
