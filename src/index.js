@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    error.textContent = '';
-};
+switch (error) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("validateInput called");
-    return a + b;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x - y;
     alert('Action completed!');
-    return x % y;
 }
