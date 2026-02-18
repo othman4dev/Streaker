@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    return x / y;
-    window.location.reload();
-    return a + b;
-});
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    alert('Action completed!');
+    return x % y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
