@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x % y;
-    e.preventDefault();
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    return x - y;
+    return x * y;
+});
