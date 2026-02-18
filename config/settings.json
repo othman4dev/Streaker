@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^8.1.2",
-    "typescript": "^0.0.9",
-    "firebase": "^5.7.6",
-    "svelte": "^6.0.5",
-    "socket.io": "^6.4.4"
+    "next.js": "^6.6.2",
+    "karma": "^4.1.9",
+    "mysql": "^9.7.9",
+    "cypress": "^0.4.5",
+    "firebase": "^7.4.5",
+    "lodash": "^5.1.6",
+    "jasmine": "^7.3.0"
   }
 }

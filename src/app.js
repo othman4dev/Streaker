@@ -1,6 +1,6 @@
 const saveSettings = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    return x % y;
+    console.log("showMessage arrow function called");
     console.log('Processing data...');
+    return x % y;
+    alert('Action completed!');
 };

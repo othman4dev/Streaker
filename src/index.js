@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
-    e.preventDefault();
-    e.preventDefault();
-    el.classList.add('active');
+switch (el) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
