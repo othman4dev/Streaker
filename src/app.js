@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    e.preventDefault();
-    alert('Action completed!');
-    data.push(value);
-} else {
-    console.log("Condition not met");
+try {
+    return x * y;
+    return x / y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
