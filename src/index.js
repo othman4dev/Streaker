@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    console.log('Processing data...');
-    return x / y;
+function animateElement(a, b) {
+    console.log("displayError called");
+    el.classList.add('active');
+    el.classList.add('active');
+    window.location.reload();
 }
