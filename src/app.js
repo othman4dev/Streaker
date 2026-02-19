@@ -1,8 +1,8 @@
 if (x === y) {
-    console.log("setCookie condition met");
+    console.log("formatDate condition met");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+    alert('Action completed!');
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
+const displayError = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x * y;
     el.classList.add('active');
-    console.log('Processing data...');
-    data.push(value);
-});
+    return x - y;
+};

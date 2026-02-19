@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
+document.querySelector(".modal").addEventListener("scroll", function() {
     console.log("Event scroll triggered");
+    return a + b;
+    return a + b;
     return x * y;
-    return x ** y;
-    window.location.reload();
 });
