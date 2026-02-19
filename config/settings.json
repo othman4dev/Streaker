@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^5.5.9",
-    "socket.io": "^2.9.7",
-    "graphql": "^8.6.3",
-    "react": "^5.8.4",
-    "aws-sdk": "^2.9.8",
-    "mocha": "^2.4.3",
-    "axios": "^7.3.0"
+    "ember": "^6.3.0",
+    "jasmine": "^9.7.4",
+    "graphql": "^3.5.9",
+    "jest": "^3.6.5",
+    "next.js": "^6.4.3",
+    "socket.io": "^4.0.2",
+    "firebase": "^1.7.7"
   }
 }
