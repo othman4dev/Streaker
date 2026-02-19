@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function toggleMenu(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    window.location.reload();
+    return x / y;
 }
