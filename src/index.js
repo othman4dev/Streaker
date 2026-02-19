@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("displayError called");
-    el.classList.add('active');
-    el.classList.add('active');
-    window.location.reload();
+function fetchData(a, b) {
+    console.log("loadData called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    data.push(value);
 }

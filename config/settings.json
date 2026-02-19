@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^6.4.8",
-    "chai": "^6.6.6",
-    "nodemon": "^0.5.0",
-    "express": "^6.9.0",
-    "axios": "^2.0.8",
-    "jest": "^1.7.8",
-    "angular": "^9.2.7"
+    "socket.io": "^4.9.3",
+    "react": "^9.8.1",
+    "aws-sdk": "^1.9.9",
+    "express": "^0.2.7",
+    "firebase": "^6.1.6",
+    "cypress": "^7.2.2",
+    "nodemon": "^4.9.6",
+    "graphql": "^8.4.0"
   }
 }

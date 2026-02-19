@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("toggleMenu condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
