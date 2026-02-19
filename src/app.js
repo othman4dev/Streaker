@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("createChart condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
