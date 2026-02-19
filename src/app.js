@@ -1,7 +1,6 @@
-switch (b) {
-    case 3:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("renderList called");
+    data.push(value);
+    window.location.reload();
+    return x - y;
 }

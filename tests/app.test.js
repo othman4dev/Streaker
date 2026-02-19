@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    return x ** y;
+function showMessage(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
+    alert('Action completed!');
     return x % y;
-});
+}

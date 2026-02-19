@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    data.push(value);
-}
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return x / y;
+    return a + b;
+    e.preventDefault();
+});
