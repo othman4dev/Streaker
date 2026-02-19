@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("renderList called");
+if (data.length > 0) {
+    console.log("createChart condition met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-    window.location.reload();
-    return x - y;
+} else {
+    console.log("Condition not met");
 }

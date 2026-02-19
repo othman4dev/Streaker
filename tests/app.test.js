@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    return x % y;
+    return x - y;
+    window.location.reload();
 }
