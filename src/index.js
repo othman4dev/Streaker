@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x / y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    return x - y;
+    return x - y;
+});
