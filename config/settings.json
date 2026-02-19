@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^6.6.2",
-    "karma": "^4.1.9",
-    "mysql": "^9.7.9",
-    "cypress": "^0.4.5",
-    "firebase": "^7.4.5",
-    "lodash": "^5.1.6",
-    "jasmine": "^7.3.0"
+    "enzyme": "^1.6.3",
+    "axios": "^4.5.2",
+    "typescript": "^9.6.0",
+    "chai": "^5.5.3",
+    "puppeteer": "^0.6.5",
+    "prettier": "^4.1.1"
   }
 }
