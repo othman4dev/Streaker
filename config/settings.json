@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^6.4.7",
-    "svelte": "^0.3.0",
-    "cypress": "^5.2.6",
-    "express": "^0.3.8",
-    "puppeteer": "^5.5.3",
-    "babel": "^6.4.6",
-    "prettier": "^6.7.6",
-    "ember": "^3.3.1"
+    "vue": "^4.6.7",
+    "firebase": "^6.7.8",
+    "nodemon": "^7.8.0",
+    "aws-sdk": "^2.7.3",
+    "jasmine": "^6.3.6",
+    "mysql": "^5.9.9",
+    "cypress": "^1.1.1"
   }
 }
