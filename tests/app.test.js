@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    return x ** y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

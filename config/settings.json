@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^9.5.5",
-    "ember": "^3.4.1",
-    "graphql": "^3.6.6",
-    "webpack": "^9.4.1",
-    "moment": "^3.6.8",
-    "mocha": "^4.6.4"
+    "gatsby": "^6.4.7",
+    "svelte": "^0.3.0",
+    "cypress": "^5.2.6",
+    "express": "^0.3.8",
+    "puppeteer": "^5.5.3",
+    "babel": "^6.4.6",
+    "prettier": "^6.7.6",
+    "ember": "^3.3.1"
   }
 }
