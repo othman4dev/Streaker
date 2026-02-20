@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("validateInput called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+switch (error) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

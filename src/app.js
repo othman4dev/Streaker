@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
+try {
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
