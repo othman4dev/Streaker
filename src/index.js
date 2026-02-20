@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    data.push(value);
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     return x / y;
-    return x / y;
-});
+    return x - y;
+}
