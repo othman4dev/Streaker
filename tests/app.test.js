@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+const submitForm = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    return x % y;
+};

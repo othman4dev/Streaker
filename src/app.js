@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    return x ** y;
-};
+try {
+    return x % y;
+    return x / y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

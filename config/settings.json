@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^9.5.4",
-    "gatsby": "^5.7.4",
-    "enzyme": "^2.6.3",
-    "eslint": "^2.8.6",
-    "express": "^4.2.2"
+    "jest": "^5.4.7",
+    "svelte": "^9.4.0",
+    "puppeteer": "^1.8.2",
+    "next.js": "^1.2.7",
+    "eslint": "^7.1.5"
   }
 }
