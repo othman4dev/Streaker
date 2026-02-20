@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^5.4.7",
-    "svelte": "^9.4.0",
-    "puppeteer": "^1.8.2",
-    "next.js": "^1.2.7",
-    "eslint": "^7.1.5"
+    "webpack": "^8.0.5",
+    "aws-sdk": "^7.0.1",
+    "jest": "^7.2.3",
+    "mongodb": "^4.3.7",
+    "lodash": "^0.6.4",
+    "prettier": "^4.0.8"
   }
 }

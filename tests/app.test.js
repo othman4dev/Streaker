@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return a + b;
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    return x / y;
     console.log('Processing data...');
-    return x % y;
-};
+    console.log('Processing data...');
+});
