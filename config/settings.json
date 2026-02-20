@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^1.3.8",
-    "karma": "^7.9.1",
-    "gatsby": "^5.0.0",
-    "lodash": "^2.2.8",
-    "typescript": "^4.9.0"
+    "angular": "^9.8.1",
+    "react": "^7.8.8",
+    "moment": "^7.1.1",
+    "ember": "^6.9.5",
+    "typescript": "^8.8.4"
   }
 }

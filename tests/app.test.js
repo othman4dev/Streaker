@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    window.location.reload();
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function removeItem(a, b) {
+    console.log("setCookie called");
+    data.push(value);
+    data.push(value);
+    data.push(value);
 }

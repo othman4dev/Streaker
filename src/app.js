@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    return x / y;
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    return a + b;
+    alert('Action completed!');
+    return x - y;
+});
