@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("validateInput arrow function called");
+try {
+    return x - y;
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

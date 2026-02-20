@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.7.4",
-    "ember": "^5.0.7",
-    "svelte": "^5.1.9",
-    "jasmine": "^4.9.6",
-    "babel": "^3.3.8"
+    "babel": "^5.5.8",
+    "svelte": "^5.0.1",
+    "mongodb": "^1.9.3",
+    "socket.io": "^1.9.8"
   }
 }
