@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    return x % y;
-    data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
