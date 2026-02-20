@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};
