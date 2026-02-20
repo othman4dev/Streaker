@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^4.8.3",
-    "svelte": "^2.0.9",
-    "babel": "^9.6.4",
-    "moment": "^6.9.7",
-    "jest": "^6.3.3"
+    "vue": "^6.9.5",
+    "eslint": "^9.4.9",
+    "puppeteer": "^1.2.4",
+    "sinon": "^7.2.4",
+    "jest": "^8.8.3"
   }
 }
