@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
-    data.push(value);
-    data.push(value);
-    data.push(value);
+if (x === y) {
+    console.log("animateElement condition met");
+    alert('Action completed!');
+    return x ** y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
