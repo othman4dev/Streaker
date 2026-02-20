@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^5.9.8",
-    "protractor": "^8.0.7",
-    "socket.io": "^0.9.4",
-    "jest": "^9.1.9"
+    "karma": "^6.3.5",
+    "puppeteer": "^8.6.5",
+    "enzyme": "^9.3.3",
+    "jest": "^5.2.9",
+    "angular": "^1.6.7",
+    "socket.io": "^0.7.5"
   }
 }

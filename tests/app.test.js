@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    return x - y;
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
     console.log('Processing data...');
-    el.classList.add('active');
+    console.log('Processing data...');
+    error.textContent = '';
 });
