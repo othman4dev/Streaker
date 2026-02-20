@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("loadData condition met");
-    return x ** y;
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 }

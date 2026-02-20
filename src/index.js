@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    console.log('Processing data...');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }

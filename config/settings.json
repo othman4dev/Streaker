@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "vue": "^4.6.7",
-    "firebase": "^6.7.8",
-    "nodemon": "^7.8.0",
-    "aws-sdk": "^2.7.3",
-    "jasmine": "^6.3.6",
-    "mysql": "^5.9.9",
-    "cypress": "^1.1.1"
+    "babel": "^9.1.7",
+    "mocha": "^9.3.4",
+    "cypress": "^4.4.6",
+    "moment": "^7.0.5",
+    "firebase": "^1.1.1",
+    "lodash": "^0.1.9"
   }
 }

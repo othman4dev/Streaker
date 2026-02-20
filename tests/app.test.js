@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
     return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
 }
