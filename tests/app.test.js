@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return x * y;
+    return x - y;
+    data.push(value);
+});
