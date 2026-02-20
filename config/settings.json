@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^6.9.3",
-    "protractor": "^6.5.8",
-    "webpack": "^8.6.4",
-    "babel": "^7.6.7",
-    "karma": "^6.4.9",
-    "nightwatch": "^4.9.1"
+    "puppeteer": "^9.5.4",
+    "gatsby": "^5.7.4",
+    "enzyme": "^2.6.3",
+    "eslint": "^2.8.6",
+    "express": "^4.2.2"
   }
 }

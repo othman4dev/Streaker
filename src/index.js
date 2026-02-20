@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     return a + b;
-    return a + b;
-    return x * y;
-});
+    error.textContent = '';
+}

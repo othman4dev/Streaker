@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    e.preventDefault();
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    return x ** y;
+};
