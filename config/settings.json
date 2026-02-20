@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^4.3.3",
-    "chai": "^6.6.5",
-    "nodemon": "^0.1.2",
-    "express": "^5.7.2",
-    "karma": "^8.2.4",
-    "react": "^3.0.5"
+    "mongodb": "^0.8.5",
+    "mysql": "^4.7.5",
+    "enzyme": "^4.2.9",
+    "gatsby": "^2.6.1",
+    "lodash": "^4.7.5"
   }
 }
