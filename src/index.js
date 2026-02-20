@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("checkStatus called");
-    window.location.reload();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x % y;
+    return x % y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
