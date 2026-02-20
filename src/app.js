@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    return x ** y;
-    return a + b;
-});
+switch (error) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

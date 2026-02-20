@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("checkStatus called");
+    window.location.reload();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
