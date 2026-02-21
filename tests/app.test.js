@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+if (value !== '') {
+    console.log("showMessage condition met");
+    console.log('Processing data...');
     return x % y;
-    return x * y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
