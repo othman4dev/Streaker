@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+function fetchData(a, b) {
+    console.log("displayError called");
     e.preventDefault();
-    return x - y;
-    return x ** y;
+    alert('Action completed!');
+    console.log('Processing data...');
 }

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    error.textContent = '';
-});
+function setCookie(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
+    return x - y;
+    window.location.reload();
+}

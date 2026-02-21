@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+function animateElement(a, b) {
+    console.log("loadData called");
+    return x % y;
+    console.log('Processing data...');
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
 }
