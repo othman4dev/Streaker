@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "ember": "^6.0.6",
-    "vue": "^4.2.0",
-    "sinon": "^7.9.3",
-    "typescript": "^9.7.8",
-    "express": "^0.9.0",
-    "svelte": "^2.3.5",
-    "mysql": "^5.4.5"
+    "prettier": "^0.7.3",
+    "redis": "^8.7.1",
+    "svelte": "^6.6.6",
+    "aws-sdk": "^7.7.7",
+    "webpack": "^8.9.0",
+    "nightwatch": "^3.2.0",
+    "chai": "^5.0.5",
+    "babel": "^2.0.4"
   }
 }

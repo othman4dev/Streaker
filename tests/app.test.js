@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x ** y;
-    return x % y;
-    console.log('Processing data...');
-};
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    el.classList.add('active');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
