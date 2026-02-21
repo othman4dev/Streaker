@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
-    window.location.reload();
-    error.textContent = '';
-});
+switch (value) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

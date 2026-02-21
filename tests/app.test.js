@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("animateElement called");
-    el.classList.add('active');
+const hideModal = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x ** y;
+    return x % y;
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+};
