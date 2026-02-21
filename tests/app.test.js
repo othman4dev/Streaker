@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    console.log('Processing data...');
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    el.classList.add('active');
+    window.location.reload();
+    return a + b;
+};
