@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    data.push(value);
-    return a + b;
+if (a > b) {
+    console.log("displayError condition met");
+    e.preventDefault();
+    return x * y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
