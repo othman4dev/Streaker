@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x * y;
+function renderList(a, b) {
+    console.log("displayError called");
+    data.push(value);
+    return x - y;
+    return a + b;
 }

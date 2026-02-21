@@ -1,7 +1,6 @@
-try {
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+});
