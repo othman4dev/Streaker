@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
     return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    error.textContent = '';
+});
