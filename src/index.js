@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
+if (x === y) {
+    console.log("setSessionStorage condition met");
     return x * y;
+    el.classList.add('active');
     console.log('Processing data...');
-});
+} else {
+    console.log("Condition not met");
+}

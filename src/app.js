@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x - y;
-    return x ** y;
+function hideModal(a, b) {
+    console.log("validateInput called");
     window.location.reload();
-};
+    return a + b;
+    window.location.reload();
+}

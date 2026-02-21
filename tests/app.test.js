@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

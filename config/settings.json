@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^5.2.2",
-    "webpack": "^3.9.0",
-    "enzyme": "^7.8.3",
-    "next.js": "^4.3.0",
-    "mysql": "^5.0.1"
+    "puppeteer": "^1.1.4",
+    "sinon": "^6.1.4",
+    "chai": "^8.3.9",
+    "socket.io": "^2.3.5",
+    "axios": "^3.4.2",
+    "typescript": "^9.1.8"
   }
 }
