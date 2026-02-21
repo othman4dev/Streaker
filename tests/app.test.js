@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    data.push(value);
-    return x % y;
-    el.classList.add('active');
-};
+function saveSettings(a, b) {
+    console.log("hideModal called");
+    alert('Action completed!');
+    return a + b;
+    window.location.reload();
+}
