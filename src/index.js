@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x * y;
-    el.classList.add('active');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("getLocalStorage called");
+    e.preventDefault();
+    e.preventDefault();
+    window.location.reload();
 }

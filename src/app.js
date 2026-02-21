@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("validateInput called");
+try {
+    return x * y;
     window.location.reload();
-    return a + b;
-    window.location.reload();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
