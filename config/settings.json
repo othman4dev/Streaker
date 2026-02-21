@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^4.9.2",
-    "nodemon": "^5.9.2",
-    "aws-sdk": "^4.5.3",
-    "sinon": "^6.0.6",
-    "cypress": "^7.3.0"
+    "express": "^5.8.2",
+    "mysql": "^4.1.2",
+    "enzyme": "^9.0.7",
+    "nodemon": "^2.2.5",
+    "jest": "^8.1.3",
+    "mocha": "^9.9.5"
   }
 }
