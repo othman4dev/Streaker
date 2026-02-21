@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^2.4.9",
-    "axios": "^1.8.2",
-    "vue": "^1.0.5",
-    "babel": "^5.2.6",
-    "next.js": "^5.6.7"
+    "protractor": "^7.5.0",
+    "react": "^6.6.4",
+    "webpack": "^7.4.8",
+    "typescript": "^5.7.5",
+    "jasmine": "^2.8.6",
+    "babel": "^4.4.1",
+    "gatsby": "^3.4.5",
+    "mysql": "^2.6.4"
   }
 }

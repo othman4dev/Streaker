@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
-    return x ** y;
-    error.textContent = '';
-};
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x * y;
+    alert('Action completed!');
+    return x / y;
+});
