@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("displayError condition met");
+try {
     e.preventDefault();
-    return x * y;
     window.location.reload();
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
