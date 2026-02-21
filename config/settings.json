@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^9.1.0",
-    "babel": "^4.5.8",
-    "mysql": "^7.1.4",
-    "firebase": "^4.1.0",
-    "socket.io": "^0.3.2",
-    "chai": "^9.4.9",
-    "jest": "^0.7.5"
+    "gatsby": "^1.7.1",
+    "mysql": "^4.9.7",
+    "graphql": "^4.3.4",
+    "jasmine": "^3.2.3",
+    "cypress": "^0.8.9",
+    "eslint": "^2.8.6"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    error.textContent = '';
-    return x % y;
-}
+const formatDate = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
+    return x - y;
+};

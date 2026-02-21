@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("hideModal called");
-    alert('Action completed!');
-    return a + b;
-    window.location.reload();
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    console.log('Processing data...');
+    return x ** y;
+    return x / y;
+};

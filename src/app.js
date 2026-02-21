@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("renderList called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    window.location.reload();
-}
+const processInput = (a, b, data) => {
+    console.log("processInput arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    data.push(value);
+};
