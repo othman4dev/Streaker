@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    data.push(value);
-    return x - y;
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
     error.textContent = '';
-};
+    e.preventDefault();
+    data.push(value);
+});
