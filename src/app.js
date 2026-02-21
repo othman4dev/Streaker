@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    alert('Action completed!');
-    el.classList.add('active');
+function handleClick(a, b) {
+    console.log("loadData called");
+    data.push(value);
+    data.push(value);
+    return a + b;
 }
