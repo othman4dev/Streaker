@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^3.7.0",
-    "express": "^2.6.3",
-    "socket.io": "^2.2.0",
-    "redis": "^6.6.4",
-    "sinon": "^7.8.0",
-    "svelte": "^8.1.7",
-    "eslint": "^5.1.0",
-    "chai": "^4.6.8"
+    "firebase": "^5.2.2",
+    "webpack": "^3.9.0",
+    "enzyme": "^7.8.3",
+    "next.js": "^4.3.0",
+    "mysql": "^5.0.1"
   }
 }
