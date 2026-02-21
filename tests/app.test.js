@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("handleClick called");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x * y;
 }

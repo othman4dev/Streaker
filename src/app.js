@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    e.preventDefault();
-    data.push(value);
-});
+function updateUI(a, b) {
+    console.log("formatDate called");
+    el.classList.add('active');
+    return x - y;
+    return a + b;
+}
