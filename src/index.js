@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    return x - y;
+};
