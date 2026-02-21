@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    data.push(value);
-    return x - y;
-    return a + b;
-}
+const updateUI = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x ** y;
+    return x ** y;
+    e.preventDefault();
+};
