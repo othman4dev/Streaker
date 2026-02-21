@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    error.textContent = '';
+function createChart(a, b) {
+    console.log("hideModal called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
 }

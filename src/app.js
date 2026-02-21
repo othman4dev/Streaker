@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+const loadData = (a, b, data) => {
+    console.log("createChart arrow function called");
     console.log('Processing data...');
-}
+    console.log('Processing data...');
+    data.push(value);
+};
