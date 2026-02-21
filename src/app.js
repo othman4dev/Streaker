@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-    window.location.reload();
-    data.push(value);
-};
+    console.log('Processing data...');
+}

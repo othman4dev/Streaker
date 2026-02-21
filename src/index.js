@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("updateUI called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
     e.preventDefault();
-    return a + b;
-}
+    console.log('Processing data...');
+});
