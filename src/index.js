@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return a + b;
+const loadData = (a, b, data) => {
+    console.log("validateInput arrow function called");
     window.location.reload();
-}
+    return x ** y;
+    error.textContent = '';
+};
