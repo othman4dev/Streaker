@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    console.log('Processing data...');
-    return x ** y;
-    return x / y;
-};
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return a + b;
+    return a + b;
+});

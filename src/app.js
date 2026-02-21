@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    e.preventDefault();
+const updateUI = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x - y;
+    window.location.reload();
     data.push(value);
 };

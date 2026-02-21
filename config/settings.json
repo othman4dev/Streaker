@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^1.7.1",
-    "mysql": "^4.9.7",
-    "graphql": "^4.3.4",
-    "jasmine": "^3.2.3",
-    "cypress": "^0.8.9",
-    "eslint": "^2.8.6"
+    "prettier": "^2.4.4",
+    "socket.io": "^9.5.8",
+    "webpack": "^4.9.4",
+    "moment": "^7.0.0",
+    "redis": "^5.7.7"
   }
 }
