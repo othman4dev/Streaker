@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("checkStatus called");
-    data.push(value);
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x ** y;
     return x % y;
-    window.location.reload();
-}
+    error.textContent = '';
+});

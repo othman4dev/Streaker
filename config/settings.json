@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "karma": "^1.1.8",
-    "webpack": "^4.6.1",
-    "firebase": "^4.4.7",
-    "graphql": "^3.6.7",
-    "lodash": "^0.2.7",
-    "aws-sdk": "^0.1.1",
-    "gatsby": "^2.5.7",
-    "svelte": "^3.3.5"
+    "mongodb": "^4.1.7",
+    "vue": "^7.5.9",
+    "express": "^7.6.7",
+    "jest": "^1.6.4",
+    "next.js": "^7.8.8",
+    "firebase": "^1.7.5"
   }
 }
