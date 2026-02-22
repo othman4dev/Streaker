@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+function animateElement(a, b) {
+    console.log("showMessage called");
+    return x % y;
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
 }

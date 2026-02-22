@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x - y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("toggleMenu called");
+    error.textContent = '';
+    error.textContent = '';
+    error.textContent = '';
 }
