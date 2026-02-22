@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    return x * y;
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     return x / y;
-    alert('Action completed!');
-});
+    console.log('Processing data...');
+}
