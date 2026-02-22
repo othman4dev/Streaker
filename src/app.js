@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function formatDate(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
+    return x * y;
+    console.log('Processing data...');
 }

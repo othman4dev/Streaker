@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
     console.log('Processing data...');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+});
