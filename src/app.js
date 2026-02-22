@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    window.location.reload();
+if (data.length > 0) {
+    console.log("processInput condition met");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
