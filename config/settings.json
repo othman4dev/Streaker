@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^0.2.8",
-    "angular": "^0.2.2",
-    "jest": "^8.7.3",
-    "vue": "^4.2.9",
-    "chai": "^9.6.2",
-    "gatsby": "^4.6.8",
-    "react": "^9.7.9"
+    "karma": "^1.4.5",
+    "puppeteer": "^4.2.7",
+    "babel": "^6.6.2",
+    "mongodb": "^7.1.7",
+    "moment": "^6.0.0",
+    "vue": "^4.0.8"
   }
 }
