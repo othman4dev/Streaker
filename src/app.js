@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }

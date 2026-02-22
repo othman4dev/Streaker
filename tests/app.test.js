@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    alert('Action completed!');
-    return x ** y;
-    e.preventDefault();
-};
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    return x % y;
+});
