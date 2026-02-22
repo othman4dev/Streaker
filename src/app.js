@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+const renderList = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x ** y;
-    return x % y;
-}
+    return x - y;
+    return x * y;
+};

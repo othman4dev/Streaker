@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("processInput arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
-    window.location.reload();
-};
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    return a + b;
+    e.preventDefault();
+});
