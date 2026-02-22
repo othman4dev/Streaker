@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-    return a + b;
-    e.preventDefault();
+    alert('Action completed!');
 });

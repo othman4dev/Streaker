@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^4.6.7",
-    "ember": "^0.1.8",
-    "typescript": "^4.3.1",
-    "prettier": "^5.2.8",
-    "jest": "^8.8.0",
-    "react": "^9.1.4",
-    "eslint": "^2.4.6",
-    "next.js": "^0.5.8",
-    "mocha": "^8.6.2"
+    "graphql": "^0.2.8",
+    "angular": "^0.2.2",
+    "jest": "^8.7.3",
+    "vue": "^4.2.9",
+    "chai": "^9.6.2",
+    "gatsby": "^4.6.8",
+    "react": "^9.7.9"
   }
 }

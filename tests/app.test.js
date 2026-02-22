@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
+try {
+    alert('Action completed!');
     return a + b;
-    return x - y;
-    return x / y;
-});
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
