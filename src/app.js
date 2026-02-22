@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    window.location.reload();
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("removeItem called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }

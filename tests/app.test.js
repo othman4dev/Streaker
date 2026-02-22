@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    data.push(value);
     return x - y;
-    alert('Action completed!');
-}
+});
