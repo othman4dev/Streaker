@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("showMessage called");
-    return x % y;
-    return x / y;
+const toggleMenu = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-}
+    e.preventDefault();
+    return x % y;
+};
