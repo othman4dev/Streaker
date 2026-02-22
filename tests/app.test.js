@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    el.classList.add('active');
+function formatDate(a, b) {
+    console.log("checkStatus called");
+    data.push(value);
     return x % y;
-});
+    window.location.reload();
+}
