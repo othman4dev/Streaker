@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x - y;
-};
+switch (e) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
