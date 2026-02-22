@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("loadData called");
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event submit triggered");
     return x * y;
-    return a + b;
-    el.classList.add('active');
-}
+    return x / y;
+    alert('Action completed!');
+});
