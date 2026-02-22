@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^4.1.7",
-    "vue": "^7.5.9",
-    "express": "^7.6.7",
-    "jest": "^1.6.4",
-    "next.js": "^7.8.8",
-    "firebase": "^1.7.5"
+    "svelte": "^6.9.7",
+    "karma": "^8.2.7",
+    "socket.io": "^0.8.5",
+    "moment": "^1.7.1",
+    "nodemon": "^2.4.6"
   }
 }

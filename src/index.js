@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    return x ** y;
-    return a + b;
-    data.push(value);
-});
+try {
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
