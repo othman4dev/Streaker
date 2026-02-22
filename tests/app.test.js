@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
+const animateElement = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    return x ** y;
     e.preventDefault();
-    el.classList.add('active');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+};

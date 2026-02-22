@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-}
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    return x - y;
+    return x * y;
+    return x % y;
+});
