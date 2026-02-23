@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    alert('Action completed!');
-    return x ** y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    return x - y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

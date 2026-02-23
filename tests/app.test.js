@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("createChart arrow function called");
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event blur triggered");
     return x / y;
-    return x / y;
-    el.classList.add('active');
-};
+    error.textContent = '';
+    data.push(value);
+});

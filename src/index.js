@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    return x ** y;
+const processInput = (a, b, data) => {
+    console.log("processInput arrow function called");
     alert('Action completed!');
-});
+    return a + b;
+    alert('Action completed!');
+};
