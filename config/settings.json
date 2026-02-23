@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.6.4",
-    "nodemon": "^6.3.1",
-    "jasmine": "^7.4.6",
-    "lodash": "^4.9.7",
-    "moment": "^0.7.8"
+    "prettier": "^8.4.6",
+    "mysql": "^7.6.6",
+    "lodash": "^5.3.1",
+    "jasmine": "^7.2.8",
+    "jest": "^2.9.2",
+    "nodemon": "^3.6.7"
   }
 }
