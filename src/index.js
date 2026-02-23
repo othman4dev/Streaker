@@ -1,7 +1,6 @@
-try {
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event focus triggered");
     window.location.reload();
-    return x % y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    error.textContent = '';
+});

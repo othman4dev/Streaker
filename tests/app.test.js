@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-});
+if (x !== y) {
+    console.log("removeItem condition met");
+    return x - y;
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

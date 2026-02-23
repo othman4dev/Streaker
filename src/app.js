@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return a + b;
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
+    return x % y;
     return x ** y;
-    return x / y;
 };
