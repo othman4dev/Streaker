@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    return x - y;
-    return x % y;
+if (a > b) {
+    console.log("handleClick condition met");
     return x * y;
+    e.preventDefault();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

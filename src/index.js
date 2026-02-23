@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event focus triggered");
+function updateUI(a, b) {
+    console.log("renderList called");
+    return x ** y;
     window.location.reload();
-    console.log('Processing data...');
-    error.textContent = '';
-});
+    data.push(value);
+}
