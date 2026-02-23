@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    data.push(value);
-    el.classList.add('active');
-    alert('Action completed!');
-});
+try {
+    return x % y;
+    return x / y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
