@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
-    return x * y;
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-}
+    return x ** y;
+});

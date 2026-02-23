@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("animateElement called");
-    return x / y;
+const submitForm = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
     return x ** y;
-    data.push(value);
-}
+    return x / y;
+};

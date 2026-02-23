@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^1.8.4",
-    "axios": "^1.5.4",
-    "typescript": "^5.2.6",
-    "jasmine": "^0.4.9",
-    "redis": "^7.9.0"
+    "mongodb": "^4.0.2",
+    "lodash": "^8.1.9",
+    "jest": "^3.1.7",
+    "cypress": "^6.7.2",
+    "svelte": "^3.9.4"
   }
 }
