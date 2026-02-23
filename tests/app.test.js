@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x / y;
+};

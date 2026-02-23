@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "karma": "^8.4.2",
-    "socket.io": "^6.9.6",
-    "puppeteer": "^2.3.6",
-    "eslint": "^3.0.4",
-    "babel": "^0.2.8",
-    "typescript": "^5.9.8",
-    "jest": "^0.4.5",
-    "nodemon": "^9.8.0"
+    "typescript": "^7.9.7",
+    "karma": "^5.3.5",
+    "aws-sdk": "^8.2.6",
+    "gatsby": "^8.9.1",
+    "nightwatch": "^2.0.2"
   }
 }
