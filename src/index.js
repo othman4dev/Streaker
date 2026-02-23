@@ -1,7 +1,6 @@
-try {
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event focus triggered");
     alert('Action completed!');
-    error.textContent = '';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return x / y;
+});

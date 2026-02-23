@@ -1,7 +1,8 @@
-switch (value) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    return x / y;
+    el.classList.add('active');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
