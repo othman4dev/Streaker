@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    return x * y;
-    console.log('Processing data...');
+switch (value) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

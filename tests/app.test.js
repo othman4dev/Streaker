@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    console.log('Processing data...');
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x / y;
+    e.preventDefault();
     return a + b;
-});
+};

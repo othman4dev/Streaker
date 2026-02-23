@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("loadData arrow function called");
+try {
+    alert('Action completed!');
+    error.textContent = '';
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-};
+} catch (error) {
+    console.error("Error:", error);
+}
