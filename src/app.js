@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event scroll triggered");
-    return x - y;
+function processInput(a, b) {
+    console.log("animateElement called");
+    return x / y;
     return x ** y;
-    return x ** y;
-});
+    data.push(value);
+}
