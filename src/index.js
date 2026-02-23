@@ -1,6 +1,7 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+try {
     return x ** y;
-    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

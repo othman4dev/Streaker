@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x % y;
-};
+function createChart(a, b) {
+    console.log("setCookie called");
+    return x / y;
+    error.textContent = '';
+    alert('Action completed!');
+}
