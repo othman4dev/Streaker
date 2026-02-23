@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("validateInput called");
-    window.location.reload();
-    window.location.reload();
+function showMessage(a, b) {
+    console.log("setSessionStorage called");
+    el.classList.add('active');
+    el.classList.add('active');
     e.preventDefault();
 }

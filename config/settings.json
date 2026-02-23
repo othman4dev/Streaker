@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.4.9",
-    "eslint": "^0.0.1",
-    "vue": "^1.2.1",
-    "enzyme": "^6.2.7",
-    "jasmine": "^0.0.0",
-    "jest": "^2.2.5",
-    "express": "^3.9.0"
+    "svelte": "^6.8.1",
+    "protractor": "^3.2.1",
+    "nodemon": "^5.3.9",
+    "socket.io": "^8.6.6",
+    "chai": "^1.5.0",
+    "vue": "^3.8.2",
+    "axios": "^1.6.2"
   }
 }
