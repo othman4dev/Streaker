@@ -1,7 +1,8 @@
-switch (b) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("setSessionStorage condition met");
+    return x * y;
+    return a + b;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

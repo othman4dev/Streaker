@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("setSessionStorage called");
-    return x * y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+switch (e) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
