@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return a + b;
-    return a + b;
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    el.classList.add('active');
+});

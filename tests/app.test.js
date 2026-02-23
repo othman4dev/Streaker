@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x * y;
-    console.log('Processing data...');
+function saveSettings(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    el.classList.add('active');
+    window.location.reload();
 }

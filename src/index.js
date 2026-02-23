@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+function validateInput(a, b) {
+    console.log("validateInput called");
+    window.location.reload();
+    window.location.reload();
+    e.preventDefault();
+}

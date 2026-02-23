@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jest": "^4.8.1",
-    "aws-sdk": "^7.9.2",
-    "enzyme": "^1.5.7",
-    "express": "^6.6.8",
-    "babel": "^8.2.4",
-    "eslint": "^7.1.5"
+    "aws-sdk": "^8.4.9",
+    "eslint": "^0.0.1",
+    "vue": "^1.2.1",
+    "enzyme": "^6.2.7",
+    "jasmine": "^0.0.0",
+    "jest": "^2.2.5",
+    "express": "^3.9.0"
   }
 }
