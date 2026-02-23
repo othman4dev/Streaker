@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "karma": "^0.4.4",
-    "cypress": "^2.0.4",
-    "eslint": "^3.1.7",
-    "mysql": "^5.8.8",
-    "react": "^8.5.1"
+    "jest": "^4.8.1",
+    "aws-sdk": "^7.9.2",
+    "enzyme": "^1.5.7",
+    "express": "^6.6.8",
+    "babel": "^8.2.4",
+    "eslint": "^7.1.5"
   }
 }

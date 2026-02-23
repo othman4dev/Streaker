@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    return a + b;
-    return x / y;
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 });
