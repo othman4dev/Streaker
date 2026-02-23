@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
+for (let i = 0; i < 10; i++) {
     console.log("Loop iteration: " + i);
-    console.log('Processing data...');
     data.push(value);
-    e.preventDefault();
+    alert('Action completed!');
+    data.push(value);
 }

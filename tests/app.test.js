@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("handleClick condition met");
-    return x * y;
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jest": "^1.6.7",
-    "mongodb": "^7.3.9",
-    "lodash": "^6.8.6",
-    "webpack": "^4.8.6",
-    "nodemon": "^8.1.7",
-    "graphql": "^3.1.6",
-    "karma": "^0.6.5",
-    "axios": "^0.1.2"
+    "karma": "^8.4.2",
+    "socket.io": "^6.9.6",
+    "puppeteer": "^2.3.6",
+    "eslint": "^3.0.4",
+    "babel": "^0.2.8",
+    "typescript": "^5.9.8",
+    "jest": "^0.4.5",
+    "nodemon": "^9.8.0"
   }
 }
