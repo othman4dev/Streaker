@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("renderList called");
-    console.log('Processing data...');
-    return x * y;
-    error.textContent = '';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }

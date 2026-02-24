@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    el.classList.add('active');
-    return x / y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
 }

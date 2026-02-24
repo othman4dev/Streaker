@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function setCookie(a, b) {
+    console.log("createChart called");
     return x % y;
-    alert('Action completed!');
-    return x * y;
-};
+    return x % y;
+    return x / y;
+}
