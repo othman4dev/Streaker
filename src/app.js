@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    return x % y;
-    window.location.reload();
-    return a + b;
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    return x / y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

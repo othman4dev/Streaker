@@ -1,5 +1,5 @@
 try {
-    return x - y;
+    data.push(value);
     e.preventDefault();
     e.preventDefault();
 } catch (error) {
