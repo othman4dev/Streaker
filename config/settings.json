@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "redis": "^6.1.6",
-    "eslint": "^7.6.0",
-    "vue": "^4.2.4",
-    "protractor": "^1.5.6",
-    "typescript": "^8.5.9",
-    "gatsby": "^4.7.5",
-    "mongodb": "^3.6.6",
-    "svelte": "^6.4.4",
-    "firebase": "^9.3.4"
+    "karma": "^2.2.2",
+    "mongodb": "^5.1.1",
+    "eslint": "^2.5.1",
+    "cypress": "^6.8.2",
+    "angular": "^7.5.7"
   }
 }

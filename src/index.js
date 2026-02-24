@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    return x ** y;
+    return x ** y;
+    return x / y;
+});

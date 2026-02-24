@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x / y;
+const processInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x % y;
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+};
