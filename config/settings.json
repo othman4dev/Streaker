@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^2.7.0",
-    "vue": "^9.4.0",
-    "express": "^0.0.2",
-    "cypress": "^9.2.0",
-    "sinon": "^0.2.1",
-    "aws-sdk": "^4.3.7",
-    "babel": "^6.5.5"
+    "vue": "^9.4.4",
+    "karma": "^3.1.1",
+    "nightwatch": "^7.0.9",
+    "jest": "^4.6.8",
+    "mocha": "^1.9.9"
   }
 }

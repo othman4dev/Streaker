@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("hideModal arrow function called");
+function submitForm(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-};
+    return x % y;
+}
