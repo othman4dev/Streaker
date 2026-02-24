@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-});
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
+    return x % y;
+    return a + b;
+};

@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
-    return x ** y;
-    return x / y;
-};
+try {
+    return x % y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
