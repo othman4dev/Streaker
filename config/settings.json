@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^1.2.3",
-    "socket.io": "^3.0.3",
-    "angular": "^2.7.6",
-    "graphql": "^3.7.1",
-    "next.js": "^3.0.6"
+    "svelte": "^6.7.6",
+    "enzyme": "^8.8.5",
+    "socket.io": "^2.1.1",
+    "jasmine": "^5.4.6",
+    "react": "^1.6.6"
   }
 }

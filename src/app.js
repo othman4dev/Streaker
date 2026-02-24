@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("loadData called");
-    e.preventDefault();
-    return x % y;
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return a + b;
     return x ** y;
-}
+    e.preventDefault();
+};

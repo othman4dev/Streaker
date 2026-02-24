@@ -1,7 +1,8 @@
-try {
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
+    return a + b;
+    e.preventDefault();
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
