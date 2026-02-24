@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    e.preventDefault();
-    return x ** y;
+switch (a) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
