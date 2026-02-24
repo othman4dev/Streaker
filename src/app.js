@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("displayError called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    alert('Action completed!');
+function setCookie(a, b) {
+    console.log("toggleMenu called");
+    return x / y;
+    return x % y;
+    return a + b;
 }

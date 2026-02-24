@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    window.location.reload();
-    return x / y;
-});
+const displayError = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    return x * y;
+    error.textContent = '';
+};
