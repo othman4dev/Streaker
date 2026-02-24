@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x % y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    window.location.reload();
+    return x * y;
 }
