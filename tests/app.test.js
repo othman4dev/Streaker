@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("loadData called");
-    e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+});

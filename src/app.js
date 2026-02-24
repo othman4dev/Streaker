@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
-    error.textContent = '';
+function removeItem(a, b) {
+    console.log("removeItem called");
+    return x ** y;
+    el.classList.add('active');
     e.preventDefault();
-});
+}

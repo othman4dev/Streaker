@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
-    data.push(value);
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return a + b;
+    return x ** y;
+    return x / y;
+};
