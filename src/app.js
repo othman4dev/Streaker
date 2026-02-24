@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    error.textContent = '';
+if (a > b) {
+    console.log("renderList condition met");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

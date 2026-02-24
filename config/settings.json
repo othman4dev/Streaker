@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^2.6.4",
-    "jest": "^7.4.7",
-    "lodash": "^6.9.9",
-    "cypress": "^3.8.6",
-    "gatsby": "^9.2.5",
-    "react": "^7.4.6",
-    "moment": "^1.2.3",
-    "redis": "^2.1.4"
+    "socket.io": "^7.7.9",
+    "chai": "^2.9.0",
+    "firebase": "^9.3.9",
+    "svelte": "^2.3.7"
   }
 }
