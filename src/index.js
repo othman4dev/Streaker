@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("handleClick arrow function called");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x / y;
     el.classList.add('active');
-    return x - y;
-    el.classList.add('active');
-};
+}

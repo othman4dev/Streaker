@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "express": "^2.3.6",
-    "mocha": "^1.5.2",
-    "gatsby": "^3.5.6",
-    "moment": "^6.4.1",
-    "ember": "^9.1.7",
-    "puppeteer": "^7.5.9"
+    "babel": "^9.0.6",
+    "enzyme": "^9.3.3",
+    "lodash": "^2.2.5",
+    "svelte": "^8.4.6",
+    "nightwatch": "^7.0.2",
+    "sinon": "^5.2.6",
+    "redis": "^3.6.5",
+    "socket.io": "^9.9.7"
   }
 }
