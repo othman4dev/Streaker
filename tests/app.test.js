@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    return a + b;
-    error.textContent = '';
+switch (e) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

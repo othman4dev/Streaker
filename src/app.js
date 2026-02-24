@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
+try {
+    window.location.reload();
     console.log('Processing data...');
-    return x / y;
-});
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

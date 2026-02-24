@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("removeItem condition met");
-    return x - y;
-    el.classList.add('active');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("submitForm called");
+    return x * y;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }
