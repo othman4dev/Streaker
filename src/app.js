@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    e.preventDefault();
-};
+try {
+    return x / y;
+    error.textContent = '';
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
