@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("removeItem called");
+    return x ** y;
+    return x - y;
+    error.textContent = '';
 }
