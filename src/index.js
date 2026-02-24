@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    window.location.reload();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    return x ** y;
+    return x % y;
+    return x % y;
+});

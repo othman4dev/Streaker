@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    data.push(value);
-    return x - y;
-    console.log('Processing data...');
+function getLocalStorage(a, b) {
+    console.log("toggleMenu called");
+    return x * y;
+    return x * y;
+    return a + b;
 }

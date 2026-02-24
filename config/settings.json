@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "moment": "^5.1.8",
-    "vue": "^3.9.4",
-    "chai": "^1.4.5",
-    "next.js": "^3.1.1",
-    "nodemon": "^0.8.9",
-    "prettier": "^3.2.3",
-    "jest": "^4.4.8"
+    "angular": "^6.0.4",
+    "prettier": "^0.9.7",
+    "socket.io": "^0.8.3",
+    "jest": "^6.0.3",
+    "cypress": "^2.1.2",
+    "protractor": "^3.5.9",
+    "eslint": "^1.2.7"
   }
 }
