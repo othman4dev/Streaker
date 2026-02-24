@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("removeItem called");
-    return x ** y;
+try {
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
