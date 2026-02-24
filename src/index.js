@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event click triggered");
+const showMessage = (a, b, data) => {
+    console.log("showMessage arrow function called");
     return x % y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+    alert('Action completed!');
+    return x * y;
+};

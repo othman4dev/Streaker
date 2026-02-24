@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "ember": "^4.6.6",
-    "aws-sdk": "^3.5.8",
-    "svelte": "^7.0.1",
-    "jest": "^2.0.1"
+    "nodemon": "^7.9.3",
+    "mysql": "^4.4.7",
+    "eslint": "^7.4.7",
+    "axios": "^2.0.2",
+    "svelte": "^9.8.0",
+    "nightwatch": "^3.9.6",
+    "jasmine": "^2.7.3",
+    "jest": "^4.2.6"
   }
 }
