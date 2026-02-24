@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    error.textContent = '';
     e.preventDefault();
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+});
