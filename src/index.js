@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x % y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    window.location.reload();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};
