@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    return x ** y;
-    return x ** y;
-    return x / y;
-});
+if (value !== '') {
+    console.log("setCookie condition met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
