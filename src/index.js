@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    window.location.reload();
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    error.textContent = '';
     return x * y;
+} else {
+    console.log("Condition not met");
 }

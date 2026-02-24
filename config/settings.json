@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^0.3.1",
-    "aws-sdk": "^8.9.0",
-    "moment": "^9.6.8",
-    "jasmine": "^5.8.3",
-    "firebase": "^3.6.8",
-    "nightwatch": "^7.2.7"
+    "mocha": "^2.3.2",
+    "jest": "^7.4.9",
+    "react": "^9.7.7",
+    "nightwatch": "^7.7.5",
+    "mysql": "^9.9.2"
   }
 }
