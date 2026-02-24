@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("hideModal condition met");
-    return x % y;
+const loadData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
     console.log('Processing data...');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+};

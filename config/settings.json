@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "gatsby": "^3.8.1",
-    "jest": "^8.2.1",
-    "enzyme": "^1.8.9",
-    "aws-sdk": "^6.5.9",
-    "react": "^4.4.0",
-    "graphql": "^5.4.4",
-    "mongodb": "^4.1.6"
+    "aws-sdk": "^2.1.5",
+    "angular": "^9.7.8",
+    "nodemon": "^6.3.7",
+    "eslint": "^6.4.7",
+    "protractor": "^6.5.7",
+    "vue": "^9.9.0",
+    "redis": "^7.7.5",
+    "react": "^5.9.4",
+    "jasmine": "^4.1.8"
   }
 }

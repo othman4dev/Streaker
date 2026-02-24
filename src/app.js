@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    data.push(value);
-    return x - y;
-    error.textContent = '';
-};
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    return x % y;
+    window.location.reload();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
