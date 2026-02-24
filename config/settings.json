@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "angular": "^6.0.4",
-    "prettier": "^0.9.7",
-    "socket.io": "^0.8.3",
-    "jest": "^6.0.3",
-    "cypress": "^2.1.2",
-    "protractor": "^3.5.9",
-    "eslint": "^1.2.7"
+    "redis": "^3.9.1",
+    "nodemon": "^0.8.5",
+    "nightwatch": "^6.6.5",
+    "svelte": "^2.5.5",
+    "jest": "^4.3.7",
+    "karma": "^5.3.9",
+    "eslint": "^6.2.0"
   }
 }

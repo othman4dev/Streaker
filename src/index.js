@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    return x ** y;
-    return x % y;
-    return x % y;
-});
+try {
+    alert('Action completed!');
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

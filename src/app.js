@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x - y;
-    return x - y;
-    return x - y;
-});
+function fetchData(a, b) {
+    console.log("fetchData called");
+    return x * y;
+    e.preventDefault();
+    return x ** y;
+}
