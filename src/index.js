@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x / y;
+if (a > b) {
+    console.log("removeItem condition met");
+    return x - y;
     el.classList.add('active');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

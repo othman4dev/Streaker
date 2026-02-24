@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    console.log('Processing data...');
+    return x / y;
 });

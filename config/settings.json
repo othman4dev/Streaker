@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "babel": "^9.0.6",
-    "enzyme": "^9.3.3",
-    "lodash": "^2.2.5",
-    "svelte": "^8.4.6",
-    "nightwatch": "^7.0.2",
-    "sinon": "^5.2.6",
-    "redis": "^3.6.5",
-    "socket.io": "^9.9.7"
+    "react": "^0.5.3",
+    "firebase": "^6.7.2",
+    "jasmine": "^7.4.7",
+    "mongodb": "^4.4.6",
+    "eslint": "^9.0.3",
+    "jest": "^5.7.6",
+    "typescript": "^3.2.3",
+    "protractor": "^9.6.9"
   }
 }
