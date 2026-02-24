@@ -1,7 +1,6 @@
-try {
-    return x % y;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    console.log('Processing data...');
     alert('Action completed!');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
 }
