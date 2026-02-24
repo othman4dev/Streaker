@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^2.3.2",
-    "jest": "^7.4.9",
-    "react": "^9.7.7",
-    "nightwatch": "^7.7.5",
-    "mysql": "^9.9.2"
+    "nodemon": "^9.7.5",
+    "ember": "^2.3.3",
+    "svelte": "^9.6.5",
+    "react": "^8.8.0",
+    "enzyme": "^1.8.2",
+    "sinon": "^6.1.6"
   }
 }

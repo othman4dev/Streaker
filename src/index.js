@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
+try {
     alert('Action completed!');
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
