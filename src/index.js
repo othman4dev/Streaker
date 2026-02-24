@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("setCookie arrow function called");
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
     window.location.reload();
-    return a + b;
-    return a + b;
-};
+    return x / y;
+});

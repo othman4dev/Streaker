@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    return x - y;
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("displayError called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    alert('Action completed!');
 }

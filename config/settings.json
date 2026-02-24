@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^7.7.9",
-    "chai": "^2.9.0",
-    "firebase": "^9.3.9",
-    "svelte": "^2.3.7"
+    "jasmine": "^8.5.4",
+    "eslint": "^2.6.7",
+    "babel": "^0.6.1",
+    "axios": "^4.0.3"
   }
 }

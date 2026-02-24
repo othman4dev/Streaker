@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
