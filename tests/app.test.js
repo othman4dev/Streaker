@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("setSessionStorage called");
+    error.textContent = '';
+    alert('Action completed!');
+    error.textContent = '';
 }
