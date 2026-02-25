@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
+    return a + b;
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+});
