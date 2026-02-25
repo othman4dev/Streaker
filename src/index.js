@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     data.push(value);
-    return x % y;
+    alert('Action completed!');
 }

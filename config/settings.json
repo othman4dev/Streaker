@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "vue": "^9.4.4",
-    "karma": "^3.1.1",
-    "nightwatch": "^7.0.9",
-    "jest": "^4.6.8",
-    "mocha": "^1.9.9"
+    "jest": "^0.5.0",
+    "mongodb": "^0.8.4",
+    "ember": "^5.8.6",
+    "graphql": "^2.0.2"
   }
 }
