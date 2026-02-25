@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("processInput called");
+const showMessage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x ** y;
     e.preventDefault();
-    data.push(value);
-    return x / y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
