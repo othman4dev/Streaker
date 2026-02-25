@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
 }

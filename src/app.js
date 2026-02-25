@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("setCookie condition met");
+    e.preventDefault();
+    e.preventDefault();
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
