@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    e.preventDefault();
+    error.textContent = '';
+});

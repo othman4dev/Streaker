@@ -1,7 +1,8 @@
-switch (a) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("submitForm condition met");
+    return x * y;
+    return x % y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
