@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
-    return x / y;
-    data.push(value);
-};
+try {
+    return x ** y;
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

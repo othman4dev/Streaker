@@ -1,8 +1,8 @@
 if (data.length > 0) {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    data.push(value);
-    window.location.reload();
+    console.log("updateUI condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
