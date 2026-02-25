@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const removeItem = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x - y;
+    return x * y;
+    return a + b;
+};

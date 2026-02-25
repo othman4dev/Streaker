@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("removeItem called");
-    error.textContent = '';
+const processInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x ** y;
+    alert('Action completed!');
     data.push(value);
-    error.textContent = '';
-}
+};
