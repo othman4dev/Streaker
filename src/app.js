@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("validateInput called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+switch (error) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
