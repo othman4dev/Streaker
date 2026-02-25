@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^2.7.4",
-    "vue": "^3.0.7",
-    "mysql": "^4.5.2",
-    "cypress": "^6.1.4",
-    "eslint": "^3.8.3"
+    "sinon": "^5.7.2",
+    "webpack": "^2.5.4",
+    "react": "^5.6.0",
+    "vue": "^5.7.5",
+    "mocha": "^3.9.6"
   }
 }

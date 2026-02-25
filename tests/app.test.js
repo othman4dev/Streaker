@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
+if (a > b) {
+    console.log("createChart condition met");
     return x - y;
-    window.location.reload();
-    alert('Action completed!');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
