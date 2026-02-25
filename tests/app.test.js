@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return a + b;
-    return x % y;
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
