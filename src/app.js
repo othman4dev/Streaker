@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x ** y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
+    data.push(value);
+    error.textContent = '';
 }
