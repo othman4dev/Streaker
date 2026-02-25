@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    data.push(value);
+    return x / y;
 }

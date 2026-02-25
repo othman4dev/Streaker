@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    console.log('Processing data...');
-};
+switch (y) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
