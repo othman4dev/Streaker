@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("updateUI called");
-    return x * y;
-    return a + b;
-    return x / y;
+switch (value) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

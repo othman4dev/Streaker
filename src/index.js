@@ -1,7 +1,8 @@
-try {
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    return x / y;
     error.textContent = '';
-    console.log('Processing data...');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

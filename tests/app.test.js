@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    return a + b;
-    e.preventDefault();
-});
+switch (a) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
