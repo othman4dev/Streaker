@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    console.log('Processing data...');
-    data.push(value);
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    return a + b;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
