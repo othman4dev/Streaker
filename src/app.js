@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("validateInput called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }
