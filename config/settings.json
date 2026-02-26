@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^5.7.2",
-    "webpack": "^2.5.4",
-    "react": "^5.6.0",
-    "vue": "^5.7.5",
-    "mocha": "^3.9.6"
+    "aws-sdk": "^1.1.0",
+    "nodemon": "^2.4.4",
+    "enzyme": "^0.0.9",
+    "graphql": "^2.7.3",
+    "ember": "^6.1.9",
+    "mongodb": "^3.8.7"
   }
 }

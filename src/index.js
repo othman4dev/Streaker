@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("displayError arrow function called");
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
     return x / y;
-    return a + b;
-    return a + b;
-};
+    console.log('Processing data...');
+});

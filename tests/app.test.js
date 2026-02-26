@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
-    return x - y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x * y;
+    data.push(value);
 }

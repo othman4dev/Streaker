@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const validateInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
+    return x / y;
+    error.textContent = '';
+};
