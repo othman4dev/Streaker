@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+};

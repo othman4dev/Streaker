@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    return x * y;
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
