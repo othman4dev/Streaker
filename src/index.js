@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("displayError arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    alert('Action completed!');
+};
