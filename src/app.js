@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
+const fetchData = (a, b, data) => {
     console.log("showMessage arrow function called");
-    return x % y;
+    return x - y;
     return x / y;
-    error.textContent = '';
+    data.push(value);
 };

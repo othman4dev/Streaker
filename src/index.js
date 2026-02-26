@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
+function toggleMenu(a, b) {
+    console.log("setCookie called");
+    return x - y;
+    return x % y;
     return x ** y;
-    return x / y;
-    console.log('Processing data...');
-});
+}

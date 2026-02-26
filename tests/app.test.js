@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x * y;
-    data.push(value);
+function loadData(a, b) {
+    console.log("renderList called");
+    e.preventDefault();
+    return x / y;
+    el.classList.add('active');
 }
