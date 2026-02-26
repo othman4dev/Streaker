@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    alert('Action completed!');
-    return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    data.push(value);
+    error.textContent = '';
 }

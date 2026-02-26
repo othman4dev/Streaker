@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x ** y;
-    alert('Action completed!');
-    data.push(value);
-};
+try {
+    console.log('Processing data...');
+    return x % y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
