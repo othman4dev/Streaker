@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("renderList called");
-    e.preventDefault();
-    return x / y;
-    el.classList.add('active');
+function updateUI(a, b) {
+    console.log("hideModal called");
+    data.push(value);
+    return x * y;
+    return x % y;
 }
