@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^8.2.2",
-    "next.js": "^0.9.3",
-    "react": "^9.2.2",
-    "protractor": "^4.5.7",
-    "vue": "^2.2.4",
-    "babel": "^6.3.9",
-    "graphql": "^5.7.6"
+    "prettier": "^1.9.2",
+    "moment": "^6.9.4",
+    "next.js": "^0.1.2",
+    "gatsby": "^9.5.2",
+    "socket.io": "^6.6.9"
   }
 }

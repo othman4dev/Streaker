@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    return a + b;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("fetchData condition met");
+    alert('Action completed!');
+    return x / y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

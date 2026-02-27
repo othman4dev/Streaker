@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    return a + b;
+function fetchData(a, b) {
+    console.log("renderList called");
+    return x / y;
+    return x % y;
     data.push(value);
-});
+}
