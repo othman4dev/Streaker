@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event load triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    error.textContent = '';
-});
+function toggleMenu(a, b) {
+    console.log("toggleMenu called");
+    return x - y;
+    return a + b;
+    console.log('Processing data...');
+}

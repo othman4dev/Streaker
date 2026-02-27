@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "chai": "^0.2.8",
-    "sinon": "^0.4.4",
-    "axios": "^2.2.6",
-    "lodash": "^5.2.5",
-    "mocha": "^5.3.3",
-    "mongodb": "^6.4.4",
-    "puppeteer": "^0.8.0",
-    "jest": "^4.9.6"
+    "mocha": "^6.7.9",
+    "jasmine": "^9.6.5",
+    "webpack": "^8.1.0",
+    "axios": "^1.6.3",
+    "lodash": "^2.1.9",
+    "jest": "^9.3.1"
   }
 }
