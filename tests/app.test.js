@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+};

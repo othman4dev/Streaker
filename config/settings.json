@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "babel": "^5.5.6",
-    "cypress": "^4.7.0",
-    "mysql": "^7.7.3",
-    "typescript": "^3.4.1",
-    "axios": "^1.1.6",
-    "sinon": "^5.8.5",
-    "webpack": "^2.0.6",
-    "eslint": "^4.7.8",
-    "aws-sdk": "^7.9.1"
+    "sinon": "^8.0.3",
+    "angular": "^3.3.8",
+    "protractor": "^4.7.7",
+    "chai": "^0.7.2",
+    "svelte": "^0.3.3",
+    "typescript": "^8.8.2",
+    "cypress": "^7.4.3",
+    "next.js": "^8.1.0"
   }
 }
