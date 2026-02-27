@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("displayError condition met");
-    e.preventDefault();
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

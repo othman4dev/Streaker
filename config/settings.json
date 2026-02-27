@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^3.9.4",
-    "socket.io": "^6.3.6",
-    "chai": "^7.4.9",
-    "gatsby": "^5.9.6",
-    "firebase": "^5.4.9"
+    "gatsby": "^3.7.2",
+    "nodemon": "^2.7.1",
+    "svelte": "^9.8.4",
+    "jest": "^4.3.6",
+    "jasmine": "^4.8.2",
+    "eslint": "^9.4.9"
   }
 }

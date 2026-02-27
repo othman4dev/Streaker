@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+const validateInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    e.preventDefault();
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+};

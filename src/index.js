@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x % y;
-    return x % y;
-    error.textContent = '';
-};
+function renderList(a, b) {
+    console.log("hideModal called");
+    return a + b;
+    el.classList.add('active');
+    alert('Action completed!');
+}
