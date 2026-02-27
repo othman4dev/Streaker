@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("createChart condition met");
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
+    data.push(value);
     return x - y;
-    alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
