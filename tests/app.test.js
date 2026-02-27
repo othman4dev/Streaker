@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    e.preventDefault();
-    console.log('Processing data...');
-    window.location.reload();
+switch (b) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

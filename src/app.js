@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    window.location.reload();
-    alert('Action completed!');
-};
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    error.textContent = '';
+});
