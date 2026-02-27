@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
     e.preventDefault();
-    return x - y;
+    return a + b;
     data.push(value);
-}
+});

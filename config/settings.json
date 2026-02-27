@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^8.0.3",
-    "angular": "^3.3.8",
-    "protractor": "^4.7.7",
-    "chai": "^0.7.2",
-    "svelte": "^0.3.3",
-    "typescript": "^8.8.2",
-    "cypress": "^7.4.3",
-    "next.js": "^8.1.0"
+    "mysql": "^8.2.2",
+    "next.js": "^0.9.3",
+    "react": "^9.2.2",
+    "protractor": "^4.5.7",
+    "vue": "^2.2.4",
+    "babel": "^6.3.9",
+    "graphql": "^5.7.6"
   }
 }

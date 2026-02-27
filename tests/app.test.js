@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    data.push(value);
+    return a + b;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
