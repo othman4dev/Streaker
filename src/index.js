@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("removeItem called");
+    el.classList.add('active');
+    return x - y;
+    return a + b;
 }
