@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    e.preventDefault();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+const fetchData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
+    return x % y;
+    error.textContent = '';
+};

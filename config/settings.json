@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^6.7.9",
-    "jasmine": "^9.6.5",
-    "webpack": "^8.1.0",
-    "axios": "^1.6.3",
-    "lodash": "^2.1.9",
-    "jest": "^9.3.1"
+    "jest": "^3.9.4",
+    "socket.io": "^6.3.6",
+    "chai": "^7.4.9",
+    "gatsby": "^5.9.6",
+    "firebase": "^5.4.9"
   }
 }

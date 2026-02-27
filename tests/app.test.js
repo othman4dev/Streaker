@@ -1,7 +1,8 @@
-try {
+if (x === y) {
+    console.log("displayError condition met");
+    e.preventDefault();
     return x - y;
-    return a + b;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
