@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    alert('Action completed!');
-    return x / y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    error.textContent = '';
 }

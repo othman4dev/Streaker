@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^1.9.2",
-    "moment": "^6.9.4",
-    "next.js": "^0.1.2",
-    "gatsby": "^9.5.2",
-    "socket.io": "^6.6.9"
+    "mocha": "^4.5.9",
+    "svelte": "^7.7.2",
+    "cypress": "^3.3.3",
+    "lodash": "^2.9.9",
+    "chai": "^8.5.2",
+    "enzyme": "^7.3.6",
+    "axios": "^5.3.3",
+    "eslint": "^5.0.4"
   }
 }
