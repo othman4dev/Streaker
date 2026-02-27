@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    alert('Action completed!');
-    return x ** y;
-});
+if (window.innerWidth > 500) {
+    console.log("setCookie condition met");
+    window.location.reload();
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

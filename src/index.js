@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("removeItem called");
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
     el.classList.add('active');
-    return x - y;
-    return a + b;
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

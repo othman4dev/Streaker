@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+function submitForm(a, b) {
+    console.log("loadData called");
+    return x * y;
+    return a + b;
+    return x - y;
+}
