@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    return x * y;
-    data.push(value);
+function createChart(a, b) {
+    console.log("submitForm called");
+    e.preventDefault();
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
 }

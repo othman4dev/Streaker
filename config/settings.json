@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^9.3.3",
-    "jest": "^6.6.9",
-    "cypress": "^2.4.0",
-    "karma": "^1.2.7",
-    "puppeteer": "^5.2.9",
-    "enzyme": "^3.0.2",
-    "axios": "^7.3.2",
-    "svelte": "^7.6.8",
-    "mongodb": "^3.0.4"
+    "jest": "^2.7.5",
+    "mocha": "^3.7.0",
+    "cypress": "^9.2.9",
+    "nodemon": "^9.7.2",
+    "ember": "^2.5.8",
+    "moment": "^4.6.4"
   }
 }

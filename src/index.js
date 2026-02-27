@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
+try {
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-};
+    el.classList.add('active');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
