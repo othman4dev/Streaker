@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("showMessage called");
+    window.location.reload();
+    alert('Action completed!');
+    data.push(value);
 }

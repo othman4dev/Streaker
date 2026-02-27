@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event load triggered");
-    console.log('Processing data...');
-    return a + b;
-    return x % y;
-});
+function getLocalStorage(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    alert('Action completed!');
+    return x / y;
+}

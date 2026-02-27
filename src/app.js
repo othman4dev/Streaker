@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    data.push(value);
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    return x ** y;
     window.location.reload();
-    window.location.reload();
-};
+    el.classList.add('active');
+});

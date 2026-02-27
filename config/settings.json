@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "sinon": "^2.6.5",
-    "svelte": "^4.8.7",
-    "jasmine": "^7.1.8",
-    "karma": "^3.8.7",
-    "next.js": "^1.3.5",
-    "gatsby": "^4.8.5",
-    "jest": "^4.6.8"
+    "vue": "^8.6.8",
+    "aws-sdk": "^5.2.0",
+    "ember": "^8.8.0",
+    "nodemon": "^6.9.8"
   }
 }
