@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^7.2.1",
-    "gatsby": "^9.3.7",
-    "jest": "^7.1.3",
-    "socket.io": "^6.2.7",
-    "prettier": "^9.8.0"
+    "gatsby": "^7.6.9",
+    "nodemon": "^4.1.0",
+    "cypress": "^2.6.7",
+    "graphql": "^6.3.3",
+    "svelte": "^8.0.2",
+    "prettier": "^3.9.9",
+    "sinon": "^2.4.3"
   }
 }

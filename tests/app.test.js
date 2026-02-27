@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return x % y;
+try {
+    data.push(value);
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
