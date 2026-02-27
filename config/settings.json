@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^4.0.8",
-    "aws-sdk": "^5.1.5",
-    "moment": "^0.5.2",
-    "mongodb": "^6.1.1",
-    "cypress": "^7.0.6",
-    "typescript": "^7.7.1",
-    "puppeteer": "^7.9.0",
-    "karma": "^1.9.1"
+    "jest": "^4.8.4",
+    "chai": "^9.9.0",
+    "graphql": "^9.2.7",
+    "nightwatch": "^5.4.2",
+    "mongodb": "^5.8.4",
+    "axios": "^8.3.3",
+    "angular": "^4.2.9"
   }
 }

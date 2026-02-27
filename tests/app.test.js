@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    return x * y;
-    el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
+function removeItem(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    console.log('Processing data...');
+    window.location.reload();
 }

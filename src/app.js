@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("formatDate called");
+const setSessionStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x / y;
     window.location.reload();
     alert('Action completed!');
-    return x % y;
-}
+};
