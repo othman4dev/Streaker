@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
+    alert('Action completed!');
+    return x % y;
 }
