@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    console.log('Processing data...');
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

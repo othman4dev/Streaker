@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+const formatDate = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x / y;
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+};
