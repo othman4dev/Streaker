@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "vue": "^8.6.8",
-    "aws-sdk": "^5.2.0",
-    "ember": "^8.8.0",
-    "nodemon": "^6.9.8"
+    "prettier": "^6.0.9",
+    "socket.io": "^4.6.4",
+    "moment": "^6.3.0",
+    "axios": "^2.3.9",
+    "babel": "^1.6.1",
+    "typescript": "^0.9.8",
+    "mysql": "^1.6.2",
+    "firebase": "^3.2.1"
   }
 }

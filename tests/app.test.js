@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("showMessage called");
+try {
     window.location.reload();
-    alert('Action completed!');
     data.push(value);
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
