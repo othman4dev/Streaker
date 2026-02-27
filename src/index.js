@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("hideModal called");
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
     return a + b;
-    el.classList.add('active');
-    alert('Action completed!');
-}
+    return x % y;
+});
