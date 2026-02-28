@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "redis": "^3.9.1",
-    "gatsby": "^3.5.5",
-    "puppeteer": "^6.2.0",
-    "mongodb": "^8.2.1",
-    "graphql": "^0.7.4",
-    "angular": "^7.2.0",
-    "jest": "^0.5.4"
+    "graphql": "^4.8.9",
+    "enzyme": "^8.7.2",
+    "svelte": "^6.3.1",
+    "angular": "^3.0.8",
+    "protractor": "^7.3.2",
+    "vue": "^2.4.5",
+    "firebase": "^7.8.1"
   }
 }

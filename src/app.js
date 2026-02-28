@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    return x - y;
-};
+try {
+    alert('Action completed!');
+    data.push(value);
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

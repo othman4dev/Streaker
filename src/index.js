@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-}
+const updateUI = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    return x - y;
+    return x % y;
+};

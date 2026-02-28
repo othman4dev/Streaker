@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x * y;
-};
+function fetchData(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    data.push(value);
+    return x ** y;
+}
