@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x * y;
-    data.push(value);
-    alert('Action completed!');
-};
+switch (e) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

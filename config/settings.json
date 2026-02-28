@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^4.7.7",
-    "ember": "^8.6.9",
-    "axios": "^2.9.6",
-    "express": "^5.4.2",
-    "angular": "^3.3.8",
-    "sinon": "^1.2.1",
-    "nightwatch": "^8.2.3",
-    "lodash": "^7.4.3",
-    "svelte": "^9.2.5"
+    "jasmine": "^1.2.8",
+    "chai": "^5.2.1",
+    "puppeteer": "^3.4.0",
+    "angular": "^8.6.9",
+    "svelte": "^8.9.9"
   }
 }

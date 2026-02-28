@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    data.push(value);
-    el.classList.add('active');
-    e.preventDefault();
-});
+function createChart(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    alert('Action completed!');
+    return a + b;
+}
