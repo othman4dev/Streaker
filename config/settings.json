@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^9.3.7",
-    "jasmine": "^6.4.6",
-    "puppeteer": "^7.7.4",
-    "redis": "^5.9.6",
-    "angular": "^3.9.6"
+    "karma": "^3.4.0",
+    "prettier": "^9.6.9",
+    "svelte": "^7.4.3",
+    "chai": "^6.3.0",
+    "react": "^8.6.1"
   }
 }

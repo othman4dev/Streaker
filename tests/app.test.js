@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
+if (x !== y) {
+    console.log("hideModal condition met");
+    alert('Action completed!');
     console.log('Processing data...');
-    return x % y;
-};
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
