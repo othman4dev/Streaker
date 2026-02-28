@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    e.preventDefault();
-    return x / y;
+const toggleMenu = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    window.location.reload();
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+};

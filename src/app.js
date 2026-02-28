@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("formatDate called");
-    e.preventDefault();
-    return x * y;
-    return x * y;
+switch (error) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
