@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^5.7.1",
-    "prettier": "^3.9.4",
-    "express": "^5.0.6",
-    "redis": "^7.4.0",
-    "typescript": "^6.0.9",
-    "gatsby": "^5.3.8",
-    "mysql": "^9.8.6",
-    "puppeteer": "^8.0.7",
-    "react": "^9.5.5"
+    "jest": "^9.2.9",
+    "puppeteer": "^8.5.1",
+    "eslint": "^5.2.6",
+    "mocha": "^0.4.5",
+    "next.js": "^1.8.5",
+    "socket.io": "^3.0.7"
   }
 }

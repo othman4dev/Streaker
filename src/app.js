@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("removeItem arrow function called");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-    el.classList.add('active');
-    return x * y;
-};
+    return x ** y;
+}

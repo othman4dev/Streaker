@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
+function animateElement(a, b) {
+    console.log("createChart called");
+    data.push(value);
     error.textContent = '';
-    e.preventDefault();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }
