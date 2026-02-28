@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^4.8.9",
-    "enzyme": "^8.7.2",
-    "svelte": "^6.3.1",
-    "angular": "^3.0.8",
-    "protractor": "^7.3.2",
-    "vue": "^2.4.5",
-    "firebase": "^7.8.1"
+    "eslint": "^2.9.7",
+    "jest": "^5.0.0",
+    "cypress": "^3.0.3",
+    "sinon": "^3.7.3"
   }
 }

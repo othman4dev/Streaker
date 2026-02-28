@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    return x - y;
-    return x % y;
-};
+if (a > b) {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
