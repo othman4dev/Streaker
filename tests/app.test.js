@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    alert('Action completed!');
+const checkStatus = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     console.log('Processing data...');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x * y;
+};

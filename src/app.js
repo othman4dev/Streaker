@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    e.preventDefault();
-    alert('Action completed!');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    return x % y;
+    return x - y;
+};
