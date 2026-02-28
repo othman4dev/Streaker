@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+const getLocalStorage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
+    data.push(value);
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};
