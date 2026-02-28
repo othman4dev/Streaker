@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("renderList called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return a + b;
+try {
+    return x / y;
+    return x ** y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

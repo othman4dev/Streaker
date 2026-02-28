@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x / y;
+    el.classList.add('active');
+    return x * y;
+};

@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    error.textContent = '';
+    e.preventDefault();
     alert('Action completed!');
-    return x ** y;
+} else {
+    console.log("Condition not met");
 }

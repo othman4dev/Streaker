@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^1.2.8",
-    "chai": "^5.2.1",
-    "puppeteer": "^3.4.0",
-    "angular": "^8.6.9",
-    "svelte": "^8.9.9"
+    "mocha": "^5.7.1",
+    "prettier": "^3.9.4",
+    "express": "^5.0.6",
+    "redis": "^7.4.0",
+    "typescript": "^6.0.9",
+    "gatsby": "^5.3.8",
+    "mysql": "^9.8.6",
+    "puppeteer": "^8.0.7",
+    "react": "^9.5.5"
   }
 }
