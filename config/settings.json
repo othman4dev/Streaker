@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^9.8.5",
-    "mocha": "^8.6.2",
-    "next.js": "^1.5.4",
-    "eslint": "^8.0.1",
-    "axios": "^7.1.5"
+    "babel": "^8.8.5",
+    "moment": "^3.0.9",
+    "chai": "^6.8.3",
+    "nightwatch": "^9.4.3",
+    "jest": "^0.3.7",
+    "mocha": "^0.5.3",
+    "lodash": "^6.7.6"
   }
 }

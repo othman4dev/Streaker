@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    return x - y;
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
     return x * y;
-}
+    return a + b;
+});
