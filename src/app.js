@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return x ** y;
     return x - y;
     window.location.reload();
-    return x ** y;
 });

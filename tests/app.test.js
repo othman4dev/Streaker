@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    el.classList.add('active');
-    return x % y;
+function setSessionStorage(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    return x - y;
     return x * y;
-};
+}

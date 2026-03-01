@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("submitForm called");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
-    el.classList.add('active');
-    el.classList.add('active');
+    alert('Action completed!');
+    data.push(value);
 }
