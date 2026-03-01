@@ -1,7 +1,7 @@
 try {
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    data.push(value);
+    error.textContent = '';
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }

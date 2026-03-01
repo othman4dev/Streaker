@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "express": "^8.7.7",
-    "babel": "^9.2.9",
-    "gatsby": "^4.2.8",
-    "axios": "^9.6.4",
-    "karma": "^8.2.0",
-    "mysql": "^7.1.8",
-    "jasmine": "^1.1.6"
+    "aws-sdk": "^0.1.5",
+    "express": "^9.0.8",
+    "vue": "^2.0.3",
+    "eslint": "^8.6.4",
+    "mongodb": "^7.6.0",
+    "next.js": "^3.4.3",
+    "prettier": "^5.0.0",
+    "ember": "^3.3.7",
+    "socket.io": "^2.4.7"
   }
 }
