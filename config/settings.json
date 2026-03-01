@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^2.9.7",
-    "jest": "^5.0.0",
-    "cypress": "^3.0.3",
-    "sinon": "^3.7.3"
+    "angular": "^6.8.5",
+    "ember": "^0.7.6",
+    "eslint": "^6.9.2",
+    "sinon": "^4.7.1",
+    "mongodb": "^0.1.1",
+    "graphql": "^9.2.4"
   }
 }

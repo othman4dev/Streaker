@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    alert('Action completed!');
-    error.textContent = '';
+function renderList(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
+    window.location.reload();
+    return x / y;
 }

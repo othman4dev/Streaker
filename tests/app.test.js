@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    return x ** y;
-    alert('Action completed!');
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+}
