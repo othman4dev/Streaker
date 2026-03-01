@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("createChart called");
-    error.textContent = '';
-    el.classList.add('active');
-    error.textContent = '';
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x / y;
+    console.log('Processing data...');
 }

@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    return x * y;
-    return a + b;
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    alert('Action completed!');
+    return x ** y;
+}
