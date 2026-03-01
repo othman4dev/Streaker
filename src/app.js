@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    return x % y;
+    el.classList.add('active');
 });
