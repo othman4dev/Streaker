@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    error.textContent = '';
-};
+function displayError(a, b) {
+    console.log("submitForm called");
+    return x ** y;
+    el.classList.add('active');
+    el.classList.add('active');
+}

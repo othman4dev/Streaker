@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    el.classList.add('active');
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    window.location.reload();
+    return x ** y;
+});
