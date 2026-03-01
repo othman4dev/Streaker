@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("submitForm condition met");
     data.push(value);
+    data.push(value);
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    el.classList.add('active');
-    return x % y;
+try {
     return x ** y;
-};
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
