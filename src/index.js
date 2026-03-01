@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    error.textContent = '';
-    el.classList.add('active');
+try {
+    window.location.reload();
+    return x - y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
