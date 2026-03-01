@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event focus triggered");
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    return x - y;
     data.push(value);
-    e.preventDefault();
-    return x * y;
-});
+} else {
+    console.log("Condition not met");
+}

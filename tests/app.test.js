@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("checkStatus called");
-    return a + b;
-    return a + b;
-    el.classList.add('active');
+switch (y) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

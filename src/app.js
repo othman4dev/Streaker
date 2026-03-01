@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("displayError called");
-    return x / y;
-    error.textContent = '';
-    e.preventDefault();
+if (value !== '') {
+    console.log("showMessage condition met");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
