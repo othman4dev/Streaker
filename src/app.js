@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    return x % y;
-    el.classList.add('active');
-});
+const showMessage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    return x / y;
+    return a + b;
+};

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^8.4.3",
-    "svelte": "^6.4.1",
-    "gatsby": "^2.7.8",
-    "jasmine": "^1.8.0",
-    "typescript": "^5.3.9",
-    "lodash": "^9.6.9"
+    "gatsby": "^2.4.9",
+    "moment": "^8.4.1",
+    "nightwatch": "^7.7.8",
+    "protractor": "^6.7.2",
+    "prettier": "^9.3.3"
   }
 }
