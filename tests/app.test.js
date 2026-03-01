@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("submitForm called");
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    el.classList.add('active');
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-}
+    return x ** y;
+};

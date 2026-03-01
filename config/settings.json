@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^0.5.7",
-    "jest": "^9.8.1",
-    "axios": "^0.8.1",
-    "webpack": "^0.2.1",
-    "babel": "^9.8.2",
-    "mysql": "^2.9.9"
+    "nodemon": "^3.9.0",
+    "typescript": "^0.7.4",
+    "karma": "^2.9.7",
+    "chai": "^7.8.8",
+    "axios": "^3.9.4",
+    "react": "^2.8.3"
   }
 }

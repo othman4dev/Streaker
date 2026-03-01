@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    e.preventDefault();
-    error.textContent = '';
-    data.push(value);
-};
+function setCookie(a, b) {
+    console.log("loadData called");
+    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
+}
