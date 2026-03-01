@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x / y;
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
     console.log('Processing data...');
-}
+});

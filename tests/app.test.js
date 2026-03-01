@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    alert('Action completed!');
-    return x ** y;
+if (a > b) {
+    console.log("toggleMenu condition met");
+    return x % y;
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
