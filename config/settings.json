@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^0.2.9",
-    "nightwatch": "^1.4.9",
-    "vue": "^7.3.6",
-    "svelte": "^4.9.1",
-    "eslint": "^9.1.0"
+    "express": "^2.8.6",
+    "graphql": "^0.5.3",
+    "webpack": "^7.5.1",
+    "vue": "^4.5.1",
+    "enzyme": "^5.7.3"
   }
 }

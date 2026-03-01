@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    alert('Action completed!');
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
     return x / y;
-}
+    return x / y;
+    console.log('Processing data...');
+});

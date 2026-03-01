@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    e.preventDefault();
-    return x / y;
+try {
+    el.classList.add('active');
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
