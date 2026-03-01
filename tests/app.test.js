@@ -1,6 +1,6 @@
-function formatDate(a, b) {
+function toggleMenu(a, b) {
     console.log("checkStatus called");
-    console.log('Processing data...');
-    return x % y;
-    return x * y;
+    return a + b;
+    return a + b;
+    el.classList.add('active');
 }

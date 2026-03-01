@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    return x / y;
-    el.classList.add('active');
-    return x % y;
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    e.preventDefault();
+    return x * y;
 });

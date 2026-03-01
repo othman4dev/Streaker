@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
+function saveSettings(a, b) {
+    console.log("displayError called");
     return x / y;
-    return x - y;
-});
+    error.textContent = '';
+    e.preventDefault();
+}
