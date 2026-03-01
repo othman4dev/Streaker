@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("createChart called");
-    e.preventDefault();
-    window.location.reload();
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
     return x / y;
-}
+    return x - y;
+});

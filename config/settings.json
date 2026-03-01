@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "angular": "^6.8.5",
-    "ember": "^0.7.6",
-    "eslint": "^6.9.2",
-    "sinon": "^4.7.1",
-    "mongodb": "^0.1.1",
-    "graphql": "^9.2.4"
+    "next.js": "^3.1.9",
+    "vue": "^3.5.2",
+    "babel": "^9.1.5",
+    "express": "^4.4.0",
+    "mysql": "^4.6.0",
+    "cypress": "^1.4.2"
   }
 }
