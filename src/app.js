@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    return x / y;
-    return a + b;
-};
+if (x !== y) {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

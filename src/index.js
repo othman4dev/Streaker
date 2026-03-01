@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    window.location.reload();
-    error.textContent = '';
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    e.preventDefault();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
