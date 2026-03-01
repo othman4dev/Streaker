@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
+function fetchData(a, b) {
+    console.log("handleClick called");
     return x - y;
-    return x - y;
+    el.classList.add('active');
     data.push(value);
-} else {
-    console.log("Condition not met");
 }
