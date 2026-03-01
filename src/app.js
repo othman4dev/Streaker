@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("formatDate called");
+    alert('Action completed!');
+    data.push(value);
+    el.classList.add('active');
 }

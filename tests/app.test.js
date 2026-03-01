@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    return a + b;
-    console.log('Processing data...');
-});
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    window.location.reload();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

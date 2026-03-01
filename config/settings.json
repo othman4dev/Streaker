@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^0.1.5",
-    "express": "^9.0.8",
-    "vue": "^2.0.3",
-    "eslint": "^8.6.4",
-    "mongodb": "^7.6.0",
-    "next.js": "^3.4.3",
-    "prettier": "^5.0.0",
-    "ember": "^3.3.7",
-    "socket.io": "^2.4.7"
+    "chai": "^3.2.7",
+    "prettier": "^7.3.4",
+    "puppeteer": "^9.8.3",
+    "aws-sdk": "^4.4.8",
+    "jest": "^1.4.1",
+    "gatsby": "^6.1.8",
+    "protractor": "^7.4.0",
+    "mongodb": "^8.2.8"
   }
 }
