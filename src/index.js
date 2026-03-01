@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
-    return x - y;
-    el.classList.add('active');
-    data.push(value);
-}
+const checkStatus = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    e.preventDefault();
+    error.textContent = '';
+};
