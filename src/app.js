@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("submitForm called");
-    data.push(value);
-    alert('Action completed!');
-    window.location.reload();
+switch (y) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
