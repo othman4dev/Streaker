@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    e.preventDefault();
+    el.classList.add('active');
 }
