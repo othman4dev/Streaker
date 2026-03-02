@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "express": "^5.9.3",
-    "vue": "^9.2.5",
-    "typescript": "^8.0.3",
-    "sinon": "^1.1.7"
+    "react": "^2.9.3",
+    "protractor": "^2.6.3",
+    "mongodb": "^7.2.8",
+    "mocha": "^5.0.0",
+    "moment": "^1.1.4",
+    "nodemon": "^6.6.3"
   }
 }
