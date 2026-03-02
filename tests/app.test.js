@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    e.preventDefault();
-});
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    return a + b;
+    el.classList.add('active');
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

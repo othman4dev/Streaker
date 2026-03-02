@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const fetchData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    e.preventDefault();
+};
