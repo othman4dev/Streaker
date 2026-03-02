@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "firebase": "^1.4.7",
-    "graphql": "^2.5.1",
-    "eslint": "^1.1.7",
-    "chai": "^6.3.7",
-    "moment": "^3.2.3",
-    "jest": "^4.5.2",
-    "jasmine": "^5.2.7",
-    "protractor": "^0.8.1"
+    "protractor": "^9.2.2",
+    "graphql": "^8.9.8",
+    "angular": "^2.0.9",
+    "typescript": "^1.7.9"
   }
 }

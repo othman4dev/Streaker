@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("loadData arrow function called");
+function removeItem(a, b) {
+    console.log("submitForm called");
     data.push(value);
-    e.preventDefault();
+    alert('Action completed!');
     window.location.reload();
-};
+}
