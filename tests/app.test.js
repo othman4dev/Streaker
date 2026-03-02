@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    return x ** y;
-    error.textContent = '';
-    return x ** y;
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    return a + b;
+    alert('Action completed!');
+}

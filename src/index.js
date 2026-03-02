@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("renderList called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    window.location.reload();
+try {
+    return x * y;
+    return x / y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

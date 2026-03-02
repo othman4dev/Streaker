@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
+const removeItem = (a, b, data) => {
+    console.log("loadData arrow function called");
     e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};
