@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    return x - y;
+function showMessage(a, b) {
+    console.log("createChart called");
+    data.push(value);
+    el.classList.add('active');
     return x * y;
-} else {
-    console.log("Condition not met");
 }

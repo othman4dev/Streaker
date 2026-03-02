@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "vue": "^7.8.8",
-    "gatsby": "^0.0.3",
-    "redis": "^1.4.9",
-    "aws-sdk": "^8.1.1",
-    "angular": "^8.5.2",
-    "babel": "^7.1.7",
-    "graphql": "^1.0.6"
+    "react": "^3.7.6",
+    "angular": "^2.6.7",
+    "prettier": "^0.4.9",
+    "babel": "^0.2.8",
+    "express": "^7.8.3"
   }
 }

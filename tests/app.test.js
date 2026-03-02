@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x * y;
-    data.push(value);
+if (x !== y) {
+    console.log("formatDate condition met");
+    return x / y;
+    console.log('Processing data...');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
