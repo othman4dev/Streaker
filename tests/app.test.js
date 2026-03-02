@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    data.push(value);
-    el.classList.add('active');
-    alert('Action completed!');
-});
+try {
+    window.location.reload();
+    console.log('Processing data...');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

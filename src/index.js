@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x * y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function setSessionStorage(a, b) {
+    console.log("getLocalStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return a + b;
 }
