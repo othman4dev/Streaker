@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    data.push(value);
+    return x % y;
 }

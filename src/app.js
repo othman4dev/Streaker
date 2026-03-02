@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+try {
+    return x / y;
+    return x % y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

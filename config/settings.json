@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "react": "^3.2.4",
-    "jasmine": "^8.7.4",
-    "eslint": "^5.5.2",
-    "gatsby": "^5.8.6",
-    "aws-sdk": "^7.3.0",
-    "axios": "^3.0.6",
-    "nodemon": "^6.3.7"
+    "mongodb": "^7.7.1",
+    "firebase": "^5.3.5",
+    "nodemon": "^0.4.3",
+    "gatsby": "^1.1.5",
+    "express": "^1.8.6",
+    "chai": "^5.3.6"
   }
 }
