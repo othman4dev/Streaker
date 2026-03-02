@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    alert('Action completed!');
-    e.preventDefault();
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    data.push(value);
+    return x ** y;
+    return x % y;
 };

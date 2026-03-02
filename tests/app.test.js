@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    window.location.reload();
-    return x - y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+    e.preventDefault();
 }

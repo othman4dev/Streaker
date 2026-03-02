@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+const createChart = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
+    error.textContent = '';
     data.push(value);
-    alert('Action completed!');
-}
+};
