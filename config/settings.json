@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "react": "^3.7.6",
-    "angular": "^2.6.7",
-    "prettier": "^0.4.9",
-    "babel": "^0.2.8",
-    "express": "^7.8.3"
+    "jest": "^0.1.8",
+    "lodash": "^9.5.1",
+    "typescript": "^3.4.6",
+    "mongodb": "^9.6.0"
   }
 }

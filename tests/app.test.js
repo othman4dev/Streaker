@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    return x / y;
-    console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x ** y;
+    error.textContent = '';
+    return x ** y;
+});

@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    el.classList.add('active');
-    return x * y;
+function checkStatus(a, b) {
+    console.log("renderList called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    window.location.reload();
 }
