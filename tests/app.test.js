@@ -1,7 +1,6 @@
-try {
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+});

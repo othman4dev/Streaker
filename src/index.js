@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    window.location.reload();
-    console.log('Processing data...');
-    return x - y;
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return x * y;
+    error.textContent = '';
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
