@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
     e.preventDefault();
-    el.classList.add('active');
+    return x - y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

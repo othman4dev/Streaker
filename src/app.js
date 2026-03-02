@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    error.textContent = '';
-    return a + b;
-}
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    return x % y;
+    window.location.reload();
+});
