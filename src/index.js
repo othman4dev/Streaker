@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    alert('Action completed!');
-    return a + b;
-});
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    el.classList.add('active');
+    data.push(value);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x / y;
-    window.location.reload();
+const formatDate = (a, b, data) => {
+    console.log("loadData arrow function called");
+    data.push(value);
     e.preventDefault();
+    window.location.reload();
 };

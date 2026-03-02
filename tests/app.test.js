@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
+if (value !== '') {
+    console.log("removeItem condition met");
     return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

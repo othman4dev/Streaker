@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^8.3.7",
-    "graphql": "^2.5.3",
-    "gatsby": "^5.8.4",
-    "angular": "^4.2.6"
+    "firebase": "^1.4.7",
+    "graphql": "^2.5.1",
+    "eslint": "^1.1.7",
+    "chai": "^6.3.7",
+    "moment": "^3.2.3",
+    "jest": "^4.5.2",
+    "jasmine": "^5.2.7",
+    "protractor": "^0.8.1"
   }
 }
