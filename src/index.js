@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("showMessage called");
-    return x - y;
-    data.push(value);
-    return x % y;
+if (value !== '') {
+    console.log("removeItem condition met");
+    return x * y;
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

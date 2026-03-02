@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    window.location.reload();
-    return a + b;
-    return x % y;
+const removeItem = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    return x ** y;
 };

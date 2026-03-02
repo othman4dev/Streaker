@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^7.7.1",
-    "firebase": "^5.3.5",
-    "nodemon": "^0.4.3",
-    "gatsby": "^1.1.5",
-    "express": "^1.8.6",
-    "chai": "^5.3.6"
+    "mocha": "^5.1.4",
+    "redis": "^2.1.4",
+    "webpack": "^3.8.6",
+    "enzyme": "^3.9.5",
+    "lodash": "^8.2.6"
   }
 }
