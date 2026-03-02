@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     data.push(value);
-    return x / y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
 }

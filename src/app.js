@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("loadData arrow function called");
-    data.push(value);
-    return x % y;
-    return x ** y;
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    alert('Action completed!');
+    e.preventDefault();
 };
