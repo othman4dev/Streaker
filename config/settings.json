@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^0.3.3",
-    "socket.io": "^9.8.8",
-    "firebase": "^3.4.5",
-    "cypress": "^7.7.3",
-    "karma": "^3.7.4",
-    "mysql": "^1.7.2",
-    "moment": "^9.0.4"
+    "vue": "^2.4.4",
+    "aws-sdk": "^2.2.8",
+    "cypress": "^7.1.9",
+    "next.js": "^2.9.2",
+    "babel": "^7.8.0",
+    "angular": "^0.4.6",
+    "moment": "^9.1.3"
   }
 }

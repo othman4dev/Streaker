@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    return x - y;
-    return x * y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return a + b;
+});

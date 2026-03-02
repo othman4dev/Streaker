@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("checkStatus called");
+function saveSettings(a, b) {
+    console.log("fetchData called");
     e.preventDefault();
+    return a + b;
     alert('Action completed!');
-    return x - y;
 }
