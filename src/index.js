@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    data.push(value);
-    data.push(value);
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-} else {
-    console.log("Condition not met");
+    return x / y;
+    alert('Action completed!');
 }

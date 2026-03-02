@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    window.location.reload();
+    data.push(value);
+});
