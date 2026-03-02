@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    console.log('Processing data...');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function loadData(a, b) {
+    console.log("hideModal called");
+    return x * y;
+    alert('Action completed!');
+    return x * y;
 }

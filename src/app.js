@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event load triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    window.location.reload();
-});
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
+    data.push(value);
+    return x % y;
+    return x ** y;
+};
