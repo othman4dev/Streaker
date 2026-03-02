@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("displayError condition met");
-    window.location.reload();
-    return a + b;
-    data.push(value);
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    error.textContent = '';
+    console.log('Processing data...');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

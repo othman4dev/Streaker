@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
-    el.classList.add('active');
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x / y;
+    return x / y;
     window.location.reload();
-    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
