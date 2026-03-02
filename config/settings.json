@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "chai": "^3.2.7",
-    "prettier": "^7.3.4",
-    "puppeteer": "^9.8.3",
-    "aws-sdk": "^4.4.8",
-    "jest": "^1.4.1",
-    "gatsby": "^6.1.8",
-    "protractor": "^7.4.0",
-    "mongodb": "^8.2.8"
+    "jest": "^3.9.8",
+    "webpack": "^3.7.2",
+    "react": "^7.8.4",
+    "chai": "^5.7.0",
+    "babel": "^0.5.9",
+    "gatsby": "^5.2.6"
   }
 }

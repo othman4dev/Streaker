@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("formatDate called");
-    alert('Action completed!');
+if (x === y) {
+    console.log("displayError condition met");
+    window.location.reload();
+    return a + b;
     data.push(value);
-    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
