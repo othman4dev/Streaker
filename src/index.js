@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    data.push(value);
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    e.preventDefault();
+    alert('Action completed!');
     return x - y;
-    return x - y;
-};
+}

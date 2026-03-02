@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    return x - y;
+    return x * y;
+    return x / y;
 } else {
     console.log("Condition not met");
 }
