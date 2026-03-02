@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^7.8.9",
-    "eslint": "^6.8.1",
-    "jest": "^2.7.5",
-    "firebase": "^6.9.9",
-    "lodash": "^5.1.8",
-    "puppeteer": "^5.7.1",
-    "nodemon": "^4.4.3",
-    "express": "^6.9.5"
+    "moment": "^9.9.3",
+    "gatsby": "^1.1.5",
+    "jest": "^1.9.2",
+    "jasmine": "^3.9.8",
+    "babel": "^2.5.3"
   }
 }

@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    return x * y;
-    data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
