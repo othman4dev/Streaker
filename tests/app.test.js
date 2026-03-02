@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    console.log('Processing data...');
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    el.classList.add('active');
     alert('Action completed!');
-    return a + b;
 });
