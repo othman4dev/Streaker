@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "redis": "^2.6.0",
-    "svelte": "^2.1.8",
-    "typescript": "^0.9.4",
-    "chai": "^0.0.9",
-    "ember": "^2.4.9",
-    "jasmine": "^2.6.5"
+    "babel": "^7.6.2",
+    "jest": "^7.6.9",
+    "enzyme": "^7.9.2",
+    "puppeteer": "^0.0.5",
+    "lodash": "^4.5.1",
+    "nodemon": "^2.1.8",
+    "mocha": "^5.3.6",
+    "webpack": "^2.7.1"
   }
 }
