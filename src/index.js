@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    return x ** y;
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    alert('Action completed!');
     return a + b;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+});
