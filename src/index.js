@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    return x * y;
-    error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("saveSettings called");
+    return x % y;
+    el.classList.add('active');
+    return x / y;
 }

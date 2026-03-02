@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    return a + b;
+    return a + b;
+});

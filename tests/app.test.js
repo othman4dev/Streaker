@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+switch (x) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

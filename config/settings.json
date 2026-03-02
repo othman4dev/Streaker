@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^2.0.8",
-    "puppeteer": "^4.7.7",
-    "mocha": "^9.5.1",
-    "jasmine": "^0.7.4",
-    "babel": "^0.7.6"
+    "express": "^5.9.3",
+    "vue": "^9.2.5",
+    "typescript": "^8.0.3",
+    "sinon": "^1.1.7"
   }
 }
