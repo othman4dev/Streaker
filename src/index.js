@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("fetchData called");
-    e.preventDefault();
-    return a + b;
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    window.location.reload();
+    console.log('Processing data...');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
