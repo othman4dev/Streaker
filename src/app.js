@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    alert('Action completed!');
-}
+const displayError = (a, b, data) => {
+    console.log("renderList arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    error.textContent = '';
+};
