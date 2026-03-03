@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x ** y;
-    return x * y;
-    data.push(value);
-};
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+});

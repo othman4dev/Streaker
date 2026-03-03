@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^4.7.9",
-    "nightwatch": "^6.5.3",
-    "lodash": "^1.9.4",
-    "redis": "^5.3.5",
-    "next.js": "^3.0.8",
-    "moment": "^5.3.6",
-    "svelte": "^4.8.9"
+    "jasmine": "^4.1.4",
+    "graphql": "^7.4.9",
+    "cypress": "^0.0.6",
+    "chai": "^9.8.7",
+    "socket.io": "^1.9.5",
+    "puppeteer": "^2.0.4",
+    "svelte": "^3.5.3",
+    "moment": "^0.8.4"
   }
 }
