@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-};
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    el.classList.add('active');
+    return x * y;
+}
