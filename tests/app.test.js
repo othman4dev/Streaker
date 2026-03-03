@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    el.classList.add('active');
     e.preventDefault();
-    return a + b;
-});
+}
