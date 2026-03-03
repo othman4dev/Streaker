@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "react": "^0.9.3",
-    "protractor": "^5.0.4",
-    "svelte": "^8.9.7",
-    "puppeteer": "^9.2.2",
-    "aws-sdk": "^1.5.0",
-    "babel": "^9.3.4",
-    "moment": "^5.2.1"
+    "cypress": "^0.3.2",
+    "webpack": "^3.3.7",
+    "protractor": "^1.7.0",
+    "nodemon": "^6.2.0",
+    "babel": "^2.9.4"
   }
 }

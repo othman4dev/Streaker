@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
+try {
     return x * y;
-    error.textContent = '';
-    return x ** y;
-};
+    alert('Action completed!');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
