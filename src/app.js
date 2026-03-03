@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
-    return x * y;
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x % y;
+    return x % y;
 }

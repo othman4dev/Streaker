@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("submitForm condition met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     return x - y;
-    error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
 }

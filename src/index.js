@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-});
+const loadData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
+    return x % y;
+    e.preventDefault();
+};
