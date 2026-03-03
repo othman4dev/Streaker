@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("removeItem called");
-    return x * y;
-    return x ** y;
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    data.push(value);
+    return x - y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

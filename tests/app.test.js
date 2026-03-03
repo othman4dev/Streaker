@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    return a + b;
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
+    return x * y;
+    console.log('Processing data...');
+});

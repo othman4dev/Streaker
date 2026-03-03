@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "angular": "^6.5.0",
-    "svelte": "^9.1.1",
-    "jasmine": "^4.6.0",
-    "protractor": "^0.8.2",
-    "firebase": "^2.6.3",
-    "webpack": "^6.2.4",
-    "puppeteer": "^4.5.4"
+    "redis": "^9.2.2",
+    "react": "^4.2.3",
+    "firebase": "^3.0.6",
+    "chai": "^3.2.2",
+    "sinon": "^2.8.6"
   }
 }
