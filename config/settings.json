@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^6.7.7",
-    "jasmine": "^7.8.1",
-    "protractor": "^7.4.4",
-    "angular": "^7.9.6",
-    "next.js": "^4.8.0"
+    "vue": "^7.4.8",
+    "mysql": "^9.5.2",
+    "enzyme": "^6.3.5",
+    "karma": "^9.2.7",
+    "next.js": "^0.8.4",
+    "socket.io": "^2.4.9",
+    "sinon": "^4.5.3",
+    "moment": "^1.5.9"
   }
 }

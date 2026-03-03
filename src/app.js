@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    alert('Action completed!');
+    window.location.reload();
+});

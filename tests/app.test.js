@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event input triggered");
+function fetchData(a, b) {
+    console.log("loadData called");
+    return x - y;
+    data.push(value);
     return x * y;
-    return x ** y;
-    window.location.reload();
-});
+}

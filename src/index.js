@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+try {
     return x ** y;
-    return x * y;
-    return x % y;
-};
+    return x - y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
