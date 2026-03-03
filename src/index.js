@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
+if (a > b) {
+    console.log("setCookie condition met");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    e.preventDefault();
-};
+} else {
+    console.log("Condition not met");
+}
