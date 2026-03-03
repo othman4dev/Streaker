@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^9.1.9",
-    "lodash": "^4.7.8",
-    "babel": "^6.1.8",
-    "enzyme": "^2.4.1",
-    "next.js": "^5.2.7"
+    "nightwatch": "^9.5.0",
+    "babel": "^0.3.6",
+    "angular": "^3.3.1",
+    "mocha": "^9.1.6",
+    "graphql": "^5.8.1",
+    "nodemon": "^4.8.1"
   }
 }
