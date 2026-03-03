@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    return x ** y;
-    window.location.reload();
-});
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return x * y;
+    return x / y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
