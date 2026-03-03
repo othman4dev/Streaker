@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    alert('Action completed!');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

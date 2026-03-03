@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^0.3.2",
-    "webpack": "^3.3.7",
-    "protractor": "^1.7.0",
-    "nodemon": "^6.2.0",
-    "babel": "^2.9.4"
+    "express": "^9.9.9",
+    "sinon": "^9.9.9",
+    "next.js": "^2.1.6",
+    "vue": "^8.4.3",
+    "webpack": "^4.5.5",
+    "socket.io": "^1.1.9"
   }
 }
