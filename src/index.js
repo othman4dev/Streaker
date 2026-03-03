@@ -1,6 +1,6 @@
 const setSessionStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
+    console.log("processInput arrow function called");
     return x * y;
-    return x % y;
+    error.textContent = '';
     return x ** y;
 };

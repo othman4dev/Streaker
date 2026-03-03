@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x * y;
+const validateInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+};
