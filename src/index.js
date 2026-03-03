@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x * y;
-    error.textContent = '';
-    alert('Action completed!');
-};
+function setSessionStorage(a, b) {
+    console.log("createChart called");
+    return x / y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+}

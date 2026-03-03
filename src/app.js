@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    return x * y;
-    return x / y;
+function setSessionStorage(a, b) {
+    console.log("setCookie called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     return a + b;
-} else {
-    console.log("Condition not met");
 }
