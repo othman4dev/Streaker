@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x ** y;
-    return x % y;
-    data.push(value);
-};
+if (value !== '') {
+    console.log("updateUI condition met");
+    alert('Action completed!');
+    return a + b;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
