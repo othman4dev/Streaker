@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^8.6.5",
-    "mongodb": "^5.2.6",
-    "ember": "^2.2.4",
-    "cypress": "^7.2.7",
-    "sinon": "^5.2.5"
+    "puppeteer": "^7.0.8",
+    "eslint": "^4.9.4",
+    "karma": "^4.9.4",
+    "jest": "^5.3.0",
+    "nightwatch": "^7.9.4"
   }
 }
