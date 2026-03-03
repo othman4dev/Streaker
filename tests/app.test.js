@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    alert('Action completed!');
+    error.textContent = '';
+};

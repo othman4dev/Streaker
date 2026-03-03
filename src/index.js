@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    return x / y;
+if (x === y) {
+    console.log("renderList condition met");
     return x ** y;
+    return x % y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
