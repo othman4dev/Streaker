@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    error.textContent = '';
-};
+switch (error) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    data.push(value);
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    e.preventDefault();
+    return a + b;
+});

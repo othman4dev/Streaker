@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^9.6.7",
-    "lodash": "^1.5.2",
-    "prettier": "^8.3.2",
-    "express": "^3.6.4",
-    "jasmine": "^0.3.5",
-    "angular": "^8.8.5",
-    "jest": "^7.5.3"
+    "prettier": "^3.8.0",
+    "react": "^4.2.8",
+    "karma": "^1.9.3",
+    "socket.io": "^5.7.0",
+    "sinon": "^6.2.9",
+    "nodemon": "^7.9.5"
   }
 }
