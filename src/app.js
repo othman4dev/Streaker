@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    data.push(value);
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
+    el.classList.add('active');
     error.textContent = '';
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

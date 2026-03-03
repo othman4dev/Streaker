@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "redis": "^9.2.2",
-    "react": "^4.2.3",
-    "firebase": "^3.0.6",
-    "chai": "^3.2.2",
-    "sinon": "^2.8.6"
+    "cypress": "^6.7.7",
+    "jasmine": "^7.8.1",
+    "protractor": "^7.4.4",
+    "angular": "^7.9.6",
+    "next.js": "^4.8.0"
   }
 }

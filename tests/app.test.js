@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event input triggered");
     return x * y;
-    console.log('Processing data...');
+    return x ** y;
+    window.location.reload();
 });
