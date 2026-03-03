@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "express": "^9.9.9",
-    "sinon": "^9.9.9",
-    "next.js": "^2.1.6",
-    "vue": "^8.4.3",
-    "webpack": "^4.5.5",
-    "socket.io": "^1.1.9"
+    "jest": "^0.1.0",
+    "graphql": "^0.8.0",
+    "nightwatch": "^1.8.9",
+    "next.js": "^4.9.2",
+    "protractor": "^5.8.2",
+    "socket.io": "^1.2.2"
   }
 }

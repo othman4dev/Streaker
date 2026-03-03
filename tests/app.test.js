@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    window.location.reload();
-    window.location.reload();
-    error.textContent = '';
-};
+switch (value) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

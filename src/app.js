@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("hideModal called");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    alert('Action completed!');
-    console.log('Processing data...');
+    return x ** y;
+    return x * y;
 }

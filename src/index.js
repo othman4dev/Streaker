@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    return x / y;
+    return x ** y;
 }
