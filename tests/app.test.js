@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("fetchData arrow function called");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    alert('Action completed!');
-    error.textContent = '';
-};
+    e.preventDefault();
+    window.location.reload();
+}

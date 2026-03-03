@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "firebase": "^9.7.1",
-    "svelte": "^8.2.0",
-    "nodemon": "^7.1.8",
-    "enzyme": "^0.6.6",
-    "mysql": "^4.4.8",
-    "eslint": "^5.1.4",
-    "mocha": "^9.0.4"
+    "webpack": "^0.0.6",
+    "nodemon": "^7.4.8",
+    "redis": "^1.1.0",
+    "vue": "^6.1.3"
   }
 }

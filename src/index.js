@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("renderList condition met");
+try {
     return x ** y;
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return x * y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
