@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    data.push(value);
-    alert('Action completed!');
-    window.location.reload();
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    el.classList.add('active');
+    e.preventDefault();
+}

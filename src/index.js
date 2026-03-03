@@ -1,7 +1,6 @@
-try {
+const checkStatus = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x ** y;
-    return x - y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    data.push(value);
+};

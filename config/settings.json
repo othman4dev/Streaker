@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "vue": "^7.4.8",
-    "mysql": "^9.5.2",
-    "enzyme": "^6.3.5",
-    "karma": "^9.2.7",
-    "next.js": "^0.8.4",
-    "socket.io": "^2.4.9",
-    "sinon": "^4.5.3",
-    "moment": "^1.5.9"
+    "protractor": "^4.7.9",
+    "nightwatch": "^6.5.3",
+    "lodash": "^1.9.4",
+    "redis": "^5.3.5",
+    "next.js": "^3.0.8",
+    "moment": "^5.3.6",
+    "svelte": "^4.8.9"
   }
 }

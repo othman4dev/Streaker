@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("loadData called");
-    return x - y;
-    data.push(value);
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event load triggered");
     return x * y;
-}
+    return x - y;
+    error.textContent = '';
+});
