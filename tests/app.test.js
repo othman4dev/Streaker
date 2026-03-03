@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
     console.log('Processing data...');
-});
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

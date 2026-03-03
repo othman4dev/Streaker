@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("setCookie called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return a + b;
+function updateUI(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    return x - y;
+    return x * y;
 }
