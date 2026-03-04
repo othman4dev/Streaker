@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    return x ** y;
-    el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

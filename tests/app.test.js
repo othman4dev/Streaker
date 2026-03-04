@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    return x ** y;
-    console.log('Processing data...');
+const renderList = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    return x - y;
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};
