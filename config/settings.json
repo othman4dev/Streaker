@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.3.1",
-    "enzyme": "^8.4.5",
-    "next.js": "^2.0.3",
-    "angular": "^8.8.4",
-    "cypress": "^8.4.9"
+    "svelte": "^8.5.8",
+    "sinon": "^1.6.8",
+    "axios": "^7.3.7",
+    "mocha": "^3.5.8",
+    "express": "^6.2.1",
+    "mongodb": "^9.7.1"
   }
 }

@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    return x - y;
-    return x * y;
-}
+const displayError = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x / y;
+    data.push(value);
+    return x ** y;
+};
