@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    e.preventDefault();
-    e.preventDefault();
-});
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+}

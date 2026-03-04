@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("saveSettings condition met");
-    el.classList.add('active');
-    window.location.reload();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    return x ** y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
