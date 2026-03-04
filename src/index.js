@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x ** y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
+    el.classList.add('active');
+    window.location.reload();
 }
