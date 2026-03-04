@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^8.5.8",
-    "sinon": "^1.6.8",
-    "axios": "^7.3.7",
-    "mocha": "^3.5.8",
-    "express": "^6.2.1",
-    "mongodb": "^9.7.1"
+    "jasmine": "^6.0.9",
+    "protractor": "^5.8.3",
+    "sinon": "^5.9.8",
+    "nightwatch": "^5.9.4",
+    "jest": "^0.0.2",
+    "gatsby": "^5.5.7"
   }
 }
