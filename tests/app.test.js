@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+if (x !== y) {
+    console.log("submitForm condition met");
+    return x ** y;
+    console.log('Processing data...');
     alert('Action completed!');
-    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

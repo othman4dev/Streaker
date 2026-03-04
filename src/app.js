@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("saveSettings called");
-    return x / y;
-    data.push(value);
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("createChart condition met");
+    return x ** y;
+    el.classList.add('active');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

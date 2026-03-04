@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setCookie condition met");
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event load triggered");
+    return x * y;
+    return a + b;
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+});
