@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
-    return x ** y;
-    return x % y;
-    alert('Action completed!');
-}
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x - y;
+    console.log('Processing data...');
+    return a + b;
+});

@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^7.0.2",
-    "karma": "^2.4.9",
-    "redis": "^1.1.1",
-    "eslint": "^1.0.6",
-    "nightwatch": "^7.0.7",
-    "mongodb": "^1.7.8"
+    "nightwatch": "^6.8.3",
+    "vue": "^9.2.7",
+    "firebase": "^2.4.0",
+    "puppeteer": "^0.6.3",
+    "nodemon": "^3.3.6",
+    "svelte": "^2.5.0",
+    "prettier": "^0.5.8"
   }
 }
