@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event load triggered");
-    return x - y;
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event click triggered");
     return a + b;
+    console.log('Processing data...');
+    error.textContent = '';
 });

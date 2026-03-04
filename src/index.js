@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    return x % y;
-};
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    return x / y;
+    e.preventDefault();
+    return x * y;
+});

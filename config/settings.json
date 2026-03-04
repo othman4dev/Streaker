@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^6.8.3",
-    "vue": "^9.2.7",
-    "firebase": "^2.4.0",
-    "puppeteer": "^0.6.3",
-    "nodemon": "^3.3.6",
-    "svelte": "^2.5.0",
-    "prettier": "^0.5.8"
+    "moment": "^5.1.8",
+    "babel": "^9.4.5",
+    "svelte": "^5.3.1",
+    "jest": "^7.9.6",
+    "angular": "^1.6.6"
   }
 }
