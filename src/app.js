@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return a + b;
+function setCookie(a, b) {
+    console.log("updateUI called");
+    return x ** y;
     return x % y;
-    return x - y;
-};
+    alert('Action completed!');
+}

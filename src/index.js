@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    e.preventDefault();
-};
+switch (e) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

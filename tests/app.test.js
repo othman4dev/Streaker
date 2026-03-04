@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
-    error.textContent = '';
-    window.location.reload();
-    alert('Action completed!');
-}
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
+    return x * y;
+    console.log('Processing data...');
+});
