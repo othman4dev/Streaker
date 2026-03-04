@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return a + b;
+    return x % y;
+    return x - y;
+};
