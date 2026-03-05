@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x / y;
-    el.classList.add('active');
-    window.location.reload();
-};
+switch (e) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

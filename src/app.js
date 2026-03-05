@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    window.location.reload();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    return x * y;
+    return x % y;
+    error.textContent = '';
+});
