@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x * y;
+try {
+    e.preventDefault();
+    data.push(value);
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

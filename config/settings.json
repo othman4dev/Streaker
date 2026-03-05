@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^0.6.1",
-    "chai": "^9.4.4",
-    "prettier": "^5.5.4",
-    "eslint": "^4.8.7",
-    "nightwatch": "^1.4.7",
-    "graphql": "^9.3.7"
+    "cypress": "^8.0.4",
+    "babel": "^8.3.0",
+    "enzyme": "^6.4.1",
+    "mongodb": "^2.6.4",
+    "typescript": "^3.8.7"
   }
 }
