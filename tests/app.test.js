@@ -1,7 +1,6 @@
-try {
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event resize triggered");
     e.preventDefault();
-    data.push(value);
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    return x % y;
+});

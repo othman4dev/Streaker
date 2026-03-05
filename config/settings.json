@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^8.0.4",
-    "babel": "^8.3.0",
-    "enzyme": "^6.4.1",
-    "mongodb": "^2.6.4",
-    "typescript": "^3.8.7"
+    "jasmine": "^2.4.5",
+    "nightwatch": "^1.4.2",
+    "cypress": "^1.7.7",
+    "nodemon": "^3.8.5",
+    "redis": "^8.5.0",
+    "protractor": "^5.6.4",
+    "ember": "^3.7.1",
+    "angular": "^2.2.3"
   }
 }
