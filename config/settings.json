@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^4.7.3",
-    "chai": "^0.0.7",
-    "mocha": "^2.6.8",
-    "socket.io": "^4.2.9"
+    "lodash": "^7.8.7",
+    "mocha": "^4.6.6",
+    "sinon": "^8.8.6",
+    "nodemon": "^9.8.6",
+    "nightwatch": "^4.4.6",
+    "axios": "^6.5.9",
+    "express": "^9.7.1"
   }
 }

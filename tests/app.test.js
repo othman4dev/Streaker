@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return a + b;
+function submitForm(a, b) {
+    console.log("renderList called");
+    return x % y;
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    console.log('Processing data...');
+}
