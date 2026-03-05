@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^7.8.7",
-    "mocha": "^4.6.6",
-    "sinon": "^8.8.6",
-    "nodemon": "^9.8.6",
-    "nightwatch": "^4.4.6",
-    "axios": "^6.5.9",
-    "express": "^9.7.1"
+    "firebase": "^0.9.8",
+    "nightwatch": "^5.9.5",
+    "enzyme": "^8.5.6",
+    "moment": "^3.6.2",
+    "nodemon": "^1.3.8"
   }
 }

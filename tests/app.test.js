@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("renderList called");
-    return x % y;
-    return x ** y;
-    console.log('Processing data...');
-}
+const fetchData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    el.classList.add('active');
+    window.location.reload();
+};

@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("updateUI called");
+const toggleMenu = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     console.log('Processing data...');
-    return a + b;
-    alert('Action completed!');
-}
+    return x % y;
+    e.preventDefault();
+};
