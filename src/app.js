@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("toggleMenu called");
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
     return x * y;
-    alert('Action completed!');
-}
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+});

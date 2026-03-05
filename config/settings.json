@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "mongodb": "^3.1.2",
-    "angular": "^7.6.6",
-    "mysql": "^4.7.6",
-    "ember": "^4.5.0"
+    "moment": "^4.1.9",
+    "jest": "^2.4.1",
+    "sinon": "^6.9.8",
+    "express": "^4.9.0",
+    "gatsby": "^6.5.5",
+    "karma": "^4.6.8",
+    "axios": "^3.2.7",
+    "nodemon": "^3.3.2",
+    "svelte": "^0.2.3"
   }
 }

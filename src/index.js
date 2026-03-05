@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
     return x % y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    el.classList.add('active');
+    return x - y;
+});
