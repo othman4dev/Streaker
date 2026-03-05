@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    alert('Action completed!');
-    window.location.reload();
+switch (y) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

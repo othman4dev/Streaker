@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^1.0.9",
-    "cypress": "^9.6.1",
-    "nodemon": "^9.4.9",
-    "angular": "^9.3.0",
-    "react": "^8.0.1",
-    "svelte": "^2.9.6",
-    "karma": "^2.2.2"
+    "socket.io": "^8.1.6",
+    "prettier": "^7.9.2",
+    "eslint": "^1.6.3",
+    "react": "^6.3.9",
+    "webpack": "^7.4.1"
   }
 }
