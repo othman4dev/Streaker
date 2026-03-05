@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    error.textContent = '';
-    return a + b;
+function formatDate(a, b) {
+    console.log("toggleMenu called");
+    console.log('Processing data...');
     return x * y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
 }
