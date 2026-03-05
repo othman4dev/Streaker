@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
+function saveSettings(a, b) {
     console.log("toggleMenu called");
-    e.preventDefault();
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    window.location.reload();
 }
