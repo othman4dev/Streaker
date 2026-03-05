@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    window.location.reload();
+const loadData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x ** y;
+    return x % y;
+    data.push(value);
 };
