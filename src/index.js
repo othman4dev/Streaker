@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    return a + b;
-    alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    e.preventDefault();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

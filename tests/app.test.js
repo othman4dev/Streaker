@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("renderList arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    window.location.reload();
+};
