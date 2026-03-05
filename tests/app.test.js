@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    return x * y;
+    e.preventDefault();
+};
