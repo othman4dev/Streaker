@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("submitForm called");
+    alert('Action completed!');
+    el.classList.add('active');
+    console.log('Processing data...');
 }

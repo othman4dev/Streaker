@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event resize triggered");
+function toggleMenu(a, b) {
+    console.log("toggleMenu called");
     e.preventDefault();
-    return x - y;
-    return x % y;
-});
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+}

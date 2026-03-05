@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^2.4.5",
-    "nightwatch": "^1.4.2",
-    "cypress": "^1.7.7",
-    "nodemon": "^3.8.5",
-    "redis": "^8.5.0",
-    "protractor": "^5.6.4",
-    "ember": "^3.7.1",
-    "angular": "^2.2.3"
+    "gatsby": "^6.8.3",
+    "redis": "^6.0.0",
+    "aws-sdk": "^2.3.9",
+    "puppeteer": "^8.9.0",
+    "mysql": "^7.4.8",
+    "jasmine": "^2.6.8",
+    "next.js": "^0.5.1",
+    "graphql": "^2.5.2"
   }
 }

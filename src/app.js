@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    return x / y;
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x ** y;
+    return x ** y;
+    console.log('Processing data...');
+};
