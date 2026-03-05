@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    return x ** y;
+const formatDate = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
     alert('Action completed!');
-    alert('Action completed!');
-});
+};
