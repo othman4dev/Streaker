@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     data.push(value);
-    alert('Action completed!');
-};
+    document.body.style.backgroundColor = 'lightblue';
+}
