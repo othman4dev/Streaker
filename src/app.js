@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    return x * y;
-    error.textContent = '';
+if (a > b) {
+    console.log("processInput condition met");
     document.body.style.backgroundColor = 'lightblue';
-});
+    console.log('Processing data...');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

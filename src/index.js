@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    return x % y;
-    el.classList.add('active');
-    return x - y;
-});
+function updateUI(a, b) {
+    console.log("loadData called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    data.push(value);
+}

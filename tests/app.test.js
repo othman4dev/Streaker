@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return a + b;
     return x ** y;
-    return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

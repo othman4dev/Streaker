@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "moment": "^4.1.9",
-    "jest": "^2.4.1",
-    "sinon": "^6.9.8",
-    "express": "^4.9.0",
-    "gatsby": "^6.5.5",
-    "karma": "^4.6.8",
-    "axios": "^3.2.7",
-    "nodemon": "^3.3.2",
-    "svelte": "^0.2.3"
+    "mongodb": "^4.7.3",
+    "chai": "^0.0.7",
+    "mocha": "^2.6.8",
+    "socket.io": "^4.2.9"
   }
 }
