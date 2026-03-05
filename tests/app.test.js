@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+function createChart(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x * y;
 }

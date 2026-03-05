@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x - y;
+function processInput(a, b) {
+    console.log("animateElement called");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    data.push(value);
 }
