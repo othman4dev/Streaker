@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "ember": "^0.6.2",
-    "chai": "^2.7.4",
-    "typescript": "^5.0.8",
-    "puppeteer": "^3.5.8",
-    "webpack": "^1.9.5",
-    "lodash": "^3.8.7",
-    "next.js": "^0.0.2"
+    "enzyme": "^6.7.5",
+    "jest": "^1.2.0",
+    "typescript": "^3.4.0",
+    "gatsby": "^3.3.9",
+    "ember": "^8.1.3"
   }
 }
