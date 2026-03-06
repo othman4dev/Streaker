@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
-    el.classList.add('active');
-    el.classList.add('active');
-    error.textContent = '';
-}
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    return x ** y;
+    return x ** y;
+});
