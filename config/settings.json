@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "axios": "^7.9.9",
-    "react": "^1.2.4",
-    "mysql": "^7.3.7",
-    "enzyme": "^8.9.6",
-    "firebase": "^2.1.0",
-    "vue": "^7.6.8",
-    "nodemon": "^4.1.6",
-    "ember": "^7.9.8"
+    "typescript": "^3.5.5",
+    "angular": "^3.8.1",
+    "enzyme": "^7.3.6",
+    "mongodb": "^8.3.9",
+    "gatsby": "^5.2.6",
+    "firebase": "^7.7.9"
   }
 }

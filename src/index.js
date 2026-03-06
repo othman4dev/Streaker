@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
+try {
     el.classList.add('active');
-    window.location.reload();
+    return x / y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

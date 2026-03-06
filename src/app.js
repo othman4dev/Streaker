@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return a + b;
+if (x === y) {
+    console.log("hideModal condition met");
+    data.push(value);
+    window.location.reload();
+    return x * y;
 } else {
     console.log("Condition not met");
 }

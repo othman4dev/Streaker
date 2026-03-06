@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x % y;
+    window.location.reload();
+    el.classList.add('active');
+};
