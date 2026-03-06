@@ -1,8 +1,8 @@
 if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    return x / y;
-    return a + b;
-    window.location.reload();
+    console.log("fetchData condition met");
+    e.preventDefault();
+    el.classList.add('active');
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

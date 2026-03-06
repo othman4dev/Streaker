@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("formatDate called");
+const validateInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    e.preventDefault();
+    return x ** y;
     console.log('Processing data...');
-    return x / y;
-    console.log('Processing data...');
-}
+};
