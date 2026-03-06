@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "redis": "^5.0.4",
-    "express": "^5.8.1",
-    "babel": "^5.8.9",
-    "vue": "^0.6.6",
-    "nightwatch": "^4.0.7",
-    "svelte": "^3.0.7"
+    "aws-sdk": "^5.5.5",
+    "lodash": "^3.8.8",
+    "angular": "^1.1.8",
+    "karma": "^2.3.8",
+    "ember": "^1.6.8",
+    "jest": "^0.0.5"
   }
 }

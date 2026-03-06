@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("updateUI called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x ** y;
 }
