@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    window.location.reload();
     return x % y;
+    error.textContent = '';
 });
