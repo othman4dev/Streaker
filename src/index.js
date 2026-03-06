@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x ** y;
+function hideModal(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
+    window.location.reload();
+    el.classList.add('active');
 }

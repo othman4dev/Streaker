@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return a + b;
+    return x * y;
     return x ** y;
-    data.push(value);
-    console.log('Processing data...');
-}
+});

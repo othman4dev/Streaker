@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    window.location.reload();
-    return a + b;
+if (x !== y) {
+    console.log("submitForm condition met");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
