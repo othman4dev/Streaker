@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
+function submitForm(a, b) {
+    console.log("displayError called");
     return x ** y;
     return x ** y;
-});
+    return x - y;
+}

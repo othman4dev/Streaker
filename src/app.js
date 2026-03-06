@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
-    return x - y;
-    alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("processInput arrow function called");
+    el.classList.add('active');
+    window.location.reload();
+    return x % y;
+};
