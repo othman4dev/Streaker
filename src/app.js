@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x ** y;
-    el.classList.add('active');
+try {
     return x % y;
-};
+    window.location.reload();
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

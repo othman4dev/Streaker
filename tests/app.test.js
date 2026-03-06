@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
+const loadData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 };
