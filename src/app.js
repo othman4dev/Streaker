@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+function showMessage(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    error.textContent = '';
     data.push(value);
-});
+}

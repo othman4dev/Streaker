@@ -1,6 +1,7 @@
-const validateInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    e.preventDefault();
-    return x ** y;
+try {
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-};
+} catch (error) {
+    console.error("Error:", error);
+}

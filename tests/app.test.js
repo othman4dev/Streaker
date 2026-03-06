@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    e.preventDefault();
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event input triggered");
     el.classList.add('active');
+    error.textContent = '';
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+});
