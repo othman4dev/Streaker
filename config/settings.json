@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^3.5.5",
-    "angular": "^3.8.1",
-    "enzyme": "^7.3.6",
-    "mongodb": "^8.3.9",
-    "gatsby": "^5.2.6",
-    "firebase": "^7.7.9"
+    "ember": "^8.7.2",
+    "nightwatch": "^0.3.1",
+    "mysql": "^2.3.6",
+    "chai": "^3.7.7",
+    "vue": "^4.7.0"
   }
 }

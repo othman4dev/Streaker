@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
-    data.push(value);
+const setSessionStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
     window.location.reload();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    window.location.reload();
+};

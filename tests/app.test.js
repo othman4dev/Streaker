@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-    window.location.reload();
-    el.classList.add('active');
-};
+    data.push(value);
+    error.textContent = '';
+}
