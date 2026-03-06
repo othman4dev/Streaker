@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    return x - y;
+function formatDate(a, b) {
+    console.log("formatDate called");
     return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+    window.location.reload();
 }

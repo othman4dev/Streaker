@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
-    console.log('Processing data...');
-    window.location.reload();
-};
+switch (value) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
