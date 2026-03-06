@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    return a + b;
-    return x * y;
-    return x ** y;
-});
+switch (a) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

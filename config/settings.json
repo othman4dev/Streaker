@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "babel": "^7.3.5",
-    "gatsby": "^8.1.9",
-    "aws-sdk": "^8.2.3",
-    "protractor": "^2.4.2",
-    "puppeteer": "^0.1.8",
-    "moment": "^9.6.5",
-    "sinon": "^3.4.8"
+    "moment": "^4.4.4",
+    "gatsby": "^4.5.8",
+    "mocha": "^1.2.8",
+    "svelte": "^6.8.4",
+    "express": "^6.2.9",
+    "angular": "^8.5.0",
+    "react": "^7.3.0",
+    "redis": "^0.2.4"
   }
 }

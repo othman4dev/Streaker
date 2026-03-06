@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("loadData called");
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
     e.preventDefault();
-    window.location.reload();
-    el.classList.add('active');
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

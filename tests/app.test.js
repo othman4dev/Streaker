@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    console.log('Processing data...');
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    alert('Action completed!');
+};
