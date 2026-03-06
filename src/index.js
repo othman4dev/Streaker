@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const loadData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    return x * y;
+};

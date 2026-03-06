@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event input triggered");
+const animateElement = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
     el.classList.add('active');
-    error.textContent = '';
-    el.classList.add('active');
-});
+    window.location.reload();
+};
