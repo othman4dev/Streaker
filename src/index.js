@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    e.preventDefault();
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+});
