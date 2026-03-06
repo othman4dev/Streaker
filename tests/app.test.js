@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x % y;
-    return x ** y;
-    error.textContent = '';
-};
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});

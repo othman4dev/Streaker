@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^2.1.2",
-    "svelte": "^5.9.7",
-    "next.js": "^1.7.2",
-    "mongodb": "^4.5.0",
-    "jasmine": "^6.7.6",
-    "cypress": "^6.9.9"
+    "enzyme": "^4.7.1",
+    "lodash": "^1.4.4",
+    "jasmine": "^2.8.0",
+    "angular": "^3.7.1",
+    "redis": "^3.9.1",
+    "moment": "^3.9.7",
+    "next.js": "^3.2.5",
+    "nodemon": "^6.2.2"
   }
 }
