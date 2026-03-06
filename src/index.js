@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    error.textContent = '';
-    alert('Action completed!');
-    return x * y;
-};
+try {
+    return x % y;
+    el.classList.add('active');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
