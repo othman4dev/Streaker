@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function loadData(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
+    return x / y;
+    console.log('Processing data...');
+}

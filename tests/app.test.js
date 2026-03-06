@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x ** y;
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    return x / y;
+    return a + b;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
