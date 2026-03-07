@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    window.location.reload();
-    alert('Action completed!');
+const createChart = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

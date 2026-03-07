@@ -1,7 +1,6 @@
-try {
+const displayError = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
+    return x * y;
     alert('Action completed!');
-    alert('Action completed!');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+};

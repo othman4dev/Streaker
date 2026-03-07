@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "react": "^2.3.9",
-    "eslint": "^0.6.9",
-    "nightwatch": "^7.4.6",
-    "graphql": "^0.9.0",
-    "mocha": "^8.0.0",
-    "typescript": "^9.9.6",
-    "jest": "^0.8.2"
+    "graphql": "^4.0.3",
+    "axios": "^3.1.4",
+    "mongodb": "^2.8.4",
+    "lodash": "^7.2.8",
+    "next.js": "^4.6.4",
+    "vue": "^7.4.7"
   }
 }
