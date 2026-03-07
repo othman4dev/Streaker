@@ -1,7 +1,8 @@
-switch (error) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    return x / y;
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
