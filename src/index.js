@@ -1,7 +1,6 @@
-try {
-    return x - y;
+function validateInput(a, b) {
+    console.log("animateElement called");
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    console.log('Processing data...');
 }

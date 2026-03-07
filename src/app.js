@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    error.textContent = '';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event change triggered");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+});
