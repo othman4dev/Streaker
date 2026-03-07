@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("checkStatus called");
-    return x * y;
-    alert('Action completed!');
-    el.classList.add('active');
+switch (value) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
