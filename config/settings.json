@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "puppeteer": "^1.7.1",
-    "react": "^1.5.9",
-    "sinon": "^9.0.6",
-    "nightwatch": "^7.6.8",
-    "socket.io": "^8.5.5",
-    "ember": "^1.7.6",
-    "moment": "^9.4.7",
-    "protractor": "^9.4.5"
+    "nodemon": "^0.3.8",
+    "express": "^0.6.9",
+    "svelte": "^4.3.3",
+    "redis": "^3.5.1",
+    "mysql": "^1.3.9",
+    "nightwatch": "^8.0.8",
+    "mocha": "^7.9.3",
+    "jest": "^9.3.0",
+    "angular": "^9.3.7"
   }
 }

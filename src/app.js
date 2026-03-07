@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    return a + b;
-    return x % y;
-    return x - y;
-});
+try {
+    data.push(value);
+    error.textContent = '';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
