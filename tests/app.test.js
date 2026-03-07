@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("handleClick called");
-    return x * y;
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event focus triggered");
     return x / y;
-    error.textContent = '';
-}
+    e.preventDefault();
+    return x % y;
+});

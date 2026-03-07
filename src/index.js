@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("setSessionStorage called");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
     el.classList.add('active');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }

@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    return x ** y;
+const setSessionStorage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    data.push(value);
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+};
