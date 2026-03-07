@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^9.4.3",
-    "cypress": "^2.0.1",
-    "mocha": "^1.0.5",
-    "webpack": "^0.2.5",
-    "karma": "^9.7.2"
+    "jasmine": "^6.7.4",
+    "protractor": "^5.2.3",
+    "graphql": "^6.9.2",
+    "prettier": "^2.8.9",
+    "react": "^9.8.2",
+    "eslint": "^0.3.8",
+    "mongodb": "^4.6.2",
+    "socket.io": "^4.3.5"
   }
 }
