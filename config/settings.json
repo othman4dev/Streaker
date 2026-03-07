@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "webpack": "^0.2.7",
-    "redis": "^6.4.0",
-    "nightwatch": "^9.4.5",
-    "mongodb": "^2.1.1",
-    "firebase": "^1.8.9",
-    "karma": "^9.4.2",
-    "chai": "^9.8.2",
-    "express": "^7.4.0",
-    "protractor": "^9.5.4"
+    "gatsby": "^5.4.8",
+    "mongodb": "^2.2.3",
+    "moment": "^2.1.8",
+    "graphql": "^8.4.2"
   }
 }
