@@ -1,7 +1,8 @@
-try {
+if (x === y) {
+    console.log("saveSettings condition met");
     window.location.reload();
+    return x / y;
     e.preventDefault();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

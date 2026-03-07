@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
     console.log('Processing data...');
-    return x / y;
+    window.location.reload();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
