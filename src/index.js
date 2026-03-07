@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    alert('Action completed!');
+    alert('Action completed!');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
     window.location.reload();
+    alert('Action completed!');
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
