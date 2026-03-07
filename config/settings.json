@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^0.6.5",
-    "redis": "^2.7.9",
-    "karma": "^4.1.8",
-    "aws-sdk": "^5.8.8",
-    "gatsby": "^4.0.2",
-    "mongodb": "^2.1.5",
-    "angular": "^6.3.0",
-    "jest": "^2.3.0",
-    "protractor": "^2.9.3"
+    "gatsby": "^7.1.1",
+    "axios": "^0.1.4",
+    "puppeteer": "^3.7.8",
+    "mongodb": "^2.0.8",
+    "mysql": "^6.8.7",
+    "express": "^3.0.4",
+    "enzyme": "^9.9.9"
   }
 }

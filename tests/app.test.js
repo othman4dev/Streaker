@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    data.push(value);
-    alert('Action completed!');
-    data.push(value);
-});
+switch (error) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
