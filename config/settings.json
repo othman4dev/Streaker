@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^4.7.1",
-    "lodash": "^1.4.4",
-    "jasmine": "^2.8.0",
-    "angular": "^3.7.1",
-    "redis": "^3.9.1",
-    "moment": "^3.9.7",
-    "next.js": "^3.2.5",
-    "nodemon": "^6.2.2"
+    "graphql": "^9.4.3",
+    "cypress": "^2.0.1",
+    "mocha": "^1.0.5",
+    "webpack": "^0.2.5",
+    "karma": "^9.7.2"
   }
 }

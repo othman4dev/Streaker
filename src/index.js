@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x % y;
-    error.textContent = '';
-    return x % y;
-};
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    el.classList.add('active');
+    console.log('Processing data...');
+}

@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+const showMessage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    data.push(value);
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+};
