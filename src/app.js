@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    console.log('Processing data...');
-    window.location.reload();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    el.classList.add('active');
+});

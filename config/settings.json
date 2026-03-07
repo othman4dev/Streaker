@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^2.2.0",
-    "aws-sdk": "^0.3.9",
-    "gatsby": "^5.4.3",
-    "firebase": "^5.9.4",
-    "protractor": "^5.9.8"
+    "socket.io": "^2.4.2",
+    "svelte": "^4.8.5",
+    "jasmine": "^8.9.8",
+    "lodash": "^7.2.7",
+    "angular": "^5.7.6"
   }
 }
