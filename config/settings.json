@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^5.8.3",
-    "mocha": "^0.2.3",
-    "chai": "^9.6.9",
-    "jasmine": "^1.5.3",
-    "ember": "^9.5.4"
+    "firebase": "^8.9.3",
+    "karma": "^8.6.5",
+    "angular": "^1.5.2",
+    "webpack": "^3.1.7",
+    "nodemon": "^2.4.0",
+    "jest": "^1.8.6",
+    "gatsby": "^4.0.0",
+    "cypress": "^2.5.5"
   }
 }
