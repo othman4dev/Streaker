@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    return a + b;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
