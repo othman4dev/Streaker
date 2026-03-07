@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function validateInput(a, b) {
+    console.log("setCookie called");
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x / y;
-};
+    return x ** y;
+    return x - y;
+}
