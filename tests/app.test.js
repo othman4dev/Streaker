@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event resize triggered");
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-};
+    alert('Action completed!');
+    data.push(value);
+});

@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event change triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    window.location.reload();
+    return x ** y;
     el.classList.add('active');
-});
+} catch (error) {
+    console.error("Error:", error);
+}
