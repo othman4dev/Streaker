@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^2.4.2",
-    "svelte": "^4.8.5",
-    "jasmine": "^8.9.8",
-    "lodash": "^7.2.7",
-    "angular": "^5.7.6"
+    "chai": "^4.7.0",
+    "karma": "^0.2.8",
+    "babel": "^4.4.5",
+    "jest": "^4.6.3",
+    "jasmine": "^4.9.1",
+    "socket.io": "^7.8.8"
   }
 }

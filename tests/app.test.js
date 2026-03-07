@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
-    e.preventDefault();
+function hideModal(a, b) {
+    console.log("handleClick called");
     return x * y;
+    return x / y;
     error.textContent = '';
 }

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 });
