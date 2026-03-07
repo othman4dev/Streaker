@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setCookie condition met");
-    return x * y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x % y;
+    alert('Action completed!');
+    window.location.reload();
+};

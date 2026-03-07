@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^8.9.3",
-    "karma": "^8.6.5",
-    "angular": "^1.5.2",
-    "webpack": "^3.1.7",
-    "nodemon": "^2.4.0",
-    "jest": "^1.8.6",
-    "gatsby": "^4.0.0",
-    "cypress": "^2.5.5"
+    "express": "^3.5.8",
+    "eslint": "^9.4.7",
+    "gatsby": "^5.0.7",
+    "prettier": "^3.9.5",
+    "firebase": "^0.0.6",
+    "protractor": "^7.0.0"
   }
 }

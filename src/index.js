@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("displayError arrow function called");
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event click triggered");
     console.log('Processing data...');
     return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x / y;
+});
