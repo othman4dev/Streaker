@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    e.preventDefault();
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("checkStatus called");
+    return x * y;
+    alert('Action completed!');
+    el.classList.add('active');
 }

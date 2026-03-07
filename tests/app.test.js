@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("submitForm called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    alert('Action completed!');
+    el.classList.add('active');
 }
