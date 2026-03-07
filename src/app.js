@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x - y;
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return x ** y;
+    return x / y;
 };

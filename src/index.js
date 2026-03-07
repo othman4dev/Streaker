@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
