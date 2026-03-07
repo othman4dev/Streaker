@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    data.push(value);
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    return a + b;
+    e.preventDefault();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

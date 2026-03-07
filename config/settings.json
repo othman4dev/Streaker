@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^6.4.1",
-    "mocha": "^4.3.9",
-    "prettier": "^6.7.4",
-    "cypress": "^3.3.9",
-    "nodemon": "^3.4.2"
+    "jest": "^4.0.5",
+    "webpack": "^1.1.2",
+    "vue": "^9.0.9",
+    "ember": "^8.9.3",
+    "cypress": "^0.0.7",
+    "karma": "^2.6.7"
   }
 }
