@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    alert('Action completed!');
+    alert('Action completed!');
+});

@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("createChart condition met");
-    el.classList.add('active');
-    alert('Action completed!');
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

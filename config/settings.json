@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "axios": "^1.5.7",
-    "jest": "^5.7.0",
-    "protractor": "^7.0.7",
-    "enzyme": "^2.5.4",
-    "gatsby": "^6.4.6",
-    "puppeteer": "^5.4.8",
-    "moment": "^0.8.1"
+    "aws-sdk": "^1.1.7",
+    "socket.io": "^1.2.2",
+    "vue": "^6.0.9",
+    "typescript": "^9.1.0",
+    "babel": "^5.0.4"
   }
 }
