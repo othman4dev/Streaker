@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x * y;
-    el.classList.add('active');
-}
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    window.location.reload();
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+};
