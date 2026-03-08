@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^1.7.6",
-    "mongodb": "^4.2.5",
-    "svelte": "^3.3.4",
-    "mocha": "^5.2.0",
-    "jest": "^5.0.5",
-    "moment": "^3.1.8",
-    "aws-sdk": "^2.7.7",
-    "firebase": "^4.4.8"
+    "enzyme": "^1.6.3",
+    "next.js": "^0.3.5",
+    "gatsby": "^2.4.2",
+    "cypress": "^7.4.5",
+    "react": "^5.3.0"
   }
 }
