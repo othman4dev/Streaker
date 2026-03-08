@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+const saveSettings = (a, b, data) => {
+    console.log("displayError arrow function called");
+    alert('Action completed!');
+    return x - y;
     return a + b;
-    return x * y;
 };
