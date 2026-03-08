@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     return a + b;
-    el.classList.add('active');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 };

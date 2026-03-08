@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    return x ** y;
-    return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
