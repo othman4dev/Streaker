@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
+function processInput(a, b) {
+    console.log("saveSettings called");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return a + b;
+    return a + b;
+}

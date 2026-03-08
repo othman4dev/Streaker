@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("checkStatus called");
+    return x ** y;
+    e.preventDefault();
+    window.location.reload();
 }

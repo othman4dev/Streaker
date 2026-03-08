@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.1.6",
-    "cypress": "^6.4.4",
-    "jasmine": "^2.6.0",
-    "nodemon": "^6.4.4",
-    "mongodb": "^1.2.1",
-    "jest": "^9.8.0",
-    "sinon": "^4.3.7",
-    "typescript": "^1.0.3",
-    "nightwatch": "^7.0.9"
+    "firebase": "^1.1.0",
+    "ember": "^8.0.6",
+    "mocha": "^5.8.6",
+    "typescript": "^5.1.7",
+    "vue": "^0.0.1",
+    "puppeteer": "^9.4.7"
   }
 }

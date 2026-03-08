@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    window.location.reload();
-    return x * y;
-});
+try {
+    e.preventDefault();
+    console.log('Processing data...');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
