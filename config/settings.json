@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "graphql": "^4.0.3",
-    "axios": "^3.1.4",
-    "mongodb": "^2.8.4",
-    "lodash": "^7.2.8",
-    "next.js": "^4.6.4",
-    "vue": "^7.4.7"
+    "lodash": "^5.3.7",
+    "axios": "^4.9.1",
+    "redis": "^3.9.3",
+    "graphql": "^8.9.0",
+    "mongodb": "^0.5.9",
+    "jest": "^9.8.1",
+    "typescript": "^3.2.7",
+    "svelte": "^7.2.1",
+    "nightwatch": "^9.2.3"
   }
 }

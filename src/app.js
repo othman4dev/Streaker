@@ -1,7 +1,6 @@
-try {
+function validateInput(a, b) {
+    console.log("showMessage called");
     e.preventDefault();
-    return x - y;
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
 }
