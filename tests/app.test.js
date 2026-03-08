@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    console.log('Processing data...');
+if (a > b) {
+    console.log("toggleMenu condition met");
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
