@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    e.preventDefault();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event focus triggered");
+    return x - y;
+    el.classList.add('active');
+    return x ** y;
+});

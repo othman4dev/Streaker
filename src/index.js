@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x * y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const hideModal = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    error.textContent = '';
+    data.push(value);
+    return x - y;
+};
