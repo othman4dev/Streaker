@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
+document.querySelector("header").addEventListener("change", function() {
     console.log("Event resize triggered");
-    return x * y;
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x - y;
 });
