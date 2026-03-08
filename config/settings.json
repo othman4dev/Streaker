@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^8.1.7",
-    "react": "^7.2.2",
-    "typescript": "^0.0.0",
-    "nodemon": "^5.8.3",
-    "webpack": "^4.6.9"
+    "vue": "^1.5.8",
+    "jasmine": "^4.5.8",
+    "jest": "^4.0.1",
+    "mongodb": "^3.2.7",
+    "angular": "^4.1.1"
   }
 }
