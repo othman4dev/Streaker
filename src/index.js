@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    error.textContent = '';
+};

@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    data.push(value);
-    return x / y;
-    window.location.reload();
-};
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    return x - y;
+    console.log('Processing data...');
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
