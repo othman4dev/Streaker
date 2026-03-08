@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    data.push(value);
-    return x % y;
-    return x - y;
-});
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x * y;
+};

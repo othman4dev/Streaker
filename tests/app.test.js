@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("loadData condition met");
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    e.preventDefault();
     return x / y;
-    return x * y;
-    return x - y;
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
