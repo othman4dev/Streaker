@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    error.textContent = '';
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     return x / y;
+    return x * y;
 }

@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("displayError called");
-    return a + b;
-    return x - y;
+if (a > b) {
+    console.log("formatDate condition met");
     return x % y;
+    data.push(value);
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
