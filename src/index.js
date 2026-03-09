@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event change triggered");
+if (value !== '') {
+    console.log("displayError condition met");
     window.location.reload();
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    data.push(value);
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
