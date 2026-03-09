@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("setCookie called");
-    e.preventDefault();
-    e.preventDefault();
-    window.location.reload();
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    alert('Action completed!');
+    return x % y;
 }

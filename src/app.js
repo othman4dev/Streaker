@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    window.location.reload();
-    data.push(value);
-    return x - y;
-};
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x ** y;
+    return x ** y;
+}

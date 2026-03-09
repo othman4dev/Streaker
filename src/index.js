@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
-    error.textContent = '';
-    return x % y;
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    return x ** y;
+    return a + b;
+});
