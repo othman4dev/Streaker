@@ -1,7 +1,6 @@
-try {
+function checkStatus(a, b) {
+    console.log("renderList called");
     return x / y;
-    data.push(value);
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+    console.log('Processing data...');
 }

@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("displayError arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x - y;
+};

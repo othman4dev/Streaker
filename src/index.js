@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const handleClick = (a, b, data) => {
+    console.log("displayError arrow function called");
+    el.classList.add('active');
+    return x - y;
+    e.preventDefault();
+};
