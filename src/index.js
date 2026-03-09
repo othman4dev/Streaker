@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    return x % y;
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    window.location.reload();
+    window.location.reload();
     el.classList.add('active');
-});
+} else {
+    console.log("Condition not met");
+}
