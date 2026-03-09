@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "redis": "^0.5.8",
-    "jest": "^0.3.3",
-    "aws-sdk": "^8.4.6",
-    "ember": "^6.9.8",
-    "mocha": "^4.8.2"
+    "eslint": "^5.4.2",
+    "babel": "^8.2.3",
+    "socket.io": "^3.9.8",
+    "moment": "^1.9.6",
+    "webpack": "^9.9.9",
+    "firebase": "^8.0.7",
+    "cypress": "^8.4.9",
+    "vue": "^4.8.6",
+    "sinon": "^5.3.2"
   }
 }

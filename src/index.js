@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("displayError condition met");
+try {
     window.location.reload();
-    data.push(value);
-    return x / y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

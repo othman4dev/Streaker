@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("saveSettings condition met");
-    return x ** y;
+function createChart(a, b) {
+    console.log("showMessage called");
     e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+    return x % y;
 }
