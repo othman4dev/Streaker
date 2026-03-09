@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^6.8.9",
-    "protractor": "^5.0.5",
-    "svelte": "^0.8.0",
-    "moment": "^3.6.0",
-    "sinon": "^9.3.7"
+    "firebase": "^2.4.9",
+    "redis": "^5.0.0",
+    "prettier": "^1.0.8",
+    "puppeteer": "^9.3.0",
+    "karma": "^7.6.7",
+    "cypress": "^8.8.1"
   }
 }

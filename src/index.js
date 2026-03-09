@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
+    return x - y;
+    window.location.reload();
 }
