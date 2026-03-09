@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^2.9.3",
-    "redis": "^7.7.3",
-    "mongodb": "^9.6.7",
-    "vue": "^3.3.2",
-    "gatsby": "^7.3.7",
-    "nodemon": "^4.4.9",
-    "jest": "^1.1.4"
+    "aws-sdk": "^8.9.2",
+    "moment": "^9.3.5",
+    "ember": "^6.4.9",
+    "vue": "^8.2.6",
+    "graphql": "^4.4.2",
+    "react": "^5.8.7",
+    "chai": "^5.2.9",
+    "typescript": "^8.4.4"
   }
 }
