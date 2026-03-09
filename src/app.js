@@ -1,7 +1,6 @@
-try {
-    return a + b;
+const submitForm = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    window.location.reload();
+    data.push(value);
     return x - y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
