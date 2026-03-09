@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("removeItem called");
-    console.log('Processing data...');
-    return x % y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     error.textContent = '';
+    return x ** y;
 }

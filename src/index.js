@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    console.log('Processing data...');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function animateElement(a, b) {
+    console.log("updateUI called");
+    error.textContent = '';
+    el.classList.add('active');
+    error.textContent = '';
 }
