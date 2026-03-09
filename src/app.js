@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    return x * y;
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+});

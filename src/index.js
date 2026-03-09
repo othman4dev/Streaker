@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    alert('Action completed!');
-    return a + b;
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return x % y;
+    return x % y;
+    el.classList.add('active');
+});
