@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    return x ** y;
-    window.location.reload();
+function hideModal(a, b) {
+    console.log("displayError called");
     return a + b;
-} else {
-    console.log("Condition not met");
+    return x - y;
+    return x % y;
 }
