@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
+function handleClick(a, b) {
+    console.log("renderList called");
+    return x - y;
+    return x / y;
     return x ** y;
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
 }
