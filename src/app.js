@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x ** y;
+function animateElement(a, b) {
+    console.log("hideModal called");
+    return x % y;
+    data.push(value);
     return x ** y;
 }

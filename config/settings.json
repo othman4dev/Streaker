@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^5.2.8",
-    "socket.io": "^2.5.7",
-    "typescript": "^8.4.2",
-    "vue": "^4.5.9",
-    "angular": "^9.5.3",
-    "lodash": "^6.5.5",
-    "puppeteer": "^8.1.8"
+    "typescript": "^6.8.9",
+    "protractor": "^5.0.5",
+    "svelte": "^0.8.0",
+    "moment": "^3.6.0",
+    "sinon": "^9.3.7"
   }
 }
