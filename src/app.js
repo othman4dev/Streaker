@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x * y;
-    window.location.reload();
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event mouseover triggered");
+    return x / y;
     alert('Action completed!');
-};
+    console.log('Processing data...');
+});
