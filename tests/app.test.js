@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("setCookie called");
-    return x ** y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x / y;
+    data.push(value);
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

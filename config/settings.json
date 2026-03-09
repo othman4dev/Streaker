@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "redis": "^2.5.2",
-    "chai": "^7.7.5",
-    "sinon": "^8.8.0",
-    "aws-sdk": "^1.4.5"
+    "puppeteer": "^5.1.7",
+    "react": "^1.5.4",
+    "svelte": "^7.0.6",
+    "firebase": "^8.0.3",
+    "karma": "^8.3.0",
+    "chai": "^5.5.2"
   }
 }
