@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    error.textContent = '';
+    error.textContent = '';
 }

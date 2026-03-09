@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.9.2",
-    "moment": "^9.3.5",
-    "ember": "^6.4.9",
-    "vue": "^8.2.6",
-    "graphql": "^4.4.2",
-    "react": "^5.8.7",
-    "chai": "^5.2.9",
-    "typescript": "^8.4.4"
+    "socket.io": "^9.4.1",
+    "babel": "^0.2.9",
+    "protractor": "^7.9.5",
+    "firebase": "^4.5.1",
+    "next.js": "^2.1.0",
+    "karma": "^7.6.6",
+    "jest": "^2.2.7"
   }
 }

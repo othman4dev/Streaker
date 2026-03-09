@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
+const updateUI = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    el.classList.add('active');
+    return x - y;
     return a + b;
-    data.push(value);
-    return x ** y;
-});
+};
