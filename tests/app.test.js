@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    alert('Action completed!');
+    alert('Action completed!');
+}

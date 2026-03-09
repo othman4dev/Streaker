@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^6.0.0",
-    "express": "^1.1.8",
-    "gatsby": "^1.6.7",
-    "typescript": "^0.5.9",
-    "axios": "^1.1.5"
+    "svelte": "^0.6.5",
+    "puppeteer": "^5.0.0",
+    "aws-sdk": "^7.6.6",
+    "angular": "^1.2.3",
+    "typescript": "^0.2.2"
   }
 }

@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+if (x === y) {
+    console.log("animateElement condition met");
+    return x ** y;
     e.preventDefault();
-    e.preventDefault();
-    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
