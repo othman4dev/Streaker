@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("setSessionStorage called");
-    console.log('Processing data...');
-    return x - y;
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
     window.location.reload();
-}
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+});
