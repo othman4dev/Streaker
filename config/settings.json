@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "mongodb": "^2.4.5",
-    "typescript": "^8.0.7",
-    "jest": "^1.0.7",
-    "jasmine": "^1.6.8",
-    "eslint": "^9.2.0",
-    "webpack": "^9.5.4"
+    "sinon": "^6.5.9",
+    "react": "^7.2.1",
+    "chai": "^7.6.6",
+    "webpack": "^1.1.1",
+    "aws-sdk": "^6.9.9",
+    "prettier": "^1.4.2",
+    "nodemon": "^9.5.9",
+    "babel": "^2.3.1",
+    "eslint": "^3.8.3"
   }
 }
