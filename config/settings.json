@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "socket.io": "^9.4.1",
-    "babel": "^0.2.9",
-    "protractor": "^7.9.5",
-    "firebase": "^4.5.1",
-    "next.js": "^2.1.0",
-    "karma": "^7.6.6",
-    "jest": "^2.2.7"
+    "puppeteer": "^8.0.7",
+    "sinon": "^2.1.1",
+    "typescript": "^4.8.1",
+    "mocha": "^3.7.6",
+    "babel": "^3.0.5",
+    "karma": "^2.7.4",
+    "eslint": "^7.4.3",
+    "aws-sdk": "^1.0.4",
+    "protractor": "^0.4.7"
   }
 }

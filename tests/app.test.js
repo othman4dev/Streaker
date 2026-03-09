@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    el.classList.add('active');
-    return x - y;
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
     return a + b;
-};
+    console.log('Processing data...');
+    e.preventDefault();
+});

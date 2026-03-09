@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x ** y;
-    return x ** y;
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    return x / y;
     return x % y;
-};
+});
