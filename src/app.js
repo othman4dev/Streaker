@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x - y;
+const setSessionStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x * y;
+    window.location.reload();
+    alert('Action completed!');
 };

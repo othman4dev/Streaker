@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("renderList called");
-    return x / y;
-    return x - y;
-    console.log('Processing data...');
+try {
+    alert('Action completed!');
+    window.location.reload();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
