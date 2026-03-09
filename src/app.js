@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("showMessage called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    e.preventDefault();
 }

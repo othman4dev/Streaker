@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+try {
+    error.textContent = '';
+    error.textContent = '';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

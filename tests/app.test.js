@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x / y;
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-}
+});
