@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^8.0.7",
-    "sinon": "^2.1.1",
-    "typescript": "^4.8.1",
-    "mocha": "^3.7.6",
-    "babel": "^3.0.5",
-    "karma": "^2.7.4",
-    "eslint": "^7.4.3",
-    "aws-sdk": "^1.0.4",
-    "protractor": "^0.4.7"
+    "mongodb": "^1.7.7",
+    "webpack": "^4.9.4",
+    "vue": "^6.3.2",
+    "graphql": "^4.6.6",
+    "enzyme": "^7.3.4",
+    "cypress": "^1.8.1"
   }
 }

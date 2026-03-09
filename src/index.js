@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x * y;
-    return x % y;
-    alert('Action completed!');
-};
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    return x ** y;
+    window.location.reload();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
