@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return x / y;
+    window.location.reload();
+    window.location.reload();
+});

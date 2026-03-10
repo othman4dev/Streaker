@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+function displayError(a, b) {
+    console.log("formatDate called");
+    return x / y;
     window.location.reload();
-    data.push(value);
-    return a + b;
+    console.log('Processing data...');
 }
