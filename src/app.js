@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    window.location.reload();
-    window.location.reload();
-});
+if (x !== y) {
+    console.log("setCookie condition met");
+    return x - y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

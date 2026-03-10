@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "cypress": "^7.7.9",
-    "vue": "^1.8.2",
-    "mysql": "^0.0.1",
-    "chai": "^9.8.0",
-    "puppeteer": "^3.8.3"
+    "babel": "^0.3.8",
+    "jasmine": "^9.2.6",
+    "aws-sdk": "^3.0.5",
+    "ember": "^9.0.6",
+    "gatsby": "^8.0.9",
+    "react": "^1.6.2",
+    "mocha": "^6.1.7",
+    "karma": "^9.5.7",
+    "lodash": "^4.3.6"
   }
 }

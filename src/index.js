@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("formatDate called");
+function updateUI(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
     return x / y;
-    window.location.reload();
-    console.log('Processing data...');
+    return x / y;
 }
