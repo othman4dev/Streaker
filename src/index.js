@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    e.preventDefault();
-    e.preventDefault();
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    return x ** y;
+    window.location.reload();
 });

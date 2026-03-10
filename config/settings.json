@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jest": "^3.8.9",
-    "protractor": "^4.4.5",
-    "eslint": "^4.7.4",
-    "cypress": "^4.3.7",
-    "ember": "^0.2.5",
-    "axios": "^8.0.3"
+    "socket.io": "^7.2.1",
+    "webpack": "^2.5.7",
+    "prettier": "^9.8.7",
+    "babel": "^1.4.3",
+    "nodemon": "^4.5.8",
+    "chai": "^7.8.6",
+    "jest": "^9.4.9"
   }
 }
