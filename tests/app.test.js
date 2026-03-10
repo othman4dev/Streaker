@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    console.log('Processing data...');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+});

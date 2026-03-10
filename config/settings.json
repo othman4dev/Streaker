@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^7.0.2",
-    "mocha": "^9.0.8",
-    "protractor": "^9.6.4",
-    "typescript": "^3.8.8",
-    "mongodb": "^5.1.5",
-    "aws-sdk": "^8.6.3",
-    "eslint": "^0.1.5",
-    "enzyme": "^2.6.8",
-    "jest": "^4.6.1"
+    "jest": "^0.6.9",
+    "prettier": "^2.6.8",
+    "karma": "^0.1.2",
+    "jasmine": "^1.4.5",
+    "sinon": "^9.8.7",
+    "svelte": "^7.2.0",
+    "aws-sdk": "^9.7.4",
+    "react": "^2.0.3"
   }
 }
