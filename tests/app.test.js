@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("createChart called");
-    e.preventDefault();
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    return x * y;
+    console.log('Processing data...');
     return x / y;
-    e.preventDefault();
-}
+});
