@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    console.log('Processing data...');
-    return x / y;
-});
+if (x !== y) {
+    console.log("renderList condition met");
+    return x ** y;
+    error.textContent = '';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

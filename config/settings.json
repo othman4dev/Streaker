@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "react": "^9.4.6",
-    "redis": "^7.7.6",
-    "aws-sdk": "^1.6.4",
-    "angular": "^5.0.0",
-    "axios": "^9.6.3"
+    "vue": "^9.0.4",
+    "nodemon": "^8.5.5",
+    "jasmine": "^2.7.8",
+    "enzyme": "^8.3.6",
+    "lodash": "^0.7.2",
+    "next.js": "^8.2.1",
+    "webpack": "^8.8.9"
   }
 }

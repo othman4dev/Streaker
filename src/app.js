@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    window.location.reload();
+});
