@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
-    return a + b;
-    return a + b;
+function processInput(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
