@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^9.8.0",
-    "socket.io": "^6.2.6",
-    "karma": "^4.1.6",
-    "axios": "^5.1.7",
-    "firebase": "^0.6.5",
-    "nightwatch": "^9.0.4",
-    "mongodb": "^9.3.9",
-    "moment": "^7.3.3"
+    "socket.io": "^6.1.0",
+    "eslint": "^3.4.9",
+    "typescript": "^7.6.4",
+    "jest": "^5.9.5",
+    "gatsby": "^4.8.4",
+    "sinon": "^0.9.4",
+    "protractor": "^8.4.1",
+    "karma": "^7.3.7"
   }
 }
