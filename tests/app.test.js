@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    return x % y;
-};
+function fetchData(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
+    return x / y;
+    e.preventDefault();
+}
