@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("animateElement called");
+const createChart = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    error.textContent = '';
+    error.textContent = '';
     return x % y;
-    return x - y;
-    console.log('Processing data...');
-}
+};

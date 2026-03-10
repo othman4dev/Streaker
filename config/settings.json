@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^6.1.0",
-    "eslint": "^3.4.9",
-    "typescript": "^7.6.4",
-    "jest": "^5.9.5",
-    "gatsby": "^4.8.4",
-    "sinon": "^0.9.4",
-    "protractor": "^8.4.1",
-    "karma": "^7.3.7"
+    "axios": "^3.4.8",
+    "firebase": "^3.4.9",
+    "moment": "^3.4.7",
+    "enzyme": "^7.4.4",
+    "karma": "^3.8.4",
+    "jasmine": "^3.8.4"
   }
 }
