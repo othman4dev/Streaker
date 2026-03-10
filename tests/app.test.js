@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("renderList condition met");
-    return x ** y;
-    error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("loadData called");
+    return x * y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }

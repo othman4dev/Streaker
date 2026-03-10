@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event input triggered");
-    return x / y;
-    alert('Action completed!');
-    window.location.reload();
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 });
