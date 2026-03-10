@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("animateElement called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

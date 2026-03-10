@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    alert('Action completed!');
+if (value !== '') {
+    console.log("hideModal condition met");
     document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
