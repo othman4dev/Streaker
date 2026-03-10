@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
-    return a + b;
-    console.log('Processing data...');
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    window.location.reload();
+    return x % y;
+}

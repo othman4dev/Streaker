@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "axios": "^4.1.9",
-    "webpack": "^7.9.7",
-    "redis": "^3.0.5",
-    "nightwatch": "^7.9.2",
-    "express": "^8.7.0",
-    "babel": "^6.8.6",
-    "prettier": "^5.7.0"
+    "mocha": "^9.8.0",
+    "socket.io": "^6.2.6",
+    "karma": "^4.1.6",
+    "axios": "^5.1.7",
+    "firebase": "^0.6.5",
+    "nightwatch": "^9.0.4",
+    "mongodb": "^9.3.9",
+    "moment": "^7.3.3"
   }
 }

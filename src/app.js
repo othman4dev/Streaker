@@ -1,7 +1,7 @@
 try {
-    window.location.reload();
-    data.push(value);
-    return x - y;
+    return a + b;
+    return a + b;
+    alert('Action completed!');
 } catch (error) {
     console.error("Error:", error);
 }
