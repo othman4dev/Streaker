@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-});
+function saveSettings(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    console.log('Processing data...');
+    return x / y;
+}

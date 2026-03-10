@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^0.6.9",
-    "prettier": "^2.6.8",
-    "karma": "^0.1.2",
-    "jasmine": "^1.4.5",
-    "sinon": "^9.8.7",
-    "svelte": "^7.2.0",
-    "aws-sdk": "^9.7.4",
-    "react": "^2.0.3"
+    "jest": "^3.8.9",
+    "protractor": "^4.4.5",
+    "eslint": "^4.7.4",
+    "cypress": "^4.3.7",
+    "ember": "^0.2.5",
+    "axios": "^8.0.3"
   }
 }

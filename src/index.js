@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    e.preventDefault();
+    e.preventDefault();
+});
