@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    return x ** y;
-    window.location.reload();
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
+    return a + b;
+    console.log('Processing data...');
 });
