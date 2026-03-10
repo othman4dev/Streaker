@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("loadData called");
-    return x * y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("processInput condition met");
+    data.push(value);
+    window.location.reload();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

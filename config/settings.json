@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^9.6.5",
-    "aws-sdk": "^7.5.7",
-    "react": "^1.3.8",
-    "puppeteer": "^6.9.5",
-    "firebase": "^2.8.8",
-    "chai": "^0.6.7"
+    "graphql": "^2.8.1",
+    "protractor": "^2.6.8",
+    "nightwatch": "^5.7.3",
+    "express": "^9.6.0",
+    "prettier": "^5.2.1",
+    "babel": "^9.5.2",
+    "angular": "^0.1.2"
   }
 }
