@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^0.5.9",
-    "puppeteer": "^3.2.0",
-    "gatsby": "^6.2.4",
-    "aws-sdk": "^2.1.1",
-    "jasmine": "^4.5.8",
-    "mysql": "^5.9.0",
-    "chai": "^1.7.2"
+    "webpack": "^6.9.2",
+    "chai": "^9.1.2",
+    "next.js": "^1.9.9",
+    "gatsby": "^8.0.8",
+    "jest": "^3.3.7"
   }
 }
