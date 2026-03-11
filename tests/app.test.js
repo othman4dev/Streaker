@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    return x % y;
-    data.push(value);
-});
+switch (data) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

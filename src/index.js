@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    console.log('Processing data...');
-    return x * y;
-}
+const saveSettings = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x ** y;
+    return a + b;
+    data.push(value);
+};
