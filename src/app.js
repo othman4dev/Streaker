@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("submitForm called");
-    return a + b;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+function animateElement(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
+    e.preventDefault();
+    window.location.reload();
 }

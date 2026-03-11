@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^1.5.9",
-    "karma": "^0.3.1",
-    "jasmine": "^3.9.7",
-    "graphql": "^6.9.3",
-    "axios": "^9.7.3"
+    "nightwatch": "^8.6.7",
+    "lodash": "^3.0.7",
+    "nodemon": "^3.0.5",
+    "aws-sdk": "^5.0.6",
+    "jest": "^3.1.0",
+    "react": "^1.7.4",
+    "axios": "^8.0.0",
+    "moment": "^7.6.7"
   }
 }
