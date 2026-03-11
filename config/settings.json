@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^0.7.0",
-    "jasmine": "^3.2.3",
-    "webpack": "^7.5.4",
-    "mocha": "^8.6.3",
-    "lodash": "^0.4.9",
-    "mongodb": "^2.9.2"
+    "react": "^1.6.2",
+    "mongodb": "^0.4.1",
+    "karma": "^7.8.7",
+    "axios": "^6.7.9",
+    "enzyme": "^2.8.6"
   }
 }

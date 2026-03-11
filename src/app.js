@@ -1,7 +1,6 @@
-try {
+function fetchData(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    return x % y;
     e.preventDefault();
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
 }

@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("handleClick called");
-    return x % y;
-    error.textContent = '';
-    return a + b;
+switch (x) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
