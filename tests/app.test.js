@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("formatDate condition met");
-    data.push(value);
-    return x * y;
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    return x * y;
+};
