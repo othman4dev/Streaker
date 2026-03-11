@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^3.2.5",
-    "jest": "^0.7.6",
-    "cypress": "^2.2.0",
-    "nightwatch": "^7.7.1",
-    "firebase": "^4.4.8",
-    "lodash": "^7.6.4"
+    "ember": "^6.6.2",
+    "react": "^4.2.4",
+    "sinon": "^0.4.1",
+    "vue": "^4.2.3",
+    "firebase": "^0.3.8",
+    "typescript": "^9.5.4",
+    "cypress": "^6.6.4",
+    "enzyme": "^4.0.5"
   }
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
     window.location.reload();
-    e.preventDefault();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    return x / y;
+};
