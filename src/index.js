@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
     return x ** y;
-}
+    console.log('Processing data...');
+};
