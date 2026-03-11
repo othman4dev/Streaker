@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^9.7.0",
-    "moment": "^9.0.2",
-    "vue": "^0.1.5",
-    "nightwatch": "^2.6.5",
-    "lodash": "^3.8.1",
-    "chai": "^1.8.8"
+    "socket.io": "^6.7.9",
+    "jasmine": "^9.7.2",
+    "nightwatch": "^4.2.7",
+    "firebase": "^2.1.7",
+    "graphql": "^9.2.5"
   }
 }

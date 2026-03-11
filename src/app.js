@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    return x ** y;
-    window.location.reload();
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    error.textContent = '';
+    el.classList.add('active');
+    return x % y;
+});

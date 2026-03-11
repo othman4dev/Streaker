@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    data.push(value);
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function checkStatus(a, b) {
+    console.log("getLocalStorage called");
+    e.preventDefault();
+    return a + b;
+    alert('Action completed!');
 }

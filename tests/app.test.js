@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("formatDate condition met");
+    data.push(value);
+    return x * y;
     return x / y;
-    return x % y;
+} else {
+    console.log("Condition not met");
 }
