@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("animateElement called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    return x ** y;
+    window.location.reload();
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

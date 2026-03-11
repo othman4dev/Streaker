@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("hideModal condition met");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x / y;
+    return x % y;
 }
