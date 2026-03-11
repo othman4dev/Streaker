@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "react": "^1.6.2",
-    "mongodb": "^0.4.1",
-    "karma": "^7.8.7",
-    "axios": "^6.7.9",
-    "enzyme": "^2.8.6"
+    "jest": "^8.8.3",
+    "svelte": "^7.4.1",
+    "vue": "^0.7.1",
+    "lodash": "^0.1.9",
+    "jasmine": "^0.1.8",
+    "webpack": "^9.3.5",
+    "mocha": "^1.2.5"
   }
 }
