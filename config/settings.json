@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "express": "^3.0.5",
-    "mysql": "^5.7.7",
-    "nodemon": "^1.6.8",
-    "karma": "^7.8.6",
-    "aws-sdk": "^1.4.2",
-    "jest": "^1.6.8",
-    "mongodb": "^7.7.9"
+    "cypress": "^2.7.7",
+    "sinon": "^2.9.4",
+    "karma": "^0.3.2",
+    "chai": "^0.8.7",
+    "axios": "^6.2.0"
   }
 }
