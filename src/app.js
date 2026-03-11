@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("formatDate called");
-    window.location.reload();
+function showMessage(a, b) {
+    console.log("loadData called");
+    return x * y;
     e.preventDefault();
     window.location.reload();
 }
