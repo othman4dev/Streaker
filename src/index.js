@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    data.push(value);
-    data.push(value);
-    return x / y;
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("fetchData called");
+    return x * y;
+    console.log('Processing data...');
+    return x * y;
 }

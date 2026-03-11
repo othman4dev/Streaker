@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("displayError arrow function called");
-    window.location.reload();
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event focus triggered");
     data.push(value);
-    return x / y;
-};
+    return x % y;
+    data.push(value);
+});
