@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^5.9.2",
-    "cypress": "^5.1.4",
-    "jasmine": "^5.9.5",
-    "mongodb": "^2.2.8",
-    "socket.io": "^8.4.1",
-    "protractor": "^1.6.6"
+    "express": "^3.0.5",
+    "mysql": "^5.7.7",
+    "nodemon": "^1.6.8",
+    "karma": "^7.8.6",
+    "aws-sdk": "^1.4.2",
+    "jest": "^1.6.8",
+    "mongodb": "^7.7.9"
   }
 }

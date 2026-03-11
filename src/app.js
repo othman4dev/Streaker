@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("submitForm called");
+    return x ** y;
+    console.log('Processing data...');
+    error.textContent = '';
 }
