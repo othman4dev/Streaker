@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "react": "^5.1.9",
-    "moment": "^6.7.4",
-    "enzyme": "^1.4.5",
-    "aws-sdk": "^4.3.5",
-    "cypress": "^6.2.9",
-    "mysql": "^1.5.2",
-    "webpack": "^7.9.5"
+    "mocha": "^3.2.5",
+    "jest": "^0.7.6",
+    "cypress": "^2.2.0",
+    "nightwatch": "^7.7.1",
+    "firebase": "^4.4.8",
+    "lodash": "^7.6.4"
   }
 }

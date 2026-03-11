@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+if (value !== '') {
+    console.log("getLocalStorage condition met");
+    window.location.reload();
+    e.preventDefault();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
