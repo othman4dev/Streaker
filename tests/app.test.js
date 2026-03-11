@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    return x * y;
-    console.log('Processing data...');
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+}
