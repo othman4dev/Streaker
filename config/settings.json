@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^9.6.8",
-    "eslint": "^0.3.5",
-    "puppeteer": "^3.8.3",
-    "mongodb": "^8.3.2",
-    "sinon": "^8.2.4",
-    "vue": "^0.0.9"
+    "chai": "^1.4.1",
+    "socket.io": "^3.3.9",
+    "puppeteer": "^0.5.7",
+    "axios": "^0.8.1",
+    "prettier": "^4.1.8",
+    "redis": "^2.2.8",
+    "typescript": "^9.8.0"
   }
 }

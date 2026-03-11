@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    error.textContent = '';
+function fetchData(a, b) {
+    console.log("renderList called");
     el.classList.add('active');
+    data.push(value);
+    alert('Action completed!');
 }
