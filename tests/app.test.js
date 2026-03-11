@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x / y;
-    el.classList.add('active');
-    return x * y;
-};
+function handleClick(a, b) {
+    console.log("submitForm called");
+    return x % y;
+    return a + b;
+    alert('Action completed!');
+}
