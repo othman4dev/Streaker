@@ -1,7 +1,6 @@
-try {
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    alert('Action completed!');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+};
