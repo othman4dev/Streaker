@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x - y;
-};
+try {
+    e.preventDefault();
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

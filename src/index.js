@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    console.log('Processing data...');
-};
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    return x * y;
+    return x % y;
+});

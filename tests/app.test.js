@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("formatDate condition met");
+function setCookie(a, b) {
+    console.log("handleClick called");
+    return x % y;
+    error.textContent = '';
     return a + b;
-    console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
 }
