@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "eslint": "^6.2.5",
-    "axios": "^1.4.4",
-    "jest": "^5.8.4",
-    "protractor": "^2.4.1",
-    "svelte": "^7.0.0",
-    "angular": "^0.2.4",
-    "webpack": "^3.7.3",
-    "redis": "^5.3.9"
+    "mongodb": "^0.5.9",
+    "puppeteer": "^3.2.0",
+    "gatsby": "^6.2.4",
+    "aws-sdk": "^2.1.1",
+    "jasmine": "^4.5.8",
+    "mysql": "^5.9.0",
+    "chai": "^1.7.2"
   }
 }
