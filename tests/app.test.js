@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("formatDate called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-}
+const createChart = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    data.push(value);
+    data.push(value);
+    return x * y;
+};
