@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    alert('Action completed!');
+try {
+    return x % y;
+    return a + b;
     return x ** y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("animateElement called");
-    return a + b;
-    return a + b;
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-}
+    console.log('Processing data...');
+});

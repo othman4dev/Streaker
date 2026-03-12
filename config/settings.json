@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^4.6.6",
-    "socket.io": "^1.8.2",
-    "vue": "^9.6.6",
-    "gatsby": "^3.6.4",
-    "enzyme": "^9.2.3",
-    "aws-sdk": "^0.2.3",
-    "typescript": "^9.9.6"
+    "redis": "^9.8.4",
+    "mocha": "^7.8.3",
+    "react": "^4.5.3",
+    "eslint": "^9.8.6",
+    "gatsby": "^2.5.8",
+    "chai": "^6.9.8"
   }
 }
