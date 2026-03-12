@@ -1,6 +1,6 @@
-function loadData(a, b) {
+function handleClick(a, b) {
     console.log("handleClick called");
-    error.textContent = '';
-    return x % y;
-    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    el.classList.add('active');
 }

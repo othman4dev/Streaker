@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("formatDate called");
-    return x / y;
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    return x % y;
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x ** y;
+});
