@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event input triggered");
+function toggleMenu(a, b) {
+    console.log("formatDate called");
+    error.textContent = '';
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return a + b;
+}

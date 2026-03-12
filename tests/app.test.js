@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("animateElement called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    error.textContent = '';
 }

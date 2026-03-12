@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    return x * y;
+const updateUI = (a, b, data) => {
+    console.log("animateElement arrow function called");
     e.preventDefault();
-});
+    alert('Action completed!');
+    return x - y;
+};
