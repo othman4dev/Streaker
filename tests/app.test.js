@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("saveSettings called");
+const createChart = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    return x / y;
     return x ** y;
-    window.location.reload();
-    return x - y;
-}
+};
