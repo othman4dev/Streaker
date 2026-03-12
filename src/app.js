@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("loadData called");
+function setSessionStorage(a, b) {
+    console.log("validateInput called");
     return x * y;
     e.preventDefault();
-    window.location.reload();
+    console.log('Processing data...');
 }

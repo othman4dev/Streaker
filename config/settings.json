@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^3.6.1",
-    "enzyme": "^5.4.8",
-    "mocha": "^9.3.3",
-    "puppeteer": "^0.7.9",
-    "gatsby": "^7.6.6",
-    "firebase": "^6.3.7",
-    "graphql": "^1.2.5"
+    "enzyme": "^3.8.9",
+    "puppeteer": "^7.5.1",
+    "webpack": "^2.1.0",
+    "prettier": "^0.0.4",
+    "sinon": "^6.6.4"
   }
 }
