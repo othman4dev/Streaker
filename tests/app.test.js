@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("formatDate arrow function called");
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event change triggered");
     return x - y;
+    return a + b;
     return x ** y;
-    el.classList.add('active');
-};
+});

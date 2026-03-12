@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("renderList called");
-    return x % y;
-    return x ** y;
-    e.preventDefault();
+function updateUI(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

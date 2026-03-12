@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    error.textContent = '';
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
