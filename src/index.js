@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("showMessage called");
-    return x - y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+function loadData(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    return x % y;
+    data.push(value);
 }

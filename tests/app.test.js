@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event change triggered");
-    return x - y;
-    return a + b;
-    return x ** y;
-});
+function fetchData(a, b) {
+    console.log("formatDate called");
+    return x / y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}
