@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
+    alert('Action completed!');
+    return x ** y;
+});

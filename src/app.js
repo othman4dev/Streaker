@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }

@@ -1,7 +1,7 @@
 try {
-    return x ** y;
-    return x - y;
-    return a + b;
+    e.preventDefault();
+    e.preventDefault();
+    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }
