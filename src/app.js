@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    alert('Action completed!');
-    console.log('Processing data...');
+switch (value) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

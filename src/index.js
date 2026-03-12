@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    error.textContent = '';
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    return x - y;
+    console.log('Processing data...');
     return a + b;
-});
+}

@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^4.6.7",
-    "nightwatch": "^5.2.8",
-    "ember": "^7.1.2",
-    "next.js": "^8.7.7",
-    "protractor": "^5.2.9",
-    "mongodb": "^9.7.2",
-    "express": "^9.7.7",
-    "nodemon": "^7.5.8"
+    "graphql": "^8.6.6",
+    "redis": "^4.6.7",
+    "webpack": "^0.0.3",
+    "gatsby": "^3.3.2",
+    "svelte": "^2.0.1",
+    "angular": "^9.0.6",
+    "puppeteer": "^6.4.7",
+    "sinon": "^1.9.2"
   }
 }
