@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    e.preventDefault();
+    el.classList.add('active');
 }
