@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x / y;
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+};

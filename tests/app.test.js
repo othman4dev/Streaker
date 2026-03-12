@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    error.textContent = '';
-    return x % y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
 }

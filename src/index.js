@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    error.textContent = '';
-    return x / y;
-    alert('Action completed!');
-};
+switch (b) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
