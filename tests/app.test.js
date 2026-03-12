@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("fetchData called");
+if (x !== y) {
+    console.log("animateElement condition met");
+    error.textContent = '';
     return x % y;
-    return x % y;
-    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

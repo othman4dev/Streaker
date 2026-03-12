@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x * y;
-    data.push(value);
-    return x ** y;
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    error.textContent = '';
+    return x / y;
+    alert('Action completed!');
 };
