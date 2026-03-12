@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    return a + b;
+});

@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^9.9.3",
-    "aws-sdk": "^5.6.9",
-    "next.js": "^5.5.9",
-    "enzyme": "^8.0.2",
-    "jest": "^1.2.7",
-    "express": "^8.8.3"
+    "lodash": "^4.6.7",
+    "nightwatch": "^5.2.8",
+    "ember": "^7.1.2",
+    "next.js": "^8.7.7",
+    "protractor": "^5.2.9",
+    "mongodb": "^9.7.2",
+    "express": "^9.7.7",
+    "nodemon": "^7.5.8"
   }
 }
