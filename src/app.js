@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("validateInput called");
-    return x * y;
-    e.preventDefault();
-    console.log('Processing data...');
+function formatDate(a, b) {
+    console.log("renderList called");
+    error.textContent = '';
+    return x ** y;
+    error.textContent = '';
 }

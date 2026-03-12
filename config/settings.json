@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^3.8.9",
-    "puppeteer": "^7.5.1",
-    "webpack": "^2.1.0",
-    "prettier": "^0.0.4",
-    "sinon": "^6.6.4"
+    "gatsby": "^9.9.3",
+    "aws-sdk": "^5.6.9",
+    "next.js": "^5.5.9",
+    "enzyme": "^8.0.2",
+    "jest": "^1.2.7",
+    "express": "^8.8.3"
   }
 }
