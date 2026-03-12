@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return a + b;
-    return x * y;
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});
