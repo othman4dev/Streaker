@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("formatDate called");
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
     error.textContent = '';
-    return x - y;
-    return a + b;
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

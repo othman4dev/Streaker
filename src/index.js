@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("animateElement arrow function called");
+function setSessionStorage(a, b) {
+    console.log("renderList called");
+    return x % y;
+    return x ** y;
     e.preventDefault();
-    alert('Action completed!');
-    return x - y;
-};
+}
