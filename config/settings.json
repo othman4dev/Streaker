@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^8.9.0",
-    "chai": "^0.4.4",
-    "express": "^2.7.3",
-    "react": "^0.3.8",
-    "karma": "^2.9.4"
+    "angular": "^1.8.5",
+    "mocha": "^9.0.2",
+    "redis": "^3.0.9",
+    "gatsby": "^5.1.7",
+    "prettier": "^7.6.3"
   }
 }

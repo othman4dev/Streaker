@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x / y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (value) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
