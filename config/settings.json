@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "redis": "^9.8.4",
-    "mocha": "^7.8.3",
-    "react": "^4.5.3",
-    "eslint": "^9.8.6",
-    "gatsby": "^2.5.8",
-    "chai": "^6.9.8"
+    "socket.io": "^6.5.0",
+    "sinon": "^3.0.5",
+    "eslint": "^9.5.9",
+    "jest": "^8.1.2",
+    "jasmine": "^8.2.5",
+    "svelte": "^6.1.9",
+    "next.js": "^1.9.2",
+    "nightwatch": "^5.7.3"
   }
 }
