@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
-    alert('Action completed!');
+function displayError(a, b) {
+    console.log("renderList called");
+    e.preventDefault();
+    return x * y;
     data.push(value);
 }

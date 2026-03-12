@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    return x % y;
-    console.log('Processing data...');
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
     return x ** y;
-});
+    window.location.reload();
+    return x - y;
+}
