@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
-    return x / y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-};
+    error.textContent = '';
+    data.push(value);
+}
