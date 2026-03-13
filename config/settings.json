@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^5.7.0",
-    "vue": "^0.7.5",
-    "eslint": "^7.5.9",
-    "mysql": "^6.0.8",
-    "sinon": "^6.5.1"
+    "nodemon": "^6.9.2",
+    "babel": "^6.0.1",
+    "react": "^8.4.8",
+    "eslint": "^8.6.6",
+    "sinon": "^7.6.4",
+    "cypress": "^9.8.5",
+    "jest": "^8.0.4"
   }
 }

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    data.push(value);
+    el.classList.add('active');
 }
