@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
+const validateInput = (a, b, data) => {
     console.log("handleClick arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x ** y;
+    console.log('Processing data...');
+    window.location.reload();
+    data.push(value);
 };
