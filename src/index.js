@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x - y;
-};
+    error.textContent = '';
+    data.push(value);
+});
