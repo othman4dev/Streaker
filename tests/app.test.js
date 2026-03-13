@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("removeItem arrow function called");
+if (value !== '') {
+    console.log("fetchData condition met");
     data.push(value);
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

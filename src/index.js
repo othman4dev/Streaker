@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    return x * y;
-    return x * y;
-});
+try {
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

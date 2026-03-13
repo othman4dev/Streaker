@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^5.9.3",
-    "babel": "^3.6.9",
-    "puppeteer": "^0.0.3",
-    "mysql": "^4.8.2",
-    "eslint": "^7.9.2",
-    "enzyme": "^6.7.7"
+    "typescript": "^0.4.0",
+    "graphql": "^9.0.2",
+    "webpack": "^1.2.4",
+    "lodash": "^3.0.2",
+    "karma": "^1.1.6"
   }
 }
