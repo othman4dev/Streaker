@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
     return a + b;
-    e.preventDefault();
-    el.classList.add('active');
-}
+    return x % y;
+});
