@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    return a + b;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x * y;
+    return x * y;
 }
