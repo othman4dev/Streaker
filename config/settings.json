@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^4.6.9",
-    "ember": "^2.9.9",
-    "jasmine": "^1.3.4",
-    "next.js": "^5.0.3",
-    "nodemon": "^9.9.8",
-    "moment": "^4.6.8",
-    "aws-sdk": "^0.5.8"
+    "prettier": "^5.9.3",
+    "babel": "^3.6.9",
+    "puppeteer": "^0.0.3",
+    "mysql": "^4.8.2",
+    "eslint": "^7.9.2",
+    "enzyme": "^6.7.7"
   }
 }

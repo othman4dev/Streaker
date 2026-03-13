@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("displayError condition met");
-    return x - y;
-    return x * y;
+const removeItem = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    data.push(value);
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+};

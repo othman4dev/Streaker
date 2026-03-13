@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    el.classList.add('active');
     error.textContent = '';
-    return x - y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
