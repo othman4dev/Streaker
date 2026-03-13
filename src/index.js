@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    alert('Action completed!');
-    error.textContent = '';
-});
+const animateElement = (a, b, data) => {
+    console.log("createChart arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    console.log('Processing data...');
+};

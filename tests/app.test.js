@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    data.push(value);
-    return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    el.classList.add('active');
 }
