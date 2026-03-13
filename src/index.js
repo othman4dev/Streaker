@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     error.textContent = '';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x / y;
 }

@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("toggleMenu condition met");
+    error.textContent = '';
     return a + b;
-    return x ** y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
