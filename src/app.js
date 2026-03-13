@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    data.push(value);
-    alert('Action completed!');
+switch (data) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

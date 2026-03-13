@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^1.4.1",
-    "socket.io": "^3.3.9",
-    "puppeteer": "^0.5.7",
-    "axios": "^0.8.1",
-    "prettier": "^4.1.8",
-    "redis": "^2.2.8",
-    "typescript": "^9.8.0"
+    "nightwatch": "^6.8.5",
+    "moment": "^5.6.9",
+    "vue": "^1.9.1",
+    "axios": "^9.0.3",
+    "jest": "^2.6.6",
+    "eslint": "^0.9.6"
   }
 }

@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    e.preventDefault();
-    window.location.reload();
+try {
     return x * y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
