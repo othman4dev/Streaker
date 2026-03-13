@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
+try {
     error.textContent = '';
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    return x - y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

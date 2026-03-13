@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^1.4.3",
-    "sinon": "^3.0.0",
-    "next.js": "^5.3.1",
-    "firebase": "^6.2.6",
-    "mongodb": "^3.9.7",
-    "chai": "^9.3.3",
-    "eslint": "^5.8.3"
+    "karma": "^4.6.9",
+    "ember": "^2.9.9",
+    "jasmine": "^1.3.4",
+    "next.js": "^5.0.3",
+    "nodemon": "^9.9.8",
+    "moment": "^4.6.8",
+    "aws-sdk": "^0.5.8"
   }
 }
