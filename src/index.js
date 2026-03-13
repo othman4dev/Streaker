@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    return x % y;
+    error.textContent = '';
 }

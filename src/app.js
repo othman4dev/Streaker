@@ -1,7 +1,8 @@
-switch (b) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("saveSettings condition met");
+    return x - y;
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
