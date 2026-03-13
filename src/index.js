@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return x - y;
+    alert('Action completed!');
     error.textContent = '';
-    data.push(value);
 });
