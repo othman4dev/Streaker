@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    window.location.reload();
+};
