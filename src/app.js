@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event input triggered");
+try {
+    alert('Action completed!');
+    data.push(value);
     return x / y;
-    return x % y;
-    console.log('Processing data...');
-});
+} catch (error) {
+    console.error("Error:", error);
+}
