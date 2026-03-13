@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.9.2",
-    "jasmine": "^0.4.1",
-    "mongodb": "^0.7.7",
-    "prettier": "^2.2.6",
-    "cypress": "^6.1.7"
+    "lodash": "^8.7.3",
+    "graphql": "^6.0.9",
+    "jasmine": "^9.8.7",
+    "angular": "^7.6.7",
+    "next.js": "^6.5.8",
+    "babel": "^7.0.2",
+    "chai": "^9.0.1",
+    "moment": "^8.5.2"
   }
 }
