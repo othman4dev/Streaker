@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    return a + b;
+    window.location.reload();
+});
