@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    e.preventDefault();
-    return a + b;
-    e.preventDefault();
-};
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x % y;
+});
