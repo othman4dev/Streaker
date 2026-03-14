@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    data.push(value);
-    console.log('Processing data...');
-});
+try {
+    return x % y;
+    e.preventDefault();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

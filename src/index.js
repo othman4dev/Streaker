@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
+if (x !== y) {
+    console.log("loadData condition met");
+    console.log('Processing data...');
+    error.textContent = '';
     return x - y;
-    return a + b;
-    window.location.reload();
-};
+} else {
+    console.log("Condition not met");
+}
