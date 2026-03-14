@@ -1,7 +1,7 @@
-switch (data) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    return a + b;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
