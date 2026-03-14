@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^4.5.9",
-    "express": "^8.4.9",
-    "jest": "^6.1.6",
-    "vue": "^4.0.7",
-    "aws-sdk": "^5.4.9"
+    "jasmine": "^8.2.8",
+    "svelte": "^4.1.8",
+    "angular": "^2.5.4",
+    "sinon": "^2.2.9",
+    "firebase": "^2.7.9"
   }
 }
