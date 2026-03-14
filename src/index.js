@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("submitForm called");
-    return x % y;
-    return x - y;
-    console.log('Processing data...');
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    error.textContent = '';
+    data.push(value);
 }

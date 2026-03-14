@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("checkStatus called");
-    alert('Action completed!');
+const submitForm = (a, b, data) => {
+    console.log("createChart arrow function called");
     return x * y;
-    return x % y;
-}
+    window.location.reload();
+    return a + b;
+};
