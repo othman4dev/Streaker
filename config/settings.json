@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "moment": "^3.2.0",
-    "webpack": "^0.9.5",
-    "socket.io": "^3.4.0",
-    "jasmine": "^7.0.4",
-    "aws-sdk": "^6.8.5"
+    "typescript": "^8.5.5",
+    "jest": "^2.2.5",
+    "nodemon": "^8.1.0",
+    "moment": "^7.2.8",
+    "webpack": "^3.2.3",
+    "karma": "^8.2.7",
+    "graphql": "^5.7.5",
+    "jasmine": "^6.6.1"
   }
 }

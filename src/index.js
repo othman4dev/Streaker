@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
+const updateUI = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
     return x % y;
-    error.textContent = '';
-}
+};
