@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x * y;
-    window.location.reload();
-    return a + b;
-};
+function formatDate(a, b) {
+    console.log("loadData called");
+    return x % y;
+    return x / y;
+    alert('Action completed!');
+}
