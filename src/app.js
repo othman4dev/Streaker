@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("loadData called");
-    return x % y;
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x - y;
     return x / y;
-    alert('Action completed!');
-}
+    data.push(value);
+});
