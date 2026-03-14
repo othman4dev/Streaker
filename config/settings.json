@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^8.5.5",
-    "jest": "^2.2.5",
-    "nodemon": "^8.1.0",
-    "moment": "^7.2.8",
-    "webpack": "^3.2.3",
-    "karma": "^8.2.7",
-    "graphql": "^5.7.5",
-    "jasmine": "^6.6.1"
+    "babel": "^9.9.2",
+    "jest": "^2.7.0",
+    "gatsby": "^7.2.5",
+    "graphql": "^9.1.3",
+    "ember": "^6.0.7",
+    "puppeteer": "^2.9.5"
   }
 }

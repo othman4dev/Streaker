@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     return x ** y;
-    e.preventDefault();
     return x - y;
-} else {
-    console.log("Condition not met");
 }
