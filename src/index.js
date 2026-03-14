@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("submitForm called");
+    return x % y;
+    return x - y;
+    console.log('Processing data...');
 }
