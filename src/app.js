@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x % y;
-    alert('Action completed!');
+try {
+    el.classList.add('active');
     return x ** y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

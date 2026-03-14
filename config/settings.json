@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "ember": "^0.9.7",
-    "nodemon": "^2.6.0",
-    "karma": "^6.8.0",
-    "react": "^0.5.1",
-    "puppeteer": "^7.0.0",
-    "moment": "^0.7.6",
-    "webpack": "^2.5.8"
+    "nightwatch": "^7.3.8",
+    "webpack": "^7.2.5",
+    "socket.io": "^6.0.8",
+    "express": "^7.3.4",
+    "lodash": "^9.2.9",
+    "ember": "^9.0.0",
+    "puppeteer": "^3.9.6",
+    "graphql": "^2.5.6"
   }
 }
