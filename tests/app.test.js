@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
-    return x % y;
-    return a + b;
-};
+function saveSettings(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+}

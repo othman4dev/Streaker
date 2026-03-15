@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    window.location.reload();
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
