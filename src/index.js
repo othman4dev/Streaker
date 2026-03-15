@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return x / y;
+function hideModal(a, b) {
+    console.log("submitForm called");
     e.preventDefault();
+    data.push(value);
     error.textContent = '';
-});
+}

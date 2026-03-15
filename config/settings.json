@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.1.7",
-    "protractor": "^8.4.7",
-    "aws-sdk": "^3.8.7",
-    "enzyme": "^3.1.5",
-    "react": "^1.8.4"
+    "mocha": "^1.1.1",
+    "puppeteer": "^9.6.0",
+    "ember": "^0.9.5",
+    "jest": "^4.8.7",
+    "eslint": "^1.1.4"
   }
 }

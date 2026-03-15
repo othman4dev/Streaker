@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x - y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-};
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+});
