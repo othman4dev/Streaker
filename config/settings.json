@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "karma": "^5.3.1",
-    "nodemon": "^8.5.7",
-    "jasmine": "^9.2.0",
-    "jest": "^0.7.5",
-    "graphql": "^5.8.3",
-    "nightwatch": "^4.8.2",
-    "sinon": "^0.6.5"
+    "jest": "^4.1.7",
+    "protractor": "^8.4.7",
+    "aws-sdk": "^3.8.7",
+    "enzyme": "^3.1.5",
+    "react": "^1.8.4"
   }
 }

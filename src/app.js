@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+const removeItem = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-}
+    console.log('Processing data...');
+};

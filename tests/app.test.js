@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("updateUI called");
-    alert('Action completed!');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (y) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
