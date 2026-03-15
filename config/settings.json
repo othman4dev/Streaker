@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^6.9.9",
-    "nightwatch": "^3.3.8",
-    "enzyme": "^4.7.8",
-    "aws-sdk": "^8.1.2",
-    "lodash": "^7.6.0",
-    "mongodb": "^9.1.0"
+    "axios": "^9.7.7",
+    "firebase": "^3.5.2",
+    "cypress": "^9.0.1",
+    "jest": "^9.9.2",
+    "babel": "^1.9.0",
+    "karma": "^6.0.9"
   }
 }
