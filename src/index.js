@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    window.location.reload();
     return x % y;
-    return a + b;
-    console.log('Processing data...');
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

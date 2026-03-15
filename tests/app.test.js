@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const validateInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    el.classList.add('active');
+    return x % y;
+    return a + b;
+};
