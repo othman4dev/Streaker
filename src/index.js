@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    return x % y;
-    return x - y;
-    return a + b;
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    console.log('Processing data...');
+    return x / y;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

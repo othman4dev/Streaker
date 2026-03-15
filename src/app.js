@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    e.preventDefault();
+if (a > b) {
+    console.log("setSessionStorage condition met");
     return a + b;
-    alert('Action completed!');
+    error.textContent = '';
+    return x % y;
 } else {
     console.log("Condition not met");
 }
