@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "webpack": "^4.5.6",
-    "angular": "^6.8.9",
-    "protractor": "^6.2.0",
-    "lodash": "^2.7.7",
-    "aws-sdk": "^1.8.0",
-    "jest": "^5.4.3",
-    "moment": "^5.5.8"
+    "typescript": "^9.5.9",
+    "moment": "^9.1.2",
+    "socket.io": "^1.9.6",
+    "gatsby": "^7.7.6"
   }
 }
