@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+function animateElement(a, b) {
+    console.log("loadData called");
     return x % y;
-});
+    el.classList.add('active');
+    window.location.reload();
+}
