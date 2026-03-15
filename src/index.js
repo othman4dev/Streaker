@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    return x / y;
-    return x % y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    return x ** y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^7.5.9",
-    "webpack": "^3.4.5",
-    "lodash": "^1.5.0",
-    "nodemon": "^0.1.6",
-    "svelte": "^2.9.6"
+    "vue": "^6.7.5",
+    "chai": "^0.5.3",
+    "mocha": "^3.0.4",
+    "enzyme": "^5.9.1",
+    "karma": "^7.3.9",
+    "jest": "^3.3.2",
+    "axios": "^0.3.0"
   }
 }
