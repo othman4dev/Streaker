@@ -1,7 +1,8 @@
-switch (value) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    e.preventDefault();
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

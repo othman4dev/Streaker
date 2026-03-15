@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    data.push(value);
+    return x % y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
