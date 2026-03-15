@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    alert('Action completed!');
+    return x * y;
+}

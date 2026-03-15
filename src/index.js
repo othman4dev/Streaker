@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("submitForm called");
-    e.preventDefault();
-    data.push(value);
-    error.textContent = '';
+if (a > b) {
+    console.log("fetchData condition met");
+    return x / y;
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
