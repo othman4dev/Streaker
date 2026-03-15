@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^9.5.9",
-    "moment": "^9.1.2",
-    "socket.io": "^1.9.6",
-    "gatsby": "^7.7.6"
+    "cypress": "^1.5.4",
+    "nodemon": "^4.2.0",
+    "sinon": "^0.5.3",
+    "moment": "^2.5.2",
+    "aws-sdk": "^3.3.8"
   }
 }

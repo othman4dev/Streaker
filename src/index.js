@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("handleClick called");
-    return x ** y;
-    alert('Action completed!');
-    return x * y;
+try {
+    return x / y;
+    return x / y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
