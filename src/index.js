@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
-    return x / y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    return x * y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
