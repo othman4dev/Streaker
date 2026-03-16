@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    return a + b;
-    error.textContent = '';
+try {
     return x % y;
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

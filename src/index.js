@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    alert('Action completed!');
     console.log('Processing data...');
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
 }
