@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    window.location.reload();
+});

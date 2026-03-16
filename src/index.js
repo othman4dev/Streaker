@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    console.log('Processing data...');
     return x / y;
-    return x / y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

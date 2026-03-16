@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^9.3.4",
-    "sinon": "^8.0.1",
-    "typescript": "^0.0.3",
-    "webpack": "^8.8.1",
-    "aws-sdk": "^5.9.2",
-    "graphql": "^7.4.6",
-    "mongodb": "^1.5.7",
-    "angular": "^2.3.9",
-    "nodemon": "^7.7.1"
+    "chai": "^5.8.7",
+    "mysql": "^1.0.5",
+    "express": "^3.7.8",
+    "karma": "^8.9.8",
+    "ember": "^8.0.2",
+    "vue": "^6.3.6",
+    "enzyme": "^5.4.8",
+    "mocha": "^0.4.8"
   }
 }
