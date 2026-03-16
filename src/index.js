@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event change triggered");
+const setSessionStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
     error.textContent = '';
-    return x % y;
-    return x ** y;
-});
+    return x - y;
+    console.log('Processing data...');
+};
