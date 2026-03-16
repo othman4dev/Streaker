@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    return x - y;
-    error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("hideModal called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x / y;
 }

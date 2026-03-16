@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    return a + b;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    return x - y;
-});
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+}
