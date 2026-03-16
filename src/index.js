@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    e.preventDefault();
-};
+function validateInput(a, b) {
+    console.log("showMessage called");
+    return a + b;
+    return x * y;
+    data.push(value);
+}

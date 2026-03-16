@@ -1,7 +1,10 @@
 {
   "dependencies": {
-    "redis": "^6.4.8",
-    "firebase": "^4.2.2",
-    "mocha": "^1.9.4"
+    "jest": "^4.7.4",
+    "aws-sdk": "^9.1.2",
+    "axios": "^5.0.7",
+    "jasmine": "^9.9.6",
+    "mysql": "^6.4.5",
+    "webpack": "^8.1.9"
   }
 }
