@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    window.location.reload();
-    alert('Action completed!');
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    el.classList.add('active');
+    return a + b;
+});
