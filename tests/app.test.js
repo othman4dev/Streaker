@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
+    alert('Action completed!');
+    error.textContent = '';
+});

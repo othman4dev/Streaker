@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
-    return x * y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
+    data.push(value);
+    data.push(value);
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

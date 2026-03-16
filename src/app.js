@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x % y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (a) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
