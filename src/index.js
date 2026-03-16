@@ -1,7 +1,8 @@
-try {
+if (value !== '') {
+    console.log("setCookie condition met");
+    return x - y;
     error.textContent = '';
-    error.textContent = '';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

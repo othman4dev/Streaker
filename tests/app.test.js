@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    el.classList.add('active');
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
     return a + b;
+    el.classList.add('active');
+    return x - y;
 });
