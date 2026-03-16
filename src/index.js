@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    data.push(value);
-    data.push(value);
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event change triggered");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+    return x ** y;
+});

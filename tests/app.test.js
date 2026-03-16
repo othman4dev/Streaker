@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    alert('Action completed!');
-    error.textContent = '';
-});
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    return x ** y;
+    return x ** y;
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
