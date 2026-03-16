@@ -1,7 +1,8 @@
-switch (data) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    error.textContent = '';
+    window.location.reload();
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
