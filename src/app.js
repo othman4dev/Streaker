@@ -1,7 +1,6 @@
-try {
+function saveSettings(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    return a + b;
     return x % y;
-    el.classList.add('active');
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
 }
