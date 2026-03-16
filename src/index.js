@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("showMessage called");
-    return a + b;
-    return x * y;
-    data.push(value);
-}
+const renderList = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    error.textContent = '';
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};
