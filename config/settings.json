@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "express": "^4.0.8",
-    "next.js": "^1.1.7",
-    "eslint": "^8.5.4",
-    "gatsby": "^3.3.9",
-    "angular": "^3.6.2",
-    "sinon": "^9.8.6",
-    "webpack": "^9.9.5"
+    "svelte": "^3.2.5",
+    "chai": "^5.2.1",
+    "webpack": "^7.8.1",
+    "jasmine": "^0.8.5",
+    "vue": "^6.8.0",
+    "prettier": "^1.8.5",
+    "redis": "^2.3.2",
+    "react": "^5.4.4"
   }
 }

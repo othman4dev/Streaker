@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event submit triggered");
     e.preventDefault();
-    alert('Action completed!');
-    e.preventDefault();
-};
+    console.log('Processing data...');
+    return x - y;
+});
