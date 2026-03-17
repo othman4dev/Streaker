@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    console.log('Processing data...');
-    return x % y;
-}
+const fetchData = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+};

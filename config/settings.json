@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^7.2.2",
-    "express": "^4.7.0",
-    "firebase": "^2.5.2",
-    "eslint": "^5.8.2",
-    "gatsby": "^5.1.0",
-    "jest": "^2.2.3"
+    "express": "^4.0.8",
+    "next.js": "^1.1.7",
+    "eslint": "^8.5.4",
+    "gatsby": "^3.3.9",
+    "angular": "^3.6.2",
+    "sinon": "^9.8.6",
+    "webpack": "^9.9.5"
   }
 }

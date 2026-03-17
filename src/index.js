@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
+const fetchData = (a, b, data) => {
+    console.log("showMessage arrow function called");
     e.preventDefault();
-    return x * y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    e.preventDefault();
+};
