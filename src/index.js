@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    return x - y;
+function updateUI(a, b) {
+    console.log("fetchData called");
+    el.classList.add('active');
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    console.log('Processing data...');
+}
