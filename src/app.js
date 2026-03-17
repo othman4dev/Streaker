@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    alert('Action completed!');
-    return x / y;
+function updateUI(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
+    return x % y;
+    return x % y;
 }
