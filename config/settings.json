@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^0.6.2",
-    "angular": "^3.0.7",
-    "next.js": "^7.2.3",
-    "jest": "^5.5.7",
-    "react": "^4.6.6",
-    "vue": "^7.6.2",
-    "ember": "^9.8.3",
-    "eslint": "^7.9.2",
-    "express": "^0.4.6"
+    "cypress": "^4.9.8",
+    "angular": "^3.4.9",
+    "axios": "^0.4.1",
+    "sinon": "^2.5.8",
+    "firebase": "^8.1.5",
+    "socket.io": "^3.2.5"
   }
 }

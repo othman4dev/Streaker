@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
-    return a + b;
-    e.preventDefault();
-};
+function updateUI(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x - y;
+}
