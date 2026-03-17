@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    data.push(value);
-    return x % y;
-    window.location.reload();
-};
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    error.textContent = '';
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

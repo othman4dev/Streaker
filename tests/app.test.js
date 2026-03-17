@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
-    return a + b;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    console.log('Processing data...');
     return x % y;
-};
+}
