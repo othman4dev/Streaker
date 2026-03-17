@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+const fetchData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    console.log('Processing data...');
     console.log('Processing data...');
     return x ** y;
-    el.classList.add('active');
 };

@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    return x % y;
-    return x % y;
+switch (value) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
