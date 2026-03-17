@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x - y;
 }

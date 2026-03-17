@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("getLocalStorage condition met");
+    return x - y;
     return x ** y;
-    e.preventDefault();
+    return x ** y;
 } else {
     console.log("Condition not met");
 }

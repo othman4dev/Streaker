@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    console.log('Processing data...');
-    return x % y;
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
+});
