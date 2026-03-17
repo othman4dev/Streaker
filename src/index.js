@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return x - y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+});

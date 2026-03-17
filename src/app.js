@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-};
+if (x === y) {
+    console.log("setCookie condition met");
+    return x * y;
+    data.push(value);
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
