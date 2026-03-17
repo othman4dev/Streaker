@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x * y;
-    el.classList.add('active');
-}
+const submitForm = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+};
