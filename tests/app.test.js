@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("createChart called");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-    window.location.reload();
-    return x - y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 }

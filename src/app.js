@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("formatDate called");
-    alert('Action completed!');
-    error.textContent = '';
-    return x % y;
+switch (e) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
