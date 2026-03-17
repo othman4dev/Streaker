@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    window.location.reload();
-    return x ** y;
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    e.preventDefault();
+    return x * y;
+}

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
-    return x - y;
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function handleClick(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

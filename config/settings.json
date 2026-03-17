@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^3.2.9",
-    "protractor": "^8.3.4",
-    "axios": "^4.6.7",
-    "vue": "^4.8.8",
-    "mysql": "^6.2.9",
-    "puppeteer": "^0.9.3"
+    "cypress": "^6.2.6",
+    "graphql": "^1.1.6",
+    "protractor": "^2.1.8",
+    "next.js": "^3.8.9"
   }
 }
