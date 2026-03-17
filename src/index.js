@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
     return a + b;
     document.body.style.backgroundColor = 'lightblue';
-}
+    error.textContent = '';
+});

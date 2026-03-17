@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
-    error.textContent = '';
-    el.classList.add('active');
-};
+try {
+    window.location.reload();
+    return x % y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

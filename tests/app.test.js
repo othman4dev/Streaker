@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("removeItem condition met");
-    e.preventDefault();
+const createChart = (a, b, data) => {
+    console.log("updateUI arrow function called");
     console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    return x ** y;
+};
