@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+const validateInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
+    return a + b;
+    e.preventDefault();
+};
