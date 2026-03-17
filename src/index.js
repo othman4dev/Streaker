@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    error.textContent = '';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (x) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
