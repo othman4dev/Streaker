@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^7.0.6",
-    "jasmine": "^9.6.2",
-    "babel": "^7.5.7",
-    "socket.io": "^8.6.6",
-    "mysql": "^0.4.5",
-    "vue": "^0.7.3"
+    "gatsby": "^5.8.8",
+    "mocha": "^6.9.3",
+    "vue": "^3.3.3",
+    "cypress": "^7.8.4",
+    "redis": "^4.4.9",
+    "next.js": "^3.6.1"
   }
 }
