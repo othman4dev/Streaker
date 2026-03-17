@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    return x - y;
-});
+const toggleMenu = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x / y;
+    data.push(value);
+    alert('Action completed!');
+};

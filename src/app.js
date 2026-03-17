@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    alert('Action completed!');
-    return x % y;
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    return x / y;
+    return x / y;
 };
