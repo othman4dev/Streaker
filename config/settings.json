@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "redis": "^9.5.0",
-    "typescript": "^5.9.0",
-    "gatsby": "^1.2.5",
-    "chai": "^5.6.7"
+    "mongodb": "^7.0.6",
+    "jasmine": "^9.6.2",
+    "babel": "^7.5.7",
+    "socket.io": "^8.6.6",
+    "mysql": "^0.4.5",
+    "vue": "^0.7.3"
   }
 }

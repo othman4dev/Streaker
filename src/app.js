@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
-    return x * y;
-    return x % y;
-});
+function fetchData(a, b) {
+    console.log("submitForm called");
+    return x - y;
+    window.location.reload();
+    return x / y;
+}

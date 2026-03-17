@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    error.textContent = '';
-    return x - y;
+try {
+    return x / y;
+    return x / y;
     console.log('Processing data...');
-};
+} catch (error) {
+    console.error("Error:", error);
+}
