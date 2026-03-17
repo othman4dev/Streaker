@@ -1,7 +1,6 @@
-try {
+const hideModal = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    data.push(value);
     return x % y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};
