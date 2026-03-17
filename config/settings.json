@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "ember": "^4.9.9",
-    "prettier": "^9.2.6",
-    "mocha": "^6.1.0",
-    "jasmine": "^0.3.2",
-    "socket.io": "^3.9.8",
-    "cypress": "^7.3.2",
-    "chai": "^3.8.6",
-    "jest": "^1.1.0",
-    "firebase": "^2.2.6"
+    "mongodb": "^7.2.2",
+    "express": "^4.7.0",
+    "firebase": "^2.5.2",
+    "eslint": "^5.8.2",
+    "gatsby": "^5.1.0",
+    "jest": "^2.2.3"
   }
 }
