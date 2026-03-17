@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
