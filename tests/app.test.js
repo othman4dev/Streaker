@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    el.classList.add('active');
+function displayError(a, b) {
+    console.log("createChart called");
     return x * y;
-});
+    window.location.reload();
+    return x - y;
+}

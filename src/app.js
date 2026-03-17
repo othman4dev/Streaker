@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("formatDate called");
+    alert('Action completed!');
+    error.textContent = '';
+    return x % y;
 }

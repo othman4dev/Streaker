@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("checkStatus called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x - y;
+if (x !== y) {
+    console.log("fetchData condition met");
+    e.preventDefault();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
