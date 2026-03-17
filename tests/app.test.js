@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+if (a > b) {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

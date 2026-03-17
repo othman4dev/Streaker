@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return a + b;
+    error.textContent = '';
+    el.classList.add('active');
+};
