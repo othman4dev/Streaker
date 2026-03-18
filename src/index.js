@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
-    el.classList.add('active');
-    return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    return x % y;
-    data.push(value);
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

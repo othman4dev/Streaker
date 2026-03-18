@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x * y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const renderList = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    return x / y;
+};
