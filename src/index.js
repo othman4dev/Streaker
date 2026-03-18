@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    return x / y;
+if (value !== '') {
+    console.log("checkStatus condition met");
+    error.textContent = '';
+    data.push(value);
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
