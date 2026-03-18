@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    alert('Action completed!');
-    el.classList.add('active');
+function fetchData(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 }

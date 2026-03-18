@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "jasmine": "^4.3.2",
-    "redis": "^9.3.6",
-    "next.js": "^1.9.2",
-    "graphql": "^6.6.7",
-    "react": "^8.4.8",
-    "lodash": "^0.1.6",
-    "cypress": "^8.5.7",
-    "eslint": "^7.1.5",
-    "svelte": "^4.8.8"
+    "vue": "^4.4.1",
+    "jest": "^6.4.9",
+    "cypress": "^5.3.9",
+    "express": "^5.7.2"
   }
 }
