@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event change triggered");
     console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    return x - y;
+});

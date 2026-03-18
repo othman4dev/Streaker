@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jest": "^7.3.6",
-    "express": "^8.7.4",
-    "svelte": "^4.0.5",
-    "nodemon": "^7.9.8",
-    "sinon": "^6.8.9",
-    "next.js": "^6.3.9"
+    "gatsby": "^6.9.1",
+    "firebase": "^3.6.5",
+    "mongodb": "^7.8.1",
+    "babel": "^4.4.4",
+    "protractor": "^5.8.8",
+    "prettier": "^2.0.5",
+    "svelte": "^9.7.0",
+    "chai": "^3.3.1"
   }
 }

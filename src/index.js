@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("fetchData called");
-    alert('Action completed!');
-    error.textContent = '';
-    el.classList.add('active');
-}
+const formatDate = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    window.location.reload();
+    window.location.reload();
+    return x ** y;
+};
