@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("validateInput arrow function called");
+const renderList = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     window.location.reload();
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 };
