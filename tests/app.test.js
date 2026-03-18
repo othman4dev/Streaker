@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+const removeItem = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
     el.classList.add('active');
-    data.push(value);
     el.classList.add('active');
-}
+};

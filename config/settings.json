@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "vue": "^4.4.1",
-    "jest": "^6.4.9",
-    "cypress": "^5.3.9",
-    "express": "^5.7.2"
+    "nightwatch": "^6.5.1",
+    "firebase": "^9.1.9",
+    "enzyme": "^3.8.9",
+    "mocha": "^9.6.4",
+    "karma": "^4.6.4",
+    "lodash": "^4.9.6",
+    "prettier": "^1.5.4"
   }
 }
