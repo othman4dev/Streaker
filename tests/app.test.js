@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    window.location.reload();
+const formatDate = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return a + b;
-});
+    return x * y;
+    return x % y;
+};

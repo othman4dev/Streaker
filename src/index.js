@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("saveSettings called");
+function fetchData(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    error.textContent = '';
     alert('Action completed!');
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
 }

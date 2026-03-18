@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("updateUI condition met");
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    return x / y;
     e.preventDefault();
-    e.preventDefault();
-    el.classList.add('active');
+    return x - y;
 } else {
     console.log("Condition not met");
 }
