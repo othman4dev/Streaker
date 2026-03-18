@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("setSessionStorage called");
-    return x % y;
-    return x * y;
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event focus triggered");
     console.log('Processing data...');
-}
+    console.log('Processing data...');
+    data.push(value);
+});

@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    el.classList.add('active');
-};
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    error.textContent = '';
+    return x ** y;
+});
