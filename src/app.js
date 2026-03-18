@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("toggleMenu condition met");
-    e.preventDefault();
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x * y;
     return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
 }

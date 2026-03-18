@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("createChart condition met");
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    el.classList.add('active');
+    console.log('Processing data...');
     window.location.reload();
-    return x * y;
 } else {
     console.log("Condition not met");
 }
