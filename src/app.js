@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("loadData called");
+    return x % y;
+    el.classList.add('active');
+    error.textContent = '';
 }

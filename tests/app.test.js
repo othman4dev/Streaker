@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x / y;
-    console.log('Processing data...');
-    return x / y;
-};
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+});
