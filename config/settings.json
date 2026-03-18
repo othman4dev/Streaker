@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^5.5.8",
-    "mongodb": "^3.0.1",
-    "lodash": "^8.9.8",
-    "aws-sdk": "^3.2.9",
-    "karma": "^6.8.1",
-    "nodemon": "^1.8.9"
+    "jest": "^1.1.4",
+    "ember": "^3.3.9",
+    "chai": "^5.5.6",
+    "webpack": "^5.2.9",
+    "vue": "^7.9.1"
   }
 }

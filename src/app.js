@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
