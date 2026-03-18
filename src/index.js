@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    error.textContent = '';
-    alert('Action completed!');
+function setCookie(a, b) {
+    console.log("animateElement called");
+    return x - y;
+    return a + b;
+    window.location.reload();
 }
