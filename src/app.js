@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    alert('Action completed!');
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event change triggered");
     error.textContent = '';
-    return x - y;
-};
+    window.location.reload();
+    console.log('Processing data...');
+});

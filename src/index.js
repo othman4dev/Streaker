@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("animateElement called");
-    return x - y;
-    return a + b;
-    window.location.reload();
+try {
+    error.textContent = '';
+    alert('Action completed!');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
