@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x / y;
     window.location.reload();
-    console.log('Processing data...');
-});
+    alert('Action completed!');
+};
