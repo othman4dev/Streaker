@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    return x - y;
-};
+function handleClick(a, b) {
+    console.log("checkStatus called");
+    data.push(value);
+    return a + b;
+    console.log('Processing data...');
+}

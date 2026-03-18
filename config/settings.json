@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^1.5.5",
-    "nodemon": "^1.7.0",
-    "nightwatch": "^5.4.6",
-    "firebase": "^6.3.5",
-    "express": "^7.1.7",
-    "angular": "^6.8.7",
-    "vue": "^0.2.7"
+    "nightwatch": "^9.9.1",
+    "webpack": "^2.3.9",
+    "moment": "^5.9.6",
+    "enzyme": "^1.3.7",
+    "next.js": "^4.6.6",
+    "puppeteer": "^2.2.7",
+    "socket.io": "^2.7.0",
+    "jest": "^5.9.2"
   }
 }

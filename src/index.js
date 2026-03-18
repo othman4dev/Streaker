@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    el.classList.add('active');
-    data.push(value);
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }
