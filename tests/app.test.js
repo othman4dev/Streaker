@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});

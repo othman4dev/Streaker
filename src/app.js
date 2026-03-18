@@ -1,7 +1,8 @@
-switch (value) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("formatDate condition met");
+    error.textContent = '';
+    console.log('Processing data...');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
