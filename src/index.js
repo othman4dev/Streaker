@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    data.push(value);
-});
+function showMessage(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+}

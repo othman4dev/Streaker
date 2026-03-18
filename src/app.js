@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("toggleMenu condition met");
-    data.push(value);
-    return a + b;
-    return a + b;
+if (x !== y) {
+    console.log("updateUI condition met");
+    e.preventDefault();
+    e.preventDefault();
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

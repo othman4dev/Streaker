@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^5.7.0",
-    "enzyme": "^0.7.9",
-    "vue": "^5.8.1",
-    "graphql": "^2.3.3",
-    "svelte": "^4.9.9",
-    "express": "^6.0.8",
-    "ember": "^2.0.4",
-    "socket.io": "^4.2.0"
+    "nightwatch": "^6.1.7",
+    "redis": "^2.6.1",
+    "enzyme": "^1.6.0",
+    "svelte": "^1.0.7",
+    "mysql": "^7.0.6",
+    "firebase": "^9.5.1"
   }
 }
