@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^8.1.2",
-    "chai": "^9.2.8",
-    "mysql": "^3.1.8",
-    "webpack": "^5.7.7",
-    "nightwatch": "^1.4.4",
-    "vue": "^5.0.6",
-    "babel": "^9.9.9",
-    "angular": "^4.0.2",
-    "sinon": "^0.4.4"
+    "mocha": "^9.7.8",
+    "karma": "^2.8.2",
+    "angular": "^1.1.0",
+    "firebase": "^0.7.3",
+    "next.js": "^8.8.9",
+    "axios": "^8.9.1",
+    "express": "^8.8.7"
   }
 }

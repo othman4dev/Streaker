@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("updateUI called");
-    return x - y;
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+    return x * y;
+    alert('Action completed!');
+};
