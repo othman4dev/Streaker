@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    return x / y;
-    return x / y;
-};
+function setCookie(a, b) {
+    console.log("toggleMenu called");
+    return x - y;
+    window.location.reload();
+    return x * y;
+}

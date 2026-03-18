@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
+try {
     return x / y;
-    data.push(value);
-    alert('Action completed!');
-};
+    return x / y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
