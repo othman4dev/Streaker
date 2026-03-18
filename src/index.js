@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return a + b;
-    return a + b;
-}
+const animateElement = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    data.push(value);
+    error.textContent = '';
+    return x ** y;
+};

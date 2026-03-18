@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-});
+try {
+    console.log('Processing data...');
+    alert('Action completed!');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

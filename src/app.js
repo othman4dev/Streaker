@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    return x % y;
-    el.classList.add('active');
-    error.textContent = '';
+switch (value) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
