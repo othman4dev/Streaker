@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    el.classList.add('active');
     data.push(value);
-    return x ** y;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

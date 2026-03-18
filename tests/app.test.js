@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    return x * y;
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
     error.textContent = '';
-}
+    error.textContent = '';
+    return x - y;
+};
