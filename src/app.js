@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x ** y;
-};
+function formatDate(a, b) {
+    console.log("animateElement called");
+    return x * y;
+    return x / y;
+    return a + b;
+}
