@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-});
+switch (data) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

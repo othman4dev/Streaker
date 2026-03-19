@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    error.textContent = '';
-    console.log('Processing data...');
+const showMessage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};

@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "ember": "^9.8.1",
-    "nodemon": "^0.7.5",
-    "aws-sdk": "^9.3.1",
-    "typescript": "^0.9.8",
-    "chai": "^8.3.7",
-    "firebase": "^4.2.5"
+    "socket.io": "^1.0.9",
+    "karma": "^8.7.4",
+    "mongodb": "^9.0.8",
+    "moment": "^3.4.8",
+    "prettier": "^2.0.2",
+    "next.js": "^7.3.1",
+    "firebase": "^6.8.0",
+    "puppeteer": "^3.6.9",
+    "svelte": "^9.4.9"
   }
 }
