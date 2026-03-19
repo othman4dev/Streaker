@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^1.1.4",
-    "ember": "^3.3.9",
-    "chai": "^5.5.6",
-    "webpack": "^5.2.9",
-    "vue": "^7.9.1"
+    "eslint": "^4.6.3",
+    "axios": "^4.0.1",
+    "chai": "^3.5.0",
+    "jasmine": "^2.5.5",
+    "nightwatch": "^9.7.2",
+    "mongodb": "^2.0.6"
   }
 }
