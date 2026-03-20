@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^3.9.7",
-    "nodemon": "^5.2.6",
-    "cypress": "^8.6.3",
-    "socket.io": "^6.5.0",
-    "mocha": "^6.9.4"
+    "graphql": "^2.1.1",
+    "aws-sdk": "^9.5.9",
+    "redis": "^9.1.5",
+    "cypress": "^5.7.9",
+    "jest": "^6.4.0"
   }
 }
