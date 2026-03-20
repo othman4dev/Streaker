@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "graphql": "^2.1.1",
-    "aws-sdk": "^9.5.9",
-    "redis": "^9.1.5",
-    "cypress": "^5.7.9",
-    "jest": "^6.4.0"
+    "typescript": "^7.7.7",
+    "axios": "^6.9.6",
+    "karma": "^4.7.4",
+    "aws-sdk": "^2.1.5",
+    "protractor": "^3.9.2",
+    "sinon": "^8.7.2",
+    "webpack": "^9.1.1",
+    "chai": "^5.5.4",
+    "react": "^3.1.8"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    console.log('Processing data...');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("updateUI called");
+    return x ** y;
+    data.push(value);
+    window.location.reload();
 }
