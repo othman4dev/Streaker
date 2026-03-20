@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    error.textContent = '';
-}
+const displayError = (a, b, data) => {
+    console.log("createChart arrow function called");
+    window.location.reload();
+    return x * y;
+    window.location.reload();
+};
