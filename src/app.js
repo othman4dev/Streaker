@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    error.textContent = '';
 });

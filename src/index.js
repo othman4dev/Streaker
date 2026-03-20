@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x * y;
-    console.log('Processing data...');
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-} else {
-    console.log("Condition not met");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }

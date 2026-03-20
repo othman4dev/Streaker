@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^4.4.1",
-    "ember": "^3.3.6",
-    "typescript": "^9.8.4",
-    "babel": "^2.0.2",
-    "webpack": "^7.3.0"
+    "nodemon": "^5.1.4",
+    "enzyme": "^1.5.9",
+    "jest": "^4.3.3",
+    "react": "^7.9.1",
+    "chai": "^7.2.5",
+    "protractor": "^9.8.5"
   }
 }
