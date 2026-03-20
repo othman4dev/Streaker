@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
+    return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

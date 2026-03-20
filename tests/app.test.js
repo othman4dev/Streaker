@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event click triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    console.log('Processing data...');
+});

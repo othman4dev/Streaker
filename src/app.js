@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("animateElement called");
-    return x * y;
-    return x / y;
-    return a + b;
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    data.push(value);
+    error.textContent = '';
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
