@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("getLocalStorage called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-    e.preventDefault();
+    return a + b;
+    el.classList.add('active');
 }
