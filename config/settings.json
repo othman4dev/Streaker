@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^4.6.7",
-    "redis": "^8.1.5",
-    "moment": "^4.2.3",
-    "lodash": "^5.3.1",
-    "sinon": "^0.6.1",
-    "mocha": "^6.0.0",
-    "aws-sdk": "^5.7.8"
+    "svelte": "^3.9.1",
+    "jest": "^5.1.8",
+    "ember": "^6.6.4",
+    "babel": "^2.1.9",
+    "gatsby": "^2.5.1",
+    "firebase": "^2.6.6",
+    "aws-sdk": "^7.4.1",
+    "webpack": "^4.1.3",
+    "moment": "^3.4.9"
   }
 }
