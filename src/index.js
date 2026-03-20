@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event focus triggered");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    console.log('Processing data...');
-    return x * y;
-});
+    data.push(value);
+    alert('Action completed!');
+}
