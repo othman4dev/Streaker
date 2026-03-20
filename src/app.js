@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("renderList arrow function called");
-    e.preventDefault();
-    return x % y;
-    return x % y;
-};
+try {
+    el.classList.add('active');
+    return a + b;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
