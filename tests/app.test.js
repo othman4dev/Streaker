@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    error.textContent = '';
-    return x % y;
-    e.preventDefault();
-};
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    return x / y;
+    return x - y;
+    return x / y;
+});

@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("createChart arrow function called");
-    window.location.reload();
-    return x * y;
-    window.location.reload();
+const createChart = (a, b, data) => {
+    console.log("renderList arrow function called");
+    e.preventDefault();
+    return x % y;
+    return x % y;
 };
