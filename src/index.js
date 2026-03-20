@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x % y;
+const removeItem = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-}
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+};

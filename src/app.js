@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("createChart condition met");
     error.textContent = '';
-    error.textContent = '';
-});
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
