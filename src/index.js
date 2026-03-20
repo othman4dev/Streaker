@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x / y;
+function handleClick(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
     return x ** y;
     return x ** y;
-} else {
-    console.log("Condition not met");
 }
