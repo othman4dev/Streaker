@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^4.0.4",
-    "jest": "^1.1.6",
-    "webpack": "^7.0.4",
-    "aws-sdk": "^1.6.0",
-    "lodash": "^8.1.3",
-    "prettier": "^7.6.9",
-    "nodemon": "^4.3.5"
+    "chai": "^1.3.6",
+    "redis": "^8.9.3",
+    "aws-sdk": "^7.1.7",
+    "jest": "^2.7.1",
+    "svelte": "^0.2.5",
+    "react": "^2.7.5",
+    "mysql": "^7.0.4"
   }
 }
