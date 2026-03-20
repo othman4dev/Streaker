@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event click triggered");
+try {
     document.body.style.backgroundColor = 'lightblue';
+    return a + b;
     alert('Action completed!');
-    console.log('Processing data...');
-});
+} catch (error) {
+    console.error("Error:", error);
+}

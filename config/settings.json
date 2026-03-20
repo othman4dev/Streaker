@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "gatsby": "^0.1.0",
-    "ember": "^3.3.2",
-    "puppeteer": "^0.2.8",
-    "svelte": "^1.5.1",
-    "prettier": "^7.8.7",
-    "jest": "^6.4.7",
-    "webpack": "^4.3.9"
+    "moment": "^4.1.6",
+    "protractor": "^6.3.6",
+    "svelte": "^0.4.9",
+    "redis": "^2.9.9",
+    "angular": "^4.4.1",
+    "sinon": "^2.9.1",
+    "express": "^7.3.7",
+    "graphql": "^9.0.0",
+    "aws-sdk": "^5.1.4"
   }
 }

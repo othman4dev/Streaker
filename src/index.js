@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    console.log('Processing data...');
+function fetchData(a, b) {
+    console.log("validateInput called");
     return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    console.log('Processing data...');
 }
