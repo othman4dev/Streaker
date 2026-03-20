@@ -1,7 +1,6 @@
-try {
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event focus triggered");
     console.log('Processing data...');
-    alert('Action completed!');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});
