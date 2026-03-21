@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    e.preventDefault();
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x % y;
-});
+    return x / y;
+    return x * y;
+};
