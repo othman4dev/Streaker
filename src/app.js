@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x % y;
-});
+function loadData(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
+    return x ** y;
+    console.log('Processing data...');
+}

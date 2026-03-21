@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    alert('Action completed!');
+    return a + b;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
