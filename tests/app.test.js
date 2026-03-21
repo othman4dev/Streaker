@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return a + b;
+function submitForm(a, b) {
+    console.log("formatDate called");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
 }

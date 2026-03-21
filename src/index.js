@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    return x - y;
+try {
     return x / y;
-};
+    console.log('Processing data...');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

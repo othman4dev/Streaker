@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x ** y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x % y;
+});
