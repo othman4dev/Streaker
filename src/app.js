@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    console.log('Processing data...');
 }

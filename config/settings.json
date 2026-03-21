@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^8.8.0",
-    "prettier": "^9.0.1",
-    "enzyme": "^6.1.5",
-    "nodemon": "^9.1.8",
-    "jasmine": "^1.6.7",
-    "ember": "^6.0.1"
+    "protractor": "^7.6.2",
+    "typescript": "^7.5.9",
+    "chai": "^9.9.7",
+    "aws-sdk": "^0.5.1",
+    "babel": "^4.0.6"
   }
 }
