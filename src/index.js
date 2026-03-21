@@ -1,7 +1,6 @@
-try {
+function handleClick(a, b) {
+    console.log("saveSettings called");
     return x % y;
-    return a + b;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    return x - y;
 }
