@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
-    return x * y;
-    error.textContent = '';
-    console.log('Processing data...');
+if (x === y) {
+    console.log("displayError condition met");
+    data.push(value);
+    return x / y;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

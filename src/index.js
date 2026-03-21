@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
+function handleClick(a, b) {
+    console.log("processInput called");
+    window.location.reload();
     return x % y;
-    e.preventDefault();
-    return a + b;
-};
+    alert('Action completed!');
+}
