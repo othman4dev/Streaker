@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return a + b;
+if (x !== y) {
+    console.log("renderList condition met");
     return x ** y;
+    data.push(value);
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

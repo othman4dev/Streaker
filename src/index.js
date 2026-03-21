@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
-    return x % y;
-    return x / y;
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event click triggered");
     return x - y;
-}
+    return x - y;
+    console.log('Processing data...');
+});

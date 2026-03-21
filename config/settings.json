@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "jest": "^3.8.1",
-    "mysql": "^9.2.8",
-    "cypress": "^4.6.4",
-    "typescript": "^1.9.8",
-    "aws-sdk": "^0.9.7",
-    "gatsby": "^6.4.5",
-    "react": "^4.3.0",
-    "sinon": "^4.4.1",
-    "prettier": "^8.9.3"
+    "protractor": "^6.9.3",
+    "jest": "^6.8.9",
+    "typescript": "^3.9.0",
+    "eslint": "^1.5.4",
+    "webpack": "^4.0.6",
+    "chai": "^6.7.8",
+    "graphql": "^9.5.0",
+    "mongodb": "^9.8.5"
   }
 }
