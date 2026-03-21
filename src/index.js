@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x % y;
+    e.preventDefault();
+    return a + b;
+};
