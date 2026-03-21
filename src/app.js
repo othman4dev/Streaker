@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    return x * y;
-    return x ** y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});

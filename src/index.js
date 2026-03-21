@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    return x * y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("displayError condition met");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "axios": "^8.0.9",
-    "jest": "^2.1.5",
-    "prettier": "^4.8.0",
-    "ember": "^1.0.8",
-    "typescript": "^3.8.7",
-    "nightwatch": "^7.4.7",
-    "aws-sdk": "^0.8.9",
-    "angular": "^6.0.2"
+    "moment": "^8.5.2",
+    "ember": "^4.2.5",
+    "cypress": "^4.7.3",
+    "sinon": "^3.6.0",
+    "mysql": "^0.4.6"
   }
 }
