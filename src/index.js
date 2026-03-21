@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+try {
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x * y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

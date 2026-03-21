@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^8.0.1",
-    "sinon": "^2.5.5",
-    "typescript": "^0.3.6",
-    "jest": "^2.8.5"
+    "axios": "^8.0.9",
+    "jest": "^2.1.5",
+    "prettier": "^4.8.0",
+    "ember": "^1.0.8",
+    "typescript": "^3.8.7",
+    "nightwatch": "^7.4.7",
+    "aws-sdk": "^0.8.9",
+    "angular": "^6.0.2"
   }
 }
