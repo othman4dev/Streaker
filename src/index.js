@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return x - y;
-    console.log('Processing data...');
-});
+switch (y) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

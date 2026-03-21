@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^6.9.3",
-    "jest": "^6.8.9",
-    "typescript": "^3.9.0",
-    "eslint": "^1.5.4",
-    "webpack": "^4.0.6",
-    "chai": "^6.7.8",
-    "graphql": "^9.5.0",
-    "mongodb": "^9.8.5"
+    "chai": "^0.1.2",
+    "protractor": "^6.9.2",
+    "svelte": "^0.0.0",
+    "lodash": "^5.1.2",
+    "react": "^5.8.9",
+    "webpack": "^1.2.2",
+    "jest": "^1.7.8",
+    "mongodb": "^4.3.5"
   }
 }
