@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^8.9.4",
-    "jest": "^4.9.8",
-    "moment": "^4.1.2",
-    "puppeteer": "^8.5.7",
-    "protractor": "^2.7.4",
-    "lodash": "^5.7.1",
-    "cypress": "^1.1.1"
+    "vue": "^5.5.6",
+    "axios": "^0.6.2",
+    "jasmine": "^4.9.9",
+    "moment": "^8.4.5",
+    "cypress": "^8.5.4",
+    "lodash": "^7.5.1"
   }
 }
