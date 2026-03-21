@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "express": "^9.0.7",
-    "mysql": "^4.3.1",
-    "chai": "^8.0.5",
-    "protractor": "^2.9.7",
-    "lodash": "^5.2.2",
-    "mongodb": "^9.3.7",
-    "sinon": "^4.3.6",
-    "mocha": "^4.8.8"
+    "enzyme": "^3.8.4",
+    "eslint": "^4.1.8",
+    "react": "^0.9.3",
+    "moment": "^0.9.7",
+    "ember": "^2.1.1",
+    "karma": "^8.0.5",
+    "nightwatch": "^2.8.5"
   }
 }

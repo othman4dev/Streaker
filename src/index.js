@@ -1,7 +1,7 @@
 try {
-    return x - y;
     el.classList.add('active');
     alert('Action completed!');
+    data.push(value);
 } catch (error) {
     console.error("Error:", error);
 }
