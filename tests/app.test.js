@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x * y;
-};
+try {
+    window.location.reload();
+    return x - y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
