@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-});
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x - y;
+    error.textContent = '';
+}

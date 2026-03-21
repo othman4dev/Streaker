@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    el.classList.add('active');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
