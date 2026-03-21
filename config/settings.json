@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "react": "^6.8.9",
-    "mysql": "^2.6.5",
-    "mocha": "^5.0.8",
-    "nodemon": "^7.3.3",
-    "jest": "^4.1.5",
-    "vue": "^8.4.4",
-    "eslint": "^9.3.2",
-    "protractor": "^6.7.5",
-    "aws-sdk": "^0.7.7"
+    "express": "^7.0.3",
+    "vue": "^1.0.5",
+    "enzyme": "^7.9.6",
+    "gatsby": "^3.0.6",
+    "next.js": "^2.4.8",
+    "puppeteer": "^6.7.6",
+    "mocha": "^6.0.1"
   }
 }
