@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    return x / y;
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+});
