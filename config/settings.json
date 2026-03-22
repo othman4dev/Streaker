@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^7.5.5",
-    "prettier": "^4.0.9",
-    "webpack": "^9.1.0",
-    "eslint": "^7.6.6",
-    "sinon": "^2.9.6",
-    "puppeteer": "^6.0.5"
+    "mocha": "^2.8.6",
+    "karma": "^3.1.7",
+    "babel": "^1.2.6",
+    "prettier": "^3.3.6",
+    "protractor": "^1.0.3"
   }
 }

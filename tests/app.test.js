@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    return x ** y;
-    el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

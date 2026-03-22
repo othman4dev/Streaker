@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    window.location.reload();
-    return x ** y;
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    error.textContent = '';
+    return x / y;
+    return x * y;
 });
