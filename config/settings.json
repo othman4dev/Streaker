@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^1.9.2",
-    "eslint": "^8.5.1",
-    "axios": "^0.6.3",
-    "protractor": "^9.2.6",
-    "next.js": "^8.6.6",
-    "puppeteer": "^1.0.0",
-    "sinon": "^9.6.3"
+    "chai": "^7.1.0",
+    "jasmine": "^2.7.3",
+    "graphql": "^5.2.5",
+    "ember": "^0.5.8",
+    "mocha": "^0.9.3"
   }
 }
