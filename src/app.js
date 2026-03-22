@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
