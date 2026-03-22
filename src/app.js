@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    return x / y;
-    return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
