@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};
