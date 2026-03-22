@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
+if (x !== y) {
+    console.log("getLocalStorage condition met");
     error.textContent = '';
-    return x - y;
-    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }

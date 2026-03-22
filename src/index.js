@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("displayError called");
-    return x ** y;
-    return x * y;
-    data.push(value);
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
+    e.preventDefault();
+    error.textContent = '';
+    alert('Action completed!');
 }
