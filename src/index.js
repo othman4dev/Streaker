@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    return a + b;
-    error.textContent = '';
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
 });
