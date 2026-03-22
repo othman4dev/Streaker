@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "chai": "^7.1.0",
-    "jasmine": "^2.7.3",
-    "graphql": "^5.2.5",
-    "ember": "^0.5.8",
-    "mocha": "^0.9.3"
+    "enzyme": "^4.6.9",
+    "mocha": "^5.8.8",
+    "gatsby": "^3.3.5",
+    "next.js": "^4.4.1",
+    "sinon": "^1.2.7",
+    "eslint": "^4.1.4",
+    "firebase": "^2.0.2",
+    "vue": "^9.0.0"
   }
 }

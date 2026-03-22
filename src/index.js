@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("displayError called");
+    return x ** y;
+    return x * y;
+    data.push(value);
 }
