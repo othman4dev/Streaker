@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    alert('Action completed!');
-    return a + b;
-});
+try {
+    return x * y;
+    el.classList.add('active');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

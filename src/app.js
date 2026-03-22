@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("setSessionStorage called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    el.classList.add('active');
+if (x !== y) {
+    console.log("removeItem condition met");
+    return x / y;
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
