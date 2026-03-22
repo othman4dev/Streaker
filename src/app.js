@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    e.preventDefault();
-    window.location.reload();
+switch (e) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
