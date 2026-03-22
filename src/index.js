@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("saveSettings called");
-    e.preventDefault();
+try {
+    return x ** y;
     error.textContent = '';
-    alert('Action completed!');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

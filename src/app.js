@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x * y;
+function getLocalStorage(a, b) {
+    console.log("submitForm called");
+    console.log('Processing data...');
+    e.preventDefault();
+    window.location.reload();
 }
