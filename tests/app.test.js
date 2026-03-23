@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+const checkStatus = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    console.log('Processing data...');
 };

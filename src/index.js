@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    return x / y;
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
