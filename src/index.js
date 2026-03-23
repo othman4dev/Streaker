@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event input triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+switch (error) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("submitForm called");
+    data.push(value);
+    data.push(value);
+    console.log('Processing data...');
 }
