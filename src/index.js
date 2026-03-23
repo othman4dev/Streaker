@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    return a + b;
-    e.preventDefault();
-};
+switch (data) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

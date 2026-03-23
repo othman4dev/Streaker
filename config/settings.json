@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "redis": "^6.8.1",
-    "lodash": "^1.5.3",
-    "angular": "^3.9.3",
-    "babel": "^3.1.4",
-    "typescript": "^0.8.7"
+    "nightwatch": "^0.6.9",
+    "jest": "^6.1.2",
+    "babel": "^9.2.4",
+    "nodemon": "^4.2.2",
+    "typescript": "^3.5.1",
+    "redis": "^8.8.0",
+    "cypress": "^5.0.5",
+    "graphql": "^2.3.2",
+    "webpack": "^6.7.2"
   }
 }
