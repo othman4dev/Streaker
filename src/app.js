@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    return x * y;
+    console.log('Processing data...');
+});

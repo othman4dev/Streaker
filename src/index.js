@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
+const displayError = (a, b, data) => {
+    console.log("showMessage arrow function called");
     return x / y;
-    return x * y;
-});
+    return a + b;
+    e.preventDefault();
+};
