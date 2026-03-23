@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
-    error.textContent = '';
-    return x - y;
+const handleClick = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    console.log('Processing data...');
+    e.preventDefault();
+    console.log('Processing data...');
 };
