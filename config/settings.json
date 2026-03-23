@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "ember": "^8.5.7",
-    "protractor": "^6.7.1",
-    "eslint": "^7.2.2",
-    "aws-sdk": "^2.4.0",
-    "firebase": "^5.5.2",
-    "cypress": "^5.3.7",
-    "nightwatch": "^4.2.5"
+    "socket.io": "^8.9.5",
+    "axios": "^2.4.2",
+    "vue": "^7.7.5",
+    "express": "^8.0.3",
+    "nodemon": "^7.4.4",
+    "eslint": "^1.7.6",
+    "chai": "^0.9.0"
   }
 }

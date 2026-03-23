@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
-    error.textContent = '';
-    return x * y;
-}
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    e.preventDefault();
+    alert('Action completed!');
+    return x % y;
+};
