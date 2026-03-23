@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^1.4.2",
-    "nodemon": "^6.8.7",
-    "redis": "^0.9.5",
-    "cypress": "^7.6.2",
-    "nightwatch": "^5.1.9",
-    "karma": "^0.3.4",
-    "jest": "^0.4.3"
+    "jest": "^5.7.7",
+    "firebase": "^0.7.9",
+    "typescript": "^4.7.7",
+    "protractor": "^2.5.1",
+    "chai": "^5.7.0"
   }
 }
