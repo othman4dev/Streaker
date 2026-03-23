@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^7.9.1",
-    "mysql": "^0.2.8",
-    "express": "^1.6.8",
-    "mocha": "^6.3.7",
-    "mongodb": "^4.5.2",
-    "angular": "^4.8.5",
-    "nodemon": "^0.4.3",
-    "jest": "^3.9.7",
-    "puppeteer": "^1.9.4"
+    "mysql": "^6.1.4",
+    "socket.io": "^8.9.8",
+    "chai": "^1.6.9",
+    "aws-sdk": "^7.8.7",
+    "mocha": "^0.9.6",
+    "moment": "^9.7.2",
+    "babel": "^9.4.6",
+    "typescript": "^8.8.5"
   }
 }

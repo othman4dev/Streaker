@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    console.log('Processing data...');
+const displayError = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
+    data.push(value);
+    el.classList.add('active');
 };
