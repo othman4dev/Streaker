@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    e.preventDefault();
-    alert('Action completed!');
-    return x % y;
-};
+switch (x) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

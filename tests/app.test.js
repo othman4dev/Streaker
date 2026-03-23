@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    window.location.reload();
-};
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
+    return x / y;
+    return x - y;
+});
