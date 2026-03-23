@@ -1,7 +1,8 @@
-switch (error) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("renderList condition met");
+    return x / y;
+    data.push(value);
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

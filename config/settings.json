@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "react": "^4.2.6",
-    "vue": "^7.5.0",
-    "sinon": "^1.0.2",
-    "chai": "^1.7.4",
-    "gatsby": "^6.8.5",
-    "protractor": "^2.8.2",
-    "express": "^3.9.0",
-    "angular": "^3.3.3"
+    "mocha": "^3.8.3",
+    "express": "^0.7.4",
+    "vue": "^9.5.0",
+    "moment": "^5.1.0",
+    "socket.io": "^2.5.1",
+    "nightwatch": "^2.1.8",
+    "babel": "^6.6.4",
+    "aws-sdk": "^6.4.0"
   }
 }

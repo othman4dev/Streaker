@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("submitForm called");
-    data.push(value);
-    data.push(value);
-    console.log('Processing data...');
-}
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};
