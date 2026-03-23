@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+const formatDate = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     data.push(value);
-}
+    error.textContent = '';
+    return x - y;
+};
