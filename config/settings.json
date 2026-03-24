@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^6.1.9",
-    "socket.io": "^2.2.3",
-    "next.js": "^9.5.9",
-    "jest": "^4.9.4",
-    "protractor": "^0.9.2"
+    "puppeteer": "^0.3.8",
+    "graphql": "^6.0.2",
+    "lodash": "^8.2.4",
+    "express": "^4.7.7",
+    "mysql": "^5.2.9",
+    "gatsby": "^9.5.9"
   }
 }

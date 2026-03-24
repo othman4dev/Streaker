@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    el.classList.add('active');
+function loadData(a, b) {
+    console.log("hideModal called");
     return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
+    data.push(value);
 }
