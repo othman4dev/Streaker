@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    e.preventDefault();
-    el.classList.add('active');
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    window.location.reload();
 }

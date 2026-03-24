@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("submitForm called");
-    data.push(value);
+if (x === y) {
+    console.log("showMessage condition met");
+    return a + b;
     return x * y;
-    e.preventDefault();
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

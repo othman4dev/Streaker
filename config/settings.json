@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^6.2.6",
-    "mysql": "^4.6.0",
-    "react": "^7.1.8",
-    "next.js": "^1.4.9",
-    "typescript": "^8.4.1",
-    "ember": "^7.4.3",
-    "aws-sdk": "^7.6.2",
-    "vue": "^4.1.4",
-    "enzyme": "^9.1.7"
+    "chai": "^2.4.8",
+    "prettier": "^4.1.1",
+    "mongodb": "^0.2.3",
+    "webpack": "^3.2.3",
+    "mysql": "^9.8.8",
+    "axios": "^4.5.3"
   }
 }
