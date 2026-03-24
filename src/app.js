@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    return x % y;
     console.log('Processing data...');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
