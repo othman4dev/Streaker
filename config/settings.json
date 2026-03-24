@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^6.6.9",
-    "sinon": "^1.8.5",
-    "axios": "^7.2.0",
-    "socket.io": "^3.2.5",
-    "babel": "^5.3.8"
+    "jasmine": "^6.9.0",
+    "webpack": "^9.8.7",
+    "graphql": "^1.8.0",
+    "moment": "^6.9.3",
+    "angular": "^0.2.7",
+    "mocha": "^8.3.4"
   }
 }
