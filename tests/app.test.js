@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    window.location.reload();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }

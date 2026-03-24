@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    return x ** y;
     console.log('Processing data...');
-    window.location.reload();
-    console.log('Processing data...');
-};
+});

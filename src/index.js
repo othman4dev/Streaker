@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
+const hideModal = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x * y;
     e.preventDefault();
-    window.location.reload();
-});
+    return a + b;
+};
