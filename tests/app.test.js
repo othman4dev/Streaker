@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    alert('Action completed!');
-};
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    el.classList.add('active');
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

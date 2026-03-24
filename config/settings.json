@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^8.9.9",
-    "sinon": "^5.5.5",
-    "next.js": "^7.0.3",
-    "puppeteer": "^3.7.3",
-    "jest": "^5.5.8"
+    "eslint": "^6.6.9",
+    "sinon": "^1.8.5",
+    "axios": "^7.2.0",
+    "socket.io": "^3.2.5",
+    "babel": "^5.3.8"
   }
 }
