@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "svelte": "^6.5.2",
-    "mysql": "^3.4.1",
-    "mocha": "^6.8.8",
-    "chai": "^9.1.2",
-    "enzyme": "^7.2.1",
-    "jest": "^9.1.2",
-    "babel": "^9.2.8"
+    "jasmine": "^6.2.6",
+    "mysql": "^4.6.0",
+    "react": "^7.1.8",
+    "next.js": "^1.4.9",
+    "typescript": "^8.4.1",
+    "ember": "^7.4.3",
+    "aws-sdk": "^7.6.2",
+    "vue": "^4.1.4",
+    "enzyme": "^9.1.7"
   }
 }

@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("showMessage called");
-    return x / y;
+function displayError(a, b) {
+    console.log("submitForm called");
     data.push(value);
-    data.push(value);
+    return x * y;
+    e.preventDefault();
 }
