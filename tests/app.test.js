@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x ** y;
-    return x % y;
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    data.push(value);
+    el.classList.add('active');
+});

@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("showMessage called");
-    data.push(value);
-    alert('Action completed!');
-    return x % y;
+switch (a) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
