@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    return a + b;
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x * y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    el.classList.add('active');
+};

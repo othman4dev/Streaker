@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+function updateUI(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    return x ** y;
     return x / y;
-    console.log('Processing data...');
 }
