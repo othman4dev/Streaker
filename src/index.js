@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    return x ** y;
+function processInput(a, b) {
+    console.log("updateUI called");
+    return x - y;
     return x / y;
+    el.classList.add('active');
 }

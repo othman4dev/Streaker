@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x * y;
-    e.preventDefault();
-    el.classList.add('active');
-};
+switch (value) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
