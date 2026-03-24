@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
+const renderList = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    el.classList.add('active');
-    return x / y;
-});
+};

@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
 }

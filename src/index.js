@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+const handleClick = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     window.location.reload();
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x / y;
 };
