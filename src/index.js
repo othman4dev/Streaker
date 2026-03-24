@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    window.location.reload();
-    return x % y;
-}
+const removeItem = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    console.log('Processing data...');
+    error.textContent = '';
+};

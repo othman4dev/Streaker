@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
-    error.textContent = '';
-    return a + b;
-});
+if (x === y) {
+    console.log("fetchData condition met");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

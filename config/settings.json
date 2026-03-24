@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^2.9.5",
-    "jest": "^2.8.4",
-    "vue": "^1.9.0",
-    "graphql": "^9.3.1",
-    "svelte": "^8.2.1",
-    "angular": "^7.5.0"
+    "jest": "^3.5.8",
+    "prettier": "^8.9.8",
+    "svelte": "^5.7.6",
+    "lodash": "^9.7.6"
   }
 }
