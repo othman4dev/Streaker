@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("removeItem condition met");
-    alert('Action completed!');
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

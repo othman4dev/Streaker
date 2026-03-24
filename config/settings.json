@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^0.6.9",
-    "jest": "^6.1.2",
-    "babel": "^9.2.4",
-    "nodemon": "^4.2.2",
-    "typescript": "^3.5.1",
-    "redis": "^8.8.0",
-    "cypress": "^5.0.5",
-    "graphql": "^2.3.2",
-    "webpack": "^6.7.2"
+    "firebase": "^5.8.0",
+    "nodemon": "^6.6.3",
+    "lodash": "^2.7.0",
+    "next.js": "^5.1.3",
+    "ember": "^0.6.5"
   }
 }
