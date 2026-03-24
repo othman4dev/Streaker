@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
-    console.log('Processing data...');
-    error.textContent = '';
+const setCookie = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    window.location.reload();
+    return x ** y;
+    return x / y;
 };
