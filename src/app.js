@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
-    return x / y;
-    error.textContent = '';
-};
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x * y;
-    data.push(value);
-    el.classList.add('active');
-};
+switch (x) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
