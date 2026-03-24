@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
+    window.location.reload();
+    data.push(value);
 }
