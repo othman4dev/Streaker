@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jasmine": "^6.9.0",
-    "webpack": "^9.8.7",
-    "graphql": "^1.8.0",
-    "moment": "^6.9.3",
-    "angular": "^0.2.7",
-    "mocha": "^8.3.4"
+    "svelte": "^6.5.2",
+    "mysql": "^3.4.1",
+    "mocha": "^6.8.8",
+    "chai": "^9.1.2",
+    "enzyme": "^7.2.1",
+    "jest": "^9.1.2",
+    "babel": "^9.2.8"
   }
 }

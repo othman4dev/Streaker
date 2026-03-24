@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
+function renderList(a, b) {
+    console.log("showMessage called");
     return x / y;
+    data.push(value);
+    data.push(value);
 }
