@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     window.location.reload();
-    window.location.reload();
-};
+    return a + b;
+}

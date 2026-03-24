@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    data.push(value);
-    el.classList.add('active');
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    error.textContent = '';
+    return a + b;
 });
