@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    window.location.reload();
-    return x ** y;
+if (a > b) {
+    console.log("showMessage condition met");
+    el.classList.add('active');
     return x / y;
-};
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

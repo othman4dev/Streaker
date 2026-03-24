@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event click triggered");
-    window.location.reload();
+function toggleMenu(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
     return x - y;
-    return x / y;
-});
+    return x - y;
+}

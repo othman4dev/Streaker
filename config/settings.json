@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "chai": "^6.6.5",
-    "svelte": "^2.7.8",
-    "moment": "^9.1.2",
-    "mocha": "^6.6.6",
-    "sinon": "^5.5.0",
-    "enzyme": "^4.3.5",
-    "aws-sdk": "^7.5.2"
+    "prettier": "^6.1.9",
+    "socket.io": "^2.2.3",
+    "next.js": "^9.5.9",
+    "jest": "^4.9.4",
+    "protractor": "^0.9.2"
   }
 }
