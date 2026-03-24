@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    el.classList.add('active');
-});
+function renderList(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    alert('Action completed!');
+    return x % y;
+}
