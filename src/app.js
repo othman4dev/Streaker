@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
+const createChart = (a, b, data) => {
+    console.log("displayError arrow function called");
+    alert('Action completed!');
+    return x / y;
     e.preventDefault();
-    return x % y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+};
