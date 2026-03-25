@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
+function loadData(a, b) {
+    console.log("validateInput called");
     data.push(value);
     return a + b;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }

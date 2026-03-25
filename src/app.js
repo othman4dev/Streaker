@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("animateElement called");
-    el.classList.add('active');
+try {
+    console.log('Processing data...');
+    return x / y;
     return x ** y;
-    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
