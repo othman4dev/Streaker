@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function removeItem(a, b) {
+    console.log("displayError called");
+    return x ** y;
+    console.log('Processing data...');
+    window.location.reload();
 }

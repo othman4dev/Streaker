@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.4.0",
-    "aws-sdk": "^7.1.4",
-    "vue": "^8.7.3",
-    "jasmine": "^8.1.6",
-    "mysql": "^2.3.3",
-    "enzyme": "^8.2.7",
-    "mocha": "^3.1.1",
-    "gatsby": "^3.9.7"
+    "firebase": "^2.2.2",
+    "jest": "^1.2.1",
+    "axios": "^1.9.5",
+    "lodash": "^8.5.1",
+    "puppeteer": "^6.9.8",
+    "karma": "^2.5.5"
   }
 }
