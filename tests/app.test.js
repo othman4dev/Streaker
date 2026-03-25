@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    el.classList.add('active');
-    return x * y;
-    data.push(value);
-};
+switch (b) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

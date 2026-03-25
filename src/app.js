@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("displayError arrow function called");
-    alert('Action completed!');
-    return x / y;
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
     e.preventDefault();
-};
+    return x - y;
+    return x ** y;
+});
