@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("animateElement called");
-    return x ** y;
-    e.preventDefault();
+try {
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
