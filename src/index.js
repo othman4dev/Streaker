@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("formatDate called");
-    alert('Action completed!');
-    error.textContent = '';
-    error.textContent = '';
-}
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
+    return x % y;
+    console.log('Processing data...');
+});

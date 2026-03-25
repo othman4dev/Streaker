@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^2.2.2",
-    "jest": "^1.2.1",
-    "axios": "^1.9.5",
-    "lodash": "^8.5.1",
-    "puppeteer": "^6.9.8",
-    "karma": "^2.5.5"
+    "chai": "^0.4.6",
+    "react": "^5.3.2",
+    "puppeteer": "^9.9.1",
+    "next.js": "^1.0.0",
+    "express": "^1.4.3",
+    "svelte": "^0.5.1",
+    "jasmine": "^1.5.1",
+    "moment": "^1.5.7"
   }
 }
