@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "moment": "^0.9.5",
-    "babel": "^4.7.0",
-    "jest": "^1.2.9",
-    "enzyme": "^6.5.3",
-    "cypress": "^3.4.4"
+    "svelte": "^8.8.8",
+    "express": "^5.4.6",
+    "next.js": "^1.1.1",
+    "puppeteer": "^1.5.6",
+    "nodemon": "^4.3.9",
+    "vue": "^6.1.7"
   }
 }

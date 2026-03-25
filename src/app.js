@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    window.location.reload();
+    return a + b;
     e.preventDefault();
-    return x - y;
-    return x ** y;
-});
+};
