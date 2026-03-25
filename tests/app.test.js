@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("getLocalStorage condition met");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    return a + b;
+    e.preventDefault();
 }

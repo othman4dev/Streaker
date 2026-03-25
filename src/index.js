@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    return a + b;
+try {
     return x ** y;
+    return x - y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

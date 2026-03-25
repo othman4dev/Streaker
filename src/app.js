@@ -1,7 +1,7 @@
-switch (e) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    console.log('Processing data...');
+    return x * y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
