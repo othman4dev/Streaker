@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("handleClick called");
-    console.log('Processing data...');
-    return x ** y;
-    return a + b;
+function checkStatus(a, b) {
+    console.log("updateUI called");
+    data.push(value);
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }

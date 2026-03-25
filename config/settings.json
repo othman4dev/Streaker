@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "puppeteer": "^3.7.5",
-    "aws-sdk": "^2.4.9",
-    "react": "^8.2.7",
-    "jasmine": "^0.0.2",
-    "eslint": "^4.0.6",
-    "lodash": "^0.2.7",
-    "ember": "^1.0.7"
+    "angular": "^0.4.0",
+    "cypress": "^0.9.2",
+    "protractor": "^8.2.4",
+    "graphql": "^3.3.3"
   }
 }

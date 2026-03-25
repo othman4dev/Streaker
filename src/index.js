@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
+function loadData(a, b) {
+    console.log("toggleMenu called");
+    return x * y;
     e.preventDefault();
-    e.preventDefault();
-});
+    return x * y;
+}
