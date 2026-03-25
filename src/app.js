@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("renderList arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    return x % y;
-};
+function displayError(a, b) {
+    console.log("animateElement called");
+    el.classList.add('active');
+    return x ** y;
+    error.textContent = '';
+}
