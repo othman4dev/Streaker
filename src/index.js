@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("formatDate called");
-    document.body.style.backgroundColor = 'lightblue';
+function validateInput(a, b) {
+    console.log("removeItem called");
+    data.push(value);
     return a + b;
-    return x % y;
+    return x ** y;
 }

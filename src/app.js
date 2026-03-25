@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    el.classList.add('active');
-    return x / y;
-});
+switch (e) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("validateInput condition met");
+if (x === y) {
+    console.log("getLocalStorage condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return x ** y;
-    return x ** y;
 } else {
     console.log("Condition not met");
 }
