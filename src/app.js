@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("renderList arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    return x % y;
+};

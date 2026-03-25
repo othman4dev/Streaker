@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^5.0.0",
-    "lodash": "^4.3.6",
-    "sinon": "^6.9.5",
-    "axios": "^6.1.7",
-    "aws-sdk": "^2.5.1",
-    "typescript": "^6.9.2",
-    "karma": "^7.3.0"
+    "express": "^4.8.1",
+    "aws-sdk": "^9.1.8",
+    "socket.io": "^8.1.1",
+    "cypress": "^3.1.8",
+    "karma": "^8.0.4",
+    "mysql": "^5.8.1",
+    "webpack": "^8.3.2"
   }
 }
