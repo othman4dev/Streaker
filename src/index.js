@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    data.push(value);
-    error.textContent = '';
-});
+switch (error) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
