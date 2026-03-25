@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    return x / y;
-};
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    data.push(value);
+    error.textContent = '';
+});

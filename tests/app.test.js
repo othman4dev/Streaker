@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("displayError called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return a + b;
 }
