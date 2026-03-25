@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("animateElement called");
+    e.preventDefault();
+    return a + b;
+    data.push(value);
 }

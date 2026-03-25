@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return a + b;
-    el.classList.add('active');
-}
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+};

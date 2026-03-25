@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "redis": "^6.8.6",
-    "puppeteer": "^8.6.6",
-    "angular": "^0.6.7",
-    "nightwatch": "^9.9.3",
-    "moment": "^3.1.4",
-    "jest": "^7.2.5",
-    "cypress": "^8.4.4"
+    "mongodb": "^3.0.1",
+    "chai": "^6.1.4",
+    "aws-sdk": "^5.3.2",
+    "sinon": "^7.0.1",
+    "next.js": "^7.5.4",
+    "graphql": "^3.6.8",
+    "eslint": "^5.2.2"
   }
 }
