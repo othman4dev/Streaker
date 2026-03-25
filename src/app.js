@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return a + b;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    return x * y;
+    alert('Action completed!');
+});

@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return a + b;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    error.textContent = '';
+    return x ** y;
+});
