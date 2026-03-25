@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "jasmine": "^0.6.3",
-    "moment": "^8.8.6",
-    "babel": "^8.7.2",
-    "nightwatch": "^9.3.5",
-    "vue": "^5.8.0",
-    "karma": "^0.1.5",
-    "cypress": "^6.9.3",
-    "nodemon": "^2.6.9"
+    "ember": "^7.1.8",
+    "jasmine": "^8.9.1",
+    "aws-sdk": "^3.8.0",
+    "vue": "^7.4.6"
   }
 }

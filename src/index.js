@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    return x - y;
+if (a > b) {
+    console.log("saveSettings condition met");
+    window.location.reload();
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
