@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+const removeItem = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    window.location.reload();
+    error.textContent = '';
+    return a + b;
+};

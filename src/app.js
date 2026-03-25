@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x - y;
-    alert('Action completed!');
+const showMessage = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 };

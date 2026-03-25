@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("toggleMenu called");
-    return x * y;
-    e.preventDefault();
-    return x * y;
+try {
+    return a + b;
+    return x ** y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

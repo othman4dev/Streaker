@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "angular": "^0.4.0",
-    "cypress": "^0.9.2",
-    "protractor": "^8.2.4",
-    "graphql": "^3.3.3"
+    "chai": "^3.9.5",
+    "react": "^9.4.5",
+    "typescript": "^2.1.8",
+    "cypress": "^6.9.8",
+    "gatsby": "^8.8.9",
+    "webpack": "^6.8.1"
   }
 }
