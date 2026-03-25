@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    return x * y;
-    alert('Action completed!');
-});
+const animateElement = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
+    console.log('Processing data...');
+};

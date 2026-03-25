@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "moment": "^8.4.8",
-    "sinon": "^1.6.0",
-    "mocha": "^7.0.4",
-    "jest": "^7.2.7",
-    "prettier": "^4.3.7"
+    "jest": "^1.7.7",
+    "sinon": "^7.7.5",
+    "typescript": "^0.4.6",
+    "enzyme": "^6.0.6",
+    "aws-sdk": "^4.0.3",
+    "axios": "^3.9.7"
   }
 }
