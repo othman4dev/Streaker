@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event submit triggered");
     window.location.reload();
-    console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    e.preventDefault();
+});

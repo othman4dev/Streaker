@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("handleClick called");
+    console.log('Processing data...');
+    return x ** y;
+    return a + b;
 }
