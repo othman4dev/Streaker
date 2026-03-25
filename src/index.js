@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
+const setSessionStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 };

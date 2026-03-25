@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^3.0.1",
-    "chai": "^6.1.4",
-    "aws-sdk": "^5.3.2",
-    "sinon": "^7.0.1",
-    "next.js": "^7.5.4",
-    "graphql": "^3.6.8",
-    "eslint": "^5.2.2"
+    "puppeteer": "^5.0.5",
+    "svelte": "^9.3.6",
+    "moment": "^1.1.9",
+    "enzyme": "^8.8.6",
+    "mysql": "^9.3.8",
+    "sinon": "^9.3.0",
+    "eslint": "^4.2.5",
+    "typescript": "^6.9.3"
   }
 }

@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("animateElement called");
-    e.preventDefault();
-    return a + b;
-    data.push(value);
+switch (e) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
