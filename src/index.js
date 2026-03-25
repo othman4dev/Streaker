@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    return a + b;
-    return x * y;
-    data.push(value);
-});
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    error.textContent = '';
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
