@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    data.push(value);
-    return a + b;
-    el.classList.add('active');
+switch (el) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
