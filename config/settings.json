@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "chai": "^3.9.5",
-    "react": "^9.4.5",
-    "typescript": "^2.1.8",
-    "cypress": "^6.9.8",
-    "gatsby": "^8.8.9",
-    "webpack": "^6.8.1"
+    "nightwatch": "^6.4.1",
+    "vue": "^7.7.1",
+    "jasmine": "^4.6.1",
+    "sinon": "^0.3.3",
+    "eslint": "^6.3.2"
   }
 }

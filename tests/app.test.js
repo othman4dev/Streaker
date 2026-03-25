@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    window.location.reload();
-    error.textContent = '';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x % y;
     return a + b;
-};
+}

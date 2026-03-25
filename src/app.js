@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    return x / y;
+    return a + b;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
