@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    e.preventDefault();
-    data.push(value);
+function toggleMenu(a, b) {
+    console.log("formatDate called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x % y;
 }

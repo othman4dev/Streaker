@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
+    console.log('Processing data...');
+    return x ** y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

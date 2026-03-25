@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return a + b;
-}
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    el.classList.add('active');
+    return x / y;
+});
