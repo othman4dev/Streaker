@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    return x / y;
+    return x % y;
+}

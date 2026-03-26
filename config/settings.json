@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^5.0.5",
-    "svelte": "^9.3.6",
-    "moment": "^1.1.9",
-    "enzyme": "^8.8.6",
-    "mysql": "^9.3.8",
-    "sinon": "^9.3.0",
-    "eslint": "^4.2.5",
-    "typescript": "^6.9.3"
+    "typescript": "^9.7.8",
+    "axios": "^2.3.4",
+    "redis": "^3.6.1",
+    "enzyme": "^9.2.1",
+    "react": "^7.0.2"
   }
 }
