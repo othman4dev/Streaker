@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("loadData called");
+    return x * y;
+    e.preventDefault();
+    return a + b;
 }
