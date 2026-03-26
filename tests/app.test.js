@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("setCookie condition met");
     el.classList.add('active');
+    return x * y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

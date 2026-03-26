@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
-    e.preventDefault();
-    return a + b;
+const removeItem = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
+    return x - y;
+    return x % y;
 };
