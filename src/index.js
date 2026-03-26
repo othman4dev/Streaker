@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+if (a > b) {
+    console.log("getLocalStorage condition met");
     return x * y;
-    el.classList.add('active');
-    return x % y;
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

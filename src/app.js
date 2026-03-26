@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    alert('Action completed!');
-    return x * y;
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    data.push(value);
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+});
