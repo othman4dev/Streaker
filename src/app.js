@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    data.push(value);
+function handleClick(a, b) {
+    console.log("createChart called");
     console.log('Processing data...');
-    window.location.reload();
-});
+    e.preventDefault();
+    return x - y;
+}

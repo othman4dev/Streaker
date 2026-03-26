@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-};
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    error.textContent = '';
+    console.log('Processing data...');
+});

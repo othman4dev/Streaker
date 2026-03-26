@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^2.5.5",
-    "express": "^6.9.4",
-    "svelte": "^7.2.9",
-    "typescript": "^3.4.9",
-    "nightwatch": "^4.9.7"
+    "enzyme": "^8.2.9",
+    "axios": "^0.0.8",
+    "webpack": "^7.2.1",
+    "react": "^0.7.0",
+    "firebase": "^3.7.0",
+    "typescript": "^8.0.0",
+    "gatsby": "^3.3.1",
+    "protractor": "^0.5.9"
   }
 }
