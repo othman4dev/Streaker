@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    window.location.reload();
-    return a + b;
-});
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    alert('Action completed!');
+    return x * y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
