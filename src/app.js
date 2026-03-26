@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event click triggered");
     return x ** y;
+    window.location.reload();
     return a + b;
-}
+});

@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x % y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-};
+try {
+    console.log('Processing data...');
+    return x ** y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}
