@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
