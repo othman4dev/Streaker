@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("submitForm condition met");
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
     console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+    alert('Action completed!');
+});

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^1.4.2",
-    "angular": "^7.9.7",
-    "webpack": "^0.1.2",
-    "moment": "^5.0.0",
-    "eslint": "^9.6.1"
+    "firebase": "^0.3.1",
+    "jest": "^0.5.0",
+    "nodemon": "^5.1.5",
+    "sinon": "^8.2.7",
+    "karma": "^9.7.3",
+    "graphql": "^3.6.3"
   }
 }
