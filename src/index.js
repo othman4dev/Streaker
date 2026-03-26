@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    el.classList.add('active');
-    return x - y;
-    return x % y;
-};
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    console.log('Processing data...');
+    data.push(value);
+}

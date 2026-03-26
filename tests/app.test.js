@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("setCookie condition met");
-    el.classList.add('active');
-    return x * y;
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

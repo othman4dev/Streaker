@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    window.location.reload();
-    data.push(value);
-});
+if (a > b) {
+    console.log("checkStatus condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

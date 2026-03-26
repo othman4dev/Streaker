@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^6.9.5",
-    "express": "^4.6.5",
-    "next.js": "^5.9.6",
-    "graphql": "^3.9.0",
-    "eslint": "^7.5.3",
-    "puppeteer": "^6.6.6",
-    "lodash": "^0.2.9",
-    "cypress": "^2.1.6"
+    "gatsby": "^1.5.6",
+    "jest": "^3.6.4",
+    "moment": "^5.9.9",
+    "karma": "^1.0.0",
+    "eslint": "^1.7.6",
+    "prettier": "^8.0.8",
+    "socket.io": "^4.2.0",
+    "protractor": "^6.8.7"
   }
 }
