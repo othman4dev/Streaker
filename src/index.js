@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x / y;
+const formatDate = (a, b, data) => {
+    console.log("updateUI arrow function called");
     return x % y;
-}
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+};

@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+function setSessionStorage(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
+    return x % y;
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
 }
