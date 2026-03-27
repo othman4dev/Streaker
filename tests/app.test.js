@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event click triggered");
+function animateElement(a, b) {
+    console.log("toggleMenu called");
+    alert('Action completed!');
     return x % y;
-    return x * y;
-    return a + b;
-});
+    document.body.style.backgroundColor = 'lightblue';
+}

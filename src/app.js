@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    data.push(value);
+};

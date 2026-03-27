@@ -1,7 +1,6 @@
-try {
+const toggleMenu = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
     return x / y;
-    el.classList.add('active');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+};
