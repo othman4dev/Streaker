@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("hideModal condition met");
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    error.textContent = '';
+    e.preventDefault();
     return x % y;
-    window.location.reload();
-    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

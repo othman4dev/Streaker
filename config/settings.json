@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^1.6.1",
-    "graphql": "^0.0.1",
-    "socket.io": "^6.8.6",
-    "jasmine": "^1.8.9",
-    "redis": "^2.3.7",
-    "enzyme": "^5.0.3",
-    "gatsby": "^7.4.5"
+    "moment": "^5.9.8",
+    "jest": "^6.8.9",
+    "karma": "^8.8.7",
+    "angular": "^0.4.6",
+    "socket.io": "^3.3.8"
   }
 }
