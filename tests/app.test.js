@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("toggleMenu called");
-    alert('Action completed!');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x ** y;
+    return x - y;
 }

@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("submitForm arrow function called");
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-    return x / y;
-    alert('Action completed!');
-};
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^5.7.5",
-    "chai": "^0.1.4",
-    "cypress": "^4.5.1",
-    "axios": "^5.0.0",
-    "puppeteer": "^6.8.0",
-    "ember": "^6.9.1",
-    "svelte": "^9.9.4",
-    "sinon": "^9.1.1"
+    "sinon": "^6.0.3",
+    "graphql": "^4.8.8",
+    "nodemon": "^9.4.3",
+    "mysql": "^6.1.0",
+    "redis": "^1.1.5",
+    "webpack": "^6.1.5"
   }
 }
