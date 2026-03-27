@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("setCookie called");
-    return x ** y;
-    return a + b;
-    e.preventDefault();
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    data.push(value);
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

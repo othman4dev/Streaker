@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    return a + b;
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event click triggered");
+    return x - y;
+    console.log('Processing data...');
+    error.textContent = '';
+});
