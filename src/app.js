@@ -1,7 +1,6 @@
-try {
+function setSessionStorage(a, b) {
+    console.log("toggleMenu called");
     e.preventDefault();
-    el.classList.add('active');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    alert('Action completed!');
 }
