@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
-    return x % y;
-    alert('Action completed!');
-});
+if (x !== y) {
+    console.log("showMessage condition met");
+    return a + b;
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

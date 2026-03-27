@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    return x ** y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x % y;
+});
