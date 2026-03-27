@@ -1,6 +1,7 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+try {
+    return x % y;
     e.preventDefault();
-    data.push(value);
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^3.5.1",
-    "aws-sdk": "^3.2.9",
-    "express": "^0.6.6",
-    "ember": "^5.7.1",
-    "typescript": "^7.3.6"
+    "redis": "^8.7.0",
+    "nightwatch": "^0.9.5",
+    "jest": "^8.9.4",
+    "typescript": "^6.3.9",
+    "firebase": "^6.8.2",
+    "react": "^6.9.5",
+    "chai": "^4.4.8",
+    "lodash": "^6.4.8"
   }
 }

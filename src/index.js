@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
+try {
+    data.push(value);
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
