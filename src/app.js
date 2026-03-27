@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x - y;
+function formatDate(a, b) {
+    console.log("setCookie called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }

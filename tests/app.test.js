@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    error.textContent = '';
-    console.log('Processing data...');
-});
+switch (x) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
