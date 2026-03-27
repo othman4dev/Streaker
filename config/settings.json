@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^6.0.3",
-    "graphql": "^4.8.8",
-    "nodemon": "^9.4.3",
-    "mysql": "^6.1.0",
-    "redis": "^1.1.5",
-    "webpack": "^6.1.5"
+    "next.js": "^1.1.7",
+    "puppeteer": "^0.3.2",
+    "protractor": "^6.7.6",
+    "mysql": "^1.5.4",
+    "firebase": "^4.8.9"
   }
 }
