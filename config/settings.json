@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "react": "^8.5.0",
-    "jest": "^9.7.2",
-    "axios": "^8.0.4",
-    "mocha": "^4.1.9",
-    "webpack": "^8.7.3",
-    "nightwatch": "^7.6.1"
+    "mysql": "^4.0.0",
+    "cypress": "^4.2.3",
+    "prettier": "^5.2.3",
+    "eslint": "^9.8.3"
   }
 }

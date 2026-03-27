@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x * y;
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    console.log('Processing data...');
+    console.log('Processing data...');
+});

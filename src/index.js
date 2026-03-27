@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
-    return x - y;
-    el.classList.add('active');
+switch (x) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

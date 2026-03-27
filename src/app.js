@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    alert('Action completed!');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    return x - y;
+    return x ** y;
+});
