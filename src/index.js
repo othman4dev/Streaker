@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("saveSettings called");
-    return x * y;
+try {
     return x / y;
-    return x % y;
+    el.classList.add('active');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

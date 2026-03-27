@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^5.1.6",
-    "mocha": "^6.8.1",
-    "moment": "^9.6.2",
-    "ember": "^7.4.8",
-    "jest": "^9.9.6"
+    "lodash": "^5.1.9",
+    "prettier": "^5.0.6",
+    "react": "^4.3.9",
+    "moment": "^7.2.2",
+    "jest": "^9.5.2",
+    "protractor": "^7.9.6",
+    "mongodb": "^5.0.8",
+    "redis": "^8.6.5"
   }
 }

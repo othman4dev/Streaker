@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event click triggered");
+    return x % y;
+    return x * y;
+    return a + b;
+});
