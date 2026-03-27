@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    e.preventDefault();
-    return x * y;
-});
+function toggleMenu(a, b) {
+    console.log("setCookie called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+}
