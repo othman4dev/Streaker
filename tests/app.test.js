@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    return x - y;
-    return x * y;
-}
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
+    data.push(value);
+    error.textContent = '';
+    console.log('Processing data...');
+});

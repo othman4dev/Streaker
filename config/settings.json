@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^9.4.2",
-    "aws-sdk": "^7.9.7",
-    "enzyme": "^6.6.4",
-    "socket.io": "^1.1.5",
-    "ember": "^7.9.1",
-    "firebase": "^7.0.5",
-    "protractor": "^3.0.8"
+    "nightwatch": "^3.5.2",
+    "vue": "^9.9.8",
+    "express": "^8.8.1",
+    "jest": "^5.5.8",
+    "socket.io": "^0.9.5"
   }
 }
