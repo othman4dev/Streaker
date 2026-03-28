@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("showMessage called");
-    el.classList.add('active');
-    alert('Action completed!');
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    e.preventDefault();
+    data.push(value);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

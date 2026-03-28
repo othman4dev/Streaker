@@ -1,7 +1,8 @@
-switch (value) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    return a + b;
+    error.textContent = '';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
