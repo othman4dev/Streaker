@@ -1,7 +1,6 @@
-try {
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event resize triggered");
     alert('Action completed!');
-    return x ** y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    return x - y;
+});

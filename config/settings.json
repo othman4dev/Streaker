@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "moment": "^5.9.8",
-    "jest": "^6.8.9",
-    "karma": "^8.8.7",
-    "angular": "^0.4.6",
-    "socket.io": "^3.3.8"
+    "karma": "^2.0.0",
+    "cypress": "^2.2.2",
+    "angular": "^1.4.7",
+    "enzyme": "^5.2.7",
+    "typescript": "^0.3.6"
   }
 }
