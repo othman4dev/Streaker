@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    return x - y;
+    window.location.reload();
+    el.classList.add('active');
+});

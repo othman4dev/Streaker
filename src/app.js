@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("loadData condition met");
+    return x - y;
     e.preventDefault();
-});
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

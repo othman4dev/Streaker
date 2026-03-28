@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "prettier": "^1.0.5",
-    "chai": "^6.8.2",
-    "typescript": "^3.7.0",
-    "moment": "^4.6.8",
-    "axios": "^2.0.9",
-    "next.js": "^4.2.6",
-    "react": "^3.5.2"
+    "redis": "^7.4.9",
+    "puppeteer": "^9.7.9",
+    "nodemon": "^0.8.2",
+    "moment": "^0.5.4"
   }
 }
