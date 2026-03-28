@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("saveSettings called");
-    return x ** y;
-    alert('Action completed!');
-    window.location.reload();
+function removeItem(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    return a + b;
+    return x / y;
 }
