@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "karma": "^2.0.0",
-    "cypress": "^2.2.2",
-    "angular": "^1.4.7",
-    "enzyme": "^5.2.7",
-    "typescript": "^0.3.6"
+    "vue": "^7.5.3",
+    "chai": "^0.8.1",
+    "mongodb": "^4.7.0",
+    "enzyme": "^2.0.1",
+    "svelte": "^4.1.5",
+    "axios": "^8.6.7",
+    "nodemon": "^7.2.9",
+    "mysql": "^0.4.2"
   }
 }
