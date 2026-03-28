@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("createChart called");
-    alert('Action completed!');
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
     return a + b;
-    window.location.reload();
+    error.textContent = '';
 }

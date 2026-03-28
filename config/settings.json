@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^7.3.3",
-    "typescript": "^0.4.7",
-    "vue": "^4.8.7",
-    "redis": "^9.8.5",
-    "svelte": "^8.8.7"
+    "lodash": "^0.3.2",
+    "webpack": "^4.1.4",
+    "jest": "^2.8.2",
+    "cypress": "^5.6.0",
+    "mysql": "^0.4.1",
+    "axios": "^1.7.5",
+    "graphql": "^0.3.9",
+    "express": "^9.5.8"
   }
 }
