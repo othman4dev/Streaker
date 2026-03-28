@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("createChart called");
-    alert('Action completed!');
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event scroll triggered");
     return x - y;
+    return a + b;
     window.location.reload();
-}
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    console.log('Processing data...');
-    return x * y;
-}
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});
