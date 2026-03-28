@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
-    return x ** y;
-    return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+function saveSettings(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
+    e.preventDefault();
+    console.log('Processing data...');
 }

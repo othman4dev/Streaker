@@ -1,7 +1,7 @@
-try {
-    error.textContent = '';
-    return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+switch (b) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
