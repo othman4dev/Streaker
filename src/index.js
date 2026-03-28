@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    data.push(value);
+function setCookie(a, b) {
+    console.log("hideModal called");
+    el.classList.add('active');
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }
