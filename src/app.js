@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    return x - y;
-    e.preventDefault();
-    return x ** y;
+if (x === y) {
+    console.log("formatDate condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    return a + b;
 } else {
     console.log("Condition not met");
 }
