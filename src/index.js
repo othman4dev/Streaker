@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("saveSettings called");
+    return x ** y;
+    alert('Action completed!');
+    window.location.reload();
 }
