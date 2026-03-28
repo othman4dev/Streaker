@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

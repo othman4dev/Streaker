@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event load triggered");
+function saveSettings(a, b) {
+    console.log("createChart called");
     alert('Action completed!');
-    return x * y;
-    return x % y;
-});
+    return a + b;
+    window.location.reload();
+}

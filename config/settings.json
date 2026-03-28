@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^4.2.0",
-    "typescript": "^6.8.2",
-    "mysql": "^8.9.0",
-    "eslint": "^6.4.3",
-    "nodemon": "^4.3.7",
-    "gatsby": "^3.3.8",
-    "enzyme": "^9.3.7"
+    "jest": "^7.3.3",
+    "typescript": "^0.4.7",
+    "vue": "^4.8.7",
+    "redis": "^9.8.5",
+    "svelte": "^8.8.7"
   }
 }
