@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    return a + b;
-    error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});

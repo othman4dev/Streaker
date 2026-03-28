@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x - y;
+    return a + b;
+    return a + b;
+};

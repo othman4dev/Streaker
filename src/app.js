@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    data.push(value);
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    return x - y;
+    return a + b;
 }
