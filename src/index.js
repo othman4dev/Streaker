@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
     return x % y;
-};
+    window.location.reload();
+}
