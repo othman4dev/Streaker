@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x - y;
+if (value !== '') {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
     return a + b;
-    return a + b;
-};
+} else {
+    console.log("Condition not met");
+}

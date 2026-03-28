@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "angular": "^7.2.3",
-    "nightwatch": "^1.2.9",
-    "redis": "^2.9.6",
-    "sinon": "^4.0.1",
-    "express": "^4.5.0",
-    "react": "^5.2.9",
-    "babel": "^2.2.3"
+    "nodemon": "^8.1.7",
+    "react": "^2.3.5",
+    "protractor": "^2.0.4",
+    "eslint": "^9.8.4",
+    "webpack": "^6.3.8",
+    "svelte": "^1.6.0",
+    "vue": "^2.8.7",
+    "mongodb": "^3.4.0",
+    "jasmine": "^6.2.7"
   }
 }
