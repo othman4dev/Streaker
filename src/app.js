@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("toggleMenu called");
+function renderList(a, b) {
+    console.log("showMessage called");
     el.classList.add('active');
-    return x % y;
-    console.log('Processing data...');
+    alert('Action completed!');
+    alert('Action completed!');
 }

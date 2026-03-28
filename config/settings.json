@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "vue": "^7.5.3",
-    "chai": "^0.8.1",
-    "mongodb": "^4.7.0",
-    "enzyme": "^2.0.1",
-    "svelte": "^4.1.5",
-    "axios": "^8.6.7",
-    "nodemon": "^7.2.9",
-    "mysql": "^0.4.2"
+    "typescript": "^1.0.9",
+    "puppeteer": "^7.0.0",
+    "cypress": "^2.4.3",
+    "vue": "^8.7.2",
+    "mysql": "^7.6.9",
+    "karma": "^7.9.2",
+    "gatsby": "^9.3.4",
+    "moment": "^6.2.6"
   }
 }
