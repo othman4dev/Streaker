@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+const displayError = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
+    return x - y;
     return a + b;
-    return x % y;
-}
+};

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setCookie condition met");
-    return x % y;
-    data.push(value);
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event click triggered");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    return x - y;
+});
