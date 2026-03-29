@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+const updateUI = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+    el.classList.add('active');
+};

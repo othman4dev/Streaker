@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
     return a + b;
-    return x * y;
-}
+    return x / y;
+});
