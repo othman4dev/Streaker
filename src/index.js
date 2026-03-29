@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    error.textContent = '';
-    return x / y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x * y;
+};

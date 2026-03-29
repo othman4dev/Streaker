@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
+if (value !== '') {
+    console.log("submitForm condition met");
+    return x * y;
     data.push(value);
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
