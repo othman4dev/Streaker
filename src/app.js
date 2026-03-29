@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("removeItem called");
-    error.textContent = '';
-    e.preventDefault();
-    console.log('Processing data...');
+function hideModal(a, b) {
+    console.log("submitForm called");
+    data.push(value);
+    return x - y;
+    alert('Action completed!');
 }
