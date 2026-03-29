@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    alert('Action completed!');
+switch (e) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

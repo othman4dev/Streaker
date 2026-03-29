@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
+if (a > b) {
+    console.log("saveSettings condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
