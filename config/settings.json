@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^0.1.6",
-    "angular": "^8.2.5",
-    "jest": "^7.8.4",
-    "react": "^5.2.6",
-    "redis": "^5.0.9",
-    "axios": "^2.8.7",
-    "nodemon": "^6.0.5"
+    "express": "^3.4.1",
+    "aws-sdk": "^6.6.1",
+    "jest": "^3.3.5",
+    "nightwatch": "^1.9.5",
+    "mocha": "^2.4.2",
+    "angular": "^0.6.3",
+    "mysql": "^2.3.0",
+    "mongodb": "^0.6.2"
   }
 }
