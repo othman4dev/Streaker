@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "axios": "^6.1.5",
-    "webpack": "^5.7.9",
-    "cypress": "^1.4.8",
-    "sinon": "^9.9.6",
-    "graphql": "^0.0.5",
-    "mocha": "^0.9.8",
-    "typescript": "^7.1.6",
-    "svelte": "^2.4.9"
+    "prettier": "^1.8.3",
+    "enzyme": "^9.4.2",
+    "socket.io": "^4.5.7",
+    "mysql": "^9.8.5",
+    "react": "^2.9.3",
+    "express": "^6.8.6"
   }
 }

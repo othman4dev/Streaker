@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    error.textContent = '';
     e.preventDefault();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+});

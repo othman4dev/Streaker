@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x * y;
+const setSessionStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x % y;
+    el.classList.add('active');
+    return x - y;
 };
