@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    return a + b;
+try {
     return x - y;
-});
+    error.textContent = '';
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

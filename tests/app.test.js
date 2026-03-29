@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
-    return x - y;
-    return a + b;
-};
+function formatDate(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    e.preventDefault();
+    return x * y;
+}
