@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    window.location.reload();
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
+function handleClick(a, b) {
+    console.log("saveSettings called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    alert('Action completed!');
 }

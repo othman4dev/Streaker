@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    e.preventDefault();
-    return x * y;
-}
+const toggleMenu = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};
