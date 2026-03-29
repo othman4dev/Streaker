@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event load triggered");
-    return x % y;
-    e.preventDefault();
-    return x % y;
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 });

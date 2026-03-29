@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("saveSettings called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    window.location.reload();
+if (x !== y) {
+    console.log("loadData condition met");
+    error.textContent = '';
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
