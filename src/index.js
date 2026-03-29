@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    el.classList.add('active');
-    return x - y;
-};
+try {
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

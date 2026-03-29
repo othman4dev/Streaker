@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
+try {
+    return x % y;
+    return x / y;
     error.textContent = '';
-    e.preventDefault();
-});
+} catch (error) {
+    console.error("Error:", error);
+}

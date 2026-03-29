@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    error.textContent = '';
-    return x ** y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function createChart(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
+    return a + b;
+    console.log('Processing data...');
 }
