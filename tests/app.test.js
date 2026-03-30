@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("fetchData condition met");
-    error.textContent = '';
-    e.preventDefault();
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x - y;
+    window.location.reload();
     return x / y;
-} else {
-    console.log("Condition not met");
-}
+};
