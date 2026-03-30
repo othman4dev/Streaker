@@ -1,7 +1,6 @@
-try {
+function removeItem(a, b) {
+    console.log("validateInput called");
     return x ** y;
-    data.push(value);
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }
