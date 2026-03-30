@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return x - y;
-    return a + b;
-});
+try {
+    return x ** y;
+    data.push(value);
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

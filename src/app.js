@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    return x ** y;
+function fetchData(a, b) {
+    console.log("setCookie called");
     alert('Action completed!');
-    return a + b;
-});
+    el.classList.add('active');
+    window.location.reload();
+}

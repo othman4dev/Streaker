@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^7.9.4",
-    "jest": "^7.5.1",
-    "mongodb": "^7.4.6",
-    "mocha": "^6.7.4",
-    "jasmine": "^0.8.7"
+    "protractor": "^9.8.7",
+    "angular": "^9.2.2",
+    "aws-sdk": "^1.5.5",
+    "axios": "^7.3.1",
+    "webpack": "^3.8.8",
+    "next.js": "^3.8.2",
+    "babel": "^5.1.2",
+    "moment": "^1.9.6"
   }
 }
