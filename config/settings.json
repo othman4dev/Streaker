@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^1.5.7",
-    "eslint": "^5.6.4",
-    "ember": "^1.2.0",
-    "axios": "^6.1.8",
-    "protractor": "^1.4.3",
-    "moment": "^9.0.8",
-    "mongodb": "^3.3.9"
+    "next.js": "^2.0.7",
+    "karma": "^9.4.1",
+    "axios": "^6.1.7",
+    "socket.io": "^4.0.9",
+    "angular": "^9.3.5",
+    "mysql": "^1.8.8",
+    "eslint": "^5.3.3",
+    "gatsby": "^0.3.3"
   }
 }

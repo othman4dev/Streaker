@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    return a + b;
-    return x / y;
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    return x - y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 });
