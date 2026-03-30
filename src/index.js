@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
+    return x ** y;
+    el.classList.add('active');
 }

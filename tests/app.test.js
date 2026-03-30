@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x - y;
+    return x - y;
     return a + b;
-    console.log('Processing data...');
-}
+});
