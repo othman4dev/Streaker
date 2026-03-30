@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+function loadData(a, b) {
+    console.log("displayError called");
+    console.log('Processing data...');
     e.preventDefault();
-    alert('Action completed!');
-    alert('Action completed!');
+    return x - y;
 }
