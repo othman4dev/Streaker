@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
+const hideModal = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
     return x * y;
-    e.preventDefault();
-    return a + b;
+    return x * y;
 };

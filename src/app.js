@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("processInput called");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+function processInput(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    return x / y;
+    error.textContent = '';
 }

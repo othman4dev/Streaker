@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^7.9.1",
-    "jasmine": "^0.0.2",
-    "lodash": "^7.7.1",
-    "jest": "^3.1.5",
-    "express": "^5.0.4",
-    "eslint": "^7.8.7",
-    "svelte": "^9.7.7",
-    "chai": "^6.7.8"
+    "jasmine": "^1.9.7",
+    "redis": "^7.3.6",
+    "typescript": "^5.4.7",
+    "angular": "^1.4.8",
+    "nodemon": "^5.3.8"
   }
 }
