@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    return a + b;
-    alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const submitForm = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
+    el.classList.add('active');
+};

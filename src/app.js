@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function removeItem(a, b) {
+    console.log("validateInput called");
+    return x % y;
+    window.location.reload();
+    console.log('Processing data...');
 }
