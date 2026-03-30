@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x ** y;
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
 };
