@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("setCookie condition met");
+    return a + b;
+    alert('Action completed!');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
