@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-});
+switch (x) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
