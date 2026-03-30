@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    el.classList.add('active');
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    return x / y;
+    e.preventDefault();
+});
