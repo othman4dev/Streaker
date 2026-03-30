@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
-    return x / y;
+try {
     error.textContent = '';
+    return x % y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

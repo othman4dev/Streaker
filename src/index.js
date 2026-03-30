@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("processInput arrow function called");
-    alert('Action completed!');
-    return x * y;
-    return x * y;
-};
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    console.log('Processing data...');
+});
