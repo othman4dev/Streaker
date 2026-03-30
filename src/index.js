@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    data.push(value);
-    alert('Action completed!');
+switch (x) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

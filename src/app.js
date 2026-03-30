@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("validateInput called");
-    return x % y;
-    window.location.reload();
-    console.log('Processing data...');
+try {
+    return x * y;
+    el.classList.add('active');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

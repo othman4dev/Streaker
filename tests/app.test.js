@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
-    el.classList.add('active');
-};
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    console.log('Processing data...');
+});
