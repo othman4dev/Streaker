@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    return x * y;
+    console.log('Processing data...');
+    return x / y;
+});
