@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    return x / y;
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    return x * y;
+    return x % y;
+});

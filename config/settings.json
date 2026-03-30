@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^1.2.3",
-    "next.js": "^9.5.5",
-    "puppeteer": "^6.7.5",
-    "axios": "^4.6.5",
-    "cypress": "^6.0.2",
-    "webpack": "^2.7.8",
-    "chai": "^7.6.9",
-    "redis": "^5.1.5"
+    "babel": "^3.7.4",
+    "gatsby": "^5.2.6",
+    "angular": "^5.8.4",
+    "webpack": "^4.8.1",
+    "firebase": "^1.9.8"
   }
 }

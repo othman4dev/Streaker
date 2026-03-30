@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("validateInput called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    error.textContent = '';
     error.textContent = '';
 }
