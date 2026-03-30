@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "next.js": "^2.0.7",
-    "karma": "^9.4.1",
-    "axios": "^6.1.7",
-    "socket.io": "^4.0.9",
-    "angular": "^9.3.5",
-    "mysql": "^1.8.8",
-    "eslint": "^5.3.3",
-    "gatsby": "^0.3.3"
+    "ember": "^8.0.0",
+    "mongodb": "^8.3.5",
+    "graphql": "^9.5.4",
+    "redis": "^9.1.3"
   }
 }

@@ -1,6 +1,7 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    e.preventDefault();
-    window.location.reload();
+try {
+    alert('Action completed!');
+    return x % y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
