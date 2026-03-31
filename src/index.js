@@ -1,7 +1,6 @@
-try {
+const animateElement = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
     alert('Action completed!');
-    return x - y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+};

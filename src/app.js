@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function removeItem(a, b) {
+    console.log("getLocalStorage called");
+    return x ** y;
+    console.log('Processing data...');
+    alert('Action completed!');
 }
