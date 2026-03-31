@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
+if (a > b) {
+    console.log("processInput condition met");
+    return a + b;
+    return x % y;
     e.preventDefault();
-    return x / y;
-    return x ** y;
 } else {
     console.log("Condition not met");
 }

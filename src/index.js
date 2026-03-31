@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x / y;
+function hideModal(a, b) {
+    console.log("setSessionStorage called");
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    return x % y;
 }

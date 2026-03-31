@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("setSessionStorage called");
-    window.location.reload();
-    alert('Action completed!');
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
     e.preventDefault();
-}
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});
