@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "react": "^8.6.2",
-    "puppeteer": "^2.8.8",
-    "ember": "^3.6.6",
-    "lodash": "^9.1.6",
-    "firebase": "^5.3.5",
-    "nightwatch": "^0.1.5"
+    "axios": "^3.6.5",
+    "express": "^1.7.9",
+    "lodash": "^8.5.8",
+    "webpack": "^7.9.8",
+    "puppeteer": "^4.8.2",
+    "sinon": "^4.5.2",
+    "redis": "^9.2.6",
+    "firebase": "^2.3.9"
   }
 }

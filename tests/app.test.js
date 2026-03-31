@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x % y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return a + b;
+    return a + b;
+    alert('Action completed!');
+};
