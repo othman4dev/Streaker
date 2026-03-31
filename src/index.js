@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    return a + b;
-});
+function saveSettings(a, b) {
+    console.log("getLocalStorage called");
+    return x * y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+}

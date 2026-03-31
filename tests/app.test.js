@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    e.preventDefault();
+    error.textContent = '';
 }
