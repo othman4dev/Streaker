@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    window.location.reload();
-    return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    el.classList.add('active');
+    return x % y;
+});
