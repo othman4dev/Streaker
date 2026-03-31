@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^6.7.4",
-    "firebase": "^0.9.2",
-    "redis": "^2.2.5",
-    "angular": "^8.6.6"
+    "aws-sdk": "^9.5.6",
+    "ember": "^6.4.0",
+    "prettier": "^9.2.9",
+    "next.js": "^5.1.3"
   }
 }

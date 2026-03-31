@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    window.location.reload();
-    return x - y;
-});
+    return x % y;
+    return x / y;
+}

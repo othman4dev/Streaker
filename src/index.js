@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    e.preventDefault();
-    window.location.reload();
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    return x / y;
+    return x / y;
+}
