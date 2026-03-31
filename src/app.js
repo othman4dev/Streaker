@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("updateUI called");
-    return x * y;
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
     error.textContent = '';
-    return a + b;
-}
+    window.location.reload();
+    return x % y;
+});

@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    e.preventDefault();
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
     return x - y;
+    return x ** y;
 } else {
     console.log("Condition not met");
 }

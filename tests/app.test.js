@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("checkStatus called");
-    el.classList.add('active');
-    window.location.reload();
-    return x ** y;
-}
+const animateElement = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+};
