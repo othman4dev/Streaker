@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^1.4.1",
-    "axios": "^4.6.1",
-    "redis": "^8.9.2",
-    "vue": "^9.1.9",
-    "moment": "^5.5.6",
-    "express": "^6.5.6"
+    "babel": "^4.9.2",
+    "enzyme": "^0.8.3",
+    "svelte": "^0.8.7",
+    "ember": "^9.7.1",
+    "gatsby": "^5.8.5"
   }
 }
