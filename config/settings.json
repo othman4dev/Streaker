@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "vue": "^5.3.3",
-    "socket.io": "^3.5.8",
-    "jest": "^7.0.0",
-    "moment": "^3.9.6",
-    "lodash": "^5.2.2",
-    "aws-sdk": "^9.8.5",
-    "react": "^2.4.6"
+    "sinon": "^5.5.4",
+    "mysql": "^3.9.5",
+    "gatsby": "^8.4.1",
+    "typescript": "^2.2.8"
   }
 }

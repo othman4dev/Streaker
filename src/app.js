@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    return x - y;
+try {
+    data.push(value);
+    window.location.reload();
     e.preventDefault();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

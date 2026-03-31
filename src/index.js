@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    return x * y;
-    console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
