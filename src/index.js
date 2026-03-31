@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    return x ** y;
-    return x ** y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     window.location.reload();
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
 }

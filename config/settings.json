@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^0.0.8",
-    "chai": "^8.8.9",
-    "express": "^3.4.0",
-    "nightwatch": "^9.3.1",
-    "react": "^5.3.6",
-    "jest": "^4.1.4",
-    "cypress": "^0.5.2"
+    "angular": "^6.4.2",
+    "socket.io": "^9.1.4",
+    "jest": "^3.1.4",
+    "puppeteer": "^4.2.7",
+    "ember": "^5.3.5",
+    "karma": "^9.5.0",
+    "firebase": "^3.5.2"
   }
 }

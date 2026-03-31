@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("displayError called");
+    return x / y;
+    alert('Action completed!');
+    return a + b;
 }
