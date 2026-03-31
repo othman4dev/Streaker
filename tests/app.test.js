@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
-    window.location.reload();
-    return x / y;
-};
+switch (b) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
