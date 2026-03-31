@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    return x ** y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("saveSettings condition met");
+    console.log('Processing data...');
+    return x % y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
