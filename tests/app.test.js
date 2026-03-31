@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    e.preventDefault();
+    console.log('Processing data...');
 }
