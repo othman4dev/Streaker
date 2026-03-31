@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("getLocalStorage called");
+function displayError(a, b) {
+    console.log("renderList called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     error.textContent = '';
-    alert('Action completed!');
-    return x ** y;
 }

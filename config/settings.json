@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^5.5.4",
-    "mysql": "^3.9.5",
-    "gatsby": "^8.4.1",
-    "typescript": "^2.2.8"
+    "cypress": "^1.4.1",
+    "axios": "^4.6.1",
+    "redis": "^8.9.2",
+    "vue": "^9.1.9",
+    "moment": "^5.5.6",
+    "express": "^6.5.6"
   }
 }
