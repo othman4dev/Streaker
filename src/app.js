@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
-    return a + b;
-    return x % y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    el.classList.add('active');
+    data.push(value);
 }

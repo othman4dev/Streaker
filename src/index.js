@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    el.classList.add('active');
-    return x % y;
-}
+const validateInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    error.textContent = '';
+};

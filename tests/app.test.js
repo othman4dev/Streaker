@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    return x / y;
+    error.textContent = '';
 });
