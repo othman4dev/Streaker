@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    el.classList.add('active');
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

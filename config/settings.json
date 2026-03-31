@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^8.5.6",
-    "jest": "^5.5.5",
-    "mocha": "^3.1.7",
-    "firebase": "^0.2.7",
-    "redis": "^9.8.0",
-    "karma": "^6.0.8",
-    "sinon": "^1.8.8"
+    "puppeteer": "^9.4.8",
+    "jasmine": "^6.9.1",
+    "svelte": "^6.8.2",
+    "redis": "^1.4.4",
+    "aws-sdk": "^2.9.4",
+    "nightwatch": "^4.8.9",
+    "protractor": "^1.3.6"
   }
 }
