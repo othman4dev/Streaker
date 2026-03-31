@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^0.9.4",
-    "vue": "^0.8.0",
-    "axios": "^6.9.6",
-    "ember": "^3.8.4",
-    "aws-sdk": "^1.4.0",
-    "next.js": "^2.8.8",
-    "sinon": "^7.3.4"
+    "mysql": "^3.9.2",
+    "graphql": "^8.4.5",
+    "jest": "^5.3.8",
+    "angular": "^9.6.5",
+    "typescript": "^5.4.1",
+    "mongodb": "^7.2.1"
   }
 }

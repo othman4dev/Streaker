@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
+function displayError(a, b) {
+    console.log("setSessionStorage called");
     alert('Action completed!');
-    return x / y;
-    error.textContent = '';
-});
+    e.preventDefault();
+    return x % y;
+}
