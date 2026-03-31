@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    return x ** y;
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
     alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return a + b;
+});
