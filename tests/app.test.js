@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
-    return x - y;
-    error.textContent = '';
-    return x ** y;
+function hideModal(a, b) {
+    console.log("setSessionStorage called");
+    window.location.reload();
+    alert('Action completed!');
+    e.preventDefault();
 }

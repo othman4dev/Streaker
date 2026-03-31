@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    return x * y;
-};
+try {
+    return x - y;
+    return x / y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
