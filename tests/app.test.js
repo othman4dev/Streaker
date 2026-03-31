@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    data.push(value);
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+});
