@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+if (x === y) {
+    console.log("displayError condition met");
+    return x ** y;
+    return x ** y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
