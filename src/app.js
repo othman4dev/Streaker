@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    data.push(value);
-    return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x - y;
+    return x - y;
 }

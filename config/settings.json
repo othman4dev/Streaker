@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "vue": "^4.9.6",
-    "mocha": "^6.5.5",
-    "aws-sdk": "^8.5.1",
-    "angular": "^5.4.9",
-    "eslint": "^3.1.9"
+    "protractor": "^6.5.4",
+    "redis": "^0.6.5",
+    "socket.io": "^1.4.5",
+    "gatsby": "^1.8.3"
   }
 }
