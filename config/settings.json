@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "angular": "^6.4.2",
-    "socket.io": "^9.1.4",
-    "jest": "^3.1.4",
-    "puppeteer": "^4.2.7",
-    "ember": "^5.3.5",
-    "karma": "^9.5.0",
-    "firebase": "^3.5.2"
+    "graphql": "^6.7.4",
+    "firebase": "^0.9.2",
+    "redis": "^2.2.5",
+    "angular": "^8.6.6"
   }
 }

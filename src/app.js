@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    return x / y;
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
     e.preventDefault();
-};
+    window.location.reload();
+    return x - y;
+});

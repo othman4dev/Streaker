@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("displayError called");
-    return x / y;
-    alert('Action completed!');
-    return a + b;
-}
+const loadData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    el.classList.add('active');
+    el.classList.add('active');
+};
