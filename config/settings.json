@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^3.9.2",
-    "graphql": "^8.4.5",
-    "jest": "^5.3.8",
-    "angular": "^9.6.5",
-    "typescript": "^5.4.1",
-    "mongodb": "^7.2.1"
+    "webpack": "^1.5.8",
+    "redis": "^6.9.8",
+    "mongodb": "^0.2.4",
+    "jest": "^8.6.7",
+    "aws-sdk": "^7.3.7"
   }
 }

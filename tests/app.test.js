@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("setSessionStorage called");
-    alert('Action completed!');
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-    return x % y;
+    error.textContent = '';
+    data.push(value);
 }
