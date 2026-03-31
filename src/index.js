@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    console.log('Processing data...');
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
-    return x / y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+}

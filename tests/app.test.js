@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    alert('Action completed!');
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     data.push(value);
-};
+    alert('Action completed!');
+}
