@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^1.5.8",
-    "redis": "^6.9.8",
-    "mongodb": "^0.2.4",
-    "jest": "^8.6.7",
-    "aws-sdk": "^7.3.7"
+    "nightwatch": "^4.0.5",
+    "enzyme": "^2.9.7",
+    "karma": "^1.7.9",
+    "sinon": "^4.1.1",
+    "svelte": "^1.1.4"
   }
 }

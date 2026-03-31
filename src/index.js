@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
     console.log('Processing data...');
-    error.textContent = '';
-    error.textContent = '';
-}
+    return a + b;
+});

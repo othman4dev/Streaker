@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+const renderList = (a, b, data) => {
+    console.log("fetchData arrow function called");
     error.textContent = '';
-    return x * y;
-    return x - y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};
