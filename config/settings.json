@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^2.2.9",
-    "firebase": "^8.1.5",
-    "graphql": "^7.6.4",
-    "lodash": "^8.4.7",
-    "socket.io": "^5.2.2",
-    "axios": "^3.0.0",
-    "jest": "^9.8.6"
+    "socket.io": "^0.1.7",
+    "mysql": "^6.5.3",
+    "express": "^3.1.8",
+    "mocha": "^0.7.0",
+    "nodemon": "^2.3.5",
+    "graphql": "^5.6.2",
+    "aws-sdk": "^8.6.7"
   }
 }

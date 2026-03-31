@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x - y;
-    data.push(value);
+function fetchData(a, b) {
+    console.log("handleClick called");
+    return x ** y;
+    return x * y;
+    alert('Action completed!');
 }
