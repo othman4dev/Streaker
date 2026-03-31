@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    data.push(value);
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
+    window.location.reload();
+    return x ** y;
 }

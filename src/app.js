@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("updateUI called");
+    return x * y;
+    error.textContent = '';
+    return a + b;
 }

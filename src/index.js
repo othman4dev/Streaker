@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return a + b;
-    window.location.reload();
-    data.push(value);
-};
+if (data.length > 0) {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
