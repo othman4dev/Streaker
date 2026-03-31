@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "babel": "^0.6.2",
-    "mocha": "^5.6.1",
-    "react": "^2.4.0",
-    "nodemon": "^1.5.7",
-    "jest": "^3.5.5",
-    "mysql": "^1.9.7"
+    "mongodb": "^8.5.6",
+    "jest": "^5.5.5",
+    "mocha": "^3.1.7",
+    "firebase": "^0.2.7",
+    "redis": "^9.8.0",
+    "karma": "^6.0.8",
+    "sinon": "^1.8.8"
   }
 }
