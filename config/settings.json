@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.9.2",
-    "enzyme": "^0.8.3",
-    "svelte": "^0.8.7",
-    "ember": "^9.7.1",
-    "gatsby": "^5.8.5"
+    "react": "^8.6.2",
+    "puppeteer": "^2.8.8",
+    "ember": "^3.6.6",
+    "lodash": "^9.1.6",
+    "firebase": "^5.3.5",
+    "nightwatch": "^0.1.5"
   }
 }

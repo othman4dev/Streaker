@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    data.push(value);
+    error.textContent = '';
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+};
