@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
+if (a > b) {
+    console.log("fetchData condition met");
     console.log('Processing data...');
+    return a + b;
     return x - y;
-    return x ** y;
 } else {
     console.log("Condition not met");
 }
