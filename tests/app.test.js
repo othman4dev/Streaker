@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    error.textContent = '';
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
+    console.log('Processing data...');
     data.push(value);
-};
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

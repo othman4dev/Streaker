@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^6.8.3",
-    "firebase": "^0.1.0",
-    "mysql": "^9.1.9",
-    "next.js": "^8.1.5",
-    "protractor": "^9.7.6",
-    "nodemon": "^9.6.9",
-    "ember": "^0.1.9"
+    "redis": "^3.9.8",
+    "jest": "^0.2.9",
+    "karma": "^7.7.1",
+    "next.js": "^9.2.3",
+    "sinon": "^9.7.8",
+    "cypress": "^3.8.6",
+    "mysql": "^4.8.6"
   }
 }
