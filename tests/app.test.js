@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+if (x === y) {
+    console.log("removeItem condition met");
+    data.push(value);
+    return x - y;
     alert('Action completed!');
-    return x / y;
+} else {
+    console.log("Condition not met");
 }

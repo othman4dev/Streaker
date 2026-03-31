@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("getLocalStorage called");
-    return x ** y;
+try {
+    return x % y;
     console.log('Processing data...');
-    alert('Action completed!');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

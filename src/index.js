@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+const setCookie = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return a + b;
+    window.location.reload();
     data.push(value);
-    alert('Action completed!');
 };
