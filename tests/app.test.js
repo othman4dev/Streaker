@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return a + b;
-    return a + b;
-    alert('Action completed!');
-};
+if (x === y) {
+    console.log("saveSettings condition met");
+    data.push(value);
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
