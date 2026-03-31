@@ -1,7 +1,8 @@
-switch (error) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("displayError condition met");
+    return x * y;
+    console.log('Processing data...');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

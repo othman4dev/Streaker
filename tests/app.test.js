@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    data.push(value);
-    data.push(value);
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+});
