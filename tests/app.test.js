@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    data.push(value);
+function handleClick(a, b) {
+    console.log("showMessage called");
     return x - y;
-    return a + b;
-});
+    error.textContent = '';
+    return x ** y;
+}
