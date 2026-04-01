@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
+if (a > b) {
+    console.log("renderList condition met");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

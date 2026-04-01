@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^6.5.4",
-    "redis": "^0.6.5",
-    "socket.io": "^1.4.5",
-    "gatsby": "^1.8.3"
+    "webpack": "^0.5.8",
+    "karma": "^9.9.1",
+    "jasmine": "^6.7.8",
+    "moment": "^6.2.4",
+    "prettier": "^0.1.5",
+    "mysql": "^9.5.5",
+    "protractor": "^2.3.9",
+    "express": "^7.1.2",
+    "nodemon": "^3.6.8"
   }
 }
