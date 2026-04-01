@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^5.8.7",
-    "nightwatch": "^9.5.9",
-    "react": "^9.4.1",
-    "jest": "^7.9.3",
-    "graphql": "^7.6.5",
-    "typescript": "^2.0.8"
+    "angular": "^7.4.6",
+    "redis": "^4.9.9",
+    "nodemon": "^7.5.5",
+    "enzyme": "^0.4.2",
+    "nightwatch": "^6.4.7"
   }
 }
