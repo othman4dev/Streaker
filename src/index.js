@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    console.log('Processing data...');
+    console.log('Processing data...');
     e.preventDefault();
-    return a + b;
-};
+} else {
+    console.log("Condition not met");
+}
