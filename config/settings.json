@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "redis": "^7.9.0",
-    "react": "^6.3.1",
-    "vue": "^7.1.2",
-    "ember": "^8.6.8",
-    "next.js": "^9.0.3"
+    "firebase": "^2.5.8",
+    "nodemon": "^2.5.2",
+    "protractor": "^1.2.3",
+    "webpack": "^5.1.6",
+    "gatsby": "^1.8.6"
   }
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    return x - y;
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
+    el.classList.add('active');
+    window.location.reload();
+});

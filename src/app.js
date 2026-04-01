@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("showMessage called");
-    e.preventDefault();
-    return x % y;
-    el.classList.add('active');
+if (a > b) {
+    console.log("checkStatus condition met");
+    return x ** y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
