@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^6.7.9",
-    "karma": "^9.0.2",
-    "enzyme": "^4.2.6",
-    "socket.io": "^4.6.7",
-    "chai": "^7.2.9",
-    "svelte": "^7.1.7",
-    "jest": "^3.4.4",
-    "nodemon": "^7.2.9"
+    "firebase": "^5.8.7",
+    "nightwatch": "^9.5.9",
+    "react": "^9.4.1",
+    "jest": "^7.9.3",
+    "graphql": "^7.6.5",
+    "typescript": "^2.0.8"
   }
 }

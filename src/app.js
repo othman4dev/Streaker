@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("hideModal condition met");
-    el.classList.add('active');
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
