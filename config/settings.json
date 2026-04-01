@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "chai": "^5.1.6",
-    "webpack": "^3.6.7",
-    "typescript": "^9.1.7",
-    "axios": "^5.6.4",
-    "nightwatch": "^1.0.5",
-    "socket.io": "^4.2.1",
-    "eslint": "^9.4.8"
+    "svelte": "^8.0.6",
+    "sinon": "^0.7.4",
+    "aws-sdk": "^5.4.0",
+    "protractor": "^4.0.4",
+    "vue": "^2.4.4"
   }
 }

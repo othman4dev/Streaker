@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    e.preventDefault();
-    console.log('Processing data...');
+function fetchData(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x ** y;
 }
