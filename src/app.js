@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("displayError condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+if (a > b) {
+    console.log("hideModal condition met");
+    el.classList.add('active');
+    window.location.reload();
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }
