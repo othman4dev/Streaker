@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^9.1.1",
-    "nodemon": "^7.6.5",
-    "react": "^5.3.3",
-    "express": "^3.9.8",
-    "jest": "^5.7.3",
-    "webpack": "^8.4.9",
-    "chai": "^9.8.9",
-    "puppeteer": "^8.7.1"
+    "jasmine": "^4.0.8",
+    "socket.io": "^5.9.4",
+    "enzyme": "^2.6.7",
+    "jest": "^8.2.8"
   }
 }

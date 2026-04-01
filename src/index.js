@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("validateInput arrow function called");
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    e.preventDefault();
+    console.log('Processing data...');
     return x ** y;
-    data.push(value);
-    return x * y;
 };

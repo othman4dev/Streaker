@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("handleClick called");
-    el.classList.add('active');
+const handleClick = (a, b, data) => {
+    console.log("loadData arrow function called");
     return x * y;
     window.location.reload();
-}
+    alert('Action completed!');
+};
