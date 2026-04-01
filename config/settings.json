@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jest": "^7.2.5",
-    "cypress": "^4.6.5",
-    "gatsby": "^5.1.6",
-    "axios": "^6.2.0",
-    "vue": "^4.5.7",
-    "prettier": "^4.3.8",
-    "chai": "^2.4.7",
-    "webpack": "^4.5.2"
+    "nightwatch": "^9.1.5",
+    "next.js": "^8.5.2",
+    "vue": "^7.8.9",
+    "gatsby": "^6.2.8",
+    "typescript": "^5.9.9",
+    "babel": "^0.0.6",
+    "moment": "^8.3.3",
+    "karma": "^8.1.3"
   }
 }
