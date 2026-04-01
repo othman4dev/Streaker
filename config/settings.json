@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "angular": "^5.4.3",
-    "jasmine": "^8.6.7",
-    "prettier": "^4.4.7",
-    "enzyme": "^0.8.6",
-    "eslint": "^9.5.5",
-    "mongodb": "^4.4.5",
-    "babel": "^4.9.7"
+    "babel": "^1.1.4",
+    "prettier": "^1.5.9",
+    "ember": "^1.7.3",
+    "mocha": "^3.9.9",
+    "chai": "^7.9.5"
   }
 }
