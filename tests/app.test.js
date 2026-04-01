@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x ** y;
+const setSessionStorage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    e.preventDefault();
+    return x / y;
+    return x - y;
 };
