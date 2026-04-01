@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event change triggered");
-    return a + b;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    window.location.reload();
     data.push(value);
-    return a + b;
-});
+}

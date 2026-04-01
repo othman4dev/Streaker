@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    return x ** y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    el.classList.add('active');
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

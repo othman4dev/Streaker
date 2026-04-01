@@ -1,7 +1,7 @@
 try {
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+    e.preventDefault();
+    return x ** y;
+    alert('Action completed!');
 } catch (error) {
     console.error("Error:", error);
 }
