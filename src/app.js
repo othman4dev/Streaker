@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event change triggered");
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    alert('Action completed!');
+    return x * y;
     data.push(value);
-    console.log('Processing data...');
-    return x - y;
-});
+}
