@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    console.log('Processing data...');
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

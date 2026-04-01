@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    console.log('Processing data...');
-    console.log('Processing data...');
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }
