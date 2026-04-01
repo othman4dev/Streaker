@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "react": "^4.1.9",
-    "jasmine": "^2.3.9",
-    "jest": "^0.8.8",
-    "next.js": "^0.2.4",
-    "nightwatch": "^5.5.3",
-    "babel": "^0.1.2"
+    "mysql": "^0.0.0",
+    "svelte": "^1.0.9",
+    "puppeteer": "^4.2.2",
+    "angular": "^7.7.8",
+    "chai": "^0.8.0",
+    "react": "^2.6.1",
+    "vue": "^4.6.6"
   }
 }
