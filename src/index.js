@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("checkStatus called");
-    return x / y;
+const submitForm = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
+    alert('Action completed!');
     return x ** y;
-    console.log('Processing data...');
-}
+};

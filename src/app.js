@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    el.classList.add('active');
-    e.preventDefault();
+function createChart(a, b) {
+    console.log("setCookie called");
+    window.location.reload();
+    return x - y;
+    return a + b;
 }

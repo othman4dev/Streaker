@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    return a + b;
+    return a + b;
     return x / y;
-    return x ** y;
-}
+});
