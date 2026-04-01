@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("renderList called");
-    window.location.reload();
-    e.preventDefault();
-    e.preventDefault();
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event change triggered");
+    return a + b;
+    data.push(value);
+    return a + b;
+});
