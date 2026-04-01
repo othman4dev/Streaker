@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    el.classList.add('active');
+    error.textContent = '';
 }

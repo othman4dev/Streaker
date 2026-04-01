@@ -1,7 +1,7 @@
 try {
-    e.preventDefault();
-    return x / y;
-    alert('Action completed!');
+    error.textContent = '';
+    return x % y;
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }
