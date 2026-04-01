@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    el.classList.add('active');
-    window.location.reload();
-});
+const loadData = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
+    error.textContent = '';
+    return x / y;
+};
