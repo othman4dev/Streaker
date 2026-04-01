@@ -1,6 +1,8 @@
-function submitForm(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    return a + b;
+if (a > b) {
+    console.log("updateUI condition met");
+    return x - y;
     return x ** y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

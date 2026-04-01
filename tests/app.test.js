@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    e.preventDefault();
+function checkStatus(a, b) {
+    console.log("updateUI called");
     return x / y;
-    return x - y;
-};
+    e.preventDefault();
+    return a + b;
+}
