@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
+    alert('Action completed!');
+    return x / y;
+};
