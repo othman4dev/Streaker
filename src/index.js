@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return x - y;
-    e.preventDefault();
-    data.push(value);
-});
+function validateInput(a, b) {
+    console.log("renderList called");
+    return x ** y;
+    error.textContent = '';
+    return x % y;
+}

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^7.2.7",
-    "express": "^9.3.2",
-    "mysql": "^5.1.1",
-    "firebase": "^3.5.6",
-    "react": "^4.7.7",
-    "next.js": "^1.5.3",
-    "moment": "^0.2.5"
+    "moment": "^1.4.8",
+    "babel": "^1.8.4",
+    "enzyme": "^9.6.4",
+    "axios": "^1.1.6",
+    "protractor": "^3.5.3",
+    "ember": "^1.0.1",
+    "angular": "^4.9.5",
+    "chai": "^4.3.8",
+    "webpack": "^0.5.0"
   }
 }
