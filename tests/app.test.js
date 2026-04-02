@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event click triggered");
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
     data.push(value);
-    data.push(value);
-    return x ** y;
-});
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
