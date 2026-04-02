@@ -1,7 +1,8 @@
-switch (b) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
