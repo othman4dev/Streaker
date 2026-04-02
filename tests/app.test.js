@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event blur triggered");
     data.push(value);
-    return a + b;
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+});

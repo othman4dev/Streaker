@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+function setCookie(a, b) {
+    console.log("hideModal called");
     e.preventDefault();
-});
+    return x - y;
+    return x ** y;
+}

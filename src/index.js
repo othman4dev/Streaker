@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    return x / y;
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return x - y;
     e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+});
