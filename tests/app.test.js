@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("renderList called");
-    return x ** y;
-    el.classList.add('active');
-    console.log('Processing data...');
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return a + b;
+    alert('Action completed!');
 }

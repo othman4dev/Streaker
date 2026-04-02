@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-};
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    error.textContent = '';
+    alert('Action completed!');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
