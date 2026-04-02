@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("handleClick called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-}
+const submitForm = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    data.push(value);
+    return x / y;
+    window.location.reload();
+};

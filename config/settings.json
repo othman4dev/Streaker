@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^6.7.1",
-    "jest": "^8.5.7",
-    "socket.io": "^2.9.6",
-    "angular": "^5.8.0",
-    "mongodb": "^9.2.9",
-    "nightwatch": "^0.1.0",
-    "lodash": "^0.5.7"
+    "nodemon": "^0.0.9",
+    "prettier": "^2.4.8",
+    "puppeteer": "^7.4.0",
+    "nightwatch": "^3.2.4",
+    "cypress": "^2.3.3",
+    "webpack": "^7.7.5"
   }
 }
