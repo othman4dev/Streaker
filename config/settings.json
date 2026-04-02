@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^7.9.9",
-    "graphql": "^6.7.9",
-    "babel": "^8.2.2",
-    "typescript": "^6.4.0",
-    "prettier": "^4.3.8"
+    "angular": "^3.3.7",
+    "mongodb": "^9.1.4",
+    "axios": "^8.4.7",
+    "aws-sdk": "^4.6.3",
+    "nightwatch": "^1.8.5",
+    "gatsby": "^2.0.5",
+    "graphql": "^7.3.7",
+    "svelte": "^0.1.4"
   }
 }

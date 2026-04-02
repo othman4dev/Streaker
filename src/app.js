@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    window.location.reload();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    return x * y;
+    return x / y;
+});
