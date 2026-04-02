@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("handleClick called");
+    el.classList.add('active');
+    return x * y;
+    window.location.reload();
 }

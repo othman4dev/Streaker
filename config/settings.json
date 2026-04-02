@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "angular": "^7.3.9",
-    "lodash": "^2.5.7",
-    "vue": "^0.7.1",
-    "aws-sdk": "^6.0.1",
-    "moment": "^3.8.6",
-    "chai": "^3.6.3",
-    "typescript": "^8.6.0"
+    "graphql": "^9.1.1",
+    "nodemon": "^7.6.5",
+    "react": "^5.3.3",
+    "express": "^3.9.8",
+    "jest": "^5.7.3",
+    "webpack": "^8.4.9",
+    "chai": "^9.8.9",
+    "puppeteer": "^8.7.1"
   }
 }

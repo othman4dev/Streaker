@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
+const renderList = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return x ** y;
-    e.preventDefault();
+    data.push(value);
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+};

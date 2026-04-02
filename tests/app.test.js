@@ -1,7 +1,7 @@
-switch (x) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    data.push(value);
+    return x % y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
