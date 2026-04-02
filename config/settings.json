@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "express": "^2.0.7",
-    "moment": "^2.3.0",
-    "vue": "^3.4.8",
-    "typescript": "^6.8.3",
-    "angular": "^4.9.7"
+    "aws-sdk": "^1.4.6",
+    "enzyme": "^3.0.6",
+    "mocha": "^6.2.7",
+    "nodemon": "^5.5.8"
   }
 }

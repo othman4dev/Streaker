@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event scroll triggered");
-    return x ** y;
-    alert('Action completed!');
-    data.push(value);
-});
+switch (e) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
