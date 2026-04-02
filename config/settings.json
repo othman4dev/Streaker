@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^2.8.1",
-    "ember": "^3.6.5",
-    "express": "^8.6.8",
-    "babel": "^6.9.4",
-    "mongodb": "^3.3.2",
-    "eslint": "^3.0.6"
+    "mocha": "^2.2.4",
+    "axios": "^0.5.4",
+    "sinon": "^5.9.1",
+    "jasmine": "^0.0.4",
+    "socket.io": "^1.7.4",
+    "lodash": "^0.1.2",
+    "typescript": "^6.6.7"
   }
 }

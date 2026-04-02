@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("updateUI called");
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x * y;
-    el.classList.add('active');
-    error.textContent = '';
-}
+    window.location.reload();
+    data.push(value);
+};
