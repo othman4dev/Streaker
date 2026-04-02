@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("checkStatus condition met");
-    return a + b;
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    error.textContent = '';
+    return x % y;
     return x / y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+});

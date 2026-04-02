@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "axios": "^2.7.2",
-    "nodemon": "^9.9.2",
-    "prettier": "^0.5.5",
-    "webpack": "^2.2.7",
-    "angular": "^4.1.5",
-    "chai": "^2.0.2"
+    "axios": "^5.8.9",
+    "mongodb": "^5.4.0",
+    "protractor": "^5.9.0",
+    "karma": "^5.5.5",
+    "svelte": "^8.8.2",
+    "jest": "^7.1.9",
+    "gatsby": "^1.3.6"
   }
 }
