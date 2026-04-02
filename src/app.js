@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
-    return x * y;
-    return x * y;
+switch (y) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

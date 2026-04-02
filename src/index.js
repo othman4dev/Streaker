@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("renderList condition met");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    return x ** y;
+    e.preventDefault();
+    return x * y;
 } else {
     console.log("Condition not met");
 }
