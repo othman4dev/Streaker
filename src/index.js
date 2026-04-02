@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("createChart arrow function called");
-    data.push(value);
-    alert('Action completed!');
-    return x ** y;
-};
+switch (y) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

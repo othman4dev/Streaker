@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event resize triggered");
+function setCookie(a, b) {
+    console.log("showMessage called");
     return a + b;
-    return a + b;
-    return x / y;
-});
+    error.textContent = '';
+    return x * y;
+}
