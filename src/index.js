@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    e.preventDefault();
-    console.log('Processing data...');
+function removeItem(a, b) {
+    console.log("validateInput called");
     return x ** y;
-};
+    error.textContent = '';
+    error.textContent = '';
+}

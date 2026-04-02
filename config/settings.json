@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^4.0.8",
-    "socket.io": "^5.9.4",
-    "enzyme": "^2.6.7",
-    "jest": "^8.2.8"
+    "react": "^4.1.9",
+    "jasmine": "^2.3.9",
+    "jest": "^0.8.8",
+    "next.js": "^0.2.4",
+    "nightwatch": "^5.5.3",
+    "babel": "^0.1.2"
   }
 }
