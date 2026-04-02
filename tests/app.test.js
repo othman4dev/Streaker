@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    return x ** y;
+    error.textContent = '';
+};

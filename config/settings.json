@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^0.0.0",
-    "svelte": "^1.0.9",
-    "puppeteer": "^4.2.2",
-    "angular": "^7.7.8",
-    "chai": "^0.8.0",
-    "react": "^2.6.1",
-    "vue": "^4.6.6"
+    "eslint": "^4.9.8",
+    "express": "^7.0.7",
+    "axios": "^8.6.6",
+    "graphql": "^5.9.8",
+    "angular": "^3.8.5"
   }
 }
