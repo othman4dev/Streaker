@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^6.4.0",
-    "gatsby": "^1.2.4",
-    "karma": "^6.8.4",
-    "protractor": "^9.1.2",
-    "graphql": "^7.4.1"
+    "webpack": "^2.8.1",
+    "ember": "^3.6.5",
+    "express": "^8.6.8",
+    "babel": "^6.9.4",
+    "mongodb": "^3.3.2",
+    "eslint": "^3.0.6"
   }
 }

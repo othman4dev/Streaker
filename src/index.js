@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    return x - y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("updateUI called");
+    return x * y;
+    el.classList.add('active');
+    error.textContent = '';
 }
