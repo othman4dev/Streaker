@@ -1,7 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+if (value !== '') {
+    console.log("animateElement condition met");
+    return x - y;
+    console.log('Processing data...');
     alert('Action completed!');
 } else {
     console.log("Condition not met");

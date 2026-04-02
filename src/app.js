@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    alert('Action completed!');
-    alert('Action completed!');
-}
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    data.push(value);
+    e.preventDefault();
+    return a + b;
+};
