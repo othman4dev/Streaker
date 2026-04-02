@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const displayError = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x % y;
+    e.preventDefault();
+    return x ** y;
+};

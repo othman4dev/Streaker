@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
-    return x * y;
-    return x / y;
-});
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    data.push(value);
+    e.preventDefault();
+}

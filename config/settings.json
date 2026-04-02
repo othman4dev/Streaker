@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "angular": "^3.3.7",
-    "mongodb": "^9.1.4",
-    "axios": "^8.4.7",
-    "aws-sdk": "^4.6.3",
-    "nightwatch": "^1.8.5",
-    "gatsby": "^2.0.5",
-    "graphql": "^7.3.7",
-    "svelte": "^0.1.4"
+    "mocha": "^7.2.7",
+    "webpack": "^7.8.7",
+    "mysql": "^3.1.4",
+    "enzyme": "^7.4.9",
+    "aws-sdk": "^4.1.2",
+    "lodash": "^8.1.3",
+    "axios": "^0.8.1",
+    "gatsby": "^1.7.5",
+    "eslint": "^4.5.8"
   }
 }
