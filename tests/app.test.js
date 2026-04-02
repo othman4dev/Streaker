@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    return x % y;
+try {
+    data.push(value);
     el.classList.add('active');
-    el.classList.add('active');
-});
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
