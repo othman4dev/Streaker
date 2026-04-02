@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
+if (x !== y) {
+    console.log("displayError condition met");
+    return a + b;
     data.push(value);
-    e.preventDefault();
-});
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
