@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    data.push(value);
-    return x / y;
-    window.location.reload();
-};
+function loadData(a, b) {
+    console.log("displayError called");
+    return x ** y;
+    alert('Action completed!');
+    error.textContent = '';
+}

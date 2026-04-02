@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^0.0.9",
-    "prettier": "^2.4.8",
-    "puppeteer": "^7.4.0",
-    "nightwatch": "^3.2.4",
-    "cypress": "^2.3.3",
-    "webpack": "^7.7.5"
+    "sinon": "^8.5.3",
+    "vue": "^6.5.4",
+    "ember": "^5.4.8",
+    "jasmine": "^3.5.0",
+    "nodemon": "^0.4.3",
+    "socket.io": "^8.9.0",
+    "moment": "^0.3.7",
+    "chai": "^4.5.7"
   }
 }
