@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

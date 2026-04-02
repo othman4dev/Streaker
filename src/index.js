@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("renderList condition met");
-    return x / y;
-    error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    data.push(value);
+    console.log('Processing data...');
+};
