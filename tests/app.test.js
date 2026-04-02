@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    error.textContent = '';
-    el.classList.add('active');
-});
+switch (value) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

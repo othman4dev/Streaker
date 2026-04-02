@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
+if (x === y) {
+    console.log("renderList condition met");
     console.log('Processing data...');
-    data.push(value);
-    console.log('Processing data...');
-};
+    alert('Action completed!');
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
