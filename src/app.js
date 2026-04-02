@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("loadData called");
-    el.classList.add('active');
-    window.location.reload();
-    return x * y;
-}
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    alert('Action completed!');
+    e.preventDefault();
+});

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
+document.querySelector("form").addEventListener("scroll", function() {
     console.log("Event submit triggered");
-    error.textContent = '';
     return x % y;
-    return x / y;
+    el.classList.add('active');
+    el.classList.add('active');
 });
