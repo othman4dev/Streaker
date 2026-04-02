@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    return x - y;
-    return a + b;
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    alert('Action completed!');
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+});
