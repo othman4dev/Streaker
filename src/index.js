@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    data.push(value);
-    error.textContent = '';
+function removeItem(a, b) {
+    console.log("handleClick called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }

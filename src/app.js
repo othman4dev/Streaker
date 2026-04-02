@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    el.classList.add('active');
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x - y;
     return a + b;
-    return x / y;
+    data.push(value);
 };
