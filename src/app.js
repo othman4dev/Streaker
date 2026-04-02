@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    e.preventDefault();
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const renderList = (a, b, data) => {
+    console.log("renderList arrow function called");
+    error.textContent = '';
+    return a + b;
+    return x ** y;
+};

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^8.5.3",
-    "vue": "^6.5.4",
-    "ember": "^5.4.8",
-    "jasmine": "^3.5.0",
-    "nodemon": "^0.4.3",
-    "socket.io": "^8.9.0",
-    "moment": "^0.3.7",
-    "chai": "^4.5.7"
+    "gatsby": "^5.6.9",
+    "karma": "^7.5.6",
+    "lodash": "^1.1.7",
+    "aws-sdk": "^3.9.0",
+    "prettier": "^4.2.0"
   }
 }
