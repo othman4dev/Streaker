@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     e.preventDefault();
-    return x ** y;
-};
+    return a + b;
+}

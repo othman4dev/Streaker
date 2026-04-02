@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
-    return x ** y;
-    return x / y;
-});
+switch (value) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
