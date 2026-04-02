@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("displayError condition met");
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    return x - y;
     return a + b;
     data.push(value);
-    return x / y;
 } else {
     console.log("Condition not met");
 }

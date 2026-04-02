@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    window.location.reload();
-    return x - y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
+    e.preventDefault();
+    return a + b;
+});
