@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "moment": "^1.4.8",
-    "babel": "^1.8.4",
-    "enzyme": "^9.6.4",
-    "axios": "^1.1.6",
-    "protractor": "^3.5.3",
-    "ember": "^1.0.1",
-    "angular": "^4.9.5",
-    "chai": "^4.3.8",
-    "webpack": "^0.5.0"
+    "mysql": "^8.1.9",
+    "redis": "^9.4.1",
+    "express": "^1.6.4",
+    "enzyme": "^0.4.0",
+    "babel": "^0.6.7",
+    "typescript": "^1.8.3"
   }
 }
