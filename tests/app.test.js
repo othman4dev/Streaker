@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x / y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-};
+function checkStatus(a, b) {
+    console.log("renderList called");
+    return x ** y;
+    el.classList.add('active');
+    console.log('Processing data...');
+}

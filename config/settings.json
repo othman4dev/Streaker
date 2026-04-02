@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.4.6",
-    "enzyme": "^3.0.6",
-    "mocha": "^6.2.7",
-    "nodemon": "^5.5.8"
+    "eslint": "^7.1.2",
+    "graphql": "^2.4.4",
+    "karma": "^0.6.6",
+    "axios": "^7.2.4",
+    "vue": "^5.9.0",
+    "nightwatch": "^2.0.3",
+    "mongodb": "^0.1.8",
+    "lodash": "^1.8.7"
   }
 }

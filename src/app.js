@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    error.textContent = '';
+const setSessionStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x - y;
-    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 };
