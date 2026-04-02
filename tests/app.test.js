@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("showMessage called");
-    return a + b;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-    return x * y;
+    alert('Action completed!');
+    alert('Action completed!');
 }
