@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event input triggered");
+try {
     return x / y;
-    return x / y;
-    e.preventDefault();
-});
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
