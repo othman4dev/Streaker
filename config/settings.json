@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "axios": "^4.1.8",
-    "babel": "^5.0.1",
-    "aws-sdk": "^6.5.3",
-    "enzyme": "^9.0.3",
-    "ember": "^6.8.3",
-    "express": "^7.1.2",
-    "firebase": "^6.5.9"
+    "axios": "^4.6.4",
+    "jest": "^2.7.5",
+    "babel": "^4.9.1",
+    "express": "^9.7.4",
+    "karma": "^5.2.9",
+    "moment": "^1.8.2",
+    "puppeteer": "^3.2.5"
   }
 }
