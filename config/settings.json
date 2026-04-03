@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^1.8.0",
-    "aws-sdk": "^0.8.4",
-    "babel": "^8.6.3",
-    "mocha": "^2.8.5",
-    "socket.io": "^9.6.3",
-    "chai": "^6.9.6",
-    "axios": "^3.7.6"
+    "mongodb": "^9.6.4",
+    "angular": "^1.2.3",
+    "prettier": "^2.9.6",
+    "lodash": "^9.1.1",
+    "express": "^6.7.9",
+    "sinon": "^9.7.4"
   }
 }
