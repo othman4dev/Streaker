@@ -1,7 +1,6 @@
-switch (data) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return a + b;
+    window.location.reload();
+    console.log('Processing data...');
+});

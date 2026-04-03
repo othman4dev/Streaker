@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    window.location.reload();
+    return a + b;
 });

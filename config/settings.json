@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^9.6.4",
-    "angular": "^1.2.3",
-    "prettier": "^2.9.6",
-    "lodash": "^9.1.1",
-    "express": "^6.7.9",
-    "sinon": "^9.7.4"
+    "enzyme": "^0.6.9",
+    "prettier": "^6.1.8",
+    "mongodb": "^5.8.9",
+    "express": "^7.3.3",
+    "sinon": "^2.0.0",
+    "angular": "^2.3.4"
   }
 }
