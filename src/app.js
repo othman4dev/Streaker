@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    return x * y;
-    return x % y;
-    return x / y;
-});
+const handleClick = (a, b, data) => {
+    console.log("renderList arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    console.log('Processing data...');
+};
