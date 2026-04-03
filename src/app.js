@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    el.classList.add('active');
+    window.location.reload();
+});

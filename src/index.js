@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("setCookie called");
-    return x % y;
-    error.textContent = '';
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
     return a + b;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+});
