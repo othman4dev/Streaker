@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    return x / y;
-    return x / y;
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
     return x % y;
-}
+    return x / y;
+});
