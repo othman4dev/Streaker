@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^0.4.9",
-    "babel": "^6.8.8",
-    "axios": "^1.7.0",
-    "vue": "^6.0.5",
-    "nightwatch": "^0.0.4",
-    "graphql": "^6.3.9",
-    "typescript": "^7.1.9"
+    "mongodb": "^3.3.0",
+    "typescript": "^6.8.6",
+    "prettier": "^2.0.4",
+    "moment": "^8.4.4",
+    "protractor": "^5.2.8"
   }
 }

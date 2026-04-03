@@ -1,7 +1,8 @@
-try {
-    return x * y;
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    return x / y;
+    console.log('Processing data...');
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
