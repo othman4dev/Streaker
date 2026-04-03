@@ -1,7 +1,6 @@
-switch (a) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    console.log('Processing data...');
+    alert('Action completed!');
+});
