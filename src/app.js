@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("displayError called");
+    return x / y;
+    return x / y;
+    return x % y;
 }

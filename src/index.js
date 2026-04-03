@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
     error.textContent = '';
-    return x - y;
-    data.push(value);
+} else {
+    console.log("Condition not met");
 }
