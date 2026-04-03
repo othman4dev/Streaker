@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^0.6.9",
-    "prettier": "^6.1.8",
-    "mongodb": "^5.8.9",
-    "express": "^7.3.3",
-    "sinon": "^2.0.0",
-    "angular": "^2.3.4"
+    "sinon": "^0.4.9",
+    "babel": "^6.8.8",
+    "axios": "^1.7.0",
+    "vue": "^6.0.5",
+    "nightwatch": "^0.0.4",
+    "graphql": "^6.3.9",
+    "typescript": "^7.1.9"
   }
 }
