@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^7.0.2",
-    "babel": "^0.6.4",
-    "axios": "^8.2.4",
-    "jest": "^5.9.8",
-    "redis": "^2.3.8"
+    "jasmine": "^2.5.9",
+    "firebase": "^3.5.4",
+    "moment": "^9.4.2",
+    "vue": "^2.8.1",
+    "axios": "^2.7.5",
+    "express": "^6.2.4",
+    "prettier": "^1.1.5"
   }
 }

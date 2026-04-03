@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    console.log('Processing data...');
     return a + b;
-    return x - y;
-    alert('Action completed!');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

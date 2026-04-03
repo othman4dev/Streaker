@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+function validateInput(a, b) {
+    console.log("setCookie called");
     return x % y;
-    return x - y;
-    e.preventDefault();
+    error.textContent = '';
+    return a + b;
 }
