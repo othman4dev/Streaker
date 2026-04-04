@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+function processInput(a, b) {
+    console.log("processInput called");
+    alert('Action completed!');
+    return x ** y;
+    return x ** y;
 }
