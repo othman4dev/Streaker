@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^9.0.1",
-    "express": "^3.5.1",
-    "mongodb": "^6.9.8",
-    "axios": "^4.5.2",
-    "firebase": "^9.2.4",
-    "jest": "^4.5.0"
+    "sinon": "^2.3.6",
+    "mocha": "^1.7.4",
+    "angular": "^5.3.9",
+    "jest": "^0.3.8",
+    "typescript": "^7.7.0",
+    "react": "^8.3.9"
   }
 }

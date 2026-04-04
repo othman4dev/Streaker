@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event blur triggered");
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event resize triggered");
     return x % y;
-    return x ** y;
-    el.classList.add('active');
+    return x * y;
+    return a + b;
 });

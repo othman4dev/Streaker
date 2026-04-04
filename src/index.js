@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return a + b;
+function saveSettings(a, b) {
+    console.log("fetchData called");
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+    data.push(value);
+}
