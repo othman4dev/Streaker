@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+if (value !== '') {
+    console.log("checkStatus condition met");
     return x - y;
-    alert('Action completed!');
+    return x * y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
