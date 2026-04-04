@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.2.7",
-    "lodash": "^9.2.1",
-    "eslint": "^6.2.7",
-    "next.js": "^9.9.7",
-    "axios": "^4.0.3",
-    "chai": "^4.8.7"
+    "vue": "^1.7.0",
+    "gatsby": "^3.9.0",
+    "nightwatch": "^4.9.3",
+    "moment": "^9.2.0",
+    "redis": "^9.4.1"
   }
 }

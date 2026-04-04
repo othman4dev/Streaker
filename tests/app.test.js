@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    return x % y;
-    alert('Action completed!');
-};
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    window.location.reload();
+    return a + b;
+});
