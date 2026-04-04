@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^9.3.6",
-    "angular": "^9.4.7",
-    "puppeteer": "^9.2.6",
-    "ember": "^0.4.0",
-    "jasmine": "^0.0.7",
-    "chai": "^1.8.0",
-    "mocha": "^2.8.8",
-    "eslint": "^2.3.1"
+    "react": "^6.4.7",
+    "webpack": "^7.7.4",
+    "typescript": "^5.8.4",
+    "ember": "^8.1.4",
+    "jasmine": "^2.1.5",
+    "axios": "^7.6.5"
   }
 }

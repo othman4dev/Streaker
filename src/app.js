@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
-    return x ** y;
-    return a + b;
-};
+switch (a) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
