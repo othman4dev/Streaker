@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    alert('Action completed!');
-});
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x % y;
+}

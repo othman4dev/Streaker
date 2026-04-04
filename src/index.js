@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("removeItem called");
-    return a + b;
-    return a + b;
-    return x / y;
-}
+const displayError = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    window.location.reload();
+};
