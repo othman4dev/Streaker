@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event blur triggered");
+function hideModal(a, b) {
+    console.log("updateUI called");
     window.location.reload();
-    return x ** y;
-    return x ** y;
-});
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}
