@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    console.log('Processing data...');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("getLocalStorage called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 }

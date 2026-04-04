@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return a + b;
+    return x - y;
+    return x / y;
+};
