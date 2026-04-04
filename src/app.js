@@ -1,7 +1,6 @@
-try {
-    return a + b;
+const hideModal = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
     return x ** y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+};
