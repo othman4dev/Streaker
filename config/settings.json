@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^3.3.0",
-    "typescript": "^6.8.6",
-    "prettier": "^2.0.4",
-    "moment": "^8.4.4",
-    "protractor": "^5.2.8"
+    "jest": "^4.2.7",
+    "lodash": "^9.2.1",
+    "eslint": "^6.2.7",
+    "next.js": "^9.9.7",
+    "axios": "^4.0.3",
+    "chai": "^4.8.7"
   }
 }
