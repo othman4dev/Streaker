@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    console.log('Processing data...');
-    data.push(value);
-    window.location.reload();
-};
+if (value !== '') {
+    console.log("fetchData condition met");
+    return a + b;
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("checkStatus called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    data.push(value);
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x ** y;
+    return x ** y;
 }
