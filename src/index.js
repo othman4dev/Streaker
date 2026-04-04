@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+function updateUI(a, b) {
+    console.log("checkStatus called");
+    console.log('Processing data...');
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }

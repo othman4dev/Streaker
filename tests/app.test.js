@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x * y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    data.push(value);
+    window.location.reload();
+};

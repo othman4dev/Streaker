@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("processInput called");
-    alert('Action completed!');
-    return x ** y;
-    return x ** y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    error.textContent = '';
+    e.preventDefault();
 }
