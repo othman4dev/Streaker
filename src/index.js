@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("fetchData called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x - y;
     data.push(value);
 }
