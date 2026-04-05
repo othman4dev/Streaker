@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    return x ** y;
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
     return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+});

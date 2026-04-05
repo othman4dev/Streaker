@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x % y;
-    data.push(value);
-    return x * y;
-};
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
+    return x / y;
+    return x - y;
+});

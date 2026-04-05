@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^1.0.2",
-    "next.js": "^6.1.6",
-    "puppeteer": "^2.9.4",
-    "lodash": "^1.4.3",
-    "jest": "^7.5.7",
-    "mysql": "^3.8.0"
+    "mysql": "^1.6.8",
+    "express": "^4.7.6",
+    "enzyme": "^2.5.2",
+    "svelte": "^3.0.7",
+    "jasmine": "^4.1.4",
+    "nodemon": "^2.5.2"
   }
 }
