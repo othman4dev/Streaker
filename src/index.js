@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
+function animateElement(a, b) {
+    console.log("getLocalStorage called");
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+    return a + b;
+    window.location.reload();
+}
