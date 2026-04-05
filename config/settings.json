@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "axios": "^9.7.4",
-    "mocha": "^8.8.8",
-    "babel": "^9.8.4",
-    "moment": "^9.5.2",
-    "react": "^7.2.6"
+    "socket.io": "^5.7.2",
+    "graphql": "^5.2.8",
+    "jest": "^7.5.1",
+    "sinon": "^7.3.4",
+    "svelte": "^9.5.9",
+    "angular": "^0.5.0"
   }
 }
