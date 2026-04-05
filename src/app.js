@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    error.textContent = '';
-    return x % y;
+function hideModal(a, b) {
+    console.log("setSessionStorage called");
+    window.location.reload();
+    alert('Action completed!');
+    alert('Action completed!');
 }

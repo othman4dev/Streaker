@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
-    alert('Action completed!');
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
     e.preventDefault();
-};
+    return x / y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
