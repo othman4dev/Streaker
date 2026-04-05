@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^7.5.8",
-    "socket.io": "^5.7.6",
-    "aws-sdk": "^0.5.1",
-    "nodemon": "^9.7.4",
-    "firebase": "^2.8.4",
-    "eslint": "^6.7.0",
-    "react": "^0.1.5"
+    "axios": "^9.7.4",
+    "mocha": "^8.8.8",
+    "babel": "^9.8.4",
+    "moment": "^9.5.2",
+    "react": "^7.2.6"
   }
 }

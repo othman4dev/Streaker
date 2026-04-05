@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    window.location.reload();
-    data.push(value);
-    error.textContent = '';
-};
+switch (y) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

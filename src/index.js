@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("getLocalStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    return x % y;
+    alert('Action completed!');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
