@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^1.1.3",
-    "mongodb": "^5.5.4",
-    "enzyme": "^5.7.2",
-    "eslint": "^9.4.3",
-    "aws-sdk": "^1.3.2",
-    "angular": "^3.3.9",
-    "ember": "^4.7.0",
-    "cypress": "^4.4.2"
+    "nodemon": "^9.7.1",
+    "gatsby": "^1.6.2",
+    "ember": "^4.5.4",
+    "puppeteer": "^6.9.6",
+    "axios": "^3.3.0",
+    "express": "^3.9.4",
+    "mysql": "^9.2.7",
+    "enzyme": "^0.1.0"
   }
 }

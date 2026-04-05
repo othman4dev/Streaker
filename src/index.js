@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    return a + b;
-    return x ** y;
-};
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x % y;
+    error.textContent = '';
+}
