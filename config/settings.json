@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^0.8.0",
-    "firebase": "^5.5.0",
-    "react": "^0.6.5",
-    "mongodb": "^6.2.7",
-    "lodash": "^8.4.3",
-    "mocha": "^8.6.5"
+    "cypress": "^3.1.2",
+    "prettier": "^4.1.5",
+    "enzyme": "^0.0.8",
+    "next.js": "^4.8.2",
+    "mocha": "^0.5.7"
   }
 }

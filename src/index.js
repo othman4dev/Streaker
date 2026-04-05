@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("toggleMenu called");
-    el.classList.add('active');
-    return x % y;
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-}
+    error.textContent = '';
+};
