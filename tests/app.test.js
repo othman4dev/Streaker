@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
+try {
+    return x / y;
     window.location.reload();
-    e.preventDefault();
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

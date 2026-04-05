@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
-    e.preventDefault();
-    return x / y;
+const handleClick = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    return x ** y;
+};
