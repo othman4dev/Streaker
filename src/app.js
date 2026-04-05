@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("loadData called");
-    return x % y;
+document.querySelector("header").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-    return x % y;
-}
+});
