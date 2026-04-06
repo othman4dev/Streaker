@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "jest": "^8.5.1",
-    "nodemon": "^5.7.4",
-    "graphql": "^4.9.2",
-    "chai": "^1.4.5",
-    "cypress": "^5.4.1"
+    "mysql": "^0.2.2",
+    "angular": "^4.1.2",
+    "cypress": "^2.9.3",
+    "chai": "^9.7.5",
+    "jest": "^2.3.4",
+    "webpack": "^8.4.7",
+    "eslint": "^5.1.1",
+    "puppeteer": "^8.9.8"
   }
 }

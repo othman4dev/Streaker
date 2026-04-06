@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-}
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    return x ** y;
+    return x % y;
+};
