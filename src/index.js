@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("toggleMenu called");
-    el.classList.add('active');
-    window.location.reload();
-    return a + b;
+switch (error) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
