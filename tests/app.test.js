@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    return a + b;
+function toggleMenu(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    e.preventDefault();
     console.log('Processing data...');
-});
+}

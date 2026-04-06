@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    return x ** y;
-    data.push(value);
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

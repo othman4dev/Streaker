@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+function toggleMenu(a, b) {
+    console.log("checkStatus called");
+    return x % y;
+    return x % y;
+    el.classList.add('active');
+}
