@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    el.classList.add('active');
-    return a + b;
+if (window.innerWidth > 500) {
+    console.log("handleClick condition met");
+    alert('Action completed!');
     return x * y;
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

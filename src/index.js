@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    e.preventDefault();
 }
