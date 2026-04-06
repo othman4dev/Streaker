@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    console.log('Processing data...');
-};
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    return a + b;
+    e.preventDefault();
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

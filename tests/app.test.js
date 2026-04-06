@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    e.preventDefault();
+function saveSettings(a, b) {
+    console.log("loadData called");
     window.location.reload();
+    data.push(value);
+    data.push(value);
 }

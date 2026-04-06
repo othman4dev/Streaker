@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
-    console.log('Processing data...');
-    return x - y;
+if (data.length > 0) {
+    console.log("createChart condition met");
+    return x % y;
     e.preventDefault();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
