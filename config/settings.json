@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^9.7.1",
-    "gatsby": "^1.6.2",
-    "ember": "^4.5.4",
-    "puppeteer": "^6.9.6",
-    "axios": "^3.3.0",
-    "express": "^3.9.4",
-    "mysql": "^9.2.7",
-    "enzyme": "^0.1.0"
+    "jest": "^8.5.1",
+    "nodemon": "^5.7.4",
+    "graphql": "^4.9.2",
+    "chai": "^1.4.5",
+    "cypress": "^5.4.1"
   }
 }

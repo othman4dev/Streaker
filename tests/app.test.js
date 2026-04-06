@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setCookie called");
-    return x ** y;
-    data.push(value);
-    data.push(value);
-}
+const displayError = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x - y;
+    alert('Action completed!');
+    alert('Action completed!');
+};

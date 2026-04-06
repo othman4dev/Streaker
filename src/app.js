@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x ** y;
+function setCookie(a, b) {
+    console.log("saveSettings called");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    console.log('Processing data...');
 }
