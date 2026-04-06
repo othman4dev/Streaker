@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("renderList arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    window.location.reload();
-};
+switch (b) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

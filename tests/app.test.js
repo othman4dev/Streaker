@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+const submitForm = (a, b, data) => {
+    console.log("processInput arrow function called");
     error.textContent = '';
-    return x ** y;
+    el.classList.add('active');
     error.textContent = '';
-}
+};
