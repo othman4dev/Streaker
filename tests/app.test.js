@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    window.location.reload();
-    return x ** y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    el.classList.add('active');
+    return x % y;
+    el.classList.add('active');
+};

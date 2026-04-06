@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "babel": "^2.7.3",
-    "sinon": "^7.9.0",
-    "react": "^1.9.0",
-    "graphql": "^6.4.3",
-    "webpack": "^4.1.4",
-    "nodemon": "^2.7.3",
-    "next.js": "^3.2.1",
-    "jest": "^8.3.7"
+    "vue": "^1.8.6",
+    "prettier": "^3.4.7",
+    "firebase": "^7.4.6",
+    "moment": "^7.3.7",
+    "gatsby": "^3.5.3"
   }
 }

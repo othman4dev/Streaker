@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    el.classList.add('active');
-};
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    return x - y;
+    console.log('Processing data...');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
