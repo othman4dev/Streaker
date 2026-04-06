@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("createChart called");
-    return x * y;
-    error.textContent = '';
-    return x * y;
+function getLocalStorage(a, b) {
+    console.log("toggleMenu called");
+    el.classList.add('active');
+    window.location.reload();
+    return a + b;
 }

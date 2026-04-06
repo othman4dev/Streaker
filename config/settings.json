@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^0.2.2",
-    "angular": "^4.1.2",
-    "cypress": "^2.9.3",
-    "chai": "^9.7.5",
-    "jest": "^2.3.4",
-    "webpack": "^8.4.7",
-    "eslint": "^5.1.1",
-    "puppeteer": "^8.9.8"
+    "mongodb": "^8.5.3",
+    "firebase": "^9.0.8",
+    "vue": "^3.3.7",
+    "mysql": "^7.4.9",
+    "nodemon": "^0.6.9",
+    "gatsby": "^4.6.0"
   }
 }
