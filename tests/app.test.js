@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-});
+if (x === y) {
+    console.log("hideModal condition met");
+    return x / y;
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "ember": "^6.2.0",
-    "puppeteer": "^0.5.0",
-    "karma": "^5.9.6",
-    "jasmine": "^7.7.6",
-    "angular": "^9.6.6",
-    "react": "^4.8.3",
-    "chai": "^2.7.2"
+    "protractor": "^2.6.2",
+    "graphql": "^7.0.3",
+    "moment": "^5.6.9",
+    "next.js": "^7.2.8",
+    "mongodb": "^9.0.1",
+    "enzyme": "^4.1.9"
   }
 }
