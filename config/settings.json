@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^5.5.1",
-    "react": "^5.9.6",
-    "aws-sdk": "^7.7.8",
-    "svelte": "^3.7.3",
-    "karma": "^9.3.9",
-    "firebase": "^7.0.8",
-    "jest": "^8.7.8"
+    "redis": "^7.6.1",
+    "mocha": "^1.7.8",
+    "next.js": "^5.9.7",
+    "prettier": "^3.5.6",
+    "lodash": "^4.5.2",
+    "mysql": "^6.3.0",
+    "jest": "^3.4.6",
+    "react": "^6.5.4"
   }
 }

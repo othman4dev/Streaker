@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x / y;
+    window.location.reload();
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+});
