@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    error.textContent = '';
-    window.location.reload();
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
