@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("createChart called");
-    e.preventDefault();
+function checkStatus(a, b) {
+    console.log("fetchData called");
     return x % y;
-    window.location.reload();
+    error.textContent = '';
+    error.textContent = '';
 }

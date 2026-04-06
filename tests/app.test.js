@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
+if (value !== '') {
+    console.log("saveSettings condition met");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x * y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
