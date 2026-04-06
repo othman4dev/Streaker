@@ -1,7 +1,8 @@
-switch (b) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("toggleMenu condition met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
