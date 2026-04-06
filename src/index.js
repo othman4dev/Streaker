@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    return a + b;
     window.location.reload();
-    return x / y;
-    return x - y;
 });

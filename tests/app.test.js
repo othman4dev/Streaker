@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    return x % y;
-    return x - y;
-});
+function renderList(a, b) {
+    console.log("displayError called");
+    return x ** y;
+    alert('Action completed!');
+    e.preventDefault();
+}

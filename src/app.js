@@ -1,7 +1,6 @@
-try {
-    return a + b;
+function setSessionStorage(a, b) {
+    console.log("processInput called");
+    el.classList.add('active');
+    console.log('Processing data...');
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
 }
