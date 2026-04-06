@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
+const showMessage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    console.log('Processing data...');
     e.preventDefault();
-    data.push(value);
-    data.push(value);
-}
+    window.location.reload();
+};
