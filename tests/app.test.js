@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    e.preventDefault();
-    return x / y;
-    return x - y;
-};
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    window.location.reload();
+    window.location.reload();
+}

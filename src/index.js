@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
+try {
     e.preventDefault();
-    window.location.reload();
-};
+    return x / y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
