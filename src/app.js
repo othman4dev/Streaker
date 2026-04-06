@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("validateInput condition met");
-    return a + b;
-    console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
+    el.classList.add('active');
+};
