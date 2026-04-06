@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "redis": "^7.6.1",
-    "mocha": "^1.7.8",
-    "next.js": "^5.9.7",
-    "prettier": "^3.5.6",
-    "lodash": "^4.5.2",
-    "mysql": "^6.3.0",
-    "jest": "^3.4.6",
-    "react": "^6.5.4"
+    "socket.io": "^9.2.7",
+    "react": "^2.2.5",
+    "firebase": "^4.3.9",
+    "puppeteer": "^7.2.7",
+    "express": "^3.9.6",
+    "sinon": "^1.6.7",
+    "mongodb": "^4.6.3"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    window.location.reload();
-    el.classList.add('active');
-});
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
+    return x % y;
+    error.textContent = '';
+    return x % y;
+}
