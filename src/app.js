@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    return x - y;
-    console.log('Processing data...');
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+});

@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "vue": "^1.8.6",
-    "prettier": "^3.4.7",
-    "firebase": "^7.4.6",
-    "moment": "^7.3.7",
-    "gatsby": "^3.5.3"
+    "gatsby": "^3.5.1",
+    "cypress": "^3.4.8",
+    "react": "^7.2.3",
+    "vue": "^7.0.3"
   }
 }
