@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^8.2.3",
-    "mongodb": "^0.8.1",
-    "aws-sdk": "^5.3.5",
-    "mysql": "^5.2.5",
-    "puppeteer": "^1.2.3",
-    "jest": "^7.2.7",
-    "graphql": "^4.5.0",
-    "sinon": "^3.5.0",
-    "gatsby": "^3.8.4"
+    "nodemon": "^1.0.2",
+    "next.js": "^6.1.6",
+    "puppeteer": "^2.9.4",
+    "lodash": "^1.4.3",
+    "jest": "^7.5.7",
+    "mysql": "^3.8.0"
   }
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    console.log('Processing data...');
-    return x / y;
+const processInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    return x * y;
+};
