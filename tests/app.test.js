@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("displayError called");
-    return x ** y;
-    alert('Action completed!');
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

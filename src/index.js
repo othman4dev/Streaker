@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    return a + b;
-    window.location.reload();
-});
+function setCookie(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
+    data.push(value);
+    data.push(value);
+}
