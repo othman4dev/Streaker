@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "graphql": "^5.1.1",
-    "lodash": "^2.5.9",
-    "webpack": "^8.6.7",
-    "mocha": "^9.0.2",
-    "express": "^3.2.9"
+    "firebase": "^8.2.3",
+    "mongodb": "^0.8.1",
+    "aws-sdk": "^5.3.5",
+    "mysql": "^5.2.5",
+    "puppeteer": "^1.2.3",
+    "jest": "^7.2.7",
+    "graphql": "^4.5.0",
+    "sinon": "^3.5.0",
+    "gatsby": "^3.8.4"
   }
 }

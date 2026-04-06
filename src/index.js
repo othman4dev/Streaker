@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    console.log('Processing data...');
+    return x / y;
+    return x % y;
 } else {
     console.log("Condition not met");
 }
