@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^2.6.2",
-    "graphql": "^7.0.3",
-    "moment": "^5.6.9",
-    "next.js": "^7.2.8",
-    "mongodb": "^9.0.1",
-    "enzyme": "^4.1.9"
+    "eslint": "^5.6.8",
+    "moment": "^3.5.8",
+    "ember": "^8.3.8",
+    "jasmine": "^3.0.9",
+    "sinon": "^1.5.7",
+    "chai": "^5.3.3"
   }
 }
