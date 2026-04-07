@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "react": "^9.0.7",
-    "mongodb": "^4.8.5",
-    "chai": "^4.3.9",
-    "nightwatch": "^7.3.3",
-    "jasmine": "^6.8.0"
+    "mocha": "^8.2.0",
+    "webpack": "^2.1.5",
+    "eslint": "^4.2.3",
+    "prettier": "^0.7.1",
+    "vue": "^0.4.9",
+    "puppeteer": "^3.3.9"
   }
 }
