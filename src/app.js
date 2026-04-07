@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    window.location.reload();
+};
