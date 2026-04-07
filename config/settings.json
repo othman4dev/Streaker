@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^8.9.8",
-    "express": "^8.1.4",
-    "eslint": "^5.3.7",
-    "typescript": "^0.8.1",
-    "mysql": "^0.4.7"
+    "mocha": "^5.7.9",
+    "jasmine": "^4.2.7",
+    "prettier": "^0.6.9",
+    "next.js": "^0.8.1",
+    "ember": "^2.9.8"
   }
 }

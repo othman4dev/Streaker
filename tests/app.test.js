@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
     e.preventDefault();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+};
