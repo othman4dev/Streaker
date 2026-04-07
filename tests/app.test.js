@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    e.preventDefault();
-    el.classList.add('active');
-};
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    console.log('Processing data...');
+    error.textContent = '';
+}

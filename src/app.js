@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+function getLocalStorage(a, b) {
+    console.log("getLocalStorage called");
     data.push(value);
+    return x % y;
     return a + b;
 }

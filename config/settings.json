@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^5.7.9",
-    "jasmine": "^4.2.7",
-    "prettier": "^0.6.9",
-    "next.js": "^0.8.1",
-    "ember": "^2.9.8"
+    "angular": "^4.9.4",
+    "chai": "^1.0.9",
+    "mocha": "^8.6.6",
+    "firebase": "^5.1.8",
+    "lodash": "^1.9.5"
   }
 }
