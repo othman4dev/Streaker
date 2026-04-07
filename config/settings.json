@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "redis": "^6.8.4",
-    "next.js": "^7.6.2",
-    "socket.io": "^6.0.5",
-    "nodemon": "^4.7.0",
-    "karma": "^0.7.1"
+    "sinon": "^7.6.4",
+    "prettier": "^4.1.5",
+    "protractor": "^3.2.9",
+    "svelte": "^4.1.8",
+    "socket.io": "^2.3.8",
+    "typescript": "^2.5.4"
   }
 }

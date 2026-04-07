@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return a + b;
+    return x - y;
+});

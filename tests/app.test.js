@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x % y;
-    return a + b;
-    return x % y;
-};
+function displayError(a, b) {
+    console.log("formatDate called");
+    data.push(value);
+    return x / y;
+    return x - y;
+}
