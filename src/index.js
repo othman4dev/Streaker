@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    error.textContent = '';
-    return x * y;
-});
+switch (y) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

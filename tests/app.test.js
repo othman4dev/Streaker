@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event submit triggered");
+const hideModal = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x % y;
     return a + b;
-    alert('Action completed!');
-});
+    return x % y;
+};
