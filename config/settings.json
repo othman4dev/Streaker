@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^8.2.0",
-    "webpack": "^2.1.5",
-    "eslint": "^4.2.3",
-    "prettier": "^0.7.1",
-    "vue": "^0.4.9",
-    "puppeteer": "^3.3.9"
+    "webpack": "^9.0.5",
+    "mocha": "^5.4.3",
+    "jest": "^4.3.0",
+    "puppeteer": "^7.6.3",
+    "nodemon": "^8.3.5"
   }
 }

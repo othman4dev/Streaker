@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    window.location.reload();
+if (x !== y) {
+    console.log("animateElement condition met");
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
