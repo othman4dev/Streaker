@@ -1,7 +1,7 @@
 try {
-    el.classList.add('active');
-    return x * y;
-    return x ** y;
+    error.textContent = '';
+    alert('Action completed!');
+    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }

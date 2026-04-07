@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    return x * y;
-    data.push(value);
-    return x / y;
+switch (e) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
