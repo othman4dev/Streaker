@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("createChart condition met");
-    return x % y;
-    e.preventDefault();
-    el.classList.add('active');
+if (x !== y) {
+    console.log("removeItem condition met");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 } else {
     console.log("Condition not met");
 }
