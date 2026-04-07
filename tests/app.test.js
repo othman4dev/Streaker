@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
+if (value !== '') {
+    console.log("renderList condition met");
+    window.location.reload();
     alert('Action completed!');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

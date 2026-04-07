@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^9.7.6",
-    "nightwatch": "^9.0.0",
-    "mongodb": "^9.3.4",
-    "webpack": "^9.8.0",
-    "svelte": "^6.3.2",
-    "cypress": "^3.8.4",
-    "chai": "^2.9.8"
+    "enzyme": "^7.6.6",
+    "nightwatch": "^2.5.3",
+    "svelte": "^5.5.5",
+    "axios": "^1.7.4",
+    "lodash": "^2.6.5"
   }
 }

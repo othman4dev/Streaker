@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+if (data.length > 0) {
+    console.log("createChart condition met");
+    return x * y;
     return x % y;
     el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
