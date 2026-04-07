@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    return a + b;
-    error.textContent = '';
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+}

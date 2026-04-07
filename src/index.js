@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("toggleMenu called");
+    return x / y;
+    console.log('Processing data...');
+    return a + b;
 }
