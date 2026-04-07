@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x - y;
-    error.textContent = '';
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    data.push(value);
+};
