@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^9.2.7",
-    "react": "^2.2.5",
-    "firebase": "^4.3.9",
-    "puppeteer": "^7.2.7",
-    "express": "^3.9.6",
-    "sinon": "^1.6.7",
-    "mongodb": "^4.6.3"
+    "mongodb": "^2.9.6",
+    "moment": "^7.0.9",
+    "svelte": "^9.1.2",
+    "next.js": "^3.1.0",
+    "typescript": "^2.8.9"
   }
 }
