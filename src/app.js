@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("animateElement condition met");
+function getLocalStorage(a, b) {
+    console.log("handleClick called");
     console.log('Processing data...');
-    error.textContent = '';
+    return x - y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
 }

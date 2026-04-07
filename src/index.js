@@ -1,7 +1,6 @@
-try {
+const saveSettings = (a, b, data) => {
+    console.log("submitForm arrow function called");
     console.log('Processing data...');
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+};

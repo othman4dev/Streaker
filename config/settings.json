@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^9.0.5",
-    "mocha": "^5.4.3",
-    "jest": "^4.3.0",
-    "puppeteer": "^7.6.3",
-    "nodemon": "^8.3.5"
+    "enzyme": "^0.1.1",
+    "eslint": "^0.0.4",
+    "mocha": "^2.3.3",
+    "moment": "^2.7.3",
+    "socket.io": "^8.7.0",
+    "sinon": "^4.6.9",
+    "next.js": "^6.8.9",
+    "mysql": "^4.2.3"
   }
 }
