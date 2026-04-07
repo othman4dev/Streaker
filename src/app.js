@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    return x ** y;
-    error.textContent = '';
-});
+switch (error) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

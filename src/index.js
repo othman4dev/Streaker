@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("toggleMenu called");
-    return x / y;
+try {
     console.log('Processing data...');
-    return a + b;
+    el.classList.add('active');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
