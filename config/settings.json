@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "angular": "^4.9.4",
-    "chai": "^1.0.9",
-    "mocha": "^8.6.6",
-    "firebase": "^5.1.8",
-    "lodash": "^1.9.5"
+    "jasmine": "^1.0.2",
+    "svelte": "^1.7.4",
+    "react": "^3.7.7",
+    "moment": "^0.1.0",
+    "graphql": "^5.5.5",
+    "aws-sdk": "^2.3.5"
   }
 }
