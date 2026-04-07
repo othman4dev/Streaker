@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x / y;
     return x * y;
-    console.log('Processing data...');
-}
+    el.classList.add('active');
+});

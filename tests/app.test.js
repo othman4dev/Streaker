@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("removeItem called");
+    return x % y;
+    data.push(value);
+    return x % y;
 }
