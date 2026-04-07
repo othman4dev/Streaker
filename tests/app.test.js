@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("renderList condition met");
-    window.location.reload();
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event mouseover triggered");
     alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+});

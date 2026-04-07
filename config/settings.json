@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^7.6.6",
-    "nightwatch": "^2.5.3",
-    "svelte": "^5.5.5",
-    "axios": "^1.7.4",
-    "lodash": "^2.6.5"
+    "express": "^6.0.4",
+    "react": "^7.4.8",
+    "nightwatch": "^7.9.6",
+    "lodash": "^6.0.9",
+    "axios": "^4.6.6",
+    "sinon": "^6.4.4",
+    "jest": "^1.4.4"
   }
 }
