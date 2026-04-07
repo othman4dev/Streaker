@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    console.log('Processing data...');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return a + b;
+    return x ** y;
+    return x ** y;
+};

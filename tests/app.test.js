@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("removeItem called");
-    return x % y;
-    data.push(value);
-    return x % y;
-}
+const handleClick = (a, b, data) => {
+    console.log("createChart arrow function called");
+    console.log('Processing data...');
+    return x ** y;
+    return a + b;
+};

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^2.7.5",
-    "chai": "^5.1.1",
-    "angular": "^6.0.7",
-    "firebase": "^5.8.6",
-    "cypress": "^4.1.4"
+    "aws-sdk": "^6.5.8",
+    "puppeteer": "^9.3.8",
+    "nodemon": "^1.8.3",
+    "ember": "^4.5.3",
+    "webpack": "^2.5.1"
   }
 }
