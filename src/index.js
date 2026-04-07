@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
-    return x ** y;
-    return x ** y;
-};
+function fetchData(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    data.push(value);
+    return x / y;
+}

@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
+try {
+    el.classList.add('active');
+    return x * y;
     return x ** y;
-    return a + b;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
