@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("createChart called");
+function renderList(a, b) {
+    console.log("saveSettings called");
     console.log('Processing data...');
-    error.textContent = '';
-    alert('Action completed!');
+    el.classList.add('active');
+    window.location.reload();
 }
