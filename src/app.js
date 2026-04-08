@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    alert('Action completed!');
+    return x ** y;
+    return x / y;
+};
