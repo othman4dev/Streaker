@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "karma": "^0.5.5",
-    "angular": "^1.8.6",
-    "svelte": "^8.4.0",
-    "sinon": "^4.5.5",
-    "protractor": "^5.2.1",
-    "eslint": "^0.5.7"
+    "express": "^6.5.0",
+    "moment": "^7.4.8",
+    "jest": "^9.9.6",
+    "socket.io": "^5.8.9",
+    "lodash": "^0.6.7"
   }
 }

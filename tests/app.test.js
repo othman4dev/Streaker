@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    return x * y;
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("setCookie called");
+    return x - y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }

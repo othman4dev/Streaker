@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    el.classList.add('active');
-    window.location.reload();
-}
+const updateUI = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x ** y;
+    return x * y;
+    return x ** y;
+};
