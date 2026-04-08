@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
-    return x * y;
-    return x % y;
-});
+function setCookie(a, b) {
+    console.log("createChart called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+}

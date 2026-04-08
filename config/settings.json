@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "ember": "^7.1.8",
-    "moment": "^2.3.0",
-    "aws-sdk": "^4.7.8",
-    "prettier": "^5.7.5",
-    "eslint": "^7.7.9",
-    "sinon": "^3.6.8",
-    "vue": "^0.3.3"
+    "ember": "^9.0.0",
+    "jasmine": "^4.0.3",
+    "graphql": "^8.4.7",
+    "aws-sdk": "^3.9.3",
+    "puppeteer": "^8.7.6",
+    "socket.io": "^3.4.3",
+    "nodemon": "^3.8.9",
+    "protractor": "^5.6.6"
   }
 }

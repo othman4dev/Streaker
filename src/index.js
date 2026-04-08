@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    return x * y;
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    return a + b;
+};
