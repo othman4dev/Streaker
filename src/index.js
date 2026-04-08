@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    return x ** y;
-    el.classList.add('active');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const loadData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x * y;
+    error.textContent = '';
+    return x * y;
+};
