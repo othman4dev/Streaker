@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    console.log('Processing data...');
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+try {
+    return a + b;
+    data.push(value);
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
