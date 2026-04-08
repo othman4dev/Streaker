@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^0.6.6",
-    "karma": "^6.7.0",
-    "svelte": "^2.0.8",
-    "axios": "^4.6.7",
-    "socket.io": "^3.7.6",
-    "babel": "^0.8.2",
-    "gatsby": "^3.1.8",
-    "webpack": "^5.9.6",
-    "nightwatch": "^4.3.4"
+    "mocha": "^6.2.3",
+    "karma": "^0.8.8",
+    "nightwatch": "^3.1.0",
+    "jasmine": "^7.1.7",
+    "axios": "^9.2.3",
+    "sinon": "^7.8.6",
+    "prettier": "^1.0.8"
   }
 }

@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("processInput arrow function called");
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    alert('Action completed!');
     console.log('Processing data...');
-    return x / y;
-    return x - y;
-};
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
