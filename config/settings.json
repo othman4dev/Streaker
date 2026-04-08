@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "express": "^6.5.0",
-    "moment": "^7.4.8",
-    "jest": "^9.9.6",
-    "socket.io": "^5.8.9",
-    "lodash": "^0.6.7"
+    "mocha": "^0.0.9",
+    "jest": "^6.5.0",
+    "chai": "^6.9.0",
+    "cypress": "^6.6.4",
+    "moment": "^7.6.8",
+    "jasmine": "^8.3.4",
+    "enzyme": "^1.8.7",
+    "socket.io": "^4.4.8",
+    "redis": "^9.3.9"
   }
 }
