@@ -1,7 +1,8 @@
-switch (y) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("fetchData condition met");
+    return x * y;
+    window.location.reload();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
