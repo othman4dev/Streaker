@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^3.0.3",
-    "mocha": "^6.1.7",
-    "typescript": "^2.9.0",
-    "webpack": "^4.4.6",
-    "cypress": "^0.0.2"
+    "ember": "^4.6.2",
+    "mysql": "^5.1.4",
+    "express": "^8.9.6",
+    "eslint": "^8.0.2",
+    "babel": "^6.3.9",
+    "vue": "^4.6.6"
   }
 }

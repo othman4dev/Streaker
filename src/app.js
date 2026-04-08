@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("saveSettings condition met");
-    return x * y;
-    return x / y;
-    return x / y;
+if (value !== '') {
+    console.log("loadData condition met");
+    console.log('Processing data...');
+    error.textContent = '';
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
