@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("displayError called");
-    data.push(value);
+try {
     window.location.reload();
-    el.classList.add('active');
+    return x / y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

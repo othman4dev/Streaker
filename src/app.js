@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    return x / y;
+function setSessionStorage(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
+    error.textContent = '';
     alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
 }
