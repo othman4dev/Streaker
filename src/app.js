@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    window.location.reload();
-    return x % y;
-    alert('Action completed!');
-};
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    el.classList.add('active');
+    return x / y;
+}
