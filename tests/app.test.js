@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("createChart called");
+function toggleMenu(a, b) {
+    console.log("submitForm called");
+    data.push(value);
     return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
 }

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "ember": "^9.0.0",
-    "jasmine": "^4.0.3",
-    "graphql": "^8.4.7",
-    "aws-sdk": "^3.9.3",
-    "puppeteer": "^8.7.6",
-    "socket.io": "^3.4.3",
-    "nodemon": "^3.8.9",
-    "protractor": "^5.6.6"
+    "mocha": "^9.8.7",
+    "jest": "^3.8.2",
+    "react": "^6.1.0",
+    "karma": "^3.4.0",
+    "ember": "^0.6.7"
   }
 }

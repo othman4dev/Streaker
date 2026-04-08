@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    return a + b;
-};
+if (value !== '') {
+    console.log("checkStatus condition met");
+    return x ** y;
+    el.classList.add('active');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
