@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+function animateElement(a, b) {
+    console.log("displayError called");
+    data.push(value);
+    window.location.reload();
     el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    data.push(value);
+    e.preventDefault();
+});

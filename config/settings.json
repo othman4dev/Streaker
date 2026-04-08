@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "ember": "^7.0.1",
-    "nodemon": "^8.3.9",
-    "express": "^7.1.1",
-    "graphql": "^7.0.0",
-    "typescript": "^6.2.5",
-    "jest": "^7.5.5",
-    "enzyme": "^3.0.9"
+    "vue": "^3.2.4",
+    "nodemon": "^9.8.7",
+    "socket.io": "^6.8.9",
+    "webpack": "^6.1.1",
+    "cypress": "^0.1.2",
+    "mocha": "^4.3.3"
   }
 }
