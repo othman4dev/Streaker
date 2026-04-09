@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    data.push(value);
-    return a + b;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("processInput arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    return x - y;
+};
