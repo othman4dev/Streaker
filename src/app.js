@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("processInput called");
-    return a + b;
-    el.classList.add('active');
-    error.textContent = '';
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }

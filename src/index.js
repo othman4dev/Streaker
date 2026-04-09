@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    alert('Action completed!');
-    e.preventDefault();
-    data.push(value);
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }

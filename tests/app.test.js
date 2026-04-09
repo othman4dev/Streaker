@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    window.location.reload();
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    return x * y;
+    return a + b;
+};
