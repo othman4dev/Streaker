@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+function createChart(a, b) {
+    console.log("animateElement called");
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
 }
