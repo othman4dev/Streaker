@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
-    return x / y;
-    data.push(value);
-};
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+});

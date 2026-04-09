@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
+function renderList(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
     error.textContent = '';
-    console.log('Processing data...');
-});
+    return x / y;
+}

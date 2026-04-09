@@ -1,7 +1,8 @@
-switch (x) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    return x - y;
+    error.textContent = '';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
