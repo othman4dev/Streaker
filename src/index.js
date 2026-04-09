@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event click triggered");
-    return x % y;
+function hideModal(a, b) {
+    console.log("submitForm called");
     return x / y;
     return x * y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+}

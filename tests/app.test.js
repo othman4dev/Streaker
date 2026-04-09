@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return a + b;
+    return x / y;
+    return x ** y;
+};
