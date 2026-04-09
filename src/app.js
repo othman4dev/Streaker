@@ -1,7 +1,6 @@
-try {
+function setSessionStorage(a, b) {
+    console.log("processInput called");
+    return a + b;
     el.classList.add('active');
-    window.location.reload();
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
 }

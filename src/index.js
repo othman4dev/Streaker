@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("submitForm called");
-    return x / y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

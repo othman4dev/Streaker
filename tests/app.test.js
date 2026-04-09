@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return a + b;
-    return x / y;
-    return x ** y;
-};
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    window.location.reload();
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
