@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "moment": "^2.8.1",
-    "graphql": "^1.2.9",
-    "angular": "^2.7.6",
-    "webpack": "^2.9.7",
-    "mongodb": "^6.7.6"
+    "next.js": "^9.7.9",
+    "cypress": "^6.0.3",
+    "firebase": "^4.1.2",
+    "mocha": "^9.8.1",
+    "socket.io": "^1.9.4",
+    "jest": "^9.0.4",
+    "protractor": "^9.9.9",
+    "react": "^4.0.8"
   }
 }

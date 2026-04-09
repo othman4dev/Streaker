@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("displayError called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x ** y;
 }
