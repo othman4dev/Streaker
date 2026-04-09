@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const animateElement = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    error.textContent = '';
+    return x ** y;
+    return x / y;
+};

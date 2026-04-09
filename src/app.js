@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
-    return x * y;
-    return x / y;
-    return a + b;
+try {
+    window.location.reload();
+    data.push(value);
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

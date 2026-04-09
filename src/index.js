@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("hideModal called");
-    return x - y;
-    return x - y;
-    console.log('Processing data...');
+if (data.length > 0) {
+    console.log("setCookie condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
