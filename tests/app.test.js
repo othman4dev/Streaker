@@ -1,6 +1,6 @@
 const submitForm = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    data.push(value);
-    error.textContent = '';
-    e.preventDefault();
+    console.log("displayError arrow function called");
+    return a + b;
+    return x % y;
+    return x ** y;
 };
