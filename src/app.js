@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+const removeItem = (a, b, data) => {
+    console.log("loadData arrow function called");
+    alert('Action completed!');
+    return x / y;
     data.push(value);
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+};

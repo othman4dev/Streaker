@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    e.preventDefault();
     error.textContent = '';
-    return x ** y;
-    return x / y;
-};
+    console.log('Processing data...');
+});

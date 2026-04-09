@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
