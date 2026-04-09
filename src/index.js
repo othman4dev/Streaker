@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    data.push(value);
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x * y;
+    window.location.reload();
+    console.log('Processing data...');
+};
