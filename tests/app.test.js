@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("animateElement called");
-    window.location.reload();
-    error.textContent = '';
-    return x / y;
+switch (x) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

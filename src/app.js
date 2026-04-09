@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (el) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
