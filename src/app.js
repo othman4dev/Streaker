@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("toggleMenu called");
-    return x % y;
-    el.classList.add('active');
-    e.preventDefault();
+switch (x) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
