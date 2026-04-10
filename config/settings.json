@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^4.1.6",
-    "nightwatch": "^8.6.5",
-    "ember": "^4.0.8",
-    "redis": "^0.1.1",
-    "next.js": "^1.7.6",
-    "moment": "^7.4.4",
-    "firebase": "^9.3.0",
-    "cypress": "^1.6.5"
+    "jasmine": "^3.9.4",
+    "prettier": "^2.7.4",
+    "graphql": "^1.0.5",
+    "gatsby": "^7.6.0",
+    "express": "^8.0.5",
+    "react": "^1.2.1"
   }
 }
