@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
-    e.preventDefault();
-    alert('Action completed!');
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+});

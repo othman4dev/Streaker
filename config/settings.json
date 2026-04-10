@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^8.3.6",
-    "chai": "^6.8.2",
-    "protractor": "^6.3.3",
-    "typescript": "^1.4.9",
-    "puppeteer": "^9.4.5",
-    "react": "^0.8.6",
-    "babel": "^7.2.3",
-    "lodash": "^1.1.8",
-    "gatsby": "^1.5.2"
+    "aws-sdk": "^1.0.6",
+    "sinon": "^4.4.0",
+    "vue": "^7.9.7",
+    "redis": "^8.8.1",
+    "puppeteer": "^2.6.8",
+    "protractor": "^3.1.8",
+    "jasmine": "^3.5.4",
+    "prettier": "^5.8.5"
   }
 }
