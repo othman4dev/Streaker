@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+if (x === y) {
+    console.log("handleClick condition met");
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

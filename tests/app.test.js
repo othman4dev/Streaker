@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    return x * y;
-    return a + b;
-};
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    alert('Action completed!');
+}

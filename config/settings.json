@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^6.9.7",
-    "gatsby": "^8.6.4",
-    "react": "^8.1.0",
-    "karma": "^6.3.0",
-    "firebase": "^1.2.1",
-    "mongodb": "^7.4.0",
-    "next.js": "^3.6.8",
-    "eslint": "^7.3.7"
+    "graphql": "^2.9.3",
+    "react": "^3.9.5",
+    "jasmine": "^2.7.2",
+    "chai": "^0.7.0",
+    "firebase": "^8.3.0"
   }
 }
