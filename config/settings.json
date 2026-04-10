@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^8.7.1",
-    "axios": "^8.3.4",
-    "karma": "^7.3.7",
-    "redis": "^8.9.9",
-    "vue": "^0.6.8",
-    "ember": "^0.4.1",
-    "cypress": "^2.3.7"
+    "mocha": "^4.3.6",
+    "chai": "^2.1.2",
+    "nightwatch": "^9.6.5",
+    "next.js": "^8.2.5",
+    "jest": "^2.2.0",
+    "moment": "^7.2.0",
+    "aws-sdk": "^4.8.7"
   }
 }

@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    return x - y;
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
     return x ** y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+});

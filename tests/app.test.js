@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
+if (a > b) {
+    console.log("fetchData condition met");
     return x / y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    window.location.reload();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
