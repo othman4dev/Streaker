@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("showMessage called");
+if (x !== y) {
+    console.log("saveSettings condition met");
+    return a + b;
+    return a + b;
     return x % y;
-    window.location.reload();
-    return x * y;
+} else {
+    console.log("Condition not met");
 }
