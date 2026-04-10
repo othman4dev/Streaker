@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^4.9.7",
-    "aws-sdk": "^1.9.5",
-    "jasmine": "^2.2.0",
-    "sinon": "^1.1.6",
-    "puppeteer": "^0.4.7"
+    "svelte": "^4.1.6",
+    "nightwatch": "^8.6.5",
+    "ember": "^4.0.8",
+    "redis": "^0.1.1",
+    "next.js": "^1.7.6",
+    "moment": "^7.4.4",
+    "firebase": "^9.3.0",
+    "cypress": "^1.6.5"
   }
 }

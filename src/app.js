@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    el.classList.add('active');
-    data.push(value);
-    data.push(value);
-};
+switch (a) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
