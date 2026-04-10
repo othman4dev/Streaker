@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^3.2.3",
-    "babel": "^8.5.0",
-    "enzyme": "^7.2.3",
-    "angular": "^7.5.1",
-    "typescript": "^9.4.9"
+    "graphql": "^4.9.7",
+    "aws-sdk": "^1.9.5",
+    "jasmine": "^2.2.0",
+    "sinon": "^1.1.6",
+    "puppeteer": "^0.4.7"
   }
 }

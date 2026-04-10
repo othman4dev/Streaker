@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const setCookie = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    el.classList.add('active');
+    data.push(value);
+    data.push(value);
+};
