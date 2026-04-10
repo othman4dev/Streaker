@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^6.3.4",
-    "firebase": "^9.7.0",
-    "nightwatch": "^7.4.3",
-    "eslint": "^6.8.5",
-    "karma": "^3.5.5",
-    "chai": "^7.5.2",
-    "jest": "^5.1.2"
+    "jest": "^9.8.3",
+    "aws-sdk": "^1.7.2",
+    "gatsby": "^8.1.4",
+    "mocha": "^1.6.8",
+    "typescript": "^8.3.8"
   }
 }

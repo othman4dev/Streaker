@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+if (a > b) {
+    console.log("removeItem condition met");
+    return x % y;
+    data.push(value);
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
