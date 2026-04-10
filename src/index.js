@@ -1,6 +1,7 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    e.preventDefault();
+switch (e) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
