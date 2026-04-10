@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    e.preventDefault();
-};
+function toggleMenu(a, b) {
+    console.log("getLocalStorage called");
+    error.textContent = '';
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}
