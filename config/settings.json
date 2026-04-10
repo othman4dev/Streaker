@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^3.9.4",
-    "prettier": "^2.7.4",
-    "graphql": "^1.0.5",
-    "gatsby": "^7.6.0",
-    "express": "^8.0.5",
-    "react": "^1.2.1"
+    "webpack": "^8.3.6",
+    "chai": "^6.8.2",
+    "protractor": "^6.3.3",
+    "typescript": "^1.4.9",
+    "puppeteer": "^9.4.5",
+    "react": "^0.8.6",
+    "babel": "^7.2.3",
+    "lodash": "^1.1.8",
+    "gatsby": "^1.5.2"
   }
 }

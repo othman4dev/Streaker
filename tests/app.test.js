@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("processInput condition met");
-    return x - y;
-    return x % y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    e.preventDefault();
+    alert('Action completed!');
 }

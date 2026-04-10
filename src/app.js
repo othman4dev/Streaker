@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    alert('Action completed!');
-    window.location.reload();
-});
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x * y;
+}
