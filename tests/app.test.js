@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("loadData called");
-    e.preventDefault();
-    window.location.reload();
-    return x / y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }
