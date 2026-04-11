@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("setCookie called");
-    return x % y;
-    console.log('Processing data...');
-    e.preventDefault();
+try {
+    el.classList.add('active');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

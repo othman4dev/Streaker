@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     return x - y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
 }
