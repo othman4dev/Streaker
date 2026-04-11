@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x / y;
-    e.preventDefault();
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    return x % y;
+    return x % y;
+    return x * y;
+});

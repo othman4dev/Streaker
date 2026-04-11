@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    el.classList.add('active');
+const saveSettings = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
     console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};

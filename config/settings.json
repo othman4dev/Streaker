@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^3.6.9",
-    "karma": "^4.7.2",
-    "graphql": "^6.2.4",
-    "puppeteer": "^1.7.3",
-    "mocha": "^7.9.1",
-    "prettier": "^1.0.9",
-    "react": "^3.9.3"
+    "ember": "^5.5.3",
+    "jest": "^4.0.2",
+    "enzyme": "^4.9.0",
+    "karma": "^2.6.6",
+    "babel": "^3.7.4",
+    "webpack": "^1.0.5",
+    "react": "^5.4.7",
+    "chai": "^2.1.0"
   }
 }
