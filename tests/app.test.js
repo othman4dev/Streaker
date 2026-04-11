@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    return x / y;
+function loadData(a, b) {
+    console.log("hideModal called");
+    error.textContent = '';
+    data.push(value);
     return x % y;
-    window.location.reload();
-});
+}

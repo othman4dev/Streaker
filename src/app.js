@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    return x ** y;
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    console.log('Processing data...');
+    return x % y;
+    e.preventDefault();
+};
