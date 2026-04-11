@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^2.2.3",
-    "chai": "^8.5.1",
-    "vue": "^2.8.5",
-    "socket.io": "^8.3.9",
-    "puppeteer": "^5.6.1",
-    "angular": "^5.7.5",
-    "webpack": "^1.9.5",
-    "nodemon": "^6.6.0"
+    "babel": "^5.2.0",
+    "angular": "^4.3.6",
+    "ember": "^9.0.9",
+    "nodemon": "^2.0.3"
   }
 }

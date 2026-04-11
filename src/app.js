@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    e.preventDefault();
-    return a + b;
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    return x / y;
+    data.push(value);
     el.classList.add('active');
-};
+});
