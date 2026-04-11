@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    e.preventDefault();
+function formatDate(a, b) {
+    console.log("toggleMenu called");
+    return x * y;
     error.textContent = '';
-};
+    return x ** y;
+}
