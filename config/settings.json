@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^4.3.6",
-    "chai": "^2.1.2",
-    "nightwatch": "^9.6.5",
-    "next.js": "^8.2.5",
-    "jest": "^2.2.0",
-    "moment": "^7.2.0",
-    "aws-sdk": "^4.8.7"
+    "axios": "^4.7.6",
+    "protractor": "^6.2.8",
+    "ember": "^2.3.2",
+    "enzyme": "^9.8.5",
+    "moment": "^6.3.1",
+    "karma": "^5.9.2",
+    "prettier": "^4.9.0",
+    "mysql": "^6.8.9"
   }
 }

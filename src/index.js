@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-});
+try {
+    return a + b;
+    console.log('Processing data...');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

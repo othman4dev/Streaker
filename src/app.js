@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+function renderList(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    return x % y;
+    error.textContent = '';
 }
