@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^1.1.7",
-    "chai": "^6.5.6",
-    "prettier": "^8.8.9",
-    "firebase": "^1.9.7",
-    "enzyme": "^2.0.9",
-    "socket.io": "^0.8.1",
-    "typescript": "^7.9.7"
+    "prettier": "^7.5.0",
+    "webpack": "^3.7.0",
+    "vue": "^2.6.1",
+    "socket.io": "^2.4.6",
+    "graphql": "^0.4.6"
   }
 }

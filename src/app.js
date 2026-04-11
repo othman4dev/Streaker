@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    return a + b;
-    return x * y;
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

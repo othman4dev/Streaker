@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    error.textContent = '';
-    return x % y;
-});
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    data.push(value);
+    return a + b;
+}
