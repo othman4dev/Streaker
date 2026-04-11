@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    e.preventDefault();
-}
+    return x * y;
+});
