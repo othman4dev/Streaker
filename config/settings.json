@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^3.7.6",
-    "jest": "^4.8.1",
-    "enzyme": "^7.4.2",
-    "next.js": "^6.1.1",
-    "express": "^4.0.1",
-    "angular": "^9.0.5",
-    "babel": "^3.1.8",
-    "mocha": "^6.8.8"
+    "webpack": "^1.2.2",
+    "enzyme": "^2.9.4",
+    "angular": "^2.6.7",
+    "babel": "^4.6.0",
+    "lodash": "^9.5.1"
   }
 }

@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event click triggered");
     return x / y;
+    return x % y;
     window.location.reload();
-};
+});
