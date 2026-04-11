@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "babel": "^5.2.0",
-    "angular": "^4.3.6",
-    "ember": "^9.0.9",
-    "nodemon": "^2.0.3"
+    "mongodb": "^2.1.9",
+    "lodash": "^8.9.1",
+    "eslint": "^4.3.8",
+    "redis": "^9.3.2",
+    "mocha": "^6.4.4"
   }
 }

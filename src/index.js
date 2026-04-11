@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("createChart called");
+const getLocalStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x % y;
     window.location.reload();
-    return x * y;
-    el.classList.add('active');
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
