@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    error.textContent = '';
+    el.classList.add('active');
 }

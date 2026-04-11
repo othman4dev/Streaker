@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+if (data.length > 0) {
+    console.log("toggleMenu condition met");
+    console.log('Processing data...');
+    return x / y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

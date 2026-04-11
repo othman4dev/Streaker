@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "jasmine": "^0.8.3",
-    "jest": "^6.8.0",
-    "graphql": "^8.9.6",
-    "moment": "^7.1.1",
-    "webpack": "^2.9.6",
-    "express": "^3.2.8",
-    "sinon": "^2.4.1",
-    "svelte": "^7.8.4"
+    "react": "^9.6.7",
+    "graphql": "^9.9.3",
+    "babel": "^3.2.6",
+    "nodemon": "^0.2.6",
+    "nightwatch": "^5.7.6",
+    "angular": "^9.1.7",
+    "svelte": "^9.7.0",
+    "jest": "^6.2.0",
+    "jasmine": "^7.8.5"
   }
 }
