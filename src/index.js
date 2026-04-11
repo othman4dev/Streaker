@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
-    e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }

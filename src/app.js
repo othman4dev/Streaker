@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    data.push(value);
-    return x % y;
+switch (el) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
