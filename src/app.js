@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    error.textContent = '';
-    data.push(value);
-    return x % y;
-});
+const saveSettings = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    e.preventDefault();
+    return a + b;
+    el.classList.add('active');
+};
