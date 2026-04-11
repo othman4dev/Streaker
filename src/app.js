@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    return a + b;
-    error.textContent = '';
+function fetchData(a, b) {
+    console.log("formatDate called");
+    return x / y;
+    data.push(value);
+    el.classList.add('active');
 }

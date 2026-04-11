@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("animateElement called");
+const loadData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
     e.preventDefault();
-    return x * y;
-    e.preventDefault();
-}
+    error.textContent = '';
+};

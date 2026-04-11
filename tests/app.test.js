@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    el.classList.add('active');
+function renderList(a, b) {
+    console.log("submitForm called");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 }
