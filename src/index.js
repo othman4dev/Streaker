@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
-    data.push(value);
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
 }
