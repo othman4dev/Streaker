@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "react": "^9.6.7",
-    "graphql": "^9.9.3",
-    "babel": "^3.2.6",
-    "nodemon": "^0.2.6",
-    "nightwatch": "^5.7.6",
-    "angular": "^9.1.7",
-    "svelte": "^9.7.0",
-    "jest": "^6.2.0",
-    "jasmine": "^7.8.5"
+    "firebase": "^1.7.7",
+    "aws-sdk": "^4.0.8",
+    "redis": "^4.1.8",
+    "mocha": "^0.9.1",
+    "vue": "^3.9.2",
+    "jest": "^6.7.1"
   }
 }

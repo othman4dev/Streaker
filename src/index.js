@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+const showMessage = (a, b, data) => {
+    console.log("displayError arrow function called");
     error.textContent = '';
-    el.classList.add('active');
-}
+    return x % y;
+    window.location.reload();
+};

@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x - y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("setCookie called");
+    return x % y;
+    console.log('Processing data...');
+    e.preventDefault();
 }
