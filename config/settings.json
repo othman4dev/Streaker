@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "axios": "^4.7.6",
-    "protractor": "^6.2.8",
-    "ember": "^2.3.2",
-    "enzyme": "^9.8.5",
-    "moment": "^6.3.1",
-    "karma": "^5.9.2",
-    "prettier": "^4.9.0",
-    "mysql": "^6.8.9"
+    "eslint": "^3.7.6",
+    "jest": "^4.8.1",
+    "enzyme": "^7.4.2",
+    "next.js": "^6.1.1",
+    "express": "^4.0.1",
+    "angular": "^9.0.5",
+    "babel": "^3.1.8",
+    "mocha": "^6.8.8"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x ** y;
+const animateElement = (a, b, data) => {
+    console.log("renderList arrow function called");
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+    window.location.reload();
+};

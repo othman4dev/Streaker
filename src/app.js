@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
+if (x !== y) {
+    console.log("hideModal condition met");
+    return x ** y;
     return x % y;
-    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
