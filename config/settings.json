@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "puppeteer": "^1.8.3",
-    "express": "^6.6.0",
-    "babel": "^4.8.6",
-    "mongodb": "^8.9.4",
-    "typescript": "^0.0.6"
+    "mocha": "^0.1.2",
+    "typescript": "^4.6.0",
+    "mongodb": "^6.6.8",
+    "nightwatch": "^4.0.7",
+    "jest": "^7.6.5",
+    "express": "^9.5.2",
+    "prettier": "^4.3.3",
+    "vue": "^4.6.2",
+    "angular": "^3.0.2"
   }
 }

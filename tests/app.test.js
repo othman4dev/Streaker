@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
-    window.location.reload();
-    return x ** y;
+switch (value) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
