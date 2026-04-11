@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^6.6.7",
-    "jest": "^4.2.7",
-    "socket.io": "^3.0.5",
-    "react": "^8.4.3",
-    "webpack": "^9.9.4",
-    "vue": "^3.8.3",
-    "gatsby": "^8.6.6",
-    "firebase": "^8.0.4"
+    "jest": "^4.0.9",
+    "karma": "^7.7.9",
+    "protractor": "^9.0.8",
+    "angular": "^9.2.5",
+    "socket.io": "^4.9.3"
   }
 }

@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    e.preventDefault();
-};
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
+    window.location.reload();
+    error.textContent = '';
+});

@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("hideModal called");
+const loadData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    return a + b;
     error.textContent = '';
-    data.push(value);
-    return x % y;
-}
+};
