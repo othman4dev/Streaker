@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    el.classList.add('active');
-    return a + b;
+function createChart(a, b) {
+    console.log("hideModal called");
+    e.preventDefault();
+    data.push(value);
+    return x % y;
 }

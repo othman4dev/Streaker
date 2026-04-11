@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
-    return x ** y;
-    e.preventDefault();
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x / y;
+    alert('Action completed!');
+    window.location.reload();
+};
