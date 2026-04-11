@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("hideModal called");
+    return x % y;
+    return a + b;
+    return x - y;
 }
