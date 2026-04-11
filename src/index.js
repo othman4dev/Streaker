@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("displayError condition met");
-    el.classList.add('active');
+function saveSettings(a, b) {
+    console.log("validateInput called");
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    console.log('Processing data...');
 }

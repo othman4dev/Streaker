@@ -1,6 +1,6 @@
 const handleClick = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x ** y;
+    console.log("loadData arrow function called");
+    console.log('Processing data...');
     data.push(value);
-    return x / y;
+    e.preventDefault();
 };

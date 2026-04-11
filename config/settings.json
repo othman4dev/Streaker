@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "redis": "^6.9.6",
-    "jest": "^6.3.6",
-    "nightwatch": "^1.8.6",
-    "babel": "^3.3.8",
-    "ember": "^3.6.6",
-    "mocha": "^8.9.7",
-    "jasmine": "^5.2.3",
-    "axios": "^5.0.3",
-    "react": "^8.0.8"
+    "babel": "^7.9.8",
+    "jest": "^4.0.7",
+    "sinon": "^9.6.9",
+    "svelte": "^8.4.0",
+    "axios": "^8.0.6",
+    "vue": "^2.4.8",
+    "jasmine": "^1.8.6",
+    "prettier": "^8.7.7"
   }
 }
