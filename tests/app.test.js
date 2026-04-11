@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    return a + b;
-    el.classList.add('active');
-    return x - y;
-});
+const toggleMenu = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    return x % y;
+    error.textContent = '';
+};
