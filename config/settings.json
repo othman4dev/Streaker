@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^0.1.2",
-    "typescript": "^4.6.0",
-    "mongodb": "^6.6.8",
-    "nightwatch": "^4.0.7",
-    "jest": "^7.6.5",
-    "express": "^9.5.2",
-    "prettier": "^4.3.3",
-    "vue": "^4.6.2",
-    "angular": "^3.0.2"
+    "aws-sdk": "^1.7.2",
+    "typescript": "^7.4.8",
+    "jest": "^9.7.2",
+    "moment": "^0.6.6"
   }
 }
