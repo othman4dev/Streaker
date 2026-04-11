@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    window.location.reload();
-    window.location.reload();
-    return x / y;
-});
+function showMessage(a, b) {
+    console.log("submitForm called");
+    return x ** y;
+    return a + b;
+    return x * y;
+}

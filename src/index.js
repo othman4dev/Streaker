@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    data.push(value);
-    return a + b;
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x % y;
+    return x ** y;
 }
