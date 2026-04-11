@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
     data.push(value);
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-}
+    error.textContent = '';
+});
