@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x % y;
-    error.textContent = '';
-    console.log('Processing data...');
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return x / y;
+    e.preventDefault();
+}
