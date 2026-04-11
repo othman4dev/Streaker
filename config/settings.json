@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^5.5.8",
-    "cypress": "^4.3.4",
-    "redis": "^3.9.9",
-    "sinon": "^7.4.4",
-    "graphql": "^7.0.7"
+    "typescript": "^6.1.2",
+    "webpack": "^4.0.4",
+    "ember": "^4.2.2",
+    "firebase": "^7.7.5",
+    "angular": "^7.7.3"
   }
 }

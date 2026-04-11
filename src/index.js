@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    return x * y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    return x % y;
+    return x ** y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

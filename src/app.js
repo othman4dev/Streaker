@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    data.push(value);
-    return x ** y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    el.classList.add('active');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
