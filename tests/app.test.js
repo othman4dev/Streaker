@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event click triggered");
     console.log('Processing data...');
-    data.push(value);
-    return a + b;
-}
+    return x ** y;
+    e.preventDefault();
+});

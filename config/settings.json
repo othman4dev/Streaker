@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^7.5.0",
-    "webpack": "^3.7.0",
-    "vue": "^2.6.1",
-    "socket.io": "^2.4.6",
-    "graphql": "^0.4.6"
+    "babel": "^6.7.5",
+    "vue": "^7.9.5",
+    "angular": "^2.3.2",
+    "aws-sdk": "^9.1.2",
+    "sinon": "^2.5.7",
+    "moment": "^1.7.8",
+    "eslint": "^1.0.0",
+    "webpack": "^7.3.5"
   }
 }
