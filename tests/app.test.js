@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    data.push(value);
-    return x - y;
-    console.log('Processing data...');
-};
+function animateElement(a, b) {
+    console.log("validateInput called");
+    return x ** y;
+    return x / y;
+    return x % y;
+}

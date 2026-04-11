@@ -1,7 +1,6 @@
-try {
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
     return x / y;
-    el.classList.add('active');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

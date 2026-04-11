@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    return x % y;
-    return x ** y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    console.log('Processing data...');
+    return a + b;
 }

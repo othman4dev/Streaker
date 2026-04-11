@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^6.1.2",
-    "webpack": "^4.0.4",
-    "ember": "^4.2.2",
-    "firebase": "^7.7.5",
-    "angular": "^7.7.3"
+    "redis": "^0.6.4",
+    "mongodb": "^0.6.4",
+    "aws-sdk": "^9.4.2",
+    "sinon": "^8.7.0",
+    "gatsby": "^3.0.8",
+    "protractor": "^6.5.4",
+    "nightwatch": "^0.4.6",
+    "webpack": "^7.2.2"
   }
 }
