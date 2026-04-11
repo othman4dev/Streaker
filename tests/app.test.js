@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("fetchData called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-}
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    return a + b;
+    el.classList.add('active');
+    return x - y;
+});

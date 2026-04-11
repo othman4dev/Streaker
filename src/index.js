@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("toggleMenu called");
-    return x * y;
-    error.textContent = '';
-    return x ** y;
-}
+const animateElement = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    e.preventDefault();
+};
