@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.0.6",
-    "sinon": "^4.4.0",
-    "vue": "^7.9.7",
-    "redis": "^8.8.1",
-    "puppeteer": "^2.6.8",
-    "protractor": "^3.1.8",
-    "jasmine": "^3.5.4",
-    "prettier": "^5.8.5"
+    "next.js": "^2.0.8",
+    "aws-sdk": "^1.6.8",
+    "express": "^0.2.2",
+    "jest": "^3.3.2"
   }
 }

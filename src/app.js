@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+switch (error) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

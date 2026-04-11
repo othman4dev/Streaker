@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-});
+function setCookie(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
+    window.location.reload();
+    return x / y;
+}
