@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("validateInput called");
+function getLocalStorage(a, b) {
+    console.log("checkStatus called");
     return x ** y;
+    return x - y;
     return x / y;
-    return x % y;
 }

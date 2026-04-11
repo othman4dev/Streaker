@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    console.log('Processing data...');
-    return a + b;
+switch (a) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
