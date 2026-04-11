@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^6.1.4",
-    "angular": "^3.6.9",
-    "mongodb": "^9.1.4",
-    "jasmine": "^9.5.2",
-    "moment": "^4.5.7",
-    "nodemon": "^7.9.4",
-    "eslint": "^0.7.2"
+    "next.js": "^9.2.2",
+    "mongodb": "^6.5.2",
+    "webpack": "^8.1.0",
+    "enzyme": "^8.7.4",
+    "chai": "^7.3.5",
+    "protractor": "^3.4.2"
   }
 }
