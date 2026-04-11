@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    data.push(value);
-    return x * y;
-    el.classList.add('active');
-};
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    window.location.reload();
+    return x / y;
+});

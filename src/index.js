@@ -1,7 +1,6 @@
-switch (error) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("createChart called");
+    data.push(value);
+    data.push(value);
+    return a + b;
 }
