@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    data.push(value);
+    return x ** y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
