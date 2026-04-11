@@ -1,7 +1,6 @@
-try {
+function checkStatus(a, b) {
+    console.log("animateElement called");
     e.preventDefault();
-    console.log('Processing data...');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+    e.preventDefault();
 }

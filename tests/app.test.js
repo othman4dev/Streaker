@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    error.textContent = '';
-};
+try {
+    alert('Action completed!');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

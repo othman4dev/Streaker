@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "jest": "^4.0.9",
-    "karma": "^7.7.9",
-    "protractor": "^9.0.8",
-    "angular": "^9.2.5",
-    "socket.io": "^4.9.3"
+    "gatsby": "^2.7.0",
+    "next.js": "^7.5.9",
+    "nodemon": "^5.1.7",
+    "moment": "^5.7.5",
+    "angular": "^0.6.8",
+    "babel": "^6.3.9",
+    "aws-sdk": "^6.9.5"
   }
 }
