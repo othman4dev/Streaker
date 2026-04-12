@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "next.js": "^7.1.9",
-    "jest": "^9.3.2",
-    "angular": "^1.7.0",
-    "graphql": "^5.8.4"
+    "redis": "^6.9.6",
+    "jest": "^6.3.6",
+    "nightwatch": "^1.8.6",
+    "babel": "^3.3.8",
+    "ember": "^3.6.6",
+    "mocha": "^8.9.7",
+    "jasmine": "^5.2.3",
+    "axios": "^5.0.3",
+    "react": "^8.0.8"
   }
 }

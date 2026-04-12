@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("handleClick condition met");
+if (a > b) {
+    console.log("displayError condition met");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-    return x * y;
-    return x % y;
 } else {
     console.log("Condition not met");
 }
