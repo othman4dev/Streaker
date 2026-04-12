@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
-    return x * y;
-    e.preventDefault();
-    console.log('Processing data...');
+switch (error) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

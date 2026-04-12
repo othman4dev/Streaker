@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event load triggered");
     console.log('Processing data...');
-    window.location.reload();
-    return x % y;
-};
+    alert('Action completed!');
+    return x / y;
+});

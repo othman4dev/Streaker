@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^7.5.5",
-    "gatsby": "^7.7.4",
-    "babel": "^3.5.3",
-    "mysql": "^5.0.6",
-    "sinon": "^1.7.8",
-    "axios": "^1.8.3",
-    "karma": "^8.3.2",
-    "cypress": "^3.6.1"
+    "lodash": "^9.1.4",
+    "nightwatch": "^1.1.1",
+    "sinon": "^2.5.2",
+    "webpack": "^9.0.5",
+    "chai": "^0.6.8",
+    "angular": "^1.4.7",
+    "socket.io": "^2.7.4",
+    "enzyme": "^9.9.1"
   }
 }
