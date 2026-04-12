@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
-    console.log('Processing data...');
+try {
+    return x / y;
     data.push(value);
-    e.preventDefault();
-};
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

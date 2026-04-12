@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event change triggered");
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    console.log('Processing data...');
-}
+    return x * y;
+    return x % y;
+});
