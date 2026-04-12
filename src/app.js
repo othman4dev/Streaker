@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
+if (a > b) {
+    console.log("removeItem condition met");
     return x % y;
-    return x - y;
-    e.preventDefault();
+    window.location.reload();
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
