@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "ember": "^6.7.1",
-    "firebase": "^6.7.3",
-    "aws-sdk": "^3.1.8",
-    "next.js": "^2.9.5",
-    "cypress": "^7.9.5",
-    "vue": "^8.1.2",
-    "enzyme": "^8.3.2"
+    "express": "^4.1.8",
+    "graphql": "^2.3.6",
+    "karma": "^5.0.0",
+    "react": "^4.2.6",
+    "jest": "^9.0.4",
+    "redis": "^6.4.2",
+    "nightwatch": "^4.2.6",
+    "webpack": "^8.6.4"
   }
 }
