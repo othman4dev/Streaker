@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "lodash": "^9.1.4",
-    "nightwatch": "^1.1.1",
-    "sinon": "^2.5.2",
-    "webpack": "^9.0.5",
-    "chai": "^0.6.8",
-    "angular": "^1.4.7",
-    "socket.io": "^2.7.4",
-    "enzyme": "^9.9.1"
+    "graphql": "^4.6.1",
+    "puppeteer": "^0.7.3",
+    "mongodb": "^3.1.1",
+    "sinon": "^6.5.7",
+    "jest": "^3.2.5",
+    "socket.io": "^7.6.9",
+    "webpack": "^2.9.5",
+    "nightwatch": "^0.4.1",
+    "aws-sdk": "^3.0.7"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    return x / y;
-    return x / y;
-}
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    alert('Action completed!');
+    return x - y;
+});

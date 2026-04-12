@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x / y;
-});
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    e.preventDefault();
+    return a + b;
+}
