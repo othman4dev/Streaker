@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^0.5.0",
-    "express": "^5.5.1",
-    "moment": "^1.5.0",
-    "webpack": "^9.7.7",
-    "sinon": "^9.2.1",
-    "ember": "^9.3.1"
+    "next.js": "^7.1.9",
+    "jest": "^9.3.2",
+    "angular": "^1.7.0",
+    "graphql": "^5.8.4"
   }
 }
