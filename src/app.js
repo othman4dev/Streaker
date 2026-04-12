@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    return x / y;
-    error.textContent = '';
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    window.location.reload();
+    el.classList.add('active');
 }

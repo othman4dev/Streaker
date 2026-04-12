@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    data.push(value);
-    el.classList.add('active');
-};
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event change triggered");
+    console.log('Processing data...');
+    return x ** y;
+    alert('Action completed!');
+});

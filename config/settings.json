@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^5.4.6",
-    "gatsby": "^4.9.4",
-    "angular": "^2.5.2",
-    "express": "^5.4.1",
-    "graphql": "^6.8.0"
+    "aws-sdk": "^9.0.1",
+    "socket.io": "^3.8.2",
+    "graphql": "^2.3.1",
+    "angular": "^0.8.9",
+    "express": "^2.7.2"
   }
 }
