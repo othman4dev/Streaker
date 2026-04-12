@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    return x % y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    console.log('Processing data...');
     e.preventDefault();
-    alert('Action completed!');
-});
+}

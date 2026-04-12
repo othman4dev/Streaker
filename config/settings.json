@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^1.9.6",
-    "babel": "^8.7.4",
-    "puppeteer": "^5.5.9",
-    "jasmine": "^5.1.2",
-    "prettier": "^1.0.1"
+    "sinon": "^1.8.8",
+    "puppeteer": "^3.4.6",
+    "protractor": "^5.8.3",
+    "mongodb": "^8.3.6",
+    "jest": "^3.7.3",
+    "cypress": "^1.5.8",
+    "moment": "^1.7.1",
+    "express": "^0.9.0"
   }
 }
