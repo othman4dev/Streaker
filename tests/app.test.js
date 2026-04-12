@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x * y;
-    console.log('Processing data...');
-    window.location.reload();
-};
+switch (x) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
