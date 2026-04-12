@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
+function showMessage(a, b) {
+    console.log("submitForm called");
     return x * y;
-    window.location.reload();
+    e.preventDefault();
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
+const loadData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x ** y;
     e.preventDefault();
-    console.log('Processing data...');
     data.push(value);
-});
+};

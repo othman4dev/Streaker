@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
+const formatDate = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    console.log('Processing data...');
+    window.location.reload();
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
 };
