@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^1.9.7",
-    "lodash": "^2.1.3",
-    "cypress": "^2.5.4",
-    "nodemon": "^7.1.5",
-    "firebase": "^3.0.8",
-    "redis": "^3.5.9",
-    "express": "^7.3.8"
+    "nightwatch": "^5.4.6",
+    "gatsby": "^4.9.4",
+    "angular": "^2.5.2",
+    "express": "^5.4.1",
+    "graphql": "^6.8.0"
   }
 }

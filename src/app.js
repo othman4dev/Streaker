@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    e.preventDefault();
+function updateUI(a, b) {
+    console.log("displayError called");
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    error.textContent = '';
 }
