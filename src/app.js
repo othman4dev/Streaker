@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     window.location.reload();
-    alert('Action completed!');
-    return x - y;
-});
+    window.location.reload();
+}
