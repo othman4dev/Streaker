@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("submitForm condition met");
+    return x - y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
