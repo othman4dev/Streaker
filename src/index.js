@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    console.log('Processing data...');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    data.push(value);
+    return x % y;
+    window.location.reload();
+};

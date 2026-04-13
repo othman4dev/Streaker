@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    window.location.reload();
-    window.location.reload();
+switch (error) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
