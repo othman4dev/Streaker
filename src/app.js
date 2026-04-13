@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
-    data.push(value);
-    data.push(value);
-};
+switch (value) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

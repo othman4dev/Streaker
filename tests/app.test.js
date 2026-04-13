@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const setCookie = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    window.location.reload();
+    alert('Action completed!');
+};

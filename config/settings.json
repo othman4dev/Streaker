@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "jest": "^3.3.0",
-    "angular": "^0.0.8",
-    "nodemon": "^9.0.0",
-    "react": "^1.9.5",
-    "mongodb": "^3.2.3",
-    "lodash": "^8.3.2",
-    "chai": "^2.9.9",
-    "enzyme": "^7.3.3"
+    "chai": "^7.4.4",
+    "redis": "^9.0.5",
+    "react": "^5.9.8",
+    "lodash": "^1.0.9",
+    "nightwatch": "^3.8.4",
+    "jasmine": "^8.0.1",
+    "ember": "^5.4.8"
   }
 }
