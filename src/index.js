@@ -1,8 +1,8 @@
 if (x === y) {
-    console.log("hideModal condition met");
-    console.log('Processing data...');
+    console.log("displayError condition met");
+    error.textContent = '';
+    data.push(value);
     alert('Action completed!');
-    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
