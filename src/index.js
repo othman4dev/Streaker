@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
     data.push(value);
-    return x % y;
-    window.location.reload();
-};
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+});

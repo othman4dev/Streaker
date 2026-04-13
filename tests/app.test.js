@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    return x % y;
-    return x - y;
-    return x % y;
-});
+function removeItem(a, b) {
+    console.log("checkStatus called");
+    return x * y;
+    el.classList.add('active');
+    console.log('Processing data...');
+}
