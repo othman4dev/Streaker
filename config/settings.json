@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^4.4.2",
-    "svelte": "^2.6.2",
-    "chai": "^1.8.2",
-    "typescript": "^7.8.1",
-    "puppeteer": "^8.9.4",
-    "eslint": "^5.2.9"
+    "angular": "^4.8.0",
+    "mongodb": "^8.7.4",
+    "protractor": "^0.8.9",
+    "svelte": "^9.5.7",
+    "next.js": "^5.7.2",
+    "enzyme": "^8.6.7"
   }
 }

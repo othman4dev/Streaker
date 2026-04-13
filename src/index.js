@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    e.preventDefault();
+const getLocalStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return a + b;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+};

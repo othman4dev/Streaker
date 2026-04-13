@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    return x - y;
-    error.textContent = '';
-});
+try {
+    e.preventDefault();
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
