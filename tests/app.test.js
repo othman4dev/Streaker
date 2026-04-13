@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x * y;
-    alert('Action completed!');
-    alert('Action completed!');
-};
+try {
+    error.textContent = '';
+    el.classList.add('active');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
