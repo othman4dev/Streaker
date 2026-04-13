@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("checkStatus called");
-    return x * y;
-    el.classList.add('active');
-    console.log('Processing data...');
+switch (a) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
