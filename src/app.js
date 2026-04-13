@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event keydown triggered");
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event blur triggered");
     return x ** y;
-    return x * y;
-    return x - y;
+    return x ** y;
+    el.classList.add('active');
 });

@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    return x - y;
-    return a + b;
-};
+switch (e) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.7.2",
-    "typescript": "^7.4.8",
-    "jest": "^9.7.2",
-    "moment": "^0.6.6"
+    "graphql": "^6.5.7",
+    "webpack": "^6.2.2",
+    "mongodb": "^0.0.5",
+    "karma": "^0.4.6",
+    "vue": "^8.3.9",
+    "cypress": "^3.9.2",
+    "lodash": "^6.8.4",
+    "babel": "^1.4.4"
   }
 }
