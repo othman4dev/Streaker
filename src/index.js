@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    error.textContent = '';
-    data.push(value);
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x - y;
+    el.classList.add('active');
+    return x % y;
+};
