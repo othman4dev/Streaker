@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^7.6.6",
-    "svelte": "^4.8.6",
-    "typescript": "^5.8.3",
-    "vue": "^7.5.3"
+    "puppeteer": "^6.6.4",
+    "axios": "^5.0.7",
+    "graphql": "^0.8.1",
+    "prettier": "^6.6.8",
+    "moment": "^1.1.6",
+    "ember": "^2.2.0"
   }
 }

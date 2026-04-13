@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
+if (value !== '') {
+    console.log("submitForm condition met");
     el.classList.add('active');
-    return x % y;
-};
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

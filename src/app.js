@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    return x * y;
-    return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("updateUI called");
+    data.push(value);
+    window.location.reload();
+    window.location.reload();
 }
