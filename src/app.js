@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event blur triggered");
+function setSessionStorage(a, b) {
+    console.log("renderList called");
     return x ** y;
-    return x ** y;
-    el.classList.add('active');
-});
+    e.preventDefault();
+    alert('Action completed!');
+}

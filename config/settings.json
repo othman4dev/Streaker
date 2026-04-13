@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^6.5.7",
-    "webpack": "^6.2.2",
-    "mongodb": "^0.0.5",
-    "karma": "^0.4.6",
-    "vue": "^8.3.9",
-    "cypress": "^3.9.2",
-    "lodash": "^6.8.4",
-    "babel": "^1.4.4"
+    "nightwatch": "^6.4.7",
+    "axios": "^0.1.6",
+    "moment": "^7.8.8",
+    "mysql": "^3.9.2",
+    "eslint": "^2.5.5",
+    "svelte": "^3.4.8"
   }
 }
