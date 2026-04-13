@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "puppeteer": "^9.2.3",
-    "babel": "^2.0.9",
-    "jest": "^4.5.8",
-    "sinon": "^9.6.0",
-    "ember": "^6.5.1",
-    "chai": "^5.2.9",
-    "svelte": "^7.2.2",
-    "typescript": "^2.9.1"
+    "nodemon": "^9.3.3",
+    "express": "^0.8.7",
+    "sinon": "^9.7.2",
+    "socket.io": "^8.1.5"
   }
 }
