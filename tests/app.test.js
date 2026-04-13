@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event scroll triggered");
+try {
     console.log('Processing data...');
-    e.preventDefault();
-    el.classList.add('active');
-});
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

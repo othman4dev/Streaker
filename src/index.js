@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    console.log('Processing data...');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    return x % y;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
