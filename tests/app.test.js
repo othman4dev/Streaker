@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("setCookie condition met");
+    alert('Action completed!');
+    data.push(value);
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
