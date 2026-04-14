@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    return x / y;
-    error.textContent = '';
+try {
+    window.location.reload();
+    console.log('Processing data...');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

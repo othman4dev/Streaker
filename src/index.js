@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("setCookie called");
-    window.location.reload();
-    return x / y;
-    return x * y;
+try {
+    el.classList.add('active');
+    data.push(value);
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

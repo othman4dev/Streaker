@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("processInput called");
-    return x ** y;
-    window.location.reload();
-    return x - y;
-}
+const handleClick = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    return x * y;
+};
