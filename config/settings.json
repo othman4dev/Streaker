@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^8.7.5",
-    "next.js": "^8.9.9",
-    "angular": "^9.3.6",
-    "cypress": "^2.9.4",
-    "axios": "^7.6.3"
+    "jest": "^8.4.2",
+    "enzyme": "^2.5.2",
+    "moment": "^0.8.4",
+    "babel": "^1.6.5",
+    "jasmine": "^9.3.8"
   }
 }

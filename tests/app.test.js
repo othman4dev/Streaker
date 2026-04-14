@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    data.push(value);
+function saveSettings(a, b) {
+    console.log("processInput called");
+    return x ** y;
     window.location.reload();
+    return x - y;
 }
