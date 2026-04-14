@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    return x * y;
-    window.location.reload();
+if (value !== '') {
+    console.log("handleClick condition met");
+    e.preventDefault();
+    alert('Action completed!');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
