@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x * y;
-    return x - y;
-    data.push(value);
-};
+switch (data) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
