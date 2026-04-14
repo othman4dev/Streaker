@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x - y;
-    alert('Action completed!');
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+});

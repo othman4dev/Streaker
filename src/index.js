@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("createChart condition met");
+try {
     return x * y;
-    return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
