@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    console.log('Processing data...');
-    return x * y;
-    return a + b;
-};
+if (a > b) {
+    console.log("createChart condition met");
+    window.location.reload();
+    e.preventDefault();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return a + b;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+const loadData = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x - y;
+    return x / y;
+    return x - y;
+};
