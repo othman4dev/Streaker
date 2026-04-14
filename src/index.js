@@ -1,7 +1,6 @@
-try {
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    return a + b;
     console.log('Processing data...');
-    alert('Action completed!');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+});
