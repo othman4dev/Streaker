@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    error.textContent = '';
-    e.preventDefault();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
