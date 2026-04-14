@@ -1,7 +1,6 @@
-try {
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x % y;
     el.classList.add('active');
-    alert('Action completed!');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};
