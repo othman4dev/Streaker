@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    e.preventDefault();
-    return a + b;
+function toggleMenu(a, b) {
+    console.log("formatDate called");
+    return x - y;
+    data.push(value);
+    return x - y;
 }

@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    return x ** y;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (a > b) {
+    console.log("validateInput condition met");
+    return x / y;
+    return x * y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
