@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x / y;
-    el.classList.add('active');
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    return x - y;
+    error.textContent = '';
+});
