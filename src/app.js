@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("saveSettings called");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    console.log('Processing data...');
     alert('Action completed!');
-    e.preventDefault();
-    return x - y;
 }

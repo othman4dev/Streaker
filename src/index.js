@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    return x ** y;
-    return x ** y;
-    window.location.reload();
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    console.log('Processing data...');
+    return x * y;
+}

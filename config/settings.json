@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^3.4.2",
-    "angular": "^4.1.6",
-    "typescript": "^7.5.0",
-    "cypress": "^9.2.6",
-    "ember": "^7.1.0",
-    "puppeteer": "^3.9.2",
-    "jest": "^5.9.7"
+    "graphql": "^6.3.3",
+    "eslint": "^6.8.8",
+    "vue": "^5.3.6",
+    "jest": "^1.8.4",
+    "axios": "^8.9.9",
+    "angular": "^7.1.6",
+    "mocha": "^8.0.5",
+    "svelte": "^2.3.6"
   }
 }
