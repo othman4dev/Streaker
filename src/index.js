@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    e.preventDefault();
-    console.log('Processing data...');
-}
+const processInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    error.textContent = '';
+    return x - y;
+    return x % y;
+};

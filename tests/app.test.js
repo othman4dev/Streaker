@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    data.push(value);
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
+    window.location.reload();
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
