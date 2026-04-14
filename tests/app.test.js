@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
-    window.location.reload();
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return x * y;
     e.preventDefault();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
 }
