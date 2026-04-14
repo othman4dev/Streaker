@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
     e.preventDefault();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    alert('Action completed!');
+});
