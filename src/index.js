@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x % y;
-    el.classList.add('active');
-    window.location.reload();
-};
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x * y;
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    alert('Action completed!');
-    return a + b;
+function validateInput(a, b) {
+    console.log("loadData called");
+    data.push(value);
+    return x * y;
+    window.location.reload();
 }
