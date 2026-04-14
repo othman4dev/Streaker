@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    window.location.reload();
-    window.location.reload();
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x / y;
+    el.classList.add('active');
 }
