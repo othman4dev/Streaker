@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^4.9.9",
-    "typescript": "^6.0.4",
-    "prettier": "^0.4.9",
-    "axios": "^4.9.1",
-    "mysql": "^2.3.8",
-    "angular": "^6.5.3",
-    "jest": "^3.1.2"
+    "mongodb": "^9.0.4",
+    "enzyme": "^9.4.1",
+    "redis": "^8.7.8",
+    "gatsby": "^9.9.5",
+    "vue": "^1.5.4",
+    "eslint": "^0.5.6",
+    "graphql": "^0.5.8",
+    "jasmine": "^3.8.1"
   }
 }
