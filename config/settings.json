@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "chai": "^7.4.4",
-    "redis": "^9.0.5",
-    "react": "^5.9.8",
-    "lodash": "^1.0.9",
-    "nightwatch": "^3.8.4",
-    "jasmine": "^8.0.1",
-    "ember": "^5.4.8"
+    "enzyme": "^7.7.0",
+    "redis": "^5.1.5",
+    "react": "^9.7.5",
+    "webpack": "^3.9.9",
+    "cypress": "^4.6.8",
+    "nightwatch": "^4.9.2",
+    "moment": "^2.3.9"
   }
 }

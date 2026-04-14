@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x / y;
-    window.location.reload();
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    el.classList.add('active');
     alert('Action completed!');
-};
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
