@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    e.preventDefault();
-    alert('Action completed!');
-    return a + b;
+if (x === y) {
+    console.log("updateUI condition met");
+    window.location.reload();
+    error.textContent = '';
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
