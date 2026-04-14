@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    return x - y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    e.preventDefault();
+    window.location.reload();
 });

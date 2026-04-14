@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    console.log('Processing data...');
-    window.location.reload();
-    data.push(value);
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x - y;
+    return x * y;
+    el.classList.add('active');
 };
