@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jasmine": "^1.4.7",
-    "enzyme": "^9.1.7",
-    "react": "^5.4.2",
-    "babel": "^9.5.7",
-    "jest": "^4.3.6",
-    "ember": "^8.2.0",
-    "eslint": "^6.2.1"
+    "jest": "^8.8.2",
+    "typescript": "^4.3.4",
+    "redis": "^3.4.8",
+    "react": "^5.1.9",
+    "mongodb": "^9.5.8",
+    "prettier": "^7.4.3",
+    "aws-sdk": "^6.3.3"
   }
 }

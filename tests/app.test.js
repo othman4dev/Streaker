@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    return a + b;
-    return x * y;
+try {
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }

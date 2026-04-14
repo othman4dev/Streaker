@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    window.location.reload();
+const fetchData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x / y;
+    return x * y;
     return x % y;
-});
+};
