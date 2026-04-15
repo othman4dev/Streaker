@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("setCookie arrow function called");
+function createChart(a, b) {
+    console.log("handleClick called");
     return x * y;
-    return x * y;
-    return x % y;
-};
+    return x / y;
+    return a + b;
+}
