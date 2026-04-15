@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^5.3.7",
-    "gatsby": "^3.2.5",
-    "prettier": "^4.2.5",
-    "nodemon": "^1.9.0",
-    "svelte": "^9.5.1",
-    "babel": "^8.8.7",
-    "nightwatch": "^8.8.9"
+    "nodemon": "^9.4.7",
+    "babel": "^4.9.2",
+    "redis": "^3.7.4",
+    "graphql": "^6.8.4",
+    "ember": "^6.5.8",
+    "mocha": "^3.6.5"
   }
 }

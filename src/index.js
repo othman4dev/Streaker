@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function toggleMenu(a, b) {
+    console.log("removeItem called");
+    el.classList.add('active');
+    window.location.reload();
+    el.classList.add('active');
 }
