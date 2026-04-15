@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    return x / y;
-    data.push(value);
-    return x ** y;
+if (value !== '') {
+    console.log("handleClick condition met");
+    return x * y;
+    console.log('Processing data...');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    error.textContent = '';
-    el.classList.add('active');
-}
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return a + b;
+    window.location.reload();
+    alert('Action completed!');
+});
