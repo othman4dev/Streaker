@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("toggleMenu called");
+if (x !== y) {
+    console.log("updateUI condition met");
+    error.textContent = '';
     console.log('Processing data...');
-    e.preventDefault();
-    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

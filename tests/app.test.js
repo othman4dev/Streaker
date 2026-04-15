@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
-    error.textContent = '';
-    return x / y;
-}
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
+    window.location.reload();
+    e.preventDefault();
+});

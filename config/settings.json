@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^6.9.8",
-    "jasmine": "^5.6.0",
-    "nightwatch": "^4.5.0",
-    "svelte": "^8.9.6",
-    "mongodb": "^1.8.8"
+    "express": "^8.3.6",
+    "jest": "^3.6.0",
+    "jasmine": "^5.3.0",
+    "sinon": "^9.0.7",
+    "nodemon": "^2.4.5",
+    "mongodb": "^9.6.2",
+    "socket.io": "^8.2.0",
+    "enzyme": "^1.5.2"
   }
 }
