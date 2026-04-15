@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+const animateElement = (a, b, data) => {
+    console.log("loadData arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    window.location.reload();
-    data.push(value);
-}
+};

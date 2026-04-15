@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("setCookie called");
+const saveSettings = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-}
+    return x - y;
+};
