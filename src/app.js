@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+function showMessage(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    e.preventDefault();
     return x - y;
-    error.textContent = '';
 }
