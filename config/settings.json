@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^5.7.8",
-    "mocha": "^0.1.2",
-    "chai": "^4.1.4",
-    "protractor": "^8.2.3",
-    "angular": "^4.6.0",
-    "moment": "^1.4.7",
-    "puppeteer": "^4.4.2"
+    "react": "^2.4.5",
+    "enzyme": "^8.3.4",
+    "firebase": "^5.7.2",
+    "mocha": "^8.1.1",
+    "express": "^7.9.7",
+    "lodash": "^6.5.0"
   }
 }
