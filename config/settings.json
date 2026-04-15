@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^4.6.2",
-    "ember": "^6.4.4",
-    "mongodb": "^1.5.3",
-    "mocha": "^0.9.5",
-    "svelte": "^8.5.0",
-    "jest": "^3.8.8",
-    "axios": "^7.3.6",
-    "sinon": "^5.5.9"
+    "sinon": "^8.4.4",
+    "socket.io": "^2.5.2",
+    "aws-sdk": "^6.8.4",
+    "graphql": "^1.6.1",
+    "mongodb": "^7.0.4",
+    "webpack": "^6.6.8"
   }
 }

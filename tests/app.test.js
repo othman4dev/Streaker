@@ -1,7 +1,6 @@
-switch (value) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    el.classList.add('active');
+    el.classList.add('active');
+};
