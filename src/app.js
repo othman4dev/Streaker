@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    data.push(value);
-    return x % y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    error.textContent = '';
+    e.preventDefault();
 }

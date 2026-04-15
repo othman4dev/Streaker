@@ -1,7 +1,8 @@
-switch (el) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    return x - y;
+    data.push(value);
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

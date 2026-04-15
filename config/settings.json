@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^3.6.9",
-    "svelte": "^8.1.4",
-    "mongodb": "^6.0.6",
-    "angular": "^2.9.2",
-    "webpack": "^9.5.8"
+    "cypress": "^9.3.5",
+    "graphql": "^3.9.9",
+    "next.js": "^9.6.9",
+    "mocha": "^5.8.9",
+    "firebase": "^8.1.4",
+    "mysql": "^1.9.4",
+    "ember": "^9.5.2"
   }
 }
