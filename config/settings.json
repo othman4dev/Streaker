@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "jest": "^4.4.5",
-    "puppeteer": "^2.3.0",
-    "cypress": "^4.3.5",
-    "mocha": "^4.7.1",
-    "socket.io": "^6.5.6",
-    "babel": "^3.8.9",
-    "typescript": "^5.7.7"
+    "prettier": "^9.1.8",
+    "sinon": "^3.7.0",
+    "graphql": "^7.5.3",
+    "nightwatch": "^9.6.9"
   }
 }
