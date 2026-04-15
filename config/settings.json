@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^0.8.7",
-    "cypress": "^5.0.1",
-    "chai": "^3.5.4",
-    "webpack": "^0.6.6",
-    "vue": "^9.8.4",
-    "express": "^9.8.2",
-    "jasmine": "^8.5.1"
+    "graphql": "^8.2.8",
+    "aws-sdk": "^5.8.6",
+    "gatsby": "^5.9.3",
+    "chai": "^8.2.5",
+    "sinon": "^7.4.2"
   }
 }

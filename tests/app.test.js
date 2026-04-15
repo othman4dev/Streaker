@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x - y;
+});
