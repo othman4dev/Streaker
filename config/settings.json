@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^9.4.7",
-    "babel": "^4.9.2",
-    "redis": "^3.7.4",
-    "graphql": "^6.8.4",
-    "ember": "^6.5.8",
-    "mocha": "^3.6.5"
+    "chai": "^4.9.5",
+    "firebase": "^5.0.9",
+    "graphql": "^5.2.3",
+    "webpack": "^9.3.4",
+    "ember": "^8.4.1"
   }
 }
