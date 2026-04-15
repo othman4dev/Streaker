@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
-    el.classList.add('active');
-    return x - y;
-    return x ** y;
+switch (e) {
+    case 1:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

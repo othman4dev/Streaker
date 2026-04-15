@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    return x ** y;
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
     return x - y;
-});
+    return x % y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
