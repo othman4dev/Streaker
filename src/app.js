@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    data.push(value);
+try {
+    el.classList.add('active');
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}
