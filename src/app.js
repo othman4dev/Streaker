@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
+if (x === y) {
+    console.log("displayError condition met");
     data.push(value);
-    return x ** y;
-    return x - y;
+    return x % y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

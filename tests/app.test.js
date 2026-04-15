@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event resize triggered");
+try {
+    return x ** y;
+    alert('Action completed!');
     return x * y;
-    e.preventDefault();
-    return a + b;
-});
+} catch (error) {
+    console.error("Error:", error);
+}
