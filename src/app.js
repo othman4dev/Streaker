@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event mouseover triggered");
-    return x / y;
-    el.classList.add('active');
-    return x % y;
-});
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x ** y;
+    return x - y;
+}

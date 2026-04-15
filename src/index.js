@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    return x / y;
-    return a + b;
-});
+if (x === y) {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    return x ** y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}
