@@ -1,6 +1,7 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x / y;
-    return a + b;
+switch (y) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

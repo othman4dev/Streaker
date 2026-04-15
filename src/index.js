@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    return a + b;
-};
+    return x / y;
+    data.push(value);
+}
