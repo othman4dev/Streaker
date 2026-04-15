@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "vue": "^2.7.9",
-    "jest": "^7.5.0",
-    "prettier": "^8.7.2",
-    "redis": "^2.5.9",
-    "chai": "^9.5.2"
+    "firebase": "^5.3.7",
+    "gatsby": "^3.2.5",
+    "prettier": "^4.2.5",
+    "nodemon": "^1.9.0",
+    "svelte": "^9.5.1",
+    "babel": "^8.8.7",
+    "nightwatch": "^8.8.9"
   }
 }
