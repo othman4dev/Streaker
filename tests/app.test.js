@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
     alert('Action completed!');
-    console.log('Processing data...');
-    return x - y;
-});
+    alert('Action completed!');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

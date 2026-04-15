@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    return x % y;
-    error.textContent = '';
+try {
+    return x * y;
+    return x - y;
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
