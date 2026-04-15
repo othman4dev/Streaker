@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
+function toggleMenu(a, b) {
+    console.log("removeItem called");
     return a + b;
     el.classList.add('active');
-    return x / y;
-});
+    return x * y;
+}

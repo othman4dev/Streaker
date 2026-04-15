@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("createChart called");
-    e.preventDefault();
-    console.log('Processing data...');
-    return a + b;
+switch (x) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
