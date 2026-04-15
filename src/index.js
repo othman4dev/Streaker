@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x * y;
-    e.preventDefault();
-    console.log('Processing data...');
-};
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    return x / y;
+    return a + b;
+});
