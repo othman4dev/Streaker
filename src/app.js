@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return a + b;
-}
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event input triggered");
+    return x / y;
+    alert('Action completed!');
+    window.location.reload();
+});

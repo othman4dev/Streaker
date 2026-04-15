@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x ** y;
-});
+if (x !== y) {
+    console.log("processInput condition met");
+    return x * y;
+    el.classList.add('active');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
