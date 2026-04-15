@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^9.0.1",
-    "eslint": "^8.2.1",
-    "socket.io": "^8.5.7",
-    "mysql": "^8.0.8",
-    "prettier": "^9.6.6",
-    "express": "^8.1.9",
-    "webpack": "^7.7.5"
+    "prettier": "^1.2.2",
+    "jasmine": "^0.0.7",
+    "vue": "^2.3.1",
+    "webpack": "^0.0.7",
+    "sinon": "^5.7.7",
+    "enzyme": "^8.7.7"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return x ** y;
+const processInput = (a, b, data) => {
+    console.log("displayError arrow function called");
     error.textContent = '';
-    alert('Action completed!');
-});
+    return x * y;
+    window.location.reload();
+};
