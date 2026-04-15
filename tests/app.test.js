@@ -1,7 +1,8 @@
-switch (el) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    console.log('Processing data...');
+    return x - y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
