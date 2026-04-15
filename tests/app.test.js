@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("updateUI called");
-    return x ** y;
-    return x % y;
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

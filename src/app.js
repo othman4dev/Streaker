@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const updateUI = (a, b, data) => {
+    console.log("displayError arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    return x / y;
+};

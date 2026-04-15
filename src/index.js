@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("validateInput condition met");
-    console.log('Processing data...');
-    return a + b;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

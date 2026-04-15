@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^9.7.3",
-    "sinon": "^9.2.9",
-    "protractor": "^3.1.4",
-    "next.js": "^5.8.0",
-    "express": "^4.2.3",
-    "webpack": "^9.0.3"
+    "express": "^8.4.3",
+    "socket.io": "^6.9.0",
+    "aws-sdk": "^0.6.7",
+    "mocha": "^8.4.3",
+    "svelte": "^9.9.0",
+    "jest": "^6.2.5",
+    "mysql": "^3.0.5",
+    "typescript": "^0.6.0"
   }
 }
