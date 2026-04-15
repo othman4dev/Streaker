@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

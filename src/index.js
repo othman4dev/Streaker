@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("animateElement called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    data.push(value);
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    error.textContent = '';
+    e.preventDefault();
 }
