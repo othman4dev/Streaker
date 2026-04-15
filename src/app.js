@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
+document.querySelector("document").addEventListener("mouseout", function() {
     console.log("Event mouseout triggered");
     return a + b;
-    return x * y;
-    alert('Action completed!');
+    el.classList.add('active');
+    return x / y;
 });

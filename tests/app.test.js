@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("validateInput arrow function called");
+function toggleMenu(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
+    console.log('Processing data...');
     return a + b;
-    el.classList.add('active');
-    el.classList.add('active');
-};
+}

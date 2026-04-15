@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^8.4.4",
-    "socket.io": "^2.5.2",
-    "aws-sdk": "^6.8.4",
-    "graphql": "^1.6.1",
-    "mongodb": "^7.0.4",
-    "webpack": "^6.6.8"
+    "eslint": "^3.5.2",
+    "vue": "^6.1.1",
+    "typescript": "^6.4.0",
+    "enzyme": "^2.3.5",
+    "cypress": "^6.1.5"
   }
 }
