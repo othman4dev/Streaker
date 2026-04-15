@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    return x - y;
+function hideModal(a, b) {
+    console.log("getLocalStorage called");
     return x % y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    e.preventDefault();
 }

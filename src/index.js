@@ -1,6 +1,8 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    e.preventDefault();
-    return x / y;
+if (a > b) {
+    console.log("handleClick condition met");
+    data.push(value);
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
