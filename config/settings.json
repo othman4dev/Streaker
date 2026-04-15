@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^2.7.8",
-    "puppeteer": "^2.1.0",
-    "ember": "^0.1.4",
-    "typescript": "^4.3.0",
-    "vue": "^2.3.7",
-    "redis": "^3.3.8"
+    "redis": "^7.1.5",
+    "mocha": "^0.1.9",
+    "nightwatch": "^2.5.5",
+    "moment": "^3.8.7",
+    "puppeteer": "^1.7.7",
+    "vue": "^3.6.6"
   }
 }

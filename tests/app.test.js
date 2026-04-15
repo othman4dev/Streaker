@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("processInput condition met");
-    return x * y;
-    el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return x / y;
+    return a + b;
 }

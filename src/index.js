@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    return x ** y;
+const removeItem = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-});
+    return a + b;
+};

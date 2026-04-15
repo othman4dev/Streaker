@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event input triggered");
-    return x / y;
-    alert('Action completed!');
-    window.location.reload();
-});
+switch (value) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
