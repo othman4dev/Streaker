@@ -1,7 +1,6 @@
-try {
+const processInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x * y;
     console.log('Processing data...');
-    return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+};
