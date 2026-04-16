@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    return x * y;
     return x * y;
     console.log('Processing data...');
-    el.classList.add('active');
-};
+});
