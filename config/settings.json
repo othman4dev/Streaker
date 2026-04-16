@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^7.4.1",
-    "puppeteer": "^4.8.6",
-    "react": "^2.3.5",
-    "jest": "^7.2.4",
-    "aws-sdk": "^9.9.5",
-    "vue": "^2.6.3",
-    "enzyme": "^7.8.0"
+    "nightwatch": "^8.9.5",
+    "lodash": "^8.8.2",
+    "redis": "^8.8.8",
+    "angular": "^9.0.5",
+    "babel": "^0.0.0",
+    "express": "^1.6.4",
+    "cypress": "^0.1.4"
   }
 }
