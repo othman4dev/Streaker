@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
+const displayError = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    alert('Action completed!');
+    return x % y;
     error.textContent = '';
-    return x / y;
 };

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    el.classList.add('active');
-    return x ** y;
+function createChart(a, b) {
+    console.log("toggleMenu called");
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }

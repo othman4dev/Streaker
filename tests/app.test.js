@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
+    e.preventDefault();
+    return x ** y;
 }
