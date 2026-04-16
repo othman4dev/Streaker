@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    alert('Action completed!');
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    el.classList.add('active');
 }
