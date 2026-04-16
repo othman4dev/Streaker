@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^1.6.9",
-    "mysql": "^0.4.3",
-    "redis": "^6.9.7",
-    "react": "^1.5.9",
-    "babel": "^1.1.4"
+    "svelte": "^8.3.0",
+    "angular": "^2.4.4",
+    "babel": "^6.3.0",
+    "karma": "^6.2.6",
+    "graphql": "^5.7.5",
+    "puppeteer": "^9.1.7"
   }
 }
