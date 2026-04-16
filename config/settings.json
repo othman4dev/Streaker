@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^1.4.2",
-    "ember": "^5.5.8",
-    "react": "^7.3.0",
-    "protractor": "^4.2.9",
-    "babel": "^4.3.9"
+    "vue": "^4.9.0",
+    "puppeteer": "^0.2.7",
+    "axios": "^3.3.1",
+    "graphql": "^3.8.9",
+    "mongodb": "^4.9.0"
   }
 }

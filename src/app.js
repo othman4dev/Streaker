@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("renderList called");
-    e.preventDefault();
-    data.push(value);
-    el.classList.add('active');
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+};

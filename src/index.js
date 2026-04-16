@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    return a + b;
-    el.classList.add('active');
+switch (y) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
