@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^9.6.6",
-    "ember": "^0.1.8",
-    "socket.io": "^8.8.6",
-    "moment": "^1.6.6",
-    "react": "^8.7.6"
+    "mocha": "^8.7.4",
+    "axios": "^0.5.1",
+    "gatsby": "^7.6.3",
+    "socket.io": "^1.6.7",
+    "chai": "^9.6.4"
   }
 }

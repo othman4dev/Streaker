@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x * y;
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    return x / y;
 });
