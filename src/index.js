@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return x / y;
-    return x - y;
-    return x - y;
+if (x !== y) {
+    console.log("submitForm condition met");
+    return x * y;
+    data.push(value);
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

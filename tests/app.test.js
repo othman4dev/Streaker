@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
+try {
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
