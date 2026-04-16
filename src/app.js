@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("setSessionStorage called");
-    return x - y;
-    alert('Action completed!');
-    console.log('Processing data...');
+function validateInput(a, b) {
+    console.log("renderList called");
+    e.preventDefault();
+    data.push(value);
+    el.classList.add('active');
 }

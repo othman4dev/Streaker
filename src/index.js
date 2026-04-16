@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x ** y;
-    window.location.reload();
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
+    return x / y;
+    return a + b;
+    el.classList.add('active');
 }

@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x ** y;
-    error.textContent = '';
-    window.location.reload();
-};
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    alert('Action completed!');
+    alert('Action completed!');
+});
