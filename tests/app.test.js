@@ -1,7 +1,6 @@
-try {
-    return x - y;
+function displayError(a, b) {
+    console.log("renderList called");
+    return x * y;
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
 }
