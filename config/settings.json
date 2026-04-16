@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "vue": "^4.9.0",
-    "puppeteer": "^0.2.7",
-    "axios": "^3.3.1",
-    "graphql": "^3.8.9",
-    "mongodb": "^4.9.0"
+    "gatsby": "^4.7.7",
+    "firebase": "^1.7.5",
+    "mongodb": "^9.8.0",
+    "cypress": "^2.9.5",
+    "angular": "^6.8.9",
+    "puppeteer": "^3.7.6"
   }
 }

@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+function submitForm(a, b) {
+    console.log("showMessage called");
+    return x ** y;
+    el.classList.add('active');
+    return a + b;
+}
