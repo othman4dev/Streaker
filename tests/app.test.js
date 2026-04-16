@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+if (x !== y) {
+    console.log("updateUI condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-    error.textContent = '';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

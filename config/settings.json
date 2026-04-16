@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^8.0.6",
-    "redis": "^9.4.9",
-    "gatsby": "^9.0.9",
-    "aws-sdk": "^7.6.7",
-    "protractor": "^3.8.9",
-    "jasmine": "^2.8.9",
-    "nodemon": "^9.3.2",
-    "lodash": "^3.3.3"
+    "eslint": "^3.7.7",
+    "next.js": "^0.9.5",
+    "mongodb": "^1.6.6",
+    "jest": "^3.2.2",
+    "nodemon": "^9.0.7",
+    "jasmine": "^9.0.8",
+    "gatsby": "^2.9.4"
   }
 }

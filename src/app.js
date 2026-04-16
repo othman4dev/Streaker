@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
     return x - y;
-    alert('Action completed!');
-    return a + b;
-}
+    window.location.reload();
+});
