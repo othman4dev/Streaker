@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^8.9.5",
-    "lodash": "^8.8.2",
-    "redis": "^8.8.8",
-    "angular": "^9.0.5",
-    "babel": "^0.0.0",
-    "express": "^1.6.4",
-    "cypress": "^0.1.4"
+    "mongodb": "^8.0.6",
+    "redis": "^9.4.9",
+    "gatsby": "^9.0.9",
+    "aws-sdk": "^7.6.7",
+    "protractor": "^3.8.9",
+    "jasmine": "^2.8.9",
+    "nodemon": "^9.3.2",
+    "lodash": "^3.3.3"
   }
 }

@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("fetchData called");
-    el.classList.add('active');
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
     return x - y;
-    console.log('Processing data...');
+    error.textContent = '';
 }

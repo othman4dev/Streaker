@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x * y;
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    alert('Action completed!');
+    return a + b;
+}
