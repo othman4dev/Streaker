@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    el.classList.add('active');
+const removeItem = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+    return x % y;
+};

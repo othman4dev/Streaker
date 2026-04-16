@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    error.textContent = '';
+    alert('Action completed!');
+});
