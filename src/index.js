@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
+if (value !== '') {
+    console.log("displayError condition met");
+    return x / y;
     return x - y;
-    data.push(value);
-    alert('Action completed!');
+    return x - y;
 } else {
     console.log("Condition not met");
 }

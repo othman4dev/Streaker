@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    alert('Action completed!');
-    return x ** y;
-};
+function showMessage(a, b) {
+    console.log("displayError called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+}
