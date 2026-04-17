@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    el.classList.add('active');
+    return x - y;
+    window.location.reload();
+};

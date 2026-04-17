@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x ** y;
     window.location.reload();
-    error.textContent = '';
-}
+    return x % y;
+};

@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "express": "^8.2.8",
-    "chai": "^0.7.6",
-    "babel": "^5.9.6",
-    "svelte": "^5.3.1",
-    "axios": "^7.7.3",
-    "jest": "^4.3.1"
+    "react": "^0.0.1",
+    "express": "^0.6.1",
+    "enzyme": "^7.1.1",
+    "mocha": "^8.2.9",
+    "mysql": "^6.1.4",
+    "angular": "^9.9.5",
+    "webpack": "^2.0.4",
+    "mongodb": "^4.8.5"
   }
 }

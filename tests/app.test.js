@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("updateUI called");
-    return x * y;
+if (value !== '') {
+    console.log("formatDate condition met");
     el.classList.add('active');
-    alert('Action completed!');
+    return x % y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
