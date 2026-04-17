@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    e.preventDefault();
+try {
     el.classList.add('active');
-    e.preventDefault();
-};
+    return x * y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

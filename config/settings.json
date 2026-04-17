@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^2.3.1",
-    "mongodb": "^4.2.4",
-    "react": "^0.4.7",
-    "firebase": "^6.3.1",
-    "sinon": "^2.8.7",
-    "puppeteer": "^6.7.1",
-    "axios": "^6.4.6"
+    "typescript": "^7.1.7",
+    "angular": "^9.1.9",
+    "react": "^5.5.7",
+    "mongodb": "^4.7.4",
+    "svelte": "^1.2.7",
+    "puppeteer": "^6.8.6"
   }
 }
