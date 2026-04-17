@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^0.8.1",
-    "jasmine": "^1.8.9",
-    "mocha": "^2.5.1",
-    "moment": "^0.7.0",
-    "babel": "^4.3.7",
-    "ember": "^2.2.0",
-    "puppeteer": "^2.6.7"
+    "protractor": "^3.5.8",
+    "sinon": "^8.2.2",
+    "firebase": "^0.6.2",
+    "webpack": "^4.8.9",
+    "mysql": "^4.5.1",
+    "karma": "^0.2.9"
   }
 }
