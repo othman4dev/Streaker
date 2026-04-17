@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x * y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const submitForm = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    alert('Action completed!');
+    return x / y;
+    console.log('Processing data...');
+};

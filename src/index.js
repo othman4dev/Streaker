@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    e.preventDefault();
-    return x / y;
-}
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    el.classList.add('active');
+});
