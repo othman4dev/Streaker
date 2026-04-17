@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("processInput condition met");
-    return x ** y;
-    alert('Action completed!');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    e.preventDefault();
+};

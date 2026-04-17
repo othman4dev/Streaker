@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    return x * y;
-    return x ** y;
-    return x * y;
-});
+function hideModal(a, b) {
+    console.log("loadData called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+}
