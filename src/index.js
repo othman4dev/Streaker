@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("getLocalStorage condition met");
+    return x % y;
+    error.textContent = '';
     data.push(value);
-    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
