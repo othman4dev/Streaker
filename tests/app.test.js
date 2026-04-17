@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("formatDate condition met");
-    el.classList.add('active');
-    return x % y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
