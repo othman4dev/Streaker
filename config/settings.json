@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^9.9.6",
-    "vue": "^8.4.1",
-    "eslint": "^2.2.2",
-    "webpack": "^9.7.3",
-    "aws-sdk": "^4.4.8",
-    "jest": "^1.2.7",
-    "socket.io": "^2.6.4"
+    "typescript": "^2.6.8",
+    "puppeteer": "^4.0.7",
+    "cypress": "^7.4.6",
+    "mongodb": "^3.9.6",
+    "vue": "^4.1.0",
+    "angular": "^1.5.5"
   }
 }

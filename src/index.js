@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
-    return x % y;
-    error.textContent = '';
-};
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    return x ** y;
+    return x * y;
+});
