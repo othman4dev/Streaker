@@ -1,7 +1,6 @@
-try {
+const removeItem = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x / y;
     error.textContent = '';
-    return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+};

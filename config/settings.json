@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^8.7.4",
-    "axios": "^0.5.1",
-    "gatsby": "^7.6.3",
-    "socket.io": "^1.6.7",
-    "chai": "^9.6.4"
+    "express": "^0.8.1",
+    "aws-sdk": "^7.8.9",
+    "moment": "^8.8.0",
+    "next.js": "^1.9.9",
+    "sinon": "^4.0.5",
+    "jest": "^4.8.7",
+    "nightwatch": "^5.7.8"
   }
 }
