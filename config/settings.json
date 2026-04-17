@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^5.2.0",
-    "typescript": "^5.7.9",
-    "jest": "^4.7.3",
-    "cypress": "^4.0.0",
-    "socket.io": "^4.3.2",
-    "puppeteer": "^3.1.4"
+    "moment": "^3.7.6",
+    "react": "^3.2.0",
+    "webpack": "^3.7.7",
+    "prettier": "^9.8.9",
+    "babel": "^3.0.9",
+    "graphql": "^1.9.0"
   }
 }

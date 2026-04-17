@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    e.preventDefault();
     return x / y;
-    return x % y;
 }

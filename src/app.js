@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    e.preventDefault();
-    return x / y;
-    error.textContent = '';
+const hideModal = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 };
