@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^1.4.1",
-    "nightwatch": "^7.8.8",
-    "prettier": "^0.0.5",
-    "mocha": "^6.5.2",
-    "firebase": "^3.2.7",
-    "moment": "^5.4.3"
+    "express": "^8.2.8",
+    "chai": "^0.7.6",
+    "babel": "^5.9.6",
+    "svelte": "^5.3.1",
+    "axios": "^7.7.3",
+    "jest": "^4.3.1"
   }
 }
