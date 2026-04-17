@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    return x / y;
+    return x % y;
 }

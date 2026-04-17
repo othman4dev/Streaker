@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^1.2.2",
-    "jasmine": "^0.0.7",
-    "vue": "^2.3.1",
-    "webpack": "^0.0.7",
-    "sinon": "^5.7.7",
-    "enzyme": "^8.7.7"
+    "gatsby": "^5.2.0",
+    "typescript": "^5.7.9",
+    "jest": "^4.7.3",
+    "cypress": "^4.0.0",
+    "socket.io": "^4.3.2",
+    "puppeteer": "^3.1.4"
   }
 }
