@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    return x / y;
-    alert('Action completed!');
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x % y;
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+});

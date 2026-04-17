@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+const validateInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
     alert('Action completed!');
-    data.push(value);
-    return x % y;
-}
+    window.location.reload();
+    e.preventDefault();
+};

@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    error.textContent = '';
-    alert('Action completed!');
-};
+    el.classList.add('active');
+    window.location.reload();
+}
