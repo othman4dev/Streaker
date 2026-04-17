@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event blur triggered");
+const getLocalStorage = (a, b, data) => {
+    console.log("setCookie arrow function called");
     el.classList.add('active');
     alert('Action completed!');
-    el.classList.add('active');
-});
+    alert('Action completed!');
+};

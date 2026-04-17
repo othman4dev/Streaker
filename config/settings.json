@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^6.4.9",
-    "mongodb": "^6.0.4",
-    "graphql": "^3.4.5",
-    "aws-sdk": "^8.9.7",
-    "nightwatch": "^8.3.0",
-    "protractor": "^8.6.4",
-    "socket.io": "^1.7.4"
+    "cypress": "^5.9.3",
+    "axios": "^3.7.7",
+    "nightwatch": "^9.5.9",
+    "jest": "^0.7.0",
+    "chai": "^2.7.9"
   }
 }
