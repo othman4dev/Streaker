@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    alert('Action completed!');
+const updateUI = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+};

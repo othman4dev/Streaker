@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x * y;
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    e.preventDefault();
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+});
