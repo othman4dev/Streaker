@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
-    alert('Action completed!');
-};
+switch (b) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
