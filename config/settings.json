@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^5.4.5",
-    "prettier": "^7.2.1",
-    "protractor": "^4.3.8",
-    "angular": "^7.2.4",
-    "eslint": "^7.2.9"
+    "chai": "^9.5.4",
+    "angular": "^0.3.6",
+    "mysql": "^6.7.2",
+    "socket.io": "^7.5.7",
+    "webpack": "^3.8.8"
   }
 }

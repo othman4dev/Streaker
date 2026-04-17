@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("renderList called");
-    return x % y;
+if (x !== y) {
+    console.log("checkStatus condition met");
+    return x - y;
     el.classList.add('active');
-    alert('Action completed!');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
