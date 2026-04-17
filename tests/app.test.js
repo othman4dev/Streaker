@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return x % y;
-    e.preventDefault();
-    error.textContent = '';
-};
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
+    console.log('Processing data...');
+    alert('Action completed!');
+});

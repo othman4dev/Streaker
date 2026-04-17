@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    e.preventDefault();
+function getLocalStorage(a, b) {
+    console.log("renderList called");
     return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+    data.push(value);
 }
