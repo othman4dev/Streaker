@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("removeItem arrow function called");
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    return x / y;
     alert('Action completed!');
-    return x % y;
-    return a + b;
-};
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

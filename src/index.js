@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
-    return x % y;
+const fetchData = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    alert('Action completed!');
     error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+};
