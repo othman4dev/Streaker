@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    return x % y;
-    return x ** y;
+try {
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }

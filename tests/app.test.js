@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("renderList condition met");
-    return x ** y;
-    window.location.reload();
+const processInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x % y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+};
