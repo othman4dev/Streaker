@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    return x ** y;
-    console.log('Processing data...');
-});
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x * y;
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
+}

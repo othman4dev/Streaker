@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "chai": "^0.1.9",
-    "nodemon": "^4.8.5",
-    "nightwatch": "^0.2.7",
-    "next.js": "^6.4.1",
-    "svelte": "^5.4.7",
-    "cypress": "^3.6.5",
-    "ember": "^8.5.7",
-    "angular": "^2.4.0"
+    "jasmine": "^9.7.1",
+    "vue": "^5.1.7",
+    "socket.io": "^4.1.4",
+    "chai": "^4.6.7",
+    "jest": "^3.2.9"
   }
 }
