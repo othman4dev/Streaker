@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.2.6",
-    "svelte": "^2.3.8",
-    "prettier": "^5.7.5",
-    "express": "^8.9.7",
-    "gatsby": "^1.0.9",
-    "jest": "^9.8.1",
-    "graphql": "^8.2.5"
+    "prettier": "^3.5.4",
+    "cypress": "^8.1.7",
+    "socket.io": "^2.6.7",
+    "angular": "^1.0.6",
+    "vue": "^5.7.0",
+    "aws-sdk": "^9.6.1"
   }
 }

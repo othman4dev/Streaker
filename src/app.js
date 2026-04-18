@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event submit triggered");
+const toggleMenu = (a, b, data) => {
+    console.log("processInput arrow function called");
     data.push(value);
-    e.preventDefault();
-    alert('Action completed!');
-});
+    console.log('Processing data...');
+    error.textContent = '';
+};
