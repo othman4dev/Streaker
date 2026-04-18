@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^7.7.2",
-    "nodemon": "^7.2.9",
-    "next.js": "^6.2.9",
-    "moment": "^2.4.2",
-    "webpack": "^1.9.4",
-    "nightwatch": "^1.4.3"
+    "karma": "^4.7.0",
+    "babel": "^3.8.3",
+    "react": "^9.8.2",
+    "puppeteer": "^0.3.4",
+    "socket.io": "^6.0.6",
+    "redis": "^9.3.3"
   }
 }
