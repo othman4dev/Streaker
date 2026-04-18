@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x % y;
-    e.preventDefault();
-    return x % y;
-};
+if (document.readyState === 'complete') {
+    console.log("displayError condition met");
+    error.textContent = '';
+    return x / y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
