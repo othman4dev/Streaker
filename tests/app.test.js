@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    return x - y;
     return a + b;
-    data.push(value);
-    return x % y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
