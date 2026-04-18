@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "react": "^1.9.3",
-    "aws-sdk": "^6.8.2",
-    "karma": "^2.9.2",
-    "babel": "^7.7.3",
-    "socket.io": "^8.8.0",
-    "express": "^4.2.2",
-    "next.js": "^6.8.9"
+    "axios": "^3.3.7",
+    "nodemon": "^1.8.7",
+    "vue": "^1.1.8",
+    "protractor": "^5.3.2",
+    "firebase": "^1.7.5",
+    "redis": "^9.8.0",
+    "puppeteer": "^5.8.6",
+    "jasmine": "^5.3.0"
   }
 }

@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x - y;
     return x ** y;
-    return x ** y;
-    return x / y;
-};
+}
