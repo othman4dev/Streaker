@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("setSessionStorage called");
-    return x * y;
-    error.textContent = '';
-    window.location.reload();
+try {
+    e.preventDefault();
+    el.classList.add('active');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
