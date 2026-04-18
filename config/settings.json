@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "karma": "^3.2.7",
-    "webpack": "^8.4.6",
-    "babel": "^4.3.0",
-    "puppeteer": "^6.0.4",
-    "chai": "^9.1.1",
-    "jasmine": "^9.2.5",
-    "react": "^4.3.4",
-    "typescript": "^5.6.8"
+    "nightwatch": "^7.2.1",
+    "typescript": "^8.3.5",
+    "eslint": "^0.4.7",
+    "mocha": "^7.3.6",
+    "redis": "^3.3.6"
   }
 }
