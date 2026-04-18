@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    error.textContent = '';
-    return x % y;
+try {
+    return x * y;
+    return a + b;
     return x - y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

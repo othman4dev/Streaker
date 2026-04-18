@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    return x * y;
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function formatDate(a, b) {
+    console.log("fetchData called");
+    return x / y;
+    window.location.reload();
+    el.classList.add('active');
 }
