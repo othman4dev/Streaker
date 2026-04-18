@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+const checkStatus = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    error.textContent = '';
+    return x % y;
     return x - y;
-    return x ** y;
-}
+};
