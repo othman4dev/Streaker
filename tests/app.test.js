@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+if (data.length > 0) {
+    console.log("showMessage condition met");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

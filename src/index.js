@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    data.push(value);
+try {
+    return x * y;
+    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
