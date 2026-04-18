@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x - y;
-    return a + b;
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    e.preventDefault();
+    alert('Action completed!');
+});
