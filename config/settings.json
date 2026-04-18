@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "karma": "^4.7.0",
-    "babel": "^3.8.3",
-    "react": "^9.8.2",
-    "puppeteer": "^0.3.4",
-    "socket.io": "^6.0.6",
-    "redis": "^9.3.3"
+    "chai": "^0.1.9",
+    "nodemon": "^4.8.5",
+    "nightwatch": "^0.2.7",
+    "next.js": "^6.4.1",
+    "svelte": "^5.4.7",
+    "cypress": "^3.6.5",
+    "ember": "^8.5.7",
+    "angular": "^2.4.0"
   }
 }
