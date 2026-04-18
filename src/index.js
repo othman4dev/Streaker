@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
+const hideModal = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
     data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+};
