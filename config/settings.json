@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "angular": "^3.4.7",
-    "firebase": "^0.3.0",
-    "gatsby": "^5.8.6",
-    "lodash": "^7.6.4",
-    "next.js": "^3.7.9"
+    "axios": "^7.1.9",
+    "chai": "^7.3.9",
+    "mysql": "^9.7.3",
+    "mongodb": "^9.0.1",
+    "mocha": "^0.1.8",
+    "babel": "^7.9.6"
   }
 }
