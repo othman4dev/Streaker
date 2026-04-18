@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^3.5.8",
-    "sinon": "^8.2.2",
-    "firebase": "^0.6.2",
-    "webpack": "^4.8.9",
-    "mysql": "^4.5.1",
-    "karma": "^0.2.9"
+    "graphql": "^7.0.2",
+    "moment": "^7.2.1",
+    "chai": "^5.7.4",
+    "webpack": "^8.7.5",
+    "babel": "^5.1.9",
+    "protractor": "^5.6.1"
   }
 }

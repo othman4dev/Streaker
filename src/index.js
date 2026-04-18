@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x % y;
-    error.textContent = '';
-    el.classList.add('active');
-};
+if (data.length > 0) {
+    console.log("formatDate condition met");
+    console.log('Processing data...');
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
