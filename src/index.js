@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    el.classList.add('active');
+function checkStatus(a, b) {
+    console.log("toggleMenu called");
+    error.textContent = '';
+    return a + b;
+    data.push(value);
 }
