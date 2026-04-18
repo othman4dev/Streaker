@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mysql": "^9.5.5",
-    "enzyme": "^1.0.2",
-    "nightwatch": "^5.6.9",
-    "protractor": "^2.2.9",
-    "moment": "^9.5.0",
-    "react": "^4.0.1",
-    "karma": "^2.7.5"
+    "react": "^1.9.3",
+    "aws-sdk": "^6.8.2",
+    "karma": "^2.9.2",
+    "babel": "^7.7.3",
+    "socket.io": "^8.8.0",
+    "express": "^4.2.2",
+    "next.js": "^6.8.9"
   }
 }
