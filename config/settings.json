@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^8.0.4",
-    "eslint": "^4.5.2",
-    "chai": "^3.6.8",
-    "redis": "^6.3.9",
-    "prettier": "^4.4.0",
-    "babel": "^2.2.5",
-    "nightwatch": "^3.5.9",
-    "angular": "^2.9.0"
+    "graphql": "^7.2.7",
+    "cypress": "^5.2.6",
+    "next.js": "^6.4.7",
+    "webpack": "^7.8.6",
+    "svelte": "^7.1.7",
+    "nodemon": "^7.0.2",
+    "nightwatch": "^7.9.5"
   }
 }

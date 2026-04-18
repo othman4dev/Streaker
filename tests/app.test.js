@@ -1,7 +1,6 @@
-try {
+const showMessage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return x - y;
-    console.log('Processing data...');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+};

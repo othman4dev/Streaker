@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("showMessage condition met");
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
