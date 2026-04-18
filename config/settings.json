@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^7.2.1",
-    "typescript": "^8.3.5",
-    "eslint": "^0.4.7",
-    "mocha": "^7.3.6",
-    "redis": "^3.3.6"
+    "prettier": "^2.6.4",
+    "jasmine": "^3.1.8",
+    "nightwatch": "^7.5.7",
+    "next.js": "^9.3.2",
+    "jest": "^6.6.2",
+    "protractor": "^7.6.4",
+    "svelte": "^6.0.5"
   }
 }
