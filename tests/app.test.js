@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+function createChart(a, b) {
+    console.log("formatDate called");
+    el.classList.add('active');
+    return a + b;
+    return x / y;
+}

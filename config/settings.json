@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^7.2.7",
-    "cypress": "^5.2.6",
-    "next.js": "^6.4.7",
-    "webpack": "^7.8.6",
-    "svelte": "^7.1.7",
-    "nodemon": "^7.0.2",
-    "nightwatch": "^7.9.5"
+    "nightwatch": "^2.7.3",
+    "angular": "^9.3.4",
+    "mysql": "^9.1.8",
+    "nodemon": "^9.0.5",
+    "next.js": "^1.0.8",
+    "mocha": "^1.5.9"
   }
 }
