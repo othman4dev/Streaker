@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.6.0",
-    "nightwatch": "^6.5.7",
-    "prettier": "^7.6.1",
-    "babel": "^0.5.7",
-    "lodash": "^9.9.4"
+    "karma": "^0.9.0",
+    "typescript": "^8.9.4",
+    "next.js": "^9.0.5",
+    "protractor": "^9.2.0",
+    "jasmine": "^1.4.1",
+    "cypress": "^3.9.6",
+    "angular": "^3.8.2"
   }
 }

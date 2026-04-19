@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("hideModal called");
-    alert('Action completed!');
-    data.push(value);
-    return x - y;
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
