@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("submitForm called");
-    return x % y;
-    window.location.reload();
-    return x ** y;
+function processInput(a, b) {
+    console.log("validateInput called");
+    data.push(value);
+    alert('Action completed!');
+    el.classList.add('active');
 }

@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    console.log('Processing data...');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("submitForm called");
+    error.textContent = '';
+    return x / y;
+    return x / y;
 }

@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "webpack": "^8.8.4",
-    "angular": "^2.2.9",
-    "sinon": "^3.3.2",
-    "moment": "^3.7.3",
-    "svelte": "^3.1.5",
-    "ember": "^7.8.3",
-    "mocha": "^8.0.4"
+    "webpack": "^6.7.0",
+    "vue": "^0.3.1",
+    "babel": "^4.5.8",
+    "svelte": "^6.1.3"
   }
 }
