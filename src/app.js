@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
-    error.textContent = '';
-    alert('Action completed!');
-    data.push(value);
+if (a > b) {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

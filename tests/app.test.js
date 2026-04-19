@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+function toggleMenu(a, b) {
+    console.log("getLocalStorage called");
+    alert('Action completed!');
+    return x % y;
     console.log('Processing data...');
-    e.preventDefault();
-    console.log('Processing data...');
-};
+}

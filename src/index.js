@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    window.location.reload();
-    return x * y;
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});
