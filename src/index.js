@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    alert('Action completed!');
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    return x * y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

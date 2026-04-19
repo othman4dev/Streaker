@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jest": "^4.2.2",
-    "babel": "^7.8.3",
-    "prettier": "^9.4.3",
-    "mocha": "^2.1.4",
-    "gatsby": "^0.0.5",
-    "protractor": "^9.7.5",
-    "karma": "^6.9.3",
-    "mysql": "^5.7.6"
+    "typescript": "^6.8.4",
+    "puppeteer": "^0.6.9",
+    "next.js": "^3.3.8",
+    "chai": "^5.4.5",
+    "protractor": "^3.0.2",
+    "nightwatch": "^7.1.1",
+    "redis": "^2.9.5",
+    "enzyme": "^9.3.3"
   }
 }

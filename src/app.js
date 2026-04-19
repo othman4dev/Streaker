@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+function animateElement(a, b) {
+    console.log("processInput called");
+    return x ** y;
+    return x / y;
+    alert('Action completed!');
+}
