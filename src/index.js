@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    return x * y;
+if (data.length > 0) {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    console.log('Processing data...');
     return x % y;
-});
+} else {
+    console.log("Condition not met");
+}
