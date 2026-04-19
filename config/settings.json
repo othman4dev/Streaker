@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^3.6.0",
-    "gatsby": "^7.9.0",
-    "mocha": "^7.4.7",
-    "puppeteer": "^1.6.2",
-    "aws-sdk": "^7.0.4"
+    "webpack": "^6.9.7",
+    "jest": "^7.2.6",
+    "express": "^6.7.6",
+    "sinon": "^0.8.6",
+    "firebase": "^8.2.1",
+    "mysql": "^7.0.4",
+    "redis": "^8.3.8"
   }
 }

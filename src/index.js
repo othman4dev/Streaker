@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    window.location.reload();
-};
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return x % y;
+    error.textContent = '';
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x * y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const saveSettings = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    return x % y;
+};
