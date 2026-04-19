@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x * y;
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 });

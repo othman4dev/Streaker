@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^9.0.8",
-    "ember": "^1.8.8",
-    "cypress": "^2.3.1",
-    "mocha": "^1.5.9",
-    "jest": "^4.7.8"
+    "jest": "^2.8.9",
+    "ember": "^1.5.0",
+    "enzyme": "^0.3.0",
+    "prettier": "^1.3.8",
+    "mocha": "^6.0.4",
+    "nightwatch": "^7.5.3",
+    "sinon": "^8.7.7"
   }
 }
