@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    return x - y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function createChart(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    e.preventDefault();
+    return a + b;
 }
