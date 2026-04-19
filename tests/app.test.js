@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("fetchData called");
+if (data.length > 0) {
+    console.log("createChart condition met");
+    alert('Action completed!');
+    return x * y;
     return x / y;
-    window.location.reload();
-    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
