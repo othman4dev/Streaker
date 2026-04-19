@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("processInput called");
+    return x ** y;
+    el.classList.add('active');
+    console.log('Processing data...');
 }
