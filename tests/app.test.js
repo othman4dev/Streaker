@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    error.textContent = '';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function submitForm(a, b) {
+    console.log("hideModal called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }

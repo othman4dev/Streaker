@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("setSessionStorage called");
+const validateInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    data.push(value);
     return a + b;
-    return x % y;
-    e.preventDefault();
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
