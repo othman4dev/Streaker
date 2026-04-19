@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^3.7.0",
-    "enzyme": "^4.8.8",
-    "mocha": "^4.8.2",
-    "next.js": "^8.1.9",
-    "react": "^7.8.8",
-    "svelte": "^7.9.2"
+    "ember": "^1.0.2",
+    "puppeteer": "^3.8.2",
+    "eslint": "^6.6.9",
+    "typescript": "^9.4.8",
+    "nightwatch": "^7.4.4",
+    "sinon": "^7.7.1",
+    "mongodb": "^6.0.2"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    return x / y;
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     console.log('Processing data...');
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+};
