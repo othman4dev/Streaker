@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^6.8.4",
-    "puppeteer": "^0.6.9",
-    "next.js": "^3.3.8",
-    "chai": "^5.4.5",
-    "protractor": "^3.0.2",
-    "nightwatch": "^7.1.1",
-    "redis": "^2.9.5",
-    "enzyme": "^9.3.3"
+    "webpack": "^8.8.4",
+    "angular": "^2.2.9",
+    "sinon": "^3.3.2",
+    "moment": "^3.7.3",
+    "svelte": "^3.1.5",
+    "ember": "^7.8.3",
+    "mocha": "^8.0.4"
   }
 }
