@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+});

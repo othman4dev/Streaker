@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    error.textContent = '';
     e.preventDefault();
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+});
