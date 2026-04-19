@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("setCookie arrow function called");
+const setSessionStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    data.push(value);
+    return x - y;
+    window.location.reload();
 };
