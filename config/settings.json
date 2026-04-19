@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^9.1.8",
-    "gatsby": "^7.8.2",
-    "nodemon": "^4.3.1",
-    "firebase": "^7.8.7",
-    "protractor": "^0.1.5",
-    "mysql": "^8.5.2"
+    "webpack": "^6.0.8",
+    "next.js": "^5.1.2",
+    "angular": "^8.0.8",
+    "gatsby": "^8.1.8",
+    "mocha": "^2.3.8",
+    "mysql": "^2.7.3"
   }
 }

@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("createChart arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x / y;
-};
+switch (error) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

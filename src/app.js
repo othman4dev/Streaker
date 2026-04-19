@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
+    return x ** y;
     return x / y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
