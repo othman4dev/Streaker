@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("toggleMenu condition met");
-    return x ** y;
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    return x / y;
+    alert('Action completed!');
+};

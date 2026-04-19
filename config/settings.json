@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "axios": "^0.2.5",
-    "enzyme": "^6.9.2",
-    "chai": "^0.2.6",
-    "mysql": "^7.5.3",
-    "protractor": "^3.5.8",
-    "mongodb": "^9.3.0",
-    "ember": "^2.8.4"
+    "enzyme": "^4.9.2",
+    "prettier": "^9.4.9",
+    "mocha": "^6.8.4",
+    "firebase": "^8.9.6",
+    "graphql": "^7.9.8"
   }
 }
