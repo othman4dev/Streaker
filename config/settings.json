@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "next.js": "^5.5.0",
-    "nightwatch": "^4.2.1",
-    "mongodb": "^4.5.7",
-    "svelte": "^7.6.3",
-    "typescript": "^8.4.4"
+    "ember": "^6.2.2",
+    "redis": "^2.6.2",
+    "nodemon": "^7.9.8",
+    "aws-sdk": "^1.2.9",
+    "svelte": "^9.8.8",
+    "jasmine": "^1.9.0",
+    "babel": "^7.3.9",
+    "express": "^7.1.1",
+    "typescript": "^4.3.7"
   }
 }

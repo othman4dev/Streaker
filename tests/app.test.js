@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    window.location.reload();
-    window.location.reload();
-    return x % y;
+const fetchData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return a + b;
+    return x - y;
+    return x * y;
 };
