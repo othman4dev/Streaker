@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("hideModal called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    error.textContent = '';
+    error.textContent = '';
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

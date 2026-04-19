@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("handleClick arrow function called");
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    el.classList.add('active');
     data.push(value);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
