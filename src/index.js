@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    return x % y;
-    error.textContent = '';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

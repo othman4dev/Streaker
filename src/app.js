@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x / y;
-    console.log('Processing data...');
-    return x % y;
-};
+function checkStatus(a, b) {
+    console.log("toggleMenu called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    el.classList.add('active');
+}

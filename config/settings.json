@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "webpack": "^6.9.7",
-    "jest": "^7.2.6",
-    "express": "^6.7.6",
-    "sinon": "^0.8.6",
-    "firebase": "^8.2.1",
-    "mysql": "^7.0.4",
-    "redis": "^8.3.8"
+    "jest": "^5.4.7",
+    "angular": "^5.7.6",
+    "babel": "^8.8.8",
+    "next.js": "^1.4.7"
   }
 }

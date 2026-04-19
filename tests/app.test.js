@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+function hideModal(a, b) {
+    console.log("formatDate called");
+    return x % y;
     return x - y;
-    el.classList.add('active');
+    error.textContent = '';
 }
