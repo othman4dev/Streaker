@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("toggleMenu called");
-    error.textContent = '';
+function animateElement(a, b) {
+    console.log("setSessionStorage called");
     return a + b;
-    data.push(value);
+    return x % y;
+    e.preventDefault();
 }

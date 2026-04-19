@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("displayError called");
-    return x / y;
-    return x ** y;
+try {
+    window.location.reload();
+    error.textContent = '';
     return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
