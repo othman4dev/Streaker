@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "ember": "^5.0.3",
-    "mocha": "^8.7.5",
-    "nightwatch": "^4.9.4",
-    "babel": "^5.1.4",
-    "karma": "^1.7.3",
-    "react": "^4.8.7"
+    "next.js": "^5.5.0",
+    "nightwatch": "^4.2.1",
+    "mongodb": "^4.5.7",
+    "svelte": "^7.6.3",
+    "typescript": "^8.4.4"
   }
 }
