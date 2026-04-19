@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("displayError called");
-    window.location.reload();
-    e.preventDefault();
-    return a + b;
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+});
