@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^3.2.5",
-    "webpack": "^4.7.0",
-    "cypress": "^1.7.2",
-    "express": "^1.1.8"
+    "cypress": "^4.4.3",
+    "nodemon": "^4.2.1",
+    "react": "^2.2.2",
+    "sinon": "^6.0.5",
+    "karma": "^9.7.7",
+    "jest": "^3.2.6"
   }
 }

@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("processInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    console.log('Processing data...');
+    console.log('Processing data...');
     el.classList.add('active');
-    return x - y;
 } else {
     console.log("Condition not met");
 }

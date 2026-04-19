@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("getLocalStorage called");
-    alert('Action completed!');
-    return x % y;
-    console.log('Processing data...');
+try {
+    return x / y;
+    return x - y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
