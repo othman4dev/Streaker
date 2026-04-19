@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    el.classList.add('active');
+switch (el) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("updateUI called");
+    return x % y;
+    data.push(value);
+    error.textContent = '';
 }

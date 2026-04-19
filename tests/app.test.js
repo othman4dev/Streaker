@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("formatDate called");
-    return x % y;
-    return x - y;
-    error.textContent = '';
+try {
+    data.push(value);
+    e.preventDefault();
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
