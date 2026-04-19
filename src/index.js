@@ -1,7 +1,6 @@
-try {
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
     return x * y;
-    error.textContent = '';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+});
