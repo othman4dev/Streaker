@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    return x / y;
-    alert('Action completed!');
-};
+switch (a) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
