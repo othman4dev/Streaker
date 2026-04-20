@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x / y;
     el.classList.add('active');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+};

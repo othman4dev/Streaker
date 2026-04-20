@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    return a + b;
-    return x ** y;
-});
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    alert('Action completed!');
+    console.log('Processing data...');
+}
