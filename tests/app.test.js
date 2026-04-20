@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    error.textContent = '';
-    window.location.reload();
+switch (y) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

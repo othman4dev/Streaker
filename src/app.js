@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    console.log('Processing data...');
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-});
+    window.location.reload();
+    e.preventDefault();
+}

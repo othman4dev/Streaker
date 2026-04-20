@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x % y;
-    el.classList.add('active');
-}
+const fetchData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    window.location.reload();
+    console.log('Processing data...');
+    return x * y;
+};
