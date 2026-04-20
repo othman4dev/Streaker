@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x % y;
-    return x / y;
-    window.location.reload();
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    alert('Action completed!');
+    data.push(value);
 };

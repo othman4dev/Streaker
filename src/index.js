@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    error.textContent = '';
-};
+function submitForm(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
+    alert('Action completed!');
+    data.push(value);
+}
