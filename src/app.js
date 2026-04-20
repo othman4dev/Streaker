@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
-    alert('Action completed!');
-    data.push(value);
+const submitForm = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x / y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 };
