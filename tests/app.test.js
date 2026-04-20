@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    console.log('Processing data...');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("displayError condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
