@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event click triggered");
+const handleClick = (a, b, data) => {
+    console.log("loadData arrow function called");
+    data.push(value);
     alert('Action completed!');
-    return a + b;
-    el.classList.add('active');
-});
+    console.log('Processing data...');
+};
