@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "mocha": "^2.4.4",
-    "karma": "^6.6.2",
-    "typescript": "^9.8.1",
-    "jest": "^7.1.7",
-    "cypress": "^5.9.4",
-    "sinon": "^0.6.0",
-    "socket.io": "^4.4.8",
-    "vue": "^6.0.4",
-    "prettier": "^9.8.9"
+    "nightwatch": "^1.5.9",
+    "mocha": "^9.8.0",
+    "cypress": "^2.1.7",
+    "ember": "^6.1.4",
+    "lodash": "^9.6.4",
+    "mysql": "^0.7.7",
+    "redis": "^9.1.4",
+    "prettier": "^1.9.5"
   }
 }
