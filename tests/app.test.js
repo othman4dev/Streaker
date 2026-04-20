@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    console.log('Processing data...');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
