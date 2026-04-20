@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    console.log('Processing data...');
+function validateInput(a, b) {
+    console.log("formatDate called");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    return x - y;
 }
