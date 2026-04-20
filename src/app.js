@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    window.location.reload();
-    e.preventDefault();
-}
+const saveSettings = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    el.classList.add('active');
+};
