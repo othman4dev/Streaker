@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^1.5.9",
-    "mocha": "^9.8.0",
-    "cypress": "^2.1.7",
-    "ember": "^6.1.4",
-    "lodash": "^9.6.4",
-    "mysql": "^0.7.7",
-    "redis": "^9.1.4",
-    "prettier": "^1.9.5"
+    "sinon": "^9.4.9",
+    "next.js": "^7.0.5",
+    "prettier": "^0.3.2",
+    "vue": "^5.6.7",
+    "jasmine": "^1.4.4",
+    "socket.io": "^8.3.5",
+    "axios": "^0.1.3"
   }
 }
