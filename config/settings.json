@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^2.4.2",
-    "angular": "^2.1.9",
-    "svelte": "^8.5.4",
-    "mocha": "^0.6.1",
-    "nodemon": "^4.9.5"
+    "sinon": "^0.1.0",
+    "babel": "^2.5.9",
+    "chai": "^6.1.7",
+    "jest": "^4.4.8",
+    "mongodb": "^4.8.4",
+    "eslint": "^7.5.8",
+    "cypress": "^5.7.0"
   }
 }

@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("formatDate called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x - y;
-}
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    error.textContent = '';
+};
