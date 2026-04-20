@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    data.push(value);
-    return x ** y;
-    alert('Action completed!');
-});
+const removeItem = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+};

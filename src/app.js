@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("displayError called");
-    alert('Action completed!');
-    return x * y;
-    return x - y;
+try {
+    return a + b;
+    el.classList.add('active');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
