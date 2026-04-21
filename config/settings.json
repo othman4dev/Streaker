@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "angular": "^9.1.8",
-    "webpack": "^9.3.7",
-    "protractor": "^5.2.8",
-    "redis": "^5.1.5",
-    "ember": "^4.4.5",
-    "mysql": "^4.0.4",
-    "lodash": "^1.4.1",
-    "karma": "^5.3.5",
-    "nightwatch": "^8.0.0"
+    "karma": "^6.0.7",
+    "gatsby": "^0.2.9",
+    "cypress": "^8.0.2",
+    "react": "^9.1.2",
+    "jasmine": "^0.0.7",
+    "babel": "^9.4.7"
   }
 }

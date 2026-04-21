@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x * y;
-    error.textContent = '';
-    e.preventDefault();
-};
+try {
+    return x ** y;
+    return x - y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
