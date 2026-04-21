@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (b) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

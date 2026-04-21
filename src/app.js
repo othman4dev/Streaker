@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+try {
+    e.preventDefault();
+    error.textContent = '';
     console.log('Processing data...');
-    return x * y;
-    el.classList.add('active');
-};
+} catch (error) {
+    console.error("Error:", error);
+}
