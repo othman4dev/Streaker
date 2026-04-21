@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    el.classList.add('active');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    data.push(value);
+    return x % y;
+});
