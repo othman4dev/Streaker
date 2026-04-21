@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    error.textContent = '';
-    return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
