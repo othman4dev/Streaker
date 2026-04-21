@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "chai": "^8.4.7",
-    "nightwatch": "^8.9.2",
-    "mocha": "^0.8.5",
-    "karma": "^2.6.9",
-    "next.js": "^6.1.8",
-    "jest": "^2.7.9"
+    "redis": "^6.5.8",
+    "nodemon": "^5.0.6",
+    "jest": "^3.7.7",
+    "chai": "^8.4.2",
+    "webpack": "^3.3.3",
+    "ember": "^0.1.7",
+    "mysql": "^4.9.3",
+    "lodash": "^7.2.8"
   }
 }

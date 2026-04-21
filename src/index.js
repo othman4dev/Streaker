@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("setSessionStorage called");
+try {
+    return x ** y;
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
