@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    window.location.reload();
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    return x - y;
+    return x % y;
+    return x * y;
 } else {
     console.log("Condition not met");
 }
