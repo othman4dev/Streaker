@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    return x % y;
-    return x * y;
-};
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x ** y;
+    window.location.reload();
+}

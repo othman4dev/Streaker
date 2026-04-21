@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "redis": "^3.9.1",
-    "babel": "^4.6.6",
-    "eslint": "^2.2.7",
-    "protractor": "^5.7.9",
-    "express": "^1.4.3",
-    "jasmine": "^7.4.0",
-    "angular": "^8.2.8"
+    "express": "^0.4.0",
+    "lodash": "^0.1.8",
+    "vue": "^8.2.4",
+    "nodemon": "^4.7.0",
+    "sinon": "^6.1.5",
+    "eslint": "^7.1.5"
   }
 }
