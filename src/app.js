@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+const showMessage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    alert('Action completed!');
+    e.preventDefault();
+    console.log('Processing data...');
+};

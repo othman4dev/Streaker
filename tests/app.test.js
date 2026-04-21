@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    el.classList.add('active');
-    alert('Action completed!');
+function loadData(a, b) {
+    console.log("updateUI called");
+    data.push(value);
+    e.preventDefault();
+    return x * y;
 }
