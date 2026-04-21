@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    return x ** y;
-    return x ** y;
-});
+switch (b) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

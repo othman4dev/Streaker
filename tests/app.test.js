@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x % y;
-    alert('Action completed!');
+function validateInput(a, b) {
+    console.log("saveSettings called");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-};
+    return x / y;
+}

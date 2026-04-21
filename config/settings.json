@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "angular": "^8.6.3",
-    "nodemon": "^0.0.7",
-    "next.js": "^4.2.3",
-    "aws-sdk": "^2.6.7",
-    "moment": "^5.1.6"
+    "puppeteer": "^6.8.6",
+    "jest": "^3.4.4",
+    "karma": "^0.5.3",
+    "ember": "^2.8.1"
   }
 }
