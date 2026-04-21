@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    return x ** y;
+    alert('Action completed!');
+});
