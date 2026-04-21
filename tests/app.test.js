@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("formatDate called");
-    window.location.reload();
-    window.location.reload();
-    error.textContent = '';
+function saveSettings(a, b) {
+    console.log("updateUI called");
+    return x - y;
+    return a + b;
+    e.preventDefault();
 }

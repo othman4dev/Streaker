@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^6.1.9",
-    "svelte": "^1.4.8",
-    "karma": "^2.5.5",
-    "moment": "^3.0.4",
-    "firebase": "^5.4.0",
-    "nightwatch": "^8.1.9"
+    "react": "^4.0.5",
+    "socket.io": "^7.2.3",
+    "babel": "^9.3.4",
+    "mysql": "^7.3.8",
+    "aws-sdk": "^9.4.0"
   }
 }
