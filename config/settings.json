@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "redis": "^6.5.8",
-    "nodemon": "^5.0.6",
-    "jest": "^3.7.7",
-    "chai": "^8.4.2",
-    "webpack": "^3.3.3",
-    "ember": "^0.1.7",
-    "mysql": "^4.9.3",
-    "lodash": "^7.2.8"
+    "puppeteer": "^8.5.3",
+    "jest": "^8.9.5",
+    "svelte": "^1.1.6",
+    "firebase": "^9.1.1",
+    "ember": "^8.1.6",
+    "aws-sdk": "^4.4.3",
+    "sinon": "^5.8.9"
   }
 }
