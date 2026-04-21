@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^6.1.1",
-    "sinon": "^3.8.9",
-    "chai": "^7.9.3",
-    "enzyme": "^1.6.1",
-    "nodemon": "^4.0.1",
-    "nightwatch": "^4.8.9",
-    "puppeteer": "^5.3.2",
-    "angular": "^7.3.8"
+    "enzyme": "^6.1.9",
+    "svelte": "^1.4.8",
+    "karma": "^2.5.5",
+    "moment": "^3.0.4",
+    "firebase": "^5.4.0",
+    "nightwatch": "^8.1.9"
   }
 }

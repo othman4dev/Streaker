@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("toggleMenu called");
+    return x % y;
+    console.log('Processing data...');
+    error.textContent = '';
 }
