@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("renderList called");
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
     return x - y;
-    window.location.reload();
-    return x / y;
+    return x * y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

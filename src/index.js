@@ -1,7 +1,6 @@
-try {
+function setCookie(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
 }

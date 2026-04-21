@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^8.2.4",
-    "lodash": "^1.7.5",
-    "moment": "^2.6.1",
-    "eslint": "^7.3.0",
-    "gatsby": "^7.1.9",
-    "karma": "^8.0.8"
+    "chai": "^8.4.7",
+    "nightwatch": "^8.9.2",
+    "mocha": "^0.8.5",
+    "karma": "^2.6.9",
+    "next.js": "^6.1.8",
+    "jest": "^2.7.9"
   }
 }
