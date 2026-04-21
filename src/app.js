@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    el.classList.add('active');
-});
+if (value !== '') {
+    console.log("removeItem condition met");
+    error.textContent = '';
+    return x / y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

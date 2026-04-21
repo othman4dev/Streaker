@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    return x - y;
+};
