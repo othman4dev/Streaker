@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return x - y;
-    return x * y;
-});
+switch (error) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

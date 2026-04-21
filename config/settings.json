@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^7.9.5",
-    "protractor": "^4.6.6",
-    "jest": "^0.1.7"
+    "cypress": "^5.8.6",
+    "next.js": "^5.2.5",
+    "express": "^0.3.5",
+    "enzyme": "^9.2.0",
+    "prettier": "^4.0.2"
   }
 }
