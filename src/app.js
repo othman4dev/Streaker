@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("animateElement arrow function called");
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
     error.textContent = '';
-    alert('Action completed!');
-    console.log('Processing data...');
-};
+    return x - y;
+    return x * y;
+});

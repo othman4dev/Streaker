@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
+const updateUI = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x / y;
     return x * y;
-    return a + b;
-    error.textContent = '';
-});
+    return x % y;
+};

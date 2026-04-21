@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("showMessage called");
-    window.location.reload();
-    return a + b;
+const setCookie = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x - y;
     error.textContent = '';
-}
+    window.location.reload();
+};

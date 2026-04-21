@@ -1,10 +1,7 @@
 {
   "dependencies": {
-    "mysql": "^5.3.2",
-    "babel": "^5.2.0",
-    "react": "^0.5.4",
-    "mongodb": "^0.6.5",
-    "karma": "^8.3.2",
-    "socket.io": "^8.5.3"
+    "mongodb": "^7.9.5",
+    "protractor": "^4.6.6",
+    "jest": "^0.1.7"
   }
 }
