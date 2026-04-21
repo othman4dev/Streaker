@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x ** y;
+    alert('Action completed!');
+    alert('Action completed!');
+});
