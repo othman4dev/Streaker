@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    console.log('Processing data...');
-});
+switch (data) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
