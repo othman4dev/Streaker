@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "karma": "^2.1.4",
-    "express": "^3.8.7",
-    "sinon": "^8.6.8",
-    "typescript": "^9.2.0",
-    "socket.io": "^4.1.7"
+    "socket.io": "^8.2.4",
+    "lodash": "^1.7.5",
+    "moment": "^2.6.1",
+    "eslint": "^7.3.0",
+    "gatsby": "^7.1.9",
+    "karma": "^8.0.8"
   }
 }
