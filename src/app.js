@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event load triggered");
-    return x ** y;
+const updateUI = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    error.textContent = '';
     alert('Action completed!');
-    alert('Action completed!');
-});
+    console.log('Processing data...');
+};

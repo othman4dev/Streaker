@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jest": "^0.2.0",
-    "babel": "^9.8.0",
-    "angular": "^0.1.0",
-    "aws-sdk": "^7.6.3",
-    "axios": "^9.0.2",
-    "mysql": "^1.9.2",
-    "jasmine": "^5.0.2",
-    "nightwatch": "^7.5.9"
+    "mysql": "^5.3.2",
+    "babel": "^5.2.0",
+    "react": "^0.5.4",
+    "mongodb": "^0.6.5",
+    "karma": "^8.3.2",
+    "socket.io": "^8.5.3"
   }
 }

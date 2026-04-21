@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("showMessage called");
+    window.location.reload();
+    return a + b;
+    error.textContent = '';
 }
