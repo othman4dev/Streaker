@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    el.classList.add('active');
+    data.push(value);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
