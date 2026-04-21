@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
-    data.push(value);
-    alert('Action completed!');
-    console.log('Processing data...');
-};
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    el.classList.add('active');
+});
