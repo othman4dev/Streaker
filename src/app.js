@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
-    console.log('Processing data...');
-};
+switch (value) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    e.preventDefault();
-    return x * y;
-}
+const formatDate = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x % y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};

@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    window.location.reload();
-    return a + b;
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    return x ** y;
+    return x ** y;
 });
