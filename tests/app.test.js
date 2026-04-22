@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x - y;
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x ** y;
     el.classList.add('active');
-    error.textContent = '';
-};
+    data.push(value);
+});

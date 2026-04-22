@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("formatDate called");
-    return x % y;
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
     return x * y;
     console.log('Processing data...');
-}
+};
