@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x ** y;
+    window.location.reload();
+    error.textContent = '';
+};

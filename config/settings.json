@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "gatsby": "^9.4.3",
-    "moment": "^7.2.6",
-    "axios": "^3.5.9",
-    "enzyme": "^2.4.3",
-    "socket.io": "^8.9.5",
-    "mongodb": "^4.0.8",
-    "cypress": "^5.0.7",
-    "ember": "^6.6.1"
+    "chai": "^7.4.3",
+    "cypress": "^6.6.2",
+    "redis": "^7.6.7",
+    "mongodb": "^9.5.0"
   }
 }

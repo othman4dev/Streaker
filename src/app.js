@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    e.preventDefault();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    el.classList.add('active');
+    alert('Action completed!');
+});
