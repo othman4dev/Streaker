@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    return x % y;
-    return a + b;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    error.textContent = '';
+    return x / y;
+    console.log('Processing data...');
+});

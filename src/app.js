@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    console.log('Processing data...');
-    return a + b;
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    return x - y;
+    error.textContent = '';
+    el.classList.add('active');
 });

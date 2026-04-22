@@ -1,6 +1,7 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+try {
     return x * y;
-    e.preventDefault();
+    alert('Action completed!');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
