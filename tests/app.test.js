@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x ** y;
+};

@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    error.textContent = '';
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    return x / y;
+    return x ** y;
 });

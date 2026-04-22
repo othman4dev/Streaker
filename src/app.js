@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    el.classList.add('active');
-    return a + b;
-    return a + b;
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
+    return x - y;
+    error.textContent = '';
 };
