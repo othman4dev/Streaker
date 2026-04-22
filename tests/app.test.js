@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event resize triggered");
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x ** y;
     el.classList.add('active');
-    data.push(value);
-});
+    return x - y;
+};

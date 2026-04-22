@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    return x * y;
-    console.log('Processing data...');
-};
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+}

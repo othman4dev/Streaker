@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^4.7.1",
-    "mocha": "^6.4.6",
-    "jest": "^7.5.7",
-    "webpack": "^5.4.7",
-    "nodemon": "^9.0.5"
+    "jest": "^6.1.4",
+    "protractor": "^1.0.5",
+    "moment": "^5.5.6",
+    "babel": "^8.7.1",
+    "sinon": "^3.0.3",
+    "puppeteer": "^6.7.4",
+    "jasmine": "^1.8.0"
   }
 }
