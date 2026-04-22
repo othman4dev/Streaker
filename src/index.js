@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x - y;
+if (value !== '') {
+    console.log("loadData condition met");
+    return x % y;
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
