@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x % y;
-    return x - y;
-    error.textContent = '';
-};
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    console.log('Processing data...');
+    alert('Action completed!');
+});

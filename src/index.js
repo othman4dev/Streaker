@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event resize triggered");
-    return x - y;
-    return x / y;
-    return x ** y;
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 });

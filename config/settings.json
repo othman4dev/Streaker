@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^9.6.2",
-    "protractor": "^2.0.9",
-    "mysql": "^5.0.5",
-    "react": "^2.6.4",
-    "express": "^3.4.3",
-    "ember": "^7.6.5",
-    "moment": "^8.0.8"
+    "moment": "^9.0.2",
+    "ember": "^5.7.5",
+    "jest": "^3.1.9",
+    "jasmine": "^3.3.8",
+    "svelte": "^8.7.6"
   }
 }
