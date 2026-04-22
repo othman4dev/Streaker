@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x - y;
+    el.classList.add('active');
+    error.textContent = '';
+};
