@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    return x - y;
-    error.textContent = '';
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     el.classList.add('active');
-});
+    return a + b;
+    return a + b;
+};
