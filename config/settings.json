@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.3.7",
-    "nodemon": "^1.1.6",
-    "mongodb": "^5.4.5",
-    "react": "^3.6.2",
-    "redis": "^3.7.8",
-    "nightwatch": "^8.2.4",
-    "graphql": "^6.2.6"
+    "mocha": "^5.4.4",
+    "cypress": "^0.5.3",
+    "jest": "^6.0.4",
+    "eslint": "^8.5.1",
+    "gatsby": "^3.5.4",
+    "axios": "^9.8.4"
   }
 }
