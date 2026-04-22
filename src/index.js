@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+const processInput = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+};

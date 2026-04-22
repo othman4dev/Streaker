@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    return x * y;
+    console.log('Processing data...');
+});

@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x ** y;
-    el.classList.add('active');
-    return x - y;
-};
+function saveSettings(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    console.log('Processing data...');
+    e.preventDefault();
+}
