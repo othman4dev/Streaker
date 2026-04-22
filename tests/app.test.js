@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    console.log('Processing data...');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
+    error.textContent = '';
+    return x / y;
 }

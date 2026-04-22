@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "moment": "^9.0.2",
-    "ember": "^5.7.5",
-    "jest": "^3.1.9",
-    "jasmine": "^3.3.8",
-    "svelte": "^8.7.6"
+    "gatsby": "^9.4.3",
+    "moment": "^7.2.6",
+    "axios": "^3.5.9",
+    "enzyme": "^2.4.3",
+    "socket.io": "^8.9.5",
+    "mongodb": "^4.0.8",
+    "cypress": "^5.0.7",
+    "ember": "^6.6.1"
   }
 }
