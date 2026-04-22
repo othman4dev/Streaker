@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
-    e.preventDefault();
-    return x - y;
-};
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+}
