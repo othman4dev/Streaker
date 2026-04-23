@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^4.4.5",
-    "lodash": "^5.4.7",
-    "mocha": "^0.7.9",
-    "cypress": "^5.9.4",
-    "svelte": "^4.3.9",
-    "axios": "^1.4.3",
-    "jasmine": "^1.8.5",
-    "next.js": "^9.8.8"
+    "express": "^7.5.2",
+    "sinon": "^2.9.0",
+    "enzyme": "^0.8.1",
+    "jest": "^1.4.8",
+    "moment": "^8.8.9"
   }
 }

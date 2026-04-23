@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x ** y;
-    return a + b;
-    alert('Action completed!');
-};
+document.querySelector(".modal").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    return x % y;
+    e.preventDefault();
+});

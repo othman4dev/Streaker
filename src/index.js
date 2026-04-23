@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("toggleMenu condition met");
     window.location.reload();
-};
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
