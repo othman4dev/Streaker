@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+function setSessionStorage(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
     error.textContent = '';
-    e.preventDefault();
-};
+    return a + b;
+}

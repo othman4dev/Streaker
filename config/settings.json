@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "graphql": "^8.9.7",
-    "jest": "^6.8.4",
-    "chai": "^6.7.1",
-    "svelte": "^7.6.3",
-    "express": "^6.7.8"
+    "jest": "^7.8.9",
+    "prettier": "^2.4.6",
+    "jasmine": "^1.9.6",
+    "moment": "^9.9.1",
+    "karma": "^3.1.1",
+    "nightwatch": "^5.7.8",
+    "webpack": "^1.2.9",
+    "axios": "^1.6.9",
+    "mocha": "^6.7.3"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    return x * y;
-    console.log('Processing data...');
-});
+switch (error) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

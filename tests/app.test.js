@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    console.log('Processing data...');
-    e.preventDefault();
+switch (x) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
