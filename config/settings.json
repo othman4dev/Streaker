@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^4.4.9",
-    "express": "^2.8.7",
-    "next.js": "^9.0.5",
-    "firebase": "^0.8.8",
-    "angular": "^2.7.8",
-    "prettier": "^8.9.9",
-    "mongodb": "^3.1.1",
-    "webpack": "^9.5.8"
+    "jest": "^0.0.2",
+    "typescript": "^1.5.2",
+    "vue": "^0.2.1",
+    "firebase": "^5.7.0",
+    "puppeteer": "^4.0.0",
+    "graphql": "^4.9.1",
+    "protractor": "^6.2.8"
   }
 }
