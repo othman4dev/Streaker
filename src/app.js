@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    return x % y;
-    e.preventDefault();
-});
+switch (e) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}
