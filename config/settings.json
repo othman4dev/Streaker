@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "react": "^4.0.5",
-    "socket.io": "^7.2.3",
-    "babel": "^9.3.4",
-    "mysql": "^7.3.8",
-    "aws-sdk": "^9.4.0"
+    "redis": "^9.1.9",
+    "eslint": "^8.6.7",
+    "sinon": "^5.2.1",
+    "aws-sdk": "^2.2.3",
+    "typescript": "^7.6.4",
+    "nightwatch": "^9.4.8",
+    "svelte": "^3.9.4"
   }
 }

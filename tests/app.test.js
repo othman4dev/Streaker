@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("updateUI called");
-    return x - y;
-    return a + b;
-    e.preventDefault();
-}
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    return x / y;
+    el.classList.add('active');
+});
