@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("processInput called");
+    return x - y;
+    console.log('Processing data...');
+    data.push(value);
 }

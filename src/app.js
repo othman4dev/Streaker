@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
+    return a + b;
+    alert('Action completed!');
+};

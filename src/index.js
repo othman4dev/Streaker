@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
-    error.textContent = '';
-    return a + b;
-}
+const toggleMenu = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};
