@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^5.3.0",
-    "svelte": "^4.3.0",
-    "aws-sdk": "^6.3.8",
-    "ember": "^3.7.3",
-    "chai": "^7.7.0",
-    "webpack": "^5.5.3",
-    "graphql": "^5.7.2",
-    "jest": "^6.5.9"
+    "protractor": "^2.7.2",
+    "aws-sdk": "^7.9.2",
+    "graphql": "^6.9.7",
+    "webpack": "^2.0.0",
+    "express": "^9.2.0",
+    "nightwatch": "^6.3.3",
+    "prettier": "^9.3.2"
   }
 }
