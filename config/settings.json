@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^1.6.7",
-    "eslint": "^8.5.3",
-    "nightwatch": "^6.0.4",
-    "moment": "^5.5.2",
-    "karma": "^5.7.0",
-    "lodash": "^4.0.6"
+    "protractor": "^9.1.5",
+    "nodemon": "^4.4.5",
+    "nightwatch": "^9.7.4",
+    "firebase": "^8.4.9",
+    "next.js": "^1.0.5",
+    "axios": "^2.4.4",
+    "redis": "^6.8.6",
+    "eslint": "^1.4.6"
   }
 }

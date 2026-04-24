@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("createChart called");
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    return x * y;
     return x - y;
-    error.textContent = '';
-    error.textContent = '';
-}
+    return a + b;
+});
