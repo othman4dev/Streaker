@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    return x ** y;
-    return x ** y;
-});
+function submitForm(a, b) {
+    console.log("removeItem called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x - y;
+}

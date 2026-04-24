@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^5.0.2",
-    "graphql": "^2.6.3",
-    "ember": "^2.6.6",
-    "sinon": "^9.8.1",
-    "svelte": "^1.5.3",
-    "mocha": "^4.5.0"
+    "socket.io": "^3.1.2",
+    "react": "^3.1.1",
+    "nightwatch": "^8.8.8",
+    "prettier": "^0.7.3",
+    "babel": "^9.8.6",
+    "puppeteer": "^2.5.3",
+    "jest": "^2.5.8",
+    "cypress": "^4.7.9",
+    "webpack": "^5.0.9"
   }
 }

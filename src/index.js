@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("renderList condition met");
-    return x * y;
-    return x / y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
