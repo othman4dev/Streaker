@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    el.classList.add('active');
     data.push(value);
-    return a + b;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

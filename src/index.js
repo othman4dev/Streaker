@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("createChart called");
-    return x % y;
-    e.preventDefault();
-    return x % y;
+if (x === y) {
+    console.log("renderList condition met");
+    return x - y;
+    alert('Action completed!');
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

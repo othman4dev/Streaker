@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^3.8.1",
-    "jasmine": "^6.6.1",
-    "mysql": "^7.9.5",
-    "redis": "^3.3.8",
-    "express": "^5.8.6"
+    "axios": "^4.4.0",
+    "jest": "^5.6.3",
+    "sinon": "^5.4.2",
+    "eslint": "^4.4.1",
+    "typescript": "^9.9.6",
+    "lodash": "^4.4.4"
   }
 }
