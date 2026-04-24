@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("load", function() {
-    console.log("Event load triggered");
-    return x - y;
-    el.classList.add('active');
-    return x % y;
-});
+function loadData(a, b) {
+    console.log("fetchData called");
+    return x / y;
+    return a + b;
+    return x * y;
+}

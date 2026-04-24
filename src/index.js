@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    return x % y;
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

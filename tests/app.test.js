@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }
