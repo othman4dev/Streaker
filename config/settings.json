@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^3.1.2",
-    "react": "^3.1.1",
-    "nightwatch": "^8.8.8",
-    "prettier": "^0.7.3",
-    "babel": "^9.8.6",
-    "puppeteer": "^2.5.3",
-    "jest": "^2.5.8",
-    "cypress": "^4.7.9",
-    "webpack": "^5.0.9"
+    "nightwatch": "^0.8.9",
+    "sinon": "^0.3.8",
+    "moment": "^7.4.6",
+    "mocha": "^9.3.4",
+    "redis": "^3.9.4",
+    "axios": "^4.6.8",
+    "next.js": "^7.1.8",
+    "vue": "^5.8.7"
   }
 }

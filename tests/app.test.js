@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
-    e.preventDefault();
-    alert('Action completed!');
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event change triggered");
+    return x % y;
+    el.classList.add('active');
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+});
