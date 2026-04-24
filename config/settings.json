@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^8.1.6",
-    "axios": "^1.0.2",
-    "karma": "^3.9.8",
-    "chai": "^2.0.2",
-    "jest": "^5.4.0",
-    "protractor": "^9.4.0"
+    "vue": "^7.2.7",
+    "cypress": "^6.6.2",
+    "mongodb": "^7.1.0",
+    "jest": "^1.7.6",
+    "moment": "^3.4.8",
+    "protractor": "^9.0.0",
+    "ember": "^2.1.3"
   }
 }

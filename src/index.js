@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x * y;
-    return x * y;
+if (x !== y) {
+    console.log("checkStatus condition met");
+    window.location.reload();
+    console.log('Processing data...');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
