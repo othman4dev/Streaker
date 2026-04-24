@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    return a + b;
     console.log('Processing data...');
-    window.location.reload();
-    alert('Action completed!');
-};
+});

@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("validateInput arrow function called");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     window.location.reload();
-    return a + b;
-    return a + b;
-};
+    document.body.style.backgroundColor = 'lightblue';
+}
