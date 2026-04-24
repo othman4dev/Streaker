@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("createChart called");
+    return x - y;
+    error.textContent = '';
+    error.textContent = '';
 }

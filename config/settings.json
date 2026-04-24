@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^5.8.1",
-    "protractor": "^6.2.6",
-    "vue": "^6.7.0",
-    "lodash": "^8.8.2",
-    "express": "^2.1.2"
+    "puppeteer": "^1.6.7",
+    "eslint": "^8.5.3",
+    "nightwatch": "^6.0.4",
+    "moment": "^5.5.2",
+    "karma": "^5.7.0",
+    "lodash": "^4.0.6"
   }
 }

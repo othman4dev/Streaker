@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
+function removeItem(a, b) {
+    console.log("submitForm called");
+    e.preventDefault();
+    return x / y;
     return x ** y;
 }
