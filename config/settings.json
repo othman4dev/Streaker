@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.7.5",
-    "enzyme": "^9.3.2",
-    "mocha": "^2.7.0",
-    "eslint": "^7.6.5",
-    "karma": "^4.0.7",
-    "cypress": "^0.4.0",
-    "webpack": "^1.0.6"
+    "cypress": "^3.8.1",
+    "jasmine": "^6.6.1",
+    "mysql": "^7.9.5",
+    "redis": "^3.3.8",
+    "express": "^5.8.6"
   }
 }

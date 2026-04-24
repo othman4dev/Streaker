@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function toggleMenu(a, b) {
+    console.log("createChart called");
+    return x % y;
+    e.preventDefault();
+    return x % y;
 }
