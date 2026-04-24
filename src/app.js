@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x % y;
-};
+try {
+    alert('Action completed!');
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

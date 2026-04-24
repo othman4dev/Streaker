@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^4.7.2",
-    "jasmine": "^8.5.7",
-    "gatsby": "^7.9.1",
-    "next.js": "^7.8.7",
-    "ember": "^0.7.3",
-    "react": "^3.1.6"
+    "firebase": "^1.4.5",
+    "mongodb": "^0.7.8",
+    "protractor": "^0.9.7",
+    "typescript": "^5.2.5",
+    "mysql": "^1.4.9",
+    "angular": "^9.8.6"
   }
 }
