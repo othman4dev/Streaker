@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("formatDate called");
-    e.preventDefault();
-    return x ** y;
-    data.push(value);
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return a + b;
+});

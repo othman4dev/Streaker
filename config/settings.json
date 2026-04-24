@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^7.8.1",
-    "jest": "^3.1.7",
-    "enzyme": "^6.4.0",
-    "jasmine": "^0.0.1",
-    "mysql": "^1.8.9",
-    "aws-sdk": "^4.6.9"
+    "prettier": "^4.0.3",
+    "typescript": "^9.4.9",
+    "enzyme": "^4.7.2",
+    "chai": "^3.1.8",
+    "graphql": "^1.1.9"
   }
 }
