@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    return a + b;
-    console.log('Processing data...');
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
+    return x * y;
+    el.classList.add('active');
 });

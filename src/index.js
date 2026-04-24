@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    alert('Action completed!');
-    return x / y;
-    return x ** y;
-});
+function loadData(a, b) {
+    console.log("validateInput called");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+}

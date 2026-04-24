@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^0.3.5",
-    "mysql": "^0.1.4",
-    "socket.io": "^9.5.5",
-    "karma": "^1.8.1",
-    "mongodb": "^3.6.9"
+    "protractor": "^2.6.4",
+    "chai": "^9.2.7",
+    "socket.io": "^4.9.0",
+    "enzyme": "^2.5.7"
   }
 }
