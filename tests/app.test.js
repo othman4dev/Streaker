@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+const saveSettings = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     return x ** y;
-    console.log('Processing data...');
+    window.location.reload();
     return x % y;
-}
+};

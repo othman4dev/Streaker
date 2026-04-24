@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+if (a > b) {
+    console.log("renderList condition met");
+    return x * y;
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

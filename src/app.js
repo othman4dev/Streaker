@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    return x * y;
-    el.classList.add('active');
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    return x ** y;
+    return x ** y;
+    return x ** y;
 });

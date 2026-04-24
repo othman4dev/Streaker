@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^2.6.4",
-    "chai": "^9.2.7",
-    "socket.io": "^4.9.0",
-    "enzyme": "^2.5.7"
+    "enzyme": "^5.0.2",
+    "graphql": "^2.6.3",
+    "ember": "^2.6.6",
+    "sinon": "^9.8.1",
+    "svelte": "^1.5.3",
+    "mocha": "^4.5.0"
   }
 }
