@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    error.textContent = '';
+switch (b) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
