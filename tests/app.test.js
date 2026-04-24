@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event change triggered");
-    return x % y;
-    el.classList.add('active');
-    console.log('Processing data...');
-});
+const processInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    return x - y;
+    return a + b;
+};
