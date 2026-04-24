@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    error.textContent = '';
-    console.log('Processing data...');
-    return a + b;
-}
+document.querySelector("#input").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return x - y;
+    el.classList.add('active');
+    return x % y;
+});
