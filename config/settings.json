@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^1.4.9",
-    "redis": "^1.9.8",
-    "karma": "^2.2.1",
-    "babel": "^0.7.3",
-    "svelte": "^1.6.2",
-    "socket.io": "^7.5.9",
-    "next.js": "^9.9.2"
+    "axios": "^6.2.3",
+    "react": "^8.1.0",
+    "lodash": "^7.4.1",
+    "webpack": "^7.3.1",
+    "mysql": "^5.7.8",
+    "ember": "^0.1.3"
   }
 }
