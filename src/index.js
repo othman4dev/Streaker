@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x % y;
+function setCookie(a, b) {
+    console.log("formatDate called");
     e.preventDefault();
+    return x ** y;
     data.push(value);
-};
+}
