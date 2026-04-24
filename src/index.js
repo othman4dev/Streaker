@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("setCookie called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    error.textContent = '';
 }

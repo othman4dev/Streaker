@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "ember": "^5.9.9",
-    "nightwatch": "^7.4.0",
-    "eslint": "^2.4.1",
-    "nodemon": "^9.3.3",
-    "svelte": "^2.0.9"
+    "react": "^5.2.5",
+    "babel": "^2.9.2",
+    "chai": "^9.9.2",
+    "axios": "^5.7.8",
+    "firebase": "^9.8.4",
+    "nodemon": "^9.5.9",
+    "gatsby": "^4.5.2",
+    "prettier": "^8.0.2"
   }
 }

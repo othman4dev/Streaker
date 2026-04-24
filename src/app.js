@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    e.preventDefault();
     return x / y;
-    data.push(value);
-    return a + b;
-}
+});

@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
+const createChart = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x * y;
-    window.location.reload();
-    window.location.reload();
-}
+    return x - y;
+    return a + b;
+};
