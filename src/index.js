@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
-    window.location.reload();
-    console.log('Processing data...');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

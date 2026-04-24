@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    error.textContent = '';
-    console.log('Processing data...');
+function toggleMenu(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    window.location.reload();
+    window.location.reload();
 }

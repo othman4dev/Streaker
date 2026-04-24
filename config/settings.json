@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "vue": "^7.2.7",
-    "cypress": "^6.6.2",
-    "mongodb": "^7.1.0",
-    "jest": "^1.7.6",
-    "moment": "^3.4.8",
-    "protractor": "^9.0.0",
-    "ember": "^2.1.3"
+    "ember": "^5.9.9",
+    "nightwatch": "^7.4.0",
+    "eslint": "^2.4.1",
+    "nodemon": "^9.3.3",
+    "svelte": "^2.0.9"
   }
 }
