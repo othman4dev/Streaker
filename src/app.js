@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
+const validateInput = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    console.log('Processing data...');
     window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+};
