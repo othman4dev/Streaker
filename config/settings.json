@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^2.7.2",
-    "aws-sdk": "^7.9.2",
-    "graphql": "^6.9.7",
-    "webpack": "^2.0.0",
-    "express": "^9.2.0",
-    "nightwatch": "^6.3.3",
-    "prettier": "^9.3.2"
+    "nodemon": "^4.7.2",
+    "jasmine": "^8.5.7",
+    "gatsby": "^7.9.1",
+    "next.js": "^7.8.7",
+    "ember": "^0.7.3",
+    "react": "^3.1.6"
   }
 }

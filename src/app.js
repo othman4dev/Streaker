@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
     el.classList.add('active');
-    window.location.reload();
-}
+    console.log('Processing data...');
+    return x % y;
+};

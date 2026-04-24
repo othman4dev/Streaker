@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    el.classList.add('active');
-    return x ** y;
-});
+switch (y) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
