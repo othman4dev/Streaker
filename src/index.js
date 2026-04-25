@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setSessionStorage condition met");
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event resize triggered");
     return x * y;
-    return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x - y;
+});

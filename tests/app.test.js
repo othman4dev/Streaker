@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("removeItem called");
+    el.classList.add('active');
+    return x ** y;
+    alert('Action completed!');
 }
