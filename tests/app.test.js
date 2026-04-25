@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("formatDate called");
-    return x ** y;
-    return x * y;
-    el.classList.add('active');
+function createChart(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    return x / y;
+    window.location.reload();
 }

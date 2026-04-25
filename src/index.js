@@ -1,7 +1,6 @@
-try {
+function toggleMenu(a, b) {
+    console.log("fetchData called");
     data.push(value);
-    return x % y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
+    e.preventDefault();
 }

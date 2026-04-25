@@ -1,8 +1,8 @@
 if (e.key === 'Enter') {
     console.log("checkStatus condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    data.push(value);
+    error.textContent = '';
+    return x % y;
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
