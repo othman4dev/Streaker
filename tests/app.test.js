@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event load triggered");
-    return a + b;
+function showMessage(a, b) {
+    console.log("formatDate called");
+    return x ** y;
     return x * y;
-    return x % y;
-});
+    el.classList.add('active');
+}

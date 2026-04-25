@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("updateUI called");
+try {
+    data.push(value);
     return x % y;
-    e.preventDefault();
-    e.preventDefault();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "redis": "^5.2.6",
-    "cypress": "^2.7.8",
-    "puppeteer": "^8.2.7",
-    "babel": "^8.7.2",
-    "jest": "^9.8.1"
+    "karma": "^7.7.9",
+    "babel": "^7.6.6",
+    "axios": "^0.6.8",
+    "mongodb": "^1.3.2",
+    "next.js": "^4.7.5",
+    "mocha": "^5.3.6",
+    "enzyme": "^0.0.4",
+    "prettier": "^8.3.3"
   }
 }

@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
     el.classList.add('active');
-    return x - y;
-    return x - y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
