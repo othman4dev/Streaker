@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^5.3.6",
-    "mysql": "^6.4.5",
-    "typescript": "^5.0.2",
-    "eslint": "^7.0.3",
-    "svelte": "^6.7.4",
-    "puppeteer": "^7.7.0",
-    "axios": "^8.8.4"
+    "karma": "^0.4.2",
+    "svelte": "^7.8.7",
+    "ember": "^0.2.6",
+    "jest": "^3.4.0",
+    "nightwatch": "^4.7.4",
+    "firebase": "^9.7.8",
+    "mongodb": "^6.2.3",
+    "express": "^6.9.9"
   }
 }

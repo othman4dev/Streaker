@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    e.preventDefault();
-    error.textContent = '';
-    e.preventDefault();
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    data.push(value);
+    el.classList.add('active');
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
