@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "karma": "^0.4.2",
-    "svelte": "^7.8.7",
-    "ember": "^0.2.6",
-    "jest": "^3.4.0",
-    "nightwatch": "^4.7.4",
-    "firebase": "^9.7.8",
-    "mongodb": "^6.2.3",
-    "express": "^6.9.9"
+    "puppeteer": "^5.4.8",
+    "eslint": "^7.9.0",
+    "typescript": "^9.9.6",
+    "prettier": "^3.9.4",
+    "redis": "^7.2.4"
   }
 }

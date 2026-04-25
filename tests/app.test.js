@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
     return x / y;
-    data.push(value);
-}
+    return x - y;
+});
