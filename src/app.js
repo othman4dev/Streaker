@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("loadData called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }

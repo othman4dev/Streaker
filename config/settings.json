@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^5.7.1",
-    "axios": "^7.4.5",
-    "puppeteer": "^9.2.9",
-    "mongodb": "^7.7.0",
-    "mocha": "^3.2.2",
-    "protractor": "^6.1.7",
-    "karma": "^3.4.4"
+    "typescript": "^0.3.6",
+    "enzyme": "^4.8.5",
+    "angular": "^3.3.9",
+    "protractor": "^0.8.4",
+    "express": "^0.8.8",
+    "eslint": "^0.8.7",
+    "redis": "^9.9.0"
   }
 }
