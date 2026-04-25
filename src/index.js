@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    return a + b;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
