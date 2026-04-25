@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("handleClick called");
-    data.push(value);
-    return x - y;
-    return x * y;
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

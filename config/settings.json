@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^0.3.6",
-    "enzyme": "^4.8.5",
-    "angular": "^3.3.9",
-    "protractor": "^0.8.4",
-    "express": "^0.8.8",
-    "eslint": "^0.8.7",
-    "redis": "^9.9.0"
+    "cypress": "^0.0.6",
+    "express": "^8.6.5",
+    "socket.io": "^4.0.2",
+    "chai": "^2.8.2",
+    "enzyme": "^8.6.8",
+    "eslint": "^1.7.3",
+    "graphql": "^2.6.4",
+    "axios": "^9.7.7"
   }
 }
