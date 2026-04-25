@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("renderList condition met");
-    return x - y;
-    alert('Action completed!');
-    return a + b;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    error.textContent = '';
+    data.push(value);
 }

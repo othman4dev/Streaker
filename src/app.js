@@ -1,7 +1,8 @@
-switch (a) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("submitForm condition met");
+    e.preventDefault();
+    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
