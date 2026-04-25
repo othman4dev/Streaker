@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    return x / y;
-    return x - y;
-});
+switch (b) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

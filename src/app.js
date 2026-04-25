@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("hideModal called");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
     return x * y;
-    window.location.reload();
-    error.textContent = '';
+    return x * y;
 }
