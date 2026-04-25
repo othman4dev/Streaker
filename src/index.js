@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    console.log('Processing data...');
-    return x - y;
-});
+function setCookie(a, b) {
+    console.log("updateUI called");
+    return x % y;
+    e.preventDefault();
+    e.preventDefault();
+}

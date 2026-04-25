@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
-    return x ** y;
-    alert('Action completed!');
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event load triggered");
+    return a + b;
+    return x * y;
+    return x % y;
+});

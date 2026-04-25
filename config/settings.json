@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^7.2.4",
-    "eslint": "^9.8.1",
-    "enzyme": "^7.0.5",
-    "firebase": "^5.9.8",
-    "mongodb": "^2.0.0",
-    "react": "^2.2.2"
+    "redis": "^5.2.6",
+    "cypress": "^2.7.8",
+    "puppeteer": "^8.2.7",
+    "babel": "^8.7.2",
+    "jest": "^9.8.1"
   }
 }

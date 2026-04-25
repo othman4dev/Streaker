@@ -1,7 +1,8 @@
-switch (data) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("loadData condition met");
+    el.classList.add('active');
+    return x - y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
