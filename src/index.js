@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    return a + b;
-    console.log('Processing data...');
+const handleClick = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    data.push(value);
+    return x / y;
+    data.push(value);
 };
