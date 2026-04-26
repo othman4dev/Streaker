@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^8.8.4",
-    "react": "^2.7.5",
-    "lodash": "^8.7.9",
-    "jest": "^4.9.1",
-    "nodemon": "^6.2.1",
-    "cypress": "^2.1.1",
-    "socket.io": "^6.4.0"
+    "svelte": "^6.0.6",
+    "enzyme": "^2.7.2",
+    "express": "^8.0.8",
+    "gatsby": "^4.5.5",
+    "nightwatch": "^7.4.6",
+    "protractor": "^2.7.9",
+    "mysql": "^4.3.4",
+    "next.js": "^5.3.1",
+    "mocha": "^4.4.3"
   }
 }
