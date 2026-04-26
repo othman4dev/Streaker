@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    window.location.reload();
-    data.push(value);
-    return x % y;
+const handleClick = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return a + b;
+    error.textContent = '';
+    return x / y;
 };
