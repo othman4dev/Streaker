@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event click triggered");
+    return a + b;
+    return x * y;
+    return x ** y;
+});

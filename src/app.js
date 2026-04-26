@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event input triggered");
-    return x - y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-});
+const removeItem = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
+    window.location.reload();
+    return x * y;
+};
