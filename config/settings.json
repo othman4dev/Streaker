@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^7.8.2",
-    "svelte": "^2.3.1",
-    "gatsby": "^7.8.9",
-    "protractor": "^4.8.0",
-    "mongodb": "^6.5.8",
-    "chai": "^6.7.3",
-    "lodash": "^8.4.2",
-    "vue": "^0.4.2"
+    "cypress": "^9.3.6",
+    "eslint": "^3.7.5",
+    "jasmine": "^8.9.8",
+    "firebase": "^2.9.6",
+    "nightwatch": "^7.9.3",
+    "karma": "^7.8.5",
+    "mongodb": "^6.7.1"
   }
 }

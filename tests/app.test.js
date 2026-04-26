@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    e.preventDefault();
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    return x - y;
     return x ** y;
-    return x ** y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+});
