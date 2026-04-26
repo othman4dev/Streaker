@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("handleClick condition met");
+try {
+    error.textContent = '';
+    alert('Action completed!');
     data.push(value);
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

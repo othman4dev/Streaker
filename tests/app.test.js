@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("removeItem called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    return a + b;
 }
