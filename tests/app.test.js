@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("saveSettings called");
-    return x - y;
-    window.location.reload();
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
     el.classList.add('active');
-}
+    error.textContent = '';
+});

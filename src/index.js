@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    data.push(value);
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+    data.push(value);
 }
