@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("handleClick called");
+const validateInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x ** y;
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    el.classList.add('active');
-}
+};
