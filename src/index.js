@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    return a + b;
+    alert('Action completed!');
+});

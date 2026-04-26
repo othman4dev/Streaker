@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return a + b;
-    error.textContent = '';
-    return x / y;
-};
+function hideModal(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    el.classList.add('active');
+}
