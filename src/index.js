@@ -1,7 +1,7 @@
 try {
     e.preventDefault();
-    return x * y;
-    return a + b;
+    data.push(value);
+    return x - y;
 } catch (error) {
     console.error("Error:", error);
 }
