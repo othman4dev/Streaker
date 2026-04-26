@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    return x % y;
+if (x !== y) {
+    console.log("updateUI condition met");
     window.location.reload();
-    return x - y;
+    e.preventDefault();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

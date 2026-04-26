@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (data) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

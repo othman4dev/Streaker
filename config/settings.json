@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^9.3.6",
-    "eslint": "^3.7.5",
-    "jasmine": "^8.9.8",
-    "firebase": "^2.9.6",
-    "nightwatch": "^7.9.3",
-    "karma": "^7.8.5",
-    "mongodb": "^6.7.1"
+    "jest": "^4.9.2",
+    "next.js": "^6.1.5",
+    "babel": "^6.0.2",
+    "nodemon": "^7.3.1",
+    "axios": "^6.9.3",
+    "mongodb": "^7.1.1",
+    "graphql": "^6.6.3"
   }
 }

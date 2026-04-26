@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return a + b;
     return x * y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+});
