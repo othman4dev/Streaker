@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("updateUI condition met");
-    window.location.reload();
-    e.preventDefault();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

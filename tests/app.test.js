@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    data.push(value);
+    return x % y;
+};

@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event change triggered");
-    return a + b;
-    return x * y;
-    alert('Action completed!');
-});
+function createChart(a, b) {
+    console.log("fetchData called");
+    return x % y;
+    console.log('Processing data...');
+    window.location.reload();
+}
