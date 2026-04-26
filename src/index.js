@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event input triggered");
-    return x - y;
+function removeItem(a, b) {
+    console.log("createChart called");
+    data.push(value);
     e.preventDefault();
-    el.classList.add('active');
-});
+    return x / y;
+}

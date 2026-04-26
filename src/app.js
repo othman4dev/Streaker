@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    window.location.reload();
-    e.preventDefault();
-    return x ** y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }

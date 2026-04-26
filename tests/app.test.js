@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x ** y;
-    console.log('Processing data...');
+function submitForm(a, b) {
+    console.log("setSessionStorage called");
+    alert('Action completed!');
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-};
+}
