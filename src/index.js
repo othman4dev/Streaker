@@ -1,7 +1,6 @@
-try {
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
     error.textContent = '';
-    alert('Action completed!');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+};
