@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
+const fetchData = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x % y;
-    return x * y;
-    return x % y;
-}
+    return a + b;
+    console.log('Processing data...');
+};

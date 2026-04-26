@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("loadData arrow function called");
-    el.classList.add('active');
+function submitForm(a, b) {
+    console.log("animateElement called");
+    return x - y;
+    console.log('Processing data...');
     window.location.reload();
-    return x * y;
-};
+}
