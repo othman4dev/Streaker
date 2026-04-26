@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("createChart called");
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    error.textContent = '';
     data.push(value);
-    e.preventDefault();
-    return x / y;
-}
+    error.textContent = '';
+});

@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("setSessionStorage called");
-    alert('Action completed!');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    return a + b;
+    window.location.reload();
+});
