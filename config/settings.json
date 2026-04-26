@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^6.4.6",
-    "ember": "^4.8.2",
-    "eslint": "^6.7.1",
-    "next.js": "^9.5.3",
-    "graphql": "^7.2.2",
-    "vue": "^4.7.7",
-    "karma": "^4.4.8",
-    "mongodb": "^5.2.5",
-    "jest": "^9.8.9"
+    "protractor": "^9.4.7",
+    "mongodb": "^6.2.7",
+    "chai": "^6.5.0",
+    "eslint": "^1.1.8",
+    "karma": "^2.1.9",
+    "mysql": "^8.2.7"
   }
 }
