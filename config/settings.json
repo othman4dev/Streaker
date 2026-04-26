@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "prettier": "^6.5.8",
-    "puppeteer": "^3.1.5",
-    "chai": "^1.9.9",
-    "cypress": "^2.1.2",
-    "angular": "^8.6.6",
-    "react": "^1.4.6",
-    "enzyme": "^4.7.6"
+    "eslint": "^5.4.0",
+    "ember": "^4.3.0",
+    "lodash": "^5.8.0",
+    "aws-sdk": "^5.0.1",
+    "sinon": "^3.8.3",
+    "nightwatch": "^8.7.1",
+    "mongodb": "^7.3.5",
+    "puppeteer": "^1.1.2",
+    "gatsby": "^6.9.6"
   }
 }
