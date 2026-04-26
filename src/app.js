@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return a + b;
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
 }
