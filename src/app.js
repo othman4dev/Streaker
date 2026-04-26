@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    e.preventDefault();
-    el.classList.add('active');
+function hideModal(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 }
