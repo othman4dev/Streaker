@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "protractor": "^9.4.7",
-    "mongodb": "^6.2.7",
-    "chai": "^6.5.0",
-    "eslint": "^1.1.8",
-    "karma": "^2.1.9",
-    "mysql": "^8.2.7"
+    "protractor": "^9.1.4",
+    "nodemon": "^2.5.9",
+    "babel": "^9.3.9",
+    "vue": "^4.9.7",
+    "enzyme": "^0.0.2",
+    "redis": "^7.8.2",
+    "chai": "^9.6.4",
+    "firebase": "^1.5.3",
+    "aws-sdk": "^8.9.9"
   }
 }

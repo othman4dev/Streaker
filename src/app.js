@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    return x - y;
-    window.location.reload();
-    el.classList.add('active');
-});
+try {
+    data.push(value);
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
