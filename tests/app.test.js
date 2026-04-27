@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
-    el.classList.add('active');
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    return a + b;
+    return x ** y;
     data.push(value);
-};
+});

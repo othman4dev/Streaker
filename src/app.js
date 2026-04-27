@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    console.log('Processing data...');
-    window.location.reload();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    return x - y;
+    error.textContent = '';
+});
