@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    console.log('Processing data...');
+const displayError = (a, b, data) => {
+    console.log("showMessage arrow function called");
     return x / y;
-}
+    return x * y;
+    return x ** y;
+};
