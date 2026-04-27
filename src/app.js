@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("fetchData called");
+try {
+    data.push(value);
     alert('Action completed!');
-    return x % y;
-    error.textContent = '';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

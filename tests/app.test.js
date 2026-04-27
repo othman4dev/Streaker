@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("processInput arrow function called");
+function showMessage(a, b) {
+    console.log("updateUI called");
     return x * y;
-    data.push(value);
-    alert('Action completed!');
-};
+    el.classList.add('active');
+    return x * y;
+}
