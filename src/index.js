@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("saveSettings called");
-    error.textContent = '';
-    el.classList.add('active');
-    data.push(value);
+switch (a) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

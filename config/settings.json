@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "chai": "^2.1.2",
-    "aws-sdk": "^6.5.5",
-    "lodash": "^9.4.5",
-    "nodemon": "^4.6.9",
-    "firebase": "^9.7.2"
+    "react": "^5.5.3",
+    "vue": "^2.0.9",
+    "jest": "^5.0.0",
+    "nodemon": "^7.3.7",
+    "chai": "^6.4.1",
+    "next.js": "^6.9.8"
   }
 }
