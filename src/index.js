@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("saveSettings called");
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
     el.classList.add('active');
-    return x % y;
-    return a + b;
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

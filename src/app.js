@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    return x * y;
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("setSessionStorage called");
+    return x ** y;
+    return x ** y;
+    console.log('Processing data...');
 }
