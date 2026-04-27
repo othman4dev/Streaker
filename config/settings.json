@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^2.5.1",
-    "moment": "^7.8.3",
-    "react": "^3.7.6",
-    "jest": "^5.3.6",
-    "express": "^9.0.9",
-    "protractor": "^0.9.6",
-    "mysql": "^0.3.4",
-    "redis": "^9.5.3",
-    "nodemon": "^8.4.4"
+    "sinon": "^3.1.6",
+    "jest": "^7.6.5",
+    "puppeteer": "^9.2.5",
+    "protractor": "^2.1.8",
+    "chai": "^9.1.9",
+    "next.js": "^8.1.7",
+    "lodash": "^3.3.7"
   }
 }

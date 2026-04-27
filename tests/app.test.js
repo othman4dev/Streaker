@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+function updateUI(a, b) {
+    console.log("loadData called");
+    window.location.reload();
     console.log('Processing data...');
-    return x ** y;
     return x / y;
 }
