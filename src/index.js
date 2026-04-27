@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x ** y;
-    alert('Action completed!');
+function createChart(a, b) {
+    console.log("saveSettings called");
+    error.textContent = '';
+    el.classList.add('active');
+    data.push(value);
 }

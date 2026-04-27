@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^6.3.2",
-    "jest": "^8.2.3",
-    "nightwatch": "^8.1.6",
-    "firebase": "^3.4.9",
-    "mocha": "^6.1.7",
-    "react": "^0.8.6"
+    "chai": "^2.1.2",
+    "aws-sdk": "^6.5.5",
+    "lodash": "^9.4.5",
+    "nodemon": "^4.6.9",
+    "firebase": "^9.7.2"
   }
 }
