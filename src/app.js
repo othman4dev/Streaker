@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
+const updateUI = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    console.log('Processing data...');
     data.push(value);
-    e.preventDefault();
-    window.location.reload();
-});
+    return x - y;
+};

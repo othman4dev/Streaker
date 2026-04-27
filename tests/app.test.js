@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    el.classList.add('active');
-    window.location.reload();
-    alert('Action completed!');
-};
+try {
+    return a + b;
+    return x * y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
