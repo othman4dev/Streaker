@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    return x * y;
-    return x % y;
-    data.push(value);
-});
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    e.preventDefault();
+    el.classList.add('active');
+}
