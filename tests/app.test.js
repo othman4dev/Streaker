@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+const createChart = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    window.location.reload();
     alert('Action completed!');
-    return x - y;
     console.log('Processing data...');
-}
+};

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    e.preventDefault();
-    return x / y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+function submitForm(a, b) {
+    console.log("showMessage called");
+    window.location.reload();
+    error.textContent = '';
+    return x % y;
 }
