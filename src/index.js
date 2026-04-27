@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    return x % y;
+    return a + b;
 }

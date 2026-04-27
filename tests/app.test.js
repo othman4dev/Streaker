@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    console.log('Processing data...');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x ** y;
+});
