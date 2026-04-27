@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    el.classList.add('active');
+    console.log('Processing data...');
+});

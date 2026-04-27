@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^0.6.3",
-    "sinon": "^5.9.3",
-    "socket.io": "^3.8.9",
-    "mongodb": "^0.8.7",
-    "express": "^7.7.2",
-    "angular": "^5.9.6",
-    "graphql": "^6.5.0",
-    "gatsby": "^5.0.0",
-    "typescript": "^1.6.4"
+    "express": "^4.0.9",
+    "angular": "^4.5.8",
+    "babel": "^8.9.1",
+    "graphql": "^0.6.5",
+    "karma": "^0.4.9",
+    "moment": "^9.9.5"
   }
 }
