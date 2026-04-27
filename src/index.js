@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("renderList arrow function called");
-    window.location.reload();
-    return x % y;
-    error.textContent = '';
-};
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    data.push(value);
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x - y;
+const updateUI = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    data.push(value);
+};

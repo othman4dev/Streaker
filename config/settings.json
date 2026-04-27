@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "vue": "^5.9.1",
-    "karma": "^4.2.5",
-    "firebase": "^5.8.8",
-    "nodemon": "^1.2.4",
-    "next.js": "^0.4.7",
-    "socket.io": "^2.1.0",
-    "mysql": "^4.4.4",
-    "graphql": "^3.1.2"
+    "nightwatch": "^9.7.7",
+    "jasmine": "^6.6.3",
+    "eslint": "^1.9.3",
+    "jest": "^4.6.4",
+    "mongodb": "^4.8.9"
   }
 }
