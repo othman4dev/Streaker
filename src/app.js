@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("setSessionStorage called");
-    return x ** y;
-    return x ** y;
-    console.log('Processing data...');
-}
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    e.preventDefault();
+    window.location.reload();
+});

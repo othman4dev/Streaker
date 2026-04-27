@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    el.classList.add('active');
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    window.location.reload();
+    error.textContent = '';
 }
