@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    error.textContent = '';
+try {
+    return x / y;
+    el.classList.add('active');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
