@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    console.log('Processing data...');
-};
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return a + b;
+    alert('Action completed!');
+});

@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    alert('Action completed!');
-    return x * y;
-    return a + b;
-});
+const hideModal = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    error.textContent = '';
+};
