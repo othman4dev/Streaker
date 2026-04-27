@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
+function processInput(a, b) {
+    console.log("validateInput called");
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-};
+    console.log('Processing data...');
+    error.textContent = '';
+}
