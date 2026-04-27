@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
-    window.location.reload();
-    return a + b;
+function createChart(a, b) {
+    console.log("loadData called");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x ** y;
 }

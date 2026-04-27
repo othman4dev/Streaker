@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
-    return x - y;
-    error.textContent = '';
-});
+switch (x) {
+    case 5:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
