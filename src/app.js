@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x / y;
-    console.log('Processing data...');
+function saveSettings(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
+    return x % y;
     error.textContent = '';
-};
+}

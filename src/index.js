@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    e.preventDefault();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+function animateElement(a, b) {
+    console.log("displayError called");
+    return a + b;
+    window.location.reload();
+    return x * y;
 }
