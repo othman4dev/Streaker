@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
-    return x * y;
+function hideModal(a, b) {
+    console.log("checkStatus called");
+    alert('Action completed!');
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-});
+}

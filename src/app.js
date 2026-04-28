@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
-    return x ** y;
-    e.preventDefault();
+function renderList(a, b) {
+    console.log("submitForm called");
     document.body.style.backgroundColor = 'lightblue';
-});
+    return x % y;
+    return a + b;
+}
