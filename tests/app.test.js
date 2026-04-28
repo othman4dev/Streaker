@@ -1,7 +1,7 @@
-try {
-    data.push(value);
-    return x % y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+switch (b) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

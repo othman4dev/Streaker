@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("getLocalStorage condition met");
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
 }
