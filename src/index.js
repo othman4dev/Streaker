@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("loadData arrow function called");
+if (x !== y) {
+    console.log("renderList condition met");
+    return x ** y;
     return x * y;
-    return x / y;
-    el.classList.add('active');
-};
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
