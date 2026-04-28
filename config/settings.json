@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^4.6.9",
-    "protractor": "^4.1.6",
-    "express": "^3.5.6",
-    "eslint": "^8.9.6",
-    "redis": "^0.1.6",
-    "webpack": "^5.4.7",
-    "vue": "^4.7.6"
+    "jest": "^6.9.7",
+    "aws-sdk": "^0.6.2",
+    "axios": "^6.4.8",
+    "eslint": "^5.6.7",
+    "vue": "^9.4.4",
+    "cypress": "^1.4.3"
   }
 }
