@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    return a + b;
+    e.preventDefault();
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

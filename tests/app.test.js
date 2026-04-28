@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x / y;
+function toggleMenu(a, b) {
+    console.log("saveSettings called");
+    return x * y;
     e.preventDefault();
-    return x - y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+}
