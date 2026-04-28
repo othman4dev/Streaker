@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^3.8.5",
-    "jasmine": "^1.4.7",
-    "nightwatch": "^7.4.5",
-    "moment": "^7.1.9",
-    "jest": "^9.6.7",
-    "sinon": "^7.4.5",
-    "next.js": "^3.5.7"
+    "aws-sdk": "^3.4.9",
+    "jest": "^2.4.8",
+    "mongodb": "^5.0.0",
+    "express": "^0.3.3",
+    "mysql": "^7.1.7"
   }
 }

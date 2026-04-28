@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x * y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    return x - y;
+    e.preventDefault();
+    return x % y;
+});

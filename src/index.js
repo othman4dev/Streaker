@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("renderList called");
+    return a + b;
+    return a + b;
+    return x / y;
 }
