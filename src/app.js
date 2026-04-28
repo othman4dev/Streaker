@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    return a + b;
-    e.preventDefault();
+try {
+    return x / y;
+    return x - y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

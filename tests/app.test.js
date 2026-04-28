@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
+const processInput = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x * y;
-    e.preventDefault();
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-}
+};

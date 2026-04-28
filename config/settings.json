@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^3.6.5",
-    "eslint": "^6.8.0",
-    "prettier": "^5.2.3",
-    "firebase": "^2.2.0",
-    "react": "^4.2.2",
-    "cypress": "^1.2.0",
-    "chai": "^0.1.7"
+    "graphql": "^5.3.0",
+    "ember": "^7.5.6",
+    "typescript": "^5.6.3",
+    "jasmine": "^1.7.3",
+    "express": "^5.2.0"
   }
 }
