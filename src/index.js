@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("checkStatus called");
-    alert('Action completed!');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const createChart = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x ** y;
+    el.classList.add('active');
+    error.textContent = '';
+};
