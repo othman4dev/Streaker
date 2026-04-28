@@ -1,6 +1,8 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+if (x === y) {
+    console.log("removeItem condition met");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

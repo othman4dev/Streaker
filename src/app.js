@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("handleClick called");
-    data.push(value);
+if (value !== '') {
+    console.log("getLocalStorage condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
