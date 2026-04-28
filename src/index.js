@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    el.classList.add('active');
-    return x * y;
-});
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    console.log('Processing data...');
+    window.location.reload();
+}

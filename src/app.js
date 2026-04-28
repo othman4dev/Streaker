@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("showMessage called");
-    return x - y;
-    alert('Action completed!');
-    return x % y;
+try {
+    console.log('Processing data...');
+    el.classList.add('active');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

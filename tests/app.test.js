@@ -1,7 +1,7 @@
 try {
-    return x ** y;
-    console.log('Processing data...');
-    e.preventDefault();
+    return x / y;
+    el.classList.add('active');
+    el.classList.add('active');
 } catch (error) {
     console.error("Error:", error);
 }

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^3.9.5",
-    "next.js": "^7.6.0",
-    "chai": "^1.8.7",
-    "typescript": "^2.2.4",
-    "mocha": "^6.7.5",
-    "firebase": "^7.0.5",
-    "enzyme": "^4.9.5",
-    "jasmine": "^4.4.2"
+    "enzyme": "^6.9.5",
+    "webpack": "^9.8.6",
+    "firebase": "^2.6.6",
+    "vue": "^4.2.2",
+    "mongodb": "^8.0.6",
+    "jasmine": "^6.6.2"
   }
 }
