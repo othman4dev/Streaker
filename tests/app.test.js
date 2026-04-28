@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("showMessage called");
-    data.push(value);
-    return x / y;
-    console.log('Processing data...');
+if (a > b) {
+    console.log("processInput condition met");
+    window.location.reload();
+    el.classList.add('active');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
