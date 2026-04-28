@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
+function loadData(a, b) {
+    console.log("handleClick called");
     data.push(value);
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }

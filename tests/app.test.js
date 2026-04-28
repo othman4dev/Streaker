@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    alert('Action completed!');
-    data.push(value);
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-});
+    data.push(value);
+}
