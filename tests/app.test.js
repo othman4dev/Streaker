@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    window.location.reload();
-    alert('Action completed!');
+function processInput(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    return x / y;
+    console.log('Processing data...');
 }
