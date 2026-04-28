@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x - y;
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+});
