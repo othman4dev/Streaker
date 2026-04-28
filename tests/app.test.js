@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return x % y;
-    window.location.reload();
-});
+switch (b) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

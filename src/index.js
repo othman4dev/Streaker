@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    console.log('Processing data...');
-    return a + b;
-    return a + b;
-});
+try {
+    data.push(value);
+    return x - y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
