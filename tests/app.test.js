@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("processInput condition met");
-    window.location.reload();
-    el.classList.add('active');
-    error.textContent = '';
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    return x % y;
+    return x % y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }

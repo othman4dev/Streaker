@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("fetchData called");
-    window.location.reload();
-    return x ** y;
-    console.log('Processing data...');
+try {
+    return a + b;
+    return a + b;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

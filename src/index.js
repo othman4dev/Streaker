@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    return x % y;
+    alert('Action completed!');
+    return x * y;
 });
