@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    e.preventDefault();
-    console.log('Processing data...');
-});
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    data.push(value);
+    return x / y;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
