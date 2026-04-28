@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^0.5.5",
-    "eslint": "^7.5.7",
-    "react": "^4.1.5",
-    "graphql": "^1.6.0",
-    "jasmine": "^7.0.9",
-    "sinon": "^4.8.5",
-    "aws-sdk": "^5.5.9",
-    "angular": "^5.3.8"
+    "enzyme": "^7.5.6",
+    "axios": "^9.5.7",
+    "sinon": "^0.6.9",
+    "lodash": "^1.8.3",
+    "svelte": "^7.2.1",
+    "mocha": "^9.1.1"
   }
 }

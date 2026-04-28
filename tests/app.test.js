@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("animateElement called");
-    e.preventDefault();
-    return x / y;
-    return a + b;
+switch (y) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
