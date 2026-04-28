@@ -1,7 +1,6 @@
-try {
+function removeItem(a, b) {
+    console.log("animateElement called");
+    error.textContent = '';
+    return x - y;
     return x / y;
-    el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
 }

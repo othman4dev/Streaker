@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^6.9.5",
-    "webpack": "^9.8.6",
-    "firebase": "^2.6.6",
-    "vue": "^4.2.2",
-    "mongodb": "^8.0.6",
-    "jasmine": "^6.6.2"
+    "prettier": "^2.8.5",
+    "jest": "^0.3.4",
+    "jasmine": "^5.5.1",
+    "axios": "^9.4.3",
+    "chai": "^3.0.2",
+    "angular": "^4.8.6",
+    "ember": "^6.4.0",
+    "typescript": "^4.0.1"
   }
 }

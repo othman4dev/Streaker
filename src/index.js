@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    e.preventDefault();
-    console.log('Processing data...');
-    window.location.reload();
+try {
+    error.textContent = '';
+    return x * y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
