@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x ** y;
-    el.classList.add('active');
-    error.textContent = '';
-};
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    console.log('Processing data...');
+    return a + b;
+    return a + b;
+});

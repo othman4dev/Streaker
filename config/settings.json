@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^2.6.5",
-    "angular": "^9.8.5",
-    "eslint": "^0.7.5",
-    "sinon": "^8.7.4",
-    "moment": "^7.5.3",
-    "cypress": "^4.1.9"
+    "babel": "^6.7.1",
+    "svelte": "^7.3.1",
+    "lodash": "^2.3.2",
+    "graphql": "^3.0.9",
+    "gatsby": "^1.7.1"
   }
 }
