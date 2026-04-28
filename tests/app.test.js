@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    alert('Action completed!');
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event resize triggered");
+    data.push(value);
     return x ** y;
-}
+    return x ** y;
+});
