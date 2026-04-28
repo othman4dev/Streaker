@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.4.9",
-    "jest": "^2.4.8",
-    "mongodb": "^5.0.0",
-    "express": "^0.3.3",
-    "mysql": "^7.1.7"
+    "nightwatch": "^3.9.5",
+    "next.js": "^7.6.0",
+    "chai": "^1.8.7",
+    "typescript": "^2.2.4",
+    "mocha": "^6.7.5",
+    "firebase": "^7.0.5",
+    "enzyme": "^4.9.5",
+    "jasmine": "^4.4.2"
   }
 }

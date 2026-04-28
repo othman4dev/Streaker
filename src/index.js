@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("renderList called");
-    return a + b;
-    return a + b;
-    return x / y;
-}
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    el.classList.add('active');
+    return x * y;
+});

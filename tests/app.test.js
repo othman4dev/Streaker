@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
-    return x - y;
+try {
+    return x ** y;
+    console.log('Processing data...');
     e.preventDefault();
-    return x % y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

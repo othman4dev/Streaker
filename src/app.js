@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    return x * y;
-    return x ** y;
-};
+function createChart(a, b) {
+    console.log("showMessage called");
+    return x - y;
+    alert('Action completed!');
+    return x % y;
+}
