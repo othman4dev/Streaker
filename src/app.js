@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
+    return x % y;
+    error.textContent = '';
 }

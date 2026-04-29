@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("checkStatus called");
-    return x % y;
-    return a + b;
-    return x / y;
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

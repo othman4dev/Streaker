@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "ember": "^8.5.7",
-    "redis": "^6.3.2",
-    "aws-sdk": "^5.3.8",
-    "next.js": "^9.7.7",
-    "webpack": "^2.4.4",
-    "axios": "^4.7.1",
-    "jest": "^4.3.6"
+    "redis": "^5.7.5",
+    "typescript": "^5.1.8",
+    "ember": "^1.6.1",
+    "webpack": "^4.7.7",
+    "graphql": "^4.4.9",
+    "sinon": "^5.4.9",
+    "react": "^5.9.8",
+    "nightwatch": "^4.4.9"
   }
 }
