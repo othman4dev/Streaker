@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^1.8.1",
-    "mysql": "^3.7.8",
-    "axios": "^2.8.3",
-    "puppeteer": "^3.4.4",
-    "cypress": "^5.0.4"
+    "vue": "^5.2.9",
+    "redis": "^2.8.3",
+    "jest": "^6.0.0",
+    "angular": "^5.7.5",
+    "nodemon": "^4.3.2",
+    "sinon": "^0.8.2"
   }
 }

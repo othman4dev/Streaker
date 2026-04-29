@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    return x * y;
+    return x ** y;
+    error.textContent = '';
+});

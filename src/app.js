@@ -1,6 +1,8 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+if (document.readyState === 'complete') {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
