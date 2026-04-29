@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    return x / y;
-    return a + b;
-});
+try {
+    return x * y;
+    return x % y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
