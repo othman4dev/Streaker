@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    return x % y;
+const removeItem = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     alert('Action completed!');
-    return x * y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+};
