@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("loadData called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    return a + b;
+    return a + b;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

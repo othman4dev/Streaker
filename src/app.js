@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    alert('Action completed!');
-    return x - y;
-    return x ** y;
-};
+function toggleMenu(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    return x * y;
+    return x / y;
+}
