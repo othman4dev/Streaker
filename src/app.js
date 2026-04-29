@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event resize triggered");
-    return x / y;
-    error.textContent = '';
-    return x ** y;
-});
+switch (data) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    e.preventDefault();
+    alert('Action completed!');
+});
