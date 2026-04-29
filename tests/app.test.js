@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    window.location.reload();
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (y) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
