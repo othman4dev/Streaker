@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("processInput arrow function called");
-    error.textContent = '';
-    return x ** y;
-    return x / y;
-};
+try {
+    window.location.reload();
+    e.preventDefault();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
