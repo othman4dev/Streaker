@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x % y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function updateUI(a, b) {
+    console.log("saveSettings called");
+    el.classList.add('active');
+    window.location.reload();
+    data.push(value);
 }

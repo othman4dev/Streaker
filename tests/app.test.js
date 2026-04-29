@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("getLocalStorage condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const saveSettings = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x * y;
+    window.location.reload();
+    error.textContent = '';
+};
