@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("saveSettings called");
-    el.classList.add('active');
-    window.location.reload();
-    data.push(value);
+if (a > b) {
+    console.log("processInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

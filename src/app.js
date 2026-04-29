@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("displayError condition met");
     window.location.reload();
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
