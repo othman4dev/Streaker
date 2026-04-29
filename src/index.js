@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function processInput(a, b) {
+    console.log("handleClick called");
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    data.push(value);
 }

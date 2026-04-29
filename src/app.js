@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x ** y;
-    error.textContent = '';
-    return x - y;
-};
+function hideModal(a, b) {
+    console.log("updateUI called");
+    return x * y;
+    window.location.reload();
+    window.location.reload();
+}
