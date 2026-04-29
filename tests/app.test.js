@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    e.preventDefault();
-    error.textContent = '';
+function loadData(a, b) {
+    console.log("checkStatus called");
+    return x % y;
+    return a + b;
+    return x / y;
 }
