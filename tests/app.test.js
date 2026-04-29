@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    return x / y;
+    e.preventDefault();
 });

@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "mysql": "^5.5.1",
-    "firebase": "^3.3.0",
-    "jest": "^7.6.3",
-    "express": "^0.0.5",
-    "jasmine": "^5.5.9",
-    "vue": "^7.7.7",
-    "ember": "^3.1.2",
-    "eslint": "^2.9.8"
+    "vue": "^8.1.7",
+    "puppeteer": "^9.7.9",
+    "cypress": "^2.0.5",
+    "nightwatch": "^3.9.0"
   }
 }

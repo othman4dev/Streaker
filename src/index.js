@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    error.textContent = '';
+    error.textContent = '';
+});
