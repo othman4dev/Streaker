@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return a + b;
-    return x * y;
-    window.location.reload();
-};
+try {
+    alert('Action completed!');
+    el.classList.add('active');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

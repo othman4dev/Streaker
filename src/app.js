@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("removeItem called");
-    el.classList.add('active');
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    data.push(value);
+    return x % y;
 }

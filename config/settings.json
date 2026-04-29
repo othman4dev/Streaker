@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^3.8.5",
-    "express": "^0.5.1",
-    "babel": "^0.9.8",
-    "socket.io": "^2.4.4",
-    "webpack": "^8.4.5",
-    "typescript": "^5.1.0",
-    "redis": "^4.1.9",
-    "axios": "^8.0.5"
+    "chai": "^1.2.5",
+    "enzyme": "^0.1.7",
+    "jest": "^2.4.9",
+    "socket.io": "^4.5.8",
+    "mocha": "^5.9.2",
+    "puppeteer": "^8.9.9",
+    "react": "^8.2.7",
+    "webpack": "^4.4.3"
   }
 }
