@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
+const getLocalStorage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    el.classList.add('active');
     return x ** y;
-    console.log('Processing data...');
-});
+    data.push(value);
+};
