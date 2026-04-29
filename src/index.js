@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("processInput called");
-    return x * y;
-    e.preventDefault();
-    window.location.reload();
+function removeItem(a, b) {
+    console.log("loadData called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }

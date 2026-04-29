@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+if (document.readyState === 'complete') {
+    console.log("renderList condition met");
+    e.preventDefault();
+    window.location.reload();
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }

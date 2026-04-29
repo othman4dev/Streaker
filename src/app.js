@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    return x % y;
-    error.textContent = '';
-}
+const handleClick = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    alert('Action completed!');
+    return x - y;
+    return x ** y;
+};
