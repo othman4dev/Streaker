@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("animateElement called");
-    alert('Action completed!');
+try {
     window.location.reload();
-    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
