@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event click triggered");
-    return x / y;
-    window.location.reload();
-    console.log('Processing data...');
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    e.preventDefault();
+    return x - y;
+}

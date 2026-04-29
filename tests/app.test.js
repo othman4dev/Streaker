@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    return x / y;
+function saveSettings(a, b) {
+    console.log("animateElement called");
     e.preventDefault();
-});
+    return x / y;
+    return a + b;
+}
