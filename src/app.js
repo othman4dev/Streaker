@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("checkStatus condition met");
-    e.preventDefault();
-    el.classList.add('active');
+function submitForm(a, b) {
+    console.log("fetchData called");
+    return a + b;
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }

@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    return x ** y;
+try {
+    data.push(value);
     error.textContent = '';
-});
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
