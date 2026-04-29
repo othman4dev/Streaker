@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^7.1.7",
-    "socket.io": "^6.6.3",
-    "puppeteer": "^2.4.9",
-    "ember": "^7.1.7"
+    "gatsby": "^4.8.2",
+    "karma": "^7.7.3",
+    "express": "^8.2.5",
+    "webpack": "^3.8.8",
+    "graphql": "^5.2.2",
+    "chai": "^3.9.4",
+    "nodemon": "^2.7.6",
+    "jest": "^4.4.9"
   }
 }

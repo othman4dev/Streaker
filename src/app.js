@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    return x * y;
-    window.location.reload();
-    window.location.reload();
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    error.textContent = '';
+    return x ** y;
+});

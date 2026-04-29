@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("handleClick called");
-    el.classList.add('active');
-    error.textContent = '';
-    data.push(value);
-}
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return a + b;
+};
