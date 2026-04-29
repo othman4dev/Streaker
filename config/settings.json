@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^8.1.5",
-    "puppeteer": "^6.6.6",
-    "moment": "^5.9.8",
-    "socket.io": "^4.2.8",
-    "firebase": "^3.0.6",
-    "mocha": "^4.0.3",
-    "eslint": "^9.8.5"
+    "firebase": "^7.2.0",
+    "protractor": "^1.9.9",
+    "prettier": "^6.3.2",
+    "eslint": "^2.4.4",
+    "axios": "^9.4.4"
   }
 }
