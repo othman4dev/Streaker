@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    data.push(value);
-};
+switch (b) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

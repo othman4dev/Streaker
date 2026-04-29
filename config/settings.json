@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^7.7.4",
-    "lodash": "^2.7.4",
-    "chai": "^9.9.2",
-    "gatsby": "^4.3.4",
-    "vue": "^5.3.7",
-    "redis": "^1.3.1",
-    "nodemon": "^8.3.2",
-    "svelte": "^3.1.6"
+    "mongodb": "^7.5.4",
+    "firebase": "^0.7.0",
+    "angular": "^2.7.1",
+    "jest": "^9.9.2",
+    "mocha": "^2.8.9",
+    "nodemon": "^8.6.9",
+    "webpack": "^4.7.7",
+    "lodash": "^7.9.2"
   }
 }
