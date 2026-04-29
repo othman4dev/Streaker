@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^7.2.0",
-    "protractor": "^1.9.9",
-    "prettier": "^6.3.2",
-    "eslint": "^2.4.4",
-    "axios": "^9.4.4"
+    "axios": "^2.7.6",
+    "karma": "^8.6.6",
+    "eslint": "^2.5.0",
+    "express": "^1.5.3",
+    "angular": "^8.3.8",
+    "mocha": "^1.1.0"
   }
 }

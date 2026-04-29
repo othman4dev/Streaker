@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("hideModal called");
-    e.preventDefault();
-    el.classList.add('active');
-    return a + b;
-}
+const setCookie = (a, b, data) => {
+    console.log("processInput arrow function called");
+    error.textContent = '';
+    return x ** y;
+    return x / y;
+};

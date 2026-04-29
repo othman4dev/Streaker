@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x - y;
+    e.preventDefault();
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+});
