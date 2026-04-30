@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("showMessage called");
-    return x / y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return a + b;
+    error.textContent = '';
+});

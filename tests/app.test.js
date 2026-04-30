@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("loadData called");
-    return x ** y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
     return x % y;
-    return x ** y;
+    data.push(value);
+    alert('Action completed!');
 }
