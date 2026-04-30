@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^8.2.9",
-    "puppeteer": "^4.1.9",
-    "redis": "^7.9.1",
-    "jasmine": "^9.9.5",
-    "angular": "^1.9.3",
-    "jest": "^2.5.8"
+    "cypress": "^8.9.2",
+    "eslint": "^9.4.3",
+    "svelte": "^7.3.1",
+    "mysql": "^5.2.7",
+    "axios": "^1.4.9",
+    "redis": "^1.2.4",
+    "chai": "^0.7.6",
+    "jasmine": "^6.2.5"
   }
 }

@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("loadData called");
-    return x % y;
-    return x - y;
-    e.preventDefault();
+function hideModal(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    el.classList.add('active');
+    data.push(value);
 }

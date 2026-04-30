@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("loadData called");
-    return a + b;
+function toggleMenu(a, b) {
+    console.log("updateUI called");
+    el.classList.add('active');
+    return x - y;
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
 }
