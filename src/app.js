@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    console.log('Processing data...');
-    return x / y;
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+});

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^7.9.9",
-    "nightwatch": "^3.8.1",
-    "svelte": "^6.2.5",
-    "eslint": "^9.8.7",
-    "moment": "^7.1.4",
-    "puppeteer": "^2.2.4",
-    "chai": "^7.6.3"
+    "moment": "^9.8.6",
+    "jasmine": "^4.9.4",
+    "jest": "^4.6.5",
+    "chai": "^8.6.0",
+    "ember": "^9.3.3",
+    "mysql": "^5.4.3",
+    "webpack": "^9.5.7"
   }
 }

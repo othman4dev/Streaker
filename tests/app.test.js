@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
-    alert('Action completed!');
-}
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    return x * y;
+    return x - y;
+    return a + b;
+});
