@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^3.4.1",
-    "babel": "^7.6.1",
-    "aws-sdk": "^7.4.0",
-    "mysql": "^6.4.0",
-    "firebase": "^0.2.4",
-    "nodemon": "^7.3.9",
-    "eslint": "^7.5.9"
+    "babel": "^0.0.0",
+    "redis": "^2.5.1",
+    "aws-sdk": "^9.1.7",
+    "karma": "^1.5.0",
+    "firebase": "^3.0.7",
+    "ember": "^2.8.3",
+    "puppeteer": "^6.5.0"
   }
 }

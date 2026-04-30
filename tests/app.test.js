@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    window.location.reload();
+    return x - y;
+});
