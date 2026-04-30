@@ -1,7 +1,6 @@
-try {
-    return x / y;
+const formatDate = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x % y;
+    return x % y;
     return x - y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
