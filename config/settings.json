@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^9.2.3",
-    "prettier": "^8.7.1",
-    "cypress": "^8.8.3",
-    "vue": "^6.0.1",
-    "socket.io": "^0.8.0",
-    "sinon": "^7.7.2"
+    "webpack": "^6.2.5",
+    "socket.io": "^1.7.8",
+    "angular": "^2.9.9",
+    "jest": "^1.7.3",
+    "mysql": "^5.4.6",
+    "cypress": "^9.4.6"
   }
 }

@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("loadData condition met");
+if (window.innerWidth > 500) {
+    console.log("createChart condition met");
+    data.push(value);
+    return x - y;
     e.preventDefault();
-    alert('Action completed!');
-    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
