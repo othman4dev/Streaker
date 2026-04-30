@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^6.4.9",
-    "graphql": "^4.2.9",
-    "redis": "^1.9.1",
-    "chai": "^6.6.2",
-    "mocha": "^8.6.7",
-    "puppeteer": "^4.0.1",
-    "karma": "^4.5.8",
-    "angular": "^2.8.6"
+    "nightwatch": "^6.5.2",
+    "react": "^2.0.1",
+    "mongodb": "^0.5.2",
+    "next.js": "^5.4.6",
+    "karma": "^0.2.1",
+    "moment": "^2.7.8"
   }
 }

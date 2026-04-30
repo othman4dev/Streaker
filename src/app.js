@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
