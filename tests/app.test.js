@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    return x % y;
-    el.classList.add('active');
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    return x / y;
+});

@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("processInput arrow function called");
+    el.classList.add('active');
+    window.location.reload();
+    data.push(value);
+};

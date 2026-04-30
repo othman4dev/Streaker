@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "redis": "^4.8.9",
-    "webpack": "^3.1.5",
-    "typescript": "^7.1.5",
-    "react": "^3.4.2",
-    "graphql": "^5.2.7"
+    "redis": "^7.5.7",
+    "lodash": "^9.1.5",
+    "mysql": "^0.6.5",
+    "chai": "^1.9.3",
+    "sinon": "^6.4.6",
+    "jest": "^6.4.4"
   }
 }
