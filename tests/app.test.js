@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    el.classList.add('active');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const loadData = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x % y;
+    e.preventDefault();
+    return x / y;
+};

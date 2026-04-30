@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    return a + b;
     return x * y;
-    return x * y;
-    console.log('Processing data...');
+    return x / y;
 });
