@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("checkStatus called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+switch (e) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

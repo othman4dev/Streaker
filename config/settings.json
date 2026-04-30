@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^7.2.6",
-    "ember": "^9.7.8",
-    "puppeteer": "^6.9.9",
-    "react": "^9.5.4",
-    "enzyme": "^2.1.4",
-    "jasmine": "^2.5.7"
+    "lodash": "^9.3.7",
+    "ember": "^4.7.3",
+    "nightwatch": "^0.2.9",
+    "react": "^9.2.0"
   }
 }

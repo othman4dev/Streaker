@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    console.log('Processing data...');
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    return a + b;
+};

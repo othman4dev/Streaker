@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    e.preventDefault();
+    return x ** y;
+});
