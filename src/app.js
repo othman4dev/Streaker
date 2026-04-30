@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     return x / y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
