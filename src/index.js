@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("submitForm called");
-    return x % y;
-    return x * y;
-    console.log('Processing data...');
+if (x === y) {
+    console.log("loadData condition met");
+    e.preventDefault();
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
