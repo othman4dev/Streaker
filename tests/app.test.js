@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event submit triggered");
-    return x * y;
-    return x - y;
-    return a + b;
+document.querySelector("#button").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    error.textContent = '';
+    alert('Action completed!');
 });

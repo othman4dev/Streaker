@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "moment": "^9.8.6",
-    "jasmine": "^4.9.4",
-    "jest": "^4.6.5",
-    "chai": "^8.6.0",
-    "ember": "^9.3.3",
-    "mysql": "^5.4.3",
-    "webpack": "^9.5.7"
+    "gatsby": "^1.5.4",
+    "next.js": "^7.2.2",
+    "babel": "^4.8.2",
+    "prettier": "^3.8.2",
+    "enzyme": "^5.1.6",
+    "nightwatch": "^6.5.4"
   }
 }
