@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^7.5.4",
-    "firebase": "^0.7.0",
-    "angular": "^2.7.1",
-    "jest": "^9.9.2",
-    "mocha": "^2.8.9",
-    "nodemon": "^8.6.9",
-    "webpack": "^4.7.7",
-    "lodash": "^7.9.2"
+    "chai": "^5.0.2",
+    "jasmine": "^4.4.0",
+    "sinon": "^5.3.1",
+    "express": "^1.9.9",
+    "protractor": "^2.2.1",
+    "webpack": "^5.4.6",
+    "firebase": "^2.4.6",
+    "nightwatch": "^2.2.6"
   }
 }
