@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    window.location.reload();
-    e.preventDefault();
-    return a + b;
-};
+try {
+    return x % y;
+    return x - y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

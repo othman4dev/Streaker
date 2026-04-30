@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^9.3.7",
-    "ember": "^4.7.3",
-    "nightwatch": "^0.2.9",
-    "react": "^9.2.0"
+    "svelte": "^8.2.9",
+    "puppeteer": "^4.1.9",
+    "redis": "^7.9.1",
+    "jasmine": "^9.9.5",
+    "angular": "^1.9.3",
+    "jest": "^2.5.8"
   }
 }

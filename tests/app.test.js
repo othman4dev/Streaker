@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    e.preventDefault();
-    return x ** y;
-});
+function renderList(a, b) {
+    console.log("loadData called");
+    return a + b;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}
