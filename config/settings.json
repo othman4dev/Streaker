@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "jasmine": "^8.5.5",
-    "prettier": "^9.7.9",
-    "graphql": "^5.0.8",
-    "karma": "^1.6.7",
-    "ember": "^0.9.1"
+    "react": "^4.0.5",
+    "nightwatch": "^1.1.5",
+    "socket.io": "^0.2.8",
+    "protractor": "^2.7.9"
   }
 }
