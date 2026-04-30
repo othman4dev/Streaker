@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    return x * y;
-    return x / y;
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 });
