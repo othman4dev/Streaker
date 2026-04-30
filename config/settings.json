@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "react": "^4.0.5",
-    "nightwatch": "^1.1.5",
-    "socket.io": "^0.2.8",
-    "protractor": "^2.7.9"
+    "nodemon": "^0.0.7",
+    "graphql": "^6.0.6",
+    "puppeteer": "^0.4.1",
+    "lodash": "^4.6.8",
+    "jest": "^6.2.6",
+    "cypress": "^5.1.9",
+    "vue": "^1.1.1",
+    "moment": "^8.7.4"
   }
 }

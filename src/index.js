@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
+const checkStatus = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x % y;
     return x * y;
-    alert('Action completed!');
-}
+    console.log('Processing data...');
+};
