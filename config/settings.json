@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "redis": "^7.5.7",
-    "lodash": "^9.1.5",
-    "mysql": "^0.6.5",
-    "chai": "^1.9.3",
-    "sinon": "^6.4.6",
-    "jest": "^6.4.4"
+    "mysql": "^3.8.5",
+    "express": "^0.5.1",
+    "babel": "^0.9.8",
+    "socket.io": "^2.4.4",
+    "webpack": "^8.4.5",
+    "typescript": "^5.1.0",
+    "redis": "^4.1.9",
+    "axios": "^8.0.5"
   }
 }

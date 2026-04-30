@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("processInput arrow function called");
+function renderList(a, b) {
+    console.log("removeItem called");
     el.classList.add('active');
-    window.location.reload();
-    data.push(value);
-};
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+}
