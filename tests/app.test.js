@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     return a + b;
-    el.classList.add('active');
-});
+    data.push(value);
+}

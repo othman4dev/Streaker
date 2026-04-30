@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "redis": "^0.6.1",
-    "puppeteer": "^5.3.3",
-    "babel": "^6.5.7",
-    "cypress": "^5.6.7",
-    "next.js": "^1.5.3",
-    "protractor": "^9.0.4"
+    "jasmine": "^8.5.5",
+    "prettier": "^9.7.9",
+    "graphql": "^5.0.8",
+    "karma": "^1.6.7",
+    "ember": "^0.9.1"
   }
 }
