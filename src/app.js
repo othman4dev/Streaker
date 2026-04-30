@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("setCookie called");
-    return x % y;
-    return x ** y;
-    return x - y;
+function renderList(a, b) {
+    console.log("checkStatus called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    data.push(value);
-    return x - y;
-    e.preventDefault();
+if (data.length > 0) {
+    console.log("showMessage condition met");
+    console.log('Processing data...');
+    return x ** y;
+    return x / y;
 } else {
     console.log("Condition not met");
 }
