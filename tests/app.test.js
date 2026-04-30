@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
+try {
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}

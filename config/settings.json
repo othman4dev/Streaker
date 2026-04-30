@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^8.9.3",
-    "axios": "^5.4.3",
-    "enzyme": "^6.3.5",
-    "cypress": "^2.8.6",
-    "moment": "^9.6.5",
-    "karma": "^7.6.8",
-    "vue": "^8.1.5"
+    "lodash": "^3.4.1",
+    "babel": "^7.6.1",
+    "aws-sdk": "^7.4.0",
+    "mysql": "^6.4.0",
+    "firebase": "^0.2.4",
+    "nodemon": "^7.3.9",
+    "eslint": "^7.5.9"
   }
 }

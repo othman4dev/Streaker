@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
+const loadData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x * y;
-    data.push(value);
+    return x % y;
+    error.textContent = '';
 };
