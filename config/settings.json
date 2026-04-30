@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^8.9.2",
-    "eslint": "^9.4.3",
-    "svelte": "^7.3.1",
-    "mysql": "^5.2.7",
-    "axios": "^1.4.9",
-    "redis": "^1.2.4",
-    "chai": "^0.7.6",
-    "jasmine": "^6.2.5"
+    "firebase": "^6.4.9",
+    "graphql": "^4.2.9",
+    "redis": "^1.9.1",
+    "chai": "^6.6.2",
+    "mocha": "^8.6.7",
+    "puppeteer": "^4.0.1",
+    "karma": "^4.5.8",
+    "angular": "^2.8.6"
   }
 }

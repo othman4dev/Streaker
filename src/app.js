@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    window.location.reload();
-    el.classList.add('active');
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    console.log('Processing data...');
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("updateUI called");
-    el.classList.add('active');
-    return x - y;
-    console.log('Processing data...');
-}
+const processInput = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x % y;
+    return x ** y;
+    return x % y;
+};
