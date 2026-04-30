@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event focus triggered");
+if (window.innerWidth > 500) {
+    console.log("loadData condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     return x ** y;
-    e.preventDefault();
-    return x % y;
-});
+} else {
+    console.log("Condition not met");
+}

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "babel": "^0.0.0",
-    "redis": "^2.5.1",
-    "aws-sdk": "^9.1.7",
-    "karma": "^1.5.0",
-    "firebase": "^3.0.7",
-    "ember": "^2.8.3",
-    "puppeteer": "^6.5.0"
+    "moment": "^6.0.7",
+    "lodash": "^4.0.7",
+    "mocha": "^7.3.7",
+    "redis": "^8.0.2",
+    "next.js": "^6.2.5",
+    "typescript": "^2.5.0",
+    "graphql": "^8.7.0",
+    "react": "^9.9.6"
   }
 }
