@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event input triggered");
     return x - y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
