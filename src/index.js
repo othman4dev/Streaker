@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    alert('Action completed!');
-    return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const hideModal = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    e.preventDefault();
+};
