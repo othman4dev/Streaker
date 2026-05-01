@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
-    return x - y;
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    alert('Action completed!');
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

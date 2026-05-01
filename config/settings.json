@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^2.8.0",
-    "jest": "^9.8.8",
-    "typescript": "^9.8.8",
-    "webpack": "^4.3.3",
-    "mocha": "^8.6.8"
+    "axios": "^2.5.3",
+    "enzyme": "^1.5.3",
+    "chai": "^6.7.1",
+    "karma": "^8.0.5",
+    "react": "^4.0.3"
   }
 }
