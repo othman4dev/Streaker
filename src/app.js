@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    error.textContent = '';
-    return x ** y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    el.classList.add('active');
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    el.classList.add('active');
-    return x * y;
-    return x ** y;
-});
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    alert('Action completed!');
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

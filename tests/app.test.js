@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    return a + b;
-    return x % y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    window.location.reload();
+};
