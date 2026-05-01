@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^0.0.7",
-    "graphql": "^6.0.6",
-    "puppeteer": "^0.4.1",
-    "lodash": "^4.6.8",
-    "jest": "^6.2.6",
-    "cypress": "^5.1.9",
-    "vue": "^1.1.1",
-    "moment": "^8.7.4"
+    "typescript": "^7.2.5",
+    "webpack": "^6.5.7",
+    "babel": "^8.3.5",
+    "firebase": "^9.5.3",
+    "mongodb": "^5.2.8",
+    "redis": "^3.4.8",
+    "axios": "^2.8.1"
   }
 }

@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("createChart called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+if (e.key === 'Enter') {
+    console.log("createChart condition met");
+    el.classList.add('active');
+    return x / y;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
