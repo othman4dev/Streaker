@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    window.location.reload();
-    return x - y;
-    return x % y;
-});
+function saveSettings(a, b) {
+    console.log("submitForm called");
+    return x ** y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+}

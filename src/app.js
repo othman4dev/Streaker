@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("createChart called");
-    return x ** y;
-    alert('Action completed!');
-    return x - y;
+try {
+    console.log('Processing data...');
+    return x % y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

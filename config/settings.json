@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^6.1.7",
-    "nodemon": "^1.5.7",
-    "gatsby": "^2.3.9",
-    "ember": "^5.5.8",
-    "mysql": "^9.7.0",
-    "puppeteer": "^4.3.7"
+    "firebase": "^9.7.4",
+    "lodash": "^1.6.1",
+    "redis": "^2.1.2",
+    "vue": "^2.8.8",
+    "karma": "^4.0.9"
   }
 }
