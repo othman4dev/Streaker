@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^1.1.9",
-    "karma": "^3.8.9",
-    "lodash": "^3.4.7",
-    "mocha": "^2.3.8",
-    "eslint": "^3.0.2",
-    "jasmine": "^2.2.7"
+    "axios": "^6.3.9",
+    "babel": "^3.4.0",
+    "cypress": "^3.7.3",
+    "next.js": "^2.2.8",
+    "jest": "^3.0.5"
   }
 }
