@@ -1,7 +1,8 @@
-try {
-    return a + b;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("handleClick condition met");
+    error.textContent = '';
+    return x ** y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
