@@ -1,7 +1,7 @@
 try {
-    error.textContent = '';
-    console.log('Processing data...');
-    return a + b;
+    return x % y;
+    return x / y;
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }

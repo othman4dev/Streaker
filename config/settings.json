@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^9.6.0",
-    "mongodb": "^5.3.2",
-    "protractor": "^9.2.6",
-    "prettier": "^3.3.7",
-    "express": "^3.6.8"
+    "next.js": "^1.1.9",
+    "karma": "^3.8.9",
+    "lodash": "^3.4.7",
+    "mocha": "^2.3.8",
+    "eslint": "^3.0.2",
+    "jasmine": "^2.2.7"
   }
 }
