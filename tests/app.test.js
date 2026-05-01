@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    data.push(value);
+if (a > b) {
+    console.log("saveSettings condition met");
+    return x % y;
     error.textContent = '';
-    return x * y;
-});
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

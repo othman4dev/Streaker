@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "chai": "^1.2.5",
-    "enzyme": "^0.1.7",
-    "jest": "^2.4.9",
-    "socket.io": "^4.5.8",
-    "mocha": "^5.9.2",
-    "puppeteer": "^8.9.9",
-    "react": "^8.2.7",
-    "webpack": "^4.4.3"
+    "webpack": "^4.6.0",
+    "typescript": "^6.9.7",
+    "ember": "^8.5.4",
+    "react": "^0.3.4",
+    "redis": "^5.3.6",
+    "socket.io": "^9.7.9",
+    "moment": "^1.4.8",
+    "mysql": "^6.4.1"
   }
 }
