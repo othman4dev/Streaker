@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x / y;
-    return x % y;
-    return a + b;
-});
+const animateElement = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};

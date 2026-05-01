@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "chai": "^8.5.8",
-    "ember": "^1.7.0",
-    "enzyme": "^4.4.6",
-    "mongodb": "^0.9.6",
-    "moment": "^4.4.2",
-    "gatsby": "^2.1.9",
-    "express": "^3.3.1"
+    "vue": "^8.3.3",
+    "jasmine": "^0.8.4",
+    "eslint": "^2.0.4",
+    "lodash": "^7.4.6",
+    "jest": "^6.5.1"
   }
 }

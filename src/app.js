@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+const animateElement = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
     data.push(value);
-    window.location.reload();
-}
+    return x ** y;
+};
