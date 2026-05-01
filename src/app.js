@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("removeItem called");
-    error.textContent = '';
-    return x * y;
-    el.classList.add('active');
+try {
+    return a + b;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
