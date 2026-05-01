@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("animateElement called");
-    data.push(value);
-    el.classList.add('active');
-    return x ** y;
+switch (value) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

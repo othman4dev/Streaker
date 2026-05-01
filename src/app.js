@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
+const renderList = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    window.location.reload();
+    error.textContent = '';
     return x / y;
-    return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};

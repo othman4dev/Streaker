@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    return x - y;
-    return a + b;
-}
+const handleClick = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    data.push(value);
+    el.classList.add('active');
+    return x % y;
+};

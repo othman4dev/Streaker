@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^6.1.9",
-    "lodash": "^6.0.2",
-    "express": "^3.9.4",
-    "next.js": "^3.2.5",
-    "karma": "^6.8.8",
-    "jest": "^8.0.9",
-    "mongodb": "^1.4.1"
+    "karma": "^0.1.5",
+    "typescript": "^2.9.0",
+    "axios": "^1.6.4",
+    "puppeteer": "^0.8.0",
+    "angular": "^8.9.6",
+    "protractor": "^9.8.6",
+    "eslint": "^3.6.2"
   }
 }
