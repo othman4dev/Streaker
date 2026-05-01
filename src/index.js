@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("fetchData called");
+    alert('Action completed!');
+    e.preventDefault();
+    data.push(value);
 }

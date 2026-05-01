@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("validateInput called");
-    error.textContent = '';
-    error.textContent = '';
-    return x - y;
-}
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event submit triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});

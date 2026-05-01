@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^0.6.1",
-    "chai": "^1.7.5",
-    "lodash": "^2.1.9",
-    "firebase": "^0.0.3",
-    "cypress": "^9.7.4",
-    "jest": "^1.7.3"
+    "next.js": "^9.6.0",
+    "mongodb": "^5.3.2",
+    "protractor": "^9.2.6",
+    "prettier": "^3.3.7",
+    "express": "^3.6.8"
   }
 }
