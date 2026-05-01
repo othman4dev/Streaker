@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    el.classList.add('active');
-    return x / y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }

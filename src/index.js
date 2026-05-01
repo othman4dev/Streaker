@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
+const updateUI = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     data.push(value);
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    alert('Action completed!');
+};
