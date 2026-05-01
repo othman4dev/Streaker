@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("handleClick called");
-    return x - y;
-    error.textContent = '';
-    return x ** y;
+function processInput(a, b) {
+    console.log("displayError called");
+    e.preventDefault();
+    return x * y;
+    data.push(value);
 }
