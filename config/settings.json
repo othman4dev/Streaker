@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^0.9.4",
-    "redis": "^4.6.7",
-    "mongodb": "^8.6.5",
-    "firebase": "^3.8.2",
-    "angular": "^4.6.6",
-    "ember": "^0.1.2",
-    "puppeteer": "^0.9.9",
-    "react": "^2.8.0"
+    "sinon": "^9.3.5",
+    "jasmine": "^8.6.2",
+    "protractor": "^0.6.7",
+    "aws-sdk": "^9.6.9",
+    "firebase": "^1.4.3",
+    "jest": "^8.3.6",
+    "mongodb": "^0.7.9",
+    "karma": "^8.5.3"
   }
 }

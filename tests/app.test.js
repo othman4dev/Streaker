@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event input triggered");
+function setSessionStorage(a, b) {
+    console.log("removeItem called");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+    return x - y;
+    return x - y;
+}

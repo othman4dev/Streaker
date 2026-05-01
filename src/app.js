@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
-    window.location.reload();
-    alert('Action completed!');
+switch (value) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
