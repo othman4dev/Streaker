@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "vue": "^8.3.3",
-    "jasmine": "^0.8.4",
-    "eslint": "^2.0.4",
-    "lodash": "^7.4.6",
-    "jest": "^6.5.1"
+    "jest": "^6.1.7",
+    "nodemon": "^1.5.7",
+    "gatsby": "^2.3.9",
+    "ember": "^5.5.8",
+    "mysql": "^9.7.0",
+    "puppeteer": "^4.3.7"
   }
 }

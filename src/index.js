@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("getLocalStorage called");
-    return x % y;
-    el.classList.add('active');
-    alert('Action completed!');
+try {
+    e.preventDefault();
+    window.location.reload();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    data.push(value);
+function validateInput(a, b) {
+    console.log("createChart called");
     return x ** y;
-};
+    alert('Action completed!');
+    return x - y;
+}

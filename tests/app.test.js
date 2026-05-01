@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    window.location.reload();
     return x - y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x % y;
+});
