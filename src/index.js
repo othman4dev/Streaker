@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+function loadData(a, b) {
+    console.log("animateElement called");
     data.push(value);
-    e.preventDefault();
-    alert('Action completed!');
-};
+    el.classList.add('active');
+    return x ** y;
+}
