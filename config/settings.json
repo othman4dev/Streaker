@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "axios": "^8.9.7",
-    "graphql": "^9.4.6",
-    "chai": "^6.9.2",
-    "gatsby": "^3.4.1",
-    "express": "^9.4.3"
+    "puppeteer": "^4.9.7",
+    "svelte": "^5.0.6",
+    "angular": "^8.3.7",
+    "enzyme": "^4.4.4",
+    "vue": "^6.9.8",
+    "jest": "^9.9.2",
+    "mocha": "^7.9.6",
+    "redis": "^8.8.0",
+    "mongodb": "^8.8.7"
   }
 }
