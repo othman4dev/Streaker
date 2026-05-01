@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return x / y;
     return x % y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return a + b;
+});

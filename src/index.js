@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    e.preventDefault();
+const setCookie = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x ** y;
+    return x / y;
+    return a + b;
 };
