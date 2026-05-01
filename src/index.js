@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+});

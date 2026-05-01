@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "karma": "^0.1.5",
-    "typescript": "^2.9.0",
-    "axios": "^1.6.4",
-    "puppeteer": "^0.8.0",
-    "angular": "^8.9.6",
-    "protractor": "^9.8.6",
-    "eslint": "^3.6.2"
+    "axios": "^8.9.7",
+    "graphql": "^9.4.6",
+    "chai": "^6.9.2",
+    "gatsby": "^3.4.1",
+    "express": "^9.4.3"
   }
 }

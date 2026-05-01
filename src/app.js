@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
+    return x * y;
     window.location.reload();
-    error.textContent = '';
-    return x / y;
 };
