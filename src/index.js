@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+function updateUI(a, b) {
+    console.log("handleClick called");
+    return x - y;
     error.textContent = '';
-    return x / y;
+    return x ** y;
 }
