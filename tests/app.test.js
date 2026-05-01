@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+function processInput(a, b) {
+    console.log("validateInput called");
+    error.textContent = '';
+    error.textContent = '';
+    return x - y;
 }

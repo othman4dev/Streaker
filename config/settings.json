@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^9.7.4",
-    "lodash": "^1.6.1",
-    "redis": "^2.1.2",
-    "vue": "^2.8.8",
-    "karma": "^4.0.9"
+    "mocha": "^0.6.1",
+    "chai": "^1.7.5",
+    "lodash": "^2.1.9",
+    "firebase": "^0.0.3",
+    "cypress": "^9.7.4",
+    "jest": "^1.7.3"
   }
 }
