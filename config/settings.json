@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^6.3.9",
-    "babel": "^3.4.0",
-    "cypress": "^3.7.3",
-    "next.js": "^2.2.8",
-    "jest": "^3.0.5"
+    "mysql": "^2.8.0",
+    "jest": "^9.8.8",
+    "typescript": "^9.8.8",
+    "webpack": "^4.3.3",
+    "mocha": "^8.6.8"
   }
 }

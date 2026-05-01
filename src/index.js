@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x / y;
-};
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

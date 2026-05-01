@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    return x ** y;
-    error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    return x - y;
+    error.textContent = '';
 }
