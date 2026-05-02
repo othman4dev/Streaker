@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    return x % y;
-    return x ** y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x - y;
+    console.log('Processing data...');
+    alert('Action completed!');
+};

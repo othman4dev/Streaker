@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "chai": "^9.9.4",
-    "react": "^6.4.2",
-    "aws-sdk": "^6.4.0",
-    "express": "^4.1.7",
-    "ember": "^4.3.9",
-    "mongodb": "^2.1.7",
-    "protractor": "^6.8.3"
+    "chai": "^0.1.2",
+    "react": "^1.5.1",
+    "babel": "^4.5.3",
+    "svelte": "^2.0.6",
+    "express": "^8.0.5",
+    "gatsby": "^2.5.8"
   }
 }

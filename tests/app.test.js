@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("handleClick called");
-    return x % y;
-    alert('Action completed!');
-    alert('Action completed!');
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
+    return x / y;
+    return a + b;
+});
