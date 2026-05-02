@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^9.0.5",
-    "webpack": "^3.4.4",
-    "axios": "^2.2.0",
-    "aws-sdk": "^7.1.7",
-    "ember": "^9.5.4",
-    "react": "^1.8.6",
-    "jest": "^3.3.2",
-    "protractor": "^9.7.6"
+    "puppeteer": "^7.3.4",
+    "protractor": "^7.2.7",
+    "nodemon": "^3.2.3",
+    "moment": "^9.2.5",
+    "ember": "^4.1.8",
+    "firebase": "^2.3.8"
   }
 }
