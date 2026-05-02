@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^6.5.7",
-    "gatsby": "^4.5.9",
-    "ember": "^8.1.0",
-    "aws-sdk": "^4.0.5",
-    "webpack": "^5.3.3"
+    "react": "^6.7.8",
+    "lodash": "^4.4.1",
+    "sinon": "^4.9.0",
+    "aws-sdk": "^1.4.8",
+    "puppeteer": "^5.2.3",
+    "protractor": "^5.4.6"
   }
 }

@@ -1,7 +1,8 @@
-switch (x) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    window.location.reload();
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x / y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+    el.classList.add('active');
+}
