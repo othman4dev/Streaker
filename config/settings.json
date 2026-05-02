@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^4.9.3",
-    "gatsby": "^8.2.0",
-    "babel": "^1.4.3",
-    "moment": "^8.1.2",
-    "chai": "^4.9.5",
-    "next.js": "^5.7.2",
-    "protractor": "^8.2.2",
-    "mysql": "^1.2.3"
+    "mongodb": "^5.7.8",
+    "next.js": "^5.8.2",
+    "prettier": "^1.0.0",
+    "puppeteer": "^1.2.4",
+    "axios": "^2.8.5"
   }
 }

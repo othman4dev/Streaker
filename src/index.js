@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    console.log('Processing data...');
-    return x * y;
-    alert('Action completed!');
+if (value !== '') {
+    console.log("loadData condition met");
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
