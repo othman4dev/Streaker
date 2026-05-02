@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    error.textContent = '';
-    e.preventDefault();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("animateElement called");
+    return x % y;
+    return x / y;
+    return a + b;
 }

@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("submitForm called");
-    return x - y;
-    return x ** y;
+if (x === y) {
+    console.log("createChart condition met");
     e.preventDefault();
+    return x - y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

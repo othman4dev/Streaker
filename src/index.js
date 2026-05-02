@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    window.location.reload();
+try {
+    return a + b;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^4.4.8",
-    "axios": "^3.1.9",
-    "cypress": "^9.2.4",
-    "nodemon": "^7.6.1",
-    "enzyme": "^5.5.0"
+    "graphql": "^0.9.1",
+    "cypress": "^0.6.9",
+    "jest": "^4.3.9",
+    "redis": "^1.2.3",
+    "socket.io": "^8.0.2",
+    "moment": "^4.2.6",
+    "prettier": "^5.7.3"
   }
 }
