@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("processInput called");
-    return x / y;
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    return x - y;
+    return x * y;
     alert('Action completed!');
-    window.location.reload();
-}
+});
