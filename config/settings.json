@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^9.3.5",
-    "jasmine": "^8.6.2",
-    "protractor": "^0.6.7",
-    "aws-sdk": "^9.6.9",
-    "firebase": "^1.4.3",
-    "jest": "^8.3.6",
-    "mongodb": "^0.7.9",
-    "karma": "^8.5.3"
+    "mocha": "^9.1.8",
+    "aws-sdk": "^7.7.6",
+    "babel": "^6.8.4",
+    "typescript": "^2.3.6",
+    "graphql": "^5.8.9",
+    "socket.io": "^2.0.4",
+    "lodash": "^4.9.7",
+    "nodemon": "^2.5.3"
   }
 }
