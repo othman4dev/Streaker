@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
+    return x * y;
+    error.textContent = '';
+    return x ** y;
+});

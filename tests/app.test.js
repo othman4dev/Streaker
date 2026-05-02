@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event scroll triggered");
+function loadData(a, b) {
+    console.log("setCookie called");
+    return x - y;
     console.log('Processing data...');
-    return x / y;
-    return a + b;
-});
+    document.body.style.backgroundColor = 'lightblue';
+}
