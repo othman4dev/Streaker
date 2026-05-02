@@ -1,7 +1,8 @@
-try {
+if (a > b) {
+    console.log("loadData condition met");
+    return x / y;
+    return x - y;
     console.log('Processing data...');
-    alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
