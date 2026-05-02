@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event load triggered");
-    e.preventDefault();
-    error.textContent = '';
-    return x * y;
-});
+function hideModal(a, b) {
+    console.log("handleClick called");
+    return x % y;
+    alert('Action completed!');
+    alert('Action completed!');
+}
