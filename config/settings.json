@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "jest": "^8.9.1",
-    "karma": "^7.9.6",
-    "socket.io": "^5.5.2",
-    "axios": "^3.0.9",
-    "sinon": "^6.7.1"
+    "angular": "^1.4.5",
+    "firebase": "^0.2.4",
+    "puppeteer": "^1.7.3",
+    "nightwatch": "^2.6.9"
   }
 }

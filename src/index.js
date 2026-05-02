@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    alert('Action completed!');
+const toggleMenu = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return x ** y;
-}
+    window.location.reload();
+    return x - y;
+};
