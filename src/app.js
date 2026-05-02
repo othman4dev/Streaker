@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    window.location.reload();
-    return a + b;
+const toggleMenu = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
     alert('Action completed!');
+    console.log('Processing data...');
 };
