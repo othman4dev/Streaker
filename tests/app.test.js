@@ -1,6 +1,8 @@
-function loadData(a, b) {
-    console.log("setCookie called");
-    return x - y;
+if (a > b) {
+    console.log("saveSettings condition met");
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }
