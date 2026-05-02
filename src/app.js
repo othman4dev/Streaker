@@ -1,6 +1,7 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+switch (e) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

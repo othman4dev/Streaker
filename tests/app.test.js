@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    return a + b;
-    return x - y;
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event load triggered");
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+    return x * y;
+});
