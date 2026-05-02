@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    console.log('Processing data...');
-    console.log('Processing data...');
+function setCookie(a, b) {
+    console.log("saveSettings called");
     return a + b;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    return x - y;
 }

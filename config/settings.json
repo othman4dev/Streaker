@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^5.7.6",
-    "graphql": "^8.0.0",
-    "jest": "^7.2.0",
-    "lodash": "^4.6.9",
-    "redis": "^3.9.1",
-    "babel": "^1.7.0",
-    "vue": "^3.1.5"
+    "gatsby": "^9.0.5",
+    "webpack": "^3.4.4",
+    "axios": "^2.2.0",
+    "aws-sdk": "^7.1.7",
+    "ember": "^9.5.4",
+    "react": "^1.8.6",
+    "jest": "^3.3.2",
+    "protractor": "^9.7.6"
   }
 }
