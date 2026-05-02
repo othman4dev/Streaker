@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event input triggered");
+if (x !== y) {
+    console.log("saveSettings condition met");
+    console.log('Processing data...');
     return x / y;
-    return x / y;
-    return x ** y;
-});
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
