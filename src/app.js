@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
+function saveSettings(a, b) {
+    console.log("submitForm called");
     return x - y;
-    alert('Action completed!');
-    console.log('Processing data...');
-};
+    return x ** y;
+    e.preventDefault();
+}
