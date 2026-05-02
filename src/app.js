@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("loadData condition met");
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event input triggered");
     return x / y;
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x ** y;
+});
