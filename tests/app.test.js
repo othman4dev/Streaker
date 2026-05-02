@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    return x - y;
-    return x * y;
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
     alert('Action completed!');
+    return x ** y;
+    return x ** y;
 });

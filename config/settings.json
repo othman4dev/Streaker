@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^9.0.8",
-    "babel": "^0.8.4",
-    "graphql": "^5.1.7",
-    "vue": "^9.9.2",
-    "ember": "^7.2.1",
-    "redis": "^4.9.5",
-    "nodemon": "^5.4.7",
-    "puppeteer": "^7.5.8",
-    "typescript": "^0.9.5"
+    "eslint": "^3.5.2",
+    "angular": "^1.1.4",
+    "vue": "^3.6.6",
+    "ember": "^8.4.2",
+    "graphql": "^3.5.7",
+    "enzyme": "^5.4.2",
+    "prettier": "^1.4.4",
+    "cypress": "^3.0.3"
   }
 }
