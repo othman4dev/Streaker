@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^2.5.3",
-    "enzyme": "^1.5.3",
-    "chai": "^6.7.1",
-    "karma": "^8.0.5",
-    "react": "^4.0.3"
+    "jest": "^8.9.1",
+    "karma": "^7.9.6",
+    "socket.io": "^5.5.2",
+    "axios": "^3.0.9",
+    "sinon": "^6.7.1"
   }
 }

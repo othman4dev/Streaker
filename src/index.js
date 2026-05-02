@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    data.push(value);
-    error.textContent = '';
-    return a + b;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    alert('Action completed!');
+    return x ** y;
 }

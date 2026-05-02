@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    alert('Action completed!');
-    window.location.reload();
+try {
+    return a + b;
+    return a + b;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
