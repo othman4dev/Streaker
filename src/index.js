@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x ** y;
-    window.location.reload();
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event submit triggered");
     return x - y;
-};
+    data.push(value);
+    return x % y;
+});
