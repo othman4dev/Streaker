@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    console.log('Processing data...');
-};
+switch (a) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

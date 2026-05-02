@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    return x ** y;
-    alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    data.push(value);
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
