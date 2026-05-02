@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    data.push(value);
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-}
+    e.preventDefault();
+    console.log('Processing data...');
+};

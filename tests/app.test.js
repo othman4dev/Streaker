@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("saveSettings condition met");
+function submitForm(a, b) {
+    console.log("submitForm called");
     console.log('Processing data...');
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    return x * y;
+    console.log('Processing data...');
 }
