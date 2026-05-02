@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    console.log('Processing data...');
-    return x / y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    window.location.reload();
+    return a + b;
+    alert('Action completed!');
+};
