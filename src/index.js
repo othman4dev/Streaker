@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
+try {
+    window.location.reload();
+    return a + b;
     return x - y;
-    el.classList.add('active');
-    return x - y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}

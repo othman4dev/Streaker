@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    return x * y;
-    alert('Action completed!');
-});
+switch (x) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
