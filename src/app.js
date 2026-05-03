@@ -1,6 +1,6 @@
 function toggleMenu(a, b) {
-    console.log("formatDate called");
-    return a + b;
-    return x % y;
-    data.push(value);
+    console.log("hideModal called");
+    console.log('Processing data...');
+    return x - y;
+    e.preventDefault();
 }

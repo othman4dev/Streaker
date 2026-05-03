@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
-    window.location.reload();
-    return x / y;
-};
+if (value !== '') {
+    console.log("loadData condition met");
+    el.classList.add('active');
+    return x * y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
