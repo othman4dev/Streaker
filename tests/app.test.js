@@ -1,8 +1,8 @@
 if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
+    console.log("formatDate condition met");
+    alert('Action completed!');
     e.preventDefault();
-    e.preventDefault();
-    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 } else {
     console.log("Condition not met");
 }
