@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event load triggered");
-    alert('Action completed!');
-    window.location.reload();
-    return x / y;
-});
+switch (el) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
