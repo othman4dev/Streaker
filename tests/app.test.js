@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x - y;
-}
+const updateUI = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    window.location.reload();
+};
