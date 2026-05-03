@@ -1,7 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^1.0.7",
-    "mysql": "^2.8.0",
-    "axios": "^2.1.3"
+    "mysql": "^7.5.8",
+    "mongodb": "^5.5.4",
+    "babel": "^3.6.1",
+    "express": "^5.5.4",
+    "socket.io": "^5.5.1",
+    "nightwatch": "^7.2.0",
+    "eslint": "^8.6.3"
   }
 }
