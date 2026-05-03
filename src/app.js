@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("validateInput called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+if (x !== y) {
+    console.log("displayError condition met");
+    return x % y;
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

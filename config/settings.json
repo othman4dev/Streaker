@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "karma": "^4.0.6",
-    "protractor": "^0.0.1",
-    "cypress": "^3.3.9",
-    "vue": "^3.2.6",
-    "socket.io": "^9.8.2"
+    "jest": "^7.0.7",
+    "redis": "^2.7.9",
+    "axios": "^1.1.8",
+    "mysql": "^5.6.3",
+    "vue": "^7.0.8",
+    "typescript": "^6.6.5"
   }
 }
