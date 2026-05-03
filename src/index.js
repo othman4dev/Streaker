@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    error.textContent = '';
+function processInput(a, b) {
+    console.log("fetchData called");
+    return x ** y;
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-};
+}

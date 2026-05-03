@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    alert('Action completed!');
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("hideModal condition met");
+    return x * y;
+    error.textContent = '';
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
