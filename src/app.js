@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("showMessage called");
-    document.body.style.backgroundColor = 'lightblue';
+const removeItem = (a, b, data) => {
+    console.log("hideModal arrow function called");
     console.log('Processing data...');
-    return x * y;
-}
+    return a + b;
+    e.preventDefault();
+};

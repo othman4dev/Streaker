@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x * y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+});

@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("validateInput called");
-    window.location.reload();
-    return x / y;
-    error.textContent = '';
-}
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    return x ** y;
+    return x * y;
+    console.log('Processing data...');
+});
