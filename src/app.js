@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    data.push(value);
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+function handleClick(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
+    return x % y;
+    return x % y;
 }

@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^8.0.5",
-    "typescript": "^9.2.8",
-    "aws-sdk": "^6.6.2",
-    "sinon": "^9.9.3",
-    "ember": "^3.4.2",
-    "react": "^6.0.8",
-    "nightwatch": "^4.1.7",
-    "mocha": "^0.2.5"
+    "aws-sdk": "^6.4.1",
+    "graphql": "^4.0.8",
+    "mysql": "^6.6.9",
+    "svelte": "^0.8.9",
+    "lodash": "^7.0.7",
+    "jest": "^8.8.3",
+    "eslint": "^5.4.7",
+    "chai": "^2.9.8"
   }
 }

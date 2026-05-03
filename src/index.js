@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("createChart called");
-    return a + b;
-    return x - y;
-    return x * y;
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    return x / y;
+    console.log('Processing data...');
+});
