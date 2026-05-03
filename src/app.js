@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("createChart condition met");
+if (data.length > 0) {
+    console.log("processInput condition met");
+    return x / y;
     e.preventDefault();
-    return x - y;
-    error.textContent = '';
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
