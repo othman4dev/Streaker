@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x / y;
-});
+function processInput(a, b) {
+    console.log("formatDate called");
+    error.textContent = '';
+    window.location.reload();
+    console.log('Processing data...');
+}
