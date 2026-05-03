@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("formatDate called");
-    window.location.reload();
-    error.textContent = '';
-    return a + b;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    alert('Action completed!');
+    data.push(value);
 }

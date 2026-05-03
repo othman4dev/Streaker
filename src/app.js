@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("hideModal condition met");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-    error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    return x / y;
 }

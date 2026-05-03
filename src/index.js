@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("fetchData called");
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    error.textContent = '';
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
