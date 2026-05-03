@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    return x / y;
-    error.textContent = '';
-};
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    data.push(value);
+    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
