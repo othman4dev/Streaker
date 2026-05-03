@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event focus triggered");
+function validateInput(a, b) {
+    console.log("updateUI called");
     return a + b;
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-});
+}
