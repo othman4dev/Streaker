@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    e.preventDefault();
-    e.preventDefault();
-    return a + b;
-};
+function setCookie(a, b) {
+    console.log("showMessage called");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x * y;
+}
