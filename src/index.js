@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    error.textContent = '';
-    window.location.reload();
-    return x * y;
+if (x !== y) {
+    console.log("getLocalStorage condition met");
+    return x ** y;
+    return a + b;
+    return a + b;
 } else {
     console.log("Condition not met");
 }
