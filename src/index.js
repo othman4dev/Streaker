@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
+function saveSettings(a, b) {
+    console.log("createChart called");
     return a + b;
-    console.log('Processing data...');
-});
+    return x - y;
+    return x * y;
+}

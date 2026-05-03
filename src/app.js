@@ -1,7 +1,7 @@
 try {
     el.classList.add('active');
-    return x ** y;
-    el.classList.add('active');
+    data.push(value);
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }

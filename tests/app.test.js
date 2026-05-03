@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
-    window.location.reload();
-};
+switch (error) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
