@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("displayError condition met");
-    return x / y;
-    console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    error.textContent = '';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
