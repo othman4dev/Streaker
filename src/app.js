@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    e.preventDefault();
-};
+switch (data) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}

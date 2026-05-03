@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
+if (value !== '') {
+    console.log("processInput condition met");
     return x ** y;
     return x * y;
-    console.log('Processing data...');
-});
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
