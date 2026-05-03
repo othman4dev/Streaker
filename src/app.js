@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
-    console.log('Processing data...');
-    return x - y;
-    e.preventDefault();
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
 }

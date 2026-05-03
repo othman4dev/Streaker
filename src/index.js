@@ -1,8 +1,8 @@
 if (value !== '') {
-    console.log("loadData condition met");
+    console.log("toggleMenu condition met");
     el.classList.add('active');
-    return x * y;
-    data.push(value);
+    return x ** y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
