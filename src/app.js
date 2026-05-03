@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    return x * y;
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
     console.log('Processing data...');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+    alert('Action completed!');
+});

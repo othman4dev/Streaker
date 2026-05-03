@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    return x / y;
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+});
