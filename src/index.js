@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    alert('Action completed!');
+const checkStatus = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    error.textContent = '';
+    e.preventDefault();
     return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+};

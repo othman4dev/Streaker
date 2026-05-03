@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    el.classList.add('active');
-    return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    data.push(value);
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
