@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^0.7.9",
-    "enzyme": "^1.6.2",
-    "angular": "^6.9.4",
-    "socket.io": "^8.9.0",
-    "prettier": "^3.8.9",
-    "axios": "^2.4.6",
-    "mysql": "^6.9.8"
+    "prettier": "^2.0.4",
+    "svelte": "^7.9.8",
+    "express": "^0.5.2",
+    "jasmine": "^2.2.5",
+    "enzyme": "^5.0.1"
   }
 }

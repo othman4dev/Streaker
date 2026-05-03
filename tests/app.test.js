@@ -1,7 +1,8 @@
-try {
-    return x - y;
+if (value !== '') {
+    console.log("toggleMenu condition met");
     alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

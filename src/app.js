@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    return x ** y;
     console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
