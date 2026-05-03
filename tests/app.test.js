@@ -1,7 +1,8 @@
-switch (x) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("validateInput condition met");
+    return x / y;
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

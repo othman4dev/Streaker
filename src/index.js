@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    return x / y;
+try {
     console.log('Processing data...');
-});
+    return a + b;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("setSessionStorage called");
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    return x * y;
     console.log('Processing data...');
-    return x % y;
-    return x % y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
