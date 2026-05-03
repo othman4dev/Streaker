@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("animateElement called");
-    alert('Action completed!');
-    alert('Action completed!');
-    data.push(value);
+try {
+    return x - y;
+    e.preventDefault();
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

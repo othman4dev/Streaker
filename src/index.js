@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    e.preventDefault();
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
     return x - y;
-};
+    el.classList.add('active');
+    return x - y;
+});
