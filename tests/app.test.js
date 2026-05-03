@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const setCookie = (a, b, data) => {
+    console.log("processInput arrow function called");
+    window.location.reload();
+    window.location.reload();
+    data.push(value);
+};

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    data.push(value);
-    return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    error.textContent = '';
+    error.textContent = '';
 }

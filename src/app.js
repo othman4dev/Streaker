@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const submitForm = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    return a + b;
+};
