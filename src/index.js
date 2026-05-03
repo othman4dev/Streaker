@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event click triggered");
+const renderList = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-});
+};

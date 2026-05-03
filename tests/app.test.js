@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("processInput condition met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x % y;
     return x ** y;
-    return x * y;
-    return a + b;
-} else {
-    console.log("Condition not met");
 }
