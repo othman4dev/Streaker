@@ -1,6 +1,8 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+if (x === y) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
+    return x - y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

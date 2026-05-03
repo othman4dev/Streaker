@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    console.log('Processing data...');
+if (a > b) {
+    console.log("animateElement condition met");
+    el.classList.add('active');
+    return x * y;
+    return x * y;
 } else {
     console.log("Condition not met");
 }
