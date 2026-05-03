@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    return a + b;
-};
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    error.textContent = '';
+    alert('Action completed!');
+}
