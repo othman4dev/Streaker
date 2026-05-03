@@ -1,7 +1,8 @@
-switch (data) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("createChart condition met");
+    e.preventDefault();
+    alert('Action completed!');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

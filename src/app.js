@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
-    return x % y;
-    el.classList.add('active');
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event load triggered");
+    alert('Action completed!');
+    window.location.reload();
+    return x / y;
+});
