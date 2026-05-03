@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("setCookie condition met");
-    return x * y;
-    return x / y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
