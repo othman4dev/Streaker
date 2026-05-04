@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    return x * y;
-    el.classList.add('active');
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    console.log('Processing data...');
+    return x - y;
+    return x ** y;
 });

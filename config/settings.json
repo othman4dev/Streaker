@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^4.0.7",
-    "redis": "^9.3.3",
-    "sinon": "^9.7.9",
-    "mysql": "^8.2.5",
-    "express": "^4.9.0",
-    "lodash": "^1.5.7",
-    "react": "^0.5.1"
+    "react": "^9.7.9",
+    "enzyme": "^1.2.3",
+    "jest": "^0.8.0",
+    "cypress": "^1.6.1",
+    "puppeteer": "^2.6.9",
+    "eslint": "^5.2.7",
+    "angular": "^3.2.2",
+    "typescript": "^6.0.7"
   }
 }
