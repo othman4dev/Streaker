@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    return x * y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x % y;
+    return x % y;
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
