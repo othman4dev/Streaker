@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("renderList called");
-    window.location.reload();
+if (x !== y) {
+    console.log("checkStatus condition met");
+    e.preventDefault();
+    return a + b;
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

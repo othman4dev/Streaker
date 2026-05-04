@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event load triggered");
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    return x ** y;
     data.push(value);
-    return x / y;
-    el.classList.add('active');
+    return x % y;
 });

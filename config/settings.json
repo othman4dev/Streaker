@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^8.1.1",
-    "jasmine": "^1.1.6",
-    "graphql": "^9.4.3",
-    "nightwatch": "^0.7.8",
-    "protractor": "^2.5.4",
-    "eslint": "^1.4.7",
-    "lodash": "^9.2.0",
-    "socket.io": "^3.7.0"
+    "svelte": "^5.8.8",
+    "next.js": "^1.7.7",
+    "jasmine": "^4.8.5",
+    "eslint": "^4.4.0",
+    "lodash": "^6.3.8",
+    "gatsby": "^9.1.3"
   }
 }
