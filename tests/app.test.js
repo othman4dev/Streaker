@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    return x / y;
-    console.log('Processing data...');
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event load triggered");
     data.push(value);
+    return x / y;
+    el.classList.add('active');
 });
