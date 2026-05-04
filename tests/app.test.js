@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("checkStatus called");
-    return x * y;
-    return x - y;
-    alert('Action completed!');
-}
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    return x / y;
+    console.log('Processing data...');
+    data.push(value);
+});
