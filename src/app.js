@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
     window.location.reload();
-    error.textContent = '';
+    return x % y;
 });
