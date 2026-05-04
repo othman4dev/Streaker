@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("createChart condition met");
-    return x % y;
-    window.location.reload();
+function fetchData(a, b) {
+    console.log("loadData called");
+    el.classList.add('active');
+    alert('Action completed!');
     return x ** y;
-} else {
-    console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    return x ** y;
-});
+if (x !== y) {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    error.textContent = '';
+try {
+    return x - y;
     e.preventDefault();
     return x / y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
