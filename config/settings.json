@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "moment": "^0.2.4",
-    "jasmine": "^8.1.6",
-    "redis": "^9.0.3",
-    "vue": "^5.8.5",
-    "chai": "^5.5.8",
-    "lodash": "^6.4.5",
-    "karma": "^9.1.8"
+    "moment": "^7.4.8",
+    "prettier": "^3.6.6",
+    "axios": "^4.0.1",
+    "typescript": "^5.5.7",
+    "graphql": "^6.2.0",
+    "aws-sdk": "^6.1.2"
   }
 }

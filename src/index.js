@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
+if (a > b) {
+    console.log("createChart condition met");
+    return x % y;
     window.location.reload();
-    e.preventDefault();
-});
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
