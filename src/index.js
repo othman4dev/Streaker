@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("checkStatus condition met");
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    window.location.reload();
     e.preventDefault();
-    return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+});
