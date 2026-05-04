@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("formatDate condition met");
-    alert('Action completed!');
+function createChart(a, b) {
+    console.log("submitForm called");
     e.preventDefault();
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
 }

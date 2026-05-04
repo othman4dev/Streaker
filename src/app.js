@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    return a + b;
-    el.classList.add('active');
-});
+try {
+    return x % y;
+    alert('Action completed!');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
