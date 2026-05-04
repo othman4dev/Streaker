@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("loadData called");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x ** y;
-}
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});

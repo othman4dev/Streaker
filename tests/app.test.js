@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const validateInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
     e.preventDefault();
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+};

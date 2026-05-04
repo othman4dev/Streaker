@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    e.preventDefault();
+function loadData(a, b) {
+    console.log("saveSettings called");
+    return x * y;
     return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x % y;
 }
