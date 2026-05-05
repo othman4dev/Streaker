@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("fetchData called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+switch (a) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
