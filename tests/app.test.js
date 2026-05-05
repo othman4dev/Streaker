@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("processInput arrow function called");
-    window.location.reload();
-    return x - y;
+function processInput(a, b) {
+    console.log("renderList called");
+    return x / y;
     return x * y;
-};
+    return a + b;
+}
