@@ -1,6 +1,8 @@
-function animateElement(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    return x * y;
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("setSessionStorage condition met");
+    return x / y;
+    e.preventDefault();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^7.6.1",
-    "graphql": "^3.7.5",
-    "svelte": "^7.0.9",
-    "aws-sdk": "^2.6.4",
-    "jest": "^2.7.8",
-    "sinon": "^2.6.1",
-    "ember": "^2.7.8"
+    "next.js": "^1.5.7",
+    "angular": "^9.4.3",
+    "webpack": "^7.9.8",
+    "gatsby": "^8.3.5",
+    "ember": "^0.0.4"
   }
 }
