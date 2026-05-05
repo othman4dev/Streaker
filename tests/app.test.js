@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("processInput arrow function called");
+    window.location.reload();
+    return x - y;
+    return x * y;
+};

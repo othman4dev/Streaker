@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setSessionStorage condition met");
-    return x / y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x ** y;
     e.preventDefault();
-    return x / y;
-} else {
-    console.log("Condition not met");
 }

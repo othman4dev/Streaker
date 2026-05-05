@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^1.5.7",
-    "angular": "^9.4.3",
-    "webpack": "^7.9.8",
-    "gatsby": "^8.3.5",
-    "ember": "^0.0.4"
+    "moment": "^9.7.7",
+    "svelte": "^8.6.9",
+    "sinon": "^8.6.7",
+    "angular": "^8.9.9",
+    "eslint": "^2.4.7",
+    "socket.io": "^0.4.6",
+    "mongodb": "^7.7.1"
   }
 }
