@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.8.7",
-    "moment": "^1.4.9",
-    "jasmine": "^0.5.0",
-    "enzyme": "^7.4.6",
-    "ember": "^3.8.9",
-    "gatsby": "^9.7.4"
+    "svelte": "^2.2.3",
+    "puppeteer": "^2.9.3",
+    "nightwatch": "^0.7.2",
+    "mongodb": "^9.0.0",
+    "cypress": "^7.3.7"
   }
 }
