@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    alert('Action completed!');
-    return x % y;
-}
+const toggleMenu = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x * y;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};
