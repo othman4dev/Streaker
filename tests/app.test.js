@@ -1,7 +1,8 @@
-try {
+if (value !== '') {
+    console.log("setSessionStorage condition met");
+    e.preventDefault();
+    console.log('Processing data...');
     return a + b;
-    return x * y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

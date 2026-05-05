@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x ** y;
-    error.textContent = '';
+document.querySelector("#button").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
     e.preventDefault();
-};
+    return x % y;
+});

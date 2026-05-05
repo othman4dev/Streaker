@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+function showMessage(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
+    console.log('Processing data...');
     error.textContent = '';
-    e.preventDefault();
-    el.classList.add('active');
 }
