@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("getLocalStorage called");
+try {
+    return a + b;
+    return x * y;
     return x / y;
-    e.preventDefault();
-    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

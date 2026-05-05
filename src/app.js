@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
+const removeItem = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x ** y;
-    return x - y;
-}
+    error.textContent = '';
+    e.preventDefault();
+};
