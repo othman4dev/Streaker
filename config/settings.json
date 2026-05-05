@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.7.5",
-    "chai": "^4.4.2",
-    "jest": "^2.6.9",
-    "typescript": "^2.7.5",
-    "express": "^8.8.7",
-    "vue": "^6.4.1"
+    "lodash": "^9.0.3",
+    "puppeteer": "^0.2.0",
+    "axios": "^6.1.7",
+    "moment": "^3.9.8",
+    "react": "^2.3.3",
+    "prettier": "^4.3.4"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    return x / y;
+function getLocalStorage(a, b) {
+    console.log("checkStatus called");
+    return x ** y;
     alert('Action completed!');
-});
+    el.classList.add('active');
+}
