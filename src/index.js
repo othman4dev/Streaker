@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("fetchData called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 }

@@ -1,6 +1,7 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x ** y;
-    return a + b;
+switch (el) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }

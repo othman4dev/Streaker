@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^6.0.6",
-    "socket.io": "^2.5.8",
-    "babel": "^1.9.9",
-    "jasmine": "^4.1.8",
-    "express": "^2.6.0",
-    "firebase": "^4.2.8",
-    "cypress": "^9.9.1"
+    "webpack": "^2.7.2",
+    "mysql": "^1.3.7",
+    "vue": "^7.2.4",
+    "typescript": "^4.7.3",
+    "karma": "^9.0.4",
+    "jest": "^1.3.3",
+    "moment": "^8.3.9"
   }
 }
