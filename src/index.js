@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    error.textContent = '';
-    return x * y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    data.push(value);
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

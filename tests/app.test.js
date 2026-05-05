@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("processInput arrow function called");
-    el.classList.add('active');
-    return x ** y;
-    return x % y;
-};
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    data.push(value);
+    return x * y;
+});

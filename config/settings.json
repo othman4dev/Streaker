@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "socket.io": "^2.3.3",
-    "ember": "^6.1.8",
-    "jest": "^6.8.2",
-    "mocha": "^0.4.2",
-    "nightwatch": "^5.9.9",
-    "puppeteer": "^2.2.8",
-    "gatsby": "^4.5.9",
-    "moment": "^9.0.3"
+    "mongodb": "^0.1.7",
+    "typescript": "^6.3.4",
+    "react": "^5.2.8",
+    "ember": "^7.9.8",
+    "graphql": "^3.7.7",
+    "moment": "^8.0.7",
+    "mocha": "^3.5.1"
   }
 }
