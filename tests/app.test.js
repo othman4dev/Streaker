@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("setSessionStorage condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

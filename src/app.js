@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x % y;
-});
+switch (data) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}
