@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+function animateElement(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
     e.preventDefault();
-    data.push(value);
-    return x - y;
-};
+    e.preventDefault();
+}
