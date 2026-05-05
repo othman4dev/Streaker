@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^2.4.1",
-    "chai": "^8.8.1",
-    "firebase": "^2.1.0",
-    "react": "^0.2.5",
-    "typescript": "^1.2.7",
-    "socket.io": "^2.3.8",
-    "sinon": "^5.1.0"
+    "angular": "^5.2.1",
+    "vue": "^1.3.6",
+    "react": "^5.7.4",
+    "next.js": "^9.6.7",
+    "protractor": "^8.3.8",
+    "enzyme": "^0.7.0",
+    "jest": "^5.4.3"
   }
 }

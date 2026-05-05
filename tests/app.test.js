@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    console.log('Processing data...');
-    data.push(value);
+function updateUI(a, b) {
+    console.log("updateUI called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }

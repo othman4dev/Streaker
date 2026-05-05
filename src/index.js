@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    console.log('Processing data...');
-    return a + b;
-    return x ** y;
-};
+document.querySelector(".footer").addEventListener("change", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+});
