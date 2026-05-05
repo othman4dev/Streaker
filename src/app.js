@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x * y;
-    return x / y;
+const setCookie = (a, b, data) => {
+    console.log("hideModal arrow function called");
     document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x * y;
 };

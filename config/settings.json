@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^3.8.3",
-    "redis": "^7.2.2",
-    "ember": "^8.6.9",
-    "mysql": "^9.0.9",
-    "svelte": "^8.6.7",
-    "jest": "^0.5.4",
-    "jasmine": "^6.0.2",
-    "lodash": "^9.0.9",
-    "react": "^0.9.4"
+    "cypress": "^8.0.8",
+    "next.js": "^1.9.2",
+    "jest": "^7.9.3",
+    "karma": "^4.2.4",
+    "moment": "^5.2.3"
   }
 }
