@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    return x % y;
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    error.textContent = '';
+    return x * y;
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }
