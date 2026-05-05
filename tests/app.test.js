@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("checkStatus called");
-    return x ** y;
-    alert('Action completed!');
-    el.classList.add('active');
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    console.log('Processing data...');
+    data.push(value);
 }

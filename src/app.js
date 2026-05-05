@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    return x * y;
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    error.textContent = '';
+    return x - y;
+    return x / y;
+});
