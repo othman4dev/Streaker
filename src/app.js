@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x * y;
-};
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    return x - y;
+    error.textContent = '';
+});
