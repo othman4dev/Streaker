@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^2.2.3",
-    "puppeteer": "^2.9.3",
-    "nightwatch": "^0.7.2",
-    "mongodb": "^9.0.0",
-    "cypress": "^7.3.7"
+    "eslint": "^7.6.1",
+    "graphql": "^3.7.5",
+    "svelte": "^7.0.9",
+    "aws-sdk": "^2.6.4",
+    "jest": "^2.7.8",
+    "sinon": "^2.6.1",
+    "ember": "^2.7.8"
   }
 }
