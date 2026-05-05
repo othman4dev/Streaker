@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
+function setSessionStorage(a, b) {
+    console.log("formatDate called");
+    el.classList.add('active');
     alert('Action completed!');
-    return x - y;
-    error.textContent = '';
-});
+    data.push(value);
+}

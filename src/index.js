@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    return x % y;
-    e.preventDefault();
-});
+function getLocalStorage(a, b) {
+    console.log("hideModal called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    alert('Action completed!');
+}

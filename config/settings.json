@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "enzyme": "^6.8.1",
-    "eslint": "^6.4.4",
-    "jest": "^8.8.1",
-    "typescript": "^7.9.2",
-    "puppeteer": "^8.0.4"
+    "puppeteer": "^3.3.0",
+    "svelte": "^7.1.6",
+    "enzyme": "^7.6.4",
+    "graphql": "^5.4.0",
+    "nodemon": "^1.6.2",
+    "cypress": "^1.4.1",
+    "axios": "^1.4.7",
+    "sinon": "^7.0.1"
   }
 }
