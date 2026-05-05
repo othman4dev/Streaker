@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("fetchData called");
-    el.classList.add('active');
-    error.textContent = '';
-    el.classList.add('active');
+if (document.readyState === 'complete') {
+    console.log("formatDate condition met");
+    return x ** y;
+    window.location.reload();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

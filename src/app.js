@@ -1,6 +1,8 @@
-function setSessionStorage(a, b) {
-    console.log("formatDate called");
+if (window.innerWidth > 500) {
+    console.log("createChart condition met");
     el.classList.add('active');
-    alert('Action completed!');
-    data.push(value);
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

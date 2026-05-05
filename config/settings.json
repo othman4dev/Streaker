@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^3.3.0",
-    "svelte": "^7.1.6",
-    "enzyme": "^7.6.4",
-    "graphql": "^5.4.0",
-    "nodemon": "^1.6.2",
-    "cypress": "^1.4.1",
-    "axios": "^1.4.7",
-    "sinon": "^7.0.1"
+    "mongodb": "^2.0.9",
+    "chai": "^1.7.5",
+    "socket.io": "^0.5.8",
+    "karma": "^6.2.8",
+    "vue": "^2.1.2",
+    "lodash": "^6.9.6",
+    "moment": "^0.8.3",
+    "webpack": "^8.3.3"
   }
 }
