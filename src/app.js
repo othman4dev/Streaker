@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
+function removeItem(a, b) {
+    console.log("renderList called");
+    return x / y;
     data.push(value);
-    window.location.reload();
+    return x * y;
 }

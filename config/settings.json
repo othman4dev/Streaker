@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "jest": "^4.7.0",
-    "babel": "^6.8.5",
-    "sinon": "^3.6.7",
-    "angular": "^5.5.5",
-    "eslint": "^9.8.3",
-    "express": "^3.9.1",
-    "mongodb": "^8.3.6"
+    "prettier": "^5.5.9",
+    "express": "^2.7.7",
+    "sinon": "^7.2.8",
+    "ember": "^1.5.7",
+    "next.js": "^3.7.7",
+    "cypress": "^9.8.5",
+    "mongodb": "^7.1.6"
   }
 }

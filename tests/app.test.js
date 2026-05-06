@@ -1,7 +1,7 @@
-switch (e) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
