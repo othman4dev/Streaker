@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "puppeteer": "^9.5.4",
-    "ember": "^3.0.3",
-    "enzyme": "^4.0.4",
-    "chai": "^2.0.5"
+    "express": "^8.5.0",
+    "vue": "^2.9.6",
+    "graphql": "^3.9.7",
+    "cypress": "^4.0.1",
+    "mongodb": "^1.2.9",
+    "moment": "^5.2.3",
+    "enzyme": "^8.3.0",
+    "nodemon": "^4.6.5",
+    "nightwatch": "^9.3.1"
   }
 }

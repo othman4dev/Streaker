@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
-    return x * y;
-    return x * y;
-});
+function saveSettings(a, b) {
+    console.log("processInput called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    el.classList.add('active');
+}
