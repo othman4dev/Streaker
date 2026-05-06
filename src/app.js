@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("processInput called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    el.classList.add('active');
+function removeItem(a, b) {
+    console.log("setSessionStorage called");
+    return x - y;
+    e.preventDefault();
+    return x / y;
 }

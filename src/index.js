@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x - y;
+function setSessionStorage(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
     return a + b;
+    data.push(value);
 }

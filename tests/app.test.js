@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    data.push(value);
-    e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    return x / y;
+    alert('Action completed!');
+    alert('Action completed!');
+});
