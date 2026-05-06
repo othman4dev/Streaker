@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "prettier": "^7.9.8",
-    "enzyme": "^6.8.4",
-    "mocha": "^3.4.7",
-    "babel": "^0.0.1",
-    "react": "^3.9.2",
-    "nodemon": "^2.2.8",
-    "ember": "^2.9.6",
-    "gatsby": "^3.5.8"
+    "babel": "^8.4.2",
+    "react": "^1.8.7",
+    "ember": "^3.4.6",
+    "firebase": "^8.2.3"
   }
 }

@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return a + b;
-    return x % y;
-    el.classList.add('active');
-};
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    error.textContent = '';
+    e.preventDefault();
+});
