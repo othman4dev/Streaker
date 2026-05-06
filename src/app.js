@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    el.classList.add('active');
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
+    return x * y;
+    return x * y;
 });
