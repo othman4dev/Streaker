@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return a + b;
+    return x % y;
+    el.classList.add('active');
+};
