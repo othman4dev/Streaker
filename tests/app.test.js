@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
+const formatDate = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    console.log('Processing data...');
     alert('Action completed!');
-    return x * y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+};

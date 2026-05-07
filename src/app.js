@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("load", function() {
-    console.log("Event focus triggered");
+function createChart(a, b) {
+    console.log("getLocalStorage called");
+    return x * y;
     e.preventDefault();
     return x % y;
-    return x % y;
-});
+}
