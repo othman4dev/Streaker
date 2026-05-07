@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    alert('Action completed!');
-    return x ** y;
-    return x ** y;
-};
+function validateInput(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    el.classList.add('active');
+}
