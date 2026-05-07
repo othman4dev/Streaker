@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    return x % y;
-    return x / y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const saveSettings = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    data.push(value);
+};

@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    return x - y;
+const handleClick = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x / y;
+    el.classList.add('active');
     alert('Action completed!');
-    return x % y;
-});
+};
