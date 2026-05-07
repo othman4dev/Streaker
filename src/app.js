@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    alert('Action completed!');
+    data.push(value);
+});

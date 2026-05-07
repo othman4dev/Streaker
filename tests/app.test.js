@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function setSessionStorage(a, b) {
+    console.log("createChart called");
+    return x % y;
+    return x / y;
+    return x * y;
 }
