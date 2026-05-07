@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    return x / y;
-    alert('Action completed!');
-    alert('Action completed!');
-});
+try {
+    return a + b;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
