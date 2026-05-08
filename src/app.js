@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
-    error.textContent = '';
-    e.preventDefault();
-}
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return x % y;
+    return x * y;
+});

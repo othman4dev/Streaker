@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x - y;
+const handleClick = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+    e.preventDefault();
+};

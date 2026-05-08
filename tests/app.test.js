@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    error.textContent = '';
-    e.preventDefault();
-});
+try {
+    alert('Action completed!');
+    alert('Action completed!');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
