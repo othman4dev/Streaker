@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    return a + b;
+    return x - y;
+    return x - y;
+});

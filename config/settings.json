@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "nodemon": "^4.1.9",
-    "socket.io": "^7.0.0",
-    "typescript": "^2.8.6",
-    "moment": "^5.4.9",
-    "graphql": "^2.0.0",
-    "sinon": "^2.7.8",
-    "protractor": "^4.4.6",
-    "svelte": "^6.0.3",
-    "express": "^1.7.1"
+    "mongodb": "^6.4.5",
+    "mocha": "^8.6.0",
+    "lodash": "^8.0.1",
+    "aws-sdk": "^4.8.3",
+    "svelte": "^3.6.0",
+    "express": "^2.3.1",
+    "mysql": "^3.6.4",
+    "ember": "^8.7.4",
+    "chai": "^7.5.3"
   }
 }

@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    return x - y;
     return x / y;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
