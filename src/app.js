@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    data.push(value);
-};
+switch (error) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

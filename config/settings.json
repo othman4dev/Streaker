@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^3.3.7",
-    "express": "^2.7.9",
-    "moment": "^3.9.9",
-    "mysql": "^0.3.6",
-    "enzyme": "^7.3.8",
-    "vue": "^5.9.7"
+    "mongodb": "^1.0.8",
+    "socket.io": "^5.1.9",
+    "babel": "^0.1.1",
+    "aws-sdk": "^3.1.7",
+    "webpack": "^8.8.2",
+    "jest": "^0.6.8"
   }
 }
