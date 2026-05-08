@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    alert('Action completed!');
-    e.preventDefault();
-};
+if (value !== '') {
+    console.log("processInput condition met");
+    el.classList.add('active');
+    window.location.reload();
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

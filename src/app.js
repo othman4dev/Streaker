@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    return x / y;
+    return x / y;
+});
