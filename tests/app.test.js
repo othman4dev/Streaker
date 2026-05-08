@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event focus triggered");
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event click triggered");
     window.location.reload();
-    console.log('Processing data...');
-    return x ** y;
+    return x % y;
+    return a + b;
 });
