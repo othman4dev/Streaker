@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
-    alert('Action completed!');
+try {
+    return a + b;
+    return a + b;
     console.log('Processing data...');
-};
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    return x % y;
-    return x ** y;
+function saveSettings(a, b) {
+    console.log("displayError called");
+    el.classList.add('active');
+    window.location.reload();
     return a + b;
-});
+}

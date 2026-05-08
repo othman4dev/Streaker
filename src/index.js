@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event submit triggered");
     return x ** y;
-    return a + b;
+    data.push(value);
+    return x - y;
 });
