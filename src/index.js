@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event input triggered");
-    window.location.reload();
-    el.classList.add('active');
-    alert('Action completed!');
-});
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return a + b;
+    return x ** y;
+}
