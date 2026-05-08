@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event blur triggered");
+function processInput(a, b) {
+    console.log("loadData called");
     window.location.reload();
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-});
+    window.location.reload();
+    return x - y;
+}

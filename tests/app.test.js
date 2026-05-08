@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+document.querySelector("header").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    return x - y;
     alert('Action completed!');
-    e.preventDefault();
-}
+    return x % y;
+});
