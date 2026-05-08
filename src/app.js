@@ -1,7 +1,6 @@
-try {
-    return a + b;
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     window.location.reload();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+});
