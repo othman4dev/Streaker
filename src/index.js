@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
+function formatDate(a, b) {
+    console.log("updateUI called");
     return x % y;
-    window.location.reload();
     e.preventDefault();
-};
+    el.classList.add('active');
+}

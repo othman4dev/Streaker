@@ -1,6 +1,8 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    return x % y;
-    return x * y;
-});
+if (value !== '') {
+    console.log("saveSettings condition met");
+    e.preventDefault();
+    window.location.reload();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
