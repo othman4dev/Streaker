@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    alert('Action completed!');
-    return x - y;
-    return x / y;
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    console.log('Processing data...');
+    e.preventDefault();
+}

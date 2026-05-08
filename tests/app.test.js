@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    console.log('Processing data...');
     return x ** y;
-    return x % y;
-    return x % y;
-}
+});
