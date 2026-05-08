@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
-    window.location.reload();
-    return x / y;
-});
+const showMessage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
+    e.preventDefault();
+    console.log('Processing data...');
+};

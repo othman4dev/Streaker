@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "vue": "^3.6.4",
-    "enzyme": "^8.4.2",
-    "mocha": "^5.4.3",
-    "aws-sdk": "^4.0.3",
-    "webpack": "^5.1.8",
-    "cypress": "^9.4.4"
+    "lodash": "^7.2.8",
+    "graphql": "^2.4.6",
+    "gatsby": "^4.0.9",
+    "cypress": "^1.9.3",
+    "socket.io": "^9.0.2",
+    "typescript": "^2.5.6",
+    "ember": "^7.3.3",
+    "express": "^3.8.2"
   }
 }

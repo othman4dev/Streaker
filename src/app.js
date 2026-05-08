@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
-    return a + b;
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const renderList = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x % y;
+    error.textContent = '';
+    data.push(value);
+};
