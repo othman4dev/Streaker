@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const toggleMenu = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+};

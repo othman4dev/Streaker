@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^3.0.3",
-    "svelte": "^1.7.7",
-    "typescript": "^8.8.3",
-    "prettier": "^3.3.2",
-    "socket.io": "^7.6.7"
+    "mocha": "^4.2.4",
+    "graphql": "^5.3.9",
+    "socket.io": "^0.0.0",
+    "jest": "^6.0.5",
+    "vue": "^2.4.5",
+    "nightwatch": "^8.4.2",
+    "karma": "^8.6.5",
+    "moment": "^1.9.3"
   }
 }

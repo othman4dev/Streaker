@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event load triggered");
-    return x % y;
+const handleClick = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return a + b;
+    alert('Action completed!');
     e.preventDefault();
-    e.preventDefault();
-});
+};
