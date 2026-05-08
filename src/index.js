@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x % y;
+const handleClick = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    window.location.reload();
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-}
+};

@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^7.1.2",
-    "webpack": "^8.8.9",
-    "jasmine": "^3.5.8",
-    "angular": "^4.7.7",
-    "react": "^3.1.6",
-    "prettier": "^1.9.8",
-    "puppeteer": "^0.7.3"
+    "graphql": "^2.2.4",
+    "puppeteer": "^3.5.6",
+    "redis": "^5.0.5",
+    "webpack": "^9.9.6",
+    "ember": "^8.3.7"
   }
 }

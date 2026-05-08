@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event blur triggered");
-    return x - y;
-    e.preventDefault();
-    e.preventDefault();
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    data.push(value);
 });
