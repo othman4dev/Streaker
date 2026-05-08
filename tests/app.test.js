@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    el.classList.add('active');
-}
+const fetchData = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x - y;
+    window.location.reload();
+    console.log('Processing data...');
+};
