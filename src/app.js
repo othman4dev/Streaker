@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("displayError called");
-    el.classList.add('active');
+const setCookie = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
     window.location.reload();
-    return a + b;
-}
+    data.push(value);
+};
