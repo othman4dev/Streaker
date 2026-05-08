@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    e.preventDefault();
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function saveSettings(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    return x ** y;
+    return x - y;
 }
