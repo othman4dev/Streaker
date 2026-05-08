@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    window.location.reload();
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return x / y;
+});

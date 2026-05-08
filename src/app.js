@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    return x / y;
-    return x / y;
-});
+if (a > b) {
+    console.log("processInput condition met");
+    return a + b;
+    return x * y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

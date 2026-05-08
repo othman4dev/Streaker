@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^7.7.3",
-    "axios": "^9.8.8",
-    "sinon": "^0.0.9",
-    "eslint": "^9.8.1",
-    "ember": "^1.8.3",
-    "protractor": "^8.5.2",
-    "enzyme": "^2.3.2",
-    "angular": "^8.6.6",
-    "mocha": "^6.7.2"
+    "vue": "^3.6.4",
+    "enzyme": "^8.4.2",
+    "mocha": "^5.4.3",
+    "aws-sdk": "^4.0.3",
+    "webpack": "^5.1.8",
+    "cypress": "^9.4.4"
   }
 }
