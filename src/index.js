@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return a + b;
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
     data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    document.body.style.backgroundColor = 'lightblue';
+});
