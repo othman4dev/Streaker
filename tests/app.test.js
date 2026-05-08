@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setCookie = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    el.classList.add('active');
+    alert('Action completed!');
+    console.log('Processing data...');
+};

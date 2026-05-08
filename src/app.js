@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x * y;
-    return x * y;
+document.querySelector("window").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    return x % y;
+    return x ** y;
     return a + b;
-};
+});
