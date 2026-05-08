@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const removeItem = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
+    return x / y;
+    window.location.reload();
+};

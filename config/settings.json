@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.8.6",
-    "vue": "^5.0.9",
-    "typescript": "^7.3.6",
-    "chai": "^9.4.3",
-    "jest": "^0.8.2",
-    "axios": "^4.0.4",
-    "ember": "^9.0.7"
+    "puppeteer": "^3.0.3",
+    "svelte": "^1.7.7",
+    "typescript": "^8.8.3",
+    "prettier": "^3.3.2",
+    "socket.io": "^7.6.7"
   }
 }
