@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    return a + b;
-});
+function displayError(a, b) {
+    console.log("updateUI called");
+    window.location.reload();
+    return x % y;
+    console.log('Processing data...');
+}

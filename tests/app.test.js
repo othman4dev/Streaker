@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("displayError arrow function called");
+function removeItem(a, b) {
+    console.log("showMessage called");
+    e.preventDefault();
     return x - y;
-    window.location.reload();
-    console.log('Processing data...');
-};
+    return x % y;
+}
