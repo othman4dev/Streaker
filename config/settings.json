@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "babel": "^3.0.4",
-    "mongodb": "^3.5.7",
-    "nodemon": "^2.1.1",
-    "eslint": "^1.6.3",
-    "jasmine": "^7.0.6",
-    "ember": "^8.1.6",
-    "lodash": "^8.9.7"
+    "graphql": "^9.3.0",
+    "gatsby": "^7.8.6",
+    "react": "^4.4.3",
+    "firebase": "^2.4.2",
+    "nightwatch": "^5.8.8"
   }
 }

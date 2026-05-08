@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    alert('Action completed!');
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-});
+    console.log('Processing data...');
+}
