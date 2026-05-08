@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x - y;
+if (a > b) {
+    console.log("processInput condition met");
     window.location.reload();
-    return a + b;
-};
+    console.log('Processing data...');
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
