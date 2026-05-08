@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
+function hideModal(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    return x / y;
     return a + b;
-    return x - y;
-    return x - y;
-});
+}

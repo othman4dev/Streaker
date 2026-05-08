@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    return x - y;
-    return x / y;
-    error.textContent = '';
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
