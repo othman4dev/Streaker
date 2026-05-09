@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
-    alert('Action completed!');
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

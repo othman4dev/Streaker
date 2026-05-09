@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("showMessage called");
+function animateElement(a, b) {
+    console.log("removeItem called");
+    return a + b;
     return x % y;
-    data.push(value);
-    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }
