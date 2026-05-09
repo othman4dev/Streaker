@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
+try {
+    return x ** y;
     error.textContent = '';
-    window.location.reload();
-};
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

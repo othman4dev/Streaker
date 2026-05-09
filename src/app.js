@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
+const setCookie = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 };

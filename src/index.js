@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("saveSettings called");
+const toggleMenu = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return a + b;
+    data.push(value);
     console.log('Processing data...');
-    window.location.reload();
-    return x % y;
-}
+};
