@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    window.location.reload();
-    window.location.reload();
-});
+try {
+    console.log('Processing data...');
+    data.push(value);
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

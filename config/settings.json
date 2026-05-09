@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^6.2.5",
-    "react": "^7.4.3",
-    "enzyme": "^5.7.0",
-    "next.js": "^5.0.4",
-    "prettier": "^0.5.4",
-    "cypress": "^4.3.0",
-    "mysql": "^2.9.3",
-    "express": "^0.8.3",
-    "jest": "^7.9.1"
+    "nightwatch": "^9.4.3",
+    "jasmine": "^6.1.5",
+    "lodash": "^5.4.8",
+    "firebase": "^6.4.7",
+    "axios": "^6.5.5",
+    "svelte": "^7.2.2"
   }
 }
