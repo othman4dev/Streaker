@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("formatDate condition met");
+    return x / y;
+    e.preventDefault();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

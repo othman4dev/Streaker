@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "redis": "^9.7.5",
-    "nodemon": "^2.3.2",
-    "ember": "^5.7.2",
-    "prettier": "^2.5.4"
+    "sinon": "^2.9.5",
+    "axios": "^0.6.7",
+    "mocha": "^5.7.7",
+    "jest": "^1.2.5",
+    "jasmine": "^8.2.8",
+    "typescript": "^5.2.0",
+    "firebase": "^5.3.3"
   }
 }
