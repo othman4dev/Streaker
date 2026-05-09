@@ -1,8 +1,13 @@
 {
   "dependencies": {
-    "redis": "^1.1.8",
-    "webpack": "^5.6.0",
-    "babel": "^6.9.6",
-    "typescript": "^9.8.4"
+    "gatsby": "^6.2.5",
+    "react": "^7.4.3",
+    "enzyme": "^5.7.0",
+    "next.js": "^5.0.4",
+    "prettier": "^0.5.4",
+    "cypress": "^4.3.0",
+    "mysql": "^2.9.3",
+    "express": "^0.8.3",
+    "jest": "^7.9.1"
   }
 }

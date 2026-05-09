@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("removeItem called");
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    return x ** y;
     window.location.reload();
-    return x / y;
-    return a + b;
-}
+    window.location.reload();
+});

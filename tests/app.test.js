@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
