@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^6.9.8",
-    "mysql": "^0.6.1",
-    "vue": "^7.9.7",
-    "gatsby": "^3.3.5",
-    "svelte": "^0.8.6",
-    "typescript": "^1.1.7",
-    "aws-sdk": "^9.0.3",
-    "react": "^0.7.7",
-    "graphql": "^3.7.3"
+    "sinon": "^5.0.0",
+    "firebase": "^5.2.2",
+    "nodemon": "^0.9.1",
+    "jest": "^3.8.1",
+    "cypress": "^0.2.5",
+    "next.js": "^4.1.6"
   }
 }

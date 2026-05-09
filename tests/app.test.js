@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
+try {
+    alert('Action completed!');
     return a + b;
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
