@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^1.6.7",
-    "protractor": "^7.7.8",
-    "next.js": "^0.8.6",
-    "react": "^4.7.0",
-    "graphql": "^3.9.8",
-    "jest": "^4.0.6",
-    "gatsby": "^9.8.9",
-    "angular": "^7.0.0"
+    "lodash": "^6.7.0",
+    "webpack": "^1.7.6",
+    "firebase": "^7.9.6",
+    "eslint": "^5.4.6",
+    "protractor": "^8.8.2",
+    "typescript": "^2.7.0"
   }
 }

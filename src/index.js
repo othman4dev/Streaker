@@ -1,6 +1,8 @@
-const toggleMenu = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return a + b;
-    data.push(value);
+if (value !== '') {
+    console.log("hideModal condition met");
     console.log('Processing data...');
-};
+    e.preventDefault();
+    return a + b;
+} else {
+    console.log("Condition not met");
+}

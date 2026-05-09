@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x / y;
+    return x / y;
+}
