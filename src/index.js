@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x - y;
-    console.log('Processing data...');
+function displayError(a, b) {
+    console.log("processInput called");
+    e.preventDefault();
+    return x / y;
+    return x ** y;
 }
