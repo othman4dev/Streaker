@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^2.2.4",
-    "puppeteer": "^3.5.6",
-    "redis": "^5.0.5",
-    "webpack": "^9.9.6",
-    "ember": "^8.3.7"
+    "redis": "^9.7.5",
+    "nodemon": "^2.3.2",
+    "ember": "^5.7.2",
+    "prettier": "^2.5.4"
   }
 }

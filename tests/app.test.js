@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    data.push(value);
 });
