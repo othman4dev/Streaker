@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event mouseout triggered");
+const saveSettings = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return x % y;
     return x - y;
-    return x * y;
-});
+    return x ** y;
+};

@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("createChart arrow function called");
-    data.push(value);
+function createChart(a, b) {
+    console.log("displayError called");
+    return x % y;
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-};
+}

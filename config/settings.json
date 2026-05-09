@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^9.5.6",
-    "typescript": "^4.1.8",
-    "ember": "^7.9.3",
-    "eslint": "^3.0.1",
-    "nightwatch": "^1.2.9"
+    "vue": "^5.5.5",
+    "moment": "^7.0.5",
+    "puppeteer": "^3.7.9",
+    "eslint": "^4.2.0"
   }
 }
