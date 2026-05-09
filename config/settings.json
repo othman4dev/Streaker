@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^2.5.4",
-    "jest": "^5.5.9",
-    "next.js": "^7.2.0",
-    "moment": "^4.3.2",
-    "puppeteer": "^5.1.5"
+    "firebase": "^5.4.2",
+    "axios": "^3.3.7",
+    "socket.io": "^0.3.2",
+    "express": "^8.9.8",
+    "mongodb": "^5.7.6"
   }
 }
