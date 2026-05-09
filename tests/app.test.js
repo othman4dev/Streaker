@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    e.preventDefault();
-    e.preventDefault();
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    return x % y;
+    return x ** y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
