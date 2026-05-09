@@ -1,7 +1,8 @@
-switch (e) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    e.preventDefault();
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
