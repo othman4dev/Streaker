@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    return x % y;
-    error.textContent = '';
+try {
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
