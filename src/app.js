@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    alert('Action completed!');
-    window.location.reload();
+const getLocalStorage = (a, b, data) => {
+    console.log("showMessage arrow function called");
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    e.preventDefault();
+};
