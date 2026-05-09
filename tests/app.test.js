@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+function getLocalStorage(a, b) {
+    console.log("showMessage called");
+    return x % y;
+    data.push(value);
     return x * y;
-    e.preventDefault();
-    return x ** y;
 }

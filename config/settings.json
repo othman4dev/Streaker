@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^2.9.5",
-    "axios": "^0.6.7",
-    "mocha": "^5.7.7",
-    "jest": "^1.2.5",
-    "jasmine": "^8.2.8",
-    "typescript": "^5.2.0",
-    "firebase": "^5.3.3"
+    "jasmine": "^1.9.7",
+    "lodash": "^7.1.6",
+    "redis": "^2.0.7",
+    "babel": "^7.1.6",
+    "mysql": "^0.4.8",
+    "chai": "^9.1.1",
+    "ember": "^3.5.9",
+    "nightwatch": "^4.1.0"
   }
 }
