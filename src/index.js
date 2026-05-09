@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    el.classList.add('active');
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
+    console.log('Processing data...');
     window.location.reload();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x % y;
 }
