@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("formatDate condition met");
-    return x ** y;
+const createChart = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    error.textContent = '';
+};

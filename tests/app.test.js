@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("removeItem called");
-    return a + b;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x ** y;
+    e.preventDefault();
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

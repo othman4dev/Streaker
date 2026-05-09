@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^8.7.3",
-    "webpack": "^9.9.0",
-    "aws-sdk": "^7.5.4",
-    "puppeteer": "^7.2.6",
-    "mysql": "^9.6.6",
-    "mocha": "^6.5.8"
+    "ember": "^2.5.4",
+    "jest": "^5.5.9",
+    "next.js": "^7.2.0",
+    "moment": "^4.3.2",
+    "puppeteer": "^5.1.5"
   }
 }
