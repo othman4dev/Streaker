@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    el.classList.add('active');
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-});
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    data.push(value);
-    return x ** y;
-};
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    alert('Action completed!');
+    window.location.reload();
+}

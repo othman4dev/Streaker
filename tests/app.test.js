@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x % y;
+if (value !== '') {
+    console.log("renderList condition met");
+    console.log('Processing data...');
     return x ** y;
-    return x % y;
-};
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
