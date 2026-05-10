@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("submitForm condition met");
-    return x * y;
+try {
+    el.classList.add('active');
     error.textContent = '';
-    return x % y;
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
