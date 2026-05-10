@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "gatsby": "^1.2.6",
-    "angular": "^2.0.6",
-    "nodemon": "^6.5.3",
-    "sinon": "^4.1.6",
-    "prettier": "^4.6.4",
-    "chai": "^8.6.0",
-    "firebase": "^5.9.7",
-    "vue": "^1.6.0"
+    "nodemon": "^6.5.0",
+    "ember": "^5.3.5",
+    "webpack": "^1.5.0",
+    "mocha": "^0.1.2",
+    "graphql": "^4.9.7",
+    "moment": "^2.4.0",
+    "karma": "^3.5.1",
+    "chai": "^7.8.7",
+    "eslint": "^0.4.6"
   }
 }
