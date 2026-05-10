@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x % y;
+    return x ** y;
+    return x % y;
+};

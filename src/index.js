@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    el.classList.add('active');
     return x * y;
-    return x % y;
-    return x / y;
-};
+    return x - y;
+});

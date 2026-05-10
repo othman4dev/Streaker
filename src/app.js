@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+const getLocalStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x % y;
+    data.push(value);
     return x ** y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};
