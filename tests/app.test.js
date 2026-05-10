@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    window.location.reload();
-    alert('Action completed!');
+const loadData = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+};
