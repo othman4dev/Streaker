@@ -1,7 +1,8 @@
-switch (x) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
