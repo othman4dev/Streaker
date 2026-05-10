@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("formatDate arrow function called");
+const getLocalStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x % y;
-    e.preventDefault();
-    window.location.reload();
+    data.push(value);
+    data.push(value);
 };

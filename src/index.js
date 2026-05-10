@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x ** y;
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    error.textContent = '';
+    return x / y;
+});
