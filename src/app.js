@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    data.push(value);
-    return x / y;
-    return x * y;
-};
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});
