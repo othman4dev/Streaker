@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
+const toggleMenu = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+};

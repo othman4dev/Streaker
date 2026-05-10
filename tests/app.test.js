@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return a + b;
+function getLocalStorage(a, b) {
+    console.log("handleClick called");
     window.location.reload();
-    window.location.reload();
-};
+    return x ** y;
+    return x * y;
+}
