@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    alert('Action completed!');
-    window.location.reload();
-}
+const animateElement = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x * y;
+    data.push(value);
+    return x % y;
+};

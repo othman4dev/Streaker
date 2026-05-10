@@ -1,8 +1,8 @@
 if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
+    console.log("displayError condition met");
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+    return x / y;
 } else {
     console.log("Condition not met");
 }
