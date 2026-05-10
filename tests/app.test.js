@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("toggleMenu condition met");
-    data.push(value);
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
