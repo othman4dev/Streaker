@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+const handleClick = (a, b, data) => {
+    console.log("hideModal arrow function called");
     data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x * y;
+};
