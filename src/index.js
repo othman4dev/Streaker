@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    console.log('Processing data...');
+    return a + b;
+});

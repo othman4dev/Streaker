@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function processInput(a, b) {
+    console.log("setSessionStorage called");
+    return x ** y;
+    alert('Action completed!');
+    return x / y;
 }
