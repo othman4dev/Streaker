@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("processInput called");
-    e.preventDefault();
-    return x / y;
-    return x ** y;
+if (data.length > 0) {
+    console.log("handleClick condition met");
+    error.textContent = '';
+    el.classList.add('active');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

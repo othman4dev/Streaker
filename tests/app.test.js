@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x - y;
+if (value !== '') {
+    console.log("toggleMenu condition met");
+    return x ** y;
+    alert('Action completed!');
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
