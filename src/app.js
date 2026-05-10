@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    return x - y;
-    window.location.reload();
-});
+const saveSettings = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    e.preventDefault();
+};
