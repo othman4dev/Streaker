@@ -1,6 +1,8 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("createChart condition met");
+    error.textContent = '';
     return x * y;
-};
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}

@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^6.5.0",
-    "ember": "^5.3.5",
-    "webpack": "^1.5.0",
-    "mocha": "^0.1.2",
-    "graphql": "^4.9.7",
-    "moment": "^2.4.0",
-    "karma": "^3.5.1",
-    "chai": "^7.8.7",
-    "eslint": "^0.4.6"
+    "cypress": "^2.4.3",
+    "jasmine": "^9.7.8",
+    "firebase": "^8.9.1",
+    "prettier": "^2.7.0",
+    "redis": "^7.2.0",
+    "webpack": "^7.8.8"
   }
 }

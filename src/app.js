@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    return a + b;
-    return a + b;
-    return x / y;
+if (value !== '') {
+    console.log("displayError condition met");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 } else {
     console.log("Condition not met");
 }
