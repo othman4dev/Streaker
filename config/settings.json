@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^8.7.9",
-    "mocha": "^7.2.2",
-    "angular": "^4.5.9",
-    "prettier": "^1.1.9",
-    "eslint": "^1.4.6",
-    "gatsby": "^3.0.4"
+    "svelte": "^1.4.4",
+    "babel": "^7.9.8",
+    "protractor": "^7.7.3",
+    "firebase": "^1.0.3",
+    "prettier": "^0.6.0"
   }
 }

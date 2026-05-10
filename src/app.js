@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("setSessionStorage called");
-    return x ** y;
-    alert('Action completed!');
-    return x / y;
-}
+const saveSettings = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};
