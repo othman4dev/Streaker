@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^1.5.5",
-    "graphql": "^7.3.5",
-    "lodash": "^6.5.7",
-    "express": "^2.7.2",
-    "karma": "^2.9.3",
-    "sinon": "^6.2.6"
+    "mysql": "^1.9.3",
+    "enzyme": "^8.5.9",
+    "sinon": "^2.1.1",
+    "angular": "^2.2.5",
+    "firebase": "^3.6.2"
   }
 }

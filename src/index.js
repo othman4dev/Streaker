@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x / y;
+function animateElement(a, b) {
+    console.log("loadData called");
     window.location.reload();
-    return x % y;
-};
+    el.classList.add('active');
+    return a + b;
+}

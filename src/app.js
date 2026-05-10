@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    el.classList.add('active');
-};
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event submit triggered");
+    return x ** y;
+    return x - y;
+    window.location.reload();
+});
