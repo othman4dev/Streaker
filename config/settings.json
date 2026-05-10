@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^0.6.8",
-    "jasmine": "^4.2.4",
-    "nightwatch": "^5.4.2",
-    "mongodb": "^7.8.1"
+    "redis": "^2.0.5",
+    "gatsby": "^6.6.7",
+    "jest": "^6.5.4",
+    "aws-sdk": "^5.9.1",
+    "graphql": "^9.5.1",
+    "babel": "^9.3.5"
   }
 }
