@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^0.5.7",
-    "aws-sdk": "^0.6.7",
-    "vue": "^6.3.8",
-    "webpack": "^7.0.8",
-    "express": "^5.5.3",
-    "jasmine": "^1.2.5",
-    "moment": "^2.4.8",
-    "nodemon": "^3.4.9"
+    "graphql": "^0.3.5",
+    "jest": "^8.2.9",
+    "firebase": "^3.2.9",
+    "eslint": "^1.7.8"
   }
 }

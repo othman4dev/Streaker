@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    e.preventDefault();
-    return x / y;
+function removeItem(a, b) {
+    console.log("showMessage called");
+    return x * y;
+    alert('Action completed!');
+    window.location.reload();
 }

@@ -1,6 +1,8 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return x / y;
+if (x === y) {
+    console.log("validateInput condition met");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
+} else {
+    console.log("Condition not met");
 }
