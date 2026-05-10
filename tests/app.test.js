@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("showMessage called");
-    return x * y;
-    alert('Action completed!');
+const removeItem = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return a + b;
     window.location.reload();
-}
+    window.location.reload();
+};

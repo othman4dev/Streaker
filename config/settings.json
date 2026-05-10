@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^0.3.5",
-    "jest": "^8.2.9",
-    "firebase": "^3.2.9",
-    "eslint": "^1.7.8"
+    "aws-sdk": "^0.0.5",
+    "prettier": "^4.8.0",
+    "angular": "^7.4.5",
+    "mysql": "^1.3.9",
+    "mongodb": "^2.4.6"
   }
 }
