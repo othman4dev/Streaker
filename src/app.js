@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x * y;
-    data.push(value);
-    return x % y;
+const handleClick = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    el.classList.add('active');
 };
