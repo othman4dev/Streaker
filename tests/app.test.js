@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
     return x % y;
-    data.push(value);
-    data.push(value);
-};
+    document.body.style.backgroundColor = 'lightblue';
+});
