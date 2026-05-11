@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+if (a > b) {
+    console.log("setCookie condition met");
+    data.push(value);
+    data.push(value);
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

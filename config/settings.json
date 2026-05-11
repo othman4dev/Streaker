@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^4.5.3",
-    "karma": "^1.1.7",
-    "sinon": "^0.6.2",
-    "next.js": "^6.1.1",
-    "socket.io": "^9.9.3",
-    "express": "^9.7.7",
-    "chai": "^2.9.0",
-    "eslint": "^6.6.6"
+    "puppeteer": "^5.8.2",
+    "gatsby": "^3.7.5",
+    "graphql": "^5.9.0",
+    "sinon": "^2.9.4",
+    "svelte": "^6.4.6"
   }
 }
