@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^4.7.8",
-    "graphql": "^9.3.8",
-    "mocha": "^9.5.3",
-    "karma": "^2.7.4",
-    "webpack": "^2.8.4",
-    "redis": "^5.8.6",
-    "sinon": "^2.6.4",
-    "moment": "^0.4.5"
+    "nodemon": "^7.1.3",
+    "svelte": "^5.0.8",
+    "typescript": "^6.1.0",
+    "babel": "^5.2.9",
+    "gatsby": "^9.5.9",
+    "jest": "^2.7.4"
   }
 }
