@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x * y;
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+});
