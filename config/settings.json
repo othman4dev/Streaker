@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^7.9.1",
-    "eslint": "^6.9.3",
-    "socket.io": "^1.2.6",
-    "react": "^3.6.0",
-    "nightwatch": "^9.4.4",
-    "lodash": "^2.7.3",
-    "next.js": "^5.2.6"
+    "graphql": "^7.0.6",
+    "enzyme": "^3.4.7",
+    "mocha": "^0.5.5",
+    "gatsby": "^0.7.1",
+    "nightwatch": "^1.2.8",
+    "webpack": "^2.7.9"
   }
 }

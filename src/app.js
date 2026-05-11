@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    console.log('Processing data...');
-    e.preventDefault();
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+});
