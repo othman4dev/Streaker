@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^2.5.8",
-    "angular": "^2.8.1",
-    "axios": "^4.3.3",
-    "cypress": "^7.5.1",
-    "chai": "^9.2.2",
-    "redis": "^4.4.0",
-    "svelte": "^1.7.2"
+    "vue": "^9.4.7",
+    "protractor": "^2.4.4",
+    "express": "^6.5.4",
+    "mongodb": "^3.0.3",
+    "lodash": "^1.9.1"
   }
 }

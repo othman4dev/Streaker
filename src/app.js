@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x ** y;
     error.textContent = '';
-});
+    window.location.reload();
+}
