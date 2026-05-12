@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("formatDate condition met");
-    error.textContent = '';
-    return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 }

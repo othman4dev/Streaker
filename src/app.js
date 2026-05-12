@@ -1,7 +1,8 @@
-switch (el) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("submitForm condition met");
+    console.log('Processing data...');
+    e.preventDefault();
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
