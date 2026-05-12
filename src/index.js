@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    alert('Action completed!');
-    el.classList.add('active');
-}
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    window.location.reload();
+    return x / y;
+});
