@@ -1,6 +1,7 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    error.textContent = '';
-    error.textContent = '';
+switch (error) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
