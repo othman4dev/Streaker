@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    window.location.reload();
-    return x / y;
-});
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    return x % y;
+    e.preventDefault();
+    return x % y;
+};

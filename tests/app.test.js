@@ -1,6 +1,8 @@
-function validateInput(a, b) {
-    console.log("handleClick called");
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    error.textContent = '';
     return x - y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
