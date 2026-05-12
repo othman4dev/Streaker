@@ -1,7 +1,6 @@
-switch (e) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x ** y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+};
