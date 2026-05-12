@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^5.8.2",
-    "gatsby": "^3.7.5",
-    "graphql": "^5.9.0",
-    "sinon": "^2.9.4",
-    "svelte": "^6.4.6"
+    "gatsby": "^3.4.6",
+    "vue": "^2.5.3",
+    "ember": "^8.3.1",
+    "mongodb": "^9.3.2",
+    "chai": "^3.1.3"
   }
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setCookie condition met");
-    data.push(value);
-    data.push(value);
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    console.log('Processing data...');
 }

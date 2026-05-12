@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    return x ** y;
-    data.push(value);
+try {
     return x - y;
+    el.classList.add('active');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
