@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    return x % y;
+function fetchData(a, b) {
+    console.log("showMessage called");
     error.textContent = '';
-});
+    console.log('Processing data...');
+    return x ** y;
+}

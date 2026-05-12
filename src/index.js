@@ -1,7 +1,8 @@
-switch (x) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("saveSettings condition met");
+    return x % y;
+    e.preventDefault();
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }
