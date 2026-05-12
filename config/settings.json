@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^6.9.8",
-    "vue": "^5.0.8",
-    "moment": "^5.5.9",
-    "eslint": "^0.2.6"
+    "babel": "^5.8.1",
+    "jest": "^2.3.4",
+    "nightwatch": "^5.1.5",
+    "cypress": "^2.7.4",
+    "react": "^2.5.7",
+    "prettier": "^1.7.8",
+    "mongodb": "^7.7.0"
   }
 }

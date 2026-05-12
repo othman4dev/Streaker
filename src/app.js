@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    data.push(value);
-    alert('Action completed!');
-});
+const setCookie = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    return x ** y;
+    el.classList.add('active');
+};
