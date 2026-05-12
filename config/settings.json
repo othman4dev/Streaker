@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "redis": "^9.6.1",
-    "enzyme": "^8.9.3",
-    "mocha": "^0.4.4",
-    "graphql": "^8.5.8"
+    "chai": "^5.9.4",
+    "mocha": "^2.2.3",
+    "babel": "^4.0.3",
+    "express": "^4.1.4",
+    "protractor": "^5.9.2"
   }
 }

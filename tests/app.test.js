@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    alert('Action completed!');
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    return x * y;
+    console.log('Processing data...');
+});
