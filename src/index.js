@@ -1,8 +1,8 @@
-if (a > b) {
+if (value !== '') {
     console.log("saveSettings condition met");
-    return x % y;
-    e.preventDefault();
-    el.classList.add('active');
+    alert('Action completed!');
+    return x * y;
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

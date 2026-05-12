@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "vue": "^5.4.3",
-    "jest": "^2.9.9",
-    "socket.io": "^9.1.6",
-    "redis": "^2.2.0",
-    "mongodb": "^9.7.3"
+    "jest": "^3.4.7",
+    "aws-sdk": "^5.1.5",
+    "redis": "^6.8.4",
+    "vue": "^1.7.0",
+    "mysql": "^1.4.1",
+    "sinon": "^4.5.1",
+    "protractor": "^4.7.2",
+    "jasmine": "^5.1.8",
+    "nightwatch": "^5.9.1"
   }
 }

@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("showMessage called");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x ** y;
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    alert('Action completed!');
+    return x * y;
 }
