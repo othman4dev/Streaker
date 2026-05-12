@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    console.log('Processing data...');
-    e.preventDefault();
-    el.classList.add('active');
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    alert('Action completed!');
+}

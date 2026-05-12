@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-});
+try {
+    console.log('Processing data...');
+    console.log('Processing data...');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

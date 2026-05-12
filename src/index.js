@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     return x / y;
-    return x - y;
+    return x ** y;
+    error.textContent = '';
 }

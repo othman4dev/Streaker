@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "graphql": "^7.0.6",
-    "enzyme": "^3.4.7",
-    "mocha": "^0.5.5",
-    "gatsby": "^0.7.1",
-    "nightwatch": "^1.2.8",
-    "webpack": "^2.7.9"
+    "redis": "^9.6.1",
+    "enzyme": "^8.9.3",
+    "mocha": "^0.4.4",
+    "graphql": "^8.5.8"
   }
 }
