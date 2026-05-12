@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    e.preventDefault();
-    return x / y;
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    return x % y;
+    data.push(value);
 });

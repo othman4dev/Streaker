@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^1.2.8",
-    "mysql": "^0.0.8",
-    "chai": "^0.7.9",
-    "eslint": "^0.4.3",
-    "jest": "^0.3.3"
+    "gatsby": "^4.3.8",
+    "eslint": "^6.2.3",
+    "babel": "^0.0.7",
+    "puppeteer": "^0.7.8",
+    "webpack": "^8.6.8",
+    "prettier": "^8.1.9"
   }
 }
