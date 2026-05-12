@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+function displayError(a, b) {
+    console.log("setCookie called");
+    return a + b;
+    return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    console.log('Processing data...');
 }
