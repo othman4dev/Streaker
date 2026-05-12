@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
+    return x % y;
+    error.textContent = '';
+});
