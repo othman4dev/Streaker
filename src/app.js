@@ -1,7 +1,6 @@
-try {
+function setCookie(a, b) {
+    console.log("hideModal called");
+    return x - y;
     return a + b;
-    window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
 }
