@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("fetchData called");
-    return x / y;
-    return x - y;
-    window.location.reload();
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return a + b;
 }

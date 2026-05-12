@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("saveSettings condition met");
-    alert('Action completed!');
-    return x * y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
