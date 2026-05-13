@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    window.location.reload();
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

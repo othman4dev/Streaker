@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x ** y;
+function renderList(a, b) {
+    console.log("processInput called");
     alert('Action completed!');
+    return x * y;
+    error.textContent = '';
 }
