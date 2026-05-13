@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    el.classList.add('active');
-    return x - y;
-}
+const validateInput = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    window.location.reload();
+    console.log('Processing data...');
+    e.preventDefault();
+};
