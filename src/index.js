@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setCookie called");
-    return x - y;
-    e.preventDefault();
-    error.textContent = '';
-}
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    console.log('Processing data...');
+    return x ** y;
+});

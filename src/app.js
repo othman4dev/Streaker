@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("removeItem arrow function called");
+try {
     alert('Action completed!');
-    el.classList.add('active');
-    data.push(value);
-};
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
