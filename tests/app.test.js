@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-}
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    el.classList.add('active');
+    el.classList.add('active');
+});

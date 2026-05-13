@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("hideModal called");
-    el.classList.add('active');
-    return x - y;
-    error.textContent = '';
-}
+const setCookie = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
+    return x * y;
+    return x % y;
+};
