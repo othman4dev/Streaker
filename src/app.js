@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("saveSettings called");
+    window.location.reload();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
