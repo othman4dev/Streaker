@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("renderList arrow function called");
-    el.classList.add('active');
-    el.classList.add('active');
-    data.push(value);
-};
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    console.log('Processing data...');
+    alert('Action completed!');
+}
