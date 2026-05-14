@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
-    return x % y;
-    return x * y;
-};
+function removeItem(a, b) {
+    console.log("toggleMenu called");
+    return x / y;
+    alert('Action completed!');
+    error.textContent = '';
+}

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^8.3.5",
-    "aws-sdk": "^3.5.3",
-    "jasmine": "^5.9.8",
-    "angular": "^0.8.1",
-    "babel": "^1.5.9"
+    "jest": "^3.4.8",
+    "vue": "^1.5.1",
+    "socket.io": "^6.3.5",
+    "mysql": "^4.8.7",
+    "prettier": "^1.1.4"
   }
 }

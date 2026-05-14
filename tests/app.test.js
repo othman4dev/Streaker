@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    e.preventDefault();
-    return a + b;
-}
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    return x / y;
+});
