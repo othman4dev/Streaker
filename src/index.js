@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
+function updateUI(a, b) {
+    console.log("setCookie called");
+    return x - y;
     e.preventDefault();
-    return x * y;
-    return x % y;
-};
+    error.textContent = '';
+}

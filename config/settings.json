@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^8.1.1",
-    "chai": "^5.6.6",
-    "axios": "^8.5.4",
-    "ember": "^9.4.6",
-    "cypress": "^1.1.4",
-    "angular": "^3.6.4",
-    "jest": "^7.0.5"
+    "mysql": "^6.2.1",
+    "nodemon": "^3.8.5",
+    "cypress": "^1.5.7",
+    "sinon": "^7.4.8",
+    "enzyme": "^6.3.3",
+    "moment": "^9.6.6"
   }
 }

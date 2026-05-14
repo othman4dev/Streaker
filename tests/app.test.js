@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    alert('Action completed!');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+};
