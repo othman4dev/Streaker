@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
+function setSessionStorage(a, b) {
+    console.log("submitForm called");
+    return x * y;
+    el.classList.add('active');
     return x ** y;
-    return x - y;
-    return x / y;
-} else {
-    console.log("Condition not met");
 }
