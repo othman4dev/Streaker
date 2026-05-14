@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("submitForm called");
-    el.classList.add('active');
+function handleClick(a, b) {
+    console.log("updateUI called");
     return a + b;
-    console.log('Processing data...');
+    e.preventDefault();
+    return a + b;
 }

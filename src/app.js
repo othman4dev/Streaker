@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("checkStatus called");
-    el.classList.add('active');
-    error.textContent = '';
-    console.log('Processing data...');
-}
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    return x ** y;
+    return a + b;
+});
