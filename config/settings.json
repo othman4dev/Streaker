@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^4.0.5",
-    "karma": "^0.4.3",
-    "lodash": "^7.9.4",
-    "mocha": "^5.5.1",
-    "next.js": "^3.9.8",
-    "enzyme": "^0.1.1",
-    "nightwatch": "^4.7.0"
+    "nodemon": "^2.8.7",
+    "aws-sdk": "^1.6.0",
+    "mongodb": "^9.3.0",
+    "react": "^7.4.5",
+    "cypress": "^5.8.3",
+    "firebase": "^1.8.6"
   }
 }

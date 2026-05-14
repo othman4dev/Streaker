@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
-    console.log('Processing data...');
+if (value !== '') {
+    console.log("validateInput condition met");
+    return a + b;
+    error.textContent = '';
     return x ** y;
-});
+} else {
+    console.log("Condition not met");
+}
