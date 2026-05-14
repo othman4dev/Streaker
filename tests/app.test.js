@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 }

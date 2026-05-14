@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+function setCookie(a, b) {
+    console.log("hideModal called");
     el.classList.add('active');
-    return x / y;
-    e.preventDefault();
+    return x - y;
+    error.textContent = '';
 }

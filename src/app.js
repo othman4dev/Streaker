@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
