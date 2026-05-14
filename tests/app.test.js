@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+function updateUI(a, b) {
+    console.log("getLocalStorage called");
     alert('Action completed!');
-});
+    return a + b;
+    return a + b;
+}

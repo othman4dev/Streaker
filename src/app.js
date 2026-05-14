@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x * y;
-    return x * y;
-    return x ** y;
-};
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

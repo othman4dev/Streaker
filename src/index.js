@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    el.classList.add('active');
     e.preventDefault();
-    return x - y;
-});
+}
