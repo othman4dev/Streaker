@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "jest": "^6.8.5",
-    "lodash": "^2.6.4",
-    "cypress": "^8.4.8",
-    "mocha": "^7.8.5",
-    "moment": "^5.0.0",
-    "chai": "^1.5.8"
+    "nightwatch": "^9.7.3",
+    "mocha": "^1.2.7",
+    "puppeteer": "^5.6.8",
+    "ember": "^6.4.9",
+    "jest": "^5.5.5",
+    "redis": "^3.3.7",
+    "socket.io": "^4.5.2",
+    "axios": "^4.4.4",
+    "chai": "^0.7.7"
   }
 }
