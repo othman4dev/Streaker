@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x ** y;
-    error.textContent = '';
+function fetchData(a, b) {
+    console.log("checkStatus called");
+    return x % y;
+    return x * y;
+    alert('Action completed!');
 }

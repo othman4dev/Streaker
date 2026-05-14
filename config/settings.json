@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^0.3.7",
-    "typescript": "^7.7.6",
-    "protractor": "^8.8.3",
-    "express": "^4.9.9",
-    "nightwatch": "^3.4.2",
-    "firebase": "^9.0.2",
-    "next.js": "^0.3.8"
+    "enzyme": "^8.7.1",
+    "lodash": "^0.7.1",
+    "chai": "^9.0.1",
+    "socket.io": "^7.8.9",
+    "aws-sdk": "^8.1.4",
+    "jest": "^6.1.5"
   }
 }
