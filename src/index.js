@@ -1,7 +1,6 @@
-try {
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     el.classList.add('active');
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
 }

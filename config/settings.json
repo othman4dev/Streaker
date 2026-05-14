@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^4.3.8",
-    "eslint": "^6.2.3",
-    "babel": "^0.0.7",
-    "puppeteer": "^0.7.8",
-    "webpack": "^8.6.8",
-    "prettier": "^8.1.9"
+    "mocha": "^6.1.1",
+    "chai": "^1.7.4",
+    "eslint": "^8.1.5",
+    "jasmine": "^9.6.1",
+    "mysql": "^4.4.5",
+    "karma": "^9.5.7"
   }
 }
