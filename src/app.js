@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
-    return x % y;
-    return x % y;
+const renderList = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return x * y;
-});
+    return x * y;
+    return x ** y;
+};

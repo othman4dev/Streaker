@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x / y;
-    return x % y;
-    alert('Action completed!');
-};
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    e.preventDefault();
+    return x - y;
+});
