@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.0.6",
-    "graphql": "^3.3.7",
-    "mysql": "^4.4.8",
-    "jasmine": "^6.5.9"
+    "chai": "^3.4.5",
+    "nodemon": "^9.6.3",
+    "jasmine": "^3.3.4",
+    "karma": "^8.3.0",
+    "mocha": "^4.2.3",
+    "prettier": "^1.6.3"
   }
 }

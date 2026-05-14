@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("submitForm arrow function called");
+const getLocalStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    return x ** y;
     window.location.reload();
-    console.log('Processing data...');
-    e.preventDefault();
 };
