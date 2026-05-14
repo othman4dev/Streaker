@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    return x ** y;
-    window.location.reload();
-};
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    data.push(value);
+    el.classList.add('active');
+}

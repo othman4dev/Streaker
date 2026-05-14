@@ -1,5 +1,5 @@
 switch (error) {
-    case 5:
+    case 4:
         console.log("a case 1");
         break;
     default:
