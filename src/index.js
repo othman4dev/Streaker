@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    error.textContent = '';
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    return x % y;
+    return a + b;
+    data.push(value);
 });

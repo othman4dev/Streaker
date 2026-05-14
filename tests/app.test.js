@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x - y;
-    alert('Action completed!');
+function getLocalStorage(a, b) {
+    console.log("renderList called");
+    return x / y;
+    console.log('Processing data...');
+    console.log('Processing data...');
 }
