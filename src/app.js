@@ -1,7 +1,8 @@
-switch (value) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    error.textContent = '';
+    return x / y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

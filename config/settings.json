@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^2.8.7",
-    "aws-sdk": "^1.6.0",
-    "mongodb": "^9.3.0",
-    "react": "^7.4.5",
-    "cypress": "^5.8.3",
-    "firebase": "^1.8.6"
+    "prettier": "^0.3.7",
+    "typescript": "^7.7.6",
+    "protractor": "^8.8.3",
+    "express": "^4.9.9",
+    "nightwatch": "^3.4.2",
+    "firebase": "^9.0.2",
+    "next.js": "^0.3.8"
   }
 }

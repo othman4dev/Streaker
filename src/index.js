@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    return a + b;
-    error.textContent = '';
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     return x ** y;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
 }
