@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("checkStatus called");
-    return x % y;
-    return x * y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
     alert('Action completed!');
+    return x % y;
 }

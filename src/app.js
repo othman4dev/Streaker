@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
-    return x / y;
-    data.push(value);
+function handleClick(a, b) {
+    console.log("checkStatus called");
+    el.classList.add('active');
     error.textContent = '';
+    console.log('Processing data...');
 }
