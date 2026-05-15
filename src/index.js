@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("createChart called");
-    window.location.reload();
-    el.classList.add('active');
-    error.textContent = '';
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return a + b;
+    return x * y;
 }

@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "vue": "^4.5.9",
-    "chai": "^8.4.1",
-    "jest": "^2.1.4",
-    "puppeteer": "^4.0.1"
+    "jasmine": "^9.3.5",
+    "firebase": "^3.2.4",
+    "puppeteer": "^2.8.1",
+    "express": "^5.2.9",
+    "prettier": "^7.2.0",
+    "sinon": "^2.3.1"
   }
 }
