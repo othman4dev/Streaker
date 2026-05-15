@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    alert('Action completed!');
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    return x - y;
+    return a + b;
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
