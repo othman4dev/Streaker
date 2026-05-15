@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("setCookie condition met");
-    return x / y;
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    return a + b;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

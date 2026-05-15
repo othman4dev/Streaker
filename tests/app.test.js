@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    return x * y;
+if (x === y) {
+    console.log("loadData condition met");
     console.log('Processing data...');
-});
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
