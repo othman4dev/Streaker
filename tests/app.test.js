@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("toggleMenu condition met");
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    return x % y;
     return x - y;
-    e.preventDefault();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+});

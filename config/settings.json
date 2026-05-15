@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^8.8.9",
-    "protractor": "^4.3.0",
-    "eslint": "^9.8.6",
-    "vue": "^7.0.5",
-    "babel": "^8.7.2",
-    "prettier": "^3.3.1",
-    "puppeteer": "^1.5.3"
+    "nodemon": "^7.0.5",
+    "lodash": "^9.4.6",
+    "nightwatch": "^4.2.0",
+    "puppeteer": "^1.4.4",
+    "graphql": "^5.2.9"
   }
 }
