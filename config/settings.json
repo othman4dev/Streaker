@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "chai": "^2.2.9",
-    "redis": "^3.0.4",
-    "socket.io": "^1.5.0",
-    "nightwatch": "^1.2.3",
-    "firebase": "^6.2.0",
-    "enzyme": "^1.2.4",
-    "eslint": "^5.8.4"
+    "vue": "^4.5.9",
+    "chai": "^8.4.1",
+    "jest": "^2.1.4",
+    "puppeteer": "^4.0.1"
   }
 }

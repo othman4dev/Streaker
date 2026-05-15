@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("submitForm called");
-    return x * y;
+function createChart(a, b) {
+    console.log("createChart called");
+    window.location.reload();
     el.classList.add('active');
-    return x ** y;
+    error.textContent = '';
 }
