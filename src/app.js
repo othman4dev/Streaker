@@ -1,7 +1,8 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("setCookie condition met");
+    return x / y;
+    e.preventDefault();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

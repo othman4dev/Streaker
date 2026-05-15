@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("getLocalStorage called");
-    alert('Action completed!');
-    return a + b;
-    return a + b;
-}
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    window.location.reload();
+    return x * y;
+    console.log('Processing data...');
+});

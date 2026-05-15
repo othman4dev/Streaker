@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^4.4.8",
-    "nodemon": "^7.3.0",
-    "gatsby": "^7.2.2",
-    "firebase": "^4.1.9",
-    "typescript": "^0.8.7"
+    "mongodb": "^9.1.7",
+    "nodemon": "^2.2.2",
+    "webpack": "^7.5.8",
+    "mysql": "^0.6.4",
+    "firebase": "^3.0.3",
+    "express": "^7.1.3",
+    "enzyme": "^2.7.4",
+    "eslint": "^9.6.3"
   }
 }
