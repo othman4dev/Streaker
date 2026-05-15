@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^4.7.4",
-    "jest": "^2.7.0",
-    "chai": "^8.4.2",
-    "mocha": "^1.2.1",
-    "mysql": "^7.4.0",
-    "ember": "^0.1.9",
-    "nightwatch": "^2.6.8"
+    "eslint": "^5.8.1",
+    "svelte": "^4.8.6",
+    "angular": "^3.1.5",
+    "firebase": "^8.1.9",
+    "socket.io": "^9.1.1",
+    "chai": "^0.1.8",
+    "mongodb": "^4.2.1",
+    "graphql": "^8.3.2"
   }
 }

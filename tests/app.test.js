@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x / y;
+    alert('Action completed!');
+    return x % y;
+};

@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+function checkStatus(a, b) {
+    console.log("setSessionStorage called");
     data.push(value);
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    return x / y;
 }
