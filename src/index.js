@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("removeItem called");
-    return x / y;
-    window.location.reload();
-    data.push(value);
-}
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return x % y;
+    console.log('Processing data...');
+});
