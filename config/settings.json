@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^9.9.2",
-    "angular": "^4.7.3",
-    "jest": "^2.4.7",
-    "babel": "^6.1.0"
+    "next.js": "^1.9.8",
+    "sinon": "^0.9.0",
+    "nodemon": "^5.9.8",
+    "enzyme": "^7.6.4",
+    "puppeteer": "^0.1.3",
+    "babel": "^3.2.1",
+    "firebase": "^3.2.7",
+    "cypress": "^6.4.7"
   }
 }

@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    return x / y;
-    window.location.reload();
-    return x / y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x - y;
+    e.preventDefault();
 }

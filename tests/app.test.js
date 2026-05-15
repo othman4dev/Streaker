@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("loadData condition met");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    error.textContent = '';
+    return x - y;
 }
