@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "nodemon": "^7.0.5",
-    "lodash": "^9.4.6",
-    "nightwatch": "^4.2.0",
-    "puppeteer": "^1.4.4",
-    "graphql": "^5.2.9"
+    "prettier": "^7.2.7",
+    "react": "^9.6.8",
+    "jasmine": "^7.5.5",
+    "svelte": "^6.8.8"
   }
 }

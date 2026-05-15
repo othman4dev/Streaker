@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    el.classList.add('active');
+if (x !== y) {
+    console.log("fetchData condition met");
+    window.location.reload();
     alert('Action completed!');
-    e.preventDefault();
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
