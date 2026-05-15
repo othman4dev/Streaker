@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    e.preventDefault();
-    return x / y;
-}
+const toggleMenu = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x * y;
+    el.classList.add('active');
+    return x % y;
+};

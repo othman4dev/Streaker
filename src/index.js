@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("animateElement called");
+    return a + b;
+    return x * y;
+    return a + b;
 }
