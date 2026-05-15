@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("validateInput condition met");
-    e.preventDefault();
+function removeItem(a, b) {
+    console.log("checkStatus called");
     return x ** y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x / y;
+    data.push(value);
 }

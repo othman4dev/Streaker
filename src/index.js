@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("getLocalStorage called");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
     error.textContent = '';
-    window.location.reload();
-    return a + b;
 }
