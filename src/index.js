@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("removeItem called");
+    return x / y;
+    window.location.reload();
+    data.push(value);
 }

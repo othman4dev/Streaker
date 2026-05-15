@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("processInput condition met");
-    window.location.reload();
-    return x % y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
