@@ -1,6 +1,8 @@
-function toggleMenu(a, b) {
-    console.log("processInput called");
-    return x ** y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("processInput condition met");
+    window.location.reload();
+    return x % y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

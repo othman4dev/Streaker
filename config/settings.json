@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^8.3.9",
-    "cypress": "^5.6.0",
-    "mongodb": "^8.9.2",
-    "lodash": "^3.2.5",
-    "enzyme": "^8.5.2",
-    "jest": "^9.2.0",
-    "aws-sdk": "^0.3.8"
+    "socket.io": "^2.9.7",
+    "jest": "^4.2.9",
+    "eslint": "^6.4.6",
+    "mysql": "^3.9.4",
+    "angular": "^0.9.6",
+    "nightwatch": "^9.8.2",
+    "gatsby": "^5.6.0"
   }
 }
