@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("setSessionStorage called");
-    return x % y;
-    return a + b;
-    error.textContent = '';
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x - y;
+};

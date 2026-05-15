@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x ** y;
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    return x - y;
     e.preventDefault();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

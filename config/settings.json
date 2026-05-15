@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "babel": "^7.1.0",
-    "graphql": "^0.0.4",
-    "express": "^8.5.4",
-    "jasmine": "^3.3.6",
-    "eslint": "^1.2.7"
+    "jest": "^8.8.9",
+    "protractor": "^4.3.0",
+    "eslint": "^9.8.6",
+    "vue": "^7.0.5",
+    "babel": "^8.7.2",
+    "prettier": "^3.3.1",
+    "puppeteer": "^1.5.3"
   }
 }
