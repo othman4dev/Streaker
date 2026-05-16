@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("checkStatus called");
-    return x ** y;
-    return x / y;
-    data.push(value);
+switch (x) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
