@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("getLocalStorage called");
-    return x / y;
-    return x ** y;
+try {
     document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

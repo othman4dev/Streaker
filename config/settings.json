@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.2.2",
-    "mongodb": "^6.1.0",
-    "nodemon": "^4.2.9",
-    "react": "^1.4.5",
-    "protractor": "^7.8.5",
-    "enzyme": "^6.3.7",
-    "gatsby": "^7.5.8",
-    "axios": "^6.5.0"
+    "vue": "^8.0.3",
+    "chai": "^5.0.3",
+    "firebase": "^8.0.2",
+    "typescript": "^0.0.6",
+    "jest": "^1.9.2"
   }
 }

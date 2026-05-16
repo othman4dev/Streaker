@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return x / y;
-    return a + b;
-});
+function removeItem(a, b) {
+    console.log("toggleMenu called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x - y;
+}
