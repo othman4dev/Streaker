@@ -1,7 +1,6 @@
-try {
-    return x * y;
+const formatDate = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x - y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    alert('Action completed!');
+};

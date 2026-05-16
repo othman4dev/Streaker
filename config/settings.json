@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^7.2.7",
-    "react": "^9.6.8",
-    "jasmine": "^7.5.5",
-    "svelte": "^6.8.8"
+    "sinon": "^1.8.1",
+    "socket.io": "^0.3.2",
+    "puppeteer": "^2.0.4",
+    "angular": "^1.5.4",
+    "babel": "^4.2.8",
+    "mysql": "^2.4.8",
+    "next.js": "^3.6.3"
   }
 }
