@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^7.2.5",
-    "enzyme": "^3.7.0",
-    "typescript": "^2.9.7",
-    "moment": "^6.0.3",
-    "jasmine": "^5.1.5",
-    "nodemon": "^3.8.8",
-    "sinon": "^2.2.0",
-    "graphql": "^4.1.7",
-    "gatsby": "^6.1.8"
+    "react": "^9.9.3",
+    "redis": "^2.0.1",
+    "puppeteer": "^5.3.2",
+    "lodash": "^8.7.2",
+    "protractor": "^1.2.6",
+    "svelte": "^7.9.0"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event scroll triggered");
-    alert('Action completed!');
-    e.preventDefault();
-    console.log('Processing data...');
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

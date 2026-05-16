@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    return x - y;
+const toggleMenu = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     e.preventDefault();
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+};

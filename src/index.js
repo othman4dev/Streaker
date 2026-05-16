@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("saveSettings called");
-    return x * y;
-    e.preventDefault();
-    return x - y;
+switch (data) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
