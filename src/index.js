@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("validateInput called");
+function updateUI(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    e.preventDefault();
     return x - y;
-    return x / y;
-    window.location.reload();
 }

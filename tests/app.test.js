@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
-    window.location.reload();
-    console.log('Processing data...');
-});
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    return x - y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

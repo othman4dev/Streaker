@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "eslint": "^8.3.5",
-    "cypress": "^1.1.5",
-    "babel": "^7.5.1",
-    "aws-sdk": "^4.9.5",
-    "lodash": "^6.9.5",
-    "axios": "^9.7.1",
-    "karma": "^7.9.2"
+    "cypress": "^7.2.5",
+    "enzyme": "^3.7.0",
+    "typescript": "^2.9.7",
+    "moment": "^6.0.3",
+    "jasmine": "^5.1.5",
+    "nodemon": "^3.8.8",
+    "sinon": "^2.2.0",
+    "graphql": "^4.1.7",
+    "gatsby": "^6.1.8"
   }
 }
