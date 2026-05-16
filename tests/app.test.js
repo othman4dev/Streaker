@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("formatDate called");
-    return a + b;
-    return x / y;
-    return x - y;
-}
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return x ** y;
+    return x * y;
+    error.textContent = '';
+});

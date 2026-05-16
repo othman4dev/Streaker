@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    error.textContent = '';
-};
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    e.preventDefault();
+    return x - y;
+});

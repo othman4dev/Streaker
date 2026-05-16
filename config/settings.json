@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^5.2.3",
-    "sinon": "^0.0.1",
-    "mysql": "^5.8.2",
-    "firebase": "^0.9.9",
-    "jest": "^3.0.1",
-    "nodemon": "^7.8.7"
+    "aws-sdk": "^4.9.7",
+    "jasmine": "^2.0.5",
+    "karma": "^9.6.0",
+    "ember": "^8.6.8",
+    "jest": "^2.6.8"
   }
 }
