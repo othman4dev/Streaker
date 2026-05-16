@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event mouseover triggered");
-    return x ** y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x * y;
-    error.textContent = '';
-});
+    alert('Action completed!');
+    data.push(value);
+}
