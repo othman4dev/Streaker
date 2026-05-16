@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
     el.classList.add('active');
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
 });
