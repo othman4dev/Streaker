@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("fetchData called");
-    el.classList.add('active');
-    return x % y;
-    window.location.reload();
+function handleClick(a, b) {
+    console.log("formatDate called");
+    return a + b;
+    return x / y;
+    return x - y;
 }

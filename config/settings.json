@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^2.2.4",
-    "firebase": "^0.2.9",
-    "next.js": "^2.7.1",
-    "sinon": "^5.9.1",
-    "eslint": "^9.1.2",
-    "ember": "^1.0.6",
-    "puppeteer": "^8.7.9"
+    "socket.io": "^5.2.3",
+    "sinon": "^0.0.1",
+    "mysql": "^5.8.2",
+    "firebase": "^0.9.9",
+    "jest": "^3.0.1",
+    "nodemon": "^7.8.7"
   }
 }

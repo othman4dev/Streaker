@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("loadData condition met");
-    window.location.reload();
-    data.push(value);
+try {
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
-} else {
-    console.log("Condition not met");
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

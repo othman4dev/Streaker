@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    error.textContent = '';
+    error.textContent = '';
+    error.textContent = '';
+};
