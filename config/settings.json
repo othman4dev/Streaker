@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^2.7.0",
-    "mongodb": "^0.9.8",
-    "aws-sdk": "^2.4.7",
-    "redis": "^4.6.3",
-    "enzyme": "^5.6.2",
-    "protractor": "^9.3.8",
-    "firebase": "^9.8.4"
+    "puppeteer": "^3.4.5",
+    "mongodb": "^0.4.1",
+    "babel": "^5.4.7",
+    "svelte": "^3.1.7",
+    "nodemon": "^4.2.5",
+    "mysql": "^6.2.2"
   }
 }

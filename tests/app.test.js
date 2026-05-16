@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("formatDate called");
-    return x ** y;
-    el.classList.add('active');
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
+    return x * y;
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
