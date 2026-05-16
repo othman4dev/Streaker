@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("displayError called");
+try {
     el.classList.add('active');
-    return a + b;
-    el.classList.add('active');
+    return x * y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }

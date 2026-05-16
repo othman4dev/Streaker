@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^1.8.1",
-    "socket.io": "^0.3.2",
-    "puppeteer": "^2.0.4",
-    "angular": "^1.5.4",
-    "babel": "^4.2.8",
-    "mysql": "^2.4.8",
-    "next.js": "^3.6.3"
+    "react": "^3.2.5",
+    "express": "^3.0.6",
+    "angular": "^8.3.0",
+    "firebase": "^9.7.2",
+    "cypress": "^5.1.6",
+    "protractor": "^3.0.2",
+    "socket.io": "^6.6.8",
+    "ember": "^5.9.3"
   }
 }
