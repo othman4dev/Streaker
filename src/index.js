@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("loadData called");
+function showMessage(a, b) {
+    console.log("handleClick called");
+    e.preventDefault();
+    console.log('Processing data...');
     return a + b;
-    return x / y;
-    return x ** y;
 }
