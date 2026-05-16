@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+const processInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
     return x - y;
-}
+    return x ** y;
+    data.push(value);
+};
