@@ -1,6 +1,8 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    window.location.reload();
-    e.preventDefault();
+if (a > b) {
+    console.log("displayError condition met");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
