@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    return x / y;
+    return a + b;
+});

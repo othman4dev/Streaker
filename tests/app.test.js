@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    e.preventDefault();
+function saveSettings(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
     return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-};
+}
