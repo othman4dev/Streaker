@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^9.8.6",
-    "graphql": "^0.7.6",
-    "puppeteer": "^4.3.7",
-    "lodash": "^1.6.4",
-    "react": "^0.1.5",
-    "next.js": "^4.6.7",
-    "express": "^9.2.5"
+    "eslint": "^8.3.5",
+    "cypress": "^1.1.5",
+    "babel": "^7.5.1",
+    "aws-sdk": "^4.9.5",
+    "lodash": "^6.9.5",
+    "axios": "^9.7.1",
+    "karma": "^7.9.2"
   }
 }

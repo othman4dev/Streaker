@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
+function animateElement(a, b) {
+    console.log("validateInput called");
+    return x - y;
     return x / y;
-    return a + b;
+    window.location.reload();
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    alert('Action completed!');
-    data.push(value);
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    error.textContent = '';
+    window.location.reload();
+    console.log('Processing data...');
+});
