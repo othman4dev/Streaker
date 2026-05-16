@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^5.5.9",
-    "prettier": "^0.0.8",
-    "firebase": "^0.6.5",
-    "mongodb": "^9.5.3",
-    "aws-sdk": "^6.5.7"
+    "nightwatch": "^0.5.4",
+    "mocha": "^2.4.1",
+    "karma": "^1.8.4",
+    "lodash": "^5.2.0",
+    "aws-sdk": "^5.5.3",
+    "chai": "^6.9.9"
   }
 }

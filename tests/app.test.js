@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
-    data.push(value);
+const animateElement = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    e.preventDefault();
     return x % y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+};
