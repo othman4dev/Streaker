@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    e.preventDefault();
-    return x % y;
-    return x - y;
-};
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event load triggered");
+    console.log('Processing data...');
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});
