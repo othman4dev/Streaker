@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("handleClick called");
-    e.preventDefault();
-    console.log('Processing data...');
-    return a + b;
+switch (error) {
+    case 4:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    el.classList.add('active');
-    return x / y;
+if (a > b) {
+    console.log("loadData condition met");
+    window.location.reload();
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
