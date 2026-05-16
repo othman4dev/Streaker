@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^3.4.5",
-    "mongodb": "^0.4.1",
-    "babel": "^5.4.7",
-    "svelte": "^3.1.7",
-    "nodemon": "^4.2.5",
-    "mysql": "^6.2.2"
+    "eslint": "^8.2.6",
+    "cypress": "^0.2.9",
+    "jest": "^7.0.8",
+    "puppeteer": "^5.5.6",
+    "babel": "^1.4.8"
   }
 }

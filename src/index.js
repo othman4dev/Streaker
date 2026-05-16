@@ -1,7 +1,8 @@
-try {
-    return a + b;
+if (x === y) {
+    console.log("setSessionStorage condition met");
+    el.classList.add('active');
     window.location.reload();
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
