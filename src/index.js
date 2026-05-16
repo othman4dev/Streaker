@@ -1,8 +1,8 @@
 if (a > b) {
-    console.log("displayError condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+    console.log("processInput condition met");
+    return x - y;
+    e.preventDefault();
+    return a + b;
 } else {
     console.log("Condition not met");
 }

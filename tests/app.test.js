@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return a + b;
-    return x * y;
-    return x % y;
-};
+function fetchData(a, b) {
+    console.log("formatDate called");
+    return x ** y;
+    el.classList.add('active');
+    alert('Action completed!');
+}

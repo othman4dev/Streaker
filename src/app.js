@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("submitForm arrow function called");
+function renderList(a, b) {
+    console.log("validateInput called");
+    e.preventDefault();
     return x - y;
-    return x ** y;
-    return x % y;
-};
+    return x / y;
+}
