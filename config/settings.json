@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^0.6.5",
-    "redis": "^1.2.8",
-    "socket.io": "^4.5.9",
-    "angular": "^9.8.7",
-    "ember": "^2.3.4"
+    "express": "^0.8.9",
+    "axios": "^3.7.8",
+    "moment": "^2.9.4",
+    "babel": "^1.5.1",
+    "aws-sdk": "^2.4.2",
+    "graphql": "^6.3.6",
+    "jest": "^6.0.8",
+    "redis": "^7.3.3"
   }
 }
