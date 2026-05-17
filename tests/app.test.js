@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-};
+function renderList(a, b) {
+    console.log("saveSettings called");
+    return a + b;
+    window.location.reload();
+    return x ** y;
+}

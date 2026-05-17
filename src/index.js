@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
     e.preventDefault();
-    return a + b;
-    alert('Action completed!');
+    e.preventDefault();
 });

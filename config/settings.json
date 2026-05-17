@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^7.1.2",
-    "eslint": "^8.0.6",
-    "sinon": "^9.4.0",
-    "redis": "^8.6.2",
-    "socket.io": "^6.5.1",
-    "typescript": "^8.9.0",
-    "ember": "^0.3.6"
+    "aws-sdk": "^4.4.7",
+    "svelte": "^2.6.6",
+    "jasmine": "^2.3.6",
+    "chai": "^7.7.0",
+    "webpack": "^8.9.6",
+    "gatsby": "^2.7.5"
   }
 }
