@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^3.0.4",
-    "express": "^8.2.0",
-    "vue": "^3.4.3",
-    "chai": "^0.0.4",
-    "webpack": "^3.3.5",
-    "karma": "^8.0.3",
-    "svelte": "^6.4.2"
+    "angular": "^3.0.5",
+    "protractor": "^1.6.3",
+    "mysql": "^9.2.4",
+    "graphql": "^4.4.5",
+    "firebase": "^4.6.4",
+    "redis": "^8.8.6",
+    "nightwatch": "^8.4.1",
+    "moment": "^1.4.2"
   }
 }

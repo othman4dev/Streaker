@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    el.classList.add('active');
-    return x / y;
-    console.log('Processing data...');
-};
+function hideModal(a, b) {
+    console.log("createChart called");
+    return a + b;
+    return x * y;
+    return a + b;
+}
