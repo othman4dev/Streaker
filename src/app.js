@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x / y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("formatDate called");
+    return x - y;
+    el.classList.add('active');
+    return x % y;
 }

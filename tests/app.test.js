@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
-    error.textContent = '';
-    console.log('Processing data...');
-};
+switch (error) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

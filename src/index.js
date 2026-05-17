@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("displayError condition met");
-    alert('Action completed!');
-    return x ** y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("showMessage called");
+    return a + b;
+    e.preventDefault();
+    window.location.reload();
 }
