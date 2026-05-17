@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
+try {
+    return x * y;
     data.push(value);
-    window.location.reload();
-});
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
