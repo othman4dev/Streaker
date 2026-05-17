@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    e.preventDefault();
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    return a + b;
+    console.log('Processing data...');
+});
