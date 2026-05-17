@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x % y;
+document.querySelector("window").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    e.preventDefault();
     data.push(value);
-    el.classList.add('active');
-};
+    window.location.reload();
+});

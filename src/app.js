@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    window.location.reload();
-    window.location.reload();
-});
+try {
+    return x * y;
+    data.push(value);
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

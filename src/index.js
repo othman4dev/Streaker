@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("processInput condition met");
+function setSessionStorage(a, b) {
+    console.log("showMessage called");
+    return x ** y;
+    return x ** y;
     el.classList.add('active');
-    return x / y;
-    return x * y;
-} else {
-    console.log("Condition not met");
 }
