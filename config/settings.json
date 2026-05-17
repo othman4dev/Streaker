@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "express": "^0.8.9",
-    "axios": "^3.7.8",
-    "moment": "^2.9.4",
-    "babel": "^1.5.1",
-    "aws-sdk": "^2.4.2",
-    "graphql": "^6.3.6",
-    "jest": "^6.0.8",
-    "redis": "^7.3.3"
+    "jasmine": "^7.5.3",
+    "svelte": "^4.9.5",
+    "aws-sdk": "^1.6.4",
+    "karma": "^6.6.4",
+    "mocha": "^0.0.1",
+    "lodash": "^3.5.2",
+    "puppeteer": "^0.3.9"
   }
 }

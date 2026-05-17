@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x * y;
+function loadData(a, b) {
+    console.log("displayError called");
+    alert('Action completed!');
+    return a + b;
     return a + b;
 }
