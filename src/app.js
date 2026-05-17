@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    return x * y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

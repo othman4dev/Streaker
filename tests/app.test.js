@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    return x ** y;
-    return x / y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const handleClick = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    return x * y;
+    return x - y;
+};
