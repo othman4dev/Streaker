@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
-    error.textContent = '';
-    return x ** y;
+switch (a) {
+    case 4:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

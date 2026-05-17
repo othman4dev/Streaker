@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
-    window.location.reload();
-    return a + b;
-}
+const removeItem = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    el.classList.add('active');
+    return x / y;
+    console.log('Processing data...');
+};

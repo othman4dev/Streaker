@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    alert('Action completed!');
-    alert('Action completed!');
-};
+switch (error) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
