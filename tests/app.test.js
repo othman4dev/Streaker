@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
-    error.textContent = '';
-    e.preventDefault();
+function animateElement(a, b) {
+    console.log("renderList called");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
     return x ** y;
 }

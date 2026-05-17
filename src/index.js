@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("createChart called");
-    window.location.reload();
-    console.log('Processing data...');
+const createChart = (a, b, data) => {
+    console.log("loadData arrow function called");
     return x - y;
-}
+    e.preventDefault();
+    error.textContent = '';
+};
