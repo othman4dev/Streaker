@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    el.classList.add('active');
-});
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    error.textContent = '';
+    return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

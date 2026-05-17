@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event change triggered");
+    alert('Action completed!');
+    return x - y;
+    el.classList.add('active');
+});
