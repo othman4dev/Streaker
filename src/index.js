@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event submit triggered");
-    return x * y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-});
+if (x === y) {
+    console.log("showMessage condition met");
+    return x / y;
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}

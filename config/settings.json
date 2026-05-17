@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mongodb": "^9.9.8",
-    "redis": "^8.6.5",
-    "enzyme": "^6.4.3",
-    "jasmine": "^3.2.9",
-    "express": "^6.4.0",
-    "mocha": "^9.0.8"
+    "protractor": "^5.7.0",
+    "cypress": "^9.7.8",
+    "mocha": "^9.9.6",
+    "lodash": "^7.0.1",
+    "axios": "^3.3.6",
+    "nightwatch": "^4.2.1"
   }
 }
