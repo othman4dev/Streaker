@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
+    error.textContent = '';
+    console.log('Processing data...');
+};

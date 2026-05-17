@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("showMessage called");
-    return x - y;
-    return a + b;
-    error.textContent = '';
+try {
+    window.location.reload();
+    return x / y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
