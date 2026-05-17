@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    e.preventDefault();
+    return x ** y;
 }

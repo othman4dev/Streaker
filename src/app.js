@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    window.location.reload();
+    alert('Action completed!');
+}
