@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("renderList called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+function checkStatus(a, b) {
+    console.log("submitForm called");
+    error.textContent = '';
+    error.textContent = '';
     return x ** y;
 }

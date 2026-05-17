@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("loadData arrow function called");
+const setSessionStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
     return x - y;
-    e.preventDefault();
-    error.textContent = '';
+    alert('Action completed!');
+    alert('Action completed!');
 };
