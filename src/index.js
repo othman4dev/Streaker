@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    return x / y;
-    return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function animateElement(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    return x * y;
+    e.preventDefault();
 }
