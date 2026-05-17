@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^6.6.0",
-    "nightwatch": "^5.8.6",
-    "graphql": "^7.7.4",
-    "mysql": "^6.2.2",
-    "jasmine": "^6.4.6",
-    "eslint": "^8.5.0",
-    "express": "^7.2.9"
+    "mongodb": "^9.9.8",
+    "redis": "^8.6.5",
+    "enzyme": "^6.4.3",
+    "jasmine": "^3.2.9",
+    "express": "^6.4.0",
+    "mocha": "^9.0.8"
   }
 }
