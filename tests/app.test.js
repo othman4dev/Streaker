@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("fetchData arrow function called");
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event mouseout triggered");
     window.location.reload();
-    return x * y;
-    return x - y;
-};
+    console.log('Processing data...');
+    el.classList.add('active');
+});
