@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("validateInput condition met");
-    e.preventDefault();
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    error.textContent = '';
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

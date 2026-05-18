@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x ** y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("displayError arrow function called");
+    error.textContent = '';
+    return x / y;
+    el.classList.add('active');
+};
