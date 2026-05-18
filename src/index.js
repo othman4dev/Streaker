@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x - y;
+    alert('Action completed!');
     error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

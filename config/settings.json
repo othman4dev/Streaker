@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^1.2.1",
-    "sinon": "^9.1.4",
-    "gatsby": "^0.7.2",
-    "react": "^9.3.7",
-    "eslint": "^6.8.6"
+    "aws-sdk": "^1.8.2",
+    "eslint": "^6.5.2",
+    "firebase": "^3.8.0",
+    "next.js": "^9.4.8",
+    "babel": "^4.4.7",
+    "mongodb": "^7.3.0",
+    "nightwatch": "^5.8.7"
   }
 }
