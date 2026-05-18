@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("validateInput condition met");
+if (x !== y) {
+    console.log("hideModal condition met");
+    e.preventDefault();
     el.classList.add('active');
     window.location.reload();
-    data.push(value);
 } else {
     console.log("Condition not met");
 }

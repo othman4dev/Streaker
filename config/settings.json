@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^7.7.2",
-    "lodash": "^1.9.9",
-    "sinon": "^3.6.7",
-    "graphql": "^7.2.4",
-    "next.js": "^2.2.7",
-    "protractor": "^6.8.1",
-    "typescript": "^4.8.6"
+    "chai": "^6.4.2",
+    "moment": "^9.9.8",
+    "lodash": "^6.8.7",
+    "ember": "^7.7.0",
+    "mysql": "^8.8.5"
   }
 }

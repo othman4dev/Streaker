@@ -1,7 +1,6 @@
-try {
-    return x % y;
+function updateUI(a, b) {
+    console.log("showMessage called");
+    alert('Action completed!');
     return x / y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
 }
