@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("change", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
-    e.preventDefault();
-    e.preventDefault();
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x * y;
+    return a + b;
+}

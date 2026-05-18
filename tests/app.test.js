@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("saveSettings called");
-    return a + b;
-    window.location.reload();
-    return x ** y;
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    console.log('Processing data...');
 }

@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    return x - y;
+    console.log('Processing data...');
 }
