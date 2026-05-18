@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "moment": "^7.4.2",
-    "svelte": "^6.4.6",
-    "cypress": "^3.6.8",
-    "karma": "^8.3.0",
-    "babel": "^2.8.9",
-    "graphql": "^1.8.4",
-    "firebase": "^8.2.2",
-    "nightwatch": "^8.9.9",
-    "socket.io": "^4.1.9"
+    "express": "^0.2.2",
+    "nodemon": "^8.3.2",
+    "cypress": "^7.8.1",
+    "prettier": "^8.9.7",
+    "axios": "^8.6.9"
   }
 }

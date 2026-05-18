@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    alert('Action completed!');
+try {
     el.classList.add('active');
-    return x - y;
-});
+    error.textContent = '';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

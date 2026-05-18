@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    e.preventDefault();
-    return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    data.push(value);
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
