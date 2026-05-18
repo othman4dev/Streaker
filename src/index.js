@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("processInput called");
+    return x % y;
+    el.classList.add('active');
+    alert('Action completed!');
 }

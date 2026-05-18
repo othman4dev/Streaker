@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    data.push(value);
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("handleClick called");
+    return a + b;
+    error.textContent = '';
+    alert('Action completed!');
 }

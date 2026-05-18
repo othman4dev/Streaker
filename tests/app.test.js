@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function animateElement(a, b) {
+    console.log("fetchData called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    console.log('Processing data...');
 }
