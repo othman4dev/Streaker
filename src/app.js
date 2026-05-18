@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("checkStatus called");
-    console.log('Processing data...');
-    return a + b;
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    e.preventDefault();
+    return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
