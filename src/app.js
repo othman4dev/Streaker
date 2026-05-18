@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    error.textContent = '';
-    alert('Action completed!');
+if (value !== '') {
+    console.log("setCookie condition met");
+    data.push(value);
+    return x / y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

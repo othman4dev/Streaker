@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^0.9.7",
-    "angular": "^5.5.8",
-    "protractor": "^3.1.0",
-    "redis": "^3.2.3",
-    "webpack": "^5.9.7"
+    "puppeteer": "^2.8.8",
+    "mysql": "^8.5.1",
+    "axios": "^7.9.1",
+    "ember": "^6.8.4",
+    "vue": "^6.7.9",
+    "aws-sdk": "^2.9.4"
   }
 }
