@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "angular": "^6.9.5",
-    "typescript": "^5.5.2",
-    "aws-sdk": "^9.7.2",
-    "karma": "^7.7.8",
-    "webpack": "^4.8.7"
+    "moment": "^7.4.2",
+    "svelte": "^6.4.6",
+    "cypress": "^3.6.8",
+    "karma": "^8.3.0",
+    "babel": "^2.8.9",
+    "graphql": "^1.8.4",
+    "firebase": "^8.2.2",
+    "nightwatch": "^8.9.9",
+    "socket.io": "^4.1.9"
   }
 }
