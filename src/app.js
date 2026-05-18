@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    return x - y;
-    el.classList.add('active');
-});
+switch (a) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

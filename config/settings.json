@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "angular": "^5.1.5",
-    "nightwatch": "^8.5.1",
-    "redis": "^5.7.6",
-    "mysql": "^9.3.0",
-    "karma": "^1.8.7",
-    "sinon": "^9.7.3",
-    "next.js": "^1.5.0"
+    "prettier": "^1.2.1",
+    "sinon": "^9.1.4",
+    "gatsby": "^0.7.2",
+    "react": "^9.3.7",
+    "eslint": "^6.8.6"
   }
 }

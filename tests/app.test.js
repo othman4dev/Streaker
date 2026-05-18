@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("updateUI condition met");
-    error.textContent = '';
-    return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return a + b;
+    return x % y;
+    alert('Action completed!');
+};
