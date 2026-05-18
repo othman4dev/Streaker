@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    e.preventDefault();
-    el.classList.add('active');
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
     window.location.reload();
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

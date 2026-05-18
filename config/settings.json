@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "chai": "^6.4.2",
-    "moment": "^9.9.8",
-    "lodash": "^6.8.7",
-    "ember": "^7.7.0",
-    "mysql": "^8.8.5"
+    "cypress": "^4.8.0",
+    "jasmine": "^0.9.4",
+    "socket.io": "^8.1.4",
+    "webpack": "^5.3.1",
+    "nightwatch": "^7.1.8",
+    "sinon": "^3.9.5",
+    "mocha": "^9.5.1"
   }
 }

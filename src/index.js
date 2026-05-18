@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    window.location.reload();
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("submitForm condition met");
+    return x / y;
+    console.log('Processing data...');
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
