@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "jest": "^0.3.2",
-    "webpack": "^0.0.8",
-    "next.js": "^0.7.4",
-    "aws-sdk": "^0.7.7",
-    "nightwatch": "^8.0.7",
-    "mysql": "^9.5.9",
-    "redis": "^0.0.4",
-    "cypress": "^5.2.9",
-    "enzyme": "^0.9.9"
+    "nodemon": "^7.9.8",
+    "aws-sdk": "^2.4.5",
+    "lodash": "^6.8.0",
+    "nightwatch": "^3.4.1",
+    "gatsby": "^2.5.9",
+    "cypress": "^6.4.3",
+    "axios": "^6.0.1",
+    "protractor": "^2.8.2"
   }
 }
