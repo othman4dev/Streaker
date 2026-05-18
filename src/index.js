@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    error.textContent = '';
-    data.push(value);
+switch (x) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

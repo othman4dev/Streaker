@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    data.push(value);
-    return x / y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event input triggered");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+});

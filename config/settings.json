@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "puppeteer": "^2.8.8",
-    "mysql": "^8.5.1",
-    "axios": "^7.9.1",
-    "ember": "^6.8.4",
-    "vue": "^6.7.9",
-    "aws-sdk": "^2.9.4"
+    "lodash": "^2.8.3",
+    "mocha": "^3.0.1",
+    "puppeteer": "^4.9.9",
+    "babel": "^0.2.8",
+    "express": "^0.9.7",
+    "protractor": "^2.3.7",
+    "gatsby": "^0.1.3"
   }
 }
