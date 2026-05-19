@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    return x % y;
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return x * y;
+    return x - y;
     window.location.reload();
-};
+} else {
+    console.log("Condition not met");
+}

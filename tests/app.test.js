@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x ** y;
-    e.preventDefault();
-    return x % y;
-};
+document.querySelector("#button").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x / y;
+});
