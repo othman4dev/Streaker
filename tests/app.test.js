@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("handleClick arrow function called");
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
     alert('Action completed!');
+    return x - y;
     window.location.reload();
-    return a + b;
-};
+});
