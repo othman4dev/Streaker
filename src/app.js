@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return a + b;
+function fetchData(a, b) {
+    console.log("updateUI called");
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+    return x - y;
+    return x / y;
+}

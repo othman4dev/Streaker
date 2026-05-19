@@ -1,7 +1,8 @@
-switch (x) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x === y) {
+    console.log("formatDate condition met");
+    window.location.reload();
+    data.push(value);
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

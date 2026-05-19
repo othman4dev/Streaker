@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+const validateInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x / y;
+    el.classList.add('active');
+    alert('Action completed!');
+};
