@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("formatDate condition met");
+function handleClick(a, b) {
+    console.log("processInput called");
     return x - y;
-    alert('Action completed!');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    data.push(value);
 }

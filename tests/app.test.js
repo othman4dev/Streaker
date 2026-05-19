@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    console.log('Processing data...');
+const saveSettings = (a, b, data) => {
+    console.log("handleClick arrow function called");
     alert('Action completed!');
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return a + b;
+};

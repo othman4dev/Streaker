@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^1.8.2",
-    "eslint": "^6.5.2",
-    "firebase": "^3.8.0",
-    "next.js": "^9.4.8",
-    "babel": "^4.4.7",
-    "mongodb": "^7.3.0",
-    "nightwatch": "^5.8.7"
+    "typescript": "^8.6.8",
+    "mysql": "^8.0.5",
+    "lodash": "^9.0.2",
+    "angular": "^3.0.0",
+    "express": "^9.2.5",
+    "next.js": "^6.2.8",
+    "firebase": "^5.0.8",
+    "socket.io": "^5.9.3"
   }
 }
