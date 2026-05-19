@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    el.classList.add('active');
+function saveSettings(a, b) {
+    console.log("submitForm called");
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
+    return x * y;
 }

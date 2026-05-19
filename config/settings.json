@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jest": "^3.0.0",
-    "mongodb": "^0.2.8",
-    "firebase": "^7.1.4",
-    "axios": "^2.1.7",
-    "lodash": "^8.2.2",
-    "svelte": "^1.9.1",
-    "moment": "^6.2.1",
-    "mocha": "^1.7.5"
+    "mocha": "^5.9.0",
+    "chai": "^1.0.3",
+    "eslint": "^5.3.7",
+    "karma": "^0.3.8",
+    "next.js": "^1.8.6"
   }
 }

@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("displayError called");
-    console.log('Processing data...');
+function displayError(a, b) {
+    console.log("showMessage called");
     return a + b;
     return x - y;
+    return x % y;
 }
