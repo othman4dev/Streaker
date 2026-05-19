@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+if (x !== y) {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-    return x / y;
-    return x / y;
-};
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

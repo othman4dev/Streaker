@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("renderList condition met");
+const setSessionStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return x ** y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+    return x % y;
+};
