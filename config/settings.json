@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "mongodb": "^7.2.7",
-    "karma": "^0.0.1",
-    "mocha": "^6.5.1",
-    "express": "^3.9.0",
-    "babel": "^5.1.7"
+    "jest": "^0.3.2",
+    "webpack": "^0.0.8",
+    "next.js": "^0.7.4",
+    "aws-sdk": "^0.7.7",
+    "nightwatch": "^8.0.7",
+    "mysql": "^9.5.9",
+    "redis": "^0.0.4",
+    "cypress": "^5.2.9",
+    "enzyme": "^0.9.9"
   }
 }

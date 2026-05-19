@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
+function submitForm(a, b) {
+    console.log("fetchData called");
+    return x % y;
     data.push(value);
-};
+    return x ** y;
+}
