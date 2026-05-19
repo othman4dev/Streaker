@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
-    alert('Action completed!');
-    return x * y;
-}
+const toggleMenu = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};

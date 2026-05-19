@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    error.textContent = '';
+const setSessionStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    console.log('Processing data...');
     alert('Action completed!');
-    error.textContent = '';
+    data.push(value);
 };
