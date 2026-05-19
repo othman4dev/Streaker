@@ -1,7 +1,6 @@
-try {
+function getLocalStorage(a, b) {
+    console.log("fetchData called");
+    el.classList.add('active');
     return x / y;
-    error.textContent = '';
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
 }

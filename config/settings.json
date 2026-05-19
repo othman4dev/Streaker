@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^9.7.9",
-    "gatsby": "^2.4.3",
-    "babel": "^9.7.2",
-    "nightwatch": "^5.7.2",
-    "mocha": "^7.1.9"
+    "vue": "^6.3.0",
+    "axios": "^3.3.2",
+    "sinon": "^5.7.1",
+    "redis": "^9.7.1",
+    "mongodb": "^5.2.4",
+    "express": "^8.6.7",
+    "typescript": "^6.0.2"
   }
 }
