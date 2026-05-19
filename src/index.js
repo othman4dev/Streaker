@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+function checkStatus(a, b) {
+    console.log("displayError called");
     console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    return x - y;
 }

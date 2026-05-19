@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
+try {
+    alert('Action completed!');
+    el.classList.add('active');
     error.textContent = '';
-    return a + b;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

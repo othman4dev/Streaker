@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^7.8.5",
-    "gatsby": "^9.6.3",
-    "ember": "^2.3.5",
-    "aws-sdk": "^3.5.2",
-    "enzyme": "^3.9.8",
-    "graphql": "^8.5.6"
+    "jest": "^3.0.0",
+    "mongodb": "^0.2.8",
+    "firebase": "^7.1.4",
+    "axios": "^2.1.7",
+    "lodash": "^8.2.2",
+    "svelte": "^1.9.1",
+    "moment": "^6.2.1",
+    "mocha": "^1.7.5"
   }
 }
