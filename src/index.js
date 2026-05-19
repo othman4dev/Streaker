@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    window.location.reload();
-    data.push(value);
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    el.classList.add('active');
-    alert('Action completed!');
+const hideModal = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    return a + b;
 };

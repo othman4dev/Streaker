@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("updateUI called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x / y;
+switch (b) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
