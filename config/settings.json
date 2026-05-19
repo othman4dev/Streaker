@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "vue": "^6.3.0",
-    "axios": "^3.3.2",
-    "sinon": "^5.7.1",
-    "redis": "^9.7.1",
-    "mongodb": "^5.2.4",
-    "express": "^8.6.7",
-    "typescript": "^6.0.2"
+    "next.js": "^9.4.3",
+    "express": "^6.0.2",
+    "ember": "^7.3.6",
+    "chai": "^9.7.7",
+    "enzyme": "^7.2.1",
+    "eslint": "^4.4.0",
+    "axios": "^8.8.0",
+    "jest": "^5.0.7"
   }
 }

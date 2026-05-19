@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("updateUI condition met");
-    data.push(value);
+if (value !== '') {
+    console.log("renderList condition met");
     return x ** y;
-    return a + b;
+    console.log('Processing data...');
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
