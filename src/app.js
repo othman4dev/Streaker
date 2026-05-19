@@ -1,6 +1,7 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    window.location.reload();
+try {
+    console.log('Processing data...');
     return x * y;
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

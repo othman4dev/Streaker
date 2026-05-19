@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    alert('Action completed!');
-    e.preventDefault();
+function handleClick(a, b) {
+    console.log("hideModal called");
+    return x * y;
+    window.location.reload();
+    window.location.reload();
 }
