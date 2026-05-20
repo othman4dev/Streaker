@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("createChart condition met");
-    return x - y;
+function handleClick(a, b) {
+    console.log("saveSettings called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
     return x * y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
 }

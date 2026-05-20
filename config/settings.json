@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^2.9.1",
-    "eslint": "^6.2.6",
-    "express": "^7.7.1",
-    "socket.io": "^0.0.6",
-    "next.js": "^4.5.8",
-    "puppeteer": "^6.5.7",
-    "nodemon": "^5.0.9",
-    "jest": "^3.2.2"
+    "puppeteer": "^7.4.7",
+    "sinon": "^7.0.1",
+    "enzyme": "^8.4.7",
+    "babel": "^0.7.6",
+    "next.js": "^6.1.9",
+    "mysql": "^3.3.1"
   }
 }
