@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^6.6.4",
-    "babel": "^8.8.2",
-    "axios": "^4.1.9",
-    "lodash": "^4.0.2",
-    "jasmine": "^0.9.1",
-    "firebase": "^8.9.7"
+    "enzyme": "^9.6.3",
+    "karma": "^4.7.4",
+    "jest": "^3.0.0",
+    "axios": "^7.3.6",
+    "eslint": "^2.7.7"
   }
 }

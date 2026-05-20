@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("loadData called");
-    return x - y;
-    alert('Action completed!');
-    e.preventDefault();
+try {
+    return x % y;
+    console.log('Processing data...');
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
