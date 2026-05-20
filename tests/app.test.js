@@ -1,7 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    console.log('Processing data...');
-    return a + b;
+if (x !== y) {
+    console.log("loadData condition met");
+    window.location.reload();
+    return x * y;
     error.textContent = '';
 } else {
     console.log("Condition not met");

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    return x * y;
+    return a + b;
+    window.location.reload();
+});
