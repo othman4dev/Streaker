@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    error.textContent = '';
-    window.location.reload();
-};
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return a + b;
+    return x / y;
+}

@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    return x * y;
-    window.location.reload();
-};
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    return x % y;
+    alert('Action completed!');
+    alert('Action completed!');
+});
