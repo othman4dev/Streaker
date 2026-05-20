@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
+    window.location.reload();
+    window.location.reload();
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

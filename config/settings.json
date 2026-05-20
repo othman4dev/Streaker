@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^5.5.7",
-    "enzyme": "^5.9.5",
-    "svelte": "^7.3.0",
-    "ember": "^9.9.4",
-    "firebase": "^8.7.7",
-    "lodash": "^6.8.5"
+    "socket.io": "^9.0.2",
+    "enzyme": "^6.1.9",
+    "graphql": "^8.2.5",
+    "chai": "^9.7.4",
+    "sinon": "^2.2.5"
   }
 }
