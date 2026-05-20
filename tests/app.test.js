@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    data.push(value);
-    return x - y;
-    return x % y;
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    window.location.reload();
+    console.log('Processing data...');
+};
