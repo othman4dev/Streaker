@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
-    return x ** y;
-    error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("document").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    return x - y;
+    return x % y;
+});

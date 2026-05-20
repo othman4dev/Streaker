@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    data.push(value);
+function processInput(a, b) {
+    console.log("setSessionStorage called");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }
