@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("loadData condition met");
-    window.location.reload();
-    return x * y;
+const createChart = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+};

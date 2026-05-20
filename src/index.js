@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
+const renderList = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
     return x * y;
-    return a + b;
     window.location.reload();
-});
+};
