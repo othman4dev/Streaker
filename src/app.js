@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    e.preventDefault();
-    el.classList.add('active');
-});
+function handleClick(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+}

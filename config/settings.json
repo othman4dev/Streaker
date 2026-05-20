@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.7.2",
-    "next.js": "^4.3.1",
-    "redis": "^1.8.9",
-    "lodash": "^1.5.7",
-    "webpack": "^3.7.7",
-    "puppeteer": "^3.2.7"
+    "cypress": "^1.2.3",
+    "chai": "^4.7.0",
+    "svelte": "^0.8.4",
+    "nodemon": "^6.9.5",
+    "prettier": "^6.7.0",
+    "sinon": "^6.1.6"
   }
 }
