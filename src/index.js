@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("updateUI called");
-    return x % y;
+function saveSettings(a, b) {
+    console.log("validateInput called");
     return a + b;
-    return x ** y;
+    error.textContent = '';
+    return x * y;
 }
