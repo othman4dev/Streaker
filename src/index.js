@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("renderList condition met");
+try {
+    console.log('Processing data...');
     alert('Action completed!');
-    window.location.reload();
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
