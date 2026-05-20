@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
-    window.location.reload();
+const setCookie = (a, b, data) => {
+    console.log("createChart arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     console.log('Processing data...');
 };
