@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "aws-sdk": "^8.2.5",
-    "gatsby": "^1.8.4",
-    "moment": "^7.0.5",
-    "cypress": "^8.9.3",
-    "typescript": "^5.4.2",
-    "mocha": "^2.4.2",
-    "karma": "^6.2.5"
+    "nightwatch": "^6.2.7",
+    "chai": "^2.6.1",
+    "ember": "^4.6.1",
+    "cypress": "^1.8.6",
+    "redis": "^5.6.9",
+    "protractor": "^5.4.5",
+    "jest": "^9.1.4",
+    "svelte": "^6.6.0",
+    "jasmine": "^6.7.4"
   }
 }
