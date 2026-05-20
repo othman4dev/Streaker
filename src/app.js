@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    e.preventDefault();
+    el.classList.add('active');
+});

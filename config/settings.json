@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^4.4.6",
-    "gatsby": "^3.9.3",
-    "babel": "^4.8.3",
-    "typescript": "^5.9.0",
-    "karma": "^8.1.7"
+    "aws-sdk": "^2.7.2",
+    "next.js": "^4.3.1",
+    "redis": "^1.8.9",
+    "lodash": "^1.5.7",
+    "webpack": "^3.7.7",
+    "puppeteer": "^3.2.7"
   }
 }
