@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return x ** y;
-    return a + b;
-});
+const hideModal = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
+    return x * y;
+    return x % y;
+};

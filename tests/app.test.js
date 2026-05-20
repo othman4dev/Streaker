@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    return x - y;
+    return x * y;
 }
