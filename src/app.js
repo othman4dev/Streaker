@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    window.location.reload();
-    window.location.reload();
+const showMessage = (a, b, data) => {
+    console.log("processInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+};

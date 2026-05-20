@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    e.preventDefault();
+document.querySelector("header").addEventListener("click", function() {
+    console.log("Event mouseout triggered");
     window.location.reload();
-    window.location.reload();
-};
+    error.textContent = '';
+    return x ** y;
+});

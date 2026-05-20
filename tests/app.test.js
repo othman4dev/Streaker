@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+try {
+    window.location.reload();
+    return x / y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
