@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    return x * y;
+if (window.innerWidth > 500) {
+    console.log("createChart condition met");
     return x - y;
-    window.location.reload();
+    return x * y;
+    el.classList.add('active');
 } else {
     console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    return x / y;
+    window.location.reload();
+});
