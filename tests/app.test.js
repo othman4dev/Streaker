@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    return a + b;
+    el.classList.add('active');
+    el.classList.add('active');
+});

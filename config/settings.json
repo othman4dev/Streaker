@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "ember": "^4.9.9",
-    "babel": "^7.2.5",
-    "mysql": "^6.7.6",
-    "webpack": "^9.5.3",
-    "moment": "^7.0.9",
-    "react": "^8.5.8",
-    "axios": "^3.8.6"
+    "webpack": "^6.6.4",
+    "babel": "^8.8.2",
+    "axios": "^4.1.9",
+    "lodash": "^4.0.2",
+    "jasmine": "^0.9.1",
+    "firebase": "^8.9.7"
   }
 }
