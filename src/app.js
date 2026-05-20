@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
+try {
+    e.preventDefault();
+    data.push(value);
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

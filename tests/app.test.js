@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("submitForm called");
+try {
+    data.push(value);
+    return x - y;
     e.preventDefault();
-    window.location.reload();
-    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
