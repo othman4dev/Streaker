@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    return x - y;
     return x * y;
-    return x * y;
-    return x % y;
-};
+    return x - y;
+});
