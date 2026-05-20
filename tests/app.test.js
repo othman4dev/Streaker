@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    e.preventDefault();
-    return x * y;
+try {
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

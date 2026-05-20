@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    return a + b;
-    error.textContent = '';
-    return x * y;
+switch (a) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
