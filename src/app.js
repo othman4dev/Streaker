@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
+const formatDate = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    console.log('Processing data...');
     e.preventDefault();
+    return x - y;
 };

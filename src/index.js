@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    window.location.reload();
+if (x === y) {
+    console.log("checkStatus condition met");
     error.textContent = '';
-    return x ** y;
-});
+    window.location.reload();
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
