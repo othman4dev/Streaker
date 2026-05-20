@@ -1,7 +1,6 @@
-switch (data) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    console.log('Processing data...');
+    el.classList.add('active');
 }
