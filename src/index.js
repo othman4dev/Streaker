@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x * y;
+function saveSettings(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+    el.classList.add('active');
+}

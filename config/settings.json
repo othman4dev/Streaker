@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^1.6.0",
-    "redis": "^1.9.5",
-    "socket.io": "^1.7.0",
-    "lodash": "^2.0.4",
-    "jasmine": "^1.6.6",
-    "aws-sdk": "^1.9.4"
+    "chai": "^3.2.8",
+    "express": "^4.3.2",
+    "axios": "^6.1.5",
+    "eslint": "^7.4.6",
+    "jasmine": "^5.2.6"
   }
 }
