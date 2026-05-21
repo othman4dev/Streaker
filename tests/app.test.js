@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("saveSettings called");
-    return x / y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x * y;
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
 }

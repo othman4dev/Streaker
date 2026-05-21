@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    return a + b;
-    return x * y;
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x ** y;
-});
+    return x - y;
+    return a + b;
+};

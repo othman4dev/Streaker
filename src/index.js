@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    return x ** y;
-    return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const showMessage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x * y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};
