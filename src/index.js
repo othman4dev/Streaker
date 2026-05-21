@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("document").addEventListener("change", function() {
+    console.log("Event click triggered");
+    data.push(value);
+    alert('Action completed!');
+    return x % y;
 });

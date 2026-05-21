@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    el.classList.add('active');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
