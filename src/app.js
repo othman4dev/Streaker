@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("renderList called");
-    window.location.reload();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("loadData condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

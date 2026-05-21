@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return a + b;
-    return x - y;
-    error.textContent = '';
-};
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+});
