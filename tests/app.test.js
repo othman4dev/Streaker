@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("showMessage arrow function called");
+function hideModal(a, b) {
+    console.log("createChart called");
+    console.log('Processing data...');
     alert('Action completed!');
-    return x ** y;
-    el.classList.add('active');
-};
+    e.preventDefault();
+}
