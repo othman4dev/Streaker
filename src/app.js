@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
+try {
     e.preventDefault();
-    alert('Action completed!');
-    return a + b;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

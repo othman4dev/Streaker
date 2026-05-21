@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^6.4.3",
-    "firebase": "^0.3.2",
-    "webpack": "^4.7.6",
-    "sinon": "^7.2.5",
-    "gatsby": "^8.5.3",
-    "aws-sdk": "^2.6.4",
-    "redis": "^6.2.6",
-    "puppeteer": "^8.1.5"
+    "typescript": "^1.4.4",
+    "protractor": "^9.3.9",
+    "prettier": "^0.7.7",
+    "nightwatch": "^6.5.1",
+    "jest": "^0.8.8",
+    "jasmine": "^1.5.5",
+    "webpack": "^0.1.4"
   }
 }

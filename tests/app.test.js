@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("showMessage called");
-    el.classList.add('active');
-    data.push(value);
-    e.preventDefault();
-}
+const fetchData = (a, b, data) => {
+    console.log("processInput arrow function called");
+    alert('Action completed!');
+    window.location.reload();
+    return a + b;
+};
