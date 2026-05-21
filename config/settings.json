@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "chai": "^3.2.8",
-    "express": "^4.3.2",
-    "axios": "^6.1.5",
-    "eslint": "^7.4.6",
-    "jasmine": "^5.2.6"
+    "jasmine": "^1.0.0",
+    "axios": "^9.9.6",
+    "redis": "^0.0.2",
+    "chai": "^9.3.3",
+    "typescript": "^6.5.7",
+    "vue": "^4.6.1",
+    "karma": "^7.6.8",
+    "nightwatch": "^8.6.7"
   }
 }

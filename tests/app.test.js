@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+function displayError(a, b) {
+    console.log("submitForm called");
+    return a + b;
     return x * y;
-};
+    e.preventDefault();
+}

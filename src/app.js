@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (x === y) {
+    console.log("showMessage condition met");
+    data.push(value);
+    console.log('Processing data...');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

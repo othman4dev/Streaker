@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    e.preventDefault();
-    el.classList.add('active');
+function updateUI(a, b) {
+    console.log("handleClick called");
+    window.location.reload();
+    alert('Action completed!');
+    window.location.reload();
 }
