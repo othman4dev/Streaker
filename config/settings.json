@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "chai": "^0.2.7",
-    "nightwatch": "^0.5.4",
-    "puppeteer": "^1.5.3",
-    "firebase": "^2.5.9"
+    "graphql": "^3.8.4",
+    "sinon": "^6.2.0",
+    "redis": "^7.5.2",
+    "chai": "^1.8.4",
+    "aws-sdk": "^7.8.1",
+    "mongodb": "^2.5.7",
+    "typescript": "^4.6.6"
   }
 }

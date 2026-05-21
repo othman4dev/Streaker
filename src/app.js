@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    return x - y;
-    el.classList.add('active');
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-});
+    alert('Action completed!');
+}

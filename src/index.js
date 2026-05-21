@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function renderList(a, b) {
+    console.log("checkStatus called");
+    return x * y;
+    el.classList.add('active');
+    return x ** y;
 }
