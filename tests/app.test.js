@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    return x - y;
-    data.push(value);
-}
+const checkStatus = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    alert('Action completed!');
+    return x ** y;
+    el.classList.add('active');
+};
