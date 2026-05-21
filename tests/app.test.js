@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("toggleMenu called");
-    document.body.style.backgroundColor = 'lightblue';
+function loadData(a, b) {
+    console.log("showMessage called");
+    el.classList.add('active');
+    data.push(value);
     e.preventDefault();
-    alert('Action completed!');
 }

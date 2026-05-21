@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    el.classList.add('active');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    return a + b;
+});
