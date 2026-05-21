@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^6.8.8",
-    "next.js": "^0.8.9",
-    "express": "^8.3.2"
+    "mocha": "^7.4.4",
+    "aws-sdk": "^6.5.8",
+    "graphql": "^1.0.5",
+    "next.js": "^7.0.0",
+    "eslint": "^8.2.2"
   }
 }

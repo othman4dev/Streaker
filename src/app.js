@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+function displayError(a, b) {
+    console.log("formatDate called");
+    error.textContent = '';
+    el.classList.add('active');
     e.preventDefault();
-    window.location.reload();
-    alert('Action completed!');
 }

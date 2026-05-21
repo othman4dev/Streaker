@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    e.preventDefault();
-}
+const showMessage = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+};
