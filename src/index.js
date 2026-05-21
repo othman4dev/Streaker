@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("handleClick called");
-    window.location.reload();
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     alert('Action completed!');
-    window.location.reload();
+    e.preventDefault();
 }
