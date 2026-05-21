@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    data.push(value);
-    window.location.reload();
-    window.location.reload();
-};
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    el.classList.add('active');
+    return x ** y;
+});

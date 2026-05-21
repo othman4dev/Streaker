@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    el.classList.add('active');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
+    alert('Action completed!');
+    error.textContent = '';
+});
