@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
-    return a + b;
-    el.classList.add('active');
-    alert('Action completed!');
-};
+switch (value) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
