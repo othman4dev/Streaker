@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    alert('Action completed!');
-    error.textContent = '';
-});
+const getLocalStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x % y;
+    data.push(value);
+    window.location.reload();
+};
