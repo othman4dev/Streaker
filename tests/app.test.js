@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+const hideModal = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    data.push(value);
     window.location.reload();
     window.location.reload();
-}
+};

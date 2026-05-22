@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "jest": "^4.2.9",
-    "prettier": "^1.8.7",
-    "mysql": "^6.6.4",
-    "mocha": "^2.3.1",
-    "express": "^0.0.1",
-    "mongodb": "^3.5.5"
+    "puppeteer": "^2.8.2",
+    "typescript": "^5.8.8",
+    "protractor": "^5.1.5",
+    "webpack": "^3.6.2",
+    "angular": "^2.2.9",
+    "prettier": "^3.0.1",
+    "karma": "^7.9.0"
   }
 }
