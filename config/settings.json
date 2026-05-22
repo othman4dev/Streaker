@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^6.5.5",
-    "protractor": "^0.4.8",
-    "typescript": "^3.4.4",
-    "babel": "^6.4.8",
-    "react": "^6.7.8"
+    "graphql": "^9.7.7",
+    "react": "^8.7.5",
+    "angular": "^3.9.3",
+    "moment": "^7.4.4",
+    "aws-sdk": "^8.4.0"
   }
 }
