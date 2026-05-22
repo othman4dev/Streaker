@@ -1,7 +1,8 @@
-try {
+if (x === y) {
+    console.log("createChart condition met");
     error.textContent = '';
+    return x / y;
     error.textContent = '';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    e.preventDefault();
-    window.location.reload();
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    alert('Action completed!');
+    return x / y;
+});
