@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
     return x / y;
-    window.location.reload();
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+    return x - y;
+});

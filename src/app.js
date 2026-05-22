@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("fetchData arrow function called");
+if (x !== y) {
+    console.log("animateElement condition met");
     data.push(value);
-    return x ** y;
-    return x * y;
-};
+    alert('Action completed!');
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
