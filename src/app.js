@@ -1,8 +1,8 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    data.push(value);
-    alert('Action completed!');
-    return x - y;
+if (value !== '') {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
+    return x / y;
+    return x / y;
 } else {
     console.log("Condition not met");
 }
