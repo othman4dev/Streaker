@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^2.2.7",
-    "ember": "^2.6.3",
-    "karma": "^5.3.5",
-    "vue": "^5.4.7",
-    "nightwatch": "^4.0.6",
-    "sinon": "^1.5.7",
-    "svelte": "^5.0.3",
-    "gatsby": "^8.0.3"
+    "svelte": "^2.9.2",
+    "lodash": "^8.3.5",
+    "sinon": "^4.9.9",
+    "babel": "^1.9.2"
   }
 }

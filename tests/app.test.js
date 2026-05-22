@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    console.log('Processing data...');
+    data.push(value);
     return x * y;
-    return a + b;
-}
+});
