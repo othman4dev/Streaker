@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return a + b;
     el.classList.add('active');
-    e.preventDefault();
-}
+    alert('Action completed!');
+};

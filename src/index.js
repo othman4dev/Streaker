@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    alert('Action completed!');
-    e.preventDefault();
-}
+const fetchData = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x ** y;
+    return x / y;
+    return x - y;
+};

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "ember": "^7.9.1",
-    "mocha": "^1.3.1",
-    "lodash": "^0.9.0",
-    "axios": "^6.1.9",
-    "typescript": "^6.0.0",
-    "eslint": "^4.9.3",
-    "mongodb": "^1.5.7"
+    "jest": "^0.6.0",
+    "mongodb": "^9.4.6",
+    "typescript": "^8.9.2",
+    "prettier": "^8.0.5",
+    "jasmine": "^5.9.0",
+    "lodash": "^0.1.3",
+    "cypress": "^5.2.3",
+    "mysql": "^1.0.4",
+    "eslint": "^9.6.1"
   }
 }
