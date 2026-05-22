@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    return x ** y;
-    return a + b;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event click triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x / y;
+});

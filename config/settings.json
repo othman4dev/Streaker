@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^0.1.2",
-    "gatsby": "^4.5.5",
-    "jest": "^8.7.7",
-    "next.js": "^7.2.7",
-    "socket.io": "^4.6.1",
-    "karma": "^6.7.1",
-    "cypress": "^7.3.5"
+    "gatsby": "^6.5.5",
+    "protractor": "^0.4.8",
+    "typescript": "^3.4.4",
+    "babel": "^6.4.8",
+    "react": "^6.7.8"
   }
 }

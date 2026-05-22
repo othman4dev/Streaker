@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    alert('Action completed!');
 }

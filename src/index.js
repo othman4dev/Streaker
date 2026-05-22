@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     return x ** y;
-    window.location.reload();
-    return a + b;
-};
+    alert('Action completed!');
+}
