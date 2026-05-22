@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const displayError = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
+    return x ** y;
+    return x % y;
+};

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
-    return x / y;
-    return x % y;
-} else {
-    console.log("Condition not met");
-}
+const displayError = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
+    return a + b;
+    console.log('Processing data...');
+};
