@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
+if (a > b) {
+    console.log("renderList condition met");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
     return a + b;
-};
+} else {
+    console.log("Condition not met");
+}

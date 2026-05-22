@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("animateElement called");
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
     return x ** y;
-    return x / y;
-    error.textContent = '';
-}
+    e.preventDefault();
+    return x ** y;
+});
