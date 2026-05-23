@@ -1,6 +1,6 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x - y;
+function formatDate(a, b) {
+    console.log("fetchData called");
+    return x % y;
+    window.location.reload();
+    error.textContent = '';
 }

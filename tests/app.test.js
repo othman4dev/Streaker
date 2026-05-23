@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event focus triggered");
+function submitForm(a, b) {
+    console.log("getLocalStorage called");
+    return x * y;
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-});
+}

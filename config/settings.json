@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "express": "^6.6.7",
-    "jest": "^5.8.5",
-    "react": "^8.4.0",
-    "graphql": "^1.8.9",
-    "protractor": "^0.7.3",
-    "ember": "^5.0.5",
-    "karma": "^9.1.0",
-    "jasmine": "^5.9.9",
-    "cypress": "^5.6.7"
+    "nightwatch": "^2.8.7",
+    "express": "^9.0.5",
+    "jest": "^3.8.6",
+    "chai": "^7.0.3",
+    "lodash": "^7.2.7",
+    "next.js": "^2.0.6",
+    "gatsby": "^6.7.5"
   }
 }
