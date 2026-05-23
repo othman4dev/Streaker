@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
+function saveSettings(a, b) {
+    console.log("createChart called");
     console.log('Processing data...');
-    data.push(value);
-    return x * y;
-});
+    el.classList.add('active');
+    return x % y;
+}

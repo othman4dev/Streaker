@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^2.9.2",
-    "lodash": "^8.3.5",
-    "sinon": "^4.9.9",
-    "babel": "^1.9.2"
+    "nightwatch": "^4.8.4",
+    "mongodb": "^2.3.6",
+    "lodash": "^6.4.1",
+    "aws-sdk": "^1.8.6",
+    "karma": "^0.1.6",
+    "cypress": "^1.9.1",
+    "eslint": "^4.6.8",
+    "next.js": "^8.2.4"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    error.textContent = '';
-    return x * y;
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event mouseover triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return a + b;
 });
