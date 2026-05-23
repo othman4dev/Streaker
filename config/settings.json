@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^9.9.2",
-    "protractor": "^3.7.9",
-    "nodemon": "^5.4.9",
-    "redis": "^1.5.1",
-    "puppeteer": "^7.2.4",
-    "cypress": "^8.5.4",
-    "jest": "^1.6.8",
-    "mysql": "^4.1.6"
+    "firebase": "^4.7.1",
+    "prettier": "^6.7.6",
+    "graphql": "^5.1.0",
+    "gatsby": "^9.1.3",
+    "babel": "^3.3.1"
   }
 }

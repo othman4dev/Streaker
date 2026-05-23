@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    return x - y;
-    return a + b;
+if (a > b) {
+    console.log("validateInput condition met");
+    console.log('Processing data...');
     return x ** y;
-});
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
