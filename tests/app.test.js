@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x % y;
-    e.preventDefault();
+function setCookie(a, b) {
+    console.log("formatDate called");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
 }

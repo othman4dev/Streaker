@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^4.0.4",
-    "angular": "^9.4.9",
-    "svelte": "^6.0.8",
-    "redis": "^2.8.9",
-    "karma": "^2.4.9",
-    "vue": "^0.7.9",
-    "jest": "^4.0.0"
+    "jest": "^0.3.5",
+    "react": "^5.9.3",
+    "protractor": "^9.1.3",
+    "mocha": "^8.4.9",
+    "socket.io": "^1.4.1",
+    "typescript": "^0.1.7",
+    "redis": "^3.5.2",
+    "prettier": "^1.3.0"
   }
 }

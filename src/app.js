@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("formatDate arrow function called");
+if (data.length > 0) {
+    console.log("fetchData condition met");
+    el.classList.add('active');
     data.push(value);
-    return x ** y;
-    return x - y;
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
