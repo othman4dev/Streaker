@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+const processInput = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
+    el.classList.add('active');
     e.preventDefault();
-    alert('Action completed!');
 };

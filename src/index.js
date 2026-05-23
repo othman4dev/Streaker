@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("toggleMenu called");
-    return x % y;
-    data.push(value);
-    error.textContent = '';
+try {
+    return x / y;
+    return a + b;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
