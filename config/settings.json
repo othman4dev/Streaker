@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^1.8.3",
-    "firebase": "^4.6.7",
-    "cypress": "^1.6.3",
-    "chai": "^1.5.7",
-    "puppeteer": "^7.7.8"
+    "eslint": "^9.9.2",
+    "protractor": "^3.7.9",
+    "nodemon": "^5.4.9",
+    "redis": "^1.5.1",
+    "puppeteer": "^7.2.4",
+    "cypress": "^8.5.4",
+    "jest": "^1.6.8",
+    "mysql": "^4.1.6"
   }
 }

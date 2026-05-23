@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    el.classList.add('active');
-    data.push(value);
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+};

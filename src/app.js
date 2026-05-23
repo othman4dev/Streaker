@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x * y;
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    return x - y;
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x ** y;
+});
