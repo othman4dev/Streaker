@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
+try {
     data.push(value);
     alert('Action completed!');
-};
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

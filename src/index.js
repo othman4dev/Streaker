@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    return a + b;
-    alert('Action completed!');
+try {
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return x - y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

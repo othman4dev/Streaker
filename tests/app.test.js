@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function saveSettings(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
+    return a + b;
     return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
 }
