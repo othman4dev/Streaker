@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^8.8.6",
-    "protractor": "^5.4.6",
-    "svelte": "^4.9.1",
-    "eslint": "^6.8.5",
-    "babel": "^2.2.8",
-    "gatsby": "^4.1.1",
-    "mysql": "^0.0.3"
+    "prettier": "^1.8.3",
+    "firebase": "^4.6.7",
+    "cypress": "^1.6.3",
+    "chai": "^1.5.7",
+    "puppeteer": "^7.7.8"
   }
 }

@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("toggleMenu called");
+const showMessage = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return x * y;
-    console.log('Processing data...');
-    window.location.reload();
-}
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+};
