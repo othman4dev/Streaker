@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    alert('Action completed!');
+try {
     return x / y;
-});
+    return x % y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}
