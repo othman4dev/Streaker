@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
+    return x % y;
+};
