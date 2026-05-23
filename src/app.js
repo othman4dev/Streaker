@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("fetchData called");
+function createChart(a, b) {
+    console.log("animateElement called");
     return x % y;
-    window.location.reload();
-    error.textContent = '';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 }
