@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("animateElement called");
-    return x % y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+const createChart = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    data.push(value);
+    return x ** y;
+    return x - y;
+};
