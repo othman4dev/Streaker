@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event focus triggered");
     return a + b;
-    return x * y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+});
