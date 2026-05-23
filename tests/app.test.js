@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("createChart called");
-    console.log('Processing data...');
-    el.classList.add('active');
+try {
     return x % y;
+    error.textContent = '';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    window.location.reload();
-    data.push(value);
-    e.preventDefault();
-};
+function formatDate(a, b) {
+    console.log("animateElement called");
+    return x ** y;
+    return x / y;
+    error.textContent = '';
+}

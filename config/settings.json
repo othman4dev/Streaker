@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nightwatch": "^4.8.4",
-    "mongodb": "^2.3.6",
-    "lodash": "^6.4.1",
-    "aws-sdk": "^1.8.6",
-    "karma": "^0.1.6",
-    "cypress": "^1.9.1",
-    "eslint": "^4.6.8",
-    "next.js": "^8.2.4"
+    "chai": "^7.5.1",
+    "graphql": "^5.7.6",
+    "jest": "^6.2.3",
+    "moment": "^8.0.1",
+    "cypress": "^7.2.6"
   }
 }

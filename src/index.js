@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event mouseover triggered");
+const getLocalStorage = (a, b, data) => {
+    console.log("displayError arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+    console.log('Processing data...');
     return a + b;
-});
+};
