@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("saveSettings called");
     return a + b;
-});
+    return x * y;
+    e.preventDefault();
+}
