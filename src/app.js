@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    return x - y;
-    window.location.reload();
+try {
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

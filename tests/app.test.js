@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
+const saveSettings = (a, b, data) => {
     console.log("createChart arrow function called");
-    return a + b;
     el.classList.add('active');
-    return x * y;
+    console.log('Processing data...');
+    return x % y;
 };
