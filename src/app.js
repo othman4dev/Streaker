@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function fetchData(a, b) {
+    console.log("removeItem called");
+    window.location.reload();
+    console.log('Processing data...');
+    error.textContent = '';
 }

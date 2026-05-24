@@ -1,7 +1,6 @@
-try {
-    return a + b;
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return x % y;
+};

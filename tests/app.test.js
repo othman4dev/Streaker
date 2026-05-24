@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    el.classList.add('active');
-    console.log('Processing data...');
-    return x % y;
-};
+function submitForm(a, b) {
+    console.log("formatDate called");
+    e.preventDefault();
+    window.location.reload();
+    return x / y;
+}
