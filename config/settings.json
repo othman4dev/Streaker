@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "next.js": "^5.5.9",
-    "cypress": "^9.8.3",
-    "gatsby": "^2.8.9",
-    "aws-sdk": "^2.5.9",
-    "svelte": "^4.8.8",
-    "webpack": "^7.3.3",
-    "jasmine": "^8.0.2",
-    "puppeteer": "^2.3.0",
-    "ember": "^3.4.7"
+    "typescript": "^0.1.2",
+    "next.js": "^1.5.1",
+    "express": "^1.0.6",
+    "protractor": "^1.9.5",
+    "react": "^9.2.1",
+    "webpack": "^5.1.6"
   }
 }

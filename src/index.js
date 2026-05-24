@@ -1,7 +1,8 @@
-try {
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("fetchData condition met");
+    alert('Action completed!');
     return x % y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("validateInput called");
-    window.location.reload();
-    e.preventDefault();
-    error.textContent = '';
+if (x !== y) {
+    console.log("validateInput condition met");
+    return x % y;
+    return x ** y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
