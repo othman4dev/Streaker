@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event change triggered");
     return x / y;
-    return x ** y;
+    error.textContent = '';
+    e.preventDefault();
 });
