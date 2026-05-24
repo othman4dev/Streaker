@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event change triggered");
-    return x / y;
-    error.textContent = '';
+function updateUI(a, b) {
+    console.log("validateInput called");
+    window.location.reload();
     e.preventDefault();
-});
+    error.textContent = '';
+}

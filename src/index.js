@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x - y;
-    return x - y;
-    return x / y;
-};
+try {
+    console.log('Processing data...');
+    return x % y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "jest": "^1.1.7",
-    "jasmine": "^0.3.5",
-    "webpack": "^9.0.4",
-    "babel": "^4.6.5",
-    "angular": "^5.0.8",
-    "ember": "^2.4.9",
-    "nodemon": "^8.4.7"
+    "next.js": "^5.5.9",
+    "cypress": "^9.8.3",
+    "gatsby": "^2.8.9",
+    "aws-sdk": "^2.5.9",
+    "svelte": "^4.8.8",
+    "webpack": "^7.3.3",
+    "jasmine": "^8.0.2",
+    "puppeteer": "^2.3.0",
+    "ember": "^3.4.7"
   }
 }
