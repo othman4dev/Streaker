@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    return x % y;
-    e.preventDefault();
-});
+const displayError = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    return x * y;
+};

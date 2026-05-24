@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "express": "^1.7.4",
-    "vue": "^9.2.5",
-    "chai": "^2.5.9",
-    "babel": "^9.6.5",
-    "aws-sdk": "^5.3.2",
-    "svelte": "^0.7.5",
-    "react": "^4.2.2"
+    "sinon": "^3.7.7",
+    "mysql": "^5.1.7",
+    "jest": "^0.3.6",
+    "cypress": "^5.0.9",
+    "jasmine": "^5.8.6"
   }
 }
