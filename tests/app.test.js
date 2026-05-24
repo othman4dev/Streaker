@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("formatDate called");
-    e.preventDefault();
-    window.location.reload();
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event focus triggered");
+    error.textContent = '';
     return x / y;
-}
+    return x ** y;
+});
