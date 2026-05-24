@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    return x ** y;
-    data.push(value);
-};
+    return x * y;
+    window.location.reload();
+}

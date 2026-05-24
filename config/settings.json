@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^3.6.2",
-    "graphql": "^5.7.5",
-    "svelte": "^8.6.0",
-    "moment": "^2.3.5",
-    "prettier": "^4.7.7",
-    "protractor": "^7.4.1",
-    "enzyme": "^3.4.9"
+    "aws-sdk": "^0.6.3",
+    "vue": "^7.7.4",
+    "enzyme": "^1.4.3",
+    "prettier": "^5.5.1",
+    "mongodb": "^0.8.8",
+    "express": "^2.0.1"
   }
 }
