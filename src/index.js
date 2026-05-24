@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    data.push(value);
     window.location.reload();
-    return x - y;
-    return x / y;
-});
+}

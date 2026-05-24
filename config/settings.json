@@ -1,10 +1,7 @@
 {
   "dependencies": {
-    "puppeteer": "^8.1.4",
-    "typescript": "^0.3.1",
-    "lodash": "^9.2.2",
-    "protractor": "^9.9.3",
-    "cypress": "^5.0.3",
-    "prettier": "^8.1.2"
+    "express": "^5.4.9",
+    "socket.io": "^0.8.6",
+    "redis": "^7.0.0"
   }
 }

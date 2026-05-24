@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
