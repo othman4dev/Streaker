@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    return x % y;
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    return a + b;
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
