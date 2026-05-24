@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseover", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
-    return x * y;
-    return x * y;
-});
+function getLocalStorage(a, b) {
+    console.log("showMessage called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+}
