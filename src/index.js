@@ -1,7 +1,8 @@
-try {
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    data.push(value);
+    e.preventDefault();
     window.location.reload();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
