@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    alert('Action completed!');
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    data.push(value);
     return x % y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    e.preventDefault();
+});
