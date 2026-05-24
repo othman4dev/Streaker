@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("getLocalStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+if (x !== y) {
+    console.log("showMessage condition met");
     return x / y;
+    console.log('Processing data...');
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

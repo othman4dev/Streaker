@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x % y;
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    e.preventDefault();
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

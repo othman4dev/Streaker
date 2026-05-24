@@ -1,7 +1,12 @@
 {
   "dependencies": {
-    "express": "^5.4.9",
-    "socket.io": "^0.8.6",
-    "redis": "^7.0.0"
+    "typescript": "^0.6.7",
+    "svelte": "^9.5.7",
+    "puppeteer": "^4.4.9",
+    "karma": "^5.7.4",
+    "aws-sdk": "^6.8.2",
+    "nodemon": "^5.7.8",
+    "vue": "^0.4.9",
+    "react": "^8.8.8"
   }
 }
