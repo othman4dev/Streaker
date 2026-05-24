@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x - y;
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
     window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    return x / y;
+});

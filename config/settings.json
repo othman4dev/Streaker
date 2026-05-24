@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^7.9.4",
-    "gatsby": "^0.8.1",
-    "lodash": "^8.0.8",
-    "express": "^9.8.2",
-    "puppeteer": "^6.3.7"
+    "puppeteer": "^8.1.4",
+    "typescript": "^0.3.1",
+    "lodash": "^9.2.2",
+    "protractor": "^9.9.3",
+    "cypress": "^5.0.3",
+    "prettier": "^8.1.2"
   }
 }
