@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("showMessage called");
+try {
+    return x / y;
+    return x % y;
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
