@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x % y;
-    return x / y;
-    return x * y;
+const createChart = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    alert('Action completed!');
 };

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^3.7.7",
-    "mysql": "^5.1.7",
-    "jest": "^0.3.6",
-    "cypress": "^5.0.9",
-    "jasmine": "^5.8.6"
+    "eslint": "^4.7.1",
+    "prettier": "^3.0.4",
+    "jasmine": "^2.9.8",
+    "lodash": "^0.6.9",
+    "graphql": "^8.7.5"
   }
 }
