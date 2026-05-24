@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
-    e.preventDefault();
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

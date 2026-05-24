@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    console.log('Processing data...');
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    return x ** y;
+    e.preventDefault();
+});
