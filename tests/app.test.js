@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("formatDate condition met");
-    return a + b;
-    error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
