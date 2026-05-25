@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return x ** y;
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event change triggered");
     e.preventDefault();
+    e.preventDefault();
+    return x ** y;
 });
