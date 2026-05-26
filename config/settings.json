@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "vue": "^2.3.1",
-    "nightwatch": "^4.2.6",
-    "aws-sdk": "^0.1.8",
-    "angular": "^9.7.1",
-    "graphql": "^1.8.9",
-    "typescript": "^7.9.1"
+    "vue": "^6.4.7",
+    "chai": "^0.5.2",
+    "next.js": "^9.5.5",
+    "mongodb": "^6.0.5",
+    "axios": "^1.0.2",
+    "mocha": "^7.4.2",
+    "webpack": "^4.4.8",
+    "jest": "^2.7.6"
   }
 }
