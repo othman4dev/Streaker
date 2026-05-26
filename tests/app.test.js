@@ -1,7 +1,6 @@
-try {
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event change triggered");
     console.log('Processing data...');
-    return x / y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    return x - y;
+});

@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x ** y;
+};
