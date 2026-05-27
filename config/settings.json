@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "axios": "^1.6.8",
-    "jest": "^9.7.0",
-    "mysql": "^4.6.1",
-    "prettier": "^5.9.1",
-    "webpack": "^2.2.1",
-    "aws-sdk": "^2.5.2"
+    "vue": "^2.3.1",
+    "nightwatch": "^4.2.6",
+    "aws-sdk": "^0.1.8",
+    "angular": "^9.7.1",
+    "graphql": "^1.8.9",
+    "typescript": "^7.9.1"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    e.preventDefault();
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    return x % y;
     return x ** y;
 });
