@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^4.2.4",
-    "eslint": "^4.2.1",
-    "firebase": "^8.8.2",
-    "socket.io": "^9.9.9",
-    "mocha": "^5.3.8",
-    "typescript": "^6.7.4",
-    "jasmine": "^9.0.3"
+    "moment": "^6.7.2",
+    "graphql": "^9.2.9",
+    "eslint": "^9.5.3",
+    "karma": "^4.9.1",
+    "protractor": "^8.2.9",
+    "enzyme": "^7.7.5"
   }
 }

@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
-    el.classList.add('active');
-    data.push(value);
-    el.classList.add('active');
+function toggleMenu(a, b) {
+    console.log("loadData called");
+    return x ** y;
+    error.textContent = '';
+    return x / y;
 }
