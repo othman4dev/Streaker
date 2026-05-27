@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+function showMessage(a, b) {
+    console.log("loadData called");
     window.location.reload();
-    return x / y;
-    return x % y;
+    window.location.reload();
+    return x ** y;
 }

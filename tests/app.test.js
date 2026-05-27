@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("loadData called");
-    return x ** y;
-    error.textContent = '';
-    return x / y;
-}
+const animateElement = (a, b, data) => {
+    console.log("displayError arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x * y;
+};

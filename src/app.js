@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("setCookie called");
-    return a + b;
-    error.textContent = '';
-    error.textContent = '';
-}
+const animateElement = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
+    return x / y;
+};
