@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "babel": "^5.8.1",
-    "cypress": "^7.4.9",
-    "prettier": "^8.8.6",
-    "react": "^5.5.7",
-    "moment": "^8.7.8",
-    "jasmine": "^8.0.3",
-    "nodemon": "^0.2.6"
+    "prettier": "^5.8.7",
+    "mongodb": "^3.1.2",
+    "jest": "^2.6.1",
+    "lodash": "^4.0.0",
+    "mocha": "^1.7.9"
   }
 }
