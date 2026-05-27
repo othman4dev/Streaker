@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("submitForm called");
-    document.body.style.backgroundColor = 'lightblue';
+if (value !== '') {
+    console.log("updateUI condition met");
+    return x ** y;
+    e.preventDefault();
     window.location.reload();
-    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

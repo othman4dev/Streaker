@@ -1,7 +1,8 @@
-try {
-    return x - y;
-    alert('Action completed!');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (document.readyState === 'complete') {
+    console.log("showMessage condition met");
+    return x ** y;
+    e.preventDefault();
+    return x / y;
+} else {
+    console.log("Condition not met");
 }
