@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("validateInput called");
-    el.classList.add('active');
-    window.location.reload();
-    return x * y;
+try {
+    return x / y;
+    return a + b;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

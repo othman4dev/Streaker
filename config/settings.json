@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "vue": "^6.4.7",
-    "chai": "^0.5.2",
-    "next.js": "^9.5.5",
-    "mongodb": "^6.0.5",
-    "axios": "^1.0.2",
-    "mocha": "^7.4.2",
-    "webpack": "^4.4.8",
-    "jest": "^2.7.6"
+    "react": "^2.0.9",
+    "mongodb": "^5.8.1",
+    "express": "^4.7.6",
+    "webpack": "^5.1.7",
+    "lodash": "^0.6.5"
   }
 }
