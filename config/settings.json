@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^0.4.9",
-    "jest": "^3.0.1",
-    "enzyme": "^8.6.1",
-    "mysql": "^7.4.5",
-    "graphql": "^8.8.0",
-    "express": "^3.4.5",
-    "ember": "^6.6.2"
+    "protractor": "^8.1.4",
+    "jasmine": "^7.6.6",
+    "enzyme": "^8.9.6",
+    "karma": "^0.6.8",
+    "svelte": "^4.3.7",
+    "ember": "^1.7.1"
   }
 }

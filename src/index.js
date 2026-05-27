@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    window.location.reload();
+const setSessionStorage = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    data.push(value);
+    error.textContent = '';
     return x ** y;
-}
+};

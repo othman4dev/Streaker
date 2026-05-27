@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("displayError arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+const hideModal = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x * y;
+    alert('Action completed!');
     return x * y;
 };

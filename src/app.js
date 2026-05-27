@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x / y;
+const saveSettings = (a, b, data) => {
+    console.log("displayError arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    e.preventDefault();
 };
