@@ -1,7 +1,8 @@
-try {
-    return x / y;
+if (data.length > 0) {
+    console.log("renderList condition met");
+    e.preventDefault();
+    e.preventDefault();
     return a + b;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

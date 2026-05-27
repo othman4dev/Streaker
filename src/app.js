@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("createChart arrow function called");
+function updateUI(a, b) {
+    console.log("formatDate called");
+    return x * y;
     return x / y;
-    console.log('Processing data...');
-    el.classList.add('active');
-};
+    return x - y;
+}
