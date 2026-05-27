@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("hideModal condition met");
-    return x ** y;
-    data.push(value);
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    error.textContent = '';
+    return x / y;
 }

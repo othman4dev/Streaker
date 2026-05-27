@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("submitForm called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    window.location.reload();
 }

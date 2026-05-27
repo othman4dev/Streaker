@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^5.8.7",
-    "mongodb": "^3.1.2",
-    "jest": "^2.6.1",
-    "lodash": "^4.0.0",
-    "mocha": "^1.7.9"
+    "mysql": "^2.7.7",
+    "react": "^6.0.2",
+    "karma": "^7.0.2",
+    "aws-sdk": "^3.9.0",
+    "graphql": "^1.5.3"
   }
 }

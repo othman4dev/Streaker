@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    return x / y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    return x - y;
+    alert('Action completed!');
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
