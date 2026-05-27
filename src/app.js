@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("displayError arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    e.preventDefault();
-};
+switch (y) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

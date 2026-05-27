@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    data.push(value);
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     error.textContent = '';
-    return x ** y;
-};
+    el.classList.add('active');
+}
