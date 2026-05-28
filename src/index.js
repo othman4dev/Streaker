@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("handleClick called");
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
     return x * y;
-    console.log('Processing data...');
-    return x % y;
-}
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+});

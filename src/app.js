@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    return x ** y;
-    return a + b;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    return x % y;
+    el.classList.add('active');
+});
