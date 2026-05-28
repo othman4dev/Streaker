@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    el.classList.add('active');
-    return x / y;
-    alert('Action completed!');
-});
+switch (y) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

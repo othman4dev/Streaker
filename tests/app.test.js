@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("fetchData called");
-    return x % y;
-    window.location.reload();
-    return x % y;
+switch (a) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

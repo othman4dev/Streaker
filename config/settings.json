@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^8.9.2",
-    "cypress": "^1.4.4",
-    "firebase": "^8.0.7",
-    "lodash": "^8.6.0",
-    "next.js": "^9.9.7"
+    "jest": "^7.4.0",
+    "eslint": "^8.2.9",
+    "karma": "^8.2.8",
+    "typescript": "^7.0.4",
+    "axios": "^1.8.1"
   }
 }
