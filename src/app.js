@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("displayError called");
-    return x - y;
-    alert('Action completed!');
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    return x / y;
+    return a + b;
     console.log('Processing data...');
-}
+});

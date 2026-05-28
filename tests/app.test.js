@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    e.preventDefault();
-    data.push(value);
-    alert('Action completed!');
-};
+switch (e) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "firebase": "^1.8.8",
-    "sinon": "^2.6.7",
-    "moment": "^0.9.9",
-    "redis": "^9.5.7",
-    "babel": "^0.2.3"
+    "moment": "^8.9.4",
+    "aws-sdk": "^0.7.5",
+    "express": "^3.5.4",
+    "axios": "^1.7.9",
+    "mysql": "^5.3.1",
+    "mocha": "^8.7.8",
+    "jasmine": "^7.7.8",
+    "chai": "^5.4.2"
   }
 }
