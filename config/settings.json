@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "socket.io": "^8.0.7",
-    "angular": "^2.5.9",
-    "mongodb": "^2.4.7",
-    "react": "^5.7.1",
-    "chai": "^3.7.9"
+    "ember": "^1.2.3",
+    "typescript": "^2.0.4",
+    "sinon": "^4.7.0",
+    "eslint": "^2.4.9"
   }
 }
