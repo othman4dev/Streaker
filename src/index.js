@@ -1,8 +1,8 @@
 if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    return x - y;
-    return x % y;
-    alert('Action completed!');
+    console.log("showMessage condition met");
+    el.classList.add('active');
+    error.textContent = '';
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

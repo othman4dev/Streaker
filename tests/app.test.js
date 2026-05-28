@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    data.push(value);
-    return x - y;
+function submitForm(a, b) {
+    console.log("fetchData called");
+    return x % y;
+    window.location.reload();
+    return x % y;
 }
