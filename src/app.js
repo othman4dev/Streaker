@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
     document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

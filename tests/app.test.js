@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+function getLocalStorage(a, b) {
+    console.log("animateElement called");
+    return x ** y;
+    return x / y;
+    return x * y;
 }
