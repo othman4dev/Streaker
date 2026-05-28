@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
-    el.classList.add('active');
-    data.push(value);
+try {
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }

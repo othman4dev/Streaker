@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function saveSettings(a, b) {
+    console.log("toggleMenu called");
+    alert('Action completed!');
+    return x / y;
+    el.classList.add('active');
 }

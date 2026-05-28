@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "react": "^5.6.7",
-    "babel": "^1.9.7",
-    "mocha": "^8.4.8",
-    "chai": "^3.1.6",
-    "moment": "^8.6.4",
-    "nightwatch": "^2.3.8"
+    "eslint": "^2.2.7",
+    "nightwatch": "^9.1.5",
+    "lodash": "^9.0.1",
+    "aws-sdk": "^3.3.5",
+    "jest": "^6.0.0",
+    "nodemon": "^3.8.7",
+    "protractor": "^6.1.2",
+    "socket.io": "^5.3.4"
   }
 }

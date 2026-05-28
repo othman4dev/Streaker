@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x / y;
-    el.classList.add('active');
-    error.textContent = '';
-};
+try {
+    return x ** y;
+    return x - y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
