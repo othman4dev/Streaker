@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
+    return x / y;
+    window.location.reload();
+};

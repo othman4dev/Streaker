@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    alert('Action completed!');
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-});
+try {
+    return a + b;
+    window.location.reload();
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

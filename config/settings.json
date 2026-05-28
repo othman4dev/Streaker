@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^4.2.6",
-    "puppeteer": "^6.9.3",
-    "protractor": "^2.4.5",
-    "sinon": "^5.8.0",
-    "firebase": "^7.3.2",
-    "vue": "^8.6.7",
-    "svelte": "^0.6.7",
-    "graphql": "^8.9.7"
+    "babel": "^5.2.4",
+    "graphql": "^9.7.8",
+    "jasmine": "^7.9.7",
+    "react": "^7.7.9",
+    "vue": "^1.9.8"
   }
 }
