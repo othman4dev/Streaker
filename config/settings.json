@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^2.2.7",
-    "nightwatch": "^9.1.5",
-    "lodash": "^9.0.1",
-    "aws-sdk": "^3.3.5",
-    "jest": "^6.0.0",
-    "nodemon": "^3.8.7",
-    "protractor": "^6.1.2",
-    "socket.io": "^5.3.4"
+    "gatsby": "^6.5.5",
+    "nightwatch": "^7.3.7",
+    "graphql": "^9.9.4",
+    "svelte": "^5.2.3",
+    "protractor": "^4.9.0",
+    "mysql": "^6.9.0"
   }
 }

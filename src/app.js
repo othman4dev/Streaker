@@ -1,7 +1,8 @@
-try {
+if (e.key === 'Enter') {
+    console.log("displayError condition met");
+    window.location.reload();
+    return x * y;
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }

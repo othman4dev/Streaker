@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("toggleMenu called");
-    alert('Action completed!');
-    return x / y;
-    el.classList.add('active');
+switch (value) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
