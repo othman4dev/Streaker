@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function processInput(a, b) {
+    console.log("handleClick called");
+    return x * y;
+    console.log('Processing data...');
+    return x % y;
 }

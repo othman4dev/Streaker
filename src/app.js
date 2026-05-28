@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    window.location.reload();
-    return x * y;
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    return x ** y;
+    return a + b;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

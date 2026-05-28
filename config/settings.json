@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "gatsby": "^6.5.5",
-    "nightwatch": "^7.3.7",
-    "graphql": "^9.9.4",
-    "svelte": "^5.2.3",
-    "protractor": "^4.9.0",
-    "mysql": "^6.9.0"
+    "aws-sdk": "^0.1.0",
+    "puppeteer": "^4.6.9",
+    "graphql": "^9.6.4",
+    "lodash": "^0.0.1",
+    "protractor": "^0.6.1",
+    "react": "^6.2.8"
   }
 }

@@ -1,7 +1,8 @@
-switch (value) {
-    case 3:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("getLocalStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
