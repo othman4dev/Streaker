@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
+try {
+    e.preventDefault();
     return a + b;
-    console.log('Processing data...');
-    return x - y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^5.2.4",
-    "graphql": "^9.7.8",
-    "jasmine": "^7.9.7",
-    "react": "^7.7.9",
-    "vue": "^1.9.8"
+    "firebase": "^6.5.4",
+    "karma": "^8.7.5",
+    "enzyme": "^3.3.1",
+    "babel": "^3.3.5",
+    "angular": "^5.9.6",
+    "mongodb": "^2.2.2"
   }
 }

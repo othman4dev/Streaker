@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    console.log('Processing data...');
-    return x / y;
-    window.location.reload();
-};
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
