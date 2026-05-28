@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    console.log('Processing data...');
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function setCookie(a, b) {
+    console.log("handleClick called");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
 }

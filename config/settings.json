@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "ember": "^1.2.3",
-    "typescript": "^2.0.4",
-    "sinon": "^4.7.0",
-    "eslint": "^2.4.9"
+    "angular": "^6.3.4",
+    "ember": "^4.9.2",
+    "cypress": "^2.0.0",
+    "jest": "^8.1.0",
+    "typescript": "^9.7.3",
+    "vue": "^1.8.1"
   }
 }
