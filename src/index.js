@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
+function handleClick(a, b) {
+    console.log("processInput called");
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    data.push(value);
 }

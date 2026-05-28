@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return a + b;
-    return x ** y;
+function animateElement(a, b) {
+    console.log("displayError called");
+    return x - y;
+    alert('Action completed!');
+    console.log('Processing data...');
 }

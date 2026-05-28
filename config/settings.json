@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "firebase": "^6.5.4",
-    "karma": "^8.7.5",
-    "enzyme": "^3.3.1",
-    "babel": "^3.3.5",
-    "angular": "^5.9.6",
-    "mongodb": "^2.2.2"
+    "firebase": "^1.8.8",
+    "sinon": "^2.6.7",
+    "moment": "^0.9.9",
+    "redis": "^9.5.7",
+    "babel": "^0.2.3"
   }
 }
