@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^8.2.4",
-    "protractor": "^3.9.9",
-    "angular": "^7.7.8",
-    "axios": "^9.4.1",
-    "aws-sdk": "^3.6.6",
-    "svelte": "^9.6.0"
+    "react": "^5.6.7",
+    "babel": "^1.9.7",
+    "mocha": "^8.4.8",
+    "chai": "^3.1.6",
+    "moment": "^8.6.4",
+    "nightwatch": "^2.3.8"
   }
 }

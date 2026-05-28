@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("processInput condition met");
-    return x * y;
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 2:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
