@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("animateElement called");
-    return x ** y;
-    return x / y;
+if (e.key === 'Enter') {
+    console.log("processInput condition met");
     return x * y;
+    window.location.reload();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
