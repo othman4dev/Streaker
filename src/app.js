@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    return x % y;
-    el.classList.add('active');
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    alert('Action completed!');
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 });

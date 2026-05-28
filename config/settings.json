@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^5.7.3",
-    "moment": "^6.2.2",
-    "lodash": "^6.4.0",
-    "ember": "^1.7.2",
-    "angular": "^4.3.8",
-    "mongodb": "^1.7.8"
+    "jasmine": "^4.2.6",
+    "puppeteer": "^6.9.3",
+    "protractor": "^2.4.5",
+    "sinon": "^5.8.0",
+    "firebase": "^7.3.2",
+    "vue": "^8.6.7",
+    "svelte": "^0.6.7",
+    "graphql": "^8.9.7"
   }
 }

@@ -1,6 +1,7 @@
-const formatDate = (a, b, data) => {
-    console.log("renderList arrow function called");
+try {
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return x % y;
-    data.push(value);
-};
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
