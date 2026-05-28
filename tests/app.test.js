@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("renderList condition met");
-    console.log('Processing data...');
-    return x * y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const setSessionStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x % y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+};

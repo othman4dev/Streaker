@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event click triggered");
-    return x - y;
-    return x ** y;
+function fetchData(a, b) {
+    console.log("createChart called");
     el.classList.add('active');
-});
+    error.textContent = '';
+    window.location.reload();
+}
