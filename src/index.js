@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("createChart called");
-    el.classList.add('active');
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    e.preventDefault();
     window.location.reload();
+    return x % y;
+} else {
+    console.log("Condition not met");
 }

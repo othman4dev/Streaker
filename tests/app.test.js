@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x % y;
+const validateInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 };
