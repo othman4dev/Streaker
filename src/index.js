@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("showMessage arrow function called");
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x * y;
-};
+    el.classList.add('active');
+});

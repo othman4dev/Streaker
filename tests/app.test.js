@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
+function setCookie(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
     return a + b;
-    return x ** y;
-    return x * y;
+    e.preventDefault();
 }

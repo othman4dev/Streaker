@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^6.0.7",
-    "react": "^4.4.5",
-    "socket.io": "^4.0.7",
-    "babel": "^6.3.7",
-    "jasmine": "^6.0.1",
-    "lodash": "^0.0.8"
+    "jest": "^4.6.3",
+    "socket.io": "^7.0.5",
+    "svelte": "^3.7.8",
+    "chai": "^8.3.6",
+    "karma": "^3.1.4"
   }
 }
