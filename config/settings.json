@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^4.6.3",
-    "socket.io": "^7.0.5",
-    "svelte": "^3.7.8",
-    "chai": "^8.3.6",
-    "karma": "^3.1.4"
+    "react": "^6.1.2",
+    "firebase": "^2.2.7",
+    "mocha": "^2.2.1",
+    "puppeteer": "^8.4.5",
+    "express": "^1.6.8"
   }
 }

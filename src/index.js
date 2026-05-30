@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event submit triggered");
+    return x % y;
+    e.preventDefault();
     el.classList.add('active');
 });

@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    return a + b;
-    e.preventDefault();
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    data.push(value);
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
