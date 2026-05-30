@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const createChart = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    return x * y;
+};

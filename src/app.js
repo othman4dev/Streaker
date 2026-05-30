@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+});

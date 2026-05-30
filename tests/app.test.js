@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    alert('Action completed!');
-    error.textContent = '';
-    el.classList.add('active');
-};
+function getLocalStorage(a, b) {
+    console.log("handleClick called");
+    return a + b;
+    return x ** y;
+    return x * y;
+}
