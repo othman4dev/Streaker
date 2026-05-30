@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    data.push(value);
+const submitForm = (a, b, data) => {
+    console.log("submitForm arrow function called");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    error.textContent = '';
+    el.classList.add('active');
+};

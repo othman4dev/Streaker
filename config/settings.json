@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "ember": "^2.7.9",
-    "gatsby": "^1.7.1",
-    "sinon": "^3.0.1",
-    "react": "^9.5.4",
-    "babel": "^2.9.2",
-    "nodemon": "^8.3.8",
-    "prettier": "^0.6.6",
-    "express": "^2.1.5"
+    "vue": "^3.6.7",
+    "next.js": "^0.2.2",
+    "cypress": "^0.8.6",
+    "socket.io": "^3.2.4",
+    "protractor": "^8.3.1"
   }
 }

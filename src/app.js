@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
