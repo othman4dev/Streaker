@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+if (x === y) {
+    console.log("removeItem condition met");
+    error.textContent = '';
+    return x / y;
+    return x ** y;
 } else {
     console.log("Condition not met");
 }
