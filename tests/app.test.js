@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("renderList called");
+function processInput(a, b) {
+    console.log("setCookie called");
     alert('Action completed!');
-    e.preventDefault();
-    e.preventDefault();
+    window.location.reload();
+    window.location.reload();
 }

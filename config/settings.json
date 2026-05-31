@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^9.4.3",
-    "lodash": "^1.6.4",
-    "vue": "^9.9.2",
-    "cypress": "^8.9.9",
-    "babel": "^5.4.2",
-    "webpack": "^5.8.7",
-    "nodemon": "^7.7.3",
-    "sinon": "^0.0.4"
+    "typescript": "^6.2.7",
+    "vue": "^3.6.2",
+    "eslint": "^7.1.2",
+    "aws-sdk": "^5.2.9",
+    "gatsby": "^1.9.0"
   }
 }
