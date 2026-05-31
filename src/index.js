@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
+function hideModal(a, b) {
+    console.log("handleClick called");
+    error.textContent = '';
+    error.textContent = '';
     window.location.reload();
-    el.classList.add('active');
 }

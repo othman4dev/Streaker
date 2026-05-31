@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
     return x - y;
-    alert('Action completed!');
     return x - y;
-});
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
