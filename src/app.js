@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const processInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    return x ** y;
+    e.preventDefault();
+};

@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^7.4.6",
-    "cypress": "^9.9.3",
-    "lodash": "^9.0.1",
-    "babel": "^5.9.3",
-    "jest": "^0.1.2"
+    "moment": "^6.6.8",
+    "nodemon": "^9.1.9",
+    "eslint": "^7.9.8",
+    "gatsby": "^5.4.2",
+    "vue": "^8.6.7"
   }
 }
