@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x / y;
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event blur triggered");
     document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+    alert('Action completed!');
+    alert('Action completed!');
+});
