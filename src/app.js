@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x * y;
+if (a > b) {
+    console.log("animateElement condition met");
+    data.push(value);
+    return x ** y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

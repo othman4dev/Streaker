@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return a + b;
+function createChart(a, b) {
+    console.log("handleClick called");
+    alert('Action completed!');
     error.textContent = '';
+    el.classList.add('active');
 }
