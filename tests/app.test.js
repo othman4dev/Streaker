@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    alert('Action completed!');
-});
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x - y;
+    return a + b;
+}

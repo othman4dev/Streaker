@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
-    return x - y;
-    return x - y;
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    window.location.reload();
+    el.classList.add('active');
+}

@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    window.location.reload();
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x - y;
     alert('Action completed!');
-    return x ** y;
-};
+    return x - y;
+});
