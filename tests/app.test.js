@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    data.push(value);
-};
+function validateInput(a, b) {
+    console.log("renderList called");
+    alert('Action completed!');
+    e.preventDefault();
+    e.preventDefault();
+}

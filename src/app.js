@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    return x - y;
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    return a + b;
 }
