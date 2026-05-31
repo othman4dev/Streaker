@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("displayError condition met");
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
     console.log('Processing data...');
-    return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    return a + b;
+});

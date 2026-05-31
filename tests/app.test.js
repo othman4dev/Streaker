@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    return x % y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x * y;
+    return a + b;
 }

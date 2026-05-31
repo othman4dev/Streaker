@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    window.location.reload();
+function getLocalStorage(a, b) {
+    console.log("formatDate called");
+    el.classList.add('active');
+    e.preventDefault();
     data.push(value);
-    data.push(value);
-};
+}
