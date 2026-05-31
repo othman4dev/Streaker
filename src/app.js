@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
-    el.classList.add('active');
-    return a + b;
-};
+switch (b) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

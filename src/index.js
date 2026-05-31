@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
-    alert('Action completed!');
-    alert('Action completed!');
+function toggleMenu(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    e.preventDefault();
+    return a + b;
 }
