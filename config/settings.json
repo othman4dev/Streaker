@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^6.1.0",
-    "mongodb": "^9.3.3",
-    "jasmine": "^7.4.3",
-    "babel": "^9.4.9",
-    "eslint": "^8.5.4",
-    "nodemon": "^5.9.7"
+    "jasmine": "^1.8.3",
+    "ember": "^8.0.3",
+    "nodemon": "^5.4.7",
+    "vue": "^2.2.7",
+    "mongodb": "^3.3.5"
   }
 }

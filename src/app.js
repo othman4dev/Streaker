@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const loadData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
+    el.classList.add('active');
+    return a + b;
+};
