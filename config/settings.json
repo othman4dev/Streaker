@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^6.2.7",
-    "vue": "^3.6.2",
-    "eslint": "^7.1.2",
-    "aws-sdk": "^5.2.9",
-    "gatsby": "^1.9.0"
+    "firebase": "^8.7.0",
+    "lodash": "^0.6.7",
+    "svelte": "^5.3.9",
+    "cypress": "^5.7.9",
+    "puppeteer": "^6.3.7"
   }
 }

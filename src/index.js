@@ -1,7 +1,8 @@
-switch (el) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("displayError condition met");
+    console.log('Processing data...');
+    return x / y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    el.classList.add('active');
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    window.location.reload();
+    data.push(value);
+    data.push(value);
+};

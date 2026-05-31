@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("setCookie called");
-    alert('Action completed!');
-    window.location.reload();
-    window.location.reload();
+function animateElement(a, b) {
+    console.log("handleClick called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x % y;
 }
