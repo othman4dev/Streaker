@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x - y;
-    return x - y;
-    return x / y;
-};
+try {
+    alert('Action completed!');
+    e.preventDefault();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}

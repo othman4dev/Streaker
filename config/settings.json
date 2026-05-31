@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "react": "^6.1.2",
-    "firebase": "^2.2.7",
-    "mocha": "^2.2.1",
-    "puppeteer": "^8.4.5",
-    "express": "^1.6.8"
+    "protractor": "^9.8.6",
+    "moment": "^9.5.2",
+    "prettier": "^6.7.1",
+    "jest": "^3.1.1",
+    "vue": "^1.2.3"
   }
 }

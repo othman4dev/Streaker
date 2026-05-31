@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    e.preventDefault();
-    el.classList.add('active');
-});
+try {
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
