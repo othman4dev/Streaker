@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("formatDate called");
-    el.classList.add('active');
-    e.preventDefault();
-    data.push(value);
+try {
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }

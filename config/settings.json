@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^3.0.8",
-    "webpack": "^9.3.0",
-    "chai": "^8.9.3",
-    "redis": "^2.4.4",
-    "graphql": "^0.4.1",
-    "mysql": "^4.2.0",
-    "express": "^7.5.4",
-    "eslint": "^4.1.5"
+    "protractor": "^6.1.0",
+    "mongodb": "^9.3.3",
+    "jasmine": "^7.4.3",
+    "babel": "^9.4.9",
+    "eslint": "^8.5.4",
+    "nodemon": "^5.9.7"
   }
 }
