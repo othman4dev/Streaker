@@ -1,6 +1,8 @@
-function createChart(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
+if (data.length > 0) {
+    console.log("renderList condition met");
     error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

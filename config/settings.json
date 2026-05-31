@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^6.5.2",
-    "mongodb": "^3.6.0",
-    "graphql": "^5.5.8",
-    "vue": "^9.4.1",
-    "nodemon": "^0.0.6",
-    "puppeteer": "^0.1.5",
-    "firebase": "^0.4.5"
+    "axios": "^4.8.9",
+    "angular": "^9.6.6",
+    "react": "^5.4.5",
+    "lodash": "^5.8.2",
+    "firebase": "^2.4.0",
+    "moment": "^9.7.8"
   }
 }
