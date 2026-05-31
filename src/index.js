@@ -1,7 +1,6 @@
-try {
+const loadData = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    console.log('Processing data...');
+    e.preventDefault();
     return x % y;
-    return x % y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+};

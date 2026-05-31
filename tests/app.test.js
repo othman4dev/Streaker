@@ -1,6 +1,8 @@
-function hideModal(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
+if (data.length > 0) {
+    console.log("processInput condition met");
     return a + b;
-    return x ** y;
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
