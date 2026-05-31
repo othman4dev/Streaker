@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^8.8.9",
-    "jest": "^9.2.3",
-    "cypress": "^6.9.1",
-    "angular": "^1.8.9",
-    "enzyme": "^1.7.0",
-    "chai": "^6.6.4",
-    "jasmine": "^7.5.0"
+    "chai": "^1.9.9",
+    "enzyme": "^8.8.6",
+    "lodash": "^1.2.0",
+    "webpack": "^8.1.4",
+    "next.js": "^0.6.0",
+    "prettier": "^7.7.5"
   }
 }

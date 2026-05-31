@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x % y;
+const saveSettings = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 };
