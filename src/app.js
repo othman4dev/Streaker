@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
-    return x ** y;
+function hideModal(a, b) {
+    console.log("processInput called");
+    return x * y;
+    data.push(value);
     e.preventDefault();
-};
+}

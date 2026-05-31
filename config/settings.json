@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "moment": "^6.6.8",
-    "nodemon": "^9.1.9",
-    "eslint": "^7.9.8",
-    "gatsby": "^5.4.2",
-    "vue": "^8.6.7"
+    "nodemon": "^5.4.0",
+    "jasmine": "^9.0.6",
+    "enzyme": "^0.5.1",
+    "jest": "^6.7.3",
+    "eslint": "^9.7.2",
+    "graphql": "^3.5.3",
+    "aws-sdk": "^6.0.9"
   }
 }

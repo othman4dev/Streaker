@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("validateInput called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+function hideModal(a, b) {
+    console.log("setSessionStorage called");
+    e.preventDefault();
+    return a + b;
+    return x ** y;
 }
