@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("removeItem condition met");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    return a + b;
     error.textContent = '';
-    return x / y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
 }
