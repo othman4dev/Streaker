@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    return x / y;
+    window.location.reload();
 }

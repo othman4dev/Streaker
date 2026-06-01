@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "chai": "^1.9.9",
-    "enzyme": "^8.8.6",
-    "lodash": "^1.2.0",
-    "webpack": "^8.1.4",
-    "next.js": "^0.6.0",
-    "prettier": "^7.7.5"
+    "next.js": "^7.8.7",
+    "svelte": "^3.7.8",
+    "chai": "^2.1.1",
+    "jest": "^7.6.1",
+    "express": "^0.6.4",
+    "protractor": "^6.4.7",
+    "aws-sdk": "^1.5.6"
   }
 }
