@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("submitForm condition met");
-    window.location.reload();
-    return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

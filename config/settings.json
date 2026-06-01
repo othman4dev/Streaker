@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^2.9.4",
-    "mocha": "^0.9.6",
-    "protractor": "^0.8.0",
-    "jasmine": "^3.3.6",
-    "angular": "^0.8.2"
+    "vue": "^3.4.9",
+    "chai": "^0.2.6",
+    "nightwatch": "^3.8.6",
+    "graphql": "^2.0.3",
+    "prettier": "^7.9.3"
   }
 }
