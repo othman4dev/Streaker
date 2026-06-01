@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^2.3.6",
-    "chai": "^5.3.1",
-    "cypress": "^8.6.4",
-    "gatsby": "^6.8.3",
-    "enzyme": "^2.7.4",
-    "axios": "^3.6.7",
-    "react": "^5.7.0",
-    "jest": "^5.4.0"
+    "svelte": "^2.9.4",
+    "mocha": "^0.9.6",
+    "protractor": "^0.8.0",
+    "jasmine": "^3.3.6",
+    "angular": "^0.8.2"
   }
 }
