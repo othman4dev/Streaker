@@ -1,6 +1,8 @@
-const animateElement = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    alert('Action completed!');
-    return a + b;
-    return x * y;
-};
+if (window.innerWidth > 500) {
+    console.log("setCookie condition met");
+    data.push(value);
+    error.textContent = '';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
