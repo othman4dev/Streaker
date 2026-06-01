@@ -1,7 +1,6 @@
-switch (y) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function validateInput(a, b) {
+    console.log("submitForm called");
+    window.location.reload();
+    return x * y;
+    data.push(value);
 }
