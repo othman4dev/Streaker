@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("setCookie condition met");
-    data.push(value);
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x / y;
+    return x ** y;
 }
