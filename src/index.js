@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("saveSettings condition met");
-    return x - y;
+const animateElement = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
     return a + b;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};
