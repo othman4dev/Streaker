@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("animateElement called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    return x * y;
     alert('Action completed!');
-    window.location.reload();
-    e.preventDefault();
 }

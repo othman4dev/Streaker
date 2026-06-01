@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("updateUI condition met");
-    data.push(value);
-    return a + b;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x - y;
+    window.location.reload();
 }
