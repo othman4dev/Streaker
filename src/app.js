@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    e.preventDefault();
+if (value !== '') {
+    console.log("updateUI condition met");
+    data.push(value);
+    return a + b;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

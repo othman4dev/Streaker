@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("submitForm called");
+function removeItem(a, b) {
+    console.log("animateElement called");
+    alert('Action completed!');
     window.location.reload();
-    return x * y;
-    data.push(value);
+    e.preventDefault();
 }
