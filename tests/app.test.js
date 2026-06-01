@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+if (a > b) {
+    console.log("displayError condition met");
+    error.textContent = '';
     return x * y;
-    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

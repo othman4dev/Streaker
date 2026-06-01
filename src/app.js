@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+const fetchData = (a, b, data) => {
+    console.log("processInput arrow function called");
     return x - y;
-    window.location.reload();
-}
+    data.push(value);
+    e.preventDefault();
+};
