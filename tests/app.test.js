@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
+for (let i = 0; i < 9; i++) {
     console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    e.preventDefault();
     return x % y;
-    alert('Action completed!');
-    error.textContent = '';
 }

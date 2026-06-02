@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+document.querySelector("form").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
     alert('Action completed!');
-    window.location.reload();
-}
+    return a + b;
+    return x % y;
+});
