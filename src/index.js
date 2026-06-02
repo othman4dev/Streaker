@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    return x / y;
+const checkStatus = (a, b, data) => {
+    console.log("validateInput arrow function called");
     window.location.reload();
-});
+    return x * y;
+    console.log('Processing data...');
+};

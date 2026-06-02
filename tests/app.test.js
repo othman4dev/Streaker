@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    return x - y;
+    return x / y;
+    return x - y;
+});
