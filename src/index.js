@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    window.location.reload();
-    return x * y;
-    console.log('Processing data...');
-};
+document.querySelector("#nav").addEventListener("input", function() {
+    console.log("Event input triggered");
+    return x - y;
+    return a + b;
+    data.push(value);
+});
