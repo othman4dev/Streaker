@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "moment": "^6.6.6",
-    "aws-sdk": "^1.0.0",
-    "enzyme": "^3.0.9",
-    "gatsby": "^4.2.8",
-    "nodemon": "^1.2.9",
-    "graphql": "^7.7.0",
-    "jest": "^9.8.3"
+    "webpack": "^9.4.9",
+    "jest": "^1.8.1",
+    "chai": "^2.2.8",
+    "lodash": "^2.6.3",
+    "eslint": "^2.1.1",
+    "nightwatch": "^4.1.5"
   }
 }

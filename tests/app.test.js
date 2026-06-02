@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event resize triggered");
+function formatDate(a, b) {
+    console.log("formatDate called");
+    data.push(value);
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-});
+    data.push(value);
+}

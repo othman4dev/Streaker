@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x / y;
-    e.preventDefault();
+function submitForm(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    return x * y;
+    return x - y;
 }
