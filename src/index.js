@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-};
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    return x / y;
+    window.location.reload();
+});

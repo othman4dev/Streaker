@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^9.4.9",
-    "jest": "^1.8.1",
-    "chai": "^2.2.8",
-    "lodash": "^2.6.3",
-    "eslint": "^2.1.1",
-    "nightwatch": "^4.1.5"
+    "ember": "^1.8.6",
+    "vue": "^8.2.8",
+    "webpack": "^2.2.5",
+    "moment": "^8.0.3",
+    "axios": "^7.3.8",
+    "nodemon": "^1.5.4",
+    "jasmine": "^3.5.0"
   }
 }

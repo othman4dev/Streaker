@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("formatDate called");
-    data.push(value);
-    el.classList.add('active');
-    data.push(value);
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 }
