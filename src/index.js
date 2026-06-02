@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("animateElement called");
-    return x * y;
-    return x * y;
-    window.location.reload();
-}
+const renderList = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+};

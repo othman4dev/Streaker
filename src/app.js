@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("animateElement arrow function called");
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    return x ** y;
+    return x / y;
     window.location.reload();
-    data.push(value);
-    e.preventDefault();
-};
+});
