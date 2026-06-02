@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("input", function() {
-    console.log("Event input triggered");
-    return x - y;
-    return a + b;
+try {
+    e.preventDefault();
     data.push(value);
-});
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

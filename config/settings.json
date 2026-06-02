@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "vue": "^4.3.6",
-    "protractor": "^1.5.7",
-    "mongodb": "^5.8.2",
-    "mysql": "^9.2.1",
-    "ember": "^1.9.1",
-    "jasmine": "^3.1.8",
-    "react": "^7.8.2",
-    "svelte": "^2.0.5"
+    "enzyme": "^1.8.5",
+    "axios": "^3.9.9",
+    "chai": "^7.6.5",
+    "mongodb": "^4.0.0",
+    "babel": "^5.4.5",
+    "protractor": "^5.9.3",
+    "nightwatch": "^5.9.3"
   }
 }
