@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    alert('Action completed!');
-    return a + b;
-    return x % y;
-});
+const setSessionStorage = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    window.location.reload();
+    data.push(value);
+    e.preventDefault();
+};
