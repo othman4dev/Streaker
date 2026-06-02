@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x - y;
-    data.push(value);
-    e.preventDefault();
-};
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    alert('Action completed!');
+    window.location.reload();
+}
