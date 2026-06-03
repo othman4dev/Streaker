@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+switch (error) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
