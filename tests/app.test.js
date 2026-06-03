@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x - y;
-    alert('Action completed!');
-    window.location.reload();
-};
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    return x ** y;
+    data.push(value);
+    e.preventDefault();
+});

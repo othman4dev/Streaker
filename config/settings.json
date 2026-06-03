@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^9.4.7",
-    "lodash": "^6.3.5",
-    "aws-sdk": "^8.8.8",
-    "redis": "^2.8.4",
-    "mysql": "^1.5.6"
+    "ember": "^7.9.6",
+    "graphql": "^1.6.0",
+    "redis": "^2.7.9",
+    "mocha": "^4.4.9",
+    "prettier": "^3.2.5",
+    "vue": "^6.6.3"
   }
 }
