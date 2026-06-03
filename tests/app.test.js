@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    console.log('Processing data...');
+    return x / y;
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
