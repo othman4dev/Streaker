@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setCookie condition met");
-    console.log('Processing data...');
-    return x / y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+const updateUI = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x - y;
+    alert('Action completed!');
+    window.location.reload();
+};

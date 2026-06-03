@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("setSessionStorage called");
-    alert('Action completed!');
-    data.push(value);
-    return a + b;
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x ** y;
+    e.preventDefault();
 }
