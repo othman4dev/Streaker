@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^1.8.5",
-    "axios": "^3.9.9",
-    "chai": "^7.6.5",
-    "mongodb": "^4.0.0",
-    "babel": "^5.4.5",
-    "protractor": "^5.9.3",
-    "nightwatch": "^5.9.3"
+    "karma": "^2.6.5",
+    "cypress": "^4.4.4",
+    "vue": "^4.6.4",
+    "webpack": "^7.1.5",
+    "mongodb": "^0.0.2",
+    "nightwatch": "^3.9.5"
   }
 }
