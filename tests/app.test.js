@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    data.push(value);
+try {
+    return x - y;
     e.preventDefault();
-});
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    alert('Action completed!');
-    return x % y;
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x ** y;
+};

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "ember": "^7.9.6",
-    "graphql": "^1.6.0",
-    "redis": "^2.7.9",
-    "mocha": "^4.4.9",
-    "prettier": "^3.2.5",
-    "vue": "^6.6.3"
+    "jest": "^0.5.8",
+    "redis": "^2.4.7",
+    "typescript": "^0.6.9",
+    "chai": "^0.1.4",
+    "nodemon": "^9.6.3"
   }
 }
