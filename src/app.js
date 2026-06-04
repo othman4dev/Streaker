@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x / y;
-    window.location.reload();
-    window.location.reload();
-};
+if (e.key === 'Enter') {
+    console.log("fetchData condition met");
+    e.preventDefault();
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
