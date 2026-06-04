@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("formatDate called");
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-}
+    el.classList.add('active');
+    return x * y;
+};

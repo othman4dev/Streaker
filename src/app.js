@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
+if (a > b) {
+    console.log("showMessage condition met");
     return x * y;
-    console.log('Processing data...');
     return a + b;
-});
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
