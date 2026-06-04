@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("setSessionStorage called");
-    return x % y;
+try {
     error.textContent = '';
-    return x - y;
+    return x ** y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
