@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("processInput arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return a + b;
+};
