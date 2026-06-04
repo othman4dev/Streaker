@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("processInput arrow function called");
+try {
     document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    return a + b;
-};
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}

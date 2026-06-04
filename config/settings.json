@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "protractor": "^0.0.5",
-    "enzyme": "^4.3.6",
-    "puppeteer": "^8.8.4",
-    "aws-sdk": "^8.4.0",
-    "svelte": "^0.1.4",
-    "jest": "^0.0.2",
-    "babel": "^6.5.1",
-    "next.js": "^4.5.5"
+    "moment": "^3.2.9",
+    "jasmine": "^5.5.6",
+    "firebase": "^2.8.4",
+    "karma": "^5.4.5"
   }
 }

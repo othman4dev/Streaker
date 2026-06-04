@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+try {
+    window.location.reload();
+    alert('Action completed!');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

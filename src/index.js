@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("toggleMenu condition met");
-    e.preventDefault();
-    return x % y;
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    error.textContent = '';
 }
