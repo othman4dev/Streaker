@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "express": "^3.7.5",
-    "karma": "^4.1.7",
-    "gatsby": "^8.1.5",
-    "chai": "^3.9.1",
-    "react": "^9.6.6"
+    "sinon": "^3.6.3",
+    "redis": "^6.2.8",
+    "enzyme": "^2.2.8",
+    "ember": "^3.6.5",
+    "axios": "^8.6.8",
+    "mocha": "^2.7.3",
+    "firebase": "^3.9.4"
   }
 }

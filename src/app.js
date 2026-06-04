@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
+    window.location.reload();
+    return x ** y;
+};
