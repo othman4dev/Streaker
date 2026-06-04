@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x * y;
-};
+switch (y) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

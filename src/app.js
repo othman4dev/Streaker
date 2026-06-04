@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("fetchData condition met");
-    e.preventDefault();
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
