@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    alert('Action completed!');
-    el.classList.add('active');
-    return x / y;
-};
+switch (data) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
+}

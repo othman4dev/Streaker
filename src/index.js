@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    return x * y;
+    alert('Action completed!');
+});
