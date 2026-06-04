@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-}
+const handleClick = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    error.textContent = '';
+    return x ** y;
+};

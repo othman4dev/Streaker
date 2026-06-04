@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    return x ** y;
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
