@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("submitForm called");
-    return x - y;
-    error.textContent = '';
-    e.preventDefault();
+function removeItem(a, b) {
+    console.log("setSessionStorage called");
+    alert('Action completed!');
+    return x ** y;
+    console.log('Processing data...');
 }

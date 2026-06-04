@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "firebase": "^5.7.5",
-    "next.js": "^6.0.3",
-    "react": "^2.9.4",
-    "chai": "^5.8.9",
-    "jest": "^6.7.1",
-    "webpack": "^4.4.2",
-    "cypress": "^5.0.1"
+    "sinon": "^6.6.7",
+    "angular": "^0.3.8",
+    "babel": "^8.9.3",
+    "mocha": "^7.7.6"
   }
 }

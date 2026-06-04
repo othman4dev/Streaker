@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("processInput called");
-    data.push(value);
-    return x ** y;
-    return x * y;
-}
+const setCookie = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x / y;
+};
