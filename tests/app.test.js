@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
+const removeItem = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    el.classList.add('active');
-}
+};

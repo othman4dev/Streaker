@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^3.2.3",
-    "graphql": "^9.3.1",
-    "lodash": "^3.1.9",
-    "socket.io": "^6.2.4",
-    "express": "^0.9.6",
-    "typescript": "^5.7.3"
+    "express": "^3.7.5",
+    "karma": "^4.1.7",
+    "gatsby": "^8.1.5",
+    "chai": "^3.9.1",
+    "react": "^9.6.6"
   }
 }

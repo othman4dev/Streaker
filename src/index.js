@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("createChart condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function toggleMenu(a, b) {
+    console.log("displayError called");
+    return x * y;
+    console.log('Processing data...');
+    return x / y;
 }
