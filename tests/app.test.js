@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return a + b;
+try {
+    return x / y;
     error.textContent = '';
-    return x ** y;
-};
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}
