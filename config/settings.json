@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "moment": "^3.2.9",
-    "jasmine": "^5.5.6",
-    "firebase": "^2.8.4",
-    "karma": "^5.4.5"
+    "gatsby": "^0.8.2",
+    "chai": "^5.0.2",
+    "vue": "^6.2.8",
+    "puppeteer": "^3.3.2",
+    "socket.io": "^7.7.1"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    return a + b;
+    el.classList.add('active');
+    console.log('Processing data...');
+});
