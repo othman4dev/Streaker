@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    return x * y;
-    return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("submitForm called");
+    return x - y;
+    error.textContent = '';
+    e.preventDefault();
 }

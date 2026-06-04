@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("validateInput condition met");
-    window.location.reload();
-    return x - y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x / y;
 }
