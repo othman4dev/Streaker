@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("showMessage arrow function called");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     return x / y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    window.location.reload();
+}

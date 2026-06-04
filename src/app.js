@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+document.querySelector("document").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    console.log('Processing data...');
     return a + b;
-    window.location.reload();
-    return x ** y;
-};
+});

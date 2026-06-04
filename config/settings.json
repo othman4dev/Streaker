@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "sinon": "^3.6.3",
-    "redis": "^6.2.8",
-    "enzyme": "^2.2.8",
-    "ember": "^3.6.5",
-    "axios": "^8.6.8",
-    "mocha": "^2.7.3",
-    "firebase": "^3.9.4"
+    "svelte": "^5.6.8",
+    "moment": "^2.2.4",
+    "cypress": "^7.0.2",
+    "firebase": "^7.6.9",
+    "ember": "^8.2.2",
+    "redis": "^3.6.2"
   }
 }

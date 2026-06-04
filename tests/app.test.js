@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event change triggered");
+function setCookie(a, b) {
+    console.log("formatDate called");
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    e.preventDefault();
-});
+    window.location.reload();
+}
