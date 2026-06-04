@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^6.2.8",
-    "puppeteer": "^0.0.1",
-    "typescript": "^0.7.8",
-    "ember": "^2.9.5",
-    "axios": "^5.9.4",
-    "angular": "^7.7.5",
-    "babel": "^8.7.3"
+    "protractor": "^3.2.3",
+    "graphql": "^9.3.1",
+    "lodash": "^3.1.9",
+    "socket.io": "^6.2.4",
+    "express": "^0.9.6",
+    "typescript": "^5.7.3"
   }
 }
