@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x % y;
+const formatDate = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+};

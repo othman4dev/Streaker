@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("handleClick condition met");
-    e.preventDefault();
-    window.location.reload();
-    return x ** y;
+if (a > b) {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    return x / y;
+    return a + b;
 } else {
     console.log("Condition not met");
 }

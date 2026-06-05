@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^8.4.6",
-    "axios": "^2.6.6",
-    "chai": "^6.2.2",
-    "enzyme": "^9.5.7",
-    "webpack": "^6.4.3",
-    "angular": "^8.4.6",
-    "mongodb": "^6.7.2"
+    "chai": "^4.9.5",
+    "lodash": "^0.5.4",
+    "jasmine": "^6.9.0",
+    "mysql": "^3.0.8",
+    "axios": "^1.0.1",
+    "react": "^8.0.2",
+    "cypress": "^6.0.1",
+    "protractor": "^9.1.3"
   }
 }
