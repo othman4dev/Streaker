@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event scroll triggered");
-    console.log('Processing data...');
-    return x - y;
-    console.log('Processing data...');
-});
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+}

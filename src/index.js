@@ -1,7 +1,6 @@
-try {
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
     return x - y;
-    console.log('Processing data...');
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+});
