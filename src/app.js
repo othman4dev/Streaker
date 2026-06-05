@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-};
+document.querySelector("form").addEventListener("input", function() {
+    console.log("Event input triggered");
+    return x / y;
+    e.preventDefault();
+    el.classList.add('active');
+});

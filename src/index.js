@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    return x * y;
-    return x / y;
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    console.log('Processing data...');
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+});

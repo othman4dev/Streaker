@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^6.9.6",
-    "prettier": "^3.9.4",
-    "moment": "^3.1.0",
-    "ember": "^4.3.0",
-    "vue": "^2.7.3",
-    "gatsby": "^1.0.8"
+    "mongodb": "^4.5.8",
+    "sinon": "^3.9.7",
+    "mocha": "^4.8.3",
+    "typescript": "^6.2.9"
   }
 }

@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    data.push(value);
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("submit", function() {
+    console.log("Event input triggered");
+    return x % y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+});
