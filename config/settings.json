@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "next.js": "^3.0.6",
-    "protractor": "^1.2.4",
-    "graphql": "^4.8.6",
-    "nightwatch": "^9.8.6",
-    "mongodb": "^7.3.2",
-    "gatsby": "^6.4.6",
-    "mocha": "^1.7.8",
-    "prettier": "^7.9.9"
+    "firebase": "^1.6.6",
+    "mongodb": "^3.6.7",
+    "gatsby": "^8.9.7",
+    "axios": "^7.1.6",
+    "webpack": "^6.0.7"
   }
 }

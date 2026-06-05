@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    return x ** y;
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    error.textContent = '';
+    window.location.reload();
+});
