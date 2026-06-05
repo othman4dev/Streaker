@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+};

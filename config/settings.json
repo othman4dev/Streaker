@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^8.7.4",
-    "mocha": "^1.4.4",
-    "nodemon": "^3.2.0",
-    "ember": "^4.1.2",
-    "protractor": "^3.6.2",
-    "jasmine": "^2.5.0",
-    "svelte": "^6.3.7",
-    "redis": "^5.1.5"
+    "enzyme": "^6.9.6",
+    "prettier": "^3.9.4",
+    "moment": "^3.1.0",
+    "ember": "^4.3.0",
+    "vue": "^2.7.3",
+    "gatsby": "^1.0.8"
   }
 }

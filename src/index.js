@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event input triggered");
-    el.classList.add('active');
-    return x - y;
-    alert('Action completed!');
-});
+if (a > b) {
+    console.log("showMessage condition met");
+    return x * y;
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

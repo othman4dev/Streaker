@@ -1,6 +1,7 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+try {
+    window.location.reload();
     data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
