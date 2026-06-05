@@ -1,6 +1,7 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x % y;
-    return x ** y;
+switch (x) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

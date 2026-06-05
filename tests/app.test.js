@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    e.preventDefault();
+if (a > b) {
+    console.log("processInput condition met");
     return x - y;
-};
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

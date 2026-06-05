@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    error.textContent = '';
-    window.location.reload();
-});
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x - y;
+} else {
+    console.log("Condition not met");
+}
