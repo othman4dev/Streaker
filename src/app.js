@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("input", function() {
-    console.log("Event input triggered");
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
+    window.location.reload();
+    data.push(value);
     return x / y;
-    e.preventDefault();
-    el.classList.add('active');
-});
+} else {
+    console.log("Condition not met");
+}

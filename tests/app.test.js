@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event input triggered");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return a + b;
     return x % y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-});
+}
