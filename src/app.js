@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    window.location.reload();
-    data.push(value);
-    return x / y;
+if (x === y) {
+    console.log("showMessage condition met");
+    alert('Action completed!');
+    return x % y;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x - y;
-    return x % y;
-    error.textContent = '';
+const formatDate = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
+    return a + b;
+    return x ** y;
 };

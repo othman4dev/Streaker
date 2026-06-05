@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+if (value !== '') {
+    console.log("fetchData condition met");
     return a + b;
+    console.log('Processing data...');
     return x % y;
+} else {
+    console.log("Condition not met");
 }
