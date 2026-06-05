@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
+try {
+    return x % y;
     return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
