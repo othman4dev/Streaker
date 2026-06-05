@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x % y;
-    el.classList.add('active');
-    return x % y;
-};
+document.querySelector("#nav").addEventListener("submit", function() {
+    console.log("Event change triggered");
+    return x - y;
+    return a + b;
+    window.location.reload();
+});

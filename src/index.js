@@ -1,6 +1,7 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    alert('Action completed!');
-    return x % y;
+switch (b) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
