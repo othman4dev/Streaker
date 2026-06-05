@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("processInput condition met");
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    console.log('Processing data...');
     return x - y;
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+});
