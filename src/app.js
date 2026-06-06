@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    data.push(value);
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
     return a + b;
+    window.location.reload();
+    return x ** y;
 });

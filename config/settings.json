@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jest": "^6.6.5",
-    "firebase": "^9.6.7",
-    "axios": "^9.7.7",
-    "mongodb": "^5.1.9",
-    "mocha": "^1.0.9",
-    "vue": "^2.2.7",
-    "webpack": "^0.7.9",
-    "react": "^7.8.9"
+    "moment": "^7.5.8",
+    "graphql": "^3.6.4",
+    "sinon": "^4.7.0",
+    "nightwatch": "^3.1.8",
+    "mocha": "^0.0.8"
   }
 }

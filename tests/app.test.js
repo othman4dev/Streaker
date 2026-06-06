@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    window.location.reload();
-    console.log('Processing data...');
+function showMessage(a, b) {
+    console.log("processInput called");
+    return x - y;
     error.textContent = '';
-});
+    document.body.style.backgroundColor = 'lightblue';
+}
