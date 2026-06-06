@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setCookie condition met");
+function fetchData(a, b) {
+    console.log("fetchData called");
     el.classList.add('active');
-    return a + b;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }

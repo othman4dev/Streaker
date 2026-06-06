@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    window.location.reload();
+try {
+    el.classList.add('active');
     return x ** y;
-});
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
