@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event scroll triggered");
-    e.preventDefault();
-    return x / y;
-    data.push(value);
-});
+switch (e) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
