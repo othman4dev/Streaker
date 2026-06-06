@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+const setSessionStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    return x % y;
     return a + b;
-    data.push(value);
-    return x / y;
-}
+};

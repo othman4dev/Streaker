@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("getLocalStorage called");
-    e.preventDefault();
-    console.log('Processing data...');
-    data.push(value);
+switch (x) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
