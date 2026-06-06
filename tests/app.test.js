@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    return a + b;
-    return x % y;
-});
+try {
+    data.push(value);
+    return x / y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

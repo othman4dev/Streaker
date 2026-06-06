@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^1.7.3",
-    "nodemon": "^2.5.4",
-    "ember": "^8.2.3",
-    "graphql": "^3.0.0",
-    "aws-sdk": "^1.9.0",
-    "chai": "^0.0.4",
-    "vue": "^3.0.8"
+    "puppeteer": "^6.9.1",
+    "aws-sdk": "^4.6.2",
+    "babel": "^7.6.2",
+    "vue": "^4.7.9",
+    "moment": "^9.2.1",
+    "lodash": "^6.3.5",
+    "mongodb": "^0.9.0"
   }
 }
