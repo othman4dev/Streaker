@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    error.textContent = '';
-    return x % y;
-}
+const displayError = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
+    el.classList.add('active');
+};

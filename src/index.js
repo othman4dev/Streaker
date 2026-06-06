@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("formatDate called");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     data.push(value);
     e.preventDefault();
-    error.textContent = '';
 }
