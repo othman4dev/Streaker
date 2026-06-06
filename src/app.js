@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x * y;
-    alert('Action completed!');
-    console.log('Processing data...');
-};
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event mouseover triggered");
+    return a + b;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});

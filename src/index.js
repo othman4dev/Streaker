@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    document.body.style.backgroundColor = 'lightblue';
     window.location.reload();
-    return x % y;
-    return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
