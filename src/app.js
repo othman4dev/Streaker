@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("showMessage condition met");
-    alert('Action completed!');
+const displayError = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return x % y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+    return x % y;
+};

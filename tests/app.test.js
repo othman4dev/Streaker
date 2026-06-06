@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    return a + b;
-    console.log('Processing data...');
-    return x % y;
-} else {
-    console.log("Condition not met");
+try {
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
