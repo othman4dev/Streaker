@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "ember": "^8.2.8",
-    "redis": "^2.0.0",
-    "puppeteer": "^2.2.5",
-    "firebase": "^0.8.9",
-    "sinon": "^6.4.6",
-    "babel": "^9.3.5"
+    "next.js": "^2.1.5",
+    "lodash": "^9.7.7",
+    "express": "^4.2.0",
+    "graphql": "^8.6.5",
+    "redis": "^0.9.4",
+    "aws-sdk": "^4.7.4"
   }
 }

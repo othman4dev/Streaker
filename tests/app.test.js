@@ -1,6 +1,8 @@
-const showMessage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+if (document.readyState === 'complete') {
+    console.log("handleClick condition met");
     data.push(value);
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
