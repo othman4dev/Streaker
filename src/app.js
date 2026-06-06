@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
+function updateUI(a, b) {
+    console.log("checkStatus called");
+    return x * y;
+    alert('Action completed!');
+    return x % y;
 }
