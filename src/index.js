@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event blur triggered");
-    data.push(value);
-    data.push(value);
+document.querySelector("document").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    return a + b;
     window.location.reload();
 });

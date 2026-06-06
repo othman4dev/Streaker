@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^2.6.5",
-    "graphql": "^7.5.0",
-    "moment": "^0.2.0",
-    "jest": "^6.7.0",
-    "nightwatch": "^5.7.1"
+    "aws-sdk": "^0.2.8",
+    "webpack": "^0.6.4",
+    "sinon": "^2.3.4",
+    "typescript": "^8.5.9",
+    "puppeteer": "^1.9.5",
+    "protractor": "^8.0.7",
+    "lodash": "^7.7.3"
   }
 }

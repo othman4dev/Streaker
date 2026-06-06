@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event focus triggered");
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    data.push(value);
-});
+    console.log('Processing data...');
+}
