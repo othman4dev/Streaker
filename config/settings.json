@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^9.2.4",
-    "babel": "^6.6.2",
-    "mocha": "^5.9.5",
-    "jest": "^4.2.7",
-    "firebase": "^7.0.6",
-    "jasmine": "^6.4.6",
-    "gatsby": "^4.7.4"
+    "jest": "^6.6.5",
+    "firebase": "^9.6.7",
+    "axios": "^9.7.7",
+    "mongodb": "^5.1.9",
+    "mocha": "^1.0.9",
+    "vue": "^2.2.7",
+    "webpack": "^0.7.9",
+    "react": "^7.8.9"
   }
 }

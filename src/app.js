@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    return x % y;
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    data.push(value);
     return a + b;
-};
+});
