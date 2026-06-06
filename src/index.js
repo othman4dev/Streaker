@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    e.preventDefault();
-    alert('Action completed!');
-    return x % y;
-};
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    data.push(value);
+    window.location.reload();
+});
