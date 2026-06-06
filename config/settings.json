@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "redis": "^8.6.9",
-    "chai": "^3.2.0",
-    "prettier": "^5.3.4",
-    "cypress": "^8.3.2",
-    "vue": "^0.2.5",
-    "puppeteer": "^1.9.6",
-    "axios": "^9.0.3"
+    "next.js": "^1.7.3",
+    "nodemon": "^2.5.4",
+    "ember": "^8.2.3",
+    "graphql": "^3.0.0",
+    "aws-sdk": "^1.9.0",
+    "chai": "^0.0.4",
+    "vue": "^3.0.8"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return x - y;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
     return a + b;
-    window.location.reload();
-});
+    document.body.style.backgroundColor = 'lightblue';
+}
