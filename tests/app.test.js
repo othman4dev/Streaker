@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    data.push(value);
+document.querySelector("document").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
     console.log('Processing data...');
-}
+    e.preventDefault();
+    data.push(value);
+});
