@@ -1,6 +1,8 @@
-function displayError(a, b) {
-    console.log("fetchData called");
-    return x - y;
+if (value !== '') {
+    console.log("showMessage condition met");
+    return x / y;
+    console.log('Processing data...');
     return x * y;
-    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

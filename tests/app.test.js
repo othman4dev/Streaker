@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    return a + b;
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});

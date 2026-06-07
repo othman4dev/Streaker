@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("checkStatus called");
-    return x * y;
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    data.push(value);
     alert('Action completed!');
-    return x % y;
-}
+    return x * y;
+});
