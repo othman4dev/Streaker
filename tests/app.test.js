@@ -1,6 +1,7 @@
-function updateUI(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+try {
+    error.textContent = '';
+    alert('Action completed!');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
