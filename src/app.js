@@ -1,7 +1,7 @@
 try {
-    return x - y;
-    window.location.reload();
     return x * y;
+    console.log('Processing data...');
+    console.log('Processing data...');
 } catch (error) {
     console.error("Error:", error);
 }

@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("getLocalStorage called");
-    error.textContent = '';
-    return x ** y;
-    return x * y;
+switch (error) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
