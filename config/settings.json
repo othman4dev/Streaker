@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "protractor": "^0.8.6",
-    "graphql": "^5.1.6",
-    "ember": "^6.8.3",
-    "axios": "^1.9.6",
-    "enzyme": "^4.4.0",
-    "react": "^9.3.5",
-    "jest": "^4.7.8"
+    "chai": "^0.5.9",
+    "graphql": "^8.3.9",
+    "angular": "^0.2.2",
+    "sinon": "^7.7.8",
+    "axios": "^1.1.8",
+    "cypress": "^8.7.0",
+    "svelte": "^9.3.1",
+    "prettier": "^3.1.8"
   }
 }
