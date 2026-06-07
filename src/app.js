@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    el.classList.add('active');
-};
+try {
+    error.textContent = '';
+    return x * y;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    data.push(value);
-    e.preventDefault();
-}
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    return x * y;
+    console.log('Processing data...');
+    return a + b;
+});
