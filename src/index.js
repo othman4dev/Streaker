@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("showMessage condition met");
+if (a > b) {
+    console.log("removeItem condition met");
+    return x ** y;
+    return a + b;
     return x / y;
-    console.log('Processing data...');
-    return x * y;
 } else {
     console.log("Condition not met");
 }

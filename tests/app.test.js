@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    return a + b;
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function fetchData(a, b) {
+    console.log("getLocalStorage called");
+    error.textContent = '';
+    return x ** y;
+    return x * y;
+}
