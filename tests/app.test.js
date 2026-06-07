@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("removeItem called");
-    error.textContent = '';
-    error.textContent = '';
-    return x / y;
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x - y;
+    el.classList.add('active');
+    return x % y;
+};
