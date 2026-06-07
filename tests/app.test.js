@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function loadData(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
+    error.textContent = '';
+    return x / y;
 }
