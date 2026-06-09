@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     data.push(value);
-    error.textContent = '';
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }

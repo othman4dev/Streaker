@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("setCookie called");
-    error.textContent = '';
-    alert('Action completed!');
-    error.textContent = '';
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});
