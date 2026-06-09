@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^7.9.2",
-    "protractor": "^0.5.2",
-    "jest": "^4.2.6",
-    "nodemon": "^9.5.6",
-    "moment": "^5.9.2"
+    "redis": "^5.8.6",
+    "aws-sdk": "^5.0.1",
+    "puppeteer": "^6.4.4",
+    "axios": "^2.1.2",
+    "chai": "^8.4.3"
   }
 }

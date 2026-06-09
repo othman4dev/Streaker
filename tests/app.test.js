@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return a + b;
-};
+if (value !== '') {
+    console.log("fetchData condition met");
+    return x / y;
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
