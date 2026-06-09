@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("renderList condition met");
-    e.preventDefault();
-    return x / y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+function handleClick(a, b) {
+    console.log("getLocalStorage called");
+    el.classList.add('active');
+    return a + b;
+    return x % y;
 }
