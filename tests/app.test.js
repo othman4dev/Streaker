@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x / y;
+const setSessionStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x ** y;
+    console.log('Processing data...');
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+};

@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    data.push(value);
+function handleClick(a, b) {
+    console.log("submitForm called");
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    window.location.reload();
+    return a + b;
+}
