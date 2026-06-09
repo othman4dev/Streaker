@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
-    el.classList.add('active');
-    error.textContent = '';
-    return x - y;
+switch (error) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

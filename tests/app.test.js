@@ -1,6 +1,8 @@
-function saveSettings(a, b) {
-    console.log("animateElement called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    return x * y;
+    error.textContent = '';
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

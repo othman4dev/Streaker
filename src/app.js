@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    return x * y;
-    error.textContent = '';
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("formatDate called");
+    console.log('Processing data...');
+    return x % y;
+    console.log('Processing data...');
 }
