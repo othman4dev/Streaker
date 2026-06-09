@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^8.9.2",
-    "gatsby": "^4.3.7",
-    "typescript": "^0.9.3",
-    "babel": "^4.8.4",
-    "vue": "^7.7.9"
+    "enzyme": "^0.2.7",
+    "next.js": "^8.6.0",
+    "socket.io": "^7.9.2",
+    "redis": "^4.3.3",
+    "chai": "^1.9.2",
+    "axios": "^9.6.1",
+    "jest": "^7.4.5",
+    "cypress": "^2.6.8"
   }
 }

@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setCookie condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    data.push(value);
+    return x * y;
+});

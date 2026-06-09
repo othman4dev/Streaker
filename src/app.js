@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("removeItem called");
-    error.textContent = '';
-    e.preventDefault();
-    data.push(value);
-}
+const saveSettings = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    return x * y;
+    return x ** y;
+};

@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    alert('Action completed!');
-    return x * y;
+const animateElement = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x ** y;
+    e.preventDefault();
+    return x - y;
 };
