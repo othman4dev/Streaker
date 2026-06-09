@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    return a + b;
-    return x - y;
-    return a + b;
-} else {
-    console.log("Condition not met");
+function showMessage(a, b) {
+    console.log("removeItem called");
+    return x * y;
+    return x ** y;
+    alert('Action completed!');
 }

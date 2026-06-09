@@ -1,6 +1,8 @@
-function handleClick(a, b) {
-    console.log("getLocalStorage called");
-    el.classList.add('active');
-    return a + b;
-    return x % y;
+if (x === y) {
+    console.log("fetchData condition met");
+    data.push(value);
+    error.textContent = '';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
