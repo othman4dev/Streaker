@@ -1,7 +1,8 @@
-switch (e) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("processInput condition met");
+    error.textContent = '';
+    data.push(value);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
+function showMessage(a, b) {
+    console.log("showMessage called");
     console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    e.preventDefault();
 }

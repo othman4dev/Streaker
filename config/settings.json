@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^5.9.4",
-    "lodash": "^8.2.8",
-    "typescript": "^2.1.9",
-    "babel": "^2.7.4",
-    "chai": "^3.7.7"
+    "lodash": "^9.6.6",
+    "mocha": "^4.6.4",
+    "karma": "^7.0.3",
+    "ember": "^6.9.2"
   }
 }
