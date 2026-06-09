@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "express": "^6.2.2",
-    "jest": "^5.7.9",
-    "nodemon": "^4.0.0",
-    "jasmine": "^8.9.9",
-    "prettier": "^3.1.2",
-    "redis": "^7.4.1",
-    "lodash": "^5.6.5"
+    "svelte": "^3.1.1",
+    "sinon": "^9.4.8",
+    "gatsby": "^8.0.9",
+    "mocha": "^4.5.2",
+    "puppeteer": "^4.6.0",
+    "firebase": "^1.0.4",
+    "react": "^4.1.6",
+    "prettier": "^8.5.4"
   }
 }
