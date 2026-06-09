@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    return x ** y;
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
+    window.location.reload();
+    return x / y;
+    el.classList.add('active');
+});

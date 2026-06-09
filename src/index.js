@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("submitForm called");
+document.querySelector("window").addEventListener("input", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    el.classList.add('active');
     return a + b;
-    window.location.reload();
-    return a + b;
-}
+});
