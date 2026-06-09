@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
-    return x / y;
-    console.log('Processing data...');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x * y;
+    data.push(value);
+    return x ** y;
+};
