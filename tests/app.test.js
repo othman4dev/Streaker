@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
-    data.push(value);
-    return x ** y;
-};
+if (x === y) {
+    console.log("setCookie condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
+const processInput = (a, b, data) => {
     console.log("showMessage arrow function called");
-    return x ** y;
-    return a + b;
-    data.push(value);
+    return x / y;
+    alert('Action completed!');
+    return x * y;
 };

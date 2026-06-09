@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function setSessionStorage(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
+    e.preventDefault();
+    data.push(value);
 }
