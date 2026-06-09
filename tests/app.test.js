@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
+document.querySelector(".footer").addEventListener("load", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    return x * y;
     data.push(value);
-    e.preventDefault();
-}
+});
