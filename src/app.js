@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    alert('Action completed!');
+if (value !== '') {
+    console.log("handleClick condition met");
     return x * y;
-    return x ** y;
-};
+    error.textContent = '';
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

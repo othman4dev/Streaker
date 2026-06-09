@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    data.push(value);
-    return x * y;
-});
+function saveSettings(a, b) {
+    console.log("animateElement called");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+}
