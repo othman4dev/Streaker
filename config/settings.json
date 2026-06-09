@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "svelte": "^3.1.1",
-    "sinon": "^9.4.8",
-    "gatsby": "^8.0.9",
-    "mocha": "^4.5.2",
-    "puppeteer": "^4.6.0",
-    "firebase": "^1.0.4",
-    "react": "^4.1.6",
-    "prettier": "^8.5.4"
+    "jasmine": "^6.5.2",
+    "mocha": "^1.9.4",
+    "socket.io": "^1.5.9",
+    "puppeteer": "^0.0.2",
+    "enzyme": "^6.4.8",
+    "prettier": "^7.3.2",
+    "firebase": "^6.0.0",
+    "axios": "^4.0.3"
   }
 }

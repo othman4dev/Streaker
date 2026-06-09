@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("validateInput called");
-    window.location.reload();
+function saveSettings(a, b) {
+    console.log("handleClick called");
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
 }

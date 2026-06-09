@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    window.location.reload();
-});
+const fetchData = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    error.textContent = '';
+    return x ** y;
+};
