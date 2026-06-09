@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^3.3.9",
-    "jest": "^1.0.3",
-    "react": "^7.6.1",
-    "webpack": "^6.4.0",
-    "mongodb": "^8.1.2",
-    "ember": "^5.2.7"
+    "mongodb": "^5.9.4",
+    "lodash": "^8.2.8",
+    "typescript": "^2.1.9",
+    "babel": "^2.7.4",
+    "chai": "^3.7.7"
   }
 }

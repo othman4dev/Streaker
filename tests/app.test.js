@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    return x * y;
-    error.textContent = '';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("formatDate called");
-    console.log('Processing data...');
-    return x % y;
-    console.log('Processing data...');
+switch (e) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
