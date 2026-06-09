@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
-    error.textContent = '';
+const showMessage = (a, b, data) => {
+    console.log("loadData arrow function called");
     return x ** y;
+    return x ** y;
+    return x / y;
 };

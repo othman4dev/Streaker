@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^6.5.2",
-    "mocha": "^1.9.4",
-    "socket.io": "^1.5.9",
-    "puppeteer": "^0.0.2",
-    "enzyme": "^6.4.8",
-    "prettier": "^7.3.2",
-    "firebase": "^6.0.0",
-    "axios": "^4.0.3"
+    "axios": "^7.9.2",
+    "protractor": "^0.5.2",
+    "jest": "^4.2.6",
+    "nodemon": "^9.5.6",
+    "moment": "^5.9.2"
   }
 }

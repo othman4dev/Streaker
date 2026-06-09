@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return x / y;
-    e.preventDefault();
-    window.location.reload();
-};
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event input triggered");
+    return x * y;
+    alert('Action completed!');
+    data.push(value);
+});
