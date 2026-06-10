@@ -1,7 +1,6 @@
-try {
-    return x * y;
+const checkStatus = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x % y;
     error.textContent = '';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+};

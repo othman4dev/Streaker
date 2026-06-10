@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    return x * y;
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("submitForm called");
+    return x ** y;
+    return a + b;
+    return a + b;
 }

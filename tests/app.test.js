@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-};
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x % y;
+    el.classList.add('active');
+}
