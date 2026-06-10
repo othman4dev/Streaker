@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x / y;
+    window.location.reload();
 }
