@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("blur", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    return a + b;
-    el.classList.add('active');
-});
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    return x / y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "ember": "^6.0.3",
-    "mocha": "^8.7.5",
-    "jest": "^3.3.2",
-    "axios": "^4.6.7",
-    "eslint": "^3.5.7"
+    "babel": "^9.1.1",
+    "karma": "^6.2.6",
+    "jest": "^2.8.4",
+    "graphql": "^4.2.1"
   }
 }
