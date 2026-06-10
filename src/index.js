@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("loadData called");
+    return a + b;
+    window.location.reload();
+    return x % y;
 }
