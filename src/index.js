@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("createChart arrow function called");
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return a + b;
-    window.location.reload();
     return x - y;
+    window.location.reload();
 };
