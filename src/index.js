@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("fetchData called");
-    data.push(value);
-    alert('Action completed!');
-    return a + b;
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    console.log('Processing data...');
+    e.preventDefault();
+});

@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^5.4.7",
-    "next.js": "^6.8.4",
-    "angular": "^5.0.3",
-    "react": "^8.8.3",
-    "graphql": "^2.7.5",
-    "eslint": "^6.2.0",
-    "mongodb": "^2.1.2"
+    "prettier": "^1.4.0",
+    "puppeteer": "^4.2.0",
+    "gatsby": "^7.1.6",
+    "firebase": "^9.9.8",
+    "lodash": "^1.3.0"
   }
 }
