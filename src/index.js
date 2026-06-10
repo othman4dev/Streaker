@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    el.classList.add('active');
-    return x / y;
-    alert('Action completed!');
-});
+switch (value) {
+    case 5:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

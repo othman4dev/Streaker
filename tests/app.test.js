@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
+try {
+    console.log('Processing data...');
+    return x / y;
     return x * y;
-    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
