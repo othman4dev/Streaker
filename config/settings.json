@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "mocha": "^1.2.2",
-    "gatsby": "^1.7.6",
-    "express": "^1.7.8",
-    "sinon": "^8.5.7",
-    "lodash": "^6.8.5",
-    "socket.io": "^2.2.0",
-    "protractor": "^7.7.2"
+    "eslint": "^5.2.5",
+    "nodemon": "^5.9.1",
+    "sinon": "^1.4.5",
+    "cypress": "^9.3.0",
+    "enzyme": "^0.0.0",
+    "prettier": "^1.8.2",
+    "typescript": "^6.2.9",
+    "karma": "^0.3.7",
+    "react": "^8.6.6"
   }
 }
