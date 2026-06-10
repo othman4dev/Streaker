@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    window.location.reload();
-    return x % y;
-    return x * y;
-};
+function submitForm(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    alert('Action completed!');
+    return a + b;
+}
