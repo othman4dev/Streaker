@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    e.preventDefault();
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event submit triggered");
+    return x ** y;
+    return a + b;
+    el.classList.add('active');
 });
