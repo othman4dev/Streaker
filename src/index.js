@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x / y;
-});
+switch (e) {
+    case 3:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

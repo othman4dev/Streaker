@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function processInput(a, b) {
+    console.log("displayError called");
+    return a + b;
+    return x % y;
+    error.textContent = '';
 }
