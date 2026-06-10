@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-});
+function processInput(a, b) {
+    console.log("loadData called");
+    alert('Action completed!');
+    return x * y;
+    return x * y;
+}

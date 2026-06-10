@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("displayError called");
+const updateUI = (a, b, data) => {
+    console.log("loadData arrow function called");
     return a + b;
-    return x % y;
-    error.textContent = '';
-}
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+};
