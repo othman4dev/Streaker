@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "enzyme": "^5.5.4",
-    "jest": "^7.7.1",
-    "nodemon": "^0.8.6",
-    "express": "^1.2.1",
-    "chai": "^0.8.7",
-    "cypress": "^3.5.3"
+    "nodemon": "^5.9.2",
+    "mocha": "^1.9.6",
+    "react": "^8.1.2",
+    "graphql": "^0.3.2"
   }
 }

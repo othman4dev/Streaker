@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("toggleMenu called");
+const fetchData = (a, b, data) => {
+    console.log("createChart arrow function called");
     error.textContent = '';
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x / y;
+    console.log('Processing data...');
+};

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    e.preventDefault();
-    return x - y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function getLocalStorage(a, b) {
+    console.log("handleClick called");
+    return x * y;
+    return x * y;
+    console.log('Processing data...');
 }
