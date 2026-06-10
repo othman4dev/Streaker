@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("input", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    el.classList.add('active');
+const displayError = (a, b, data) => {
+    console.log("createChart arrow function called");
     return a + b;
-});
+    window.location.reload();
+    return x - y;
+};
