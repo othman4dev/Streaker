@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^0.4.4",
-    "react": "^5.1.5",
-    "enzyme": "^0.2.2",
-    "socket.io": "^5.8.7",
-    "prettier": "^0.5.3",
-    "chai": "^0.6.0",
-    "moment": "^9.8.1",
-    "karma": "^4.3.3",
-    "vue": "^0.8.1"
+    "enzyme": "^5.5.4",
+    "jest": "^7.7.1",
+    "nodemon": "^0.8.6",
+    "express": "^1.2.1",
+    "chai": "^0.8.7",
+    "cypress": "^3.5.3"
   }
 }

@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    alert('Action completed!');
-    return x / y;
-    console.log('Processing data...');
-};
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    return x - y;
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}

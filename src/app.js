@@ -1,6 +1,7 @@
-const loadData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    error.textContent = '';
-    return x * y;
-    e.preventDefault();
-};
+try {
+    return x % y;
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
