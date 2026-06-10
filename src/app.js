@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    error.textContent = '';
+    return x * y;
+    e.preventDefault();
+};

@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    el.classList.add('active');
-    return a + b;
-    el.classList.add('active');
+const setCookie = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    return x / y;
+    console.log('Processing data...');
 };

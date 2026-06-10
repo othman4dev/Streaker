@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    alert('Action completed!');
-    return x % y;
-});
+switch (error) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}
