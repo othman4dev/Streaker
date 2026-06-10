@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("loadData called");
-    return a + b;
-    window.location.reload();
-    return x % y;
+switch (data) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
