@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x % y;
-    error.textContent = '';
-    return x / y;
+const handleClick = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    el.classList.add('active');
+    return a + b;
+    el.classList.add('active');
 };

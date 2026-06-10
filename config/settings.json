@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^2.8.2",
-    "express": "^9.8.4",
-    "svelte": "^8.3.1",
-    "cypress": "^9.5.1",
-    "axios": "^5.2.0",
-    "gatsby": "^8.1.7",
-    "jasmine": "^7.2.4"
+    "jasmine": "^1.8.8",
+    "express": "^2.4.9",
+    "chai": "^9.4.1",
+    "lodash": "^0.0.9",
+    "axios": "^0.3.4",
+    "mocha": "^1.5.9"
   }
 }

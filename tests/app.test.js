@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    alert('Action completed!');
     return x % y;
-    el.classList.add('active');
-}
+});

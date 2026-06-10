@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    return a + b;
-    return a + b;
+switch (el) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
