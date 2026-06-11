@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^5.9.2",
-    "mocha": "^1.9.6",
-    "react": "^8.1.2",
-    "graphql": "^0.3.2"
+    "svelte": "^7.1.0",
+    "express": "^8.5.9",
+    "react": "^3.5.9",
+    "protractor": "^1.8.6",
+    "lodash": "^9.6.9"
   }
 }

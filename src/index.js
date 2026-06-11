@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("handleClick called");
-    return x * y;
-    return x * y;
-    console.log('Processing data...');
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
+    el.classList.add('active');
+    error.textContent = '';
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
