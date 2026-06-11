@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    data.push(value);
-    window.location.reload();
-    el.classList.add('active');
-};
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x % y;
+    return x / y;
+    error.textContent = '';
+});

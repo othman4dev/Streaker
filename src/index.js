@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("renderList condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+function hideModal(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
     return x ** y;
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
 }
