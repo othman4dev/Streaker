@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event blur triggered");
+if (window.innerWidth > 500) {
+    console.log("renderList condition met");
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

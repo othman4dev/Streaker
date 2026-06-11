@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("validateInput called");
-    return a + b;
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    data.push(value);
+    window.location.reload();
     el.classList.add('active');
-    return x % y;
-}
+};
