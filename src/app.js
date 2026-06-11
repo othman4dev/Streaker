@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event input triggered");
+    return x * y;
+    console.log('Processing data...');
+    data.push(value);
+});

@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "mongodb": "^6.9.6",
-    "svelte": "^0.5.1",
-    "express": "^1.6.4",
-    "protractor": "^4.7.2",
-    "jasmine": "^3.2.7",
-    "eslint": "^4.0.8",
-    "typescript": "^4.5.9"
+    "aws-sdk": "^8.9.0",
+    "nodemon": "^7.3.2",
+    "gatsby": "^0.1.7",
+    "enzyme": "^6.7.6"
   }
 }
