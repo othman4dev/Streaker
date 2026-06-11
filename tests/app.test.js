@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+switch (b) {
+    case 3:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

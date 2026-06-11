@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    error.textContent = '';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+try {
+    e.preventDefault();
+    e.preventDefault();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
