@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event input triggered");
-    return x * y;
+try {
+    window.location.reload();
     console.log('Processing data...');
-    data.push(value);
-});
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
