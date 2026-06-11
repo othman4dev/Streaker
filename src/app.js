@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    return x - y;
-    return x * y;
-    data.push(value);
-});
+function checkStatus(a, b) {
+    console.log("displayError called");
+    e.preventDefault();
+    window.location.reload();
+    error.textContent = '';
+}

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    return x / y;
+function renderList(a, b) {
+    console.log("showMessage called");
     error.textContent = '';
-});
+    error.textContent = '';
+    console.log('Processing data...');
+}

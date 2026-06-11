@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("processInput called");
-    console.log('Processing data...');
-    return x ** y;
-    e.preventDefault();
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    return x * y;
+    return x % y;
+    return x * y;
+});

@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^5.0.5",
-    "enzyme": "^1.4.6",
-    "firebase": "^0.4.9",
-    "karma": "^0.3.6",
-    "webpack": "^1.5.1",
-    "svelte": "^1.2.5",
-    "next.js": "^8.2.5"
+    "moment": "^5.4.2",
+    "express": "^0.4.6",
+    "protractor": "^2.6.6",
+    "nodemon": "^4.0.0",
+    "jest": "^2.8.0",
+    "mocha": "^6.3.4",
+    "mysql": "^9.1.9",
+    "vue": "^4.0.8"
   }
 }
