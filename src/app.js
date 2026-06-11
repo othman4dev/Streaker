@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("displayError called");
-    e.preventDefault();
-    window.location.reload();
-    error.textContent = '';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+    return x / y;
 }

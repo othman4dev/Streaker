@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "moment": "^5.4.2",
-    "express": "^0.4.6",
-    "protractor": "^2.6.6",
-    "nodemon": "^4.0.0",
-    "jest": "^2.8.0",
-    "mocha": "^6.3.4",
-    "mysql": "^9.1.9",
-    "vue": "^4.0.8"
+    "karma": "^6.7.4",
+    "sinon": "^5.8.9",
+    "react": "^9.3.7",
+    "aws-sdk": "^6.0.4",
+    "axios": "^2.1.6",
+    "jasmine": "^9.3.6",
+    "express": "^6.3.7",
+    "protractor": "^6.6.7"
   }
 }
