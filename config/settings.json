@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "karma": "^6.7.4",
-    "sinon": "^5.8.9",
-    "react": "^9.3.7",
-    "aws-sdk": "^6.0.4",
-    "axios": "^2.1.6",
-    "jasmine": "^9.3.6",
-    "express": "^6.3.7",
-    "protractor": "^6.6.7"
+    "webpack": "^3.0.2",
+    "prettier": "^9.9.3",
+    "mongodb": "^9.7.9",
+    "eslint": "^1.8.8",
+    "jasmine": "^1.8.4",
+    "enzyme": "^7.6.7"
   }
 }
