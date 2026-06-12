@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^8.3.3",
-    "jest": "^9.0.5",
-    "nodemon": "^1.4.6",
-    "aws-sdk": "^4.5.5",
-    "typescript": "^2.0.0",
-    "puppeteer": "^5.5.5"
+    "gatsby": "^8.4.5",
+    "nodemon": "^0.4.4",
+    "mocha": "^4.0.2",
+    "axios": "^3.1.4",
+    "typescript": "^5.5.9",
+    "express": "^2.0.5",
+    "moment": "^3.0.3",
+    "jest": "^3.9.4"
   }
 }

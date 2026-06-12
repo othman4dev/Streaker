@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("animateElement condition met");
-    window.location.reload();
+function submitForm(a, b) {
+    console.log("getLocalStorage called");
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    return x ** y;
+    return x - y;
 }

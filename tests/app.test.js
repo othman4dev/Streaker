@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+const showMessage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
     return x ** y;
-    el.classList.add('active');
-    return a + b;
-}
+    return x * y;
+    return x % y;
+};
