@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "react": "^8.6.6",
-    "nightwatch": "^5.2.4",
-    "enzyme": "^0.9.9",
-    "vue": "^1.8.8",
-    "cypress": "^9.4.8",
-    "axios": "^0.3.6",
-    "protractor": "^2.3.4",
-    "jasmine": "^1.7.9"
+    "puppeteer": "^2.1.2",
+    "jest": "^5.3.7",
+    "karma": "^6.9.9",
+    "gatsby": "^5.4.1",
+    "enzyme": "^3.1.6",
+    "cypress": "^1.2.1"
   }
 }

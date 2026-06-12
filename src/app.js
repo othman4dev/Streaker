@@ -1,7 +1,6 @@
-switch (value) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+};
