@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("updateUI called");
-    return x * y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+switch (x) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

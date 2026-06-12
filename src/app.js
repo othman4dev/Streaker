@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("getLocalStorage called");
-    alert('Action completed!');
-    return x ** y;
-    return x - y;
+switch (value) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
