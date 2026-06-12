@@ -1,7 +1,6 @@
-switch (y) {
-    case 4:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    error.textContent = '';
+    return a + b;
 }

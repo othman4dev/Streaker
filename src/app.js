@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("fetchData arrow function called");
+try {
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+    alert('Action completed!');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

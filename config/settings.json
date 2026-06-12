@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "puppeteer": "^2.1.2",
-    "jest": "^5.3.7",
-    "karma": "^6.9.9",
-    "gatsby": "^5.4.1",
-    "enzyme": "^3.1.6",
-    "cypress": "^1.2.1"
+    "prettier": "^7.4.9",
+    "jest": "^9.7.3",
+    "react": "^0.9.7",
+    "jasmine": "^4.9.4",
+    "eslint": "^5.1.2",
+    "aws-sdk": "^8.3.6"
   }
 }
