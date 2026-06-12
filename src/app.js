@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event change triggered");
-    error.textContent = '';
-    return x / y;
-    data.push(value);
-});
+if (data.length > 0) {
+    console.log("animateElement condition met");
+    window.location.reload();
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

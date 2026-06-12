@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^3.0.2",
-    "prettier": "^9.9.3",
-    "mongodb": "^9.7.9",
-    "eslint": "^1.8.8",
-    "jasmine": "^1.8.4",
-    "enzyme": "^7.6.7"
+    "sinon": "^8.3.3",
+    "jest": "^9.0.5",
+    "nodemon": "^1.4.6",
+    "aws-sdk": "^4.5.5",
+    "typescript": "^2.0.0",
+    "puppeteer": "^5.5.5"
   }
 }

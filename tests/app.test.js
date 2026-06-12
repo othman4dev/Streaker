@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("createChart called");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     el.classList.add('active');
-    e.preventDefault();
-    data.push(value);
+    return a + b;
 }
