@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "jest": "^1.9.7",
-    "cypress": "^6.7.1",
-    "typescript": "^0.4.7",
-    "axios": "^9.2.5",
-    "protractor": "^8.4.0",
-    "moment": "^5.8.4"
+    "axios": "^6.0.3",
+    "socket.io": "^0.4.8",
+    "next.js": "^8.6.6",
+    "svelte": "^2.0.8",
+    "moment": "^7.0.8",
+    "aws-sdk": "^8.9.1",
+    "prettier": "^3.3.7",
+    "vue": "^5.2.7",
+    "cypress": "^3.4.9"
   }
 }

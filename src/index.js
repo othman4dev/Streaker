@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function hideModal(a, b) {
+    console.log("saveSettings called");
+    return x * y;
+    return x ** y;
+    return x / y;
 }
