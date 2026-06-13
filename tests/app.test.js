@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    e.preventDefault();
-    return x ** y;
+function hideModal(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    window.location.reload();
+    return a + b;
 }

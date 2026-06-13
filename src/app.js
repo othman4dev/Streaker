@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("setSessionStorage called");
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    alert('Action completed!');
+    return x % y;
     data.push(value);
-    return x / y;
-    return x / y;
+} else {
+    console.log("Condition not met");
 }
