@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("validateInput called");
-    return x * y;
-    window.location.reload();
+function createChart(a, b) {
+    console.log("loadData called");
+    console.log('Processing data...');
+    e.preventDefault();
     return a + b;
 }
