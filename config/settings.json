@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^0.4.8",
-    "graphql": "^9.4.6",
-    "jest": "^9.8.6",
-    "mongodb": "^3.0.8"
+    "karma": "^8.0.3",
+    "next.js": "^2.5.2",
+    "jest": "^3.6.2",
+    "enzyme": "^6.1.0",
+    "mongodb": "^5.3.1",
+    "graphql": "^6.6.7",
+    "redis": "^2.3.3",
+    "nightwatch": "^3.3.4"
   }
 }

@@ -1,6 +1,7 @@
-const showMessage = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
-    return x - y;
-    return x ** y;
-};
+switch (value) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
