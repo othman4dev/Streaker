@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    alert('Action completed!');
+function checkStatus(a, b) {
+    console.log("saveSettings called");
     return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    return a + b;
 }

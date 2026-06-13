@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^7.4.9",
-    "jest": "^9.7.3",
-    "react": "^0.9.7",
-    "jasmine": "^4.9.4",
-    "eslint": "^5.1.2",
-    "aws-sdk": "^8.3.6"
+    "gatsby": "^5.6.5",
+    "sinon": "^8.1.0",
+    "mongodb": "^8.2.3",
+    "axios": "^8.2.2",
+    "karma": "^9.9.7",
+    "typescript": "^7.8.8"
   }
 }

@@ -1,7 +1,6 @@
-switch (el) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    return x * y;
+    return x % y;
+});

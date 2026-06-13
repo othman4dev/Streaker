@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("getLocalStorage called");
-    window.location.reload();
-    error.textContent = '';
-    return a + b;
+function hideModal(a, b) {
+    console.log("processInput called");
+    return x * y;
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }
