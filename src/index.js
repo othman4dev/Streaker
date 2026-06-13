@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+function displayError(a, b) {
+    console.log("removeItem called");
     return x - y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
+    return x / y;
 }

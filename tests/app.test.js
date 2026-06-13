@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
+try {
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
