@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("processInput called");
-    return x * y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (el) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
