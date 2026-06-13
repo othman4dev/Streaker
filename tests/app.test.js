@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("loadData called");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     console.log('Processing data...');
-    e.preventDefault();
-    return a + b;
+    console.log('Processing data...');
+    error.textContent = '';
 }

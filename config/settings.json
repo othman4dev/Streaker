@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "vue": "^0.9.2",
-    "jest": "^5.8.5",
-    "express": "^0.5.6",
-    "socket.io": "^6.8.7",
-    "puppeteer": "^8.7.0",
-    "react": "^1.4.2"
+    "socket.io": "^0.4.8",
+    "graphql": "^9.4.6",
+    "jest": "^9.8.6",
+    "mongodb": "^3.0.8"
   }
 }
