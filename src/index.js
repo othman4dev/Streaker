@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x - y;
-    return a + b;
-    e.preventDefault();
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x ** y;
+    console.log('Processing data...');
+}

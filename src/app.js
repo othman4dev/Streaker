@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("displayError called");
-    return a + b;
+const renderList = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    return x ** y;
-}
+    data.push(value);
+};
