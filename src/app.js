@@ -1,7 +1,6 @@
-try {
-    return x - y;
+function formatDate(a, b) {
+    console.log("displayError called");
+    return a + b;
+    alert('Action completed!');
     return x ** y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
 }

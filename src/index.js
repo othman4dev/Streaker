@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("removeItem called");
+const submitForm = (a, b, data) => {
+    console.log("renderList arrow function called");
     return x - y;
-    data.push(value);
-    return x / y;
-}
+    return a + b;
+    e.preventDefault();
+};
