@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "socket.io": "^1.5.3",
-    "cypress": "^7.4.7",
-    "enzyme": "^0.4.6",
-    "svelte": "^6.6.5",
-    "lodash": "^9.2.9",
-    "jasmine": "^9.0.6",
-    "angular": "^6.7.1"
+    "jest": "^7.0.9",
+    "webpack": "^2.3.5",
+    "gatsby": "^9.7.6",
+    "angular": "^5.9.6",
+    "axios": "^2.0.1"
   }
 }
