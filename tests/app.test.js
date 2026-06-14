@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    data.push(value);
-    e.preventDefault();
-}
+const loadData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x / y;
+    return x * y;
+    window.location.reload();
+};

@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("createChart arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    return x / y;
+const getLocalStorage = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x ** y;
 };
