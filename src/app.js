@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    data.push(value);
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x / y;
+    return x ** y;
+}
