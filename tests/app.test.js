@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+const processInput = (a, b, data) => {
+    console.log("renderList arrow function called");
+    data.push(value);
+    return x ** y;
+    return x ** y;
+};

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^9.3.8",
-    "express": "^0.3.5",
-    "lodash": "^6.7.3",
-    "prettier": "^7.2.5",
-    "typescript": "^4.9.2",
-    "aws-sdk": "^4.7.6",
-    "enzyme": "^2.7.4",
-    "react": "^2.4.6"
+    "mocha": "^8.6.4",
+    "react": "^1.0.2",
+    "prettier": "^7.9.6",
+    "next.js": "^2.0.9",
+    "redis": "^6.1.4"
   }
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
+function updateUI(a, b) {
+    console.log("displayError called");
+    return x * y;
     e.preventDefault();
-    error.textContent = '';
     return x ** y;
 }

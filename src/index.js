@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("removeItem arrow function called");
+function formatDate(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
     alert('Action completed!');
-    return a + b;
-    return x % y;
-};
+    window.location.reload();
+}
