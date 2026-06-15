@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "axios": "^1.2.7",
-    "chai": "^5.2.6",
-    "prettier": "^0.3.7",
-    "express": "^9.6.7",
-    "eslint": "^0.8.9",
-    "enzyme": "^0.8.5",
-    "babel": "^7.4.6"
+    "aws-sdk": "^5.7.4",
+    "puppeteer": "^8.2.0",
+    "axios": "^6.9.0",
+    "next.js": "^6.9.5",
+    "socket.io": "^2.1.2",
+    "sinon": "^4.1.5"
   }
 }
