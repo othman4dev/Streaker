@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    console.log('Processing data...');
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    window.location.reload();
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+});

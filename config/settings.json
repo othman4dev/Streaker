@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "jest": "^7.6.4",
-    "webpack": "^7.1.5",
-    "karma": "^4.2.1",
-    "aws-sdk": "^9.0.9"
+    "graphql": "^6.7.5",
+    "sinon": "^4.9.8",
+    "aws-sdk": "^5.7.7",
+    "prettier": "^7.6.4",
+    "mysql": "^2.0.4",
+    "moment": "^2.9.8",
+    "socket.io": "^0.1.6"
   }
 }

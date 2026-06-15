@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    el.classList.add('active');
+    error.textContent = '';
 }
