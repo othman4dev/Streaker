@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("blur", function() {
-    console.log("Event resize triggered");
-    data.push(value);
-    return a + b;
-    return a + b;
-});
+switch (el) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}

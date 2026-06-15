@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "chai": "^3.2.7",
-    "svelte": "^7.6.7",
-    "cypress": "^9.8.2",
-    "jasmine": "^9.3.8",
-    "graphql": "^2.8.7",
-    "react": "^2.4.6",
-    "babel": "^3.7.9"
+    "karma": "^9.4.2",
+    "nightwatch": "^0.8.7",
+    "angular": "^7.3.7",
+    "jest": "^8.5.2",
+    "typescript": "^2.1.9"
   }
 }
