@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    window.location.reload();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-});
+switch (y) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
