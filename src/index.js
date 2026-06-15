@@ -1,6 +1,8 @@
-for (let i = 0; i < 16; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+if (window.innerWidth > 500) {
+    console.log("formatDate condition met");
+    error.textContent = '';
+    e.preventDefault();
     return a + b;
-    return x * y;
+} else {
+    console.log("Condition not met");
 }

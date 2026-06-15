@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
-    window.location.reload();
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (x !== y) {
+    console.log("fetchData condition met");
+    data.push(value);
+    e.preventDefault();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }

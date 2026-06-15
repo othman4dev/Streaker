@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "jest": "^7.0.9",
-    "webpack": "^2.3.5",
-    "gatsby": "^9.7.6",
-    "angular": "^5.9.6",
-    "axios": "^2.0.1"
+    "svelte": "^6.6.9",
+    "mocha": "^0.2.1",
+    "nodemon": "^0.7.6",
+    "jest": "^3.8.0",
+    "vue": "^5.9.9"
   }
 }
