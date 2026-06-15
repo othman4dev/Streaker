@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^0.2.6",
-    "moment": "^0.4.7",
-    "nightwatch": "^8.4.3",
-    "react": "^3.1.1",
-    "karma": "^7.8.1",
-    "express": "^3.8.8",
-    "aws-sdk": "^7.0.5"
+    "nodemon": "^3.0.7",
+    "babel": "^7.9.2",
+    "express": "^6.4.6",
+    "redis": "^7.6.5",
+    "typescript": "^8.1.6"
   }
 }

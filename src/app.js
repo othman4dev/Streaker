@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return x % y;
-    window.location.reload();
+if (x === y) {
+    console.log("setCookie condition met");
+    return x * y;
+    return x - y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
