@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("processInput called");
-    return x / y;
-    alert('Action completed!');
-    window.location.reload();
+switch (data) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

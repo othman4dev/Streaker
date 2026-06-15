@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    return x % y;
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
     error.textContent = '';
-    el.classList.add('active');
+    return x * y;
+    return x / y;
 });
