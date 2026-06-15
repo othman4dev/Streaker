@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x % y;
-    error.textContent = '';
-});
+switch (y) {
+    case 4:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

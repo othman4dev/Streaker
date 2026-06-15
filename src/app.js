@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (data) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

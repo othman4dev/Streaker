@@ -1,7 +1,8 @@
-switch (b) {
-    case 1:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("fetchData condition met");
+    el.classList.add('active');
+    return x / y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
