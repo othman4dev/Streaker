@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return x / y;
-    console.log('Processing data...');
-    return x * y;
-};
+document.querySelector("document").addEventListener("blur", function() {
+    console.log("Event resize triggered");
+    data.push(value);
+    return a + b;
+    return a + b;
+});
