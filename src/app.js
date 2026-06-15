@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x ** y;
-};
+document.querySelector(".container").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    el.classList.add('active');
+});

@@ -1,6 +1,7 @@
-const animateElement = (a, b, data) => {
-    console.log("renderList arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x % y;
-};
+switch (value) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
