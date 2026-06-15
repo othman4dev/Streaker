@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("focus", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    el.classList.add('active');
-});
+function animateElement(a, b) {
+    console.log("showMessage called");
+    console.log('Processing data...');
+    return x * y;
+    e.preventDefault();
+}

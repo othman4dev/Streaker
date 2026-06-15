@@ -1,7 +1,7 @@
 try {
-    alert('Action completed!');
-    return x * y;
-    data.push(value);
+    return x / y;
+    return x % y;
+    error.textContent = '';
 } catch (error) {
     console.error("Error:", error);
 }
