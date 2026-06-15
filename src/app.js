@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    window.location.reload();
-    return x * y;
-}
+const animateElement = (a, b, data) => {
+    console.log("createChart arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return x / y;
+};

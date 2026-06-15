@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#nav").addEventListener("load", function() {
+    console.log("Event blur triggered");
     return a + b;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    console.log('Processing data...');
+    error.textContent = '';
+});

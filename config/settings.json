@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^7.2.3",
-    "graphql": "^2.7.2",
-    "svelte": "^1.9.8",
-    "nodemon": "^3.1.8",
-    "sinon": "^2.2.6",
-    "lodash": "^3.6.9",
-    "axios": "^4.3.1",
-    "jasmine": "^8.2.8"
+    "angular": "^6.9.9",
+    "cypress": "^2.7.7",
+    "babel": "^2.0.3",
+    "moment": "^4.4.0",
+    "next.js": "^6.1.0"
   }
 }
