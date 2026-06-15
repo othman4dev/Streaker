@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    data.push(value);
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const hideModal = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    return x * y;
+};

@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return x * y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x - y;
+    error.textContent = '';
+    return x / y;
+};
