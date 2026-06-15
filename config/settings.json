@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "babel": "^1.4.5",
-    "protractor": "^8.4.8",
-    "puppeteer": "^7.0.1",
-    "jest": "^2.0.3",
-    "nightwatch": "^5.7.3",
-    "moment": "^9.5.5",
-    "redis": "^8.6.5",
-    "jasmine": "^0.0.6"
+    "ember": "^0.0.7",
+    "eslint": "^9.2.0",
+    "webpack": "^3.5.9",
+    "jest": "^0.0.9",
+    "chai": "^7.5.6"
   }
 }
