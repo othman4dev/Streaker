@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    return a + b;
+    data.push(value);
+});
