@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("showMessage called");
-    console.log('Processing data...');
-    return x * y;
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
+    error.textContent = '';
+    return x ** y;
 }
