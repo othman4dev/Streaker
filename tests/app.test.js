@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    data.push(value);
-    e.preventDefault();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
