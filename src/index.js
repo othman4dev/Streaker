@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("loadData arrow function called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    return x % y;
+    error.textContent = '';
+    el.classList.add('active');
+});
