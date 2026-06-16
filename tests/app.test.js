@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("removeItem called");
-    alert('Action completed!');
-    e.preventDefault();
-    e.preventDefault();
+switch (b) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

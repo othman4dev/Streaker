@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    data.push(value);
+function animateElement(a, b) {
+    console.log("removeItem called");
     return x % y;
-};
+    window.location.reload();
+    return x % y;
+}

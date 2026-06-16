@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^2.8.2",
-    "sinon": "^4.1.0",
-    "lodash": "^2.7.1",
-    "firebase": "^5.5.9",
-    "typescript": "^4.5.1",
-    "babel": "^4.4.0"
+    "mysql": "^9.6.6",
+    "firebase": "^0.0.4",
+    "aws-sdk": "^2.1.7",
+    "sinon": "^1.0.8",
+    "nightwatch": "^2.8.8",
+    "react": "^5.2.6",
+    "nodemon": "^9.5.8"
   }
 }
