@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "axios": "^3.1.6",
-    "webpack": "^7.8.1",
-    "cypress": "^9.9.1",
-    "puppeteer": "^8.2.7",
-    "aws-sdk": "^4.5.8"
+    "eslint": "^6.5.1",
+    "firebase": "^9.6.5",
+    "prettier": "^1.2.8",
+    "express": "^3.4.9",
+    "mongodb": "^8.9.2",
+    "angular": "^3.1.4",
+    "mysql": "^8.4.3"
   }
 }

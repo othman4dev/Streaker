@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    return x ** y;
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
     data.push(value);
+    return x - y;
+    return x * y;
 });
