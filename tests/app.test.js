@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event load triggered");
+function animateElement(a, b) {
+    console.log("updateUI called");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    data.push(value);
-});
+    return x - y;
+    alert('Action completed!');
+}

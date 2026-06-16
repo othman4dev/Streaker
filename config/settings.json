@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^7.7.1",
-    "nodemon": "^9.1.2",
-    "ember": "^2.6.6",
-    "aws-sdk": "^2.8.3",
-    "next.js": "^0.7.1",
-    "firebase": "^3.3.2"
+    "cypress": "^2.7.5",
+    "next.js": "^7.4.4",
+    "typescript": "^2.3.7",
+    "babel": "^4.1.9",
+    "enzyme": "^9.2.3",
+    "jest": "^5.0.3"
   }
 }
