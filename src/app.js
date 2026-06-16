@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
-    console.log("Event load triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x * y;
+    error.textContent = '';
+}

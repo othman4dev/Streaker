@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^9.3.6",
-    "jest": "^3.6.3",
-    "angular": "^7.3.3",
-    "cypress": "^7.0.6"
+    "moment": "^4.8.2",
+    "angular": "^5.6.3",
+    "jest": "^8.7.5",
+    "gatsby": "^8.0.2",
+    "graphql": "^6.9.2",
+    "nightwatch": "^5.4.3"
   }
 }
