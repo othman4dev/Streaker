@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "jasmine": "^9.8.6",
-    "express": "^4.8.4",
-    "axios": "^7.2.6",
-    "karma": "^1.0.5",
-    "puppeteer": "^9.9.6"
+    "eslint": "^9.3.6",
+    "jest": "^3.6.3",
+    "angular": "^7.3.3",
+    "cypress": "^7.0.6"
   }
 }

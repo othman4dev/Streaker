@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
     window.location.reload();
-    return a + b;
-    return x / y;
-};
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+});

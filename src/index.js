@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("animateElement called");
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event keydown triggered");
     return x * y;
-    return x / y;
-    error.textContent = '';
-}
+    return x * y;
+    data.push(value);
+});
