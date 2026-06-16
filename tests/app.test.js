@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    e.preventDefault();
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
     window.location.reload();
-    data.push(value);
-};
+    return x ** y;
+    error.textContent = '';
+}

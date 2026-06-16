@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
     return x ** y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    error.textContent = '';
+});
