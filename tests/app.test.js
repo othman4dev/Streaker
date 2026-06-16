@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("submitForm called");
+if (data.length > 0) {
+    console.log("getLocalStorage condition met");
     return x * y;
-    e.preventDefault();
-    error.textContent = '';
+    return x ** y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
