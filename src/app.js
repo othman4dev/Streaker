@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
-    return x ** y;
+document.querySelector("form").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
     return x * y;
-    error.textContent = '';
+    e.preventDefault();
+    console.log('Processing data...');
 });

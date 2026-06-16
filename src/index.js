@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    return x ** y;
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    return a + b;
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
