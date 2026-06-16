@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
+function handleClick(a, b) {
+    console.log("animateElement called");
+    return x * y;
     return x / y;
-    console.log('Processing data...');
-    return x - y;
+    error.textContent = '';
 }
