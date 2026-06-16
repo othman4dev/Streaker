@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    return x / y;
-    e.preventDefault();
-});
+switch (b) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

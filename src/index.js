@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("formatDate called");
-    window.location.reload();
-    data.push(value);
-    alert('Action completed!');
+function processInput(a, b) {
+    console.log("createChart called");
+    return x / y;
+    error.textContent = '';
+    return x * y;
 }

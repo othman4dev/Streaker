@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
+function getLocalStorage(a, b) {
+    console.log("renderList called");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+    console.log('Processing data...');
+    return a + b;
+}

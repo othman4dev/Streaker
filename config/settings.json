@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^3.6.0",
-    "jest": "^9.5.3",
-    "graphql": "^6.8.6",
-    "moment": "^4.9.6"
+    "jest": "^6.2.1",
+    "webpack": "^6.6.9",
+    "karma": "^7.5.0",
+    "typescript": "^7.9.8"
   }
 }
