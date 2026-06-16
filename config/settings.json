@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^8.6.4",
-    "react": "^1.0.2",
-    "prettier": "^7.9.6",
-    "next.js": "^2.0.9",
-    "redis": "^6.1.4"
+    "axios": "^3.1.6",
+    "webpack": "^7.8.1",
+    "cypress": "^9.9.1",
+    "puppeteer": "^8.2.7",
+    "aws-sdk": "^4.5.8"
   }
 }

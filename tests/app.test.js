@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("renderList arrow function called");
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event input triggered");
+    e.preventDefault();
+    return x ** y;
     data.push(value);
-    return x ** y;
-    return x ** y;
-};
+});

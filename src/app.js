@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("displayError called");
-    return x * y;
-    e.preventDefault();
-    return x ** y;
-}
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    return x / y;
+    el.classList.add('active');
+    return x % y;
+});

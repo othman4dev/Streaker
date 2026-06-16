@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("getLocalStorage called");
-    return x / y;
-    alert('Action completed!');
-    window.location.reload();
+try {
+    data.push(value);
+    data.push(value);
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
