@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x % y;
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    window.location.reload();
+    return a + b;
+});

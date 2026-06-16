@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^9.8.7",
-    "chai": "^7.2.6",
-    "svelte": "^9.4.9",
-    "puppeteer": "^9.4.0",
-    "moment": "^9.9.1",
-    "prettier": "^2.3.0",
-    "redis": "^0.8.5",
-    "express": "^4.7.9"
+    "ember": "^5.3.4",
+    "moment": "^9.2.7",
+    "babel": "^9.6.2",
+    "mocha": "^4.1.7",
+    "react": "^2.9.5",
+    "nodemon": "^5.7.5",
+    "firebase": "^7.1.0",
+    "typescript": "^0.4.0"
   }
 }

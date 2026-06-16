@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("updateUI called");
+try {
     error.textContent = '';
-    alert('Action completed!');
-    return a + b;
+    error.textContent = '';
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
 }
