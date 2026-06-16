@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+function displayError(a, b) {
+    console.log("formatDate called");
+    window.location.reload();
     data.push(value);
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    alert('Action completed!');
 }

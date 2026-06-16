@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "eslint": "^6.5.1",
-    "firebase": "^9.6.5",
-    "prettier": "^1.2.8",
-    "express": "^3.4.9",
-    "mongodb": "^8.9.2",
-    "angular": "^3.1.4",
-    "mysql": "^8.4.3"
+    "nightwatch": "^3.6.0",
+    "jest": "^9.5.3",
+    "graphql": "^6.8.6",
+    "moment": "^4.9.6"
   }
 }

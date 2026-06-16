@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    return x - y;
-    return x * y;
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    return x / y;
+    e.preventDefault();
 });

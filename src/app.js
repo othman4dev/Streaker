@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return a + b;
+const getLocalStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    error.textContent = '';
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+};
