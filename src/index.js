@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    return a + b;
+function processInput(a, b) {
+    console.log("getLocalStorage called");
     alert('Action completed!');
-    return x - y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    el.classList.add('active');
 }

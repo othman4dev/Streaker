@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    data.push(value);
-    data.push(value);
+try {
     error.textContent = '';
-} else {
-    console.log("Condition not met");
+    window.location.reload();
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

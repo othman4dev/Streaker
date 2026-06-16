@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    e.preventDefault();
-    return x - y;
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    data.push(value);
+});
