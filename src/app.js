@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("renderList called");
+if (document.readyState === 'complete') {
+    console.log("hideModal condition met");
+    data.push(value);
+    data.push(value);
     error.textContent = '';
-    console.log('Processing data...');
-    return a + b;
+} else {
+    console.log("Condition not met");
 }

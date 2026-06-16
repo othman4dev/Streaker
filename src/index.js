@@ -1,6 +1,8 @@
-function processInput(a, b) {
-    console.log("createChart called");
-    return x / y;
-    error.textContent = '';
-    return x * y;
+if (document.readyState === 'complete') {
+    console.log("setSessionStorage condition met");
+    return a + b;
+    alert('Action completed!');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
