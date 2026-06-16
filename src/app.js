@@ -1,7 +1,7 @@
 try {
-    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    error.textContent = '';
+    return x ** y;
+    e.preventDefault();
 } catch (error) {
     console.error("Error:", error);
 }

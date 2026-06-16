@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
-    return a + b;
+document.querySelector(".footer").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
     return x - y;
-}
+    return x / y;
+    return x % y;
+});

@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^0.2.2",
-    "redis": "^7.5.4",
-    "gatsby": "^2.9.4",
-    "next.js": "^6.2.4",
-    "react": "^0.0.7",
-    "jest": "^2.6.2",
-    "jasmine": "^0.0.4",
-    "graphql": "^6.2.6"
+    "aws-sdk": "^6.3.7",
+    "webpack": "^4.8.1",
+    "nodemon": "^4.1.5",
+    "karma": "^1.1.0",
+    "svelte": "^8.5.0",
+    "gatsby": "^5.2.4",
+    "jasmine": "^0.4.8",
+    "express": "^4.2.0"
   }
 }
