@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    data.push(value);
-    return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

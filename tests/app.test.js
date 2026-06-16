@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    window.location.reload();
-    return a + b;
-});
+function renderList(a, b) {
+    console.log("removeItem called");
+    alert('Action completed!');
+    e.preventDefault();
+    e.preventDefault();
+}

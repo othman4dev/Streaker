@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    error.textContent = '';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
+    data.push(value);
+    return x % y;
+};
