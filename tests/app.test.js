@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    alert('Action completed!');
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event change triggered");
+    error.textContent = '';
+    return x * y;
+    el.classList.add('active');
+});

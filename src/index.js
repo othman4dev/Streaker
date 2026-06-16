@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("checkStatus called");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    el.classList.add('active');
+function fetchData(a, b) {
+    console.log("handleClick called");
+    alert('Action completed!');
+    return a + b;
+    return x - y;
 }
