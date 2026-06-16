@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("processInput condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    error.textContent = '';
+    el.classList.add('active');
+});
