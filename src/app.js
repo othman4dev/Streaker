@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("removeItem called");
+document.querySelector(".footer").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    return x * y;
     return x % y;
-    window.location.reload();
-    return x % y;
-}
+});
