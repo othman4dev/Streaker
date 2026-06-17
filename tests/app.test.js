@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    return x * y;
-    el.classList.add('active');
-    return x % y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    e.preventDefault();
+    alert('Action completed!');
 }

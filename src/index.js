@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("displayError arrow function called");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
     console.log('Processing data...');
-    return x / y;
-    return x - y;
-};
+}
