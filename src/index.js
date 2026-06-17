@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    window.location.reload();
-    console.log('Processing data...');
-    return x - y;
-});
+const toggleMenu = (a, b, data) => {
+    console.log("loadData arrow function called");
+    alert('Action completed!');
+    error.textContent = '';
+    e.preventDefault();
+};

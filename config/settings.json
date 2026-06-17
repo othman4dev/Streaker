@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^1.4.4",
-    "aws-sdk": "^1.9.8",
-    "gatsby": "^3.6.0",
-    "firebase": "^7.0.7"
+    "next.js": "^9.8.7",
+    "chai": "^7.2.6",
+    "svelte": "^9.4.9",
+    "puppeteer": "^9.4.0",
+    "moment": "^9.9.1",
+    "prettier": "^2.3.0",
+    "redis": "^0.8.5",
+    "express": "^4.7.9"
   }
 }
