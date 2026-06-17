@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("formatDate called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    error.textContent = '';
 }

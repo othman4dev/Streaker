@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    error.textContent = '';
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event focus triggered");
     window.location.reload();
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+});
