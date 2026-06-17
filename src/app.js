@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event input triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    return x * y;
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    window.location.reload();
+    return x / y;
 });

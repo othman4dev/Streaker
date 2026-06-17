@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
+if (window.innerWidth > 500) {
+    console.log("saveSettings condition met");
     alert('Action completed!');
-    el.classList.add('active');
-    return x - y;
-};
+    window.location.reload();
+    return x / y;
+} else {
+    console.log("Condition not met");
+}
