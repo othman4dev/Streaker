@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
-    e.preventDefault();
-    return x % y;
-});
+const processInput = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x - y;
+};

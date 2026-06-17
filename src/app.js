@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event input triggered");
     document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x - y;
-}
+    error.textContent = '';
+    return x * y;
+});
