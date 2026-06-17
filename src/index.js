@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("formatDate called");
-    document.body.style.backgroundColor = 'lightblue';
+const handleClick = (a, b, data) => {
+    console.log("formatDate arrow function called");
     window.location.reload();
-    error.textContent = '';
-}
+    return x / y;
+    return x % y;
+};

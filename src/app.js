@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    return x * y;
-});
+    return x - y;
+}

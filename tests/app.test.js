@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    error.textContent = '';
-    el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    e.preventDefault();
+    return x % y;
+});
