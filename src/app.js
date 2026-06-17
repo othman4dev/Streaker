@@ -1,7 +1,8 @@
-try {
-    return x % y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("toggleMenu condition met");
+    error.textContent = '';
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
