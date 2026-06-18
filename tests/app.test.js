@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x ** y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+const handleClick = (a, b, data) => {
+    console.log("loadData arrow function called");
+    data.push(value);
+    return x / y;
+    alert('Action completed!');
+};

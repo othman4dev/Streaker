@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    el.classList.add('active');
+try {
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
