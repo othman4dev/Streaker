@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
+if (x === y) {
+    console.log("fetchData condition met");
     el.classList.add('active');
-    return x * y;
-    return x % y;
-});
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

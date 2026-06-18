@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "socket.io": "^0.7.2",
-    "mongodb": "^0.1.2",
-    "express": "^6.5.4",
-    "axios": "^8.7.8",
-    "prettier": "^7.4.3",
-    "next.js": "^8.1.0"
+    "react": "^9.3.6",
+    "karma": "^3.7.1",
+    "nightwatch": "^7.1.5",
+    "typescript": "^9.7.8",
+    "chai": "^4.7.7",
+    "firebase": "^6.2.3",
+    "nodemon": "^2.9.7",
+    "protractor": "^6.4.9",
+    "moment": "^7.7.0"
   }
 }
