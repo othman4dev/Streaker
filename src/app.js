@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x / y;
-    el.classList.add('active');
-    data.push(value);
-};
+switch (value) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
