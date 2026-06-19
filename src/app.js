@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("resize", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    return a + b;
-    return x * y;
-});
+try {
+    el.classList.add('active');
+    return x ** y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
