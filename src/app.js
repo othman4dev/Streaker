@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    e.preventDefault();
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return x / y;
+    el.classList.add('active');
     data.push(value);
-    alert('Action completed!');
 };

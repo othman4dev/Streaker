@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^1.9.2",
-    "moment": "^9.2.2",
-    "graphql": "^2.0.2",
-    "babel": "^6.0.5",
-    "react": "^1.4.5",
-    "firebase": "^2.8.8",
-    "ember": "^7.8.3",
-    "cypress": "^1.6.6"
+    "axios": "^5.8.2",
+    "next.js": "^6.7.4",
+    "angular": "^5.4.3",
+    "babel": "^3.1.7",
+    "moment": "^4.0.9",
+    "nightwatch": "^9.6.9",
+    "jest": "^7.3.3"
   }
 }
