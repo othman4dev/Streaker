@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("loadData arrow function called");
-    data.push(value);
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    e.preventDefault();
     return x / y;
-    alert('Action completed!');
-};
+});

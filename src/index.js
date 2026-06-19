@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("displayError called");
+    return x ** y;
+    return x / y;
+    console.log('Processing data...');
 }
