@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("loadData called");
+const removeItem = (a, b, data) => {
+    console.log("removeItem arrow function called");
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-}
+    error.textContent = '';
+    el.classList.add('active');
+};

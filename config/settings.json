@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^3.6.2",
-    "babel": "^4.7.3",
-    "firebase": "^3.3.0",
-    "graphql": "^5.0.4",
-    "moment": "^7.8.6",
-    "cypress": "^4.2.7",
-    "svelte": "^1.5.0"
+    "jasmine": "^8.8.7",
+    "nodemon": "^5.2.8",
+    "karma": "^2.2.8",
+    "chai": "^7.0.4",
+    "moment": "^5.7.6",
+    "protractor": "^5.1.8",
+    "ember": "^7.3.7"
   }
 }
