@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("renderList called");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+switch (data) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
