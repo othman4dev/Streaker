@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("hideModal condition met");
-    return a + b;
+function saveSettings(a, b) {
+    console.log("loadData called");
+    e.preventDefault();
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} else {
-    console.log("Condition not met");
+    data.push(value);
 }
