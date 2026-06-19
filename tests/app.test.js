@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    error.textContent = '';
-    el.classList.add('active');
-};
+try {
+    console.log('Processing data...');
+    return x - y;
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("showMessage called");
+function toggleMenu(a, b) {
+    console.log("renderList called");
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    console.log('Processing data...');
+    data.push(value);
 }
