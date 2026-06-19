@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const createChart = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
+    data.push(value);
+    alert('Action completed!');
+};
