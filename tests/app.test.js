@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const hideModal = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
+    window.location.reload();
+    alert('Action completed!');
+};

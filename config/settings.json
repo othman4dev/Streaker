@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^1.2.2",
-    "chai": "^6.9.7",
-    "mysql": "^2.9.3",
-    "jest": "^7.8.2",
-    "react": "^9.6.7"
+    "firebase": "^4.6.2",
+    "angular": "^5.1.1",
+    "vue": "^8.8.2",
+    "ember": "^9.4.2",
+    "axios": "^9.1.7",
+    "moment": "^7.5.2",
+    "webpack": "^3.2.9"
   }
 }
