@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    e.preventDefault();
-    data.push(value);
-} else {
-    console.log("Condition not met");
+switch (e) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
