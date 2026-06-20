@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("validateInput arrow function called");
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     error.textContent = '';
-    return x ** y;
-    e.preventDefault();
+    return x - y;
+    return x * y;
 };

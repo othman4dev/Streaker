@@ -1,6 +1,8 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+if (x !== y) {
+    console.log("setSessionStorage condition met");
     return x / y;
-    return x / y;
-    console.log('Processing data...');
-};
+    e.preventDefault();
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

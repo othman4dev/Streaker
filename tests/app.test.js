@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    e.preventDefault();
-    window.location.reload();
-    alert('Action completed!');
-};
+document.querySelector("window").addEventListener("mouseover", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    el.classList.add('active');
+    console.log('Processing data...');
+});

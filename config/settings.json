@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^4.6.2",
-    "angular": "^5.1.1",
-    "vue": "^8.8.2",
-    "ember": "^9.4.2",
-    "axios": "^9.1.7",
-    "moment": "^7.5.2",
-    "webpack": "^3.2.9"
+    "react": "^5.3.1",
+    "gatsby": "^6.7.5",
+    "redis": "^4.2.3",
+    "webpack": "^3.0.6",
+    "jest": "^4.1.7",
+    "svelte": "^9.7.9"
   }
 }
