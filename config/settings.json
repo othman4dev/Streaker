@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^5.6.6",
-    "gatsby": "^2.6.1",
-    "babel": "^2.7.1",
-    "chai": "^9.9.1",
-    "socket.io": "^4.4.1"
+    "chai": "^8.6.5",
+    "jest": "^6.2.8",
+    "angular": "^0.2.9",
+    "graphql": "^8.8.3",
+    "prettier": "^7.1.6",
+    "mongodb": "^7.7.8"
   }
 }

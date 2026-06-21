@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("displayError condition met");
-    el.classList.add('active');
-    data.push(value);
+const getLocalStorage = (a, b, data) => {
+    console.log("renderList arrow function called");
     e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return x / y;
+};

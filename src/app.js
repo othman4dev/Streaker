@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return x * y;
-    e.preventDefault();
-    return x * y;
-};
+function createChart(a, b) {
+    console.log("getLocalStorage called");
+    return x / y;
+    alert('Action completed!');
+    console.log('Processing data...');
+}

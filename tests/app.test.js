@@ -1,6 +1,8 @@
-const checkStatus = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    alert('Action completed!');
+if (a > b) {
+    console.log("loadData condition met");
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
