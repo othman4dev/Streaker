@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("updateUI called");
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     alert('Action completed!');
-    error.textContent = '';
     e.preventDefault();
-}
+    return x - y;
+};

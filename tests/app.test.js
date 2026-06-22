@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x - y;
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    return x * y;
+    return a + b;
+}
