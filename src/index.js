@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("renderList called");
-    console.log('Processing data...');
+const hideModal = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     e.preventDefault();
-    error.textContent = '';
-}
+    return x ** y;
+    alert('Action completed!');
+};

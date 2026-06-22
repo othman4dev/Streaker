@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-};
+switch (a) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

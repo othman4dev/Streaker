@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^3.2.6",
-    "angular": "^5.1.9",
-    "jest": "^7.2.8",
-    "firebase": "^1.9.0",
-    "gatsby": "^9.5.5"
+    "ember": "^7.4.6",
+    "puppeteer": "^1.0.0",
+    "sinon": "^5.8.4",
+    "react": "^8.9.3",
+    "cypress": "^2.1.8"
   }
 }
