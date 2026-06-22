@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event focus triggered");
+function setCookie(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
+    return x % y;
     return x ** y;
-    alert('Action completed!');
-    return a + b;
-});
+}

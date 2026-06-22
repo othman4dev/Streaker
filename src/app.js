@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event click triggered");
-    return a + b;
-    el.classList.add('active');
-    error.textContent = '';
-});
+try {
+    window.location.reload();
+    e.preventDefault();
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

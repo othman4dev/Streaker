@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^6.9.5",
-    "moment": "^7.4.1",
-    "axios": "^7.8.9",
-    "react": "^0.2.1",
-    "socket.io": "^4.4.9",
-    "karma": "^0.0.1"
+    "redis": "^5.6.0",
+    "express": "^6.6.4",
+    "mysql": "^5.3.1",
+    "moment": "^9.5.3",
+    "next.js": "^5.6.1",
+    "angular": "^8.4.5"
   }
 }
