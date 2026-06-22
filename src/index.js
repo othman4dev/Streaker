@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
+    alert('Action completed!');
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

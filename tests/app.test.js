@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("blur", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+});
