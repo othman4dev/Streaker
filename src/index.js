@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("loadData called");
-    return x - y;
-    data.push(value);
+function formatDate(a, b) {
+    console.log("renderList called");
+    console.log('Processing data...');
     e.preventDefault();
+    error.textContent = '';
 }
