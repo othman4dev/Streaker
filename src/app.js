@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x % y;
+function saveSettings(a, b) {
+    console.log("hideModal called");
     window.location.reload();
+    console.log('Processing data...');
+    error.textContent = '';
 }

@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-});
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    console.log('Processing data...');
+};

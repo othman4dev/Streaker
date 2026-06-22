@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event scroll triggered");
+const removeItem = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return a + b;
+    return x * y;
     data.push(value);
-    console.log('Processing data...');
-    window.location.reload();
-});
+};
