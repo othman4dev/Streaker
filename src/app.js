@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("hideModal condition met");
-    return x ** y;
-    e.preventDefault();
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    alert('Action completed!');
 }

@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event load triggered");
+    return x * y;
+    return a + b;
     return x ** y;
-    return x % y;
 });

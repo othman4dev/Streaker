@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("loadData condition met");
-    alert('Action completed!');
-    return x * y;
+try {
+    data.push(value);
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
