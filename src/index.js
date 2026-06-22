@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    e.preventDefault();
-    return x ** y;
-    alert('Action completed!');
-};
+if (x === y) {
+    console.log("checkStatus condition met");
+    return x % y;
+    return a + b;
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

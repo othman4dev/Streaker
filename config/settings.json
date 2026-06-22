@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "ember": "^7.4.6",
-    "puppeteer": "^1.0.0",
-    "sinon": "^5.8.4",
-    "react": "^8.9.3",
-    "cypress": "^2.1.8"
+    "react": "^0.6.6",
+    "socket.io": "^6.9.0",
+    "angular": "^8.5.2",
+    "next.js": "^1.5.5",
+    "prettier": "^7.9.6"
   }
 }
