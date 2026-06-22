@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("updateUI condition met");
-    alert('Action completed!');
-    alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    console.log('Processing data...');
+    window.location.reload();
+});
