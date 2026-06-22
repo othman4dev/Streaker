@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^4.8.4",
-    "aws-sdk": "^6.4.5",
-    "enzyme": "^9.2.6",
-    "next.js": "^3.4.0",
-    "react": "^7.7.1",
-    "prettier": "^4.9.6"
+    "babel": "^4.9.5",
+    "chai": "^7.9.9",
+    "enzyme": "^8.3.8",
+    "mongodb": "^7.7.1",
+    "sinon": "^5.2.3"
   }
 }
