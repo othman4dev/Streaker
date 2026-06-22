@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("getLocalStorage called");
+function checkStatus(a, b) {
+    console.log("loadData called");
+    return x - y;
     data.push(value);
-    return x % y;
-    return x ** y;
+    e.preventDefault();
 }
