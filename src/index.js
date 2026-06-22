@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return a + b;
+const formatDate = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    error.textContent = '';
     return x * y;
-    data.push(value);
+    return x * y;
 };

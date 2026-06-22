@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("hideModal called");
-    window.location.reload();
-    console.log('Processing data...');
+function removeItem(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
     error.textContent = '';
+    e.preventDefault();
 }
