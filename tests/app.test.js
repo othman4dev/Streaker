@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    console.log('Processing data...');
-};
+switch (x) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
