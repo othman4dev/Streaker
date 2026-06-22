@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^4.9.5",
-    "chai": "^7.9.9",
-    "enzyme": "^8.3.8",
-    "mongodb": "^7.7.1",
-    "sinon": "^5.2.3"
+    "svelte": "^6.9.5",
+    "moment": "^7.4.1",
+    "axios": "^7.8.9",
+    "react": "^0.2.1",
+    "socket.io": "^4.4.9",
+    "karma": "^0.0.1"
   }
 }

@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("submitForm condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event focus triggered");
+    return x ** y;
+    alert('Action completed!');
+    return a + b;
+});

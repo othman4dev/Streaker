@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event click triggered");
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+    error.textContent = '';
+});
