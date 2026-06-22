@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "chai": "^8.6.5",
-    "jest": "^6.2.8",
-    "angular": "^0.2.9",
-    "graphql": "^8.8.3",
-    "prettier": "^7.1.6",
-    "mongodb": "^7.7.8"
+    "ember": "^2.4.0",
+    "jest": "^4.0.5",
+    "nightwatch": "^0.5.5",
+    "typescript": "^4.4.7",
+    "graphql": "^2.2.0",
+    "svelte": "^1.7.0",
+    "gatsby": "^6.3.1"
   }
 }

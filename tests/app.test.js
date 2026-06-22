@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("loadData condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x % y;
+});
