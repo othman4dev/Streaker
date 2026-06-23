@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event change triggered");
     return x % y;
     return x * y;
-    return x ** y;
-}
+    document.body.style.backgroundColor = 'lightblue';
+});

@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("blur", function() {
-    console.log("Event input triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-});
+try {
+    return x * y;
+    return x % y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}

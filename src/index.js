@@ -1,6 +1,7 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event mouseout triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    alert('Action completed!');
-});
+switch (error) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
