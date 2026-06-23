@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^2.9.4",
-    "axios": "^6.8.7",
-    "nodemon": "^1.8.8",
-    "graphql": "^8.1.2",
-    "prettier": "^3.0.1",
-    "ember": "^2.8.6",
-    "cypress": "^9.5.0",
-    "jest": "^1.6.8"
+    "moment": "^7.7.6",
+    "typescript": "^7.4.2",
+    "graphql": "^3.4.6",
+    "firebase": "^0.7.1",
+    "aws-sdk": "^5.3.1",
+    "express": "^6.1.7"
   }
 }

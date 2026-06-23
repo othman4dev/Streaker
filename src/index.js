@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return a + b;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#button").addEventListener("load", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
+    console.log('Processing data...');
+    alert('Action completed!');
+});

@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event input triggered");
     e.preventDefault();
-    return a + b;
-    return x % y;
-}
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+});
