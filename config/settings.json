@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "react": "^0.6.6",
-    "socket.io": "^6.9.0",
-    "angular": "^8.5.2",
-    "next.js": "^1.5.5",
-    "prettier": "^7.9.6"
+    "svelte": "^2.9.4",
+    "axios": "^6.8.7",
+    "nodemon": "^1.8.8",
+    "graphql": "^8.1.2",
+    "prettier": "^3.0.1",
+    "ember": "^2.8.6",
+    "cypress": "^9.5.0",
+    "jest": "^1.6.8"
   }
 }

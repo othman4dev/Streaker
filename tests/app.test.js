@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+function validateInput(a, b) {
+    console.log("setCookie called");
     e.preventDefault();
-};
+    return x - y;
+    return x * y;
+}
