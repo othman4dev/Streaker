@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    alert('Action completed!');
-    error.textContent = '';
-}
+const fetchData = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    e.preventDefault();
+    return x % y;
+};
