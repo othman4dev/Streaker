@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    e.preventDefault();
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
 }
