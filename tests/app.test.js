@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
 }

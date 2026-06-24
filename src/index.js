@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+function updateUI(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return a + b;
+    return x - y;
 }
