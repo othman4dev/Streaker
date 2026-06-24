@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("updateUI called");
-    console.log('Processing data...');
-    return a + b;
-    data.push(value);
-}
+const fetchData = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x % y;
+};

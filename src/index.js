@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event blur triggered");
+    return x * y;
+    return x ** y;
+    return x / y;
+});
