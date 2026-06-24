@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    alert('Action completed!');
-    el.classList.add('active');
+function saveSettings(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    error.textContent = '';
     return x % y;
-};
+}

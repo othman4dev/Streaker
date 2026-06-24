@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^1.8.3",
-    "firebase": "^9.8.4",
-    "chai": "^1.4.0",
-    "nodemon": "^6.8.5",
-    "sinon": "^2.2.8",
-    "angular": "^7.5.5",
-    "nightwatch": "^3.2.1"
+    "aws-sdk": "^3.9.4",
+    "firebase": "^9.2.1",
+    "prettier": "^4.4.2",
+    "protractor": "^3.9.1",
+    "babel": "^8.3.7",
+    "nightwatch": "^1.5.8"
   }
 }
