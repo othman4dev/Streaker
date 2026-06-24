@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "axios": "^5.5.8",
-    "mongodb": "^8.9.7",
-    "aws-sdk": "^2.3.7",
-    "chai": "^1.1.5",
-    "cypress": "^8.1.9",
-    "karma": "^5.1.8"
+    "typescript": "^0.7.6",
+    "angular": "^6.6.2",
+    "babel": "^9.3.6",
+    "jest": "^6.3.0",
+    "chai": "^3.9.9",
+    "cypress": "^2.3.0",
+    "next.js": "^9.4.3"
   }
 }

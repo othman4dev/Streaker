@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    alert('Action completed!');
-    return a + b;
-}
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+});
