@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
-    return x % y;
-    return a + b;
-};
+if (window.innerWidth > 500) {
+    console.log("showMessage condition met");
+    e.preventDefault();
+    alert('Action completed!');
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
