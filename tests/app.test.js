@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
-    return x % y;
+function handleClick(a, b) {
+    console.log("fetchData called");
+    document.body.style.backgroundColor = 'lightblue';
     return x - y;
-};
+    el.classList.add('active');
+}

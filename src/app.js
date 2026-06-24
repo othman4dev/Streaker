@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("updateUI called");
+const handleClick = (a, b, data) => {
+    console.log("validateInput arrow function called");
     e.preventDefault();
-    el.classList.add('active');
-    alert('Action completed!');
-}
+    data.push(value);
+    return x ** y;
+};

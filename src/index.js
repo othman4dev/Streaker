@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("validateInput condition met");
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     return x - y;
-    return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return a + b;
 }

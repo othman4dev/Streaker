@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^6.0.3",
-    "redis": "^7.5.7",
-    "jest": "^2.5.5",
-    "aws-sdk": "^6.4.9",
-    "webpack": "^1.6.2"
+    "axios": "^5.5.8",
+    "mongodb": "^8.9.7",
+    "aws-sdk": "^2.3.7",
+    "chai": "^1.1.5",
+    "cypress": "^8.1.9",
+    "karma": "^5.1.8"
   }
 }
