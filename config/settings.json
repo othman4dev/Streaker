@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nightwatch": "^1.4.5",
-    "karma": "^4.5.7",
-    "enzyme": "^4.1.3",
-    "express": "^2.5.5",
-    "eslint": "^2.0.2",
-    "chai": "^6.8.5",
-    "axios": "^9.3.4"
+    "prettier": "^4.3.6",
+    "chai": "^6.3.3",
+    "mongodb": "^9.7.7",
+    "mocha": "^0.3.6",
+    "eslint": "^3.1.9",
+    "jasmine": "^4.0.8",
+    "socket.io": "^5.9.1",
+    "babel": "^2.5.9"
   }
 }

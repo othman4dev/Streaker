@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
 }
