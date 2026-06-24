@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "chai": "^8.5.4",
-    "socket.io": "^1.9.6",
-    "babel": "^1.9.2",
-    "moment": "^2.3.9"
+    "nightwatch": "^1.4.5",
+    "karma": "^4.5.7",
+    "enzyme": "^4.1.3",
+    "express": "^2.5.5",
+    "eslint": "^2.0.2",
+    "chai": "^6.8.5",
+    "axios": "^9.3.4"
   }
 }
