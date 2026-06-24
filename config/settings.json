@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^4.3.6",
-    "chai": "^6.3.3",
-    "mongodb": "^9.7.7",
-    "mocha": "^0.3.6",
-    "eslint": "^3.1.9",
-    "jasmine": "^4.0.8",
-    "socket.io": "^5.9.1",
-    "babel": "^2.5.9"
+    "enzyme": "^1.9.2",
+    "next.js": "^2.7.4",
+    "chai": "^8.5.4",
+    "protractor": "^0.7.3",
+    "nodemon": "^6.6.1"
   }
 }
