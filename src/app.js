@@ -1,8 +1,7 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    alert('Action completed!');
-    return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 3:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
