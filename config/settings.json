@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^3.9.4",
-    "firebase": "^9.2.1",
-    "prettier": "^4.4.2",
-    "protractor": "^3.9.1",
-    "babel": "^8.3.7",
-    "nightwatch": "^1.5.8"
+    "prettier": "^9.5.0",
+    "aws-sdk": "^3.1.0",
+    "graphql": "^9.9.0",
+    "lodash": "^0.1.9",
+    "mocha": "^6.3.7",
+    "karma": "^8.3.6",
+    "eslint": "^6.4.3"
   }
 }
