@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
+if (document.readyState === 'complete') {
+    console.log("saveSettings condition met");
+    return x ** y;
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
