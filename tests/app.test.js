@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
-    return x / y;
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    error.textContent = '';
+    return x % y;
     return x - y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+};

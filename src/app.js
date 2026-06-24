@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("updateUI condition met");
-    return x ** y;
-    return x * y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
+function processInput(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
+    el.classList.add('active');
+    alert('Action completed!');
 }

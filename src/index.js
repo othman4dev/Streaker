@@ -1,6 +1,8 @@
-const fetchData = (a, b, data) => {
-    console.log("loadData arrow function called");
-    window.location.reload();
-    e.preventDefault();
-    return x % y;
-};
+if (a > b) {
+    console.log("validateInput condition met");
+    return x - y;
+    return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}
