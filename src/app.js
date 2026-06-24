@@ -1,7 +1,6 @@
-try {
+function processInput(a, b) {
+    console.log("updateUI called");
     console.log('Processing data...');
-    return x ** y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    data.push(value);
 }

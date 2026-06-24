@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "typescript": "^0.7.6",
-    "angular": "^6.6.2",
-    "babel": "^9.3.6",
-    "jest": "^6.3.0",
-    "chai": "^3.9.9",
-    "cypress": "^2.3.0",
-    "next.js": "^9.4.3"
+    "socket.io": "^3.2.6",
+    "karma": "^0.6.0",
+    "chai": "^0.4.9",
+    "nodemon": "^4.0.6"
   }
 }
