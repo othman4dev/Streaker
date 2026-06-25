@@ -1,7 +1,8 @@
-switch (e) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (x !== y) {
+    console.log("setSessionStorage condition met");
+    return x / y;
+    el.classList.add('active');
+    return x * y;
+} else {
+    console.log("Condition not met");
 }

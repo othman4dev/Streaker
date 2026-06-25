@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("showMessage condition met");
-    data.push(value);
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (y) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
