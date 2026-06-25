@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x - y;
+    error.textContent = '';
+    return a + b;
 }

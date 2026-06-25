@@ -1,6 +1,6 @@
-function updateUI(a, b) {
+function saveSettings(a, b) {
     console.log("formatDate called");
-    return x % y;
-    return x % y;
-    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 }

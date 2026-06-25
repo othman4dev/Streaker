@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("saveSettings called");
-    return a + b;
-    return x / y;
-    return x - y;
+switch (e) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
