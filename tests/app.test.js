@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    return x / y;
-    return x % y;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     el.classList.add('active');
-});
+    el.classList.add('active');
+}
