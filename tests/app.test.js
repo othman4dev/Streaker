@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    console.log('Processing data...');
+if (e.key === 'Enter') {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    error.textContent = '';
     return x * y;
-    window.location.reload();
-};
+} else {
+    console.log("Condition not met");
+}

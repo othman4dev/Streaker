@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
     window.location.reload();
-    console.log('Processing data...');
-}
+    alert('Action completed!');
+    e.preventDefault();
+});

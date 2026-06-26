@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("createChart called");
-    alert('Action completed!');
-    error.textContent = '';
-    alert('Action completed!');
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return a + b;
+    return x - y;
 }
