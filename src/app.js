@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event blur triggered");
+    return x / y;
     return x ** y;
-    return a + b;
-    return x ** y;
-}
+    return x - y;
+});

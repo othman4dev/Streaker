@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^1.8.9",
-    "moment": "^1.8.8",
-    "axios": "^5.1.0",
-    "express": "^2.9.5",
-    "karma": "^3.6.7",
-    "cypress": "^7.5.3"
+    "next.js": "^4.3.2",
+    "karma": "^5.3.5",
+    "protractor": "^3.3.3",
+    "firebase": "^3.4.8",
+    "mysql": "^1.6.9",
+    "lodash": "^6.7.9"
   }
 }

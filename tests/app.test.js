@@ -1,7 +1,6 @@
-switch (y) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event load triggered");
+    data.push(value);
+    return a + b;
+    return x * y;
+});
