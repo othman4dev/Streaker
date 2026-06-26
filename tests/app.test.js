@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("checkStatus called");
-    return x ** y;
-    error.textContent = '';
-    window.location.reload();
+try {
+    return a + b;
+    data.push(value);
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }

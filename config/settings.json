@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "jest": "^7.6.9",
-    "socket.io": "^5.4.4",
-    "typescript": "^0.3.5",
-    "angular": "^6.7.7",
-    "nightwatch": "^3.4.6",
-    "eslint": "^1.6.8"
+    "aws-sdk": "^7.4.5",
+    "axios": "^5.8.2",
+    "redis": "^6.8.1",
+    "socket.io": "^9.5.4",
+    "jest": "^6.3.3",
+    "moment": "^2.7.9",
+    "jasmine": "^1.9.3",
+    "lodash": "^6.3.3"
   }
 }

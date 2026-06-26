@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    el.classList.add('active');
+if (e.key === 'Enter') {
+    console.log("animateElement condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
     return x ** y;
-    return x * y;
-};
+} else {
+    console.log("Condition not met");
+}

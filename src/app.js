@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x - y;
-});
+switch (x) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
