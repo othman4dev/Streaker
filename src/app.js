@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function updateUI(a, b) {
+    console.log("showMessage called");
+    return x * y;
+    el.classList.add('active');
+    return x * y;
 }
