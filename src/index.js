@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("processInput called");
-    alert('Action completed!');
-    return x ** y;
-    return x - y;
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    window.location.reload();
+    console.log('Processing data...');
 }

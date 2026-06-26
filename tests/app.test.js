@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setCookie called");
-    error.textContent = '';
-    return a + b;
-    return x % y;
-}
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    console.log('Processing data...');
+    return x * y;
+    window.location.reload();
+};

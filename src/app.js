@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("showMessage called");
-    return x * y;
-    el.classList.add('active');
-    return x * y;
+function renderList(a, b) {
+    console.log("createChart called");
+    alert('Action completed!');
+    error.textContent = '';
+    alert('Action completed!');
 }
