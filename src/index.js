@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("animateElement condition met");
-    document.body.style.backgroundColor = 'lightblue';
+const setSessionStorage = (a, b, data) => {
+    console.log("fetchData arrow function called");
     alert('Action completed!');
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+};

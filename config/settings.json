@@ -1,12 +1,8 @@
 {
   "dependencies": {
-    "aws-sdk": "^7.4.5",
-    "axios": "^5.8.2",
-    "redis": "^6.8.1",
-    "socket.io": "^9.5.4",
-    "jest": "^6.3.3",
-    "moment": "^2.7.9",
-    "jasmine": "^1.9.3",
-    "lodash": "^6.3.3"
+    "gatsby": "^6.1.4",
+    "typescript": "^5.2.6",
+    "prettier": "^0.4.6",
+    "socket.io": "^6.8.7"
   }
 }
