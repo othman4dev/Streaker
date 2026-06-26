@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+const submitForm = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    el.classList.add('active');
     return x ** y;
-    return x ** y;
-}
+    return x * y;
+};
