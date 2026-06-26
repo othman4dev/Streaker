@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
+const setSessionStorage = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     e.preventDefault();
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+    return x / y;
+};

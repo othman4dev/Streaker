@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^0.7.5",
-    "webpack": "^1.9.8",
-    "protractor": "^9.7.2",
-    "enzyme": "^1.4.1",
-    "babel": "^9.9.1",
-    "svelte": "^7.8.8"
+    "babel": "^8.5.4",
+    "next.js": "^4.9.7",
+    "react": "^4.2.1",
+    "lodash": "^0.0.8",
+    "angular": "^0.6.3",
+    "sinon": "^2.7.1",
+    "cypress": "^1.5.8"
   }
 }

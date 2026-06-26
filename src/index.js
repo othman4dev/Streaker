@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return x / y;
+try {
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
