@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
-    return x - y;
+try {
     return a + b;
+    el.classList.add('active');
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
