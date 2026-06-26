@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    e.preventDefault();
-    error.textContent = '';
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    return x / y;
+    return x % y;
+    el.classList.add('active');
+});
