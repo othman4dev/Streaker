@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("createChart arrow function called");
+try {
+    window.location.reload();
     data.push(value);
-    data.push(value);
-    return x - y;
-};
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

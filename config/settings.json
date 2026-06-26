@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "puppeteer": "^3.7.1",
-    "graphql": "^3.5.9",
-    "jest": "^1.9.5",
-    "svelte": "^1.9.8",
-    "enzyme": "^2.8.5",
-    "lodash": "^7.6.0"
+    "ember": "^5.8.3",
+    "jasmine": "^4.8.1",
+    "karma": "^5.6.5",
+    "typescript": "^6.7.4",
+    "cypress": "^3.4.5",
+    "firebase": "^4.5.6",
+    "svelte": "^7.2.6",
+    "enzyme": "^5.7.5"
   }
 }
