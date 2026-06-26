@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "ember": "^5.8.3",
-    "jasmine": "^4.8.1",
-    "karma": "^5.6.5",
-    "typescript": "^6.7.4",
-    "cypress": "^3.4.5",
-    "firebase": "^4.5.6",
-    "svelte": "^7.2.6",
-    "enzyme": "^5.7.5"
+    "karma": "^9.4.5",
+    "socket.io": "^6.8.6",
+    "cypress": "^9.9.7",
+    "axios": "^8.5.0",
+    "babel": "^5.9.5",
+    "prettier": "^4.1.6",
+    "nodemon": "^5.3.0"
   }
 }

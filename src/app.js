@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    data.push(value);
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+const animateElement = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    return x % y;
+    return x - y;
+};
