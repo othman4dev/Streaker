@@ -1,6 +1,8 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    e.preventDefault();
-    return x ** y;
-    return x / y;
-};
+if (e.key === 'Enter') {
+    console.log("saveSettings condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}

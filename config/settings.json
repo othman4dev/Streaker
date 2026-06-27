@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^8.5.4",
-    "next.js": "^4.9.7",
-    "react": "^4.2.1",
-    "lodash": "^0.0.8",
-    "angular": "^0.6.3",
-    "sinon": "^2.7.1",
-    "cypress": "^1.5.8"
+    "gatsby": "^5.8.8",
+    "mocha": "^4.0.3",
+    "express": "^3.2.1",
+    "protractor": "^3.3.4",
+    "vue": "^8.0.3",
+    "jasmine": "^1.6.2"
   }
 }

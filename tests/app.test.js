@@ -1,6 +1,8 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
     document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+    alert('Action completed!');
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
