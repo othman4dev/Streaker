@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    return x ** y;
-    return x - y;
-});
+function fetchData(a, b) {
+    console.log("createChart called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    return x * y;
+}

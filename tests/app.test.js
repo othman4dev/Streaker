@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    data.push(value);
-    return a + b;
+try {
     return x * y;
-});
+    return x % y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
