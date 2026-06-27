@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event click triggered");
+    console.log('Processing data...');
+    return x ** y;
+    return x / y;
+});

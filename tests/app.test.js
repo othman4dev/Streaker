@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
     e.preventDefault();
-} else {
-    console.log("Condition not met");
+    return a + b;
+    error.textContent = '';
 }
