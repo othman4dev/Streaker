@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("displayError condition met");
+const toggleMenu = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     e.preventDefault();
-    return x % y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    console.log('Processing data...');
+};

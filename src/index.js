@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("animateElement called");
-    return x ** y;
-    error.textContent = '';
-    return x / y;
+switch (y) {
+    case 3:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

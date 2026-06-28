@@ -1,6 +1,8 @@
-const renderList = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x % y;
-    alert('Action completed!');
-    return x - y;
-};
+if (value !== '') {
+    console.log("displayError condition met");
+    return x * y;
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
