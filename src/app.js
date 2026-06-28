@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("displayError condition met");
-    return x * y;
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+switch (error) {
+    case 4:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

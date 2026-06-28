@@ -1,6 +1,7 @@
-const toggleMenu = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    e.preventDefault();
-    window.location.reload();
-    console.log('Processing data...');
-};
+switch (a) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
