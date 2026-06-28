@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    error.textContent = '';
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    console.log('Processing data...');
     window.location.reload();
-    el.classList.add('active');
+    console.log('Processing data...');
 };

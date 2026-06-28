@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    data.push(value);
+const fetchData = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x * y;
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x ** y;
+};
