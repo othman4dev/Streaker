@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("handleClick condition met");
-    data.push(value);
-    return x * y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 4:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }
