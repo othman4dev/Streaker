@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+function animateElement(a, b) {
+    console.log("animateElement called");
     return x ** y;
-    alert('Action completed!');
     error.textContent = '';
-};
+    return x / y;
+}

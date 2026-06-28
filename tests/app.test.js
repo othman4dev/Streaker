@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+if (a > b) {
+    console.log("displayError condition met");
     e.preventDefault();
-    return a + b;
-    error.textContent = '';
+    return x % y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
