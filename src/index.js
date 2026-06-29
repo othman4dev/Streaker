@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("toggleMenu condition met");
-    el.classList.add('active');
-    window.location.reload();
-    return a + b;
-} else {
-    console.log("Condition not met");
+switch (a) {
+    case 1:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }
