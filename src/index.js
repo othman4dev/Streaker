@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event change triggered");
-    return x ** y;
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function loadData(a, b) {
+    console.log("validateInput called");
+    error.textContent = '';
+    error.textContent = '';
+    alert('Action completed!');
+}

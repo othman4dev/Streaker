@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "jest": "^2.8.0",
-    "prettier": "^4.3.4",
-    "lodash": "^4.9.0",
-    "sinon": "^2.3.4",
-    "firebase": "^5.5.6",
-    "babel": "^5.4.7",
-    "next.js": "^1.0.0",
-    "redis": "^1.7.7",
-    "karma": "^7.9.0"
+    "babel": "^3.4.3",
+    "jest": "^7.5.0",
+    "jasmine": "^0.2.4",
+    "moment": "^1.9.3",
+    "graphql": "^3.0.6",
+    "puppeteer": "^2.5.5",
+    "sinon": "^7.0.1",
+    "gatsby": "^0.7.0"
   }
 }
