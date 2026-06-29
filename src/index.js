@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
+    return a + b;
     return x / y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+    el.classList.add('active');
 }
