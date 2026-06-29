@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "redis": "^2.3.3",
-    "sinon": "^8.7.5",
-    "graphql": "^1.7.2",
-    "svelte": "^2.3.6",
-    "mysql": "^1.2.9",
-    "cypress": "^0.0.4"
+    "chai": "^6.5.0",
+    "mysql": "^6.2.9",
+    "nodemon": "^1.2.1",
+    "nightwatch": "^3.1.4",
+    "typescript": "^7.8.2"
   }
 }
