@@ -1,7 +1,6 @@
-switch (value) {
-    case 5:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    data.push(value);
+    return a + b;
+    el.classList.add('active');
+};

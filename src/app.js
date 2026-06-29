@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-};
+function fetchData(a, b) {
+    console.log("animateElement called");
+    data.push(value);
+    el.classList.add('active');
+    return x % y;
+}

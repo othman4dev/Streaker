@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    el.classList.add('active');
-    window.location.reload();
-    return x - y;
-};
+switch (x) {
+    case 2:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
