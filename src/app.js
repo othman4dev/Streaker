@@ -1,8 +1,8 @@
 if (a > b) {
-    console.log("showMessage condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    el.classList.add('active');
+    console.log("animateElement condition met");
+    return x - y;
+    return x % y;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("updateUI called");
+if (x === y) {
+    console.log("validateInput condition met");
     return a + b;
-    return x / y;
-    el.classList.add('active');
+    return x * y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

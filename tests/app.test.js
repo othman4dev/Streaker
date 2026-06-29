@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    return x / y;
-    window.location.reload();
+function animateElement(a, b) {
+    console.log("validateInput called");
+    return x - y;
+    return x * y;
+    error.textContent = '';
 }

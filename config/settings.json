@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "moment": "^7.5.6",
-    "gatsby": "^2.3.7",
-    "mongodb": "^6.7.0",
-    "chai": "^5.8.8",
-    "webpack": "^2.6.2",
-    "babel": "^6.2.2",
-    "jasmine": "^6.5.6",
-    "next.js": "^3.0.2"
+    "aws-sdk": "^5.0.9",
+    "express": "^3.7.9",
+    "typescript": "^8.0.4",
+    "cypress": "^2.3.2",
+    "moment": "^6.5.2",
+    "nightwatch": "^5.5.4",
+    "mysql": "^7.9.9"
   }
 }
