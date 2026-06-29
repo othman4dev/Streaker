@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
+function removeItem(a, b) {
+    console.log("loadData called");
+    return x / y;
+    el.classList.add('active');
     alert('Action completed!');
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
 }
