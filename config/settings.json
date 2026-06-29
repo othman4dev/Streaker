@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^4.8.8",
-    "next.js": "^4.7.4",
-    "mocha": "^3.1.5",
-    "express": "^5.2.3"
+    "jasmine": "^9.2.5",
+    "protractor": "^1.6.0",
+    "firebase": "^2.7.2",
+    "jest": "^3.6.1",
+    "puppeteer": "^6.3.5",
+    "svelte": "^1.7.4",
+    "mysql": "^0.2.3"
   }
 }

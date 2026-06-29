@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    error.textContent = '';
+    window.location.reload();
+    el.classList.add('active');
+};

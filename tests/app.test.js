@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("setCookie arrow function called");
+try {
+    return x / y;
     data.push(value);
-    return a + b;
-    el.classList.add('active');
-};
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
