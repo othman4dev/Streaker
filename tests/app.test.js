@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("createChart condition met");
+if (data.length > 0) {
+    console.log("animateElement condition met");
     e.preventDefault();
-    alert('Action completed!');
-    return x * y;
+    console.log('Processing data...');
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

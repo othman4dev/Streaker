@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("fetchData called");
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    return x % y;
-}
+});
