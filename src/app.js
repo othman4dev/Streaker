@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("validateInput condition met");
-    window.location.reload();
-    return x * y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+function validateInput(a, b) {
+    console.log("getLocalStorage called");
+    data.push(value);
+    alert('Action completed!');
+    return a + b;
 }
