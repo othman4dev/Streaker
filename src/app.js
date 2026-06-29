@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    return x - y;
-    return x % y;
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+};

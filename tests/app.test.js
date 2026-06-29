@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("validateInput called");
-    return x - y;
-    return x * y;
-    error.textContent = '';
+switch (value) {
+    case 5:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

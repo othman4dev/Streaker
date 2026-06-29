@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "aws-sdk": "^5.0.9",
-    "express": "^3.7.9",
-    "typescript": "^8.0.4",
-    "cypress": "^2.3.2",
-    "moment": "^6.5.2",
-    "nightwatch": "^5.5.4",
-    "mysql": "^7.9.9"
+    "ember": "^2.9.9",
+    "aws-sdk": "^7.7.7",
+    "chai": "^5.8.7",
+    "next.js": "^5.9.4",
+    "vue": "^7.6.7",
+    "eslint": "^7.0.7",
+    "socket.io": "^6.6.6",
+    "jest": "^6.3.2",
+    "jasmine": "^9.7.9"
   }
 }
