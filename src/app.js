@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    window.location.reload();
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("formatDate called");
+    data.push(value);
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

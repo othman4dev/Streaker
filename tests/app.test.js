@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
-    el.classList.add('active');
-    el.classList.add('active');
+if (e.key === 'Enter') {
+    console.log("formatDate condition met");
+    return x / y;
+    return x / y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
