@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    return x * y;
-    return a + b;
-    data.push(value);
-});
+const processInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    return x - y;
+};

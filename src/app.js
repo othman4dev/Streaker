@@ -1,8 +1,8 @@
 if (a > b) {
-    console.log("loadData condition met");
-    el.classList.add('active');
-    window.location.reload();
-    return x ** y;
+    console.log("handleClick condition met");
+    data.push(value);
+    return x * y;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }
