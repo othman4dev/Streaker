@@ -1,6 +1,7 @@
-function loadData(a, b) {
-    console.log("validateInput called");
-    error.textContent = '';
-    error.textContent = '';
-    alert('Action completed!');
+switch (a) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

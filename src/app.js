@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("validateInput condition met");
+    window.location.reload();
+    return x * y;
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

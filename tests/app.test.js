@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    error.textContent = '';
+function setCookie(a, b) {
+    console.log("removeItem called");
     return x * y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }
