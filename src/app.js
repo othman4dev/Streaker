@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    return x - y;
-    alert('Action completed!');
-    return x * y;
-} else {
-    console.log("Condition not met");
+function setCookie(a, b) {
+    console.log("animateElement called");
+    return x ** y;
+    data.push(value);
+    e.preventDefault();
 }

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "sinon": "^1.5.1",
-    "protractor": "^9.1.6",
-    "redis": "^0.3.8",
-    "jasmine": "^1.1.8",
-    "gatsby": "^8.9.3",
-    "aws-sdk": "^8.0.4",
-    "mysql": "^2.3.6"
+    "socket.io": "^1.0.7",
+    "jest": "^9.1.8",
+    "sinon": "^9.8.0",
+    "moment": "^2.2.3",
+    "next.js": "^7.0.4",
+    "lodash": "^1.4.6",
+    "chai": "^6.7.0"
   }
 }
