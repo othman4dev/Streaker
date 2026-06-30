@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
+if (x === y) {
+    console.log("handleClick condition met");
+    e.preventDefault();
+    return x % y;
     return x * y;
-    console.log('Processing data...');
-    return a + b;
 } else {
     console.log("Condition not met");
 }
