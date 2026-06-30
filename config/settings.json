@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "axios": "^5.0.9",
-    "prettier": "^9.9.5",
-    "next.js": "^2.1.2",
-    "jest": "^5.0.5",
-    "gatsby": "^8.1.2"
+    "mysql": "^0.8.2",
+    "karma": "^1.1.9",
+    "next.js": "^2.1.4",
+    "protractor": "^0.4.9",
+    "cypress": "^5.0.4",
+    "mocha": "^0.3.6",
+    "jest": "^5.1.7",
+    "ember": "^0.6.8"
   }
 }
