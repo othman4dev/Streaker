@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^8.9.1",
-    "vue": "^7.3.4",
-    "nightwatch": "^8.9.2",
-    "jasmine": "^8.2.1",
-    "aws-sdk": "^7.6.5",
-    "typescript": "^6.6.3",
-    "chai": "^0.3.6",
-    "sinon": "^0.0.2",
-    "eslint": "^8.2.2"
+    "chai": "^2.8.5",
+    "prettier": "^6.4.5",
+    "next.js": "^8.5.9",
+    "express": "^4.4.0",
+    "webpack": "^9.6.7",
+    "jest": "^0.4.5"
   }
 }

@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event focus triggered");
     return a + b;
-    e.preventDefault();
-    el.classList.add('active');
-};
+    return a + b;
+    alert('Action completed!');
+});

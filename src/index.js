@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x * y;
-});
+const toggleMenu = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return x / y;
+    return x % y;
+    return x - y;
+};
