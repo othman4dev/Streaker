@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    return x ** y;
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event load triggered");
+    return x % y;
+    return x - y;
+    return x % y;
+});
