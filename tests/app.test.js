@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event focus triggered");
+const createChart = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x * y;
+    el.classList.add('active');
     window.location.reload();
-    return x % y;
-    e.preventDefault();
-});
+};
