@@ -1,6 +1,8 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
+if (document.readyState === 'complete') {
+    console.log("removeItem condition met");
     data.push(value);
-    return a + b;
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }
