@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
+if (window.innerWidth > 500) {
+    console.log("submitForm condition met");
+    el.classList.add('active');
     window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

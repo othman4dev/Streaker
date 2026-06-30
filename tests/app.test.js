@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    error.textContent = '';
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const handleClick = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    alert('Action completed!');
+    data.push(value);
+    return x / y;
+};

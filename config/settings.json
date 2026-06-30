@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "webpack": "^7.4.3",
-    "vue": "^8.9.0",
-    "mocha": "^4.7.0",
-    "enzyme": "^1.8.0",
-    "mongodb": "^9.6.4"
+    "nightwatch": "^1.7.4",
+    "svelte": "^3.6.6",
+    "jasmine": "^8.5.3",
+    "chai": "^2.5.4",
+    "axios": "^6.3.3",
+    "mysql": "^8.8.4",
+    "express": "^5.7.7"
   }
 }
