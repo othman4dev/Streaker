@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("getLocalStorage condition met");
+function animateElement(a, b) {
+    console.log("getLocalStorage called");
     window.location.reload();
-    return x * y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    el.classList.add('active');
 }

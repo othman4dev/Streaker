@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event resize triggered");
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-});
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    error.textContent = '';
+    return x ** y;
+}

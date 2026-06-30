@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("getLocalStorage called");
-    data.push(value);
-    alert('Action completed!');
-    return a + b;
-}
+const validateInput = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
+    console.log('Processing data...');
+    return x / y;
+};
