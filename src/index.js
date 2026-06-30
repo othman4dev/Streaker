@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("mouseout", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
+if (e.key === 'Enter') {
+    console.log("updateUI condition met");
     e.preventDefault();
+    return x * y;
     el.classList.add('active');
-});
+} else {
+    console.log("Condition not met");
+}
