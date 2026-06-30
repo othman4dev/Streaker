@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^1.1.1",
-    "nodemon": "^5.5.2",
-    "graphql": "^9.4.2",
-    "karma": "^7.8.8",
-    "lodash": "^0.4.3"
+    "sinon": "^9.5.8",
+    "mysql": "^9.1.8",
+    "angular": "^2.8.6",
+    "protractor": "^3.9.2",
+    "vue": "^3.2.3",
+    "ember": "^4.9.3",
+    "chai": "^9.0.4",
+    "axios": "^7.5.8"
   }
 }

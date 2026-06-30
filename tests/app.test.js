@@ -1,6 +1,7 @@
-function setCookie(a, b) {
-    console.log("validateInput called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
     return x - y;
-    data.push(value);
+    el.classList.add('active');
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event focus triggered");
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+});
