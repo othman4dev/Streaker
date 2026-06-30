@@ -1,7 +1,8 @@
-try {
-    e.preventDefault();
-    return x / y;
+if (value !== '') {
+    console.log("showMessage condition met");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

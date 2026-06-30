@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^9.5.8",
-    "mysql": "^9.1.8",
-    "angular": "^2.8.6",
-    "protractor": "^3.9.2",
-    "vue": "^3.2.3",
-    "ember": "^4.9.3",
-    "chai": "^9.0.4",
-    "axios": "^7.5.8"
+    "webpack": "^7.4.3",
+    "vue": "^8.9.0",
+    "mocha": "^4.7.0",
+    "enzyme": "^1.8.0",
+    "mongodb": "^9.6.4"
   }
 }
