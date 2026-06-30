@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^6.9.0",
-    "ember": "^1.8.2",
-    "express": "^2.9.5",
-    "jest": "^6.1.9",
-    "nightwatch": "^4.7.3"
+    "prettier": "^5.2.2",
+    "aws-sdk": "^5.9.6",
+    "axios": "^5.6.2",
+    "svelte": "^5.0.9",
+    "webpack": "^7.7.3",
+    "firebase": "^3.1.0"
   }
 }

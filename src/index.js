@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    data.push(value);
-    console.log('Processing data...');
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }
