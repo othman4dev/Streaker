@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^2.4.6",
-    "puppeteer": "^3.5.0",
-    "redis": "^0.1.8",
-    "lodash": "^6.6.6",
-    "ember": "^9.1.9",
-    "angular": "^9.3.2",
-    "next.js": "^1.5.8"
+    "enzyme": "^6.9.0",
+    "ember": "^1.8.2",
+    "express": "^2.9.5",
+    "jest": "^6.1.9",
+    "nightwatch": "^4.7.3"
   }
 }
