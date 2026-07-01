@@ -1,7 +1,6 @@
-try {
-    return x / y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("window").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    return a + b;
+    return x ** y;
+});

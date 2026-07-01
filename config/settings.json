@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^9.7.9",
-    "cypress": "^0.9.2",
-    "express": "^5.9.9",
-    "socket.io": "^0.3.6",
-    "jest": "^2.9.3",
-    "mongodb": "^3.2.7"
+    "gatsby": "^2.2.1",
+    "graphql": "^2.3.1",
+    "nightwatch": "^9.9.1",
+    "firebase": "^7.7.0",
+    "next.js": "^5.5.4",
+    "svelte": "^6.2.1"
   }
 }

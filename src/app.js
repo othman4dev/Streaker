@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("removeItem called");
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    data.push(value);
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    error.textContent = '';
 }
