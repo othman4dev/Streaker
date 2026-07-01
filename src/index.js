@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    window.location.reload();
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#input").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x * y;
+});

@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    alert('Action completed!');
-    data.push(value);
-    return x / y;
-};
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+    return x % y;
+}

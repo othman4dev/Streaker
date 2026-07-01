@@ -1,6 +1,6 @@
-for (let i = 0; i < 8; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    data.push(value);
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
     return a + b;
-}
+    e.preventDefault();
+    el.classList.add('active');
+};
