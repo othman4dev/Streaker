@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event focus triggered");
-    return a + b;
-    return a + b;
-    alert('Action completed!');
-});
+function loadData(a, b) {
+    console.log("removeItem called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    error.textContent = '';
+}

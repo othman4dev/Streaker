@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    return x % y;
+function getLocalStorage(a, b) {
+    console.log("setSessionStorage called");
     return x - y;
-};
+    console.log('Processing data...');
+    alert('Action completed!');
+}
