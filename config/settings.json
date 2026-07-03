@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "graphql": "^7.6.4",
-    "jasmine": "^5.8.9",
-    "nodemon": "^4.7.2",
-    "lodash": "^7.7.9"
+    "webpack": "^8.1.5",
+    "jest": "^0.1.8",
+    "firebase": "^3.5.3",
+    "chai": "^5.5.8",
+    "typescript": "^9.1.5"
   }
 }

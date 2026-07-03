@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    console.log('Processing data...');
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    return x - y;
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
