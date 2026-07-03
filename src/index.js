@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("formatDate arrow function called");
+const animateElement = (a, b, data) => {
+    console.log("hideModal arrow function called");
     return a + b;
-    error.textContent = '';
-    return x ** y;
+    return x % y;
+    el.classList.add('active');
 };

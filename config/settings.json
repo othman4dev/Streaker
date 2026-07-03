@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^1.3.3",
-    "protractor": "^4.4.7",
-    "karma": "^8.2.1",
-    "mysql": "^7.8.4"
+    "socket.io": "^0.0.5",
+    "nightwatch": "^6.3.3",
+    "angular": "^9.1.3",
+    "express": "^6.6.8"
   }
 }

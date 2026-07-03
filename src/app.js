@@ -1,6 +1,6 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event input triggered");
+    return x / y;
+    console.log('Processing data...');
     el.classList.add('active');
-    return x - y;
-    data.push(value);
-};
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x - y;
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
     return x % y;
-}
+    return a + b;
+};
