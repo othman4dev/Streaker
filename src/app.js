@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("displayError condition met");
-    console.log('Processing data...');
-    return x ** y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return a + b;
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+};

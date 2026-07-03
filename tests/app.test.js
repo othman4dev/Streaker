@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("formatDate called");
-    alert('Action completed!');
-    window.location.reload();
-    console.log('Processing data...');
+function getLocalStorage(a, b) {
+    console.log("updateUI called");
+    e.preventDefault();
+    return a + b;
+    return x ** y;
 }
