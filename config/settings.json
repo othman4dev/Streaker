@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^8.1.5",
-    "jest": "^0.1.8",
-    "firebase": "^3.5.3",
-    "chai": "^5.5.8",
-    "typescript": "^9.1.5"
+    "react": "^0.4.6",
+    "sinon": "^8.0.1",
+    "mocha": "^3.8.0",
+    "mongodb": "^0.2.3",
+    "lodash": "^7.3.5"
   }
 }

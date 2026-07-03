@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    error.textContent = '';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function hideModal(a, b) {
+    console.log("formatDate called");
+    alert('Action completed!');
+    window.location.reload();
+    console.log('Processing data...');
 }
