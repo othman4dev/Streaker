@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    return x - y;
-    data.push(value);
-}
+const createChart = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return a + b;
+    error.textContent = '';
+    return x ** y;
+};
