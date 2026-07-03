@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    console.log('Processing data...');
-    return x % y;
-    return a + b;
-};
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    alert('Action completed!');
+    window.location.reload();
+});

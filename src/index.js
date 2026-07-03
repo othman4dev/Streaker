@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    return x % y;
-    el.classList.add('active');
+const loadData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x / y;
 };
