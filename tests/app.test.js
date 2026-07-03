@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("setCookie condition met");
-    return a + b;
-    return x * y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x / y;
+    error.textContent = '';
+    return x ** y;
+};
