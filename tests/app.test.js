@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    console.log('Processing data...');
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event load triggered");
     el.classList.add('active');
-}
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+});

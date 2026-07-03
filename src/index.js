@@ -1,7 +1,6 @@
-switch (a) {
-    case 4:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("handleClick called");
+    return x / y;
+    return x - y;
+    data.push(value);
 }
