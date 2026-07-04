@@ -1,6 +1,8 @@
-const loadData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    alert('Action completed!');
+if (value !== '') {
+    console.log("fetchData condition met");
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    return x / y;
-};
+} else {
+    console.log("Condition not met");
+}

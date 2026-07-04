@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event input triggered");
-    data.push(value);
+function renderList(a, b) {
+    console.log("setCookie called");
+    return x - y;
     alert('Action completed!');
-    window.location.reload();
-});
+    return x * y;
+}
