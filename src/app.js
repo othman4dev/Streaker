@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("setSessionStorage condition met");
-    return x / y;
-    data.push(value);
+function updateUI(a, b) {
+    console.log("validateInput called");
+    return x - y;
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
 }

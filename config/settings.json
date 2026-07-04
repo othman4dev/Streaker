@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "redis": "^2.3.8",
-    "sinon": "^3.3.5",
-    "chai": "^9.1.9",
-    "react": "^1.1.7",
-    "protractor": "^2.5.7",
-    "graphql": "^9.6.8",
-    "axios": "^5.4.8",
-    "mongodb": "^2.8.0"
+    "moment": "^7.9.7",
+    "socket.io": "^8.1.8",
+    "aws-sdk": "^1.4.3",
+    "angular": "^6.7.3",
+    "eslint": "^8.3.9",
+    "puppeteer": "^4.8.0",
+    "chai": "^3.8.6",
+    "cypress": "^5.3.9"
   }
 }
