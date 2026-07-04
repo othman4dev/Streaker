@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("submit", function() {
-    console.log("Event submit triggered");
-    return x - y;
+const validateInput = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
+    console.log('Processing data...');
     error.textContent = '';
-    window.location.reload();
-});
+};
