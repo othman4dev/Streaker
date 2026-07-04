@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
+function renderList(a, b) {
+    console.log("updateUI called");
+    return a + b;
+    e.preventDefault();
     alert('Action completed!');
-    el.classList.add('active');
-    return x / y;
-} else {
-    console.log("Condition not met");
 }

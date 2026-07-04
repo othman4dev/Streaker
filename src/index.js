@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    alert('Action completed!');
-    return x % y;
+try {
+    return x - y;
     return x ** y;
-});
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
