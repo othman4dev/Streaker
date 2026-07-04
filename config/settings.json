@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "jest": "^7.4.1",
-    "mocha": "^8.1.1",
-    "prettier": "^3.1.8",
-    "lodash": "^5.4.8",
-    "sinon": "^6.3.1",
-    "protractor": "^0.1.0",
-    "vue": "^2.7.3",
-    "svelte": "^2.7.0",
-    "nightwatch": "^6.3.8"
+    "eslint": "^1.0.7",
+    "sinon": "^9.7.6",
+    "jest": "^3.6.5",
+    "chai": "^3.2.7",
+    "mongodb": "^6.0.9"
   }
 }
