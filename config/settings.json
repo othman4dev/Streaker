@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^0.3.6",
-    "jest": "^4.9.1",
-    "gatsby": "^4.5.3",
-    "cypress": "^3.8.3",
-    "graphql": "^1.7.3"
+    "react": "^2.2.8",
+    "moment": "^3.9.0",
+    "next.js": "^9.5.0",
+    "babel": "^7.5.5",
+    "vue": "^8.6.2",
+    "express": "^6.5.0",
+    "nodemon": "^3.8.5"
   }
 }

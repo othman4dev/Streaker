@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    e.preventDefault();
-};
+try {
+    el.classList.add('active');
+    data.push(value);
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}
