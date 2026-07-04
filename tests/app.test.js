@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return a + b;
+    error.textContent = '';
+    el.classList.add('active');
+};

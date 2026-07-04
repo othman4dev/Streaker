@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^1.0.7",
-    "sinon": "^9.7.6",
-    "jest": "^3.6.5",
-    "chai": "^3.2.7",
-    "mongodb": "^6.0.9"
+    "prettier": "^9.6.3",
+    "lodash": "^6.9.3",
+    "puppeteer": "^2.7.6",
+    "nodemon": "^0.4.4",
+    "eslint": "^7.6.7"
   }
 }
