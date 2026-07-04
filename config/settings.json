@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "redis": "^4.9.5",
-    "typescript": "^5.7.7",
-    "eslint": "^4.9.7",
-    "socket.io": "^2.1.5",
-    "express": "^5.2.4",
-    "mocha": "^3.8.4",
-    "react": "^2.6.3",
-    "firebase": "^6.9.8",
-    "jasmine": "^6.7.8"
+    "jest": "^9.0.0",
+    "socket.io": "^9.0.7",
+    "mongodb": "^9.1.8",
+    "webpack": "^1.8.8",
+    "ember": "^5.3.8"
   }
 }

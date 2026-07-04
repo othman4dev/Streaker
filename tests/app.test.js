@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("updateUI called");
-    return a + b;
-    e.preventDefault();
-    alert('Action completed!');
+try {
+    return x * y;
+    error.textContent = '';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
