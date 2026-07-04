@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("submitForm called");
-    return a + b;
-    return a + b;
-    e.preventDefault();
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    alert('Action completed!');
+    return x % y;
+    return x ** y;
+});
