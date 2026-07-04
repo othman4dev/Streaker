@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+if (value !== '') {
+    console.log("showMessage condition met");
     return x % y;
-};
+    el.classList.add('active');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
