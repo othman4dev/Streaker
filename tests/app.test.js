@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("setCookie called");
-    return x - y;
-    alert('Action completed!');
+const animateElement = (a, b, data) => {
+    console.log("loadData arrow function called");
+    el.classList.add('active');
     return x * y;
-}
+    data.push(value);
+};

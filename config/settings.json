@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "socket.io": "^0.9.9",
-    "lodash": "^0.1.4",
-    "redis": "^9.7.8",
-    "firebase": "^2.4.7",
-    "protractor": "^1.9.7",
-    "react": "^5.5.3",
-    "chai": "^0.6.6"
+    "redis": "^2.3.8",
+    "sinon": "^3.3.5",
+    "chai": "^9.1.9",
+    "react": "^1.1.7",
+    "protractor": "^2.5.7",
+    "graphql": "^9.6.8",
+    "axios": "^5.4.8",
+    "mongodb": "^2.8.0"
   }
 }
