@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return a + b;
-    error.textContent = '';
+try {
+    return x % y;
     el.classList.add('active');
-};
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
+}

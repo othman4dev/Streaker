@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    return x - y;
+function displayError(a, b) {
+    console.log("submitForm called");
     return a + b;
-    return x - y;
-};
+    return a + b;
+    e.preventDefault();
+}
