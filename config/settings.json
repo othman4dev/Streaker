@@ -1,11 +1,13 @@
 {
   "dependencies": {
-    "chai": "^8.2.2",
-    "ember": "^3.5.7",
-    "axios": "^6.2.7",
-    "prettier": "^7.9.2",
-    "aws-sdk": "^8.9.3",
-    "lodash": "^3.4.5",
-    "angular": "^7.0.2"
+    "jest": "^7.4.1",
+    "mocha": "^8.1.1",
+    "prettier": "^3.1.8",
+    "lodash": "^5.4.8",
+    "sinon": "^6.3.1",
+    "protractor": "^0.1.0",
+    "vue": "^2.7.3",
+    "svelte": "^2.7.0",
+    "nightwatch": "^6.3.8"
   }
 }

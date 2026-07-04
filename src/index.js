@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    alert('Action completed!');
-    return x % y;
-    window.location.reload();
-};
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    console.log('Processing data...');
+    el.classList.add('active');
+    e.preventDefault();
+});

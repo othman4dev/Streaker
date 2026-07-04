@@ -1,7 +1,7 @@
-if (value !== '') {
-    console.log("handleClick condition met");
-    window.location.reload();
-    e.preventDefault();
+if (x === y) {
+    console.log("animateElement condition met");
+    return x % y;
+    error.textContent = '';
     return x ** y;
 } else {
     console.log("Condition not met");
