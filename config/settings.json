@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "axios": "^4.6.6",
-    "aws-sdk": "^9.4.2",
-    "express": "^7.9.9",
-    "redis": "^0.4.1",
-    "eslint": "^8.7.9",
-    "vue": "^6.6.2",
-    "typescript": "^8.8.0",
-    "babel": "^8.9.1"
+    "mocha": "^0.3.6",
+    "jest": "^4.9.1",
+    "gatsby": "^4.5.3",
+    "cypress": "^3.8.3",
+    "graphql": "^1.7.3"
   }
 }

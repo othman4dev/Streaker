@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("formatDate condition met");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("form").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    alert('Action completed!');
+    return x - y;
+    return x % y;
+});
