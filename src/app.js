@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("setSessionStorage condition met");
-    return a + b;
-    return x - y;
+if (value !== '') {
+    console.log("handleClick condition met");
+    window.location.reload();
     e.preventDefault();
+    return x ** y;
 } else {
     console.log("Condition not met");
 }

@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    return x / y;
+const removeItem = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    alert('Action completed!');
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    window.location.reload();
+};
