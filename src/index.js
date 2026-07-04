@@ -1,7 +1,8 @@
-try {
+if (data.length > 0) {
+    console.log("loadData condition met");
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

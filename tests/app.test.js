@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+if (a > b) {
+    console.log("validateInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
     alert('Action completed!');
-    return x - y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

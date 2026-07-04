@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("validateInput called");
-    return x - y;
-    alert('Action completed!');
+for (let i = 0; i < 14; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return a + b;
     e.preventDefault();
 }
