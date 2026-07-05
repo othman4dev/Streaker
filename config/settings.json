@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^6.2.4",
-    "jest": "^7.4.0",
-    "react": "^3.5.2",
-    "protractor": "^0.3.7",
-    "redis": "^6.0.0",
-    "lodash": "^7.9.4"
+    "enzyme": "^9.3.6",
+    "cypress": "^1.3.6",
+    "jest": "^3.5.4",
+    "mongodb": "^8.8.5",
+    "sinon": "^3.3.0",
+    "firebase": "^5.4.3",
+    "nodemon": "^4.4.1"
   }
 }
