@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("handleClick called");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     return x / y;
-    error.textContent = '';
-    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
 }

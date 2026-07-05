@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^4.8.7",
-    "mocha": "^8.9.2",
-    "nightwatch": "^7.6.2",
-    "enzyme": "^6.4.0",
-    "aws-sdk": "^3.4.2",
-    "eslint": "^9.4.8",
-    "vue": "^2.6.0",
-    "react": "^7.8.5"
+    "enzyme": "^6.5.2",
+    "puppeteer": "^5.8.2",
+    "svelte": "^3.3.6",
+    "vue": "^0.5.8",
+    "nodemon": "^2.5.0",
+    "jest": "^5.1.4",
+    "cypress": "^5.3.1",
+    "gatsby": "^3.4.7"
   }
 }

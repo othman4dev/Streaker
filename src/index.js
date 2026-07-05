@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+};
