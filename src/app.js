@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("getLocalStorage called");
-    return a + b;
-    return x - y;
-    return a + b;
+try {
+    e.preventDefault();
+    console.log('Processing data...');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }

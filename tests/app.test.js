@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    return x - y;
-    e.preventDefault();
+switch (error) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
