@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^4.0.6",
-    "enzyme": "^4.5.8",
-    "puppeteer": "^5.8.4",
-    "karma": "^9.4.1",
-    "aws-sdk": "^6.4.1",
-    "jasmine": "^0.4.4",
-    "mongodb": "^2.4.8"
+    "jest": "^7.9.2",
+    "graphql": "^6.4.2",
+    "eslint": "^2.4.9",
+    "enzyme": "^0.3.3",
+    "ember": "^2.3.8",
+    "lodash": "^8.0.6",
+    "vue": "^0.4.6"
   }
 }
