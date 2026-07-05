@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^0.0.0",
-    "chai": "^4.3.4",
-    "karma": "^9.1.4",
-    "aws-sdk": "^1.9.9",
-    "puppeteer": "^4.4.0"
+    "chai": "^1.4.1",
+    "gatsby": "^2.2.4",
+    "redis": "^0.9.9",
+    "express": "^3.9.5",
+    "moment": "^1.6.5",
+    "jasmine": "^2.8.1"
   }
 }
