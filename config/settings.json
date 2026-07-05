@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jest": "^7.9.2",
-    "graphql": "^6.4.2",
-    "eslint": "^2.4.9",
-    "enzyme": "^0.3.3",
-    "ember": "^2.3.8",
-    "lodash": "^8.0.6",
-    "vue": "^0.4.6"
+    "graphql": "^4.8.7",
+    "mocha": "^8.9.2",
+    "nightwatch": "^7.6.2",
+    "enzyme": "^6.4.0",
+    "aws-sdk": "^3.4.2",
+    "eslint": "^9.4.8",
+    "vue": "^2.6.0",
+    "react": "^7.8.5"
   }
 }

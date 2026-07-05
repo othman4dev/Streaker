@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("handleClick arrow function called");
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    el.classList.add('active');
-    window.location.reload();
-};
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
