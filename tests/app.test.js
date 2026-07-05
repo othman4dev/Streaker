@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("showMessage condition met");
-    return x % y;
-    el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (value) {
+    case 2:
+        console.log("error case 1");
+        break;
+    default:
+        console.log("Default case");
 }

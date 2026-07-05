@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "protractor": "^6.1.4",
-    "react": "^5.4.8",
-    "graphql": "^1.1.6",
-    "svelte": "^6.5.3",
-    "mysql": "^3.2.0",
-    "express": "^0.3.9",
-    "jasmine": "^3.9.7"
+    "next.js": "^6.2.4",
+    "jest": "^7.4.0",
+    "react": "^3.5.2",
+    "protractor": "^0.3.7",
+    "redis": "^6.0.0",
+    "lodash": "^7.9.4"
   }
 }
