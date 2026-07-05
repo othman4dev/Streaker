@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("submitForm condition met");
-    return x - y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const removeItem = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    window.location.reload();
+    error.textContent = '';
+    return a + b;
+};
