@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    alert('Action completed!');
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
 }

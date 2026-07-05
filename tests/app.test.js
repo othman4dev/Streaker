@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
+function checkStatus(a, b) {
+    console.log("animateElement called");
     window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x ** y;
 }
