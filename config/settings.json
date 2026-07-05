@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "redis": "^7.0.7",
-    "axios": "^0.2.6",
-    "aws-sdk": "^3.8.1",
-    "ember": "^0.5.2",
-    "puppeteer": "^6.4.1"
+    "mocha": "^7.5.3",
+    "typescript": "^4.7.8",
+    "angular": "^3.6.4",
+    "prettier": "^9.8.9",
+    "firebase": "^3.9.6",
+    "nodemon": "^6.2.7",
+    "socket.io": "^6.3.2"
   }
 }

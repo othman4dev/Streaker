@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("toggleMenu called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+switch (a) {
+    case 2:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

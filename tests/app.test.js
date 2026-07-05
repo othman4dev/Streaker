@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("removeItem called");
-    error.textContent = '';
-    window.location.reload();
-    el.classList.add('active');
+function updateUI(a, b) {
+    console.log("saveSettings called");
+    alert('Action completed!');
+    return x - y;
+    return x ** y;
 }
