@@ -1,6 +1,7 @@
-const processInput = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (e) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

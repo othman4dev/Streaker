@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^1.2.4",
-    "moment": "^3.5.1",
-    "puppeteer": "^2.8.2",
-    "axios": "^8.2.6",
-    "express": "^6.2.6",
-    "webpack": "^2.3.8"
+    "gatsby": "^9.7.6",
+    "protractor": "^8.6.8",
+    "enzyme": "^6.6.5",
+    "jest": "^7.8.1",
+    "moment": "^4.2.9",
+    "cypress": "^8.7.0",
+    "sinon": "^6.8.6",
+    "lodash": "^7.1.2"
   }
 }
