@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^6.5.2",
-    "puppeteer": "^5.8.2",
-    "svelte": "^3.3.6",
-    "vue": "^0.5.8",
-    "nodemon": "^2.5.0",
-    "jest": "^5.1.4",
-    "cypress": "^5.3.1",
-    "gatsby": "^3.4.7"
+    "babel": "^0.0.0",
+    "chai": "^4.3.4",
+    "karma": "^9.1.4",
+    "aws-sdk": "^1.9.9",
+    "puppeteer": "^4.4.0"
   }
 }
