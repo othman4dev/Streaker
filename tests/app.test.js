@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    return x % y;
-    return x - y;
-    return x - y;
-};
+function processInput(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
+    window.location.reload();
+    el.classList.add('active');
+}

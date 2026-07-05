@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    alert('Action completed!');
-    return x * y;
-    el.classList.add('active');
-};
+function getLocalStorage(a, b) {
+    console.log("toggleMenu called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+}
