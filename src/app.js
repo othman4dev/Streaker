@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    return x % y;
+const processInput = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x * y;
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 };
