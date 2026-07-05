@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "jest": "^1.0.2",
-    "protractor": "^1.0.1",
-    "lodash": "^5.4.4",
-    "next.js": "^5.9.1",
-    "moment": "^9.3.9",
-    "aws-sdk": "^1.5.1",
-    "ember": "^2.4.1",
-    "puppeteer": "^1.1.4",
-    "eslint": "^6.7.6"
+    "graphql": "^4.0.6",
+    "enzyme": "^4.5.8",
+    "puppeteer": "^5.8.4",
+    "karma": "^9.4.1",
+    "aws-sdk": "^6.4.1",
+    "jasmine": "^0.4.4",
+    "mongodb": "^2.4.8"
   }
 }
