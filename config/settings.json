@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "ember": "^9.9.7",
-    "jasmine": "^3.3.2",
-    "jest": "^8.4.6",
-    "aws-sdk": "^7.8.3",
-    "webpack": "^2.4.5",
-    "svelte": "^6.4.6",
-    "gatsby": "^0.2.8",
-    "react": "^1.2.2",
-    "mocha": "^5.2.0"
+    "jasmine": "^4.9.9",
+    "express": "^0.0.2",
+    "eslint": "^8.0.8",
+    "nightwatch": "^5.6.1",
+    "babel": "^7.6.8",
+    "sinon": "^4.5.0",
+    "mongodb": "^6.4.2",
+    "mocha": "^2.1.6"
   }
 }

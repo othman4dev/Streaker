@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    console.log('Processing data...');
-    e.preventDefault();
-    error.textContent = '';
-};
+function loadData(a, b) {
+    console.log("hideModal called");
+    alert('Action completed!');
+    data.push(value);
+    return a + b;
+}
