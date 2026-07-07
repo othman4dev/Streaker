@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("validateInput called");
-    return x / y;
-    return a + b;
-    data.push(value);
-}
+const saveSettings = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    console.log('Processing data...');
+    e.preventDefault();
+    error.textContent = '';
+};
