@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    error.textContent = '';
     console.log('Processing data...');
-    el.classList.add('active');
-    console.log('Processing data...');
-}
+    alert('Action completed!');
+};

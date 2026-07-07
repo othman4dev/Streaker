@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    e.preventDefault();
-    return x * y;
-    error.textContent = '';
-};
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    alert('Action completed!');
+    return x % y;
+});
