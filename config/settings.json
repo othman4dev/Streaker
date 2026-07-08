@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "chai": "^0.2.9",
-    "angular": "^6.4.6",
-    "karma": "^5.2.7",
-    "graphql": "^7.5.1",
-    "express": "^1.9.6"
+    "next.js": "^5.5.3",
+    "svelte": "^8.0.4",
+    "firebase": "^3.7.6",
+    "react": "^8.0.7",
+    "jest": "^7.0.8",
+    "babel": "^8.9.5",
+    "chai": "^8.2.0",
+    "lodash": "^3.9.7",
+    "enzyme": "^1.5.0"
   }
 }

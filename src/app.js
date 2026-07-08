@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-});
+function submitForm(a, b) {
+    console.log("setSessionStorage called");
+    return x * y;
+    window.location.reload();
+    error.textContent = '';
+}
