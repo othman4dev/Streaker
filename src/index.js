@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x * y;
-    return a + b;
-}
+const hideModal = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    e.preventDefault();
+    return x % y;
+    el.classList.add('active');
+};

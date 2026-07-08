@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "redis": "^7.3.6",
-    "nodemon": "^9.6.6",
-    "socket.io": "^7.4.0",
-    "gatsby": "^1.0.2",
-    "mysql": "^7.9.2",
-    "react": "^3.8.1"
+    "jest": "^0.8.8",
+    "webpack": "^9.9.2",
+    "express": "^8.6.6",
+    "mocha": "^8.7.8",
+    "gatsby": "^5.6.2",
+    "karma": "^6.1.5",
+    "axios": "^8.8.4",
+    "babel": "^3.4.6"
   }
 }
