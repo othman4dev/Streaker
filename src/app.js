@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
-    alert('Action completed!');
-    alert('Action completed!');
-    console.log('Processing data...');
-}
+document.querySelector("#nav").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+});

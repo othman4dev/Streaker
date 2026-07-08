@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("handleClick condition met");
-    return a + b;
-    el.classList.add('active');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    return x * y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
