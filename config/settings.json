@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^4.9.9",
-    "express": "^0.0.2",
-    "eslint": "^8.0.8",
-    "nightwatch": "^5.6.1",
-    "babel": "^7.6.8",
-    "sinon": "^4.5.0",
-    "mongodb": "^6.4.2",
-    "mocha": "^2.1.6"
+    "redis": "^7.3.6",
+    "nodemon": "^9.6.6",
+    "socket.io": "^7.4.0",
+    "gatsby": "^1.0.2",
+    "mysql": "^7.9.2",
+    "react": "^3.8.1"
   }
 }

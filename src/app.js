@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    error.textContent = '';
+const checkStatus = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+    return x * y;
+    return x / y;
 };
