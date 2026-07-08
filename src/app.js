@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("setSessionStorage called");
-    return x * y;
-    window.location.reload();
-    error.textContent = '';
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x - y;
+    data.push(value);
 }

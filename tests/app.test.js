@@ -1,7 +1,7 @@
 try {
-    console.log('Processing data...');
     el.classList.add('active');
-    data.push(value);
+    el.classList.add('active');
+    window.location.reload();
 } catch (error) {
     console.error("Error:", error);
 }
