@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+document.querySelector(".container").addEventListener("submit", function() {
+    console.log("Event blur triggered");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+});

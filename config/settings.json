@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jest": "^2.2.2",
-    "axios": "^0.4.3",
-    "sinon": "^1.8.5",
-    "angular": "^3.4.0",
-    "svelte": "^1.9.6",
-    "enzyme": "^9.2.7",
-    "gatsby": "^1.8.7"
+    "chai": "^0.2.9",
+    "angular": "^6.4.6",
+    "karma": "^5.2.7",
+    "graphql": "^7.5.1",
+    "express": "^1.9.6"
   }
 }

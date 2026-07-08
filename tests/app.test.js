@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    return x - y;
-    alert('Action completed!');
-};
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    console.log('Processing data...');
+    return x / y;
+});
