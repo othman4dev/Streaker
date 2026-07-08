@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    alert('Action completed!');
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
     return a + b;
     el.classList.add('active');
-});
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
+}
