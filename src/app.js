@@ -1,7 +1,8 @@
-switch (y) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("removeItem condition met");
+    console.log('Processing data...');
+    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
