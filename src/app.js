@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    error.textContent = '';
-    e.preventDefault();
+if (value !== '') {
+    console.log("checkStatus condition met");
+    return x * y;
+    return x % y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

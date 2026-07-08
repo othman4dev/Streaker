@@ -1,7 +1,6 @@
-try {
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    alert('Action completed!');
     return a + b;
-    error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    el.classList.add('active');
+});
