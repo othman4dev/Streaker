@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
-    return x / y;
+function getLocalStorage(a, b) {
+    console.log("processInput called");
+    console.log('Processing data...');
     el.classList.add('active');
-    return x % y;
-};
+    console.log('Processing data...');
+}

@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+const checkStatus = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    e.preventDefault();
+    return x * y;
     error.textContent = '';
-    return x ** y;
-}
+};
