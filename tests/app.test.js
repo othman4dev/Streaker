@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    alert('Action completed!');
+    window.location.reload();
+    return a + b;
 }
