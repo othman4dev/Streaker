@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "graphql": "^4.5.9",
-    "eslint": "^4.0.7",
-    "firebase": "^0.9.0",
-    "jest": "^4.5.0",
-    "enzyme": "^1.0.6"
+    "jest": "^3.5.5",
+    "karma": "^4.8.2",
+    "jasmine": "^3.9.4",
+    "aws-sdk": "^9.2.1",
+    "graphql": "^5.2.8",
+    "webpack": "^8.0.2"
   }
 }

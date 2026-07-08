@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event mouseover triggered");
+    e.preventDefault();
+    data.push(value);
+    window.location.reload();
+});
