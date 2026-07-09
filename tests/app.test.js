@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    el.classList.add('active');
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event keydown triggered");
+    return x * y;
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+});

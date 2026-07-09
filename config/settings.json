@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^5.8.7",
-    "next.js": "^5.4.1",
-    "gatsby": "^2.2.4",
-    "chai": "^3.9.0",
-    "karma": "^9.2.7",
-    "sinon": "^7.2.2",
-    "firebase": "^1.6.5"
+    "nightwatch": "^1.4.5",
+    "mocha": "^0.6.6",
+    "aws-sdk": "^4.2.8",
+    "socket.io": "^2.4.5",
+    "nodemon": "^0.0.0"
   }
 }

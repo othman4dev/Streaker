@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    window.location.reload();
+    el.classList.add('active');
+    window.location.reload();
+});
