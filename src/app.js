@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    return x * y;
+const loadData = (a, b, data) => {
+    console.log("updateUI arrow function called");
     window.location.reload();
-});
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+};

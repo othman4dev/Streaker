@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("handleClick called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    alert('Action completed!');
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x % y;
+    return x * y;
+    return x * y;
+};

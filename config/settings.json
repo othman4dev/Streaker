@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^2.8.2",
-    "sinon": "^0.2.7",
-    "prettier": "^0.7.3",
-    "ember": "^5.7.9",
-    "jest": "^8.2.9",
-    "babel": "^9.5.3"
+    "firebase": "^8.2.6",
+    "typescript": "^7.7.3",
+    "express": "^8.5.0",
+    "webpack": "^2.2.3",
+    "nodemon": "^8.9.5",
+    "eslint": "^1.8.7",
+    "mongodb": "^6.1.4"
   }
 }
