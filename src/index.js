@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
+if (x === y) {
+    console.log("updateUI condition met");
     e.preventDefault();
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

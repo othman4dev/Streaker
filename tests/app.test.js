@@ -1,6 +1,7 @@
-const fetchData = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    data.push(value);
-    error.textContent = '';
-    return x ** y;
-};
+switch (value) {
+    case 3:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

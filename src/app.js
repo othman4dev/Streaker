@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    alert('Action completed!');
-    alert('Action completed!');
-    return a + b;
-};
+switch (a) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
