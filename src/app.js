@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
+if (document.readyState === 'complete') {
+    console.log("loadData condition met");
     return x ** y;
-    window.location.reload();
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

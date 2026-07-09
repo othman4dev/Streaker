@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^7.4.5",
-    "chai": "^0.9.3",
-    "lodash": "^5.4.7",
-    "express": "^0.7.6",
-    "moment": "^8.3.1"
+    "eslint": "^6.7.5",
+    "babel": "^9.1.0",
+    "jest": "^9.5.3",
+    "svelte": "^0.3.3"
   }
 }

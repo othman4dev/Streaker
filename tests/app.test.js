@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
-    return x - y;
-    return x % y;
-}
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    return a + b;
+    return x * y;
+    alert('Action completed!');
+};
