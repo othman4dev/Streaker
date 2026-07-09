@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+function getLocalStorage(a, b) {
+    console.log("loadData called");
+    error.textContent = '';
+    return x - y;
+    return x % y;
 }

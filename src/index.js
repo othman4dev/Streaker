@@ -1,8 +1,8 @@
-if (window.innerWidth > 500) {
-    console.log("showMessage condition met");
-    window.location.reload();
-    return x % y;
-    alert('Action completed!');
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    return a + b;
 } else {
     console.log("Condition not met");
 }

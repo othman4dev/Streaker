@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^4.3.6",
-    "karma": "^7.8.7",
-    "protractor": "^5.8.0",
-    "sinon": "^8.7.0",
-    "lodash": "^9.3.0",
-    "next.js": "^5.9.7",
-    "vue": "^8.5.8"
+    "cypress": "^7.4.5",
+    "chai": "^0.9.3",
+    "lodash": "^5.4.7",
+    "express": "^0.7.6",
+    "moment": "^8.3.1"
   }
 }
