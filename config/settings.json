@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "axios": "^0.2.3",
-    "protractor": "^5.5.6",
-    "next.js": "^3.7.8",
-    "ember": "^8.6.5",
-    "moment": "^5.1.8",
-    "lodash": "^8.7.7",
-    "enzyme": "^9.9.7",
-    "gatsby": "^6.5.9"
+    "eslint": "^6.7.1",
+    "sinon": "^6.7.4",
+    "cypress": "^6.4.2",
+    "ember": "^6.6.0",
+    "moment": "^4.2.6",
+    "socket.io": "^0.0.0"
   }
 }

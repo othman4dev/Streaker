@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    return x * y;
     return x % y;
-    return x ** y;
-};
+    console.log('Processing data...');
+}

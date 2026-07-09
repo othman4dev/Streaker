@@ -1,7 +1,8 @@
-switch (error) {
-    case 1:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

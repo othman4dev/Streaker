@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    return x % y;
-    el.classList.add('active');
-});
+try {
+    return x * y;
+    data.push(value);
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
