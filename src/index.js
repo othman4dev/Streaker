@@ -1,7 +1,6 @@
-try {
-    return x ** y;
-    return x ** y;
+function animateElement(a, b) {
+    console.log("handleClick called");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    alert('Action completed!');
 }

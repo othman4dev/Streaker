@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "ember": "^5.0.3",
-    "express": "^2.9.2",
-    "eslint": "^2.9.8",
-    "react": "^1.8.8",
-    "webpack": "^8.9.6",
-    "jest": "^0.5.5",
-    "sinon": "^1.8.6"
+    "lodash": "^2.8.2",
+    "sinon": "^0.2.7",
+    "prettier": "^0.7.3",
+    "ember": "^5.7.9",
+    "jest": "^8.2.9",
+    "babel": "^9.5.3"
   }
 }

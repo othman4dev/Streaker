@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    return a + b;
+    return x / y;
     el.classList.add('active');
-    error.textContent = '';
-}
+});
