@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("setSessionStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-    return x * y;
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    el.classList.add('active');
+    error.textContent = '';
 }

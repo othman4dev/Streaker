@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^1.7.9",
-    "nightwatch": "^5.2.8",
-    "firebase": "^9.0.5",
-    "protractor": "^8.7.9",
-    "vue": "^8.1.7",
-    "jest": "^7.8.7"
+    "ember": "^5.0.3",
+    "express": "^2.9.2",
+    "eslint": "^2.9.8",
+    "react": "^1.8.8",
+    "webpack": "^8.9.6",
+    "jest": "^0.5.5",
+    "sinon": "^1.8.6"
   }
 }

@@ -1,6 +1,8 @@
-const saveSettings = (a, b, data) => {
-    console.log("createChart arrow function called");
+if (value !== '') {
+    console.log("saveSettings condition met");
     e.preventDefault();
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+    error.textContent = '';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
