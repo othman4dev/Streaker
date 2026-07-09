@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    window.location.reload();
+function fetchData(a, b) {
+    console.log("removeItem called");
+    return x % y;
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+    alert('Action completed!');
+}

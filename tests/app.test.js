@@ -1,7 +1,7 @@
-try {
-    window.location.reload();
-    error.textContent = '';
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+switch (x) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
