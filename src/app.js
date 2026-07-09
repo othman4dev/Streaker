@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    el.classList.add('active');
-    window.location.reload();
-});
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    e.preventDefault();
+    console.log('Processing data...');
+    alert('Action completed!');
+};

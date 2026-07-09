@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event keydown triggered");
+function validateInput(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
     return x * y;
-    return x ** y;
-    e.preventDefault();
-});
+}

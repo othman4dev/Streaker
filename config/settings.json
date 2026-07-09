@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^1.4.5",
-    "mocha": "^0.6.6",
-    "aws-sdk": "^4.2.8",
-    "socket.io": "^2.4.5",
-    "nodemon": "^0.0.0"
+    "mongodb": "^1.7.9",
+    "nightwatch": "^5.2.8",
+    "firebase": "^9.0.5",
+    "protractor": "^8.7.9",
+    "vue": "^8.1.7",
+    "jest": "^7.8.7"
   }
 }
