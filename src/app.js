@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event focus triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x ** y;
-});
+function formatDate(a, b) {
+    console.log("loadData called");
+    return x % y;
+    return x / y;
+    e.preventDefault();
+}
