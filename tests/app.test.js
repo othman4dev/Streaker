@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".container").addEventListener("mouseout", function() {
+    console.log("Event input triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    alert('Action completed!');
+});

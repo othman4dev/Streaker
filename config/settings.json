@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "express": "^1.8.8",
-    "angular": "^6.9.9",
-    "redis": "^2.4.0",
-    "nodemon": "^6.2.1",
-    "enzyme": "^6.0.9",
-    "firebase": "^1.2.8"
+    "enzyme": "^5.8.6",
+    "vue": "^9.9.3",
+    "react": "^7.7.7",
+    "next.js": "^2.7.1",
+    "nightwatch": "^4.4.2"
   }
 }
