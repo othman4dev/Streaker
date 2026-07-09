@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    return x ** y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    return x % y;
+    el.classList.add('active');
+});

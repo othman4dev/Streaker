@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const fetchData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    return x % y;
+    return x ** y;
+};

@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^8.9.8",
-    "eslint": "^1.7.5",
-    "nodemon": "^3.3.6",
-    "mongodb": "^1.0.8",
-    "lodash": "^7.9.0"
+    "axios": "^0.2.3",
+    "protractor": "^5.5.6",
+    "next.js": "^3.7.8",
+    "ember": "^8.6.5",
+    "moment": "^5.1.8",
+    "lodash": "^8.7.7",
+    "enzyme": "^9.9.7",
+    "gatsby": "^6.5.9"
   }
 }
