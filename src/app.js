@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("checkStatus called");
+const renderList = (a, b, data) => {
+    console.log("displayError arrow function called");
     return x * y;
-    return x % y;
-    console.log('Processing data...');
-}
+    el.classList.add('active');
+    return a + b;
+};

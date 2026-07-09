@@ -1,8 +1,8 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+if (a > b) {
+    console.log("fetchData condition met");
+    return x ** y;
+    return x % y;
+    return x % y;
 } else {
     console.log("Condition not met");
 }
