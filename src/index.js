@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    return x * y;
-    return a + b;
-}
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    console.log('Processing data...');
+});
