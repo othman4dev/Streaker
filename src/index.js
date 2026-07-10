@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event mouseout triggered");
+if (x !== y) {
+    console.log("removeItem condition met");
+    console.log('Processing data...');
+    error.textContent = '';
     alert('Action completed!');
-    return x - y;
-    return x * y;
-});
+} else {
+    console.log("Condition not met");
+}
