@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return a + b;
-    console.log('Processing data...');
+const fetchData = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    data.push(value);
     error.textContent = '';
+    return x ** y;
 };

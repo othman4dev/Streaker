@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
+const displayError = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
     return a + b;
-    return x / y;
-}
+};
