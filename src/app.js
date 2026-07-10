@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x * y;
+try {
+    return x / y;
     el.classList.add('active');
-    return a + b;
-};
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}
