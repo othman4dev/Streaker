@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "chai": "^5.7.1",
-    "axios": "^7.8.5",
-    "cypress": "^8.1.5",
-    "typescript": "^8.6.8",
-    "nodemon": "^8.4.3"
+    "graphql": "^4.0.3",
+    "angular": "^2.3.9",
+    "express": "^1.8.1",
+    "jest": "^4.0.5"
   }
 }

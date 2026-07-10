@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("updateUI condition met");
-    e.preventDefault();
-    console.log('Processing data...');
+try {
+    el.classList.add('active');
     data.push(value);
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
