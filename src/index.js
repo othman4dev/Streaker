@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x - y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+function animateElement(a, b) {
+    console.log("renderList called");
+    window.location.reload();
+    return x % y;
+    window.location.reload();
 }

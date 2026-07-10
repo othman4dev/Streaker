@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("hideModal called");
-    return x - y;
-    el.classList.add('active');
-    el.classList.add('active');
-}
+const processInput = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    error.textContent = '';
+};
