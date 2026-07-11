@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "graphql": "^2.6.1",
-    "prettier": "^9.9.8",
-    "react": "^8.2.2",
-    "chai": "^4.8.4",
-    "babel": "^2.7.4",
-    "mocha": "^8.8.7",
-    "enzyme": "^7.4.0",
-    "next.js": "^3.8.1",
-    "cypress": "^6.0.5"
+    "axios": "^5.9.4",
+    "typescript": "^7.3.8",
+    "karma": "^2.4.5",
+    "socket.io": "^8.3.3",
+    "jest": "^4.5.2",
+    "prettier": "^2.9.7",
+    "mongodb": "^3.4.1"
   }
 }

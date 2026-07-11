@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    data.push(value);
-    error.textContent = '';
-    alert('Action completed!');
-};
+if (data.length > 0) {
+    console.log("loadData condition met");
+    return a + b;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
