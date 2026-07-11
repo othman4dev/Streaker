@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    console.log('Processing data...');
-});
+function removeItem(a, b) {
+    console.log("setSessionStorage called");
+    window.location.reload();
+    data.push(value);
+    error.textContent = '';
+}

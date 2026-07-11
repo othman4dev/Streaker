@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    alert('Action completed!');
-    data.push(value);
-    error.textContent = '';
-});
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x - y;
+    e.preventDefault();
+}
