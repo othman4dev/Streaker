@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event focus triggered");
-    return x / y;
-    return x - y;
-    return x * y;
-});
+if (e.key === 'Enter') {
+    console.log("renderList condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    return x % y;
+} else {
+    console.log("Condition not met");
+}

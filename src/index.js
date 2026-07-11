@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    return x * y;
     error.textContent = '';
     alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+});
