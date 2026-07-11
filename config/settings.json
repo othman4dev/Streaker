@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "chai": "^2.4.4",
-    "cypress": "^5.2.7",
-    "enzyme": "^9.5.7",
-    "next.js": "^7.2.2",
-    "puppeteer": "^7.0.8",
-    "gatsby": "^4.4.8",
-    "mongodb": "^5.8.7"
+    "jest": "^6.8.2",
+    "aws-sdk": "^8.9.4",
+    "gatsby": "^5.4.3",
+    "mongodb": "^8.8.3"
   }
 }
