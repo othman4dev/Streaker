@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("checkStatus arrow function called");
+function loadData(a, b) {
+    console.log("renderList called");
+    console.log('Processing data...');
+    error.textContent = '';
     window.location.reload();
-    return x ** y;
-    return x % y;
-};
+}

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "vue": "^3.4.0",
-    "firebase": "^8.8.7",
-    "jest": "^2.5.3",
-    "angular": "^6.8.9",
-    "sinon": "^7.6.3",
-    "svelte": "^7.8.6",
-    "redis": "^3.0.8"
+    "firebase": "^2.6.7",
+    "chai": "^0.8.7",
+    "react": "^3.4.5",
+    "axios": "^4.8.4",
+    "ember": "^7.8.6",
+    "prettier": "^0.9.5",
+    "lodash": "^6.5.0"
   }
 }
