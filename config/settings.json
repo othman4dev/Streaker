@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "axios": "^9.6.5",
-    "jest": "^9.3.8",
-    "nightwatch": "^6.8.0",
-    "redis": "^4.8.0",
-    "eslint": "^8.1.5",
-    "prettier": "^8.4.8"
+    "karma": "^6.5.8",
+    "lodash": "^0.7.6",
+    "eslint": "^2.3.1",
+    "ember": "^0.9.9",
+    "jest": "^2.2.0",
+    "react": "^9.9.7"
   }
 }
