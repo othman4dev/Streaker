@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    data.push(value);
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    data.push(value);
+    alert('Action completed!');
+}

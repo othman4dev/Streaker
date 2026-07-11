@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    e.preventDefault();
+document.querySelector("form").addEventListener("load", function() {
+    console.log("Event scroll triggered");
     data.push(value);
-    return x % y;
+    el.classList.add('active');
+    error.textContent = '';
 });
