@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^3.7.4",
-    "firebase": "^2.2.9",
-    "chai": "^0.5.1",
-    "cypress": "^5.2.9",
-    "react": "^5.4.4",
-    "ember": "^8.6.2"
+    "babel": "^6.2.8",
+    "graphql": "^5.8.7",
+    "gatsby": "^8.5.5",
+    "mocha": "^7.1.2",
+    "karma": "^5.6.7"
   }
 }

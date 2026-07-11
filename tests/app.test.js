@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+function setSessionStorage(a, b) {
+    console.log("updateUI called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }

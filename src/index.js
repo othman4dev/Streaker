@@ -1,7 +1,8 @@
-switch (error) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (a > b) {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
+    e.preventDefault();
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
