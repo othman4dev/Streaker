@@ -1,6 +1,8 @@
-const updateUI = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
+if (x === y) {
+    console.log("fetchData condition met");
+    return x % y;
     return x - y;
-    return a + b;
-};
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
