@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "firebase": "^2.6.7",
-    "chai": "^0.8.7",
-    "react": "^3.4.5",
-    "axios": "^4.8.4",
-    "ember": "^7.8.6",
-    "prettier": "^0.9.5",
-    "lodash": "^6.5.0"
+    "chai": "^2.4.4",
+    "cypress": "^5.2.7",
+    "enzyme": "^9.5.7",
+    "next.js": "^7.2.2",
+    "puppeteer": "^7.0.8",
+    "gatsby": "^4.4.8",
+    "mongodb": "^5.8.7"
   }
 }

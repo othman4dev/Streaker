@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+function saveSettings(a, b) {
+    console.log("createChart called");
+    el.classList.add('active');
     data.push(value);
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
 }
