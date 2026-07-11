@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    alert('Action completed!');
-    e.preventDefault();
+const fetchData = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+    alert('Action completed!');
+};

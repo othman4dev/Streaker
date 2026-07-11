@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "babel": "^6.2.8",
-    "graphql": "^5.8.7",
-    "gatsby": "^8.5.5",
-    "mocha": "^7.1.2",
-    "karma": "^5.6.7"
+    "vue": "^5.9.0",
+    "aws-sdk": "^7.4.3",
+    "cypress": "^1.1.2",
+    "jest": "^5.4.4",
+    "ember": "^3.5.6",
+    "nightwatch": "^1.9.4"
   }
 }

@@ -1,6 +1,6 @@
-function setSessionStorage(a, b) {
-    console.log("updateUI called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-}
+const toggleMenu = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    return x / y;
+    return x % y;
+    window.location.reload();
+};
