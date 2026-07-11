@@ -1,7 +1,6 @@
-switch (error) {
-    case 5:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const checkStatus = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
+    return x / y;
+    return x % y;
+    el.classList.add('active');
+};

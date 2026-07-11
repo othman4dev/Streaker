@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    return a + b;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("input", function() {
+    console.log("Event mouseout triggered");
+    alert('Action completed!');
+    return x - y;
+    return x * y;
+});

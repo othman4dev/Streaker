@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event blur triggered");
+    data.push(value);
+    return a + b;
+    return x ** y;
+});
