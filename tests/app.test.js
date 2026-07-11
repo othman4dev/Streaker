@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("renderList condition met");
-    alert('Action completed!');
-    e.preventDefault();
+const showMessage = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+    return a + b;
+};

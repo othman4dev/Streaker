@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    return x - y;
     return x / y;
-    return a + b;
-    window.location.reload();
-}
+});

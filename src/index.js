@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    return x * y;
-    error.textContent = '';
-    alert('Action completed!');
-});
+const toggleMenu = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+};
