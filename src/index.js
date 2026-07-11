@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-};
+function animateElement(a, b) {
+    console.log("fetchData called");
+    return x % y;
+    return a + b;
+    window.location.reload();
+}
