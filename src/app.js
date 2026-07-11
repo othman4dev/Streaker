@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x - y;
-    e.preventDefault();
-}
+document.querySelector("header").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    console.log('Processing data...');
+    data.push(value);
+    error.textContent = '';
+});
