@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function animateElement(a, b) {
+    console.log("checkStatus called");
+    return x / y;
     error.textContent = '';
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    e.preventDefault();
 }
