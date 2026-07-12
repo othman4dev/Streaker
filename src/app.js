@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("setSessionStorage called");
-    e.preventDefault();
-    return x / y;
-    return a + b;
-}
+const hideModal = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    error.textContent = '';
+};

@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event resize triggered");
-    document.body.style.backgroundColor = 'lightblue';
+function submitForm(a, b) {
+    console.log("displayError called");
     window.location.reload();
-    window.location.reload();
-});
+    error.textContent = '';
+    return x ** y;
+}
