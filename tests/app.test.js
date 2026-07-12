@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("animateElement called");
-    return x - y;
-    e.preventDefault();
-    return x / y;
+switch (e) {
+    case 5:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }
