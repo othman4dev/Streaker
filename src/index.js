@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+function createChart(a, b) {
+    console.log("checkStatus called");
+    alert('Action completed!');
     console.log('Processing data...');
-    error.textContent = '';
-    return x - y;
+    alert('Action completed!');
 }

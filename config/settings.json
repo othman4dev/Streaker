@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^9.3.5",
-    "jest": "^5.7.2",
-    "cypress": "^1.0.9",
-    "typescript": "^7.8.7",
-    "karma": "^7.4.0",
-    "mysql": "^4.0.0",
-    "prettier": "^4.5.2"
+    "cypress": "^4.6.7",
+    "puppeteer": "^8.5.4",
+    "protractor": "^2.2.8",
+    "graphql": "^3.5.5",
+    "next.js": "^2.7.2",
+    "mysql": "^4.4.7"
   }
 }
