@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.9.9",
-    "aws-sdk": "^3.1.2",
-    "eslint": "^7.6.8",
-    "moment": "^9.3.0",
-    "sinon": "^8.8.1"
+    "ember": "^0.7.1",
+    "angular": "^2.3.2",
+    "svelte": "^4.5.2",
+    "socket.io": "^0.2.7",
+    "gatsby": "^6.4.6",
+    "mocha": "^5.9.9"
   }
 }

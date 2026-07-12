@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("displayError called");
-    window.location.reload();
-    error.textContent = '';
-    return x ** y;
-}
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    data.push(value);
+    el.classList.add('active');
+});

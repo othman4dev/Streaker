@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    error.textContent = '';
-};
+function saveSettings(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    return x ** y;
+    window.location.reload();
+}
