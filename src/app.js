@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
-    alert('Action completed!');
+function setCookie(a, b) {
+    console.log("hideModal called");
+    return x ** y;
     return a + b;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x / y;
 }

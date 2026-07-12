@@ -1,7 +1,8 @@
-try {
-    return x / y;
-    alert('Action completed!');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+if (a > b) {
+    console.log("setCookie condition met");
+    data.push(value);
+    console.log('Processing data...');
+    return x - y;
+} else {
+    console.log("Condition not met");
 }
