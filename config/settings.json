@@ -1,12 +1,13 @@
 {
   "dependencies": {
-    "puppeteer": "^2.1.8",
-    "redis": "^0.6.1",
-    "chai": "^8.4.4",
-    "mocha": "^6.3.9",
-    "angular": "^1.6.2",
-    "firebase": "^4.0.4",
-    "enzyme": "^6.6.7",
-    "graphql": "^7.8.0"
+    "express": "^7.9.8",
+    "karma": "^0.2.6",
+    "socket.io": "^4.4.3",
+    "mysql": "^3.8.8",
+    "mongodb": "^9.1.1",
+    "graphql": "^6.9.7",
+    "svelte": "^9.3.2",
+    "puppeteer": "^6.1.5",
+    "protractor": "^3.9.7"
   }
 }

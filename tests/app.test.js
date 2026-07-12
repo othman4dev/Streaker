@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event blur triggered");
+    return x - y;
+    data.push(value);
+    return x % y;
+});

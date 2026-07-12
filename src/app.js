@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    e.preventDefault();
-    console.log('Processing data...');
-}
+const formatDate = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x % y;
+    alert('Action completed!');
+    el.classList.add('active');
+};
