@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("removeItem arrow function called");
+function getLocalStorage(a, b) {
+    console.log("formatDate called");
     data.push(value);
-    el.classList.add('active');
-    window.location.reload();
-};
+    return x * y;
+    error.textContent = '';
+}

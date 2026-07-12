@@ -1,6 +1,8 @@
-const submitForm = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-};
+if (window.innerWidth > 500) {
+    console.log("setSessionStorage condition met");
+    return x ** y;
+    error.textContent = '';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
