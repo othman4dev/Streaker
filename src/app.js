@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("hideModal called");
-    return x ** y;
-    return a + b;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     return x / y;
+    e.preventDefault();
 }
