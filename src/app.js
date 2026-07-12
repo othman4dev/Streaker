@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("formatDate called");
-    data.push(value);
-    return x * y;
+if (a > b) {
+    console.log("animateElement condition met");
+    alert('Action completed!');
+    return a + b;
     error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
