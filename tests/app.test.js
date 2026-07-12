@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    error.textContent = '';
-    error.textContent = '';
-    return x ** y;
-});
+switch (el) {
+    case 3:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

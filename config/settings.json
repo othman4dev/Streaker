@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jasmine": "^2.1.0",
-    "sinon": "^1.6.2",
-    "enzyme": "^3.7.8",
-    "prettier": "^5.8.2",
-    "jest": "^4.1.9",
-    "eslint": "^1.1.9",
-    "lodash": "^3.9.1",
-    "mongodb": "^7.9.0"
+    "puppeteer": "^2.1.8",
+    "redis": "^0.6.1",
+    "chai": "^8.4.4",
+    "mocha": "^6.3.9",
+    "angular": "^1.6.2",
+    "firebase": "^4.0.4",
+    "enzyme": "^6.6.7",
+    "graphql": "^7.8.0"
   }
 }
