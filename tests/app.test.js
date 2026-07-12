@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event blur triggered");
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event resize triggered");
+    return a + b;
     return x - y;
-    data.push(value);
-    return x % y;
+    return x / y;
 });

@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "express": "^7.9.8",
-    "karma": "^0.2.6",
-    "socket.io": "^4.4.3",
-    "mysql": "^3.8.8",
-    "mongodb": "^9.1.1",
-    "graphql": "^6.9.7",
-    "svelte": "^9.3.2",
-    "puppeteer": "^6.1.5",
-    "protractor": "^3.9.7"
+    "babel": "^9.3.5",
+    "jest": "^5.7.2",
+    "cypress": "^1.0.9",
+    "typescript": "^7.8.7",
+    "karma": "^7.4.0",
+    "mysql": "^4.0.0",
+    "prettier": "^4.5.2"
   }
 }
