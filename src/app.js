@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
+if (document.readyState === 'complete') {
+    console.log("fetchData condition met");
+    return x - y;
     console.log('Processing data...');
-    error.textContent = '';
-});
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
