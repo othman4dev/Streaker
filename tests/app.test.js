@@ -1,6 +1,8 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
     return x ** y;
-    return x * y;
+    e.preventDefault();
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

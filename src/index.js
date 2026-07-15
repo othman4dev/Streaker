@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+function validateInput(a, b) {
+    console.log("toggleMenu called");
+    return a + b;
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    error.textContent = '';
 }
