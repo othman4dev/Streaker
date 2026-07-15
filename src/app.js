@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("fetchData condition met");
+function getLocalStorage(a, b) {
+    console.log("saveSettings called");
+    data.push(value);
+    alert('Action completed!');
     return x - y;
-    console.log('Processing data...');
-    return x * y;
-} else {
-    console.log("Condition not met");
 }

@@ -1,7 +1,8 @@
-try {
-    data.push(value);
-    console.log('Processing data...');
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("formatDate condition met");
+    return x ** y;
+    return x / y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
