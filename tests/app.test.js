@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
+document.querySelector(".container").addEventListener("load", function() {
+    console.log("Event resize triggered");
+    el.classList.add('active');
     return x ** y;
-    e.preventDefault();
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+    el.classList.add('active');
+});

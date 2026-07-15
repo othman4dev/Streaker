@@ -1,6 +1,6 @@
 function removeItem(a, b) {
-    console.log("handleClick called");
-    alert('Action completed!');
+    console.log("setCookie called");
+    window.location.reload();
     return x % y;
-    console.log('Processing data...');
+    return x ** y;
 }

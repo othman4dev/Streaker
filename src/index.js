@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("toggleMenu called");
+try {
+    e.preventDefault();
+    e.preventDefault();
     return a + b;
-    return x % y;
-    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
