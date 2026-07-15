@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "babel": "^3.3.4",
-    "gatsby": "^3.5.1",
-    "sinon": "^2.9.7",
-    "next.js": "^2.8.7",
-    "mongodb": "^3.0.8"
+    "mongodb": "^9.3.7",
+    "sinon": "^5.0.2",
+    "moment": "^9.5.7",
+    "cypress": "^0.2.8",
+    "mysql": "^2.9.3"
   }
 }

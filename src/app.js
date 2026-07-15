@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("hideModal condition met");
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    alert('Action completed!');
     document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
 }
