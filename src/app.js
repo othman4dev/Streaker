@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    return x / y;
-    window.location.reload();
-});
+const updateUI = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x - y;
+    return x ** y;
+    return x - y;
+};

@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "lodash": "^9.2.5",
-    "ember": "^1.7.8",
-    "babel": "^8.7.1",
-    "jest": "^8.3.0",
-    "angular": "^9.2.0",
-    "mocha": "^5.2.8",
-    "mongodb": "^3.8.1",
-    "aws-sdk": "^0.5.2"
+    "aws-sdk": "^2.6.4",
+    "nodemon": "^6.7.7",
+    "socket.io": "^5.4.8",
+    "babel": "^2.4.6",
+    "angular": "^5.1.6",
+    "mysql": "^5.5.7",
+    "puppeteer": "^7.2.5"
   }
 }
