@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "svelte": "^5.1.7",
-    "firebase": "^2.8.0",
-    "moment": "^7.5.1",
-    "eslint": "^1.7.7",
-    "axios": "^7.3.3",
-    "mysql": "^5.2.2",
-    "express": "^4.9.2"
+    "babel": "^3.3.4",
+    "gatsby": "^3.5.1",
+    "sinon": "^2.9.7",
+    "next.js": "^2.8.7",
+    "mongodb": "^3.0.8"
   }
 }
