@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("setCookie called");
-    window.location.reload();
-    return x % y;
-    return x ** y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }

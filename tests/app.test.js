@@ -1,6 +1,8 @@
-document.querySelector(".container").addEventListener("load", function() {
-    console.log("Event resize triggered");
+if (x !== y) {
+    console.log("validateInput condition met");
     el.classList.add('active');
+    e.preventDefault();
     return x ** y;
-    el.classList.add('active');
-});
+} else {
+    console.log("Condition not met");
+}

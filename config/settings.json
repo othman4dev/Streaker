@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "svelte": "^9.1.2",
-    "jest": "^5.8.6",
-    "angular": "^6.9.2",
-    "chai": "^7.6.3",
-    "nightwatch": "^4.5.8",
-    "moment": "^0.9.0",
-    "express": "^1.2.5",
-    "graphql": "^0.2.3",
-    "mysql": "^4.4.3"
+    "babel": "^6.0.3",
+    "typescript": "^9.8.9",
+    "prettier": "^7.3.3",
+    "mocha": "^9.1.9",
+    "karma": "^0.2.6",
+    "axios": "^8.6.8",
+    "socket.io": "^9.5.2"
   }
 }
