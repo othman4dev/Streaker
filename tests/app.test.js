@@ -1,7 +1,6 @@
-try {
-    data.push(value);
+document.querySelector(".modal").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    error.textContent = '';
     return x - y;
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+});

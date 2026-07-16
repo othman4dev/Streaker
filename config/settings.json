@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^9.3.7",
-    "sinon": "^5.0.2",
-    "moment": "^9.5.7",
-    "cypress": "^0.2.8",
-    "mysql": "^2.9.3"
+    "mysql": "^8.6.1",
+    "webpack": "^3.6.3",
+    "enzyme": "^3.6.8",
+    "svelte": "^5.1.7",
+    "express": "^0.7.2",
+    "moment": "^0.1.9",
+    "nightwatch": "^6.5.7",
+    "aws-sdk": "^0.3.8"
   }
 }
