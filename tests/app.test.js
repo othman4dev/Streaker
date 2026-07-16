@@ -1,7 +1,8 @@
-switch (x) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    data.push(value);
-    return x * y;
-    e.preventDefault();
-};
+document.querySelector("#button").addEventListener("keydown", function() {
+    console.log("Event mouseout triggered");
+    return x ** y;
+    alert('Action completed!');
+    return x / y;
+});

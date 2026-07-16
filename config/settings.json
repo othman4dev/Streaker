@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "vue": "^5.7.0",
-    "protractor": "^6.3.2",
-    "nightwatch": "^3.2.2",
-    "moment": "^3.2.7",
-    "typescript": "^3.6.6"
+    "mongodb": "^2.1.5",
+    "webpack": "^9.8.5",
+    "protractor": "^4.2.5",
+    "mocha": "^4.1.2",
+    "ember": "^8.6.2"
   }
 }
