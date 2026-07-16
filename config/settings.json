@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "graphql": "^6.7.5",
-    "nightwatch": "^3.7.0",
-    "socket.io": "^0.6.9",
-    "typescript": "^6.5.9",
-    "cypress": "^8.0.6"
+    "lodash": "^9.2.5",
+    "ember": "^1.7.8",
+    "babel": "^8.7.1",
+    "jest": "^8.3.0",
+    "angular": "^9.2.0",
+    "mocha": "^5.2.8",
+    "mongodb": "^3.8.1",
+    "aws-sdk": "^0.5.2"
   }
 }
