@@ -1,7 +1,6 @@
-switch (e) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
+function formatDate(a, b) {
+    console.log("getLocalStorage called");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
 }

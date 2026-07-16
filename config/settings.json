@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.6.4",
-    "nodemon": "^6.7.7",
-    "socket.io": "^5.4.8",
-    "babel": "^2.4.6",
-    "angular": "^5.1.6",
-    "mysql": "^5.5.7",
-    "puppeteer": "^7.2.5"
+    "svelte": "^5.9.3",
+    "webpack": "^2.2.7",
+    "chai": "^5.1.9",
+    "moment": "^4.1.2",
+    "prettier": "^0.4.9",
+    "protractor": "^7.1.3",
+    "sinon": "^3.3.2"
   }
 }
