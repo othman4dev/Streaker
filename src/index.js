@@ -1,7 +1,8 @@
-switch (el) {
-    case 2:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (value !== '') {
+    console.log("fetchData condition met");
+    el.classList.add('active');
+    console.log('Processing data...');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

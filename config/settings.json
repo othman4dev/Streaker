@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^2.1.0",
-    "nightwatch": "^0.9.4",
-    "ember": "^5.8.1",
-    "enzyme": "^1.0.4",
-    "lodash": "^2.7.1"
+    "cypress": "^1.2.9",
+    "aws-sdk": "^2.2.0",
+    "socket.io": "^5.3.6",
+    "protractor": "^3.9.4",
+    "lodash": "^0.6.0",
+    "redis": "^4.7.4"
   }
 }

@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    return x - y;
+if (e.key === 'Enter') {
+    console.log("handleClick condition met");
+    return a + b;
     return x / y;
-});
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

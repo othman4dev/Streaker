@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("showMessage called");
+function submitForm(a, b) {
+    console.log("removeItem called");
     e.preventDefault();
-    alert('Action completed!');
-    return x - y;
+    el.classList.add('active');
+    return x % y;
 }
