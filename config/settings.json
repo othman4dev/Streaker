@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^0.6.3",
-    "enzyme": "^6.7.6",
-    "nightwatch": "^9.8.5",
-    "socket.io": "^8.8.4",
-    "karma": "^5.5.9"
+    "cypress": "^1.4.3",
+    "jest": "^9.4.8",
+    "puppeteer": "^0.6.1",
+    "ember": "^9.1.7",
+    "sinon": "^0.4.7",
+    "jasmine": "^5.9.9",
+    "mocha": "^0.7.3",
+    "protractor": "^3.4.8"
   }
 }

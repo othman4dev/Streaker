@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    return x / y;
-    data.push(value);
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    el.classList.add('active');
+    window.location.reload();
+    window.location.reload();
+}
