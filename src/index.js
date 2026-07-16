@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
+function hideModal(a, b) {
+    console.log("saveSettings called");
+    return x / y;
     window.location.reload();
+    data.push(value);
 }
