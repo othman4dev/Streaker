@@ -1,7 +1,6 @@
-try {
-    return x % y;
+function displayError(a, b) {
+    console.log("checkStatus called");
     error.textContent = '';
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
 }

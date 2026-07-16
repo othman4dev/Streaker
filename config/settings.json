@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^8.9.9",
-    "jest": "^9.3.9",
-    "redis": "^5.5.2",
-    "prettier": "^6.1.5",
-    "mongodb": "^5.5.0",
-    "typescript": "^6.1.0"
+    "angular": "^6.9.0",
+    "mongodb": "^0.3.1",
+    "sinon": "^1.6.4",
+    "lodash": "^3.4.7",
+    "socket.io": "^3.1.2"
   }
 }

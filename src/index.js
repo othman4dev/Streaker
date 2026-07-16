@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("saveSettings called");
-    return x / y;
-    window.location.reload();
-    data.push(value);
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    return x * y;
+};
