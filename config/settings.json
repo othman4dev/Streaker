@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "babel": "^6.0.3",
-    "typescript": "^9.8.9",
-    "prettier": "^7.3.3",
-    "mocha": "^9.1.9",
-    "karma": "^0.2.6",
-    "axios": "^8.6.8",
-    "socket.io": "^9.5.2"
+    "next.js": "^3.2.9",
+    "axios": "^4.9.9",
+    "jest": "^4.2.8",
+    "gatsby": "^2.3.2",
+    "protractor": "^5.4.0",
+    "cypress": "^9.8.9"
   }
 }

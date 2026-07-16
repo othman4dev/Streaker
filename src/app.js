@@ -1,7 +1,7 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+switch (el) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
