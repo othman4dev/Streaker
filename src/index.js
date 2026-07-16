@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("input", function() {
-    console.log("Event change triggered");
-    return x ** y;
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+const showMessage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    data.push(value);
+    return x * y;
+    e.preventDefault();
+};

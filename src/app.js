@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("saveSettings condition met");
-    e.preventDefault();
-    data.push(value);
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const validateInput = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x % y;
+    window.location.reload();
+    console.log('Processing data...');
+};
