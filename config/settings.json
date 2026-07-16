@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "next.js": "^3.2.9",
-    "axios": "^4.9.9",
-    "jest": "^4.2.8",
-    "gatsby": "^2.3.2",
-    "protractor": "^5.4.0",
-    "cypress": "^9.8.9"
+    "enzyme": "^9.8.4",
+    "svelte": "^6.0.9",
+    "sinon": "^0.3.6",
+    "vue": "^4.9.1",
+    "webpack": "^3.3.3",
+    "typescript": "^2.8.2",
+    "gatsby": "^0.6.6",
+    "cypress": "^2.3.9"
   }
 }
