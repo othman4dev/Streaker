@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("getLocalStorage called");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+switch (b) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }

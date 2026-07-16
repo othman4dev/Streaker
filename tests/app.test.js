@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    return x ** y;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    return x / y;
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+};
