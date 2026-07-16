@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
+document.querySelector("window").addEventListener("resize", function() {
     console.log("Event mouseout triggered");
-    return x ** y;
-    alert('Action completed!');
+    data.push(value);
+    console.log('Processing data...');
     return x / y;
 });

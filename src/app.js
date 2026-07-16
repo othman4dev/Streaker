@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function checkStatus(a, b) {
+    console.log("setSessionStorage called");
+    return x / y;
+    window.location.reload();
+    e.preventDefault();
+}

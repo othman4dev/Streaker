@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^2.1.5",
-    "webpack": "^9.8.5",
-    "protractor": "^4.2.5",
-    "mocha": "^4.1.2",
-    "ember": "^8.6.2"
+    "svelte": "^5.1.7",
+    "firebase": "^2.8.0",
+    "moment": "^7.5.1",
+    "eslint": "^1.7.7",
+    "axios": "^7.3.3",
+    "mysql": "^5.2.2",
+    "express": "^4.9.2"
   }
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("setCookie called");
+    return x ** y;
+    return x ** y;
+    return x % y;
 }
