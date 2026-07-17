@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    window.location.reload();
-    window.location.reload();
-}
+const hideModal = (a, b, data) => {
+    console.log("createChart arrow function called");
+    alert('Action completed!');
+    alert('Action completed!');
+    return x - y;
+};

@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^1.4.3",
-    "jest": "^9.4.8",
-    "puppeteer": "^0.6.1",
-    "ember": "^9.1.7",
-    "sinon": "^0.4.7",
-    "jasmine": "^5.9.9",
-    "mocha": "^0.7.3",
-    "protractor": "^3.4.8"
+    "socket.io": "^5.5.3",
+    "prettier": "^5.8.4",
+    "mocha": "^2.3.6",
+    "vue": "^1.3.5",
+    "lodash": "^1.6.1",
+    "firebase": "^5.2.9"
   }
 }

@@ -1,7 +1,8 @@
-try {
-    return a + b;
-    el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    alert('Action completed!');
+    return x - y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
