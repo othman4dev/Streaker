@@ -1,13 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^0.4.8",
-    "next.js": "^8.9.8",
-    "ember": "^2.1.5",
-    "vue": "^3.4.6",
-    "nodemon": "^3.5.2",
-    "graphql": "^4.2.7",
-    "jest": "^0.1.9",
-    "lodash": "^6.6.6",
-    "cypress": "^7.1.9"
+    "mongodb": "^4.0.3",
+    "redis": "^3.2.7",
+    "prettier": "^5.4.2",
+    "nightwatch": "^2.9.1",
+    "protractor": "^7.5.7",
+    "graphql": "^4.0.3",
+    "jest": "^9.7.7",
+    "eslint": "^6.5.6"
   }
 }
