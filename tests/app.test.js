@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("fetchData condition met");
-    return x % y;
+function hideModal(a, b) {
+    console.log("showMessage called");
+    e.preventDefault();
     alert('Action completed!');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+    return x - y;
 }

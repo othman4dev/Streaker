@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("loadData called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
+switch (el) {
+    case 2:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }

@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^2.2.2",
-    "next.js": "^7.5.3",
-    "gatsby": "^6.8.4",
-    "babel": "^4.2.2",
-    "angular": "^9.3.2",
-    "svelte": "^6.0.8"
+    "svelte": "^2.1.0",
+    "nightwatch": "^0.9.4",
+    "ember": "^5.8.1",
+    "enzyme": "^1.0.4",
+    "lodash": "^2.7.1"
   }
 }
