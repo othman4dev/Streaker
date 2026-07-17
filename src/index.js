@@ -1,6 +1,8 @@
-function formatDate(a, b) {
-    console.log("processInput called");
-    return x - y;
-    return x - y;
-    return x % y;
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    e.preventDefault();
+    return x ** y;
+    return a + b;
+} else {
+    console.log("Condition not met");
 }

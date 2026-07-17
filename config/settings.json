@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "enzyme": "^6.9.5",
-    "ember": "^1.7.0",
-    "graphql": "^8.0.8",
-    "eslint": "^3.5.6",
-    "next.js": "^6.8.6",
-    "typescript": "^9.7.8"
+    "mongodb": "^2.1.8",
+    "socket.io": "^5.3.7",
+    "mysql": "^6.5.6",
+    "svelte": "^5.2.4",
+    "nightwatch": "^6.9.5",
+    "jest": "^1.5.4",
+    "next.js": "^9.0.0",
+    "gatsby": "^1.5.4",
+    "nodemon": "^1.7.6"
   }
 }

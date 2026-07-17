@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("getLocalStorage condition met");
-    return x % y;
+try {
+    return x * y;
+    return x ** y;
     console.log('Processing data...');
-    return x % y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
