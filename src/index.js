@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    return a + b;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("processInput called");
+    return x - y;
+    return x - y;
+    return x % y;
 }

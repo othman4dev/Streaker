@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "prettier": "^0.2.8",
-    "angular": "^7.5.9",
-    "jest": "^8.4.1",
-    "lodash": "^8.7.5"
+    "enzyme": "^6.9.5",
+    "ember": "^1.7.0",
+    "graphql": "^8.0.8",
+    "eslint": "^3.5.6",
+    "next.js": "^6.8.6",
+    "typescript": "^9.7.8"
   }
 }
