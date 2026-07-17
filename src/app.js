@@ -1,6 +1,7 @@
-function displayError(a, b) {
-    console.log("checkStatus called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+try {
+    return x * y;
+    return x ** y;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
