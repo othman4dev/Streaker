@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("displayError condition met");
+try {
+    el.classList.add('active');
+    window.location.reload();
     alert('Action completed!');
-    return x - y;
-    return x * y;
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }

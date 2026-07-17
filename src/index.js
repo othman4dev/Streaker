@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    error.textContent = '';
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
+function showMessage(a, b) {
+    console.log("loadData called");
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }

@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("createChart arrow function called");
+if (x !== y) {
+    console.log("fetchData condition met");
+    return x % y;
     alert('Action completed!');
-    alert('Action completed!');
-    return x - y;
-};
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
