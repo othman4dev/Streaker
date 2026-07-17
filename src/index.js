@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("removeItem called");
-    return x % y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-}
+const processInput = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    window.location.reload();
+};

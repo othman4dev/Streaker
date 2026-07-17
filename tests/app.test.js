@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event scroll triggered");
-    error.textContent = '';
-    return x - y;
-    data.push(value);
-});
+function animateElement(a, b) {
+    console.log("renderList called");
+    e.preventDefault();
+    return x * y;
+    e.preventDefault();
+}
