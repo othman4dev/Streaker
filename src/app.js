@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    el.classList.add('active');
-    return x * y;
+if (value !== '') {
+    console.log("loadData condition met");
+    e.preventDefault();
+    return a + b;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
