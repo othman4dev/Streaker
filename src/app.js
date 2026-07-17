@@ -1,7 +1,8 @@
-try {
+if (document.readyState === 'complete') {
+    console.log("setCookie condition met");
+    return x ** y;
     return x - y;
-    return a + b;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
