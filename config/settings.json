@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "mongodb": "^4.0.3",
-    "redis": "^3.2.7",
-    "prettier": "^5.4.2",
-    "nightwatch": "^2.9.1",
-    "protractor": "^7.5.7",
-    "graphql": "^4.0.3",
-    "jest": "^9.7.7",
-    "eslint": "^6.5.6"
+    "mysql": "^2.2.4",
+    "socket.io": "^0.2.7",
+    "jasmine": "^9.7.5",
+    "aws-sdk": "^1.2.8",
+    "babel": "^4.9.9",
+    "moment": "^6.3.3",
+    "protractor": "^6.6.8",
+    "jest": "^8.5.6"
   }
 }

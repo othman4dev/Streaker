@@ -1,7 +1,8 @@
-switch (x) {
-    case 4:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("processInput condition met");
+    return x - y;
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
