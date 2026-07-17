@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("fetchData condition met");
+function updateUI(a, b) {
+    console.log("removeItem called");
+    return x % y;
     el.classList.add('active');
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+    document.body.style.backgroundColor = 'lightblue';
 }

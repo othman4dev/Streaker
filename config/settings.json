@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "cypress": "^1.2.9",
-    "aws-sdk": "^2.2.0",
-    "socket.io": "^5.3.6",
-    "protractor": "^3.9.4",
-    "lodash": "^0.6.0",
-    "redis": "^4.7.4"
+    "axios": "^7.1.3",
+    "cypress": "^8.4.5",
+    "vue": "^4.0.7",
+    "graphql": "^0.1.8",
+    "mocha": "^7.0.5",
+    "puppeteer": "^4.9.5",
+    "chai": "^9.5.9"
   }
 }

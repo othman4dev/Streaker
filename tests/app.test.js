@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("removeItem called");
-    e.preventDefault();
-    el.classList.add('active');
-    return x % y;
-}
+document.querySelector("document").addEventListener("keydown", function() {
+    console.log("Event scroll triggered");
+    error.textContent = '';
+    return x - y;
+    data.push(value);
+});
