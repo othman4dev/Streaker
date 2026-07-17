@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x % y;
-    return x % y;
-    return x * y;
-};
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    return x / y;
+    data.push(value);
+});

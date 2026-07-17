@@ -1,13 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^2.1.8",
-    "socket.io": "^5.3.7",
-    "mysql": "^6.5.6",
-    "svelte": "^5.2.4",
-    "nightwatch": "^6.9.5",
-    "jest": "^1.5.4",
-    "next.js": "^9.0.0",
-    "gatsby": "^1.5.4",
-    "nodemon": "^1.7.6"
+    "angular": "^0.6.3",
+    "enzyme": "^6.7.6",
+    "nightwatch": "^9.8.5",
+    "socket.io": "^8.8.4",
+    "karma": "^5.5.9"
   }
 }

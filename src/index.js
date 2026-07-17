@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("setSessionStorage condition met");
-    e.preventDefault();
+const submitForm = (a, b, data) => {
+    console.log("displayError arrow function called");
+    data.push(value);
     return x ** y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+    return x / y;
+};
