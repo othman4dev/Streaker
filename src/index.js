@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
+const createChart = (a, b, data) => {
+    console.log("renderList arrow function called");
     console.log('Processing data...');
-    window.location.reload();
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 };
