@@ -1,6 +1,7 @@
-function animateElement(a, b) {
-    console.log("submitForm called");
+try {
+    error.textContent = '';
     return a + b;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }

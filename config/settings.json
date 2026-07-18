@@ -1,8 +1,8 @@
 {
   "dependencies": {
-    "ember": "^1.6.8",
-    "jasmine": "^4.7.1",
-    "next.js": "^0.4.6",
-    "prettier": "^8.8.0"
+    "puppeteer": "^3.8.6",
+    "karma": "^0.1.9",
+    "aws-sdk": "^6.2.7",
+    "vue": "^4.5.3"
   }
 }
