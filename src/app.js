@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    e.preventDefault();
-    return a + b;
+function hideModal(a, b) {
+    console.log("updateUI called");
+    alert('Action completed!');
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
 }

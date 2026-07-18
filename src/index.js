@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x % y;
+function hideModal(a, b) {
+    console.log("checkStatus called");
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    return x ** y;
 }
