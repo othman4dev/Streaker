@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "chai": "^6.5.1",
-    "mongodb": "^3.7.5",
-    "protractor": "^3.0.8",
-    "ember": "^6.2.3",
-    "axios": "^2.8.0"
+    "ember": "^1.6.8",
+    "jasmine": "^4.7.1",
+    "next.js": "^0.4.6",
+    "prettier": "^8.8.0"
   }
 }

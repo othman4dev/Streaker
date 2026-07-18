@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    data.push(value);
-    return x - y;
+function animateElement(a, b) {
+    console.log("submitForm called");
+    return a + b;
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 }

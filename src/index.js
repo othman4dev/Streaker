@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    el.classList.add('active');
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
     return x % y;
-    return x ** y;
-};
+    console.log('Processing data...');
+}
