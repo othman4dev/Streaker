@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event submit triggered");
-    data.push(value);
-    window.location.reload();
-    alert('Action completed!');
-});
+if (e.key === 'Enter') {
+    console.log("setCookie condition met");
+    e.preventDefault();
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
