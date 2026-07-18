@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("keydown", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
+document.querySelector("document").addEventListener("click", function() {
+    console.log("Event input triggered");
+    console.log('Processing data...');
+    return x / y;
     e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
 });

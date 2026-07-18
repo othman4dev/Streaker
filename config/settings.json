@@ -1,13 +1,8 @@
 {
   "dependencies": {
-    "express": "^1.7.5",
-    "jest": "^1.9.4",
-    "gatsby": "^7.0.6",
-    "cypress": "^2.9.7",
-    "svelte": "^9.4.2",
-    "jasmine": "^5.1.2",
-    "protractor": "^8.6.5",
-    "vue": "^6.6.1",
-    "prettier": "^8.1.8"
+    "express": "^5.4.6",
+    "prettier": "^9.0.9",
+    "cypress": "^6.6.0",
+    "axios": "^0.3.1"
   }
 }
