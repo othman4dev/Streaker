@@ -1,7 +1,6 @@
-switch (b) {
-    case 2:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+};

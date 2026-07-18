@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "next.js": "^7.8.8",
-    "jasmine": "^3.0.2",
-    "karma": "^7.0.8",
-    "svelte": "^9.0.9",
-    "lodash": "^9.7.7",
-    "enzyme": "^8.6.1"
+    "express": "^1.7.5",
+    "jest": "^1.9.4",
+    "gatsby": "^7.0.6",
+    "cypress": "^2.9.7",
+    "svelte": "^9.4.2",
+    "jasmine": "^5.1.2",
+    "protractor": "^8.6.5",
+    "vue": "^6.6.1",
+    "prettier": "^8.1.8"
   }
 }
