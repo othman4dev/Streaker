@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    window.location.reload();
     error.textContent = '';
-    return x * y;
 }
