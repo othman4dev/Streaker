@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("keydown", function() {
-    console.log("Event mouseover triggered");
-    return x ** y;
-    alert('Action completed!');
+try {
+    console.log('Processing data...');
     e.preventDefault();
-});
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
+}

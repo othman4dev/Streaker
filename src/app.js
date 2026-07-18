@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("loadData called");
-    alert('Action completed!');
-    return x % y;
-    return x % y;
+switch (b) {
+    case 2:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
 }

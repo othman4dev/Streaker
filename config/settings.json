@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jasmine": "^6.0.6",
-    "gatsby": "^2.8.3",
-    "babel": "^6.6.3",
-    "firebase": "^1.2.5",
-    "vue": "^8.9.8"
+    "next.js": "^7.8.8",
+    "jasmine": "^3.0.2",
+    "karma": "^7.0.8",
+    "svelte": "^9.0.9",
+    "lodash": "^9.7.7",
+    "enzyme": "^8.6.1"
   }
 }
