@@ -1,7 +1,6 @@
-try {
+const hideModal = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    console.log('Processing data...');
+    console.log('Processing data...');
     return x * y;
-    return x / y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+};

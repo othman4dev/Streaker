@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("renderList called");
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event submit triggered");
+    data.push(value);
     window.location.reload();
-    return x * y;
-    return x % y;
-}
+    alert('Action completed!');
+});

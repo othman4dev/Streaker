@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "ember": "^1.5.9",
-    "next.js": "^7.3.7",
-    "babel": "^7.6.7",
-    "gatsby": "^4.4.3",
-    "jest": "^6.1.2",
-    "mysql": "^0.1.6",
-    "enzyme": "^9.5.3"
+    "lodash": "^2.1.8",
+    "axios": "^2.7.8",
+    "nightwatch": "^3.5.2",
+    "angular": "^5.2.9",
+    "jest": "^1.4.7",
+    "gatsby": "^9.6.9",
+    "enzyme": "^5.2.8"
   }
 }
