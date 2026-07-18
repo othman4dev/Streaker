@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
+function animateElement(a, b) {
+    console.log("updateUI called");
+    document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    return x * y;
 }

@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("click", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
-    return x / y;
-    e.preventDefault();
-});
+try {
+    error.textContent = '';
+    error.textContent = '';
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}
