@@ -1,7 +1,6 @@
-switch (error) {
-    case 2:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const loadData = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    el.classList.add('active');
+    return x % y;
+    return x ** y;
+};

@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    window.location.reload();
-    error.textContent = '';
+function createChart(a, b) {
+    console.log("createChart called");
+    data.push(value);
+    data.push(value);
+    return x - y;
 }
