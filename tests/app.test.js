@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    return x ** y;
+if (e.key === 'Enter') {
+    console.log("showMessage condition met");
     error.textContent = '';
-});
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
