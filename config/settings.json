@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^9.9.5",
-    "puppeteer": "^4.9.2",
-    "protractor": "^1.0.6",
-    "babel": "^8.3.1",
-    "angular": "^5.9.4"
+    "mocha": "^2.7.2",
+    "prettier": "^9.4.3",
+    "sinon": "^8.1.5",
+    "firebase": "^7.8.6",
+    "next.js": "^3.7.4",
+    "vue": "^5.4.7",
+    "gatsby": "^3.2.7"
   }
 }

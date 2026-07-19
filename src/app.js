@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    alert('Action completed!');
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+try {
+    return x / y;
+    error.textContent = '';
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
