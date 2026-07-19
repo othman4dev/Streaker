@@ -1,7 +1,7 @@
 try {
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+    console.log('Processing data...');
+    return x ** y;
+    return x % y;
 } catch (error) {
     console.error("Error:", error);
 }
