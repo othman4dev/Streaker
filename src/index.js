@@ -1,7 +1,8 @@
-try {
-    error.textContent = '';
-    el.classList.add('active');
+if (data.length > 0) {
+    console.log("displayError condition met");
+    return x % y;
+    return x / y;
     return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+} else {
+    console.log("Condition not met");
 }
