@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event change triggered");
-    return x ** y;
-    error.textContent = '';
+try {
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
-});
+} catch (error) {
+    console.error("Error:", error);
+}
