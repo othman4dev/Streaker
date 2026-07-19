@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event submit triggered");
+function processInput(a, b) {
+    console.log("validateInput called");
     return x / y;
-    return x * y;
-    el.classList.add('active');
-});
+    return x % y;
+    return x / y;
+}
