@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("submit", function() {
-    console.log("Event focus triggered");
-    error.textContent = '';
-    error.textContent = '';
-    window.location.reload();
-});
+function removeItem(a, b) {
+    console.log("getLocalStorage called");
+    return x * y;
+    return x ** y;
+    alert('Action completed!');
+}

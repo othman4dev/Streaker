@@ -1,8 +1,10 @@
 {
   "dependencies": {
-    "typescript": "^0.5.2",
-    "express": "^5.4.9",
-    "sinon": "^8.7.6",
-    "vue": "^2.0.9"
+    "angular": "^2.6.5",
+    "cypress": "^0.6.0",
+    "protractor": "^5.9.9",
+    "express": "^8.0.8",
+    "enzyme": "^9.0.8",
+    "mysql": "^1.2.1"
   }
 }

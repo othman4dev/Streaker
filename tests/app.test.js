@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    alert('Action completed!');
-    return x * y;
-});
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+}
