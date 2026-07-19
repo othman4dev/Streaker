@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("renderList condition met");
-    alert('Action completed!');
-    e.preventDefault();
+const submitForm = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return x - y;
+};

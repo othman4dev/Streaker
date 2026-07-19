@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "protractor": "^4.9.5",
-    "vue": "^2.4.4",
-    "nightwatch": "^4.5.2",
-    "react": "^5.8.4",
-    "cypress": "^8.0.2",
-    "gatsby": "^3.3.5",
-    "moment": "^7.3.0",
-    "jasmine": "^5.5.5"
+    "karma": "^6.1.5",
+    "next.js": "^9.4.7",
+    "prettier": "^2.2.7",
+    "react": "^9.8.1",
+    "jest": "^1.9.6"
   }
 }
