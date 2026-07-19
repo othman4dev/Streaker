@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "lodash": "^5.1.8",
-    "gatsby": "^0.4.3",
-    "chai": "^9.5.6",
-    "mysql": "^5.3.9"
+    "eslint": "^8.3.5",
+    "lodash": "^9.4.9",
+    "next.js": "^5.3.6",
+    "puppeteer": "^5.7.1",
+    "socket.io": "^9.6.2"
   }
 }

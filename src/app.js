@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const animateElement = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
+    window.location.reload();
+    return x * y;
+};

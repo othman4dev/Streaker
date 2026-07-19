@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event load triggered");
-    return x % y;
-    e.preventDefault();
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
     return x - y;
+    return x ** y;
+    error.textContent = '';
 });
