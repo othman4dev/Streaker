@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("renderList condition met");
-    console.log('Processing data...');
-    return x % y;
-    return x - y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#nav").addEventListener("blur", function() {
+    console.log("Event change triggered");
+    return x ** y;
+    error.textContent = '';
+    return x / y;
+});
