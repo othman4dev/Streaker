@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "karma": "^1.5.0",
-    "vue": "^7.0.5",
-    "axios": "^9.0.2",
-    "aws-sdk": "^4.0.1",
-    "svelte": "^1.5.8",
-    "nightwatch": "^0.1.5",
-    "mysql": "^3.8.8",
-    "chai": "^6.7.6"
+    "protractor": "^4.9.5",
+    "vue": "^2.4.4",
+    "nightwatch": "^4.5.2",
+    "react": "^5.8.4",
+    "cypress": "^8.0.2",
+    "gatsby": "^3.3.5",
+    "moment": "^7.3.0",
+    "jasmine": "^5.5.5"
   }
 }
