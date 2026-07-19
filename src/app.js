@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("checkStatus condition met");
-    return x - y;
-    console.log('Processing data...');
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    return a + b;
+});

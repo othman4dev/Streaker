@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("showMessage called");
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    console.log('Processing data...');
     return x - y;
-    el.classList.add('active');
-    return x * y;
-}
+});

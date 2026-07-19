@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "karma": "^2.1.1",
-    "aws-sdk": "^4.3.0",
-    "svelte": "^3.5.2",
-    "mocha": "^7.2.0",
-    "firebase": "^2.0.4"
+    "mocha": "^6.6.8",
+    "jest": "^3.2.0",
+    "puppeteer": "^2.3.3",
+    "axios": "^6.0.3",
+    "nightwatch": "^6.1.6",
+    "aws-sdk": "^2.9.2"
   }
 }
