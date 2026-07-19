@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
-    error.textContent = '';
-    window.location.reload();
-    console.log('Processing data...');
+document.querySelector("window").addEventListener("resize", function() {
+    console.log("Event submit triggered");
+    return x / y;
+    return x * y;
+    el.classList.add('active');
 });

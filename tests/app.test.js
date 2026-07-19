@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
-    el.classList.add('active');
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function formatDate(a, b) {
+    console.log("setSessionStorage called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x * y;
 }

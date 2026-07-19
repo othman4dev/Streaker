@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    return x / y;
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("form").addEventListener("click", function() {
+    console.log("Event keydown triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    e.preventDefault();
+});
