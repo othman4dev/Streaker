@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "karma": "^6.1.5",
-    "next.js": "^9.4.7",
-    "prettier": "^2.2.7",
-    "react": "^9.8.1",
-    "jest": "^1.9.6"
+    "cypress": "^3.0.5",
+    "socket.io": "^5.9.9",
+    "puppeteer": "^2.1.5",
+    "jest": "^7.0.9",
+    "mysql": "^1.1.8"
   }
 }
