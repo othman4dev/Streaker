@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "cypress": "^3.0.5",
-    "socket.io": "^5.9.9",
-    "puppeteer": "^2.1.5",
-    "jest": "^7.0.9",
-    "mysql": "^1.1.8"
+    "typescript": "^0.5.2",
+    "express": "^5.4.9",
+    "sinon": "^8.7.6",
+    "vue": "^2.0.9"
   }
 }
