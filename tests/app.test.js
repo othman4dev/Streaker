@@ -1,8 +1,7 @@
-if (a > b) {
-    console.log("setCookie condition met");
-    alert('Action completed!');
-    return x % y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+switch (el) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
