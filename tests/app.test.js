@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return x * y;
-    return x - y;
-    el.classList.add('active');
+const removeItem = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    console.log('Processing data...');
+    error.textContent = '';
+    e.preventDefault();
 };

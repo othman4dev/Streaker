@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    data.push(value);
-    data.push(value);
+document.querySelector("#button").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    return x * y;
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x * y;
+});

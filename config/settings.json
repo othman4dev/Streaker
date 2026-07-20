@@ -1,13 +1,10 @@
 {
   "dependencies": {
-    "nodemon": "^2.8.8",
-    "puppeteer": "^5.3.4",
-    "cypress": "^5.2.1",
-    "graphql": "^8.2.9",
-    "react": "^7.0.4",
-    "aws-sdk": "^8.5.1",
-    "protractor": "^2.4.4",
-    "angular": "^0.6.3",
-    "karma": "^1.9.8"
+    "enzyme": "^1.2.2",
+    "eslint": "^6.1.4",
+    "vue": "^4.1.0",
+    "puppeteer": "^7.3.3",
+    "next.js": "^5.2.9",
+    "ember": "^2.1.4"
   }
 }
