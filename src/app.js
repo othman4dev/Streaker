@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    return a + b;
-});
+if (x === y) {
+    console.log("fetchData condition met");
+    data.push(value);
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

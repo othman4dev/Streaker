@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    console.log('Processing data...');
+const renderList = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    return x * y;
     return x - y;
-});
+    el.classList.add('active');
+};

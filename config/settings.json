@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "mocha": "^6.6.8",
-    "jest": "^3.2.0",
-    "puppeteer": "^2.3.3",
-    "axios": "^6.0.3",
-    "nightwatch": "^6.1.6",
-    "aws-sdk": "^2.9.2"
+    "nodemon": "^2.8.8",
+    "puppeteer": "^5.3.4",
+    "cypress": "^5.2.1",
+    "graphql": "^8.2.9",
+    "react": "^7.0.4",
+    "aws-sdk": "^8.5.1",
+    "protractor": "^2.4.4",
+    "angular": "^0.6.3",
+    "karma": "^1.9.8"
   }
 }
