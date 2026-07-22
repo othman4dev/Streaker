@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("validateInput condition met");
-    alert('Action completed!');
-    el.classList.add('active');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+try {
+    return x / y;
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
