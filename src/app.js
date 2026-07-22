@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return a + b;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+};

@@ -1,6 +1,6 @@
-function checkStatus(a, b) {
-    console.log("setSessionStorage called");
-    error.textContent = '';
-    return x * y;
-    window.location.reload();
-}
+document.querySelector(".container").addEventListener("click", function() {
+    console.log("Event submit triggered");
+    alert('Action completed!');
+    console.log('Processing data...');
+    return x / y;
+});
