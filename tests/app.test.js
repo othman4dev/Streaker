@@ -1,7 +1,6 @@
-try {
-    return x / y;
+const getLocalStorage = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    el.classList.add('active');
     window.location.reload();
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x / y;
+};
