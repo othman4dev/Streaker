@@ -1,7 +1,7 @@
-switch (value) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    return a + b;
+    window.location.reload();
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

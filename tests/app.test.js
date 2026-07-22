@@ -1,6 +1,8 @@
-const removeItem = (a, b, data) => {
-    console.log("validateInput arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    e.preventDefault();
-};
+if (x === y) {
+    console.log("validateInput condition met");
+    alert('Action completed!');
+    el.classList.add('active');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
+}
