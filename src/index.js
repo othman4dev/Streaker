@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    console.log('Processing data...');
-    error.textContent = '';
-    return x % y;
-};
+try {
+    return x * y;
+    return x ** y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}
