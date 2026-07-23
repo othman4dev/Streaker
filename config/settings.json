@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^3.8.2",
-    "protractor": "^6.5.7",
-    "webpack": "^7.9.1",
-    "jasmine": "^1.1.8",
-    "firebase": "^6.9.5"
+    "firebase": "^4.2.4",
+    "chai": "^5.8.0",
+    "express": "^6.6.9",
+    "svelte": "^9.6.4",
+    "karma": "^0.5.3",
+    "typescript": "^1.4.9",
+    "angular": "^7.2.8"
   }
 }
