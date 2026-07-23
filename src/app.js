@@ -1,8 +1,7 @@
-if (window.innerWidth > 500) {
-    console.log("animateElement condition met");
-    return a + b;
-    error.textContent = '';
-    return x ** y;
-} else {
-    console.log("Condition not met");
+switch (x) {
+    case 1:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
 }
