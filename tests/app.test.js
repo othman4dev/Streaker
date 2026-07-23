@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
     el.classList.add('active');
-    console.log('Processing data...');
-}
+    return x / y;
+    return x % y;
+});

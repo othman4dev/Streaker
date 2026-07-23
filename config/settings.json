@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^3.8.5",
-    "moment": "^4.2.9",
-    "puppeteer": "^1.5.5",
-    "angular": "^3.7.3",
-    "chai": "^8.7.0",
-    "nightwatch": "^1.4.8"
+    "webpack": "^7.5.5",
+    "karma": "^5.2.1",
+    "sinon": "^9.6.3",
+    "eslint": "^7.4.4",
+    "express": "^6.2.7"
   }
 }
