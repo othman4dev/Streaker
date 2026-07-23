@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "nightwatch": "^2.6.3",
-    "protractor": "^0.6.9",
-    "prettier": "^0.6.1",
-    "karma": "^9.7.5",
-    "express": "^3.1.4",
-    "eslint": "^5.7.5",
-    "webpack": "^3.0.9"
+    "webpack": "^0.1.5",
+    "prettier": "^0.6.0",
+    "vue": "^8.0.7",
+    "puppeteer": "^7.2.1"
   }
 }

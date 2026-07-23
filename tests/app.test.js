@@ -1,7 +1,8 @@
-switch (error) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }
