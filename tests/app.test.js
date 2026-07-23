@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    window.location.reload();
+    return x * y;
+});

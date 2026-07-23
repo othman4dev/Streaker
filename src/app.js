@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("toggleMenu condition met");
-    return a + b;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function checkStatus(a, b) {
+    console.log("submitForm called");
+    window.location.reload();
+    return x / y;
+    return x % y;
 }
