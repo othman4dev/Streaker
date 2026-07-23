@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    alert('Action completed!');
-    return a + b;
+function checkStatus(a, b) {
+    console.log("setSessionStorage called");
     error.textContent = '';
+    return x * y;
+    window.location.reload();
 }

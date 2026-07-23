@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^3.9.8",
-    "mysql": "^2.9.1",
-    "typescript": "^8.3.6",
-    "react": "^1.5.9",
-    "protractor": "^4.9.7",
-    "moment": "^7.5.5",
-    "ember": "^5.4.0"
+    "moment": "^3.2.7",
+    "jasmine": "^4.7.4",
+    "enzyme": "^6.2.2",
+    "react": "^0.8.2",
+    "mocha": "^5.5.4",
+    "karma": "^3.7.2"
   }
 }
