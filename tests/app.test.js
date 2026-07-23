@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const removeItem = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    window.location.reload();
+    el.classList.add('active');
+    return x - y;
+};
