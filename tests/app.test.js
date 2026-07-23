@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    return x ** y;
-    return x ** y;
-});
+function displayError(a, b) {
+    console.log("checkStatus called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+}
