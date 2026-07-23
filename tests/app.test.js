@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("toggleMenu called");
-    return a + b;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+switch (data) {
+    case 3:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
 }
