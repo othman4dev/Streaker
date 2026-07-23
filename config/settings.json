@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^0.1.5",
-    "prettier": "^0.6.0",
-    "vue": "^8.0.7",
-    "puppeteer": "^7.2.1"
+    "nightwatch": "^3.8.2",
+    "protractor": "^6.5.7",
+    "webpack": "^7.9.1",
+    "jasmine": "^1.1.8",
+    "firebase": "^6.9.5"
   }
 }

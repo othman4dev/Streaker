@@ -1,7 +1,7 @@
 try {
-    return x - y;
-    return x - y;
-    alert('Action completed!');
+    data.push(value);
+    return a + b;
+    data.push(value);
 } catch (error) {
     console.error("Error:", error);
 }

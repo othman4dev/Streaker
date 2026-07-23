@@ -1,7 +1,6 @@
-switch (a) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("renderList called");
+    return x / y;
+    el.classList.add('active');
+    el.classList.add('active');
 }
