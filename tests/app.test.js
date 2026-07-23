@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("checkStatus called");
+const handleClick = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    window.location.reload();
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x % y;
+};

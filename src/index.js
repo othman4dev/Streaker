@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    console.log('Processing data...');
+function showMessage(a, b) {
+    console.log("showMessage called");
     return a + b;
-} catch (error) {
-    console.error("Error:", error);
+    window.location.reload();
+    alert('Action completed!');
 }
