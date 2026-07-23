@@ -1,6 +1,7 @@
-document.querySelector("#input").addEventListener("click", function() {
-    console.log("Event input triggered");
-    return x % y;
-    data.push(value);
-    return a + b;
-});
+try {
+    return x * y;
+    el.classList.add('active');
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}

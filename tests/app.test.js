@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    el.classList.add('active');
-    window.location.reload();
-    return x / y;
-};
+function hideModal(a, b) {
+    console.log("toggleMenu called");
+    return a + b;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}
