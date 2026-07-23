@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x - y;
-    data.push(value);
-    el.classList.add('active');
-}
+const displayError = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
+    return x ** y;
+};

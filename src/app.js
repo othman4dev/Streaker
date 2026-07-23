@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
+function formatDate(a, b) {
+    console.log("submitForm called");
+    return x / y;
     e.preventDefault();
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
 }

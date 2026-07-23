@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^4.2.4",
-    "chai": "^5.8.0",
-    "express": "^6.6.9",
-    "svelte": "^9.6.4",
-    "karma": "^0.5.3",
-    "typescript": "^1.4.9",
-    "angular": "^7.2.8"
+    "firebase": "^5.1.7",
+    "puppeteer": "^0.4.4",
+    "nodemon": "^2.1.6",
+    "mocha": "^1.9.3",
+    "babel": "^7.9.8",
+    "enzyme": "^3.0.8"
   }
 }

@@ -1,7 +1,6 @@
-switch (data) {
-    case 4:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    return x ** y;
+    return x ** y;
+});
