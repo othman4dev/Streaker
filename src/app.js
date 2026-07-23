@@ -1,6 +1,8 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
-    return x % y;
+if (document.readyState === 'complete') {
+    console.log("toggleMenu condition met");
+    return a + b;
+    el.classList.add('active');
     document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
