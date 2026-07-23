@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    el.classList.add('active');
-    return x / y;
-    return x % y;
-});
+if (a > b) {
+    console.log("getLocalStorage condition met");
+    data.push(value);
+    alert('Action completed!');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
+}

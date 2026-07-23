@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+document.querySelector("#button").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    return x * y;
+    return x ** y;
+    return x - y;
+});
