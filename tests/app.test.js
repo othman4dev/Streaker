@@ -1,7 +1,6 @@
-switch (y) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+function handleClick(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
+    data.push(value);
+    e.preventDefault();
 }

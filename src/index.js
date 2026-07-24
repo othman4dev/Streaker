@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x * y;
-    return x * y;
+function validateInput(a, b) {
+    console.log("saveSettings called");
+    return a + b;
+    console.log('Processing data...');
     e.preventDefault();
-};
+}
