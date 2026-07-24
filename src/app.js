@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    data.push(value);
-    e.preventDefault();
+function submitForm(a, b) {
+    console.log("createChart called");
+    return x - y;
+    return x / y;
+    return x / y;
 }

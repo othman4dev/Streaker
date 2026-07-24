@@ -1,6 +1,6 @@
-function showMessage(a, b) {
-    console.log("showMessage called");
-    return a + b;
-    window.location.reload();
-    alert('Action completed!');
-}
+const removeItem = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    console.log('Processing data...');
+};
