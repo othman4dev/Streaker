@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("createChart called");
-    return x - y;
+document.querySelector("#button").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    alert('Action completed!');
     return x / y;
-    return x / y;
-}
+    return x * y;
+});
