@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^3.1.7",
-    "svelte": "^6.2.0",
-    "mocha": "^4.4.7",
-    "eslint": "^9.7.3",
-    "jest": "^9.3.0",
-    "graphql": "^5.5.7",
-    "jasmine": "^7.1.2"
+    "jest": "^1.6.8",
+    "sinon": "^7.9.8",
+    "nightwatch": "^3.8.2",
+    "chai": "^3.6.6",
+    "nodemon": "^6.3.0",
+    "firebase": "^9.9.9"
   }
 }
