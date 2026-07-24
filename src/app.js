@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-});
+try {
+    error.textContent = '';
+    return x - y;
+    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
+}

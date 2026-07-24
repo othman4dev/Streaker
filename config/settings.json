@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^0.2.8",
-    "typescript": "^7.0.4",
-    "enzyme": "^6.2.7",
-    "firebase": "^5.2.9",
-    "jest": "^8.5.1",
-    "cypress": "^1.6.7",
-    "gatsby": "^6.4.5",
-    "vue": "^6.3.4"
+    "webpack": "^3.1.7",
+    "svelte": "^6.2.0",
+    "mocha": "^4.4.7",
+    "eslint": "^9.7.3",
+    "jest": "^9.3.0",
+    "graphql": "^5.5.7",
+    "jasmine": "^7.1.2"
   }
 }

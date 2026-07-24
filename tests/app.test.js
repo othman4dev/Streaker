@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    data.push(value);
+const formatDate = (a, b, data) => {
+    console.log("displayError arrow function called");
+    error.textContent = '';
+    console.log('Processing data...');
     e.preventDefault();
-}
+};
