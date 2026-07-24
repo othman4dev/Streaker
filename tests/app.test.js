@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("removeItem called");
+const renderList = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
     return x ** y;
-    return x / y;
-    data.push(value);
-}
+    return x * y;
+};

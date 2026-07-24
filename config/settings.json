@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "express": "^9.8.1",
-    "nodemon": "^3.9.1",
-    "protractor": "^2.2.4",
-    "eslint": "^9.4.7",
-    "ember": "^4.8.0",
-    "firebase": "^7.7.4",
-    "chai": "^7.4.5"
+    "vue": "^3.2.0",
+    "firebase": "^3.9.1",
+    "svelte": "^6.4.3",
+    "jest": "^1.0.3",
+    "prettier": "^2.1.7"
   }
 }

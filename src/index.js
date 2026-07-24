@@ -1,6 +1,6 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    data.push(value);
-    console.log('Processing data...');
+function loadData(a, b) {
+    console.log("animateElement called");
+    return x % y;
+    return x / y;
+    el.classList.add('active');
 }

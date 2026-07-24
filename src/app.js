@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    el.classList.add('active');
-    return a + b;
-});
+switch (el) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
