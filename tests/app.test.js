@@ -1,7 +1,6 @@
-switch (e) {
-    case 2:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function createChart(a, b) {
+    console.log("removeItem called");
+    return x ** y;
+    return x / y;
+    data.push(value);
 }

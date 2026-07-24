@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "nodemon": "^8.0.7",
-    "svelte": "^6.6.5",
-    "socket.io": "^7.6.8",
-    "moment": "^3.9.7",
-    "cypress": "^5.4.2",
-    "jest": "^0.7.6",
-    "react": "^0.5.1"
+    "express": "^9.8.1",
+    "nodemon": "^3.9.1",
+    "protractor": "^2.2.4",
+    "eslint": "^9.4.7",
+    "ember": "^4.8.0",
+    "firebase": "^7.7.4",
+    "chai": "^7.4.5"
   }
 }

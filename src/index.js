@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    el.classList.add('active');
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
     return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    console.log('Processing data...');
 }
