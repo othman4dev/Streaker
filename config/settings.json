@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "vue": "^3.2.0",
-    "firebase": "^3.9.1",
-    "svelte": "^6.4.3",
-    "jest": "^1.0.3",
-    "prettier": "^2.1.7"
+    "socket.io": "^1.7.3",
+    "aws-sdk": "^9.9.1",
+    "puppeteer": "^8.2.1",
+    "lodash": "^7.8.4",
+    "mongodb": "^5.4.4",
+    "protractor": "^4.5.2"
   }
 }
