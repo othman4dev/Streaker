@@ -1,6 +1,7 @@
-function hideModal(a, b) {
-    console.log("showMessage called");
-    return x ** y;
-    alert('Action completed!');
+try {
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
