@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "moment": "^0.6.6",
-    "aws-sdk": "^9.3.7",
-    "jest": "^4.8.9",
-    "next.js": "^1.0.0",
-    "redis": "^4.8.0",
-    "axios": "^1.0.6",
-    "typescript": "^8.8.6",
-    "chai": "^0.5.3"
+    "mysql": "^7.3.0",
+    "react": "^0.3.1",
+    "babel": "^9.8.5",
+    "next.js": "^0.3.1",
+    "cypress": "^4.8.4",
+    "redis": "^6.7.1",
+    "eslint": "^2.6.5",
+    "moment": "^9.8.4"
   }
 }

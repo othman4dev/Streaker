@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#input").addEventListener("resize", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
     return a + b;
+    return x ** y;
 });
