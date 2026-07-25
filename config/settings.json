@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "react": "^6.4.6",
-    "webpack": "^3.3.6",
-    "typescript": "^1.8.4",
-    "aws-sdk": "^1.8.2",
-    "puppeteer": "^8.2.0"
+    "next.js": "^4.6.7",
+    "redis": "^5.6.9",
+    "mongodb": "^3.6.6",
+    "lodash": "^8.9.9",
+    "babel": "^5.7.9",
+    "firebase": "^3.6.8"
   }
 }
