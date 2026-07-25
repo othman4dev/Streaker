@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    return a + b;
-    window.location.reload();
-}
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event resize triggered");
+    return x / y;
+    return x - y;
+    alert('Action completed!');
+});

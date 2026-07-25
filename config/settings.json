@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^3.5.2",
-    "enzyme": "^9.2.0",
-    "prettier": "^2.3.1",
-    "socket.io": "^5.7.1",
-    "babel": "^8.9.6",
-    "puppeteer": "^7.0.2",
-    "webpack": "^2.2.3"
+    "aws-sdk": "^2.5.3",
+    "typescript": "^2.9.0",
+    "mysql": "^4.6.2",
+    "babel": "^5.3.6",
+    "jasmine": "^7.3.2",
+    "socket.io": "^4.0.3"
   }
 }
