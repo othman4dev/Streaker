@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    window.location.reload();
-    data.push(value);
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
     error.textContent = '';
-};
+    return x ** y;
+}

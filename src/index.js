@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    return a + b;
-    return x / y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("showMessage called");
+    return x ** y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 }
