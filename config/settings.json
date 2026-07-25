@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.5.3",
-    "typescript": "^2.9.0",
-    "mysql": "^4.6.2",
-    "babel": "^5.3.6",
-    "jasmine": "^7.3.2",
-    "socket.io": "^4.0.3"
+    "jest": "^6.1.5",
+    "firebase": "^2.0.2",
+    "chai": "^7.0.2",
+    "angular": "^9.7.3",
+    "gatsby": "^7.1.8",
+    "vue": "^1.7.2",
+    "typescript": "^6.9.6",
+    "cypress": "^6.8.3"
   }
 }

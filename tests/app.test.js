@@ -1,7 +1,6 @@
-try {
-    return a + b;
-    return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const formatDate = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    data.push(value);
+};
