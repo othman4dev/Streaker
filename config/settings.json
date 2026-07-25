@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^5.4.5",
-    "moment": "^2.0.6",
-    "jest": "^8.6.3",
-    "chai": "^6.8.0",
-    "aws-sdk": "^8.5.5",
-    "puppeteer": "^2.0.3"
+    "axios": "^6.8.0",
+    "chai": "^4.6.2",
+    "typescript": "^6.8.3",
+    "eslint": "^8.5.9",
+    "puppeteer": "^2.5.2",
+    "graphql": "^1.7.7",
+    "moment": "^3.4.6",
+    "cypress": "^1.1.6"
   }
 }
