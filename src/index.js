@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("displayError called");
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event change triggered");
     data.push(value);
-    return x ** y;
-    error.textContent = '';
-}
+    el.classList.add('active');
+    return a + b;
+});

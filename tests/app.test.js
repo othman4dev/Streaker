@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    el.classList.add('active');
+const checkStatus = (a, b, data) => {
+    console.log("createChart arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
 };
