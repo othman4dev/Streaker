@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event submit triggered");
-    e.preventDefault();
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+try {
+    return x * y;
+    return a + b;
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}
