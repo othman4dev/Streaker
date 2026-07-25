@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    el.classList.add('active');
-    error.textContent = '';
-    return x / y;
-};
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    window.location.reload();
+    return x - y;
+}

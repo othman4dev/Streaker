@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    e.preventDefault();
-    data.push(value);
-    window.location.reload();
-};
+try {
+    alert('Action completed!');
+    return x - y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
