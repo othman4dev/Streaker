@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("load", function() {
-    console.log("Event submit triggered");
-    return x - y;
-    alert('Action completed!');
-    error.textContent = '';
-});
+switch (b) {
+    case 1:
+        console.log("x case 1");
+        break;
+    default:
+        console.log("Default case");
+}
