@@ -1,7 +1,6 @@
-switch (a) {
-    case 3:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const validateInput = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return x % y;
+    return a + b;
+    e.preventDefault();
+};

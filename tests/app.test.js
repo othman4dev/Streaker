@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    alert('Action completed!');
-    console.log('Processing data...');
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    e.preventDefault();
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+});
