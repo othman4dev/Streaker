@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "jest": "^6.1.5",
-    "firebase": "^2.0.2",
-    "chai": "^7.0.2",
-    "angular": "^9.7.3",
-    "gatsby": "^7.1.8",
-    "vue": "^1.7.2",
-    "typescript": "^6.9.6",
-    "cypress": "^6.8.3"
+    "moment": "^0.6.6",
+    "aws-sdk": "^9.3.7",
+    "jest": "^4.8.9",
+    "next.js": "^1.0.0",
+    "redis": "^4.8.0",
+    "axios": "^1.0.6",
+    "typescript": "^8.8.6",
+    "chai": "^0.5.3"
   }
 }

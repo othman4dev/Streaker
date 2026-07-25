@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    data.push(value);
-};
+document.querySelector("#button").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+});
