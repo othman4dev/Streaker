@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    data.push(value);
-    return a + b;
-    return x ** y;
-});
+const submitForm = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    el.classList.add('active');
+    error.textContent = '';
+    return x / y;
+};

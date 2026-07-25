@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    alert('Action completed!');
+if (a > b) {
+    console.log("hideModal condition met");
     return x - y;
-    e.preventDefault();
+    return x / y;
+    return x * y;
 } else {
     console.log("Condition not met");
 }
