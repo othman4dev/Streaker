@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("showMessage called");
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-}
+document.querySelector("#nav").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    return x * y;
+    return x % y;
+    data.push(value);
+});

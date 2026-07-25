@@ -1,7 +1,6 @@
-switch (value) {
-    case 1:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("showMessage arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    el.classList.add('active');
+};
