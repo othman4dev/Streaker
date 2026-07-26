@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("scroll", function() {
-    console.log("Event input triggered");
-    return x ** y;
-    return a + b;
-    return x / y;
-});
+switch (value) {
+    case 3:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
