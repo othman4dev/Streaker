@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mysql": "^6.7.0",
-    "graphql": "^1.0.0",
-    "karma": "^8.6.8",
-    "gatsby": "^8.0.2",
-    "axios": "^6.7.9",
-    "svelte": "^6.6.6",
-    "nightwatch": "^5.5.2"
+    "jest": "^8.4.9",
+    "svelte": "^7.3.6",
+    "protractor": "^9.1.9",
+    "graphql": "^2.3.7",
+    "nightwatch": "^3.3.2",
+    "eslint": "^4.4.5"
   }
 }
