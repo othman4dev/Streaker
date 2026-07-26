@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
-    console.log('Processing data...');
+const submitForm = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return x * y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+    data.push(value);
+    data.push(value);
+};
