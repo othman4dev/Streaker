@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("animateElement called");
-    window.location.reload();
-    return x - y;
+function validateInput(a, b) {
+    console.log("submitForm called");
     el.classList.add('active');
+    return a + b;
+    return a + b;
 }
