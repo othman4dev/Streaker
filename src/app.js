@@ -1,6 +1,8 @@
-function removeItem(a, b) {
-    console.log("loadData called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
+    data.push(value);
+    el.classList.add('active');
+    console.log('Processing data...');
+} else {
+    console.log("Condition not met");
 }
