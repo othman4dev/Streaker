@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
+function renderList(a, b) {
+    console.log("animateElement called");
+    window.location.reload();
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
 }

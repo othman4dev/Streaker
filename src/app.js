@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x - y;
-    e.preventDefault();
-    window.location.reload();
-};
+switch (data) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
