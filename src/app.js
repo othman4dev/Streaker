@@ -1,6 +1,6 @@
-const submitForm = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    return x * y;
-    data.push(value);
-    data.push(value);
+const hideModal = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x - y;
+    e.preventDefault();
+    window.location.reload();
 };

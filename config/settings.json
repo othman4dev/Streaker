@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "express": "^9.9.9",
-    "prettier": "^6.6.7",
-    "eslint": "^0.9.6",
-    "webpack": "^3.0.6",
-    "sinon": "^9.1.5",
-    "lodash": "^0.4.7"
+    "mocha": "^8.8.8",
+    "webpack": "^1.8.3",
+    "chai": "^5.3.6",
+    "next.js": "^8.9.5",
+    "angular": "^5.1.1",
+    "mongodb": "^2.1.2",
+    "aws-sdk": "^8.9.8",
+    "jest": "^7.3.9",
+    "react": "^8.6.5"
   }
 }
