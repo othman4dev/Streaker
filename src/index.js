@@ -1,6 +1,6 @@
-for (let i = 0; i < 7; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
-    return x / y;
-    el.classList.add('active');
-}
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    return a + b;
+    data.push(value);
+});
