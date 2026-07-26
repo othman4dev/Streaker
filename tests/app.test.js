@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return a + b;
-    e.preventDefault();
-}
+document.querySelector("form").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
+    return x % y;
+    return x ** y;
+});
