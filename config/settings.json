@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^4.1.9",
-    "nodemon": "^8.3.2",
-    "angular": "^1.5.5",
-    "react": "^2.6.3"
+    "socket.io": "^1.5.0",
+    "nodemon": "^6.7.4",
+    "karma": "^4.4.5",
+    "cypress": "^1.1.7",
+    "axios": "^3.3.8"
   }
 }

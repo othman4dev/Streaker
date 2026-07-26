@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
     return x * y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
+    el.classList.add('active');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
