@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    return x % y;
+    console.log('Processing data...');
+    return x - y;
+});

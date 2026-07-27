@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "moment": "^6.4.2",
-    "jest": "^0.9.3",
-    "socket.io": "^7.4.6",
-    "axios": "^0.0.3"
+    "socket.io": "^1.7.7",
+    "svelte": "^5.9.9",
+    "ember": "^6.4.6",
+    "jest": "^1.2.0",
+    "next.js": "^4.3.1",
+    "mongodb": "^1.0.1",
+    "aws-sdk": "^6.5.1",
+    "eslint": "^7.1.2"
   }
 }
