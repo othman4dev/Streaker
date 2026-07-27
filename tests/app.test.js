@@ -1,6 +1,7 @@
-const createChart = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x / y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (value) {
+    case 5:
+        console.log("el case 1");
+        break;
+    default:
+        console.log("Default case");
+}

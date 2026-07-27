@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    return x - y;
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
     document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+    return x ** y;
+    return x * y;
+} else {
+    console.log("Condition not met");
 }
