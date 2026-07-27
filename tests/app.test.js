@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector(".footer").addEventListener("scroll", function() {
+    console.log("Event scroll triggered");
     return x % y;
-    data.push(value);
-}
+    el.classList.add('active');
+    el.classList.add('active');
+});

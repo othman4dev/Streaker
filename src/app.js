@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    error.textContent = '';
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+function removeItem(a, b) {
+    console.log("setSessionStorage called");
+    data.push(value);
+    return a + b;
+    return a + b;
 }
