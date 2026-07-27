@@ -1,11 +1,8 @@
 {
   "dependencies": {
-    "nodemon": "^0.0.6",
-    "puppeteer": "^6.9.1",
-    "vue": "^8.4.3",
-    "socket.io": "^2.9.4",
-    "gatsby": "^6.7.9",
-    "mocha": "^3.5.4",
-    "aws-sdk": "^1.2.2"
+    "jasmine": "^4.1.9",
+    "nodemon": "^8.3.2",
+    "angular": "^1.5.5",
+    "react": "^2.6.3"
   }
 }

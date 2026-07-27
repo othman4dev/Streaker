@@ -1,8 +1,7 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    error.textContent = '';
-    window.location.reload();
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
+try {
+    console.log('Processing data...');
+    alert('Action completed!');
+    console.log('Processing data...');
+} catch (error) {
+    console.error("Error:", error);
 }
