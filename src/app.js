@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("setSessionStorage called");
-    data.push(value);
-    return a + b;
-    return a + b;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }

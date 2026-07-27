@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event scroll triggered");
-    return x % y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    window.location.reload();
+    return a + b;
+    window.location.reload();
+}
