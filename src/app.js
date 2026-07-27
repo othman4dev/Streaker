@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("keydown", function() {
-    console.log("Event submit triggered");
-    return x ** y;
-    alert('Action completed!');
+const checkStatus = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    e.preventDefault();
+    data.push(value);
     error.textContent = '';
-});
+};

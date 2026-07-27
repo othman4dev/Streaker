@@ -1,7 +1,8 @@
-try {
-    window.location.reload();
+if (a > b) {
+    console.log("validateInput condition met");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
 }
