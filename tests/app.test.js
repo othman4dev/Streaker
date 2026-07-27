@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("loadData condition met");
-    el.classList.add('active');
-    return x * y;
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+const createChart = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    return x / y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+};

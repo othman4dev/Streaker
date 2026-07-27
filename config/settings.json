@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "redis": "^6.2.4",
-    "prettier": "^3.2.9",
-    "express": "^9.1.9",
-    "nightwatch": "^8.8.6",
-    "axios": "^1.6.6",
-    "moment": "^5.6.2"
+    "angular": "^9.4.9",
+    "karma": "^2.9.1",
+    "firebase": "^2.3.7",
+    "nightwatch": "^7.4.7",
+    "enzyme": "^9.2.6"
   }
 }
