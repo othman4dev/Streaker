@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event mouseover triggered");
+if (x === y) {
+    console.log("handleClick condition met");
     window.location.reload();
-    el.classList.add('active');
+    console.log('Processing data...');
     e.preventDefault();
-});
+} else {
+    console.log("Condition not met");
+}
