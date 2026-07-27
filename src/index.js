@@ -1,6 +1,7 @@
-document.querySelector(".container").addEventListener("mouseout", function() {
-    console.log("Event focus triggered");
-    return x - y;
-    data.push(value);
-    error.textContent = '';
-});
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
