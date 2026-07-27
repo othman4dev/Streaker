@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("submitForm condition met");
-    return x - y;
-    e.preventDefault();
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function handleClick(a, b) {
+    console.log("checkStatus called");
+    return x ** y;
+    return x % y;
+    return a + b;
 }

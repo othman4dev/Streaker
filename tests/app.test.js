@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("submitForm called");
+    console.log('Processing data...');
+    return x - y;
+    return x ** y;
 }

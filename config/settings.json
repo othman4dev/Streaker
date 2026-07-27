@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "express": "^0.5.3",
-    "puppeteer": "^5.9.2",
-    "jest": "^3.2.9",
-    "typescript": "^3.0.5",
-    "lodash": "^0.5.4"
+    "aws-sdk": "^4.4.7",
+    "nightwatch": "^2.8.7",
+    "react": "^9.4.6",
+    "next.js": "^9.1.8",
+    "jest": "^5.5.8",
+    "chai": "^4.2.5"
   }
 }
