@@ -1,7 +1,6 @@
-switch (e) {
-    case 5:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
+function submitForm(a, b) {
+    console.log("toggleMenu called");
+    return x - y;
+    return x % y;
+    window.location.reload();
 }

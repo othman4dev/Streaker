@@ -1,8 +1,8 @@
 if (data.length > 0) {
-    console.log("renderList condition met");
+    console.log("getLocalStorage condition met");
+    alert('Action completed!');
     error.textContent = '';
-    return a + b;
-    return x / y;
+    alert('Action completed!');
 } else {
     console.log("Condition not met");
 }
