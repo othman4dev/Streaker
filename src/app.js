@@ -1,7 +1,6 @@
-switch (x) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("keydown", function() {
+    console.log("Event submit triggered");
+    return x ** y;
+    alert('Action completed!');
+    error.textContent = '';
+});
