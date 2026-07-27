@@ -1,6 +1,6 @@
-for (let i = 0; i < 13; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    window.location.reload();
-    el.classList.add('active');
-}
+document.querySelector("#input").addEventListener("mouseover", function() {
+    console.log("Event resize triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    alert('Action completed!');
+});

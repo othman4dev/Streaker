@@ -1,8 +1,8 @@
 if (a > b) {
-    console.log("saveSettings condition met");
+    console.log("fetchData condition met");
     alert('Action completed!');
-    error.textContent = '';
-    return x / y;
+    console.log('Processing data...');
+    return x * y;
 } else {
     console.log("Condition not met");
 }

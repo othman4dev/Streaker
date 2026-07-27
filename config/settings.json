@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "axios": "^0.6.7",
-    "graphql": "^7.7.8",
-    "babel": "^0.0.5",
-    "jest": "^5.0.4",
-    "gatsby": "^2.9.8",
-    "svelte": "^5.5.3"
+    "nodemon": "^0.0.6",
+    "puppeteer": "^6.9.1",
+    "vue": "^8.4.3",
+    "socket.io": "^2.9.4",
+    "gatsby": "^6.7.9",
+    "mocha": "^3.5.4",
+    "aws-sdk": "^1.2.2"
   }
 }

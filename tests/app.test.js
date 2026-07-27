@@ -1,8 +1,8 @@
-if (value !== '') {
-    console.log("submitForm condition met");
-    el.classList.add('active');
-    e.preventDefault();
+if (x !== y) {
+    console.log("handleClick condition met");
+    error.textContent = '';
     window.location.reload();
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
