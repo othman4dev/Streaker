@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("validateInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    error.textContent = '';
+if (x === y) {
+    console.log("fetchData condition met");
+    el.classList.add('active');
+    window.location.reload();
+    window.location.reload();
 } else {
     console.log("Condition not met");
 }

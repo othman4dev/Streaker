@@ -1,6 +1,6 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+const loadData = (a, b, data) => {
+    console.log("animateElement arrow function called");
     el.classList.add('active');
-    return a + b;
-}
+    return x ** y;
+    console.log('Processing data...');
+};

@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
+    el.classList.add('active');
     e.preventDefault();
-    data.push(value);
-    error.textContent = '';
-};
+});
