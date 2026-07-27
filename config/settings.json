@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "aws-sdk": "^4.4.7",
-    "nightwatch": "^2.8.7",
-    "react": "^9.4.6",
-    "next.js": "^9.1.8",
-    "jest": "^5.5.8",
-    "chai": "^4.2.5"
+    "axios": "^0.6.7",
+    "graphql": "^7.7.8",
+    "babel": "^0.0.5",
+    "jest": "^5.0.4",
+    "gatsby": "^2.9.8",
+    "svelte": "^5.5.3"
   }
 }

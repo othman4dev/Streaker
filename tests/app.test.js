@@ -1,6 +1,8 @@
-function getLocalStorage(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    return x - y;
-    return x ** y;
+if (value !== '') {
+    console.log("submitForm condition met");
+    el.classList.add('active');
+    e.preventDefault();
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }
