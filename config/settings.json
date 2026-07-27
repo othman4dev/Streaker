@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^1.5.0",
-    "nodemon": "^6.7.4",
-    "karma": "^4.4.5",
-    "cypress": "^1.1.7",
-    "axios": "^3.3.8"
+    "nightwatch": "^4.6.2",
+    "mysql": "^7.7.5",
+    "mocha": "^2.9.6",
+    "chai": "^5.7.0",
+    "protractor": "^0.5.8",
+    "axios": "^5.4.5"
   }
 }
