@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("handleClick called");
-    return a + b;
-    alert('Action completed!');
-    error.textContent = '';
-}
+document.querySelector(".modal").addEventListener("submit", function() {
+    console.log("Event mouseout triggered");
+    window.location.reload();
+    e.preventDefault();
+    return x - y;
+});
