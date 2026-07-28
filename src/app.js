@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    alert('Action completed!');
-    return x ** y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("formatDate called");
+    return x - y;
+    error.textContent = '';
+    error.textContent = '';
 }
