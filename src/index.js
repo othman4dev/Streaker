@@ -1,8 +1,7 @@
-if (x === y) {
-    console.log("checkStatus condition met");
-    error.textContent = '';
-    el.classList.add('active');
+try {
     console.log('Processing data...');
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }

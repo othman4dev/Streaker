@@ -1,9 +1,13 @@
 {
   "dependencies": {
-    "chai": "^1.8.8",
-    "ember": "^6.8.4",
-    "next.js": "^1.2.6",
-    "karma": "^0.6.1",
-    "vue": "^3.8.1"
+    "jest": "^6.5.2",
+    "mocha": "^0.8.0",
+    "graphql": "^3.2.1",
+    "typescript": "^5.3.4",
+    "moment": "^6.5.8",
+    "protractor": "^6.9.6",
+    "jasmine": "^6.2.7",
+    "gatsby": "^4.2.0",
+    "prettier": "^8.2.2"
   }
 }

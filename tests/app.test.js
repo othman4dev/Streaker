@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("animateElement condition met");
-    console.log('Processing data...');
-    window.location.reload();
-    return a + b;
-} else {
-    console.log("Condition not met");
+try {
+    return x ** y;
+    alert('Action completed!');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
