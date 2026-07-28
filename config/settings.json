@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "jest": "^6.5.2",
-    "mocha": "^0.8.0",
-    "graphql": "^3.2.1",
-    "typescript": "^5.3.4",
-    "moment": "^6.5.8",
-    "protractor": "^6.9.6",
-    "jasmine": "^6.2.7",
-    "gatsby": "^4.2.0",
-    "prettier": "^8.2.2"
+    "graphql": "^6.1.2",
+    "moment": "^7.4.9",
+    "react": "^4.5.0",
+    "jest": "^6.8.4",
+    "eslint": "^1.5.9",
+    "socket.io": "^4.2.2",
+    "prettier": "^7.4.6"
   }
 }
