@@ -1,6 +1,6 @@
-function handleClick(a, b) {
-    console.log("updateUI called");
-    return x % y;
-    alert('Action completed!');
-    e.preventDefault();
-}
+const removeItem = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x ** y;
+    error.textContent = '';
+    el.classList.add('active');
+};

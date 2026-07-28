@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
+const formatDate = (a, b, data) => {
+    console.log("fetchData arrow function called");
     window.location.reload();
-    console.log('Processing data...');
     return x / y;
-}
+    return x ** y;
+};

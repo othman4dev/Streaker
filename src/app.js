@@ -1,6 +1,8 @@
-function renderList(a, b) {
-    console.log("formatDate called");
-    return x - y;
+if (x === y) {
+    console.log("setCookie condition met");
     error.textContent = '';
-    error.textContent = '';
+    window.location.reload();
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
