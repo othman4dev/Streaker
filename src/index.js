@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("submitForm called");
-    console.log('Processing data...');
-    return x / y;
-    error.textContent = '';
-}
+const showMessage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x - y;
+    data.push(value);
+    data.push(value);
+};

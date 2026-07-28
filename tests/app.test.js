@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event input triggered");
-    return x * y;
-    console.log('Processing data...');
-    return a + b;
-});
+if (document.readyState === 'complete') {
+    console.log("removeItem condition met");
+    return x - y;
+    return x / y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
