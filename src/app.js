@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    window.location.reload();
+document.querySelector("#nav").addEventListener("change", function() {
+    console.log("Event submit triggered");
     console.log('Processing data...');
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+    return a + b;
+    window.location.reload();
+});

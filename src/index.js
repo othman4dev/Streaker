@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("change", function() {
-    console.log("Event load triggered");
-    return x / y;
+if (x === y) {
+    console.log("checkStatus condition met");
+    error.textContent = '';
+    el.classList.add('active');
     console.log('Processing data...');
-    return x ** y;
-});
+} else {
+    console.log("Condition not met");
+}

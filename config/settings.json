@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "webpack": "^3.4.4",
-    "mongodb": "^0.1.0",
-    "express": "^8.1.5",
-    "axios": "^7.5.8",
-    "jest": "^9.8.8",
-    "lodash": "^6.6.3"
+    "chai": "^1.8.8",
+    "ember": "^6.8.4",
+    "next.js": "^1.2.6",
+    "karma": "^0.6.1",
+    "vue": "^3.8.1"
   }
 }
