@@ -1,6 +1,7 @@
-const hideModal = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x * y;
-    return a + b;
-    error.textContent = '';
-};
+switch (x) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
