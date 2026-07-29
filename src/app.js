@@ -1,7 +1,6 @@
-switch (x) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event focus triggered");
+    e.preventDefault();
+    alert('Action completed!');
+    alert('Action completed!');
+});
