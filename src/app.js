@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event focus triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    alert('Action completed!');
-});
+if (x === y) {
+    console.log("displayError condition met");
+    data.push(value);
+    return x % y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
+}

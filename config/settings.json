@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "vue": "^6.9.4",
-    "protractor": "^6.8.3",
-    "sinon": "^9.3.9",
-    "jest": "^0.8.2",
-    "eslint": "^0.8.0",
-    "moment": "^5.8.2",
-    "aws-sdk": "^0.0.8",
-    "mongodb": "^5.7.6"
+    "gatsby": "^4.9.8",
+    "webpack": "^0.1.5",
+    "react": "^3.6.7",
+    "redis": "^0.6.8",
+    "nightwatch": "^3.8.1",
+    "prettier": "^3.4.9",
+    "lodash": "^4.1.4"
   }
 }
