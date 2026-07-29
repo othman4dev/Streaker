@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("processInput called");
-    return x % y;
-    return x / y;
-    window.location.reload();
-}
+const saveSettings = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+};
