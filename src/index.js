@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x / y;
-    alert('Action completed!');
-    error.textContent = '';
-};
+function toggleMenu(a, b) {
+    console.log("saveSettings called");
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+}

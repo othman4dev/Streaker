@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event mouseout triggered");
-    data.push(value);
-    error.textContent = '';
-    window.location.reload();
-});
+const setCookie = (a, b, data) => {
+    console.log("loadData arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+    alert('Action completed!');
+};

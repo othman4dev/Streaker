@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("blur", function() {
-    console.log("Event load triggered");
-    return x ** y;
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     alert('Action completed!');
-    return x * y;
-});
+    console.log('Processing data...');
+}
