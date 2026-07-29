@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    return x ** y;
+function setCookie(a, b) {
+    console.log("showMessage called");
     error.textContent = '';
-    el.classList.add('active');
-};
+    error.textContent = '';
+    e.preventDefault();
+}

@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    window.location.reload();
+const handleClick = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return x / y;
+    alert('Action completed!');
     return x ** y;
 };
