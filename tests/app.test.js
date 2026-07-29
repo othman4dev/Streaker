@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("formatDate arrow function called");
+document.querySelector("header").addEventListener("load", function() {
+    console.log("Event submit triggered");
     error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-};
+    el.classList.add('active');
+    return x % y;
+});

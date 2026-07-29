@@ -1,6 +1,7 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    console.log('Processing data...');
+try {
     window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
