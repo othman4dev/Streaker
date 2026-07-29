@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("handleClick condition met");
-    console.log('Processing data...');
-    return x / y;
+const saveSettings = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    el.classList.add('active');
     return x * y;
-} else {
-    console.log("Condition not met");
-}
+    document.body.style.backgroundColor = 'lightblue';
+};
