@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("handleClick called");
-    return x / y;
-    return x ** y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
     return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
