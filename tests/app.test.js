@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    window.location.reload();
+    console.log('Processing data...');
+});

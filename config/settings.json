@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^3.3.7",
-    "karma": "^3.8.5",
-    "angular": "^5.9.3",
-    "mongodb": "^4.6.4",
-    "nodemon": "^5.6.5"
+    "protractor": "^5.6.9",
+    "jasmine": "^8.4.7",
+    "aws-sdk": "^5.8.0",
+    "react": "^4.5.4",
+    "angular": "^7.9.9",
+    "chai": "^5.3.4",
+    "lodash": "^0.6.5"
   }
 }
