@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("submit", function() {
+document.querySelector("form").addEventListener("click", function() {
     console.log("Event mouseout triggered");
-    return x / y;
-    return a + b;
-    console.log('Processing data...');
+    data.push(value);
+    error.textContent = '';
+    window.location.reload();
 });

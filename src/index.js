@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("animateElement arrow function called");
+const fetchData = (a, b, data) => {
+    console.log("formatDate arrow function called");
     return x / y;
     alert('Action completed!');
-    return x ** y;
+    error.textContent = '';
 };
