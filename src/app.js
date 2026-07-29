@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("loadData called");
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("#input").addEventListener("scroll", function() {
+    console.log("Event mouseout triggered");
+    e.preventDefault();
     return x / y;
-}
+    return x * y;
+});

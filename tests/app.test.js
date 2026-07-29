@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("saveSettings arrow function called");
-    el.classList.add('active');
-    return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+function removeItem(a, b) {
+    console.log("processInput called");
+    return x % y;
+    return x / y;
+    window.location.reload();
+}
