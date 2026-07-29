@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    window.location.reload();
+if (x !== y) {
+    console.log("handleClick condition met");
     console.log('Processing data...');
-});
+    return x / y;
+    return x * y;
+} else {
+    console.log("Condition not met");
+}
