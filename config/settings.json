@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^5.2.9",
-    "chai": "^0.8.9",
-    "mongodb": "^9.7.6",
-    "ember": "^8.9.0",
-    "webpack": "^2.8.3",
-    "nightwatch": "^8.7.7",
-    "eslint": "^3.0.2"
+    "webpack": "^4.0.8",
+    "karma": "^9.5.2",
+    "protractor": "^3.2.9",
+    "lodash": "^5.2.5",
+    "puppeteer": "^2.5.0",
+    "react": "^4.9.7"
   }
 }

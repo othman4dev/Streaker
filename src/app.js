@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("loadData arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+if (document.readyState === 'complete') {
+    console.log("submitForm condition met");
+    data.push(value);
+    return a + b;
     alert('Action completed!');
-};
+} else {
+    console.log("Condition not met");
+}

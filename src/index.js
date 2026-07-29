@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("saveSettings called");
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    console.log('Processing data...');
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-}
+});
