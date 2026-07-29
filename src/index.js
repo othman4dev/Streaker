@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event resize triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event keydown triggered");
+    data.push(value);
     return x - y;
+    console.log('Processing data...');
 });

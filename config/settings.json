@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^4.0.8",
-    "karma": "^9.5.2",
-    "protractor": "^3.2.9",
-    "lodash": "^5.2.5",
-    "puppeteer": "^2.5.0",
-    "react": "^4.9.7"
+    "prettier": "^7.5.1",
+    "mysql": "^1.8.2",
+    "karma": "^3.7.7",
+    "jest": "^9.3.6",
+    "next.js": "^2.8.2",
+    "graphql": "^0.6.5"
   }
 }

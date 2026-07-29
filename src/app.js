@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("submitForm condition met");
-    data.push(value);
+const hideModal = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x * y;
     return a + b;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+    error.textContent = '';
+};
