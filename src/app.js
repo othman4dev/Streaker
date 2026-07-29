@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("displayError condition met");
-    data.push(value);
-    return x % y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return a + b;
+    window.location.reload();
+    return x / y;
+};
