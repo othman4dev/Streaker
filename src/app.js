@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("submit", function() {
-    console.log("Event change triggered");
+try {
     data.push(value);
     e.preventDefault();
-    console.log('Processing data...');
-});
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
+}

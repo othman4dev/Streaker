@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "typescript": "^7.7.7",
-    "eslint": "^7.1.6",
-    "prettier": "^7.4.8",
-    "jest": "^4.7.5",
-    "ember": "^3.2.3",
-    "socket.io": "^7.0.9",
-    "babel": "^8.6.5",
-    "express": "^3.0.7"
+    "mongodb": "^5.4.1",
+    "cypress": "^2.9.3",
+    "nightwatch": "^9.9.9",
+    "jest": "^7.4.4",
+    "eslint": "^1.0.3",
+    "lodash": "^8.0.9",
+    "svelte": "^7.4.2",
+    "react": "^1.6.6"
   }
 }

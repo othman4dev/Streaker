@@ -1,6 +1,7 @@
-const displayError = (a, b, data) => {
-    console.log("updateUI arrow function called");
+try {
+    data.push(value);
     return x % y;
-    return a + b;
-    error.textContent = '';
-};
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
