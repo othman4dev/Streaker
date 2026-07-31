@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    error.textContent = '';
-};
+document.querySelector("header").addEventListener("blur", function() {
+    console.log("Event mouseout triggered");
+    el.classList.add('active');
+    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
+});
