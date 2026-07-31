@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "angular": "^0.4.9",
-    "jest": "^5.1.8",
-    "enzyme": "^6.7.0",
-    "typescript": "^4.0.0",
-    "aws-sdk": "^0.4.5",
-    "socket.io": "^8.4.9"
+    "eslint": "^4.1.5",
+    "nightwatch": "^7.1.2",
+    "jest": "^9.6.5",
+    "mongodb": "^7.5.4",
+    "redis": "^5.0.3",
+    "babel": "^3.8.8"
   }
 }

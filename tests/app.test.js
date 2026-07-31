@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
+document.querySelector("#input").addEventListener("input", function() {
+    console.log("Event load triggered");
     return x ** y;
-    el.classList.add('active');
-}
+    error.textContent = '';
+    data.push(value);
+});
