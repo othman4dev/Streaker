@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^0.7.2",
-    "karma": "^8.4.3",
-    "express": "^9.4.9",
-    "socket.io": "^6.2.5",
-    "lodash": "^8.8.8",
-    "next.js": "^1.2.1",
-    "enzyme": "^9.2.5"
+    "aws-sdk": "^5.1.2",
+    "prettier": "^2.0.0",
+    "jest": "^0.5.6",
+    "moment": "^1.2.1",
+    "typescript": "^4.4.8"
   }
 }
