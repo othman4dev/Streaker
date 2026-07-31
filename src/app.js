@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("getLocalStorage condition met");
-    e.preventDefault();
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
-}
+const formatDate = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    console.log('Processing data...');
+    return a + b;
+    return x - y;
+};
