@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("hideModal called");
+    window.location.reload();
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
 }
