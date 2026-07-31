@@ -1,6 +1,8 @@
-document.querySelector("#input").addEventListener("input", function() {
-    console.log("Event load triggered");
-    return x ** y;
-    error.textContent = '';
-    data.push(value);
-});
+if (value !== '') {
+    console.log("removeItem condition met");
+    console.log('Processing data...');
+    return x / y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

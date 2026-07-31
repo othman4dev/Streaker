@@ -1,6 +1,6 @@
-for (let i = 0; i < 17; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return x - y;
-    el.classList.add('active');
-}
+const removeItem = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x * y;
+    console.log('Processing data...');
+    data.push(value);
+};
