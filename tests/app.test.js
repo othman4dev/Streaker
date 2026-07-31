@@ -1,7 +1,6 @@
-switch (data) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("header").addEventListener("submit", function() {
+    console.log("Event resize triggered");
+    console.log('Processing data...');
+    return x * y;
+    window.location.reload();
+});

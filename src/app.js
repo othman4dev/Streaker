@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("hideModal called");
+document.querySelector("window").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
     window.location.reload();
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-}
+    return x * y;
+    error.textContent = '';
+});
