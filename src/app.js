@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
+document.querySelector("header").addEventListener("keydown", function() {
+    console.log("Event change triggered");
     e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    return x / y;
+});
