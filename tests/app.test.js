@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
-}
+const displayError = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x % y;
+    return a + b;
+    error.textContent = '';
+};
