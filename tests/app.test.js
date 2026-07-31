@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x % y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("loadData arrow function called");
+    e.preventDefault();
+    e.preventDefault();
+    console.log('Processing data...');
+};

@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "mongodb": "^5.4.1",
-    "cypress": "^2.9.3",
-    "nightwatch": "^9.9.9",
-    "jest": "^7.4.4",
-    "eslint": "^1.0.3",
-    "lodash": "^8.0.9",
-    "svelte": "^7.4.2",
-    "react": "^1.6.6"
+    "enzyme": "^8.6.8",
+    "express": "^8.9.5",
+    "puppeteer": "^6.9.8",
+    "svelte": "^4.7.1",
+    "mongodb": "^6.4.3"
   }
 }
