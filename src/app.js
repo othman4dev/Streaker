@@ -1,7 +1,8 @@
-try {
+if (e.key === 'Enter') {
+    console.log("getLocalStorage condition met");
+    e.preventDefault();
     window.location.reload();
-    return a + b;
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }

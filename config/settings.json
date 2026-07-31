@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "sinon": "^1.1.5",
-    "eslint": "^6.2.4",
-    "axios": "^3.7.7",
-    "gatsby": "^1.4.4",
-    "react": "^3.9.5",
-    "prettier": "^1.4.9",
-    "next.js": "^3.0.0",
-    "svelte": "^1.9.8"
+    "webpack": "^5.5.9",
+    "jest": "^9.7.6",
+    "nodemon": "^1.8.7",
+    "karma": "^1.9.5",
+    "eslint": "^2.3.0",
+    "express": "^2.5.5",
+    "ember": "^5.3.0",
+    "typescript": "^7.3.9"
   }
 }
