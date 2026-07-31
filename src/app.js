@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("checkStatus condition met");
-    return a + b;
+function displayError(a, b) {
+    console.log("loadData called");
+    window.location.reload();
+    alert('Action completed!');
     data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
 }
