@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event resize triggered");
+try {
+    return x - y;
+    el.classList.add('active');
     console.log('Processing data...');
-    return x * y;
-    window.location.reload();
-});
+} catch (error) {
+    console.error("Error:", error);
+}

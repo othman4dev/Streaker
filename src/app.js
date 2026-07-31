@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    window.location.reload();
-    return x * y;
-    error.textContent = '';
-});
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    return a + b;
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

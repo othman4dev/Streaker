@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event keydown triggered");
+try {
+    return a + b;
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    el.classList.add('active');
-});
+} catch (error) {
+    console.error("Error:", error);
+}
