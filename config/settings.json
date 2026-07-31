@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.5.7",
-    "redis": "^5.9.5",
-    "nightwatch": "^3.5.0",
-    "cypress": "^3.9.9",
-    "sinon": "^7.5.4",
-    "mocha": "^9.8.7"
+    "cypress": "^0.7.2",
+    "karma": "^8.4.3",
+    "express": "^9.4.9",
+    "socket.io": "^6.2.5",
+    "lodash": "^8.8.8",
+    "next.js": "^1.2.1",
+    "enzyme": "^9.2.5"
   }
 }

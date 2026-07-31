@@ -1,6 +1,6 @@
-function displayError(a, b) {
-    console.log("loadData called");
-    window.location.reload();
-    alert('Action completed!');
-    data.push(value);
+for (let i = 0; i < 10; i++) {
+    console.log("Loop iteration: " + i);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
+    e.preventDefault();
 }
