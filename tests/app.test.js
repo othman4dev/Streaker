@@ -1,7 +1,8 @@
-switch (error) {
-    case 5:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("validateInput condition met");
+    alert('Action completed!');
+    return a + b;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("processInput called");
-    alert('Action completed!');
-    return x - y;
-    el.classList.add('active');
+switch (e) {
+    case 5:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }
