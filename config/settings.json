@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "nodemon": "^4.3.3",
-    "vue": "^8.1.1",
-    "firebase": "^9.0.5",
-    "angular": "^0.7.8",
-    "aws-sdk": "^4.5.2",
-    "puppeteer": "^4.1.0"
+    "cypress": "^2.4.0",
+    "aws-sdk": "^0.1.8",
+    "react": "^5.9.9",
+    "next.js": "^3.7.5"
   }
 }
