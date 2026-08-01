@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "enzyme": "^8.6.8",
-    "express": "^8.9.5",
-    "puppeteer": "^6.9.8",
-    "svelte": "^4.7.1",
-    "mongodb": "^6.4.3"
+    "aws-sdk": "^2.1.6",
+    "jest": "^7.7.2",
+    "typescript": "^1.6.1",
+    "socket.io": "^2.4.7",
+    "react": "^5.5.1",
+    "redis": "^4.6.1"
   }
 }
