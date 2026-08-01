@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "jest": "^7.1.2",
-    "axios": "^2.9.3",
-    "prettier": "^5.1.4",
-    "graphql": "^8.9.6",
-    "firebase": "^4.8.6"
+    "gatsby": "^1.0.6",
+    "puppeteer": "^0.7.6",
+    "sinon": "^3.1.9",
+    "aws-sdk": "^5.6.8",
+    "webpack": "^9.1.4",
+    "express": "^2.3.3"
   }
 }
