@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("showMessage condition met");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x - y;
-} else {
-    console.log("Condition not met");
+try {
+    alert('Action completed!');
+    el.classList.add('active');
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

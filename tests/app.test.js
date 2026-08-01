@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("setCookie arrow function called");
-    error.textContent = '';
+if (x !== y) {
+    console.log("getLocalStorage condition met");
+    el.classList.add('active');
+    return x * y;
     document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-};
+} else {
+    console.log("Condition not met");
+}
