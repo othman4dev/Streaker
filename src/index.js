@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("processInput condition met");
-    el.classList.add('active');
-    return x - y;
-    return x - y;
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    alert('Action completed!');
+    console.log('Processing data...');
 }

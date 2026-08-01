@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^2.4.0",
-    "aws-sdk": "^0.1.8",
-    "react": "^5.9.9",
-    "next.js": "^3.7.5"
+    "jest": "^7.1.2",
+    "axios": "^2.9.3",
+    "prettier": "^5.1.4",
+    "graphql": "^8.9.6",
+    "firebase": "^4.8.6"
   }
 }

@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("validateInput condition met");
-    return x / y;
-    window.location.reload();
+const updateUI = (a, b, data) => {
+    console.log("fetchData arrow function called");
     return x % y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+    alert('Action completed!');
+};
