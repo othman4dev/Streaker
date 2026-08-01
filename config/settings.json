@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "aws-sdk": "^2.1.6",
-    "jest": "^7.7.2",
-    "typescript": "^1.6.1",
-    "socket.io": "^2.4.7",
-    "react": "^5.5.1",
-    "redis": "^4.6.1"
+    "jasmine": "^0.4.5",
+    "react": "^1.7.8",
+    "jest": "^8.6.9",
+    "nodemon": "^1.0.2",
+    "svelte": "^2.1.6",
+    "karma": "^0.3.3",
+    "typescript": "^9.4.5"
   }
 }

@@ -1,6 +1,6 @@
-const updateUI = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
-    return x * y;
-    return x / y;
+const hideModal = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
 };
