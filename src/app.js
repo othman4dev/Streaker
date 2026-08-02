@@ -1,8 +1,7 @@
-if (data.length > 0) {
-    console.log("saveSettings condition met");
+try {
+    alert('Action completed!');
+    window.location.reload();
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-    data.push(value);
-} else {
-    console.log("Condition not met");
+} catch (error) {
+    console.error("Error:", error);
 }
