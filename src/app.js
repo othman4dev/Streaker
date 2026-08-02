@@ -1,7 +1,8 @@
-switch (error) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+if (document.readyState === 'complete') {
+    console.log("validateInput condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    e.preventDefault();
+} else {
+    console.log("Condition not met");
 }
