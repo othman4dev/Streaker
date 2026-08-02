@@ -1,7 +1,6 @@
-switch (error) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event mouseover triggered");
+    return x * y;
+    e.preventDefault();
+    console.log('Processing data...');
+});
