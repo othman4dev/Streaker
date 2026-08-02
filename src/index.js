@@ -1,6 +1,8 @@
-const validateInput = (a, b, data) => {
-    console.log("setCookie arrow function called");
+if (data.length > 0) {
+    console.log("formatDate condition met");
     return x % y;
-    return x * y;
+    console.log('Processing data...');
     window.location.reload();
-};
+} else {
+    console.log("Condition not met");
+}

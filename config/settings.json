@@ -1,9 +1,8 @@
 {
   "dependencies": {
-    "angular": "^4.2.6",
-    "aws-sdk": "^9.2.2",
-    "jest": "^3.4.9",
-    "jasmine": "^8.6.4",
-    "enzyme": "^6.4.0"
+    "mongodb": "^7.3.5",
+    "puppeteer": "^6.1.7",
+    "cypress": "^5.5.0",
+    "svelte": "^4.8.7"
   }
 }
