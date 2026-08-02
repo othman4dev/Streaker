@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    error.textContent = '';
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    el.classList.add('active');
+    return x / y;
+}
