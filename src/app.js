@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("validateInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
+function renderList(a, b) {
+    console.log("fetchData called");
+    console.log('Processing data...');
+    return a + b;
     error.textContent = '';
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
 }
