@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("showMessage condition met");
-    return a + b;
-    return x / y;
-    return a + b;
-} else {
-    console.log("Condition not met");
-}
+const displayError = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    return x - y;
+    data.push(value);
+    alert('Action completed!');
+};

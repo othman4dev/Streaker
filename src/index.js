@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("updateUI called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-}
+const displayError = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x ** y;
+    return x * y;
+    alert('Action completed!');
+};
