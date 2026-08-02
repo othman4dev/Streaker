@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("formatDate condition met");
-    return x % y;
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event mouseout triggered");
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
     console.log('Processing data...');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
-}
+});

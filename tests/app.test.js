@@ -1,7 +1,6 @@
-switch (y) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#button").addEventListener("change", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    e.preventDefault();
+    error.textContent = '';
+});
