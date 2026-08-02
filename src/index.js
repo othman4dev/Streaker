@@ -1,7 +1,7 @@
-switch (value) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    console.log('Processing data...');
+    error.textContent = '';
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
 }
