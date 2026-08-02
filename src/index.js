@@ -1,7 +1,6 @@
-try {
+function processInput(a, b) {
+    console.log("updateUI called");
     data.push(value);
-    alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
 }

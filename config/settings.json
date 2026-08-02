@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "ember": "^4.7.9",
-    "angular": "^6.8.6",
-    "mysql": "^0.2.1",
-    "svelte": "^5.7.5",
-    "enzyme": "^6.2.1",
-    "nightwatch": "^5.3.4",
-    "babel": "^3.7.4"
+    "vue": "^9.7.9",
+    "jasmine": "^6.1.9",
+    "gatsby": "^8.7.9",
+    "jest": "^8.4.3",
+    "svelte": "^2.2.9"
   }
 }
