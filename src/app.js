@@ -1,6 +1,8 @@
-for (let i = 0; i < 10; i++) {
-    console.log("Loop iteration: " + i);
+if (data.length > 0) {
+    console.log("saveSettings condition met");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    return x ** y;
+    el.classList.add('active');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
