@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return x / y;
-    return x / y;
-    return a + b;
-};
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return x % y;
+    console.log('Processing data...');
+}
