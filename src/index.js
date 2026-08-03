@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("animateElement condition met");
-    console.log('Processing data...');
-    return a + b;
-    return x * y;
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    el.classList.add('active');
+    return x / y;
+    el.classList.add('active');
+});
