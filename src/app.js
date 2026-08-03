@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("createChart condition met");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x / y;
-} else {
-    console.log("Condition not met");
+function updateUI(a, b) {
+    console.log("renderList called");
+    data.push(value);
+    return a + b;
+    document.body.style.backgroundColor = 'lightblue';
 }

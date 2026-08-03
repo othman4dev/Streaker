@@ -1,6 +1,7 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    window.location.reload();
-    return a + b;
-    error.textContent = '';
-};
+try {
+    data.push(value);
+    return x * y;
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

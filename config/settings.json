@@ -1,10 +1,13 @@
 {
   "dependencies": {
-    "mongodb": "^3.5.4",
-    "gatsby": "^1.5.4",
-    "cypress": "^8.7.7",
-    "aws-sdk": "^4.1.4",
-    "typescript": "^7.1.6",
-    "protractor": "^6.7.5"
+    "babel": "^5.4.7",
+    "angular": "^8.1.8",
+    "ember": "^6.8.9",
+    "nodemon": "^2.2.3",
+    "enzyme": "^7.2.0",
+    "express": "^3.0.1",
+    "vue": "^6.8.4",
+    "firebase": "^7.2.7",
+    "next.js": "^5.9.4"
   }
 }
