@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "babel": "^6.6.1",
-    "svelte": "^0.8.5",
-    "sinon": "^2.1.9",
-    "karma": "^9.8.6",
-    "mysql": "^2.1.3"
+    "gatsby": "^7.2.5",
+    "cypress": "^4.0.8",
+    "protractor": "^9.1.6",
+    "chai": "^4.5.7",
+    "next.js": "^4.5.9",
+    "socket.io": "^8.9.6",
+    "axios": "^3.5.2"
   }
 }

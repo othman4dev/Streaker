@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("blur", function() {
-    console.log("Event focus triggered");
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event change triggered");
+    return x * y;
+    alert('Action completed!');
     return x / y;
-    window.location.reload();
-    error.textContent = '';
 });

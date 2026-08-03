@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("setSessionStorage condition met");
-    error.textContent = '';
-    alert('Action completed!');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
+    return a + b;
+    return x ** y;
 }
