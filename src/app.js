@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("checkStatus condition met");
-    return x ** y;
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+try {
+    data.push(value);
+    el.classList.add('active');
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
