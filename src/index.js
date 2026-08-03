@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+const saveSettings = (a, b, data) => {
+    console.log("setCookie arrow function called");
     e.preventDefault();
-    return x % y;
+    window.location.reload();
     console.log('Processing data...');
-}
+};

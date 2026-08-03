@@ -1,6 +1,8 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event mouseout triggered");
-    return x / y;
-    return x % y;
+if (e.key === 'Enter') {
+    console.log("checkStatus condition met");
     return x ** y;
-});
+    return x ** y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}

@@ -1,6 +1,7 @@
-function submitForm(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
-    console.log('Processing data...');
-    return x % y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
 }
