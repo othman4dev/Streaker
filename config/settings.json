@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^3.1.2",
-    "firebase": "^7.1.7",
-    "mongodb": "^7.7.6",
-    "vue": "^5.0.1",
-    "moment": "^9.0.4",
-    "chai": "^7.4.2",
-    "graphql": "^3.2.7",
-    "react": "^3.6.5"
+    "nightwatch": "^7.4.9",
+    "sinon": "^3.3.3",
+    "express": "^6.8.3",
+    "jasmine": "^3.6.3",
+    "next.js": "^7.6.7",
+    "vue": "^9.2.5",
+    "moment": "^5.0.5"
   }
 }

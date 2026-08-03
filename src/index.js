@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-};
+document.querySelector("#nav").addEventListener("scroll", function() {
+    console.log("Event submit triggered");
+    return x % y;
+    return x ** y;
+    window.location.reload();
+});
