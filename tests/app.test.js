@@ -1,6 +1,8 @@
-document.querySelector("#button").addEventListener("change", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    e.preventDefault();
-    error.textContent = '';
-});
+if (x !== y) {
+    console.log("fetchData condition met");
+    window.location.reload();
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
