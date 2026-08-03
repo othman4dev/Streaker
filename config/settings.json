@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "nodemon": "^0.6.2",
-    "prettier": "^5.6.9",
-    "redis": "^4.0.1",
-    "karma": "^2.1.1",
-    "chai": "^5.7.8",
-    "jest": "^2.0.6",
-    "cypress": "^7.5.8"
+    "enzyme": "^3.1.2",
+    "firebase": "^7.1.7",
+    "mongodb": "^7.7.6",
+    "vue": "^5.0.1",
+    "moment": "^9.0.4",
+    "chai": "^7.4.2",
+    "graphql": "^3.2.7",
+    "react": "^3.6.5"
   }
 }

@@ -1,7 +1,8 @@
-switch (data) {
-    case 2:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (data.length > 0) {
+    console.log("saveSettings condition met");
+    data.push(value);
+    return x / y;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

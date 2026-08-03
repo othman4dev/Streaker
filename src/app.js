@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
-    e.preventDefault();
-    console.log('Processing data...');
-});
+switch (error) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}

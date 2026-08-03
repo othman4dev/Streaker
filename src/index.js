@@ -1,7 +1,6 @@
-try {
+const saveSettings = (a, b, data) => {
+    console.log("animateElement arrow function called");
     return a + b;
     document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+};
