@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("el case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    window.location.reload();
+    error.textContent = '';
+});

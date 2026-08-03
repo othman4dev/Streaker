@@ -1,6 +1,8 @@
-function updateUI(a, b) {
-    console.log("renderList called");
-    data.push(value);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+if (x === y) {
+    console.log("setSessionStorage condition met");
+    error.textContent = '';
+    alert('Action completed!');
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
