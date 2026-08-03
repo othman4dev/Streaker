@@ -1,6 +1,8 @@
-const createChart = (a, b, data) => {
-    console.log("showMessage arrow function called");
+if (document.readyState === 'complete') {
+    console.log("createChart condition met");
+    alert('Action completed!');
+    console.log('Processing data...');
     return x / y;
-    el.classList.add('active');
-    document.body.style.backgroundColor = 'lightblue';
-};
+} else {
+    console.log("Condition not met");
+}

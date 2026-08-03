@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^7.4.9",
-    "sinon": "^3.3.3",
-    "express": "^6.8.3",
-    "jasmine": "^3.6.3",
-    "next.js": "^7.6.7",
-    "vue": "^9.2.5",
-    "moment": "^5.0.5"
+    "mongodb": "^3.5.4",
+    "gatsby": "^1.5.4",
+    "cypress": "^8.7.7",
+    "aws-sdk": "^4.1.4",
+    "typescript": "^7.1.6",
+    "protractor": "^6.7.5"
   }
 }
