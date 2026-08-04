@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event mouseover triggered");
-    el.classList.add('active');
-    return x / y;
-    el.classList.add('active');
-});
+switch (y) {
+    case 4:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}

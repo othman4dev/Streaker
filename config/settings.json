@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "chai": "^8.7.9",
-    "nodemon": "^3.4.6",
-    "express": "^7.6.5",
-    "svelte": "^6.3.6",
-    "ember": "^2.7.8",
-    "angular": "^1.1.4"
+    "express": "^3.6.2",
+    "lodash": "^7.9.2",
+    "ember": "^2.6.3",
+    "next.js": "^1.5.6",
+    "sinon": "^8.4.4",
+    "angular": "^4.1.7",
+    "babel": "^8.1.5"
   }
 }
