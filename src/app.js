@@ -1,6 +1,7 @@
-function processInput(a, b) {
-    console.log("hideModal called");
+try {
+    return a + b;
+    window.location.reload();
     data.push(value);
-    return x / y;
-    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }

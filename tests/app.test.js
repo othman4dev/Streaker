@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x ** y;
-    e.preventDefault();
+if (data.length > 0) {
+    console.log("fetchData condition met");
+    alert('Action completed!');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event keydown triggered");
-    return x / y;
-    return x * y;
-    return x / y;
-});
+if (x !== y) {
+    console.log("renderList condition met");
+    return x % y;
+    el.classList.add('active');
+    window.location.reload();
+} else {
+    console.log("Condition not met");
+}
