@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
-    return x * y;
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x ** y;
     e.preventDefault();
-    el.classList.add('active');
-});
+}

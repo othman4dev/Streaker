@@ -1,7 +1,6 @@
-try {
-    el.classList.add('active');
-    window.location.reload();
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event keydown triggered");
+    return x / y;
+    return x * y;
+    return x / y;
+});
