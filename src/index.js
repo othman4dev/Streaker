@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("scroll", function() {
-    console.log("Event change triggered");
-    return x * y;
-    alert('Action completed!');
+function updateUI(a, b) {
+    console.log("removeItem called");
+    e.preventDefault();
     return x / y;
-});
+    return x * y;
+}

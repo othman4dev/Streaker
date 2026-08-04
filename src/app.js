@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    return a + b;
-    return x ** y;
-}
+document.querySelector("document").addEventListener("mouseover", function() {
+    console.log("Event scroll triggered");
+    data.push(value);
+    error.textContent = '';
+    data.push(value);
+});

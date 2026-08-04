@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^7.2.5",
-    "cypress": "^4.0.8",
-    "protractor": "^9.1.6",
-    "chai": "^4.5.7",
-    "next.js": "^4.5.9",
-    "socket.io": "^8.9.6",
-    "axios": "^3.5.2"
+    "moment": "^5.8.4",
+    "ember": "^6.3.0",
+    "aws-sdk": "^5.9.2",
+    "babel": "^1.6.0",
+    "cypress": "^2.0.7",
+    "nightwatch": "^4.9.4",
+    "graphql": "^0.9.6",
+    "puppeteer": "^6.3.2"
   }
 }
