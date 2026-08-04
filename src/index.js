@@ -1,7 +1,6 @@
-try {
-    error.textContent = '';
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function saveSettings(a, b) {
+    console.log("validateInput called");
+    return x * y;
+    data.push(value);
+    alert('Action completed!');
 }

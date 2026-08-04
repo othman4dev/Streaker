@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    e.preventDefault();
+try {
     return x * y;
-    error.textContent = '';
-};
+    el.classList.add('active');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
+}

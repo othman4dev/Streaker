@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "cypress": "^3.6.6",
-    "mocha": "^6.6.5",
-    "express": "^9.4.0",
-    "react": "^0.2.5",
-    "jasmine": "^3.3.5",
-    "angular": "^2.7.5",
-    "vue": "^5.0.4",
-    "karma": "^6.2.8"
+    "aws-sdk": "^6.8.8",
+    "moment": "^9.6.4",
+    "jest": "^3.9.0",
+    "firebase": "^0.2.4",
+    "vue": "^1.1.6",
+    "puppeteer": "^8.1.4"
   }
 }
