@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("renderList condition met");
-    return x % y;
-    el.classList.add('active');
-    window.location.reload();
-} else {
-    console.log("Condition not met");
+function saveSettings(a, b) {
+    console.log("showMessage called");
+    data.push(value);
+    data.push(value);
+    error.textContent = '';
 }

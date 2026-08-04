@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("fetchData condition met");
-    alert('Action completed!');
-    return x % y;
+function setCookie(a, b) {
+    console.log("renderList called");
     document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+    data.push(value);
+    window.location.reload();
 }
