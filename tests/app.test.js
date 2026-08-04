@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const submitForm = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    e.preventDefault();
+    return x * y;
+    error.textContent = '';
+};

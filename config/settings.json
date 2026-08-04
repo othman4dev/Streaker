@@ -1,8 +1,12 @@
 {
   "dependencies": {
-    "jest": "^5.2.1",
-    "react": "^0.4.3",
-    "mocha": "^0.8.7",
-    "lodash": "^0.0.3"
+    "cypress": "^3.6.6",
+    "mocha": "^6.6.5",
+    "express": "^9.4.0",
+    "react": "^0.2.5",
+    "jasmine": "^3.3.5",
+    "angular": "^2.7.5",
+    "vue": "^5.0.4",
+    "karma": "^6.2.8"
   }
 }

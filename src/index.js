@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("formatDate called");
+try {
     error.textContent = '';
-    error.textContent = '';
-    e.preventDefault();
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
 }
