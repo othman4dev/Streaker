@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
+document.querySelector(".footer").addEventListener("resize", function() {
+    console.log("Event scroll triggered");
+    return x - y;
     el.classList.add('active');
-    e.preventDefault();
-    alert('Action completed!');
-};
+    return x / y;
+});

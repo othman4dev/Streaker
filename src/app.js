@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    data.push(value);
+function processInput(a, b) {
+    console.log("validateInput called");
     error.textContent = '';
-    data.push(value);
-});
+    return x ** y;
+    e.preventDefault();
+}
