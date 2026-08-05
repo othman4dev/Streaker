@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("keydown", function() {
-    console.log("Event input triggered");
+const createChart = (a, b, data) => {
+    console.log("loadData arrow function called");
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-    return x % y;
-    return a + b;
-});
+    return x - y;
+};

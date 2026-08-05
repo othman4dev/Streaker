@@ -1,8 +1,9 @@
 {
   "dependencies": {
-    "jest": "^7.2.5",
-    "express": "^0.5.5",
-    "vue": "^4.3.1",
-    "chai": "^3.6.0"
+    "babel": "^6.3.0",
+    "nightwatch": "^7.9.4",
+    "react": "^8.5.3",
+    "cypress": "^7.1.5",
+    "sinon": "^6.5.5"
   }
 }

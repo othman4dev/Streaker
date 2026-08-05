@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("showMessage called");
-    data.push(value);
-    data.push(value);
-    error.textContent = '';
-}
+const handleClick = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x / y;
+    window.location.reload();
+    return a + b;
+};

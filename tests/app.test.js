@@ -1,6 +1,6 @@
-function setCookie(a, b) {
-    console.log("renderList called");
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-    window.location.reload();
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    return x * y;
+    error.textContent = '';
 }
