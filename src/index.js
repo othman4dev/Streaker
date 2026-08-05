@@ -1,6 +1,6 @@
-const handleClick = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x / y;
-    window.location.reload();
-    return a + b;
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
+}
