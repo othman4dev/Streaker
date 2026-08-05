@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^8.4.2",
-    "jest": "^6.2.4",
-    "redis": "^9.8.7",
-    "graphql": "^2.8.3",
-    "mocha": "^5.7.8",
-    "enzyme": "^2.6.2",
-    "svelte": "^2.4.8"
+    "nodemon": "^6.5.6",
+    "firebase": "^9.6.4",
+    "nightwatch": "^7.3.9",
+    "express": "^7.4.9",
+    "lodash": "^3.7.5",
+    "mysql": "^7.0.3"
   }
 }
