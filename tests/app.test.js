@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+function createChart(a, b) {
+    console.log("loadData called");
+    return x * y;
     return x - y;
-    return x - y;
-} catch (error) {
-    console.error("Error:", error);
+    return x % y;
 }

@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "typescript": "^3.4.1",
-    "gatsby": "^0.5.6",
-    "mocha": "^3.7.3",
-    "nodemon": "^6.0.7",
-    "axios": "^5.1.5"
+    "webpack": "^6.7.3",
+    "ember": "^6.4.9",
+    "aws-sdk": "^8.0.8",
+    "chai": "^9.7.4",
+    "jest": "^9.3.0",
+    "vue": "^9.2.6",
+    "express": "^2.3.2"
   }
 }
