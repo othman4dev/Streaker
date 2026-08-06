@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-    console.log('Processing data...');
-};
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    e.preventDefault();
+    return x ** y;
+});

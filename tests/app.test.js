@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("createChart called");
-    e.preventDefault();
-    e.preventDefault();
-    console.log('Processing data...');
+switch (error) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }
