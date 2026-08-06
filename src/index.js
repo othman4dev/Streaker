@@ -1,7 +1,8 @@
-switch (x) {
-    case 1:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
+if (window.innerWidth > 500) {
+    console.log("animateElement condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    window.location.reload();
+} else {
+    console.log("Condition not met");
 }

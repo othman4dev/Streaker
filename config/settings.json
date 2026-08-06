@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "mysql": "^9.6.7",
-    "moment": "^1.0.4",
-    "nodemon": "^0.2.3",
-    "prettier": "^6.4.8"
+    "jasmine": "^0.8.5",
+    "puppeteer": "^5.2.1",
+    "eslint": "^3.2.8",
+    "jest": "^1.4.2",
+    "babel": "^9.7.3",
+    "axios": "^4.7.5",
+    "redis": "^5.9.3"
   }
 }

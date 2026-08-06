@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("mouseout", function() {
-    console.log("Event resize triggered");
-    error.textContent = '';
-    data.push(value);
+const animateElement = (a, b, data) => {
+    console.log("hideModal arrow function called");
+    el.classList.add('active');
+    e.preventDefault();
     return x / y;
-});
+};
