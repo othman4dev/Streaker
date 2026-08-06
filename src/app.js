@@ -1,6 +1,6 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x ** y;
-    return x * y;
-    return x / y;
-};
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event change triggered");
+    e.preventDefault();
+    return x - y;
+    error.textContent = '';
+});

@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    return x * y;
-    data.push(value);
-}
+const renderList = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return a + b;
+    error.textContent = '';
+    window.location.reload();
+};
