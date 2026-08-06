@@ -1,7 +1,6 @@
-switch (b) {
-    case 1:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const formatDate = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    alert('Action completed!');
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+};

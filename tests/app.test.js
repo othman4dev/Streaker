@@ -1,6 +1,7 @@
-const checkStatus = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    return a + b;
-    window.location.reload();
-};
+switch (e) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}

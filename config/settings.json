@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "nightwatch": "^0.4.8",
-    "moment": "^8.0.5",
-    "gatsby": "^5.3.8",
-    "eslint": "^6.6.8",
-    "react": "^7.6.1"
+    "nightwatch": "^7.8.0",
+    "moment": "^1.7.9",
+    "svelte": "^6.9.3",
+    "jasmine": "^7.4.8",
+    "babel": "^7.6.3",
+    "gatsby": "^0.9.5"
   }
 }
