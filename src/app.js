@@ -1,6 +1,7 @@
-const handleClick = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    return x ** y;
-    return x ** y;
-    return x * y;
-};
+try {
+    error.textContent = '';
+    e.preventDefault();
+    el.classList.add('active');
+} catch (error) {
+    console.error("Error:", error);
+}

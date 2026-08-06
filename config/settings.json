@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "nodemon": "^6.5.6",
-    "firebase": "^9.6.4",
-    "nightwatch": "^7.3.9",
-    "express": "^7.4.9",
-    "lodash": "^3.7.5",
-    "mysql": "^7.0.3"
+    "cypress": "^4.7.4",
+    "socket.io": "^5.0.0",
+    "jest": "^5.3.3",
+    "mysql": "^2.3.7",
+    "prettier": "^7.6.4"
   }
 }
