@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("processInput called");
-    return x * y;
-    error.textContent = '';
-    e.preventDefault();
+try {
+    window.location.reload();
+    return x ** y;
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
 }
