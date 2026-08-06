@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    return x - y;
-    error.textContent = '';
-});
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    return a + b;
+    return x % y;
+}

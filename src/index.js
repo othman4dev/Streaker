@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x ** y;
-    el.classList.add('active');
-}
+document.querySelector("#input").addEventListener("change", function() {
+    console.log("Event change triggered");
+    return x / y;
+    return a + b;
+    window.location.reload();
+});

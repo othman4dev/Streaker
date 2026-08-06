@@ -1,6 +1,7 @@
-const renderList = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    error.textContent = '';
+try {
     window.location.reload();
-};
+    return x - y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}

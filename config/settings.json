@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^6.1.0",
-    "prettier": "^2.3.1",
-    "svelte": "^1.7.8",
-    "socket.io": "^9.0.0",
-    "webpack": "^8.0.8",
-    "chai": "^9.9.1",
-    "enzyme": "^5.1.7"
+    "typescript": "^3.4.1",
+    "gatsby": "^0.5.6",
+    "mocha": "^3.7.3",
+    "nodemon": "^6.0.7",
+    "axios": "^5.1.5"
   }
 }
