@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("removeItem condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
-    e.preventDefault();
-} else {
-    console.log("Condition not met");
+switch (b) {
+    case 1:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

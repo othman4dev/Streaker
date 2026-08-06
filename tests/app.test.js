@@ -1,7 +1,6 @@
-try {
-    alert('Action completed!');
-    data.push(value);
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+const checkStatus = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    error.textContent = '';
+    return a + b;
+    window.location.reload();
+};

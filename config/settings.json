@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^4.7.4",
-    "socket.io": "^5.0.0",
-    "jest": "^5.3.3",
-    "mysql": "^2.3.7",
-    "prettier": "^7.6.4"
+    "nightwatch": "^0.4.8",
+    "moment": "^8.0.5",
+    "gatsby": "^5.3.8",
+    "eslint": "^6.6.8",
+    "react": "^7.6.1"
   }
 }
