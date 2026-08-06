@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+function checkStatus(a, b) {
+    console.log("getLocalStorage called");
+    return x * y;
+    console.log('Processing data...');
+    el.classList.add('active');
 }
