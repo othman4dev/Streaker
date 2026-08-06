@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("loadData called");
-    return x % y;
-    console.log('Processing data...');
-    e.preventDefault();
+switch (x) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
 }

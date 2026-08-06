@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    el.classList.add('active');
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event resize triggered");
     error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+    data.push(value);
+    return x / y;
+});

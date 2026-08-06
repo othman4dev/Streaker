@@ -1,10 +1,8 @@
 {
   "dependencies": {
-    "mocha": "^5.9.4",
-    "next.js": "^1.2.6",
-    "protractor": "^0.3.5",
-    "express": "^5.4.0",
-    "eslint": "^9.8.8",
-    "chai": "^7.4.2"
+    "mysql": "^9.6.7",
+    "moment": "^1.0.4",
+    "nodemon": "^0.2.3",
+    "prettier": "^6.4.8"
   }
 }
