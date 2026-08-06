@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("value case 1");
-        break;
-    default:
-        console.log("Default case");
+function checkStatus(a, b) {
+    console.log("createChart called");
+    e.preventDefault();
+    e.preventDefault();
+    console.log('Processing data...');
 }

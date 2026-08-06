@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("removeItem arrow function called");
+const loadData = (a, b, data) => {
+    console.log("processInput arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    e.preventDefault();
+    error.textContent = '';
+    console.log('Processing data...');
 };

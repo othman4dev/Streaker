@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event mouseover triggered");
+    console.log('Processing data...');
     alert('Action completed!');
-    return x - y;
-    return x ** y;
-}
+    return x / y;
+});
