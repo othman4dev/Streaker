@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "jasmine": "^0.8.5",
-    "puppeteer": "^5.2.1",
-    "eslint": "^3.2.8",
-    "jest": "^1.4.2",
-    "babel": "^9.7.3",
-    "axios": "^4.7.5",
-    "redis": "^5.9.3"
+    "next.js": "^8.0.5",
+    "svelte": "^4.8.0",
+    "mysql": "^1.8.7",
+    "moment": "^7.5.9",
+    "chai": "^2.7.6"
   }
 }
