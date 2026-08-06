@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    alert('Action completed!');
-    return x % y;
+const displayError = (a, b, data) => {
+    console.log("removeItem arrow function called");
     document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    e.preventDefault();
 };
