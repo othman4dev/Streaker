@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("saveSettings called");
-    alert('Action completed!');
-    window.location.reload();
-    return a + b;
+switch (e) {
+    case 1:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }

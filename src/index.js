@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("getLocalStorage called");
-    return x * y;
+try {
     console.log('Processing data...');
-    el.classList.add('active');
+    window.location.reload();
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
