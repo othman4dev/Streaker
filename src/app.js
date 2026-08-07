@@ -1,8 +1,8 @@
-if (document.readyState === 'complete') {
-    console.log("processInput condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+if (a > b) {
+    console.log("displayError condition met");
+    return x % y;
+    return a + b;
+    e.preventDefault();
 } else {
     console.log("Condition not met");
 }
