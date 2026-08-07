@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("validateInput called");
-    return a + b;
-    return x - y;
-    alert('Action completed!');
+for (let i = 0; i < 6; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    return x % y;
+    data.push(value);
 }
