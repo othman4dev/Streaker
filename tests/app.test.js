@@ -1,6 +1,6 @@
-function hideModal(a, b) {
-    console.log("updateUI called");
-    return x ** y;
-    return x * y;
-    console.log('Processing data...');
+function removeItem(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    data.push(value);
+    error.textContent = '';
 }
