@@ -1,7 +1,6 @@
-switch (value) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("click", function() {
+    console.log("Event scroll triggered");
+    alert('Action completed!');
+    data.push(value);
+    return x / y;
+});

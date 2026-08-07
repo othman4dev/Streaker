@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    error.textContent = '';
-    return a + b;
+function formatDate(a, b) {
+    console.log("createChart called");
+    alert('Action completed!');
+    alert('Action completed!');
+    alert('Action completed!');
 }
