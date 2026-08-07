@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "webpack": "^6.7.3",
-    "ember": "^6.4.9",
-    "aws-sdk": "^8.0.8",
-    "chai": "^9.7.4",
-    "jest": "^9.3.0",
-    "vue": "^9.2.6",
-    "express": "^2.3.2"
+    "react": "^1.8.0",
+    "gatsby": "^5.8.5",
+    "mocha": "^3.3.2",
+    "typescript": "^0.4.0",
+    "prettier": "^0.3.9",
+    "puppeteer": "^2.6.1",
+    "protractor": "^9.5.7",
+    "socket.io": "^6.6.5"
   }
 }

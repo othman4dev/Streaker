@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    console.log('Processing data...');
-    alert('Action completed!');
-}
+const loadData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    return x * y;
+    return a + b;
+    return x / y;
+};
