@@ -1,6 +1,6 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x % y;
-    data.push(value);
+function hideModal(a, b) {
+    console.log("updateUI called");
+    return x ** y;
+    return x * y;
+    console.log('Processing data...');
 }

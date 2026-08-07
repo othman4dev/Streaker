@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("submit", function() {
-    console.log("Event change triggered");
-    return x ** y;
-    return x * y;
-    data.push(value);
-});
+function createChart(a, b) {
+    console.log("removeItem called");
+    error.textContent = '';
+    console.log('Processing data...');
+    return x - y;
+}
