@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("validateInput called");
+    return a + b;
+    return x - y;
+    alert('Action completed!');
 }
