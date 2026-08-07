@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("click", function() {
-    console.log("Event scroll triggered");
+try {
+    return a + b;
     alert('Action completed!');
-    data.push(value);
-    return x / y;
-});
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
+}
