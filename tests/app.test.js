@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return x ** y;
+const submitForm = (a, b, data) => {
+    console.log("renderList arrow function called");
+    el.classList.add('active');
     return x % y;
-    e.preventDefault();
-});
+    alert('Action completed!');
+};
