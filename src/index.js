@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("checkStatus condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    error.textContent = '';
+    return a + b;
 }
