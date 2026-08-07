@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    e.preventDefault();
-    el.classList.add('active');
-    data.push(value);
-}
+const checkStatus = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
+    return x ** y;
+    console.log('Processing data...');
+};
