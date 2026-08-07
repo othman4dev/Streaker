@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("checkStatus arrow function called");
-    return x * y;
-    return a + b;
-    return x / y;
-};
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
+}

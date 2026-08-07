@@ -1,7 +1,6 @@
-try {
-    return x * y;
-    return x % y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+function toggleMenu(a, b) {
+    console.log("setSessionStorage called");
+    return a + b;
+    e.preventDefault();
+    return x - y;
 }
