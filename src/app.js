@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    return a + b;
-    error.textContent = '';
-    return x * y;
+if (a > b) {
+    console.log("displayError condition met");
+    el.classList.add('active');
+    return x ** y;
+    return x - y;
+} else {
+    console.log("Condition not met");
 }

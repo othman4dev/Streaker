@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("scroll", function() {
-    console.log("Event click triggered");
-    return x ** y;
-    alert('Action completed!');
-    data.push(value);
-});
+switch (b) {
+    case 2:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

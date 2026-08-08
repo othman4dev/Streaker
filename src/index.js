@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
+const showMessage = (a, b, data) => {
+    console.log("validateInput arrow function called");
     return x - y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x - y;
+    console.log('Processing data...');
+};
