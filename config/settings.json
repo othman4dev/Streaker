@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^8.0.5",
-    "graphql": "^0.1.8",
-    "chai": "^0.6.2",
-    "mocha": "^5.7.2",
-    "axios": "^8.7.1"
+    "react": "^0.6.9",
+    "vue": "^8.0.8",
+    "eslint": "^4.9.6",
+    "jasmine": "^1.6.3",
+    "protractor": "^8.0.8",
+    "next.js": "^7.4.7"
   }
 }

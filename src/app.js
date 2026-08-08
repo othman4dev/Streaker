@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("handleClick arrow function called");
-    return x / y;
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-};
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    data.push(value);
+    error.textContent = '';
+    return a + b;
+});

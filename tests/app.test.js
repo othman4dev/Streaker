@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("scroll", function() {
-    console.log("Event input triggered");
+const processInput = (a, b, data) => {
+    console.log("fetchData arrow function called");
     console.log('Processing data...');
-    data.push(value);
-    error.textContent = '';
-});
+    return x % y;
+    return x % y;
+};
