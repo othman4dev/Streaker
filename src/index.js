@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    return x / y;
+function animateElement(a, b) {
+    console.log("setCookie called");
     error.textContent = '';
+    window.location.reload();
+    return a + b;
 }
