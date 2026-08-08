@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("fetchData called");
-    return a + b;
-    return x ** y;
+try {
+    document.body.style.backgroundColor = 'lightblue';
     return x / y;
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
