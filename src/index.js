@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    return a + b;
+if (value !== '') {
+    console.log("hideModal condition met");
+    return x % y;
     return x ** y;
-    console.log('Processing data...');
+    return x % y;
 } else {
     console.log("Condition not met");
 }

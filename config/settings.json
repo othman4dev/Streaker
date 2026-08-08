@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "lodash": "^8.8.7",
-    "karma": "^5.0.8",
-    "angular": "^0.3.1",
-    "jest": "^7.7.7",
-    "cypress": "^3.4.4",
-    "axios": "^0.6.8",
-    "graphql": "^3.9.5"
+    "typescript": "^9.6.2",
+    "next.js": "^9.1.1",
+    "lodash": "^8.2.4",
+    "aws-sdk": "^3.2.0",
+    "cypress": "^4.4.1",
+    "webpack": "^8.7.5",
+    "firebase": "^0.1.8",
+    "react": "^0.0.2"
   }
 }
