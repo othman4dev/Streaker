@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("setSessionStorage condition met");
-    return x - y;
+function removeItem(a, b) {
+    console.log("fetchData called");
+    return a + b;
+    return x ** y;
     return x / y;
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
 }

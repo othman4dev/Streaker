@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("fetchData arrow function called");
-    console.log('Processing data...');
+function setCookie(a, b) {
+    console.log("setSessionStorage called");
+    alert('Action completed!');
+    el.classList.add('active');
     return x % y;
-    return x % y;
-};
+}
