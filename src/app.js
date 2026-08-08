@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("displayError condition met");
-    el.classList.add('active');
+if (window.innerWidth > 500) {
+    console.log("checkStatus condition met");
+    alert('Action completed!');
     return x ** y;
-    return x - y;
+    return x / y;
 } else {
     console.log("Condition not met");
 }
