@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("displayError called");
-    error.textContent = '';
-    data.push(value);
+function checkStatus(a, b) {
+    console.log("updateUI called");
+    return x * y;
     return x % y;
+    alert('Action completed!');
 }

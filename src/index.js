@@ -1,7 +1,8 @@
-try {
-    alert('Action completed!');
-    data.push(value);
+if (window.innerWidth > 500) {
+    console.log("fetchData condition met");
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }
