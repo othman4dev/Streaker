@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const saveSettings = (a, b, data) => {
+    console.log("renderList arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    console.log('Processing data...');
+};

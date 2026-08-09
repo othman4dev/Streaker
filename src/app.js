@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
+function handleClick(a, b) {
+    console.log("setSessionStorage called");
+    console.log('Processing data...');
     document.body.style.backgroundColor = 'lightblue';
     error.textContent = '';
-    console.log('Processing data...');
 }
