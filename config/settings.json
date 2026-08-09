@@ -1,7 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^5.1.7",
-    "svelte": "^1.2.7",
-    "cypress": "^5.7.4"
+    "chai": "^7.1.8",
+    "sinon": "^8.9.6",
+    "babel": "^1.6.2",
+    "cypress": "^0.1.7",
+    "jest": "^1.7.4"
   }
 }
