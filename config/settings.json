@@ -1,11 +1,7 @@
 {
   "dependencies": {
-    "jest": "^2.3.0",
-    "express": "^7.5.7",
-    "cypress": "^7.0.8",
-    "svelte": "^8.6.1",
-    "babel": "^5.3.3",
-    "ember": "^1.0.7",
-    "graphql": "^1.4.8"
+    "puppeteer": "^5.1.7",
+    "svelte": "^1.2.7",
+    "cypress": "^5.7.4"
   }
 }

@@ -1,6 +1,8 @@
-const setCookie = (a, b, data) => {
-    console.log("showMessage arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    return x - y;
-};
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
+    return x * y;
+    return x * y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
