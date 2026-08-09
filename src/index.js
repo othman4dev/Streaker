@@ -1,6 +1,8 @@
-const handleClick = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
+if (x === y) {
+    console.log("toggleMenu condition met");
     alert('Action completed!');
-    return x * y;
+    data.push(value);
     return x / y;
-};
+} else {
+    console.log("Condition not met");
+}
