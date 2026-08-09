@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^9.0.7",
-    "prettier": "^2.1.7",
-    "aws-sdk": "^4.8.1",
-    "angular": "^8.7.4",
-    "lodash": "^5.3.0"
+    "nightwatch": "^6.5.9",
+    "babel": "^1.0.3",
+    "puppeteer": "^9.6.6",
+    "mysql": "^5.0.5",
+    "aws-sdk": "^3.2.6"
   }
 }

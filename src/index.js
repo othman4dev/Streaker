@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x % y;
-    window.location.reload();
-    console.log('Processing data...');
-};
+switch (data) {
+    case 1:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
