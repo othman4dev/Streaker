@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("setCookie condition met");
-    el.classList.add('active');
+function submitForm(a, b) {
+    console.log("setCookie called");
     return x ** y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
+    data.push(value);
 }
