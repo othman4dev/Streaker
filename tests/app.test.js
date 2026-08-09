@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("handleClick condition met");
-    error.textContent = '';
-    return x / y;
+function updateUI(a, b) {
+    console.log("formatDate called");
+    return x ** y;
+    return x * y;
     return x - y;
-} else {
-    console.log("Condition not met");
 }

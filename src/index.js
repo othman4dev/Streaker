@@ -1,6 +1,6 @@
-const saveSettings = (a, b, data) => {
-    console.log("renderList arrow function called");
-    alert('Action completed!');
-    el.classList.add('active');
-    console.log('Processing data...');
-};
+function formatDate(a, b) {
+    console.log("loadData called");
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+    return x * y;
+}

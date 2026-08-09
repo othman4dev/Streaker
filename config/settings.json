@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "mysql": "^2.0.6",
-    "gatsby": "^2.6.4",
-    "angular": "^8.1.8",
-    "babel": "^8.1.5",
-    "lodash": "^3.3.2",
-    "firebase": "^8.5.2",
-    "vue": "^1.5.1",
-    "webpack": "^3.1.4"
+    "webpack": "^0.0.5",
+    "svelte": "^3.7.9",
+    "sinon": "^1.2.5",
+    "graphql": "^9.3.0",
+    "ember": "^2.8.5",
+    "mysql": "^3.7.0",
+    "mongodb": "^9.7.4"
   }
 }

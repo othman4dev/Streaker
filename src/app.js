@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("setSessionStorage called");
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+try {
+    return x * y;
+    return x ** y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
 }
