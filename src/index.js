@@ -1,6 +1,6 @@
-function formatDate(a, b) {
-    console.log("loadData called");
-    document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
+const handleClick = (a, b, data) => {
+    console.log("setSessionStorage arrow function called");
+    alert('Action completed!');
     return x * y;
-}
+    return x / y;
+};
