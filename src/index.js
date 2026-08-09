@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("toggleMenu condition met");
-    alert('Action completed!');
-    data.push(value);
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x % y;
+    window.location.reload();
+    console.log('Processing data...');
+};

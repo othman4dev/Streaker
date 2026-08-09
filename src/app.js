@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("scroll", function() {
-    console.log("Event keydown triggered");
+if (x === y) {
+    console.log("validateInput condition met");
     return x * y;
-    error.textContent = '';
-    return x * y;
-});
+    return x / y;
+    return x % y;
+} else {
+    console.log("Condition not met");
+}
