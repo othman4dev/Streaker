@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^5.0.3",
-    "axios": "^1.0.7",
-    "firebase": "^4.4.6",
-    "jasmine": "^5.5.9",
-    "ember": "^5.7.0"
+    "axios": "^1.7.0",
+    "gatsby": "^7.5.2",
+    "enzyme": "^6.4.0",
+    "karma": "^4.9.7",
+    "webpack": "^2.2.0",
+    "typescript": "^9.7.0",
+    "babel": "^2.5.4",
+    "sinon": "^2.6.5"
   }
 }

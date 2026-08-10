@@ -1,6 +1,8 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    return x * y;
-    console.log('Processing data...');
-    return x % y;
+if (a > b) {
+    console.log("toggleMenu condition met");
+    return a + b;
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("click", function() {
-    console.log("Event change triggered");
-    el.classList.add('active');
-    window.location.reload();
-    return x ** y;
-});
+for (let i = 0; i < 7; i++) {
+    console.log("Loop iteration: " + i);
+    return x % y;
+    e.preventDefault();
+    e.preventDefault();
+}
