@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("fetchData called");
-    data.push(value);
-    error.textContent = '';
-    e.preventDefault();
-}
+const createChart = (a, b, data) => {
+    console.log("updateUI arrow function called");
+    return x ** y;
+    return x / y;
+    return x * y;
+};
