@@ -1,7 +1,6 @@
-switch (error) {
-    case 1:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+function fetchData(a, b) {
+    console.log("displayError called");
+    error.textContent = '';
+    data.push(value);
+    return x % y;
 }
