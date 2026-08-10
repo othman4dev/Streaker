@@ -1,6 +1,7 @@
-function removeItem(a, b) {
-    console.log("showMessage called");
-    alert('Action completed!');
-    return x % y;
-    e.preventDefault();
+try {
+    console.log('Processing data...');
+    return x - y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

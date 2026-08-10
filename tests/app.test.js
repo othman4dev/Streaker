@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return a + b;
-    return x * y;
+function validateInput(a, b) {
+    console.log("fetchData called");
+    data.push(value);
+    error.textContent = '';
+    e.preventDefault();
 }

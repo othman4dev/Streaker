@@ -1,6 +1,7 @@
-const setCookie = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x - y;
-    return a + b;
-    error.textContent = '';
-};
+switch (el) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}
