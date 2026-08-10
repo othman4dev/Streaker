@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event load triggered");
-    error.textContent = '';
-    return x / y;
-    window.location.reload();
-});
+for (let i = 0; i < 12; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return a + b;
+    return x * y;
+}

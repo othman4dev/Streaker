@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "gatsby": "^1.7.8",
-    "aws-sdk": "^9.5.0",
-    "next.js": "^7.7.5",
-    "mocha": "^8.7.3",
-    "puppeteer": "^8.2.4",
-    "socket.io": "^2.0.3",
-    "sinon": "^8.5.0",
-    "react": "^7.4.3"
+    "ember": "^7.9.7",
+    "babel": "^5.3.3",
+    "nodemon": "^9.4.0",
+    "next.js": "^6.8.7",
+    "graphql": "^2.9.5",
+    "gatsby": "^2.7.1",
+    "vue": "^1.9.6",
+    "lodash": "^7.3.8"
   }
 }

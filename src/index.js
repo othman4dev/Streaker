@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x ** y;
+function removeItem(a, b) {
+    console.log("showMessage called");
+    alert('Action completed!');
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
 }
