@@ -1,7 +1,6 @@
-switch (x) {
-    case 2:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("#nav").addEventListener("click", function() {
+    console.log("Event load triggered");
+    error.textContent = '';
+    return x / y;
+    window.location.reload();
+});

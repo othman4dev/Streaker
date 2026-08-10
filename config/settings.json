@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "mysql": "^1.7.9",
-    "angular": "^0.6.4",
-    "cypress": "^6.7.9",
-    "jest": "^0.7.0",
-    "express": "^0.5.5",
-    "lodash": "^9.3.1"
+    "gatsby": "^1.7.8",
+    "aws-sdk": "^9.5.0",
+    "next.js": "^7.7.5",
+    "mocha": "^8.7.3",
+    "puppeteer": "^8.2.4",
+    "socket.io": "^2.0.3",
+    "sinon": "^8.5.0",
+    "react": "^7.4.3"
   }
 }

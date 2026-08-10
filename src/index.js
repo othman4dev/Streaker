@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("submitForm called");
-    error.textContent = '';
-    error.textContent = '';
-    return x * y;
+try {
+    data.push(value);
+    return x ** y;
+    return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
