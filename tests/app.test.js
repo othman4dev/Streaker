@@ -1,6 +1,7 @@
-function checkStatus(a, b) {
-    console.log("updateUI called");
-    return x * y;
-    return x % y;
-    alert('Action completed!');
+switch (x) {
+    case 2:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
 }

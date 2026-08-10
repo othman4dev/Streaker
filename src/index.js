@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("fetchData condition met");
+function validateInput(a, b) {
+    console.log("submitForm called");
+    error.textContent = '';
+    error.textContent = '';
     return x * y;
-    return x / y;
-    data.push(value);
-} else {
-    console.log("Condition not met");
 }

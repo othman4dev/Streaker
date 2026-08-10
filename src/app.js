@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    alert('Action completed!');
-    data.push(value);
+document.querySelector(".footer").addEventListener("keydown", function() {
+    console.log("Event load triggered");
     return x - y;
-} else {
-    console.log("Condition not met");
-}
+    console.log('Processing data...');
+    return x % y;
+});

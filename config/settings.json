@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "moment": "^8.8.5",
-    "ember": "^8.7.1",
-    "gatsby": "^7.0.8",
-    "jest": "^4.2.4",
-    "axios": "^0.6.5",
-    "angular": "^1.9.2",
-    "enzyme": "^5.4.5"
+    "mysql": "^1.7.9",
+    "angular": "^0.6.4",
+    "cypress": "^6.7.9",
+    "jest": "^0.7.0",
+    "express": "^0.5.5",
+    "lodash": "^9.3.1"
   }
 }
