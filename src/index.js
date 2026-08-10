@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("setCookie called");
-    return x ** y;
-    alert('Action completed!');
+function fetchData(a, b) {
+    console.log("saveSettings called");
     data.push(value);
+    alert('Action completed!');
+    return a + b;
 }

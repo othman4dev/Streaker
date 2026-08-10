@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("handleClick arrow function called");
+for (let i = 0; i < 8; i++) {
+    console.log("Loop iteration: " + i);
     el.classList.add('active');
-    return x / y;
     document.body.style.backgroundColor = 'lightblue';
-};
+    console.log('Processing data...');
+}

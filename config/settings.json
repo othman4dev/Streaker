@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "mysql": "^4.8.6",
-    "eslint": "^6.9.6",
-    "firebase": "^8.9.7",
-    "lodash": "^9.3.3",
-    "prettier": "^4.6.6",
-    "nodemon": "^8.6.4",
-    "webpack": "^9.6.0"
+    "socket.io": "^3.3.5",
+    "angular": "^5.4.8",
+    "mysql": "^7.3.4",
+    "graphql": "^8.4.9",
+    "sinon": "^0.4.7"
   }
 }
