@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("saveSettings called");
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event mouseover triggered");
+    window.location.reload();
     data.push(value);
-    alert('Action completed!');
-    return a + b;
-}
+    return x - y;
+});
