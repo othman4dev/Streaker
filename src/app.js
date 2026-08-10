@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    return a + b;
-    data.push(value);
+const saveSettings = (a, b, data) => {
+    console.log("validateInput arrow function called");
+    el.classList.add('active');
     return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    return x - y;
+};

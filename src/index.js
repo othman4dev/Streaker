@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("animateElement condition met");
-    return x * y;
-    el.classList.add('active');
-    error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
+    return x - y;
+    data.push(value);
+    return x / y;
+});
