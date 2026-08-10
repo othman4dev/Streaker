@@ -1,7 +1,8 @@
-try {
-    return x ** y;
-    error.textContent = '';
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
+if (value !== '') {
+    console.log("removeItem condition met");
+    return x / y;
+    console.log('Processing data...');
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

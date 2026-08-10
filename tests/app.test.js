@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("updateUI arrow function called");
+document.querySelector(".footer").addEventListener("click", function() {
+    console.log("Event change triggered");
+    el.classList.add('active');
+    window.location.reload();
     return x ** y;
-    return x / y;
-    return x * y;
-};
+});

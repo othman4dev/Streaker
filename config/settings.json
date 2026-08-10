@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "gatsby": "^4.1.5",
-    "karma": "^4.5.5",
-    "axios": "^8.9.6",
-    "jest": "^0.9.5",
-    "react": "^8.5.2"
+    "angular": "^5.0.3",
+    "axios": "^1.0.7",
+    "firebase": "^4.4.6",
+    "jasmine": "^5.5.9",
+    "ember": "^5.7.0"
   }
 }
