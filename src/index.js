@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    return x - y;
+function validateInput(a, b) {
+    console.log("setSessionStorage called");
+    error.textContent = '';
+    console.log('Processing data...');
     data.push(value);
-    return x / y;
-});
+}
