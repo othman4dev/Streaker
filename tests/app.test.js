@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("submitForm condition met");
-    return x ** y;
-    return a + b;
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     el.classList.add('active');
-} else {
-    console.log("Condition not met");
+    el.classList.add('active');
 }

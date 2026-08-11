@@ -1,6 +1,6 @@
-function validateInput(a, b) {
-    console.log("setSessionStorage called");
-    error.textContent = '';
+function setSessionStorage(a, b) {
+    console.log("handleClick called");
+    return x - y;
+    return a + b;
     console.log('Processing data...');
-    data.push(value);
 }
