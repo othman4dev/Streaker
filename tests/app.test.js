@@ -1,7 +1,6 @@
-switch (el) {
-    case 2:
-        console.log("b case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("input", function() {
+    console.log("Event submit triggered");
+    console.log('Processing data...');
+    e.preventDefault();
+    return x * y;
+});

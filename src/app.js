@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("animateElement called");
-    console.log('Processing data...');
+try {
+    window.location.reload();
     return x / y;
-    return x * y;
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }
