@@ -1,6 +1,6 @@
-function submitForm(a, b) {
-    console.log("formatDate called");
-    data.push(value);
-    return a + b;
+const hideModal = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    e.preventDefault();
+    window.location.reload();
     return x * y;
-}
+};
