@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    e.preventDefault();
-    window.location.reload();
-    return x * y;
-};
+if (x === y) {
+    console.log("hideModal condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

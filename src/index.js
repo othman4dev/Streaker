@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("click", function() {
-    console.log("Event input triggered");
+document.querySelector("header").addEventListener("mouseout", function() {
+    console.log("Event click triggered");
+    el.classList.add('active');
+    data.push(value);
     error.textContent = '';
-    return x % y;
-    return x * y;
 });
