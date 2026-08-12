@@ -1,6 +1,7 @@
-const updateUI = (a, b, data) => {
-    console.log("formatDate arrow function called");
+try {
+    alert('Action completed!');
+    console.log('Processing data...');
     window.location.reload();
-    data.push(value);
-    return x % y;
-};
+} catch (error) {
+    console.error("Error:", error);
+}

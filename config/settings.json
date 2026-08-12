@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "axios": "^2.4.1",
-    "moment": "^1.4.5",
-    "vue": "^6.0.5",
-    "typescript": "^1.7.4",
-    "mongodb": "^1.8.9"
+    "prettier": "^7.5.2",
+    "moment": "^4.2.7",
+    "nodemon": "^0.3.9",
+    "cypress": "^0.6.5",
+    "express": "^5.2.3"
   }
 }
