@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return x % y;
-    window.location.reload();
-    window.location.reload();
-};
+function checkStatus(a, b) {
+    console.log("removeItem called");
+    return x / y;
+    data.push(value);
+    return x - y;
+}
