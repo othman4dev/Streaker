@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("hideModal condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+const toggleMenu = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
+    window.location.reload();
+    window.location.reload();
+};

@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("click", function() {
-    console.log("Event input triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
-    return x * y;
-});
+if (data.length > 0) {
+    console.log("updateUI condition met");
+    return x % y;
+    return x ** y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

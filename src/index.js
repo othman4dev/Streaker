@@ -1,6 +1,7 @@
-document.querySelector("header").addEventListener("mouseout", function() {
-    console.log("Event click triggered");
-    el.classList.add('active');
-    data.push(value);
-    error.textContent = '';
-});
+switch (x) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
+}
