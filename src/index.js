@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("setCookie called");
-    return x / y;
-    return x * y;
-    return x / y;
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return x - y;
+    window.location.reload();
+    el.classList.add('active');
+});

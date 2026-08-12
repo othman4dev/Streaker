@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("submitForm called");
-    alert('Action completed!');
-    return a + b;
+function submitForm(a, b) {
+    console.log("formatDate called");
     data.push(value);
+    return a + b;
+    return x * y;
 }
