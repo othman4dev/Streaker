@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
+function fetchData(a, b) {
+    console.log("setCookie called");
     return x / y;
+    return x * y;
     return x / y;
 }

@@ -1,7 +1,6 @@
-try {
+function saveSettings(a, b) {
+    console.log("submitForm called");
     alert('Action completed!');
-    console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    return a + b;
+    data.push(value);
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 14; i++) {
-    console.log("Loop iteration: " + i);
+const setCookie = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return x - y;
-    el.classList.add('active');
-    console.log('Processing data...');
-}
+    return x * y;
+    return x * y;
+};

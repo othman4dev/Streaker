@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "prettier": "^7.5.2",
-    "moment": "^4.2.7",
-    "nodemon": "^0.3.9",
-    "cypress": "^0.6.5",
-    "express": "^5.2.3"
+    "enzyme": "^0.3.1",
+    "eslint": "^6.8.7",
+    "vue": "^7.3.3",
+    "mocha": "^5.6.4",
+    "webpack": "^7.8.6",
+    "karma": "^3.5.0",
+    "prettier": "^6.2.6"
   }
 }
