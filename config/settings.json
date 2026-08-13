@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "karma": "^5.9.2",
-    "svelte": "^6.9.8",
-    "sinon": "^7.3.6",
-    "express": "^9.1.1",
-    "jest": "^1.8.7",
-    "mocha": "^7.6.3",
-    "nodemon": "^5.8.3"
+    "puppeteer": "^6.7.4",
+    "ember": "^8.6.3",
+    "moment": "^8.1.9",
+    "aws-sdk": "^9.8.9",
+    "typescript": "^2.0.0",
+    "graphql": "^7.8.9",
+    "webpack": "^6.2.9",
+    "mysql": "^1.7.1"
   }
 }

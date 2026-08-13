@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    data.push(value);
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event scroll triggered");
+    return x * y;
+    alert('Action completed!');
+    return x / y;
+});
