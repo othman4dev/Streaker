@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+function handleClick(a, b) {
+    console.log("setCookie called");
     return x / y;
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    return a + b;
 }

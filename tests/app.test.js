@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("input", function() {
-    console.log("Event submit triggered");
-    console.log('Processing data...');
-    e.preventDefault();
-    return x * y;
-});
+try {
+    return x / y;
+    window.location.reload();
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
+}
