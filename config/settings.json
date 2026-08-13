@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "redis": "^7.9.2",
-    "puppeteer": "^0.9.6",
-    "nodemon": "^0.4.4",
-    "graphql": "^1.9.3",
-    "jasmine": "^7.3.1",
-    "moment": "^4.3.5",
-    "aws-sdk": "^4.5.3",
-    "angular": "^0.7.3"
+    "lodash": "^6.8.5",
+    "mocha": "^0.4.9",
+    "next.js": "^7.5.1",
+    "ember": "^3.2.9",
+    "graphql": "^4.8.9",
+    "vue": "^6.3.4",
+    "enzyme": "^7.4.3",
+    "gatsby": "^9.4.6"
   }
 }

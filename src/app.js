@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("fetchData called");
-    error.textContent = '';
-    return x ** y;
-    console.log('Processing data...');
-}
+const displayError = (a, b, data) => {
+    console.log("loadData arrow function called");
+    window.location.reload();
+    return x / y;
+    el.classList.add('active');
+};
