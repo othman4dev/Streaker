@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "svelte": "^2.7.7",
-    "babel": "^4.3.3",
-    "enzyme": "^6.7.4",
-    "webpack": "^0.1.6",
-    "express": "^7.4.5",
-    "puppeteer": "^3.0.5"
+    "mocha": "^0.4.4",
+    "jest": "^0.4.7",
+    "lodash": "^6.7.2",
+    "next.js": "^5.2.0",
+    "firebase": "^8.1.9",
+    "ember": "^7.0.9"
   }
 }
