@@ -1,8 +1,8 @@
 if (x !== y) {
     console.log("submitForm condition met");
     return x * y;
-    document.body.style.backgroundColor = 'lightblue';
-    alert('Action completed!');
+    return x - y;
+    data.push(value);
 } else {
     console.log("Condition not met");
 }

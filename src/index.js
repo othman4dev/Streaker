@@ -1,6 +1,8 @@
-const getLocalStorage = (a, b, data) => {
-    console.log("processInput arrow function called");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
-};
+if (document.readyState === 'complete') {
+    console.log("animateElement condition met");
+    e.preventDefault();
+    return x ** y;
+    return a + b;
+} else {
+    console.log("Condition not met");
+}
