@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("toggleMenu condition met");
-    e.preventDefault();
-    e.preventDefault();
-    return a + b;
-} else {
-    console.log("Condition not met");
+function hideModal(a, b) {
+    console.log("showMessage called");
+    return x % y;
+    return x - y;
+    alert('Action completed!');
 }
