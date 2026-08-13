@@ -1,6 +1,7 @@
-function saveSettings(a, b) {
-    console.log("saveSettings called");
-    data.push(value);
-    el.classList.add('active');
-    e.preventDefault();
+switch (a) {
+    case 4:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

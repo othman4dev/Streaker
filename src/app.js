@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("updateUI condition met");
-    alert('Action completed!');
-    window.location.reload();
+function updateUI(a, b) {
+    console.log("fetchData called");
+    error.textContent = '';
     return x ** y;
-} else {
-    console.log("Condition not met");
+    console.log('Processing data...');
 }

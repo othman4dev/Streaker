@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("createChart condition met");
+document.querySelector("#input").addEventListener("blur", function() {
+    console.log("Event focus triggered");
+    window.location.reload();
+    e.preventDefault();
     return x - y;
-    return a + b;
-    return x / y;
-} else {
-    console.log("Condition not met");
-}
+});
