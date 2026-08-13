@@ -1,6 +1,7 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    return x * y;
+try {
+    el.classList.add('active');
     return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+    window.location.reload();
+} catch (error) {
+    console.error("Error:", error);
+}

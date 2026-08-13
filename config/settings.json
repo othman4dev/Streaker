@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "redis": "^3.8.7",
-    "vue": "^8.7.5",
-    "karma": "^1.9.1",
-    "socket.io": "^9.0.7",
-    "react": "^2.6.9",
-    "prettier": "^5.0.8"
+    "svelte": "^2.7.7",
+    "babel": "^4.3.3",
+    "enzyme": "^6.7.4",
+    "webpack": "^0.1.6",
+    "express": "^7.4.5",
+    "puppeteer": "^3.0.5"
   }
 }
