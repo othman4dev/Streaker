@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setSessionStorage condition met");
-    return x / y;
+function animateElement(a, b) {
+    console.log("loadData called");
     data.push(value);
-    return x ** y;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    el.classList.add('active');
 }

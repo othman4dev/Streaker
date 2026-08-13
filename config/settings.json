@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "mocha": "^1.9.5",
-    "firebase": "^0.1.1",
-    "mysql": "^0.3.1",
-    "cypress": "^0.2.4",
-    "graphql": "^4.1.8",
-    "nodemon": "^7.0.0"
+    "aws-sdk": "^0.1.8",
+    "redis": "^6.8.2",
+    "ember": "^2.5.9",
+    "chai": "^6.8.9",
+    "cypress": "^5.1.2"
   }
 }

@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("change", function() {
-    console.log("Event click triggered");
-    window.location.reload();
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-});
+switch (el) {
+    case 5:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

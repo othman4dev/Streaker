@@ -1,6 +1,8 @@
-document.querySelector(".footer").addEventListener("mouseout", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    alert('Action completed!');
-    return x - y;
-});
+if (a > b) {
+    console.log("showMessage condition met");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    document.body.style.backgroundColor = 'lightblue';
+} else {
+    console.log("Condition not met");
+}
