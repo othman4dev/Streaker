@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("loadData called");
+function removeItem(a, b) {
+    console.log("animateElement called");
+    e.preventDefault();
     data.push(value);
-    error.textContent = '';
-    el.classList.add('active');
+    document.body.style.backgroundColor = 'lightblue';
 }

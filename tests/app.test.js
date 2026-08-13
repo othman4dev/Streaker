@@ -1,8 +1,8 @@
-if (a > b) {
-    console.log("showMessage condition met");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
+if (window.innerWidth > 500) {
+    console.log("displayError condition met");
+    return x * y;
+    e.preventDefault();
+    return x * y;
 } else {
     console.log("Condition not met");
 }

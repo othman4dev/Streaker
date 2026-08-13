@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "aws-sdk": "^0.1.8",
-    "redis": "^6.8.2",
-    "ember": "^2.5.9",
-    "chai": "^6.8.9",
-    "cypress": "^5.1.2"
+    "axios": "^2.8.9",
+    "enzyme": "^5.0.2",
+    "aws-sdk": "^3.9.6",
+    "ember": "^9.6.4",
+    "react": "^2.3.2"
   }
 }
