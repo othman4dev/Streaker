@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "protractor": "^9.8.4",
-    "jest": "^2.4.7",
-    "graphql": "^1.2.9",
-    "firebase": "^5.9.5",
-    "karma": "^4.4.8"
+    "cypress": "^5.1.5",
+    "graphql": "^5.9.5",
+    "jasmine": "^3.3.2",
+    "chai": "^3.4.8",
+    "ember": "^1.5.5",
+    "jest": "^0.6.3",
+    "firebase": "^9.8.9"
   }
 }

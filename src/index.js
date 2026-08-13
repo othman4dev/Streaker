@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    data.push(value);
+document.querySelector("window").addEventListener("change", function() {
+    console.log("Event focus triggered");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x * y;
+    return a + b;
+});
