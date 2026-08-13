@@ -1,8 +1,6 @@
-if (x !== y) {
-    console.log("saveSettings condition met");
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+document.querySelector(".footer").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    el.classList.add('active');
+    alert('Action completed!');
+    return x - y;
+});

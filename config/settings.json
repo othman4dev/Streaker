@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "ember": "^7.1.7",
-    "prettier": "^2.9.5",
-    "sinon": "^9.8.1",
-    "webpack": "^9.8.4",
-    "protractor": "^6.7.6",
-    "gatsby": "^7.2.6",
-    "angular": "^6.9.7",
-    "eslint": "^1.7.7"
+    "mocha": "^1.9.5",
+    "firebase": "^0.1.1",
+    "mysql": "^0.3.1",
+    "cypress": "^0.2.4",
+    "graphql": "^4.1.8",
+    "nodemon": "^7.0.0"
   }
 }

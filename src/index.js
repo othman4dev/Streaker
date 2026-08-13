@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    window.location.reload();
-    return a + b;
-});
+if (e.key === 'Enter') {
+    console.log("setSessionStorage condition met");
+    return x / y;
+    data.push(value);
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}

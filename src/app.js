@@ -1,7 +1,6 @@
-switch (x) {
-    case 4:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("form").addEventListener("change", function() {
+    console.log("Event click triggered");
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
