@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return x * y;
-    alert('Action completed!');
-    return x / y;
-});
+function saveSettings(a, b) {
+    console.log("saveSettings called");
+    data.push(value);
+    el.classList.add('active');
+    e.preventDefault();
+}

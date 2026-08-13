@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("processInput condition met");
+if (window.innerWidth > 500) {
+    console.log("updateUI condition met");
+    alert('Action completed!');
+    window.location.reload();
     return x ** y;
-    data.push(value);
-    return x / y;
 } else {
     console.log("Condition not met");
 }

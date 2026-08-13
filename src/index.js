@@ -1,6 +1,8 @@
-for (let i = 0; i < 15; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
-    return x ** y;
-    data.push(value);
+if (x === y) {
+    console.log("createChart condition met");
+    return x - y;
+    return a + b;
+    return x / y;
+} else {
+    console.log("Condition not met");
 }

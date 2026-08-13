@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "puppeteer": "^6.7.4",
-    "ember": "^8.6.3",
-    "moment": "^8.1.9",
-    "aws-sdk": "^9.8.9",
-    "typescript": "^2.0.0",
-    "graphql": "^7.8.9",
-    "webpack": "^6.2.9",
-    "mysql": "^1.7.1"
+    "svelte": "^3.2.7",
+    "protractor": "^4.3.9",
+    "graphql": "^2.9.6",
+    "mysql": "^2.1.4",
+    "jest": "^8.3.5"
   }
 }
