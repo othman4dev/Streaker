@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "angular": "^7.2.1",
-    "webpack": "^0.9.1",
-    "nodemon": "^5.8.7",
-    "typescript": "^4.5.2",
-    "prettier": "^6.1.0"
+    "ember": "^7.1.7",
+    "prettier": "^2.9.5",
+    "sinon": "^9.8.1",
+    "webpack": "^9.8.4",
+    "protractor": "^6.7.6",
+    "gatsby": "^7.2.6",
+    "angular": "^6.9.7",
+    "eslint": "^1.7.7"
   }
 }
