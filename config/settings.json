@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "cypress": "^5.1.5",
-    "graphql": "^5.9.5",
-    "jasmine": "^3.3.2",
-    "chai": "^3.4.8",
-    "ember": "^1.5.5",
-    "jest": "^0.6.3",
-    "firebase": "^9.8.9"
+    "chai": "^9.0.9",
+    "svelte": "^4.9.3",
+    "mysql": "^4.3.5",
+    "webpack": "^2.4.7",
+    "protractor": "^7.2.9"
   }
 }

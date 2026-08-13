@@ -1,7 +1,6 @@
-try {
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-} catch (error) {
-    console.error("Error:", error);
+function validateInput(a, b) {
+    console.log("animateElement called");
+    console.log('Processing data...');
+    return x / y;
+    return x * y;
 }
