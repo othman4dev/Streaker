@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "jest": "^8.7.2",
-    "lodash": "^6.5.8",
-    "svelte": "^2.3.2",
-    "enzyme": "^0.9.8",
-    "puppeteer": "^8.7.0",
-    "prettier": "^1.0.6"
+    "protractor": "^9.8.4",
+    "jest": "^2.4.7",
+    "graphql": "^1.2.9",
+    "firebase": "^5.9.5",
+    "karma": "^4.4.8"
   }
 }

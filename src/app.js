@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    window.location.reload();
-    error.textContent = '';
-    e.preventDefault();
-}
+const getLocalStorage = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x ** y;
+    return x - y;
+    return x % y;
+};
