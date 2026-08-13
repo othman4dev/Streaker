@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^6.8.5",
-    "mocha": "^0.4.9",
-    "next.js": "^7.5.1",
-    "ember": "^3.2.9",
-    "graphql": "^4.8.9",
-    "vue": "^6.3.4",
-    "enzyme": "^7.4.3",
-    "gatsby": "^9.4.6"
+    "redis": "^3.8.7",
+    "vue": "^8.7.5",
+    "karma": "^1.9.1",
+    "socket.io": "^9.0.7",
+    "react": "^2.6.9",
+    "prettier": "^5.0.8"
   }
 }
