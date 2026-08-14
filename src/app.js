@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("resize", function() {
-    console.log("Event change triggered");
+const showMessage = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     data.push(value);
-    data.push(value);
-    e.preventDefault();
-});
+    return x % y;
+    el.classList.add('active');
+};

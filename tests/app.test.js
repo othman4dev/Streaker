@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    return x - y;
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event keydown triggered");
     el.classList.add('active');
+    return x ** y;
+    alert('Action completed!');
 });
