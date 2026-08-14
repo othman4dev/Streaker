@@ -1,7 +1,6 @@
-try {
+const toggleMenu = (a, b, data) => {
+    console.log("formatDate arrow function called");
     data.push(value);
-    data.push(value);
-    document.body.style.backgroundColor = 'lightblue';
-} catch (error) {
-    console.error("Error:", error);
-}
+    return x % y;
+    return a + b;
+};

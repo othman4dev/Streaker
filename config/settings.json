@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "axios": "^0.6.5",
-    "ember": "^9.3.3",
-    "jasmine": "^2.7.4",
-    "mysql": "^5.8.1",
-    "nodemon": "^6.1.5",
-    "nightwatch": "^3.9.3",
-    "next.js": "^0.2.1",
-    "typescript": "^0.6.3"
+    "puppeteer": "^2.3.2",
+    "vue": "^9.1.9",
+    "graphql": "^8.7.3",
+    "express": "^0.6.5",
+    "moment": "^7.6.8",
+    "svelte": "^2.8.8",
+    "protractor": "^1.7.0",
+    "axios": "^6.5.3"
   }
 }

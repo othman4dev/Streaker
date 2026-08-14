@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("focus", function() {
-    console.log("Event blur triggered");
-    return x * y;
-    return x - y;
-    return x * y;
-});
+try {
+    alert('Action completed!');
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+} catch (error) {
+    console.error("Error:", error);
+}
