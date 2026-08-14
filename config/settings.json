@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "jest": "^0.0.2",
-    "angular": "^9.1.6",
-    "lodash": "^0.4.9",
-    "svelte": "^3.1.8",
-    "webpack": "^0.5.4",
-    "sinon": "^2.3.8",
-    "gatsby": "^3.8.4"
+    "axios": "^0.6.5",
+    "ember": "^9.3.3",
+    "jasmine": "^2.7.4",
+    "mysql": "^5.8.1",
+    "nodemon": "^6.1.5",
+    "nightwatch": "^3.9.3",
+    "next.js": "^0.2.1",
+    "typescript": "^0.6.3"
   }
 }

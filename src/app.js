@@ -1,6 +1,8 @@
-function setCookie(a, b) {
-    console.log("setCookie called");
-    console.log('Processing data...');
-    error.textContent = '';
+if (window.innerWidth > 500) {
+    console.log("validateInput condition met");
+    el.classList.add('active');
+    alert('Action completed!');
     return x % y;
+} else {
+    console.log("Condition not met");
 }
