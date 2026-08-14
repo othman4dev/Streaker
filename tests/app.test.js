@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event submit triggered");
-    return x % y;
-    alert('Action completed!');
-    el.classList.add('active');
-});
+try {
+    return x * y;
+    window.location.reload();
+    data.push(value);
+} catch (error) {
+    console.error("Error:", error);
+}
