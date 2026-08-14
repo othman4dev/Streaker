@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("click", function() {
-    console.log("Event blur triggered");
-    return x ** y;
-    el.classList.add('active');
-    el.classList.add('active');
-});
+function setCookie(a, b) {
+    console.log("setCookie called");
+    console.log('Processing data...');
+    error.textContent = '';
+    return x % y;
+}

@@ -1,11 +1,11 @@
 {
   "dependencies": {
-    "mongodb": "^3.6.9",
-    "typescript": "^8.1.1",
-    "babel": "^5.9.8",
-    "firebase": "^6.5.8",
-    "socket.io": "^4.6.7",
-    "svelte": "^5.0.2",
-    "prettier": "^8.7.1"
+    "jest": "^0.0.2",
+    "angular": "^9.1.6",
+    "lodash": "^0.4.9",
+    "svelte": "^3.1.8",
+    "webpack": "^0.5.4",
+    "sinon": "^2.3.8",
+    "gatsby": "^3.8.4"
   }
 }
