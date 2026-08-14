@@ -1,7 +1,6 @@
-try {
-    return x * y;
+function toggleMenu(a, b) {
+    console.log("removeItem called");
     window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    error.textContent = '';
 }

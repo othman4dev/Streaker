@@ -1,12 +1,11 @@
 {
   "dependencies": {
-    "enzyme": "^5.2.0",
-    "typescript": "^9.5.7",
-    "vue": "^8.5.4",
-    "ember": "^1.7.4",
-    "axios": "^3.3.5",
-    "gatsby": "^7.4.5",
-    "svelte": "^8.9.7",
-    "eslint": "^9.0.7"
+    "react": "^5.5.7",
+    "angular": "^7.4.6",
+    "typescript": "^4.6.4",
+    "ember": "^1.6.9",
+    "redis": "^7.7.0",
+    "nodemon": "^2.4.5",
+    "lodash": "^3.8.4"
   }
 }

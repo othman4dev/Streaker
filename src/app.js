@@ -1,7 +1,6 @@
-try {
-    return x % y;
-    return x * y;
-    error.textContent = '';
-} catch (error) {
-    console.error("Error:", error);
-}
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    return a + b;
+    console.log('Processing data...');
+    return a + b;
+};

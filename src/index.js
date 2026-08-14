@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return a + b;
-    alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("mouseover", function() {
+    console.log("Event mouseover triggered");
+    return x % y;
+    el.classList.add('active');
+    return x * y;
+});
