@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "axios": "^8.9.3",
-    "next.js": "^7.0.9",
-    "babel": "^8.4.3",
-    "redis": "^0.2.2",
-    "moment": "^8.8.8",
-    "express": "^6.3.2",
-    "eslint": "^3.3.2"
+    "chai": "^4.4.1",
+    "jest": "^7.0.5",
+    "angular": "^1.3.3",
+    "gatsby": "^8.0.1",
+    "redis": "^4.2.4"
   }
 }
