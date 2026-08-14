@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("mouseover", function() {
-    console.log("Event mouseover triggered");
-    return x % y;
+function animateElement(a, b) {
+    console.log("formatDate called");
+    return x ** y;
+    alert('Action completed!');
     el.classList.add('active');
-    return x * y;
-});
+}

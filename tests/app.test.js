@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("removeItem called");
-    window.location.reload();
-    console.log('Processing data...');
-    error.textContent = '';
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event blur triggered");
+    e.preventDefault();
+    return x - y;
+    el.classList.add('active');
+});

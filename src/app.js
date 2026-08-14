@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    return a + b;
-    console.log('Processing data...');
-    return a + b;
-};
+document.querySelector(".container").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    data.push(value);
+    data.push(value);
+    e.preventDefault();
+});
