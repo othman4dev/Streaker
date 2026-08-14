@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "vue": "^4.2.1",
-    "enzyme": "^9.5.8",
-    "jest": "^5.2.4",
-    "nodemon": "^2.2.6",
-    "gatsby": "^3.6.3"
+    "next.js": "^7.4.3",
+    "sinon": "^2.1.2",
+    "react": "^7.6.4",
+    "lodash": "^4.7.7",
+    "nodemon": "^4.5.9",
+    "gatsby": "^5.3.6"
   }
 }

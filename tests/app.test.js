@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    alert('Action completed!');
-};
+document.querySelector("#input").addEventListener("keydown", function() {
+    console.log("Event click triggered");
+    e.preventDefault();
+    window.location.reload();
+    data.push(value);
+});
