@@ -1,7 +1,6 @@
-switch (b) {
-    case 5:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function getLocalStorage(a, b) {
+    console.log("showMessage called");
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
+    return x - y;
 }
