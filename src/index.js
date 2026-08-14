@@ -1,6 +1,7 @@
-function getLocalStorage(a, b) {
-    console.log("showMessage called");
-    return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
+try {
+    window.location.reload();
+    alert('Action completed!');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }
