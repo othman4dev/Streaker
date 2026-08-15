@@ -1,6 +1,7 @@
-document.querySelector("form").addEventListener("load", function() {
-    console.log("Event change triggered");
-    data.push(value);
-    console.log('Processing data...');
-    console.log('Processing data...');
-});
+switch (b) {
+    case 4:
+        console.log("e case 1");
+        break;
+    default:
+        console.log("Default case");
+}
