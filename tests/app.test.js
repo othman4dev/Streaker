@@ -1,8 +1,6 @@
-if (window.innerWidth > 500) {
-    console.log("processInput condition met");
+function animateElement(a, b) {
+    console.log("updateUI called");
     return a + b;
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-} else {
-    console.log("Condition not met");
+    error.textContent = '';
+    data.push(value);
 }

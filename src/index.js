@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
+function showMessage(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    el.classList.add('active');
     return x % y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+}
