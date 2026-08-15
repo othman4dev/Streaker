@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("resize", function() {
-    console.log("Event blur triggered");
-    return a + b;
-    return x % y;
-    alert('Action completed!');
-});
+function checkStatus(a, b) {
+    console.log("processInput called");
+    return x / y;
+    error.textContent = '';
+    return x - y;
+}
