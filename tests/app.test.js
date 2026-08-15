@@ -1,7 +1,6 @@
-switch (a) {
-    case 5:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+const renderList = (a, b, data) => {
+    console.log("handleClick arrow function called");
+    error.textContent = '';
+    return a + b;
+    alert('Action completed!');
+};
