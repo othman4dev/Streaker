@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("setCookie called");
+try {
+    error.textContent = '';
     console.log('Processing data...');
     return x % y;
-    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }
