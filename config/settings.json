@@ -1,10 +1,9 @@
 {
   "dependencies": {
-    "prettier": "^0.9.2",
-    "karma": "^7.1.7",
-    "babel": "^7.4.6",
-    "socket.io": "^6.0.9",
-    "next.js": "^6.7.7",
-    "enzyme": "^7.6.8"
+    "vue": "^4.2.1",
+    "enzyme": "^9.5.8",
+    "jest": "^5.2.4",
+    "nodemon": "^2.2.6",
+    "gatsby": "^3.6.3"
   }
 }

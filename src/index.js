@@ -1,6 +1,7 @@
-function showMessage(a, b) {
-    console.log("displayError called");
-    window.location.reload();
-    el.classList.add('active');
-    return x % y;
+switch (e) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

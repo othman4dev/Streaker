@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
+const createChart = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
     return a + b;
-    error.textContent = '';
-    data.push(value);
-}
+    alert('Action completed!');
+};
