@@ -1,6 +1,6 @@
-document.querySelector("#nav").addEventListener("mouseover", function() {
-    console.log("Event submit triggered");
-    window.location.reload();
-    return x - y;
-    error.textContent = '';
-});
+function showMessage(a, b) {
+    console.log("setCookie called");
+    console.log('Processing data...');
+    return x % y;
+    e.preventDefault();
+}
