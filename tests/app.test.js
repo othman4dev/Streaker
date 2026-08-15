@@ -1,6 +1,8 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    console.log('Processing data...');
-    e.preventDefault();
-});
+if (x !== y) {
+    console.log("handleClick condition met");
+    error.textContent = '';
+    return x ** y;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}
