@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "karma": "^1.4.3",
-    "jest": "^2.3.3",
-    "jasmine": "^9.9.3",
-    "mysql": "^1.7.0",
-    "svelte": "^9.3.2",
-    "ember": "^3.4.8",
-    "cypress": "^2.4.0"
+    "jest": "^7.0.7",
+    "firebase": "^9.8.4",
+    "angular": "^7.0.4",
+    "nodemon": "^4.5.2",
+    "gatsby": "^5.3.5",
+    "prettier": "^6.3.1"
   }
 }
