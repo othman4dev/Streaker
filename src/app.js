@@ -1,6 +1,8 @@
-for (let i = 0; i < 6; i++) {
-    console.log("Loop iteration: " + i);
+if (x === y) {
+    console.log("checkStatus condition met");
     return x ** y;
-    console.log('Processing data...');
-    e.preventDefault();
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }

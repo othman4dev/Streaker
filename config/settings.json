@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^8.6.1",
-    "webpack": "^1.4.0",
-    "enzyme": "^9.0.7",
-    "aws-sdk": "^0.7.2",
-    "nodemon": "^2.4.3",
-    "jest": "^2.3.2",
-    "mocha": "^8.6.2",
-    "express": "^6.2.6",
-    "prettier": "^9.8.5"
+    "karma": "^1.4.3",
+    "jest": "^2.3.3",
+    "jasmine": "^9.9.3",
+    "mysql": "^1.7.0",
+    "svelte": "^9.3.2",
+    "ember": "^3.4.8",
+    "cypress": "^2.4.0"
   }
 }

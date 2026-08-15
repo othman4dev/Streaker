@@ -1,6 +1,6 @@
-const fetchData = (a, b, data) => {
-    console.log("loadData arrow function called");
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
     console.log('Processing data...');
-    window.location.reload();
     el.classList.add('active');
-};
+}
