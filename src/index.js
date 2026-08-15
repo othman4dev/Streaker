@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("change", function() {
-    console.log("Event scroll triggered");
-    return a + b;
-    console.log('Processing data...');
-    return x / y;
+document.querySelector(".footer").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    e.preventDefault();
+    return x % y;
+    document.body.style.backgroundColor = 'lightblue';
 });
