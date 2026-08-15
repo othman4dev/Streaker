@@ -1,6 +1,8 @@
-function checkStatus(a, b) {
-    console.log("processInput called");
-    return x / y;
-    error.textContent = '';
-    return x - y;
+if (data.length > 0) {
+    console.log("removeItem condition met");
+    console.log('Processing data...');
+    return a + b;
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
 }

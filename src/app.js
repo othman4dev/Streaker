@@ -1,6 +1,8 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return x * y;
-    el.classList.add('active');
+if (x === y) {
+    console.log("setCookie condition met");
+    alert('Action completed!');
+    window.location.reload();
+    return x ** y;
+} else {
+    console.log("Condition not met");
 }

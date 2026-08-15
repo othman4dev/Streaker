@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "express": "^7.3.5",
-    "lodash": "^7.5.5",
-    "aws-sdk": "^0.5.7",
-    "firebase": "^0.2.1",
-    "puppeteer": "^8.6.9",
-    "redis": "^6.9.4",
-    "next.js": "^5.2.0",
-    "gatsby": "^8.5.4"
+    "redis": "^5.3.6",
+    "babel": "^7.5.9",
+    "axios": "^0.7.1",
+    "nightwatch": "^4.6.6",
+    "mongodb": "^9.9.1",
+    "jest": "^5.7.5"
   }
 }

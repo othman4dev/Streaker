@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    window.location.reload();
-    alert('Action completed!');
-    console.log('Processing data...');
-};
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    el.classList.add('active');
+}
