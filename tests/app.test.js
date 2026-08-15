@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("removeItem condition met");
-    console.log('Processing data...');
-    return a + b;
-    el.classList.add('active');
-} else {
-    console.log("Condition not met");
+for (let i = 0; i < 16; i++) {
+    console.log("Loop iteration: " + i);
+    data.push(value);
+    return x / y;
+    alert('Action completed!');
 }
