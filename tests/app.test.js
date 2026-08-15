@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("processInput arrow function called");
-    return x / y;
-    return x * y;
-    return x % y;
-};
+for (let i = 0; i < 17; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    return x ** y;
+    return x ** y;
+}

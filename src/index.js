@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("saveSettings called");
-    e.preventDefault();
+document.querySelector("#nav").addEventListener("mouseover", function() {
+    console.log("Event submit triggered");
+    window.location.reload();
+    return x - y;
     error.textContent = '';
-    data.push(value);
-}
+});
