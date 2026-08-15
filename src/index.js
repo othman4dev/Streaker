@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    data.push(value);
-    return x % y;
-    return a + b;
+const removeItem = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    el.classList.add('active');
+    return x * y;
 };

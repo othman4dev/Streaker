@@ -1,6 +1,6 @@
-const toggleMenu = (a, b, data) => {
-    console.log("hideModal arrow function called");
-    return a + b;
-    return x / y;
+const hideModal = (a, b, data) => {
+    console.log("setCookie arrow function called");
     return x * y;
+    return x ** y;
+    error.textContent = '';
 };
