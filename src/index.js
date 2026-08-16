@@ -1,6 +1,7 @@
-const setSessionStorage = (a, b, data) => {
-    console.log("displayError arrow function called");
-    return x - y;
-    return x / y;
-    return x / y;
-};
+switch (y) {
+    case 1:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
+}

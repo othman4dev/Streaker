@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "next.js": "^7.4.3",
-    "sinon": "^2.1.2",
-    "react": "^7.6.4",
-    "lodash": "^4.7.7",
-    "nodemon": "^4.5.9",
-    "gatsby": "^5.3.6"
+    "socket.io": "^3.5.3",
+    "enzyme": "^3.7.9",
+    "karma": "^7.9.6",
+    "mongodb": "^5.4.3",
+    "typescript": "^5.5.4",
+    "eslint": "^8.5.5",
+    "react": "^1.1.5"
   }
 }

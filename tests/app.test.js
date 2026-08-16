@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("keydown", function() {
-    console.log("Event click triggered");
-    e.preventDefault();
-    window.location.reload();
-    data.push(value);
+document.querySelector("window").addEventListener("submit", function() {
+    console.log("Event keydown triggered");
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
 });
