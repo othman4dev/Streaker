@@ -1,6 +1,7 @@
-const saveSettings = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x % y;
-    console.log('Processing data...');
-    document.body.style.backgroundColor = 'lightblue';
-};
+switch (a) {
+    case 2:
+        console.log("b case 1");
+        break;
+    default:
+        console.log("Default case");
+}

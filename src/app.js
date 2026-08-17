@@ -1,8 +1,8 @@
-if (x === y) {
-    console.log("fetchData condition met");
-    return x % y;
-    return x - y;
-    data.push(value);
+if (value !== '') {
+    console.log("validateInput condition met");
+    e.preventDefault();
+    error.textContent = '';
+    error.textContent = '';
 } else {
     console.log("Condition not met");
 }
