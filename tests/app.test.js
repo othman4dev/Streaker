@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("mouseout", function() {
-    console.log("Event load triggered");
-    return a + b;
-    error.textContent = '';
-    e.preventDefault();
-});
+for (let i = 0; i < 20; i++) {
+    console.log("Loop iteration: " + i);
+    return x / y;
+    window.location.reload();
+    return x * y;
+}

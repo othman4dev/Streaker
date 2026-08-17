@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    window.location.reload();
-    return x ** y;
-    return x * y;
+const formatDate = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x % y;
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
 };

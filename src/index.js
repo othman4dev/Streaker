@@ -1,8 +1,8 @@
 if (x === y) {
-    console.log("fetchData condition met");
-    return x - y;
-    el.classList.add('active');
-    el.classList.add('active');
+    console.log("handleClick condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    return x % y;
+    return x % y;
 } else {
     console.log("Condition not met");
 }
