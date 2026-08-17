@@ -1,6 +1,6 @@
-function removeItem(a, b) {
-    console.log("fetchData called");
-    return x * y;
-    e.preventDefault();
-    window.location.reload();
-}
+const removeItem = (a, b, data) => {
+    console.log("createChart arrow function called");
+    data.push(value);
+    el.classList.add('active');
+    alert('Action completed!');
+};

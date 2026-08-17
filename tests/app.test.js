@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("setCookie condition met");
-    return x ** y;
-    console.log('Processing data...');
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
-}
+const fetchData = (a, b, data) => {
+    console.log("checkStatus arrow function called");
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    error.textContent = '';
+};
