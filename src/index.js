@@ -1,6 +1,6 @@
 function removeItem(a, b) {
-    console.log("createChart called");
-    data.push(value);
-    return a + b;
-    document.body.style.backgroundColor = 'lightblue';
+    console.log("fetchData called");
+    return x * y;
+    e.preventDefault();
+    window.location.reload();
 }
