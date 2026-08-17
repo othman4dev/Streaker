@@ -1,7 +1,6 @@
-switch (data) {
-    case 3:
-        console.log("data case 1");
-        break;
-    default:
-        console.log("Default case");
+function showMessage(a, b) {
+    console.log("checkStatus called");
+    return x ** y;
+    data.push(value);
+    window.location.reload();
 }

@@ -1,6 +1,6 @@
-for (let i = 0; i < 19; i++) {
-    console.log("Loop iteration: " + i);
-    return x ** y;
-    return x / y;
-    return x % y;
-}
+document.querySelector(".footer").addEventListener("focus", function() {
+    console.log("Event mouseover triggered");
+    return x - y;
+    return a + b;
+    console.log('Processing data...');
+});
