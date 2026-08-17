@@ -1,6 +1,6 @@
-document.querySelector("#input").addEventListener("submit", function() {
-    console.log("Event click triggered");
+const updateUI = (a, b, data) => {
+    console.log("processInput arrow function called");
+    return x * y;
     return x - y;
-    alert('Action completed!');
-    window.location.reload();
-});
+    error.textContent = '';
+};

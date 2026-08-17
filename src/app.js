@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("change", function() {
-    console.log("Event resize triggered");
+const checkStatus = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    alert('Action completed!');
+    return x ** y;
     error.textContent = '';
-    return x % y;
-    return x % y;
-});
+};
