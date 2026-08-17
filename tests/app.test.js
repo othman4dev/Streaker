@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("keydown", function() {
-    console.log("Event keydown triggered");
-    e.preventDefault();
-    return x / y;
+function animateElement(a, b) {
+    console.log("showMessage called");
+    return x * y;
     error.textContent = '';
-});
+    return x * y;
+}
