@@ -1,7 +1,8 @@
-try {
-    el.classList.add('active');
-    window.location.reload();
+if (x === y) {
+    console.log("fetchData condition met");
     return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+    data.push(value);
+} else {
+    console.log("Condition not met");
 }

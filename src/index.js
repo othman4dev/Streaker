@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("createChart arrow function called");
-    data.push(value);
-    el.classList.add('active');
-    alert('Action completed!');
+const saveSettings = (a, b, data) => {
+    console.log("renderList arrow function called");
+    return x % y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 };
