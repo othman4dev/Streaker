@@ -1,7 +1,6 @@
-switch (b) {
-    case 4:
-        console.log("y case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("scroll", function() {
+    console.log("Event focus triggered");
+    data.push(value);
+    el.classList.add('active');
+    console.log('Processing data...');
+});
