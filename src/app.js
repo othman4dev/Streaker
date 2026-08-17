@@ -1,6 +1,6 @@
-const checkStatus = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    alert('Action completed!');
-    return x ** y;
-    error.textContent = '';
-};
+document.querySelector(".container").addEventListener("scroll", function() {
+    console.log("Event input triggered");
+    data.push(value);
+    document.body.style.backgroundColor = 'lightblue';
+    return x * y;
+});
