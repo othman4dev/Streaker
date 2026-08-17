@@ -1,8 +1,6 @@
-if (value !== '') {
-    console.log("validateInput condition met");
-    e.preventDefault();
+const loadData = (a, b, data) => {
+    console.log("removeItem arrow function called");
     error.textContent = '';
     error.textContent = '';
-} else {
-    console.log("Condition not met");
-}
+    return x ** y;
+};
