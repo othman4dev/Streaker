@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "socket.io": "^3.5.3",
-    "enzyme": "^3.7.9",
-    "karma": "^7.9.6",
-    "mongodb": "^5.4.3",
-    "typescript": "^5.5.4",
-    "eslint": "^8.5.5",
-    "react": "^1.1.5"
+    "lodash": "^1.8.5",
+    "webpack": "^0.0.1",
+    "puppeteer": "^1.8.4",
+    "socket.io": "^4.4.9",
+    "axios": "^0.9.9",
+    "enzyme": "^2.8.7"
   }
 }

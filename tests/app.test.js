@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("submit", function() {
-    console.log("Event keydown triggered");
+document.querySelector("#button").addEventListener("focus", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    el.classList.add('active');
     alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
 });
