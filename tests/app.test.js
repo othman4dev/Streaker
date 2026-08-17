@@ -1,6 +1,6 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
+document.querySelector("form").addEventListener("keydown", function() {
+    console.log("Event keydown triggered");
     e.preventDefault();
-    alert('Action completed!');
-    console.log('Processing data...');
-};
+    return x / y;
+    error.textContent = '';
+});
