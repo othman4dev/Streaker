@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^1.8.5",
-    "webpack": "^0.0.1",
-    "puppeteer": "^1.8.4",
-    "socket.io": "^4.4.9",
-    "axios": "^0.9.9",
-    "enzyme": "^2.8.7"
+    "prettier": "^9.7.8",
+    "eslint": "^6.2.8",
+    "mocha": "^1.4.8",
+    "axios": "^4.5.4",
+    "sinon": "^1.7.5",
+    "chai": "^6.4.6"
   }
 }

@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("focus", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    el.classList.add('active');
+const displayError = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    e.preventDefault();
     alert('Action completed!');
-});
+    console.log('Processing data...');
+};
