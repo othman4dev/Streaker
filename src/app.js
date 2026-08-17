@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("removeItem arrow function called");
-    error.textContent = '';
-    error.textContent = '';
-    return x ** y;
-};
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    return x * y;
+    return x / y;
+});

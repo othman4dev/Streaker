@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("submit", function() {
-    console.log("Event mouseover triggered");
+function showMessage(a, b) {
+    console.log("saveSettings called");
     return a + b;
-    e.preventDefault();
+    console.log('Processing data...');
     alert('Action completed!');
-});
+}
