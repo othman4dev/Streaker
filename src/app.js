@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("showMessage arrow function called");
+const checkStatus = (a, b, data) => {
+    console.log("removeItem arrow function called");
     window.location.reload();
-    return a + b;
-    error.textContent = '';
+    return x ** y;
+    return x * y;
 };

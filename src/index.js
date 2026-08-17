@@ -1,6 +1,8 @@
-document.querySelector(".modal").addEventListener("scroll", function() {
-    console.log("Event focus triggered");
-    data.push(value);
+if (x === y) {
+    console.log("fetchData condition met");
+    return x - y;
     el.classList.add('active');
-    console.log('Processing data...');
-});
+    el.classList.add('active');
+} else {
+    console.log("Condition not met");
+}

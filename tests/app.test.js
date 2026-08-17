@@ -1,7 +1,6 @@
-try {
-    return x - y;
+document.querySelector(".modal").addEventListener("mouseout", function() {
+    console.log("Event load triggered");
+    return a + b;
     error.textContent = '';
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+});
