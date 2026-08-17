@@ -1,6 +1,6 @@
-for (let i = 0; i < 20; i++) {
-    console.log("Loop iteration: " + i);
-    return x / y;
+document.querySelector("#input").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    return x - y;
+    alert('Action completed!');
     window.location.reload();
-    return x * y;
-}
+});

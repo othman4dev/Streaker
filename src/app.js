@@ -1,6 +1,6 @@
-const formatDate = (a, b, data) => {
-    console.log("setCookie arrow function called");
+document.querySelector(".modal").addEventListener("change", function() {
+    console.log("Event resize triggered");
+    error.textContent = '';
     return x % y;
-    alert('Action completed!');
-    document.body.style.backgroundColor = 'lightblue';
-};
+    return x % y;
+});
