@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^2.1.0",
-    "redis": "^5.9.2",
-    "angular": "^0.7.4",
-    "karma": "^0.6.8",
-    "firebase": "^9.6.8",
-    "protractor": "^5.4.9"
+    "prettier": "^4.9.6",
+    "jest": "^6.6.3",
+    "lodash": "^8.7.2",
+    "socket.io": "^6.2.4",
+    "babel": "^1.0.3",
+    "moment": "^4.1.5"
   }
 }

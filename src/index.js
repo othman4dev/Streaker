@@ -1,6 +1,7 @@
-document.querySelector("window").addEventListener("resize", function() {
-    console.log("Event keydown triggered");
-    window.location.reload();
-    return x % y;
-    window.location.reload();
-});
+switch (data) {
+    case 1:
+        console.log("y case 1");
+        break;
+    default:
+        console.log("Default case");
+}
