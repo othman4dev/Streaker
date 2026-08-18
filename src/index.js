@@ -1,6 +1,8 @@
-function fetchData(a, b) {
-    console.log("animateElement called");
-    return x % y;
-    data.push(value);
+if (a > b) {
+    console.log("setCookie condition met");
     return a + b;
+    return x % y;
+    return x % y;
+} else {
+    console.log("Condition not met");
 }
