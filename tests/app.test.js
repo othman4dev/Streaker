@@ -1,6 +1,6 @@
-for (let i = 0; i < 9; i++) {
-    console.log("Loop iteration: " + i);
-    data.push(value);
-    return x ** y;
-    e.preventDefault();
-}
+document.querySelector("document").addEventListener("submit", function() {
+    console.log("Event click triggered");
+    console.log('Processing data...');
+    console.log('Processing data...');
+    window.location.reload();
+});

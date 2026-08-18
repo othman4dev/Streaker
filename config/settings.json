@@ -1,9 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^5.5.8",
-    "jest": "^1.2.3",
-    "sinon": "^7.9.7",
-    "typescript": "^5.9.4",
-    "cypress": "^4.7.3"
+    "mocha": "^7.0.4",
+    "typescript": "^6.8.4",
+    "mysql": "^5.8.5",
+    "nightwatch": "^2.4.9",
+    "ember": "^5.9.3",
+    "graphql": "^2.7.4"
   }
 }

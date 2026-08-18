@@ -1,6 +1,7 @@
-document.querySelector("#nav").addEventListener("blur", function() {
-    console.log("Event submit triggered");
-    error.textContent = '';
+try {
+    return a + b;
     return x * y;
-    console.log('Processing data...');
-});
+    return x / y;
+} catch (error) {
+    console.error("Error:", error);
+}
