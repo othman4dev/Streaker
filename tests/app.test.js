@@ -1,6 +1,8 @@
-document.querySelector("document").addEventListener("load", function() {
-    console.log("Event focus triggered");
-    return x * y;
-    return x % y;
-    window.location.reload();
-});
+if (data.length > 0) {
+    console.log("setSessionStorage condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}

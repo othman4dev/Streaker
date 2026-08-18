@@ -1,6 +1,8 @@
-document.querySelector("form").addEventListener("mouseout", function() {
-    console.log("Event blur triggered");
-    e.preventDefault();
-    window.location.reload();
-    e.preventDefault();
-});
+if (x !== y) {
+    console.log("checkStatus condition met");
+    return a + b;
+    return x ** y;
+    error.textContent = '';
+} else {
+    console.log("Condition not met");
+}
