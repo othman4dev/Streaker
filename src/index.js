@@ -1,7 +1,6 @@
-try {
-    return a + b;
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event blur triggered");
     return x * y;
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    alert('Action completed!');
+    document.body.style.backgroundColor = 'lightblue';
+});

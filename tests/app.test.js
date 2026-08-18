@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("submit", function() {
-    console.log("Event click triggered");
-    console.log('Processing data...');
-    console.log('Processing data...');
+for (let i = 0; i < 5; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    e.preventDefault();
     window.location.reload();
-});
+}
