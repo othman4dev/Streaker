@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "vue": "^0.8.8",
-    "chai": "^6.4.3",
-    "ember": "^1.1.7",
-    "moment": "^8.7.6",
-    "graphql": "^5.7.4",
-    "karma": "^6.5.4",
-    "nightwatch": "^4.6.6"
+    "moment": "^5.0.2",
+    "redis": "^9.5.5",
+    "webpack": "^2.4.2",
+    "firebase": "^3.6.6",
+    "protractor": "^4.1.7"
   }
 }
