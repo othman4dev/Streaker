@@ -1,6 +1,6 @@
-const validateInput = (a, b, data) => {
-    console.log("formatDate arrow function called");
+document.querySelector("document").addEventListener("load", function() {
+    console.log("Event focus triggered");
     return x * y;
-    return x - y;
-    return x / y;
-};
+    return x % y;
+    window.location.reload();
+});

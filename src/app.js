@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+document.querySelector("form").addEventListener("mouseout", function() {
+    console.log("Event blur triggered");
     e.preventDefault();
-    alert('Action completed!');
-    return x ** y;
-}
+    window.location.reload();
+    e.preventDefault();
+});

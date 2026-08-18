@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "express": "^6.1.4",
-    "mysql": "^0.7.5",
-    "mongodb": "^9.7.7",
-    "svelte": "^0.6.9",
-    "typescript": "^2.0.5"
+    "mocha": "^6.3.8",
+    "prettier": "^2.2.6",
+    "chai": "^0.6.8",
+    "mongodb": "^3.1.9",
+    "jasmine": "^6.4.2",
+    "enzyme": "^2.8.7",
+    "moment": "^2.7.9",
+    "nodemon": "^9.9.1"
   }
 }
