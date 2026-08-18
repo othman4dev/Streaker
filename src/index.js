@@ -1,7 +1,6 @@
-switch (el) {
-    case 4:
-        console.log("a case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("window").addEventListener("mouseout", function() {
+    console.log("Event scroll triggered");
+    return x ** y;
+    return a + b;
+    return x ** y;
+});
