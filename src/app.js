@@ -1,7 +1,6 @@
-try {
-    return x - y;
-    window.location.reload();
-    data.push(value);
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector(".container").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    el.classList.add('active');
+    return x * y;
+    return x * y;
+});
