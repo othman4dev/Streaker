@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "redis": "^7.3.6",
-    "puppeteer": "^4.4.6",
-    "jest": "^2.9.7",
-    "graphql": "^2.7.4",
-    "aws-sdk": "^6.2.5",
-    "typescript": "^2.3.2",
-    "cypress": "^6.4.4"
+    "lodash": "^5.2.2",
+    "puppeteer": "^2.1.7",
+    "prettier": "^2.2.0",
+    "svelte": "^7.9.9",
+    "axios": "^2.5.5",
+    "redis": "^1.6.5",
+    "socket.io": "^0.0.9",
+    "jest": "^8.4.1"
   }
 }
