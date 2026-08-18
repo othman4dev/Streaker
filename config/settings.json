@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^5.2.2",
-    "puppeteer": "^2.1.7",
-    "prettier": "^2.2.0",
-    "svelte": "^7.9.9",
-    "axios": "^2.5.5",
-    "redis": "^1.6.5",
-    "socket.io": "^0.0.9",
-    "jest": "^8.4.1"
+    "firebase": "^8.3.4",
+    "socket.io": "^0.9.8",
+    "express": "^5.9.3",
+    "jest": "^0.2.4",
+    "graphql": "^9.3.3",
+    "nodemon": "^1.8.8"
   }
 }

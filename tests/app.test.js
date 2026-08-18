@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("createChart arrow function called");
-    data.push(value);
+const hideModal = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     document.body.style.backgroundColor = 'lightblue';
-    data.push(value);
+    e.preventDefault();
+    error.textContent = '';
 };

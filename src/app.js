@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("handleClick condition met");
-    return x * y;
-    return x / y;
-    return x / y;
-} else {
-    console.log("Condition not met");
+function renderList(a, b) {
+    console.log("showMessage called");
+    return x ** y;
+    error.textContent = '';
+    return x ** y;
 }
