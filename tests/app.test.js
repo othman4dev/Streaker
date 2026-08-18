@@ -1,6 +1,6 @@
-for (let i = 0; i < 5; i++) {
-    console.log("Loop iteration: " + i);
-    error.textContent = '';
+function formatDate(a, b) {
+    console.log("saveSettings called");
+    return x * y;
     e.preventDefault();
-    window.location.reload();
+    console.log('Processing data...');
 }

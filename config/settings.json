@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "moment": "^4.8.8",
-    "karma": "^1.4.7",
-    "protractor": "^9.5.1",
-    "nodemon": "^2.3.2",
-    "angular": "^1.1.0",
-    "gatsby": "^8.6.2",
-    "firebase": "^2.7.9",
-    "nightwatch": "^0.5.4"
+    "protractor": "^7.0.3",
+    "svelte": "^5.9.2",
+    "karma": "^6.2.8",
+    "mysql": "^1.9.6",
+    "eslint": "^6.4.3",
+    "mongodb": "^2.6.8"
   }
 }
