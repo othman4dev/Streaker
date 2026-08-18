@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "firebase": "^8.3.4",
-    "socket.io": "^0.9.8",
-    "express": "^5.9.3",
-    "jest": "^0.2.4",
-    "graphql": "^9.3.3",
-    "nodemon": "^1.8.8"
+    "webpack": "^2.1.0",
+    "redis": "^5.9.2",
+    "angular": "^0.7.4",
+    "karma": "^0.6.8",
+    "firebase": "^9.6.8",
+    "protractor": "^5.4.9"
   }
 }
