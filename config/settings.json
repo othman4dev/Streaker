@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "enzyme": "^1.7.0",
-    "protractor": "^0.1.7",
-    "jest": "^8.1.1",
-    "lodash": "^0.0.2",
-    "webpack": "^0.7.5",
-    "redis": "^3.5.0",
-    "nightwatch": "^4.0.7",
-    "next.js": "^8.5.1"
+    "eslint": "^6.3.2",
+    "cypress": "^5.1.8",
+    "mongodb": "^5.0.2",
+    "react": "^1.0.7",
+    "sinon": "^3.8.5"
   }
 }

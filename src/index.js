@@ -1,8 +1,6 @@
-if (document.readyState === 'complete') {
-    console.log("saveSettings condition met");
+document.querySelector(".footer").addEventListener("input", function() {
+    console.log("Event focus triggered");
+    return x / y;
+    return x * y;
     e.preventDefault();
-    return x - y;
-    console.log('Processing data...');
-} else {
-    console.log("Condition not met");
-}
+});
