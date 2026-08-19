@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "cypress": "^9.0.8",
-    "axios": "^6.5.1",
-    "angular": "^7.0.2",
-    "redis": "^6.9.9",
-    "prettier": "^4.4.5",
-    "mongodb": "^1.7.4",
-    "react": "^3.9.5",
-    "lodash": "^6.7.8"
+    "enzyme": "^1.7.0",
+    "protractor": "^0.1.7",
+    "jest": "^8.1.1",
+    "lodash": "^0.0.2",
+    "webpack": "^0.7.5",
+    "redis": "^3.5.0",
+    "nightwatch": "^4.0.7",
+    "next.js": "^8.5.1"
   }
 }

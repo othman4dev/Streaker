@@ -1,7 +1,6 @@
-switch (e) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector(".modal").addEventListener("mouseover", function() {
+    console.log("Event input triggered");
+    alert('Action completed!');
+    return x % y;
+    e.preventDefault();
+});
