@@ -1,6 +1,7 @@
-function formatDate(a, b) {
-    console.log("saveSettings called");
-    return x * y;
-    e.preventDefault();
-    console.log('Processing data...');
+switch (e) {
+    case 3:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
