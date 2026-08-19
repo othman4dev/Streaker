@@ -1,9 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^6.3.2",
-    "cypress": "^5.1.8",
-    "mongodb": "^5.0.2",
-    "react": "^1.0.7",
-    "sinon": "^3.8.5"
+    "jest": "^1.0.5",
+    "axios": "^1.2.7",
+    "eslint": "^0.9.3",
+    "babel": "^8.4.7",
+    "svelte": "^8.0.5",
+    "chai": "^7.3.6",
+    "express": "^4.0.5",
+    "protractor": "^9.7.3"
   }
 }
