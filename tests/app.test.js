@@ -1,8 +1,7 @@
-if (value !== '') {
-    console.log("removeItem condition met");
-    return x ** y;
-    return x ** y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
+try {
+    el.classList.add('active');
+    e.preventDefault();
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

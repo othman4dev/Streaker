@@ -1,7 +1,6 @@
-try {
-    return x - y;
+const loadData = (a, b, data) => {
+    console.log("getLocalStorage arrow function called");
     el.classList.add('active');
-    el.classList.add('active');
-} catch (error) {
-    console.error("Error:", error);
-}
+    return a + b;
+    return x * y;
+};
