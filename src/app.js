@@ -1,6 +1,6 @@
-function loadData(a, b) {
-    console.log("processInput called");
-    window.location.reload();
-    return x / y;
-    error.textContent = '';
+function formatDate(a, b) {
+    console.log("removeItem called");
+    return x - y;
+    return x % y;
+    return a + b;
 }
