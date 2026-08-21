@@ -1,6 +1,7 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event scroll triggered");
-    el.classList.add('active');
-    window.location.reload();
+try {
     console.log('Processing data...');
-});
+    return x - y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

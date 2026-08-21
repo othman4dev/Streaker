@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("toggleMenu arrow function called");
-    alert('Action completed!');
-    console.log('Processing data...');
-    alert('Action completed!');
+const formatDate = (a, b, data) => {
+    console.log("removeItem arrow function called");
+    data.push(value);
+    el.classList.add('active');
+    el.classList.add('active');
 };

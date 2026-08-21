@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "webpack": "^8.6.0",
-    "jasmine": "^2.7.5",
-    "enzyme": "^9.5.9",
-    "sinon": "^0.5.3",
-    "cypress": "^9.9.4",
-    "graphql": "^5.1.1"
+    "svelte": "^3.0.1",
+    "lodash": "^9.0.2",
+    "express": "^3.6.9",
+    "firebase": "^6.5.4",
+    "eslint": "^0.5.1",
+    "webpack": "^1.1.9"
   }
 }

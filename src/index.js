@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("animateElement arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+function processInput(a, b) {
+    console.log("getLocalStorage called");
     return x - y;
-};
+    return x / y;
+    return x ** y;
+}
