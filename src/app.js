@@ -1,6 +1,7 @@
-function validateInput(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    console.log('Processing data...');
-    return x - y;
+try {
+    window.location.reload();
+    alert('Action completed!');
+    alert('Action completed!');
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,6 +1,6 @@
-const setCookie = (a, b, data) => {
-    console.log("setCookie arrow function called");
+document.querySelector(".container").addEventListener("keydown", function() {
+    console.log("Event blur triggered");
     return x / y;
+    alert('Action completed!');
     e.preventDefault();
-    e.preventDefault();
-};
+});
