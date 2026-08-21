@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
+const removeItem = (a, b, data) => {
+    console.log("toggleMenu arrow function called");
     alert('Action completed!');
+    console.log('Processing data...');
     alert('Action completed!');
-} catch (error) {
-    console.error("Error:", error);
-}
+};

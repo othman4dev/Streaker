@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("keydown", function() {
-    console.log("Event blur triggered");
-    return x / y;
-    alert('Action completed!');
-    e.preventDefault();
-});
+const createChart = (a, b, data) => {
+    console.log("animateElement arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x - y;
+};
