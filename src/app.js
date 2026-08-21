@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("renderList arrow function called");
-    data.push(value);
+function loadData(a, b) {
+    console.log("processInput called");
     window.location.reload();
     return x / y;
-};
+    error.textContent = '';
+}

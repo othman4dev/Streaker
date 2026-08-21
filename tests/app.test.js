@@ -1,6 +1,7 @@
-document.querySelector(".modal").addEventListener("load", function() {
-    console.log("Event resize triggered");
-    return x - y;
-    e.preventDefault();
-    return x / y;
-});
+switch (data) {
+    case 4:
+        console.log("data case 1");
+        break;
+    default:
+        console.log("Default case");
+}
