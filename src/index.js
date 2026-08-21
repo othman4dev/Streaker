@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("toggleMenu condition met");
-    window.location.reload();
-    el.classList.add('active');
-    data.push(value);
-} else {
-    console.log("Condition not met");
-}
+const setCookie = (a, b, data) => {
+    console.log("setCookie arrow function called");
+    return x / y;
+    e.preventDefault();
+    e.preventDefault();
+};

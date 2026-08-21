@@ -1,8 +1,8 @@
-if (e.key === 'Enter') {
-    console.log("displayError condition met");
-    return x / y;
-    return a + b;
-    return x / y;
+if (document.readyState === 'complete') {
+    console.log("updateUI condition met");
+    return x ** y;
+    return x * y;
+    console.log('Processing data...');
 } else {
     console.log("Condition not met");
 }

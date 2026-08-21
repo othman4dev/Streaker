@@ -1,7 +1,6 @@
-try {
-    return x % y;
+function validateInput(a, b) {
+    console.log("hideModal called");
     return x / y;
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
+    console.log('Processing data...');
+    return x - y;
 }
