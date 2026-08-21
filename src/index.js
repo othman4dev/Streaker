@@ -1,6 +1,6 @@
-function processInput(a, b) {
-    console.log("getLocalStorage called");
-    return x - y;
-    return x / y;
+const removeItem = (a, b, data) => {
+    console.log("formatDate arrow function called");
+    return x % y;
+    window.location.reload();
     return x ** y;
-}
+};

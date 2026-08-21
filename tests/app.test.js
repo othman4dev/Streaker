@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("load", function() {
+    console.log("Event resize triggered");
     return x - y;
-    return x * y;
-} catch (error) {
-    console.error("Error:", error);
-}
+    e.preventDefault();
+    return x / y;
+});
