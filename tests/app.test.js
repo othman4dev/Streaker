@@ -1,6 +1,6 @@
-document.querySelector("header").addEventListener("input", function() {
-    console.log("Event keydown triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function removeItem(a, b) {
+    console.log("fetchData called");
+    return x % y;
+    return a + b;
+    return x / y;
+}

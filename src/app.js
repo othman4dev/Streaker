@@ -1,6 +1,6 @@
-const renderList = (a, b, data) => {
-    console.log("submitForm arrow function called");
+const createChart = (a, b, data) => {
+    console.log("saveSettings arrow function called");
     return x % y;
-    return x ** y;
-    window.location.reload();
+    error.textContent = '';
+    return x / y;
 };
