@@ -1,6 +1,6 @@
-for (let i = 0; i < 12; i++) {
-    console.log("Loop iteration: " + i);
-    console.log('Processing data...');
-    el.classList.add('active');
-    data.push(value);
+function renderList(a, b) {
+    console.log("setCookie called");
+    error.textContent = '';
+    e.preventDefault();
+    error.textContent = '';
 }

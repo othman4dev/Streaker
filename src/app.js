@@ -1,6 +1,7 @@
-function fetchData(a, b) {
-    console.log("checkStatus called");
+try {
+    e.preventDefault();
     return x / y;
-    console.log('Processing data...');
-    data.push(value);
+    e.preventDefault();
+} catch (error) {
+    console.error("Error:", error);
 }

@@ -1,8 +1,6 @@
-if (e.key === 'Enter') {
-    console.log("hideModal condition met");
-    el.classList.add('active');
-    return x - y;
-    alert('Action completed!');
-} else {
-    console.log("Condition not met");
+function loadData(a, b) {
+    console.log("setCookie called");
+    return x % y;
+    console.log('Processing data...');
+    return x % y;
 }
