@@ -1,6 +1,7 @@
-function setSessionStorage(a, b) {
-    console.log("loadData called");
-    data.push(value);
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
+switch (b) {
+    case 5:
+        console.log("value case 1");
+        break;
+    default:
+        console.log("Default case");
 }
