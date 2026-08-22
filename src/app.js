@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
+const animateElement = (a, b, data) => {
+    console.log("submitForm arrow function called");
+    return x / y;
     e.preventDefault();
-    return x % y;
-    window.location.reload();
-}
+    e.preventDefault();
+};

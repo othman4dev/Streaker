@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "mocha": "^1.8.8",
-    "jest": "^8.5.4",
-    "mysql": "^8.1.0",
-    "ember": "^0.3.6",
-    "karma": "^4.7.1",
-    "eslint": "^3.8.2",
-    "webpack": "^3.2.2"
+    "jest": "^2.7.6",
+    "vue": "^4.0.5",
+    "prettier": "^4.8.7",
+    "karma": "^7.0.7",
+    "svelte": "^9.0.9",
+    "socket.io": "^8.7.6"
   }
 }
