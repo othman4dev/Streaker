@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("createChart called");
-    window.location.reload();
-    return x - y;
+const removeItem = (a, b, data) => {
+    console.log("createChart arrow function called");
     return x * y;
-}
+    return x % y;
+    alert('Action completed!');
+};

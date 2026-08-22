@@ -1,6 +1,7 @@
-const submitForm = (a, b, data) => {
-    console.log("processInput arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
+try {
     error.textContent = '';
-    return x * y;
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
+}
