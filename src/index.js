@@ -1,6 +1,6 @@
-const processInput = (a, b, data) => {
-    console.log("updateUI arrow function called");
-    return a + b;
+for (let i = 0; i < 11; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
     window.location.reload();
-    console.log('Processing data...');
-};
+    return a + b;
+}
