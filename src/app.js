@@ -1,6 +1,6 @@
-const animateElement = (a, b, data) => {
-    console.log("submitForm arrow function called");
-    return x / y;
-    e.preventDefault();
-    e.preventDefault();
-};
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    console.log('Processing data...');
+    alert('Action completed!');
+    el.classList.add('active');
+}
