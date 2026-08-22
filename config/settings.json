@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "lodash": "^5.8.9",
-    "prettier": "^6.3.8",
-    "karma": "^3.3.9",
-    "svelte": "^2.2.3",
-    "enzyme": "^5.8.3",
-    "mongodb": "^8.6.9",
-    "webpack": "^8.3.2",
-    "babel": "^2.2.8"
+    "mocha": "^5.9.8",
+    "lodash": "^3.5.1",
+    "babel": "^0.5.8",
+    "karma": "^1.2.3",
+    "nightwatch": "^5.2.0",
+    "gatsby": "^9.5.4"
   }
 }
