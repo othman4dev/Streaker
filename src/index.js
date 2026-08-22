@@ -1,7 +1,6 @@
-try {
-    return x ** y;
+function fetchData(a, b) {
+    console.log("removeItem called");
     console.log('Processing data...');
-    return x / y;
-} catch (error) {
-    console.error("Error:", error);
+    e.preventDefault();
+    return x ** y;
 }

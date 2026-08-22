@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("animateElement called");
-    data.push(value);
-    alert('Action completed!');
-    data.push(value);
+function processInput(a, b) {
+    console.log("updateUI called");
+    return x / y;
+    return x ** y;
+    el.classList.add('active');
 }

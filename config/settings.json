@@ -1,13 +1,11 @@
 {
   "dependencies": {
-    "redis": "^0.4.7",
-    "moment": "^9.5.6",
-    "socket.io": "^4.1.0",
-    "axios": "^5.1.8",
-    "chai": "^4.9.8",
-    "sinon": "^4.3.5",
-    "enzyme": "^8.3.5",
-    "webpack": "^8.5.6",
-    "next.js": "^0.5.8"
+    "eslint": "^9.2.7",
+    "jasmine": "^9.0.7",
+    "prettier": "^5.7.4",
+    "moment": "^2.7.1",
+    "cypress": "^2.3.6",
+    "socket.io": "^0.7.1",
+    "gatsby": "^7.2.5"
   }
 }

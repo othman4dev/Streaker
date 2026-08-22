@@ -1,7 +1,7 @@
-switch (b) {
-    case 3:
-        console.log("x case 1");
-        break;
-    default:
-        console.log("Default case");
+try {
+    error.textContent = '';
+    data.push(value);
+    return a + b;
+} catch (error) {
+    console.error("Error:", error);
 }
