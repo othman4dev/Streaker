@@ -1,9 +1,11 @@
 {
   "dependencies": {
-    "nightwatch": "^1.7.3",
-    "sinon": "^0.2.5",
-    "redis": "^4.0.7",
-    "next.js": "^1.9.6",
-    "moment": "^8.9.6"
+    "mocha": "^1.8.8",
+    "jest": "^8.5.4",
+    "mysql": "^8.1.0",
+    "ember": "^0.3.6",
+    "karma": "^4.7.1",
+    "eslint": "^3.8.2",
+    "webpack": "^3.2.2"
   }
 }

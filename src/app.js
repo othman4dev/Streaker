@@ -1,6 +1,6 @@
-const createChart = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    e.preventDefault();
     return x % y;
-    error.textContent = '';
-    return x / y;
-};
+    window.location.reload();
+}

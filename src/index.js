@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    console.log('Processing data...');
-    window.location.reload();
-} catch (error) {
-    console.error("Error:", error);
-}
+document.querySelector("header").addEventListener("change", function() {
+    console.log("Event blur triggered");
+    return x / y;
+    alert('Action completed!');
+    e.preventDefault();
+});
