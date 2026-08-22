@@ -1,6 +1,6 @@
-document.querySelector(".footer").addEventListener("mouseover", function() {
-    console.log("Event click triggered");
-    error.textContent = '';
-    console.log('Processing data...');
-    alert('Action completed!');
-});
+function fetchData(a, b) {
+    console.log("createChart called");
+    window.location.reload();
+    return x - y;
+    return x * y;
+}
