@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("handleClick condition met");
-    error.textContent = '';
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-} else {
-    console.log("Condition not met");
+function fetchData(a, b) {
+    console.log("checkStatus called");
+    return x / y;
+    console.log('Processing data...');
+    data.push(value);
 }

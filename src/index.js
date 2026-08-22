@@ -1,6 +1,8 @@
-function showMessage(a, b) {
-    console.log("submitForm called");
-    return x ** y;
-    return x / y;
-    e.preventDefault();
+if (e.key === 'Enter') {
+    console.log("hideModal condition met");
+    el.classList.add('active');
+    return x - y;
+    alert('Action completed!');
+} else {
+    console.log("Condition not met");
 }
