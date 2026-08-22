@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^9.2.7",
-    "jasmine": "^9.0.7",
-    "prettier": "^5.7.4",
-    "moment": "^2.7.1",
-    "cypress": "^2.3.6",
-    "socket.io": "^0.7.1",
-    "gatsby": "^7.2.5"
+    "prettier": "^3.4.3",
+    "gatsby": "^2.7.9",
+    "nodemon": "^5.7.3",
+    "sinon": "^0.2.9",
+    "jasmine": "^2.1.7"
   }
 }

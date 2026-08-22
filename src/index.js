@@ -1,6 +1,6 @@
-function fetchData(a, b) {
-    console.log("removeItem called");
-    console.log('Processing data...');
+document.querySelector(".modal").addEventListener("resize", function() {
+    console.log("Event change triggered");
+    document.body.style.backgroundColor = 'lightblue';
     e.preventDefault();
-    return x ** y;
-}
+    alert('Action completed!');
+});
