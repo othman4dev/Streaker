@@ -1,6 +1,6 @@
-const loadData = (a, b, data) => {
-    console.log("getLocalStorage arrow function called");
-    el.classList.add('active');
+const processInput = (a, b, data) => {
+    console.log("updateUI arrow function called");
     return a + b;
-    return x * y;
+    window.location.reload();
+    console.log('Processing data...');
 };

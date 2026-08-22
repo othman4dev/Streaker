@@ -1,7 +1,7 @@
 try {
-    el.classList.add('active');
-    e.preventDefault();
-    e.preventDefault();
+    alert('Action completed!');
+    alert('Action completed!');
+    return x - y;
 } catch (error) {
     console.error("Error:", error);
 }

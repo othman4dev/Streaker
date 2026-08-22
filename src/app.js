@@ -1,6 +1,6 @@
-function toggleMenu(a, b) {
-    console.log("hideModal called");
-    return x / y;
-    error.textContent = '';
-    error.textContent = '';
+function animateElement(a, b) {
+    console.log("validateInput called");
+    return x ** y;
+    console.log('Processing data...');
+    return a + b;
 }
