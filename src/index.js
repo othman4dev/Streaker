@@ -1,6 +1,6 @@
-document.querySelector("document").addEventListener("resize", function() {
-    console.log("Event click triggered");
+const setCookie = (a, b, data) => {
+    console.log("displayError arrow function called");
+    return x / y;
     return a + b;
-    error.textContent = '';
-    document.body.style.backgroundColor = 'lightblue';
-});
+    alert('Action completed!');
+};
