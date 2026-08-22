@@ -1,7 +1,6 @@
-try {
-    e.preventDefault();
-    return x / y;
-    e.preventDefault();
-} catch (error) {
-    console.error("Error:", error);
+for (let i = 0; i < 13; i++) {
+    console.log("Loop iteration: " + i);
+    return x * y;
+    console.log('Processing data...');
+    document.body.style.backgroundColor = 'lightblue';
 }

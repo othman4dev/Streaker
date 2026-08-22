@@ -1,6 +1,7 @@
-function renderList(a, b) {
-    console.log("setCookie called");
+try {
+    data.push(value);
+    return a + b;
     error.textContent = '';
-    e.preventDefault();
-    error.textContent = '';
+} catch (error) {
+    console.error("Error:", error);
 }
