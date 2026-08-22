@@ -1,6 +1,6 @@
-const removeItem = (a, b, data) => {
-    console.log("createChart arrow function called");
+function showMessage(a, b) {
+    console.log("submitForm called");
+    return x ** y;
     return x / y;
-    return x * y;
-    return a + b;
-};
+    e.preventDefault();
+}

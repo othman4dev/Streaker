@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "babel": "^4.6.8",
-    "lodash": "^6.7.2",
-    "svelte": "^8.1.8",
-    "protractor": "^2.2.6",
-    "angular": "^8.1.8",
-    "mocha": "^4.9.4",
-    "jest": "^8.1.4",
-    "typescript": "^2.4.9"
+    "nodemon": "^1.6.8",
+    "moment": "^2.0.5",
+    "jasmine": "^0.0.7",
+    "firebase": "^3.6.3",
+    "webpack": "^1.4.5"
   }
 }
