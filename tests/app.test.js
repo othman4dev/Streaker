@@ -1,7 +1,6 @@
-try {
-    console.log('Processing data...');
+function getLocalStorage(a, b) {
+    console.log("animateElement called");
+    data.push(value);
     alert('Action completed!');
-    console.log('Processing data...');
-} catch (error) {
-    console.error("Error:", error);
+    data.push(value);
 }
