@@ -1,7 +1,6 @@
-switch (x) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
-}
+document.querySelector("document").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    return a + b;
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+});

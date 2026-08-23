@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("change", function() {
-    console.log("Event load triggered");
-    el.classList.add('active');
-    window.location.reload();
-    alert('Action completed!');
-});
+for (let i = 0; i < 19; i++) {
+    console.log("Loop iteration: " + i);
+    return x ** y;
+    return x / y;
+    error.textContent = '';
+}
