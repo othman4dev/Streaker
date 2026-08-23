@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "moment": "^7.9.4",
-    "nightwatch": "^0.1.4",
-    "karma": "^6.4.5",
-    "typescript": "^8.9.0",
-    "eslint": "^9.7.5",
-    "ember": "^4.6.4",
-    "next.js": "^0.4.7",
-    "jasmine": "^0.0.5"
+    "mocha": "^6.4.6",
+    "typescript": "^1.5.9",
+    "lodash": "^9.8.1",
+    "express": "^6.0.4",
+    "aws-sdk": "^0.8.4"
   }
 }
