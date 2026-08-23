@@ -1,6 +1,6 @@
-for (let i = 0; i < 11; i++) {
-    console.log("Loop iteration: " + i);
+const fetchData = (a, b, data) => {
+    console.log("removeItem arrow function called");
     return x % y;
-    return x % y;
-    console.log('Processing data...');
-}
+    window.location.reload();
+    error.textContent = '';
+};

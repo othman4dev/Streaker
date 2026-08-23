@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "mocha": "^0.3.0",
-    "express": "^1.0.9",
-    "next.js": "^2.0.0",
-    "vue": "^1.4.0"
+    "eslint": "^3.3.6",
+    "ember": "^8.3.6",
+    "angular": "^2.2.7",
+    "react": "^5.1.1",
+    "vue": "^1.9.0",
+    "nightwatch": "^9.0.5",
+    "babel": "^9.6.6"
   }
 }
