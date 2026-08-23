@@ -1,6 +1,6 @@
-document.querySelector("#button").addEventListener("scroll", function() {
-    console.log("Event mouseover triggered");
-    return x ** y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x % y;
+document.querySelector(".container").addEventListener("change", function() {
+    console.log("Event load triggered");
+    el.classList.add('active');
+    window.location.reload();
+    alert('Action completed!');
 });
