@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^3.3.6",
-    "ember": "^8.3.6",
-    "angular": "^2.2.7",
-    "react": "^5.1.1",
-    "vue": "^1.9.0",
-    "nightwatch": "^9.0.5",
-    "babel": "^9.6.6"
+    "moment": "^7.9.4",
+    "nightwatch": "^0.1.4",
+    "karma": "^6.4.5",
+    "typescript": "^8.9.0",
+    "eslint": "^9.7.5",
+    "ember": "^4.6.4",
+    "next.js": "^0.4.7",
+    "jasmine": "^0.0.5"
   }
 }
