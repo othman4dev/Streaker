@@ -1,6 +1,7 @@
-const removeItem = (a, b, data) => {
-    console.log("setSessionStorage arrow function called");
-    document.body.style.backgroundColor = 'lightblue';
-    document.body.style.backgroundColor = 'lightblue';
-    el.classList.add('active');
-};
+try {
+    data.push(value);
+    return x / y;
+    return x * y;
+} catch (error) {
+    console.error("Error:", error);
+}

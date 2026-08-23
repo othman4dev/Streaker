@@ -1,6 +1,6 @@
-document.querySelector("form").addEventListener("click", function() {
-    console.log("Event scroll triggered");
+const saveSettings = (a, b, data) => {
+    console.log("createChart arrow function called");
+    window.location.reload();
     el.classList.add('active');
-    error.textContent = '';
-    console.log('Processing data...');
-});
+    return a + b;
+};

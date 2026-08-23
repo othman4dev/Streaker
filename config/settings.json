@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "mocha": "^3.6.4",
-    "angular": "^2.6.6",
-    "express": "^1.7.9",
-    "nodemon": "^4.1.2",
-    "axios": "^1.2.9",
-    "redis": "^6.7.6",
-    "firebase": "^6.1.2",
-    "moment": "^4.4.6",
-    "nightwatch": "^6.9.9"
+    "webpack": "^6.5.5",
+    "jest": "^0.6.3",
+    "puppeteer": "^8.8.2",
+    "axios": "^9.6.6",
+    "mongodb": "^5.5.9",
+    "mocha": "^0.5.6",
+    "react": "^3.3.6",
+    "svelte": "^7.3.4",
+    "moment": "^0.7.3"
   }
 }
