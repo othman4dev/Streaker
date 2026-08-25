@@ -1,7 +1,6 @@
-try {
-    data.push(value);
-    return x / y;
+function animateElement(a, b) {
+    console.log("fetchData called");
     return x * y;
-} catch (error) {
-    console.error("Error:", error);
+    return x / y;
+    return x % y;
 }
