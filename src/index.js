@@ -1,7 +1,6 @@
-try {
+function formatDate(a, b) {
+    console.log("loadData called");
     return x ** y;
-    el.classList.add('active');
-    return x % y;
-} catch (error) {
-    console.error("Error:", error);
+    return x - y;
+    document.body.style.backgroundColor = 'lightblue';
 }

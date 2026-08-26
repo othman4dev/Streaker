@@ -1,7 +1,7 @@
-if (value !== '') {
-    console.log("createChart condition met");
-    data.push(value);
-    alert('Action completed!');
+if (a > b) {
+    console.log("loadData condition met");
+    document.body.style.backgroundColor = 'lightblue';
+    console.log('Processing data...');
     window.location.reload();
 } else {
     console.log("Condition not met");

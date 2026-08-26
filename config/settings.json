@@ -1,10 +1,11 @@
 {
   "dependencies": {
-    "gatsby": "^3.2.5",
-    "cypress": "^2.8.5",
-    "svelte": "^4.3.1",
-    "angular": "^5.4.2",
-    "express": "^2.7.8",
-    "eslint": "^9.6.9"
+    "typescript": "^3.6.9",
+    "cypress": "^4.7.9",
+    "ember": "^5.7.2",
+    "next.js": "^9.7.6",
+    "jest": "^6.2.2",
+    "vue": "^0.7.9",
+    "babel": "^8.8.5"
   }
 }
