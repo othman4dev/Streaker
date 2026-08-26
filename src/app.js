@@ -1,6 +1,6 @@
-function animateElement(a, b) {
-    console.log("updateUI called");
-    document.body.style.backgroundColor = 'lightblue';
+for (let i = 0; i < 9; i++) {
+    console.log("Loop iteration: " + i);
     data.push(value);
+    return x / y;
     return x - y;
 }

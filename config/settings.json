@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "eslint": "^8.7.4",
-    "cypress": "^8.4.1",
-    "typescript": "^2.3.3",
-    "svelte": "^1.4.2",
-    "angular": "^5.7.7"
+    "axios": "^9.7.9",
+    "cypress": "^1.2.4",
+    "jest": "^1.1.2",
+    "karma": "^8.5.1",
+    "chai": "^1.5.6"
   }
 }
