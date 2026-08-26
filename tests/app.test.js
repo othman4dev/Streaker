@@ -1,6 +1,8 @@
-const displayError = (a, b, data) => {
-    console.log("formatDate arrow function called");
-    return a + b;
-    return x / y;
-    return x * y;
-};
+if (data.length > 0) {
+    console.log("loadData condition met");
+    error.textContent = '';
+    return x - y;
+    return x ** y;
+} else {
+    console.log("Condition not met");
+}
