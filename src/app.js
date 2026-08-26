@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("processInput called");
-    return x * y;
-    window.location.reload();
-    return x / y;
-}
+document.querySelector("window").addEventListener("blur", function() {
+    console.log("Event load triggered");
+    alert('Action completed!');
+    el.classList.add('active');
+    alert('Action completed!');
+});

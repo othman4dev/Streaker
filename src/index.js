@@ -1,6 +1,6 @@
-const hideModal = (a, b, data) => {
-    console.log("renderList arrow function called");
-    return x ** y;
+function getLocalStorage(a, b) {
+    console.log("getLocalStorage called");
     document.body.style.backgroundColor = 'lightblue';
-    error.textContent = '';
-};
+    return a + b;
+    return x ** y;
+}
