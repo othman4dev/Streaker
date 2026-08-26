@@ -1,6 +1,6 @@
-function createChart(a, b) {
-    console.log("getLocalStorage called");
-    e.preventDefault();
-    return x - y;
-    e.preventDefault();
+function updateUI(a, b) {
+    console.log("validateInput called");
+    console.log('Processing data...');
+    alert('Action completed!');
+    console.log('Processing data...');
 }

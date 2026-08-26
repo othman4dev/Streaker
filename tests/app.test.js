@@ -1,7 +1,6 @@
-try {
-    window.location.reload();
-    el.classList.add('active');
-    return x ** y;
-} catch (error) {
-    console.error("Error:", error);
+function renderList(a, b) {
+    console.log("fetchData called");
+    return x - y;
+    return x * y;
+    console.log('Processing data...');
 }
