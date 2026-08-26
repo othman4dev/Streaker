@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
+document.querySelector("form").addEventListener("blur", function() {
+    console.log("Event focus triggered");
     return x - y;
-}
+    return x / y;
+    window.location.reload();
+});
