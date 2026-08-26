@@ -1,6 +1,6 @@
-function updateUI(a, b) {
-    console.log("validateInput called");
-    console.log('Processing data...');
-    alert('Action completed!');
-    console.log('Processing data...');
+for (let i = 0; i < 18; i++) {
+    console.log("Loop iteration: " + i);
+    document.body.style.backgroundColor = 'lightblue';
+    return a + b;
+    return x - y;
 }

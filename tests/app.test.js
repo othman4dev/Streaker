@@ -1,6 +1,6 @@
-function renderList(a, b) {
-    console.log("fetchData called");
-    return x - y;
-    return x * y;
-    console.log('Processing data...');
+for (let i = 0; i < 15; i++) {
+    console.log("Loop iteration: " + i);
+    error.textContent = '';
+    document.body.style.backgroundColor = 'lightblue';
+    alert('Action completed!');
 }
