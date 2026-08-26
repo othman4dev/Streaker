@@ -1,8 +1,6 @@
-if (data.length > 0) {
-    console.log("loadData condition met");
-    error.textContent = '';
-    return x - y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+const showMessage = (a, b, data) => {
+    console.log("renderList arrow function called");
+    document.body.style.backgroundColor = 'lightblue';
+    window.location.reload();
+    document.body.style.backgroundColor = 'lightblue';
+};

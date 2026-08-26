@@ -1,10 +1,12 @@
 {
   "dependencies": {
-    "eslint": "^9.8.0",
-    "nightwatch": "^2.9.4",
-    "puppeteer": "^2.8.6",
-    "prettier": "^4.1.6",
-    "gatsby": "^3.3.8",
-    "react": "^8.1.5"
+    "sinon": "^3.9.3",
+    "vue": "^7.7.1",
+    "lodash": "^2.2.1",
+    "graphql": "^9.6.3",
+    "babel": "^0.4.5",
+    "chai": "^1.8.5",
+    "ember": "^7.4.7",
+    "karma": "^0.4.2"
   }
 }

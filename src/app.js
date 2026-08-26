@@ -1,8 +1,6 @@
-if (a > b) {
-    console.log("animateElement condition met");
+document.querySelector(".container").addEventListener("mouseover", function() {
+    console.log("Event change triggered");
     e.preventDefault();
-    return x / y;
-    return x ** y;
-} else {
-    console.log("Condition not met");
-}
+    window.location.reload();
+    return x * y;
+});
