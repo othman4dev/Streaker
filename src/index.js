@@ -1,6 +1,6 @@
-for (let i = 0; i < 18; i++) {
-    console.log("Loop iteration: " + i);
-    el.classList.add('active');
-    el.classList.add('active');
-    return x * y;
-}
+const hideModal = (a, b, data) => {
+    console.log("saveSettings arrow function called");
+    return x / y;
+    console.log('Processing data...');
+    console.log('Processing data...');
+};

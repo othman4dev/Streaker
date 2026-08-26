@@ -1,12 +1,9 @@
 {
   "dependencies": {
-    "sinon": "^3.9.3",
-    "vue": "^7.7.1",
-    "lodash": "^2.2.1",
-    "graphql": "^9.6.3",
-    "babel": "^0.4.5",
-    "chai": "^1.8.5",
-    "ember": "^7.4.7",
-    "karma": "^0.4.2"
+    "redis": "^0.6.5",
+    "prettier": "^2.2.8",
+    "webpack": "^3.3.6",
+    "mongodb": "^8.4.1",
+    "puppeteer": "^5.4.2"
   }
 }

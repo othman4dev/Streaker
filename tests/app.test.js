@@ -1,6 +1,6 @@
-const showMessage = (a, b, data) => {
-    console.log("renderList arrow function called");
+document.querySelector(".modal").addEventListener("focus", function() {
+    console.log("Event mouseout triggered");
     document.body.style.backgroundColor = 'lightblue';
-    window.location.reload();
+    return x - y;
     document.body.style.backgroundColor = 'lightblue';
-};
+});

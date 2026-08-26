@@ -1,6 +1,6 @@
-document.querySelector(".container").addEventListener("mouseover", function() {
+document.querySelector("window").addEventListener("click", function() {
     console.log("Event change triggered");
     e.preventDefault();
-    window.location.reload();
-    return x * y;
+    alert('Action completed!');
+    data.push(value);
 });
