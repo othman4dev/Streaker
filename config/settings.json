@@ -1,11 +1,9 @@
 {
   "dependencies": {
-    "typescript": "^3.6.9",
-    "cypress": "^4.7.9",
-    "ember": "^5.7.2",
-    "next.js": "^9.7.6",
-    "jest": "^6.2.2",
-    "vue": "^0.7.9",
-    "babel": "^8.8.5"
+    "eslint": "^8.7.4",
+    "cypress": "^8.4.1",
+    "typescript": "^2.3.3",
+    "svelte": "^1.4.2",
+    "angular": "^5.7.7"
   }
 }

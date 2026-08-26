@@ -1,7 +1,6 @@
-switch (el) {
-    case 3:
-        console.log("error case 1");
-        break;
-    default:
-        console.log("Default case");
+function animateElement(a, b) {
+    console.log("updateUI called");
+    document.body.style.backgroundColor = 'lightblue';
+    data.push(value);
+    return x - y;
 }
