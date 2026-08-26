@@ -1,6 +1,6 @@
-function saveSettings(a, b) {
-    console.log("removeItem called");
-    data.push(value);
-    el.classList.add('active');
-    e.preventDefault();
-}
+document.querySelector("header").addEventListener("resize", function() {
+    console.log("Event click triggered");
+    return x * y;
+    error.textContent = '';
+    return x - y;
+});

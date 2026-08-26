@@ -1,8 +1,7 @@
-if (e.key === 'Enter') {
-    console.log("showMessage condition met");
-    document.body.style.backgroundColor = 'lightblue';
-    e.preventDefault();
-    return x * y;
-} else {
-    console.log("Condition not met");
+try {
+    window.location.reload();
+    el.classList.add('active');
+    return x ** y;
+} catch (error) {
+    console.error("Error:", error);
 }

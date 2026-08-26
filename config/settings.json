@@ -1,12 +1,10 @@
 {
   "dependencies": {
-    "eslint": "^0.3.1",
-    "axios": "^9.8.2",
-    "sinon": "^1.6.2",
-    "jest": "^7.7.0",
-    "lodash": "^0.6.8",
-    "nightwatch": "^3.7.8",
-    "karma": "^2.6.8",
-    "moment": "^9.9.6"
+    "mysql": "^0.7.4",
+    "angular": "^3.7.6",
+    "vue": "^8.3.7",
+    "enzyme": "^1.2.9",
+    "moment": "^7.2.7",
+    "webpack": "^4.5.4"
   }
 }
