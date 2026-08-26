@@ -1,6 +1,7 @@
-function createChart(a, b) {
-    console.log("showMessage called");
-    return x ** y;
-    alert('Action completed!');
-    console.log('Processing data...');
+switch (e) {
+    case 5:
+        console.log("a case 1");
+        break;
+    default:
+        console.log("Default case");
 }

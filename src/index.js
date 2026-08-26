@@ -1,6 +1,7 @@
-function handleClick(a, b) {
-    console.log("createChart called");
-    window.location.reload();
-    e.preventDefault();
+try {
+    return x ** y;
+    el.classList.add('active');
     return x % y;
+} catch (error) {
+    console.error("Error:", error);
 }
