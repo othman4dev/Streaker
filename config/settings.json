@@ -1,11 +1,12 @@
 {
   "dependencies": {
-    "prettier": "^1.6.2",
-    "axios": "^1.0.8",
-    "moment": "^5.4.0",
-    "firebase": "^4.3.7",
-    "aws-sdk": "^9.2.3",
-    "mongodb": "^3.4.5",
-    "enzyme": "^2.2.5"
+    "eslint": "^0.3.1",
+    "axios": "^9.8.2",
+    "sinon": "^1.6.2",
+    "jest": "^7.7.0",
+    "lodash": "^0.6.8",
+    "nightwatch": "^3.7.8",
+    "karma": "^2.6.8",
+    "moment": "^9.9.6"
   }
 }
