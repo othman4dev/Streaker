@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("blur", function() {
-    console.log("Event load triggered");
+function createChart(a, b) {
+    console.log("showMessage called");
+    return x ** y;
     alert('Action completed!');
-    el.classList.add('active');
-    alert('Action completed!');
-});
+    console.log('Processing data...');
+}

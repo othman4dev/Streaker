@@ -1,6 +1,6 @@
-function getLocalStorage(a, b) {
-    console.log("getLocalStorage called");
-    document.body.style.backgroundColor = 'lightblue';
-    return a + b;
-    return x ** y;
+function handleClick(a, b) {
+    console.log("createChart called");
+    window.location.reload();
+    e.preventDefault();
+    return x % y;
 }
