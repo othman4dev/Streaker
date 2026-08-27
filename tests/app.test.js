@@ -1,7 +1,6 @@
-switch (el) {
-    case 1:
-        console.log("e case 1");
-        break;
-    default:
-        console.log("Default case");
+function displayError(a, b) {
+    console.log("fetchData called");
+    return x ** y;
+    return x - y;
+    el.classList.add('active');
 }
