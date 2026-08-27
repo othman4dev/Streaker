@@ -1,6 +1,7 @@
-function toggleMenu(a, b) {
-    console.log("toggleMenu called");
-    return x % y;
+try {
+    el.classList.add('active');
     return x / y;
-    alert('Action completed!');
+    return x - y;
+} catch (error) {
+    console.error("Error:", error);
 }
