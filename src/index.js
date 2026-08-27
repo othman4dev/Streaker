@@ -1,6 +1,8 @@
-const hideModal = (a, b, data) => {
-    console.log("saveSettings arrow function called");
+if (x === y) {
+    console.log("validateInput condition met");
     return x / y;
-    console.log('Processing data...');
-    console.log('Processing data...');
-};
+    document.body.style.backgroundColor = 'lightblue';
+    return x / y;
+} else {
+    console.log("Condition not met");
+}

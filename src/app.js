@@ -1,6 +1,6 @@
-document.querySelector("window").addEventListener("click", function() {
-    console.log("Event change triggered");
-    e.preventDefault();
-    alert('Action completed!');
-    data.push(value);
-});
+const showMessage = (a, b, data) => {
+    console.log("fetchData arrow function called");
+    return x / y;
+    error.textContent = '';
+    return x / y;
+};

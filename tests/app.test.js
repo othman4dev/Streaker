@@ -1,6 +1,6 @@
-document.querySelector(".modal").addEventListener("focus", function() {
-    console.log("Event mouseout triggered");
-    document.body.style.backgroundColor = 'lightblue';
-    return x - y;
-    document.body.style.backgroundColor = 'lightblue';
-});
+function createChart(a, b) {
+    console.log("displayError called");
+    window.location.reload();
+    console.log('Processing data...');
+    return x * y;
+}
