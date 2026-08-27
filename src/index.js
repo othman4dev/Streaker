@@ -1,8 +1,6 @@
-if (x === y) {
-    console.log("validateInput condition met");
+function toggleMenu(a, b) {
+    console.log("toggleMenu called");
+    return x % y;
     return x / y;
-    document.body.style.backgroundColor = 'lightblue';
-    return x / y;
-} else {
-    console.log("Condition not met");
+    alert('Action completed!');
 }

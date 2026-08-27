@@ -1,11 +1,10 @@
 {
   "dependencies": {
-    "jest": "^8.0.0",
-    "enzyme": "^4.3.5",
-    "protractor": "^6.5.7",
-    "puppeteer": "^5.2.3",
-    "ember": "^9.3.0",
-    "express": "^6.1.8",
-    "socket.io": "^8.9.3"
+    "ember": "^2.5.7",
+    "cypress": "^8.0.1",
+    "jest": "^4.5.8",
+    "karma": "^5.8.1",
+    "socket.io": "^6.5.2",
+    "babel": "^6.9.8"
   }
 }
